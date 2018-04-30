@@ -2,12 +2,20 @@
 
 import sys
 import re
+import argparse
+
 from xml.dom.pulldom import START_ELEMENT, CHARACTERS, END_ELEMENT, parse
 from xml.dom.minidom import Element, Text
 
-doc = parse(sys.argv[1])
-debug = len(sys.argv) == 3 and sys.argv[2] == "--debug"
-debug_more = len(sys.argv) == 3 and sys.argv[2] == "--debug-more"
+parser = argparse.ArgumentParser(description='SyceronBrut text content extraction for Common Voice')
+parser.add_argument('--debug', action='store_true', help='Some debug')
+parser.add_argument('--debug-more', action='store_true', help='Some more debug')
+
+parser.add_argument('file', type=str, help='Source XML file')
+
+args = parser.parse_args()
+
+doc = parse(args.file)
 indent_level = 0
 visited = []
 
@@ -42,14 +50,14 @@ for event, node in doc:
         print(seance_context)
         seance_context = {}
 
-  if debug:
+  if args.debug:
     print("DEBUG:", "/".join(visited), visited)
     print("DEBUG:", " "*indent_level, str(type(node)), ":", node.toxml())
 
   if type(node) == Text:
     visitedFullPath = "@".join(visited)
 
-    if debug_more:
+    if args.debug_more:
         print("DEBUG:", "visitedFullPath=" + visitedFullPath, ":", node.nodeValue, )
 
     if any(regex.match(visitedFullPath) for regex in accepted_seance_context):
