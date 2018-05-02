@@ -1,0 +1,5 @@
+decorator==4.3.0
+networkx==2.1
+pkg-resources==0.0.0
+pydot==1.2.4
+pyparsing==2.2.0
