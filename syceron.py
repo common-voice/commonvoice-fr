@@ -70,11 +70,11 @@ for event, node in doc:
       visited.append(node.tagName)
       
       if node.tagName == "DateSeance":
-        if seance_context is not None:
+        if seance_context is not None and 'texte' in seance_context:
           output_seance_name = os.path.join(args.output, seance_context['DateSeance'][0]) + '.txt'
           print('output_seance_name', output_seance_name)
           with open(output_seance_name, 'w') as output_seance:
-            output_seance.write(json.dumps(seance_context))
+            output_seance.write('\n'.join(seance_context['texte']))
 
         seance_context = {}
 
