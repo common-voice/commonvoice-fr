@@ -1,0 +1,285 @@
+La séance est ouverte.(La séance est ouverte à neuf heures trente.)Discussion, après engagement de la procédure accélérée, d’un projet de loi L’ordre du jour appelle la discussion, après engagement de la procédure accélérée, du projet de loi ratifiant l’ordonnance n 368, 607).
+Monsieur le président, monsieur le président de la commission des finances, de l’économie générale et du contrôle budgétaire, madame la rapporteure, mesdames et messieurs les députés, le projet de loi qui vous est présenté permet la ratification de l’ordonnance n La nouvelle directive de 2015 fixe les règles régissant l’accès à l’activité de services de paiement, la supervision des prestataires de services de paiement, les modalités techniques applicables aux opérations de paiement ainsi que les droits et obligations des parties à un service de paiement.
+Elle vise en cela à promouvoir un cadre ouvert et concurrentiel dans le secteur des paiements, tout en rehaussant les standards de sécurité des transactions.
+Elle améliore en outre le cadre existant issu de la première directive et l’adapte à l’émergence de nouvelles pratiques.
+Elle comporte trois principaux points.
+Tout d’abord, elle reconnaît de nouveaux acteurs venant s’intercaler entre les banques et leurs clients afin de rendre de nouveaux services et de faciliter les paiements, tout en préservant la sécurité des dispositifs.
+Ces nouveaux acteurs sont notamment les agrégateurs de comptes, qui présentent un potentiel important pour les particuliers comme pour les entreprises en ce qu’ils offrent un accès pédagogique à leurs informations financières.
+Ce sont également les initiateurs de paiement, dont l’activité d’intermédiaire doit permettre de fluidifier la réalisation des virements.
+Ensuite, cette directive renforce les conditions d’agrément et de supervision des établissements de paiement, en particulier en développant les pouvoirs des superviseurs des pays dans lesquels les établissements exercent librement leurs services.
+Enfin, elle élève les standards de sécurité pour les transactions, notamment en généralisant l’authentification forte pour les transactions en ligne.
+Le présent projet de loi vise à procéder à la ratification de cette ordonnance par le Parlement.cashback , et l’accélération de la sécurisation du dispositif issu de la directive.
+Il s’agit là d’éléments nouveaux par rapport au texte de l’ordonnance.
+En premier lieu, s’agissant de l’accompagnement de la pratique dite du cashback Ce service présente de nombreux avantages sur lesquels je souhaite appeler votre attention.
+Ils justifient le souhait du Gouvernement de voir adopter rapidement un cadre qui en favorisera le développement.
+Ce service présente tout d’abord des avantages pour les commerçants, lesquels pourront ainsi proposer un nouveau service à leurs clients, service qu’ils pourront facturer s’ils le souhaitent.
+Ce service additionnel permettra d’attirer davantage de clientèle en magasin.
+Il offrira en outre aux commerçants un moyen de gérer plus efficacement leurs encours en caisse.
+Les associations de commerçants ont d’ailleurs unanimement dit leur intérêt pour ce nouveau service.
+Celui-ci bénéficiera également aux consommateurs qui verront ainsi élargie la palette des services auxquels ils peuvent accéder auprès de leurs commerçants.
+Plus important encore, ce service permettra de répondre à l’isolement des territoires les plus reculés où les relais d’accès aux espèces sont souvent trop limités ou trop éloignés.
+C’est là une réponse à une préoccupation sur laquelle mon attention est régulièrement appelée.
+C’est par conséquent une proposition à laquelle, je le sais, les élus locaux sont très attachés.
+L’amendement proposé par le Gouvernement permettra ainsi tout à la fois d’offrir un cadre lisible et stable pour les commerçants, afin d’encourager cette pratique, d’assurer la qualité de la circulation de la monnaie fiduciaire sur l’ensemble du territoire et de prévenir les risques de blanchiment en précisant ses modalités, en particulier en fixant des seuils de retrait.application  permettant de garantir un accès ouvert mais sécurisé des agrégateurs de compte et initiateurs de paiement aux données de comptes de paiement détenues par les établissements bancaires.
+Cette période transitoire présente des risques en termes de cyber-sécurité pour l’ensemble des acteurs, car la pratique actuelle dite du web scraping Ce dispositif fera l’objet de tests ouverts garantissant que tous les nouveaux acteurs seront capables de poursuivre leurs activités dans de bonnes conditions.
+(Applaudissements sur les bancs du groupe REM.) Monsieur le président, madame la secrétaire d’État auprès du ministre de l’économie et des finances, monsieur le président de la commission des finances, mes chers collègues, je vous prie tout d’abord d’excuser M.
+le rapporteur général qui, suite aux intempéries, a dû rentrer dans sa circonscription.web scraping  non identifié.
+Or elle présente des fragilités aussi bien sur le plan de la sécurité des données que sur le plan juridique.
+Un des problèmes qui se posent est celui de l’établissement des responsabilités en cas d’opérations mal exécutées.
+Sans identification des prestataires tiers, il est très difficile de déterminer les responsabilités de chacun.
+Voilà pourquoi la directive encadre ces pratiques.
+D’une part, elle oblige les banques à fournir aux prestataires tiers l’accès aux données nécessaires à leur activit é.
+D’autre part, elle sécurise cet accès en prévoyant que les prestataires tiers s’identifieront eux-mêmes auprès des banques via  une interface sécurisée dédiée.
+Ils ne pourront plus utiliser les identifiants de leurs clients.
+En d’autres termes, le web scraping  non identifié sera interdit.
+Ces dispositions ne s’appliqueront qu’à l’issue d’une période transitoire de dix-huit mois, qui commencera à partir de l’adoption d’un règlement délégué fixant des normes techniques de réglementation.
+La Commission européenne a publié un projet de règlement, qui, selon toute vraisemblance, devrait être adopté à la fin de ce mois.
+Ce projet fixe les exigences que devront respecter les interfaces dédiées.
+Il prévoit aussi un mécanisme de secours, dans l’hypothèse où ces interfaces seraient défaillantes.
+En pareil cas, les banques seront dans l’obligation de mettre leur interface client à la disposition des prestataires tiers, afin que ceux-ci puissent accéder aux données en s’identifiant.
+Toutefois, les banques pourront être exemptées de cette obligation dès lors que certaines conditions garantissant la performance des interfaces dédiées seront respectées.
+Durant la phase de transition, les interfaces seront testées par les prestataires tiers.
+, qui correspondent aux critères de sécurité que la Commission a définis dans son projet.
+Pour accéder aux données bancaires, les prestataires tiers auront l’obligation de s’identifier via via  un système d’authentification forte.
+Cette procédure d’accès combinera plusieurs facteurs d’identification, assurant un niveau adéquat de sécurité.
+De plus, les règles de supervision et de coopération transfrontalière sont rénovées.
+Les conditions d’agrément des services de paiement sont complétées.
+La communication entre les différentes autorités de supervision des États membres, dans le cadre du droit d’établissement et de la liberté de prestation de services, est rendue plus systématique.cashback .cashback  de son camp d’application.
+De ce fait, le projet de loi de ratification est l’occasion de fixer des règles de droit interne.
+Si ces dernières sont adoptées, il sera alors possible pour un client de payer par carte de paiement un bien plus cher que sa valeur initiale chez un commerçant, afin que ce dernier lui rende la monnaie en espèces.
+Notons que le cashback  est répandu chez nos voisins et donne satisfaction.
+Cette mesure bénéficiera bien sûr aux consommateurs.
+Rappelons que dans certaines zones du territoire, le maillage des distributeurs automatiques de paiement et des agences bancaires se desserre.
+D’autre part, les clients des commerçants réaliseraient ainsi deux opérations en une, à savoir un retrait d’espèces et le paiement du bien ou du service.
+Pour les commerçants, le cashback  Une telle réglementation à deux vitesses n’est pas satisfaisante.
+Toutefois, le projet de loi de ratification ne peut être le véhicule d’une extension des règles de la directive aux autres types de compte.
+Nous y reviendrons lors de la discussion des amendements.
+Mes chers collègues, après l’adoption de ce projet de loi de ratification, nous devrons veiller à sa bonne application et engager une réflexion sur l’extension de son champ.
+(Applaudissements sur les bancs des groupes REM et MODEM.) La sécurité des utilisateurs sera renforcée par une plus grande protection des données.
+Celles-ci seront communiquées via  des interfaces, dites API, mises en place directement par les établissements de crédit et conformes aux normes édictées par la Commission européenne.
+Les fintech seront ainsi dans l’obligation de s’identifier, via  La récupération des informations, plus sécurisée, permettra aux clients de ces nouveaux acteurs de réduire le risque d’une fuite ou d’un vol d’informations.
+La confiance dans l’utilisation de ce type d’application sera ainsi renforcée.
+Je souhaite toutefois appeler l’attention du Gouvernement sur plusieurs points, sur lesquels il conviendra d’être vigilant.
+L’accès aux données via  La surtransposition à la française a vécu.
+Il ne faut plus lui donner d’avenir,  Je voudrais dire aussi un mot sur le cashback Il ne faut pas sous-estimer ce risque.(Applaudissements sur les bancs du groupe LR et MODEM, ainsi que sur quelques bancs du groupe REM.) Nous en venons à la discussion générale.
+Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, madame la rapporteure, nous abordons l’examen du projet de loi ratifiant l’ordonnance portant transposition de la directive européenne concernant les services de paiement dans le marché intérieur.
+Par ailleurs, les conditions de cette transposition ne simplifient pas le travail des parlementaires sur un sujet certes complexe mais, on l’a rappelé, décisif pour la vie quotidienne.
+Notre groupe est traditionnellement opposé aux habilitations données au Gouvernement à légiférer par ordonnances, car cette procédure prive de facto  la représentation nationale d’un débat conséquent sur le sujet, ce que nous regrettons.
+La nouvelle directive de 2015, dont nous parlons aujourd’hui, vient transformer ce cadre législatif avec l’intégration au code monétaire et financier de deux nouveaux services de paiement, des modifications apportées au régime d’agrément, de nouveaux droits et obligations pour les utilisateurs et le renforcement des pouvoirs de l’Autorité de contrôle prudentiel et de résolution, l’ACPR, en matière de supervision des activités transfrontalières.
+Par ailleurs, en matière de surendettement, la situation reste largement préoccupante bien que le nombre de personnes concernées soit en diminution, selon la dernière enquête de la Banque de France, publiée cette semaine.
+Cette enquête montre que le surendettement touche de plus en plus les populations les plus fragiles, notamment les adultes isolés et les personnes dont les revenus sont inférieurs au SMIC ou aux minima sociaux.
+Mes chers collègues, cette bascule dans la spirale du surendettement a des conséquences dramatiques pour toutes ces personnes ainsi que pour leurs familles.
+Cette situation nous appelle à la réaction.
+Aussi notre groupe fera-t-il des propositions, là encore, pour briser la mécanique qui conduit trop de nos concitoyens dans le surendettement.
+(Applaudissements sur les bancs du groupe NG.) D’aucuns diront que nous allons trop loin, d’autres, pas assez.
+Nous leur répondrons que tous les acteurs du paiement, de la banque jusqu’à la fintech et au consommateur, trouveront dans ce texte un avantage et entreront ainsi dans la transformation digitale de cette activité avec plus de sérénité.
+Illustrons concrètement ce compromis.
+Jusqu’à présent, les clients des fintechs devaient fournir leurs codes d’accès aux banques en ligne pour bénéficier de leurs services, en particulier pour l’agrégation de comptes.
+Pour accéder aux données bancaires de leurs clients, les fintechs elles-mêmes étaient contraintes de se faire passer pour eux sur le site de leur banque, selon la technique de l’accès direct non identifié, ou web scraping .
+En l’absence de régulation, cette pratique présente des fragilités inquiétantes en termes de sécurité des données.
+Dans ces conditions, la DSP 2 a créé un statut juridique pour les activités de service d’initiation de paiement et de service d’information sur les comptes.
+Il s’accompagne de l’obligation, pour les banques, de mettre à disposition les informations nécessaires.
+Ces transmissions se feront par l’intermédiaire d’interfaces sécurisées, les API.
+La pratique du web scraping  non  identifié sera interdite.
+Pour autant, il ne s’agit pas de déshabiller Pierre pour habiller Paul.
+Les banques auront désormais l’opportunité de prendre appui sur ces données afin d’améliorer la connaissance de leurs clients, notamment en développant elles aussi de nouveaux services.
+Certaines d’entre elles ont déjà commencé ce travail.(Applaudissements sur les bancs du groupe REM.) Néanmoins, de tels bouleversements ne sont pas sans incidences, et nous devons aussi adapter notre législation et l’harmoniser au niveau européen pour servir les intérêts des usagers que nous sommes.
+En effet, que ce soit dans le cadre des missions des autorités publiques ou des travaux d’harmonisation des standards techniques, l’échelon européen joue un rôle croissant dans la définition de règles de sécurité pour les moyens de paiement.
+Les députés Les Républicains le voteront donc, car il contient des avancées indéniables pour protéger les utilisateurs des services de paiement et ne soulève par ailleurs aucun risque majeur.
+La directive visée prend la mesure des nouveaux problèmes soulignés par les différents acteurs du secteur, en particulier ceux du web scraping .
+Elle est d’ailleurs saluée par le monde de la fintech, qui reconnaît la qualité du travail fourni.
+L’utilisateur doit pouvoir bénéficier de plus de choix, d’une meilleure transparence en matière d’information et d’une sécurité supplémentaire, voire d’une protection renforcée de ses données, thème important s’il en est et dont nous étions d’ailleurs saisis, jusqu’à hier, à travers un projet de loi débattu dans notre hémicycle.
+La nouvelle réglementation doit enfin permettre d’abaisser substantiellement le niveau du montant que les prestataires de services de paiement peuvent imposer à leurs clients en cas d’utilisation frauduleuse de leurs instruments de paiement.
+Vous nous avez indiqué, madame la secrétaire d’État, que la directive est très attendue, en particulier dans les territoires les plus isolés, où les moyens de paiement dématérialisés sont indispensables.
+Il n’en demeure pas moins que le déploiement des infrastructures haut débit doit être assuré sur l’ensemble du territoire, pour que l’ensemble de nos concitoyens bénéficient de ces nouvelles technologies.
+Néanmoins, la directive de 2015, déjà datée, n’aura que trop peu d’effet.
+En effet, le temps long de la législation est déconnecté du temps court de l’innovation technologique.
+L’innovation, parce qu’elle vise à offrir un avantage comparatif majeur sur la concurrence, est éphémère, voire très vite dépassée, engloutie par le rythme effréné de la recherche, qui suscite de nouvelles découvertes, de nouvelles innovations.
+La technologie comme les nouveaux usages seront donc toujours en avance sur le législateur que nous sommes.
+Madame la rapporteure, lorsque, comme certains de mes collègues, je vous ai fait remarquer en commission que le délai prévu par la directive était déjà dépassé, vous nous avez indiqué que le Gouvernement déposerait en séance un amendement pour réduire le délai transitoire et accélérer la transposition, et Mme la secrétaire d’État vient de le confirmer.
+Des progrès semblent également s’imposer pour renforcer l’authentification des utilisateurs lors des paiements électroniques, ce qui est une très bonne chose.
+Madame la rapporteure, vous nous avez indiqué en commission, que vous nous apporteriez en séance des précisions sur ce règlement délégué et son impact sur le sujet qui nous intéresse aujourd’hui.
+Vous l’avez fait aujourd’hui, ce dont je vous remercie.
+Évidemment, comme l’a rappelé le président de la commission des finances, nous devons nous garder de toute surtransposition des directives.
+Il nous faut rester vigilants dans ce domaine car si surtransposer une directive est parfois tentant, nous le regrettons souvent par la suite.
+Il n’en est heureusement pas question dans le cas présent.
+Pour l’heure, les députés du groupe Les Républicains voteront ce texte.
+(Applaudissements sur les bancs des groupes LR et NG ainsi que sur plusieurs bancs du groupe REM.)  Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, madame la rapporteure, mes chers collègues, à l’heure de l’hyperconnexion, de la loi sur la protection des données personnelles et face à l’intelligence artificielle ou à la cybermalveillance, très réelle, à travers ce texte de ratification de l’ordonnance transposant la directive européenne concernant les services de paiement dans le marché intérieur, l’Europe est protectrice et la France l’est aussi tout en donnant de la liberté.
+Par ce texte, nous apportons plus de liberté et plus de sécurité et nous gagnons sur les deux tableaux.
+Le groupe du Mouvement démocrate et apparentés soutiendra évidemment ce texte… …et souhaite que soit menée une évaluation précise de son impact, plus particulièrement sur deux axes.
+Tout d’abord, sur les questions de sécurité des réseaux et sur les systèmes d’accès aux comptes, afin que la France reste parmi les pays les plus sûrs dans ce domaine et qu’elle puisse prendre en compte les évolutions rapides en matière de cybersécurité, les données bancaires étant extrêmement sensibles.
+Mes chers collègues, soyons très attentifs et unis sur ce point.
+N’oublions jamais que ce texte a pour objectif d’assurer la protection du consommateur que ces nouveaux modes de consommation peuvent rendre très vulnérable.
+Sans céder à la tentation d’une surtransposition, nous examinerons les conclusions de ces évaluations qui pourront peut-être, nous l’espérons du moins, nourrir  le débat sur une potentielle extension de cette ouverture aux comptes d’épargne, qui pourra être abordée par nos collègues Barrot et Bourlanges.
+Pour conclure, mes chers collègues, je souhaite appeler votre attention sur un amendement qui, parce qu’il porte sur l’ouverture aux commerçants de la possibilité de rendre la monnaie en espèces, dit cashback,  touche au quotidien de nos centres-bourgs et centres-villes.
+Madame la rapporteure a souligné combien le maillage des distributeurs automatiques était hétérogène sur nos territoires.
+Sa fermeture tue parfois toute la vie d’un centre-bourg… …d’un village, voire d’un centre-ville ou d’un quartier.
+Madame la rapporteure, vous avez précisé cet équilibre.
+Oui, il est nécessaire d’encadrer cette disposition, mais elle apportera un souffle et une dynamique à ces territoires.
+L’accès aux monnaies, en tant qu’il maintient un lien social, permet à tous nos territoires, mais particulièrement à nos centres-villes et centres-bourgs, de continuer à vivre et à être dynamiques.
+Aussi, chers collègues, je souhaitais appeler votre attention sur cet amendement, malgré sa technicité.
+(Applaudissements sur les bancs du groupe REM.) Monsieur le président, madame la secrétaire d’État, madame la rapporteure, chers collègues, l’examen de ce projet de loi est un pas de plus vers le nécessaire renouvellement du cadre juridique européen face au développement de nouvelles technologies et pratiques dans le domaine des services de paiement en ligne.
+La directive a instauré une nouveauté, l’agrément unique, pour tous les prestataires de services de paiement étrangers à l’activité de réception des dépôts ou d’émission de monnaie électronique.
+À cette fin, elle a créé une nouvelle catégorie juridique, les établissements de paiement, mettant ainsi fin au monopole des établissements bancaires en la matière.
+Cependant, les innovations du secteur ont entamé la pérennité du corpus des normes européennes régissant celui-ci, et ont encouragé une nécessaire rénovation.
+En effet, l’apparition de nouveaux types de services de paiement et la croissance rapide des paiements électroniques et mobiles ont mis à l’épreuve les règles qui étaient alors en vigueur.
+Le développement de certains acteurs du monde de la fintech pose plusieurs questions juridiques, auxquelles il nous faut répondre.
+Les activités des services d’initiation de paiement ou les services d’information sur les comptes nécessitent en effet un accès à certaines données des utilisateurs de services de paiement, ce qui implique l’existence de canaux d’identification sécurisés.
+En vérité, à l’heure actuelle, la plupart des prestataires de services d’initiation de paiement dont l’activité consiste à initier un ordre de paiement à la demande de l’utilisateur des services, accèdent directement aux comptes bancaires en ligne de leurs clients en se faisant passer pour eux.
+Ils utilisent ainsi la méthode dite de l’accès direct non identifié ou web scraping  non identifié.
+Cette situation présente de nombreuses fragilités juridiques, en particulier s’agissant du régime de responsabilité et donc de la protection des consommateurs.
+Ce sont les données bancaires des consommateurs qui sont concernées dans ce domaine, ce qui pose un problème sensible et urgent de sécurisation à la fois sur le plan technique et sur le plan juridique.
+Car l’éventuelle interception de ces données par des tiers aurait un effet extrêmement préjudiciable pour les consommateurs.web scraping  a donc élargi le champ d’action des personnes souhaitant intercepter les données des utilisateurs puisqu’elle ne les soumet à aucune demande d’identification.
+Dans ce contexte pourtant préoccupant, aucune réglementation n’a été instaurée en faveur de la protection des consommateurs.
+Il est donc nécessaire de mettre en place un cadre juridique destiné, d’une part, à protéger les consommateurs en sécurisant leurs données personnelles pour éviter toute utilisation frauduleuse et d’autre part, à limiter le champ d’action de ces nouveaux services tout en assurant et en renforçant les droits des consommateurs.
+De nouvelles règles devront ainsi combler ces lacunes réglementaires tout en garantissant une plus grande clarté juridique et une application cohérente du cadre législatif dans l’ensemble de l’Union européenne.
+Elle a également pour but de favoriser l’utilisation de services de paiement électronique plus sûrs et plus équitables, notamment en établissant des règles entre tous les fournisseurs de services de paiement ainsi qu’en visant les fournisseurs tiers, comme PayPal, qui, contrairement aux banques, ne conservent pas de comptes de paiement.
+Ces fournisseurs seront dorénavant obligés de s’enregistrer et seront supervisés en tant qu’institution de paiement.
+Ils seront enfin soumis aux mêmes règles de sécurité que les autres fournisseurs de services de paiement.
+La sécurité des paiements est également un élément central de cette proposition de révision.
+Cette dernière améliore la sécurité de l’ensemble des prestataires de services de paiement en généralisant l’authentification forte pour les transactions en ligne.
+Les consommateurs seront mieux protégés contre la fraude, les abus éventuels et les incidents de paiement.
+Enfin, cette proposition renforce les droits des consommateurs en cas de virement ou de transmission de fonds hors d’Europe ou de paiement effectué dans la monnaie d’un pays non membre de l’Union européenne.
+De plus, elle prévoit l’interdiction de la plus grande partie des surcharges liées aux paiements par carte, par exemple les coûts additionnels facturés par la plupart des opérateurs aériens lors de la vente de billets.
+Les commerçants pourront toujours faire acquitter des frais aux consommateurs, mais ces frais ne devront pas dépasser les coûts supportés par les commerçants pour l’utilisation de cartes de paiement.
+Madame la secrétaire d’État, dans ce domaine comme dans d’autres, dont les frais bancaires, précédemment évoqués, je signale l’écart qui peut séparer les pratiques hexagonales des pratiques ultramarines, un problème auquel je suis très sensible comme député de Nouvelle-Calédonie.
+La loi relative à l’égalité réelle outre-mer avait souligné la nécessité de vérifier très attentivement que les tarifs ne dérivaient pas bien au-delà des limites légales.
+En France seulement, on compte déjà huit start-up proposant un service de paiement, et il existe quelques leaders de ce secteur au niveau européen.
+Les utilisateurs sont de plus en plus nombreux et en demande de ces nouveaux services, en particulier les jeunes générations.
+Grâce à ces prestations, ils peuvent gérer plus directement et plus facilement leurs finances en ayant accès à davantage d’informations sans avoir besoin de recourir systématiquement à leur banque.
+Le nouveau contexte normatif vise à accompagner ces évolutions et à encourager les nouvelles entreprises de la fintech à continuer d’innover toujours davantage.
+Cependant, certains points qui me semblent essentiels ne sont pas abordés dans la directive.
+Par ailleurs, au-delà des services de paiement, de nombreux autres domaines pourraient être mieux réglementés.
+Je pense notamment aux monnaies électroniques ou virtuelles, telles que le bitcoin Nous sommes conscients, madame la secrétaire d’État, de la nécessité d’éviter l’écueil d’une surtransposition qui se révèle finalement contre-productive.
+Mais il est nécessaire, pour la sécurité de nos concitoyens, de s’intéresser à chacun des domaines qui requièrent une réglementation.
+Or, avec cette directive, nous ne régulons qu’une petite partie du système.
+Voilà pourquoi notre groupe a déposé un amendement concernant les monnaies électroniques ou virtuelles.
+En résumé, l’ordonnance instaure des exigences strictes en matière de sécurité, tend à accroître les droits des consommateurs et interdit de leur facturer des suppléments lorsqu’ils usent de ces droits, dans le cadre très spécifique du marché français des services de paiement.
+Au-delà de la réserve que je viens de formuler, le groupe UDI, Agir et indépendants reconnaît que ce texte est nécessaire, et il le votera.
+Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, madame la rapporteure, chers collègues, il est demandé à notre assemblée d’examiner un projet de loi comportant six articles et qui, pour faire simple, ratifie une ordonnance qui, elle-même, transpose une directive européenne concernant les services de paiement dans le marché intérieur, directive dite DSP2.
+En ce qui concerne le calendrier, les délais ont été respectés.
+ne pouvons que constater le respect du calendrier.
+La DSP2 repose sur un double constat de la part de l’Union européenne.
+D’abord, nous avons connu ces dernières années un développement sans précédent des moyens de paiement innovants qui a rendu caduque la DSP1.
+Je pense par exemple aux prestataires de services de paiement, comme Paypal, ou aux prestataires de services d’information, qui prennent le plus souvent la forme de fintech.
+Leur émergence appelle la mise en œuvre d’une régulation modernisée.
+Dans ce contexte, Bruxelles a jugé, d’une part, qu’il était nécessaire d’entourer de nouvelles protections les données des utilisateurs et, d’autre part, que des marges de progression existaient en matière de limitation des surfacturations lors d’opérations de paiement et des frais bancaires en cas d’utilisation frauduleuse d’un moyen de paiement.
+Néanmoins, dans ce domaine, notre seule boussole est la protection des consommateurs et de leurs données.
+En effet, l’obligation faite aux banques d’assurer aux prestataires de services de paiement et aux prestataires de services d’information l’accès aux données de leurs clients, dès lors que ces derniers ont donné leur accord, nécessite des moyens de contrôle efficaces, sans quoi de graves dérives pourraient survenir, notamment en matière de fraude bancaire.
+II faut donc donner au superviseur national, qui, en France, est l’Autorité de contrôle prudentiel et de résolution, l’ACPR, les moyens nécessaires à cette fin.
+Pour conclure, le groupe Nouvelle Gauche est favorable à la ratification de l’ordonnance d’août 2017 qui transpose fidèlement la DSP2.
+Toutefois, il demande au Gouvernement d’apporter à la représentation nationale toutes les garanties concernant les moyens accordés à l’ACPR pour exercer ses nouvelles missions dans l’intérêt des consommateurs.
+Avec l’apparition de nouveaux types de services de paiement et la croissance rapide des paiements électroniques et mobiles, le marché des paiements de détail a en effet connu d’importantes innovations techniques.
+Ces innovations mettent à l’épreuve le cadre législatif actuel.
+Dans ce contexte, la directive sur les services de paiement progresse sur les points suivants.
+Elle réglemente aussi les agrégateurs, ces applications qui nous proposent une interface unique pour gérer des comptes domiciliés dans plusieurs banques.
+Aujourd’hui, on le sait, ces applications vont chercher illégalement des informations sur les sites internet des banques en utilisant les identifiants des clients.
+La directive autorisera toujours cette pratique, mais, dorénavant, sous réserve de l’autorisation du client.
+Enfin, la directive interdira certaines pratiques, comme les frais supplémentaires appliqués lors de paiements sur internet avec une carte de crédit.
+Néanmoins, nous avons plusieurs remarques et mises en garde à formuler.
+Plus ennuyeux encore est la question des possibilités concrètes d’application de cette directive, à propos de laquelle nous vous alertons.
+Faute de moyens alloués à la régulation, de graves dérives pourraient survenir, par exemple en matière de fraude bancaire.
+D’autre part, la directive est loin d’être suffisante à plusieurs égards, et d’abord en matière de protection des droits des consommateurs.
+Par ailleurs, l’interdiction des frais supplémentaires appliqués lors des paiements sur internet ne remédie pas au problème beaucoup plus vaste des frais bancaires.
+La facturation appliquée par les banques au titre de la gestion du compte bancaire ou des incidents de paiement est excessive et ces frais pèsent toujours plus sur les pauvres, comme l’ont souligné les récentes études de l’Union nationale des familles et de 60 millions de consommateurs .
+Il nous faut enfin rappeler que les moyens de paiements en ligne, dont il est question ici, ne sont malheureusement pas accessibles à tous nos concitoyens.
+Or les évolutions de notre société ont rendu aujourd’hui la bancarisation incontournable.
+La France insoumise s’engage donc pour l’inclusion bancaire.
+Nous pourrions profiter de cette directive sur les services de paiement pour prévoir, pour les citoyens en dessous du seuil de pauvreté, le droit d’ouvrir un compte bancaire gratuit avec carte de paiement.
+Les banques ont en effet une mission d’intérêt général.
+On pourrait l’oublier, vu leur comportement… Notre programme appelle d’ailleurs à la création d’un service public bancaire.
+C’est cette notion d’intérêt général qui doit guider toutes les réglementations en matière financière, et nous en sommes loin avec cette directive.
+Mais, parce qu’elle représente néanmoins un progrès, nous voterons en sa faveur.
+Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, madame la rapporteure, chers collègues, avec l’apparition de nouveaux types de services de paiement et la croissance rapide des paiements électroniques et mobiles, le marché des paiements de détail a connu ces dernières années des innovations techniques importantes, qui mettent à l’épreuve le cadre actuel.
+La directive DSP1 sur les moyens de paiement date de 2007.
+Il s’agissait, à l’époque, d’un texte important, qui a permis l’instauration d’un agrément unique pour tous les prestataires de services de paiement étrangers.
+Il permettait ainsi d’assurer la coordination de dispositions nationales, alors fragmentées, et de garantir l’accès au marché de nouveaux prestataires de services de paiement.
+Il s’agit aujourd’hui d’approfondir ces dispositions, afin d’accompagner les récentes évolutions du secteur.
+Ainsi, pour divers services de paiement en ligne, il ne s’agit de rien de moins que de sécuriser leur activité par le biais d’un nouveau cadre juridique commun.
+C’est notamment le cas pour les prestataires de services d’information sur les comptes, des applications qui permettent d’avoir une vue d’ensemble de sa situation financière sur une seule interface, en agrégeant les informations de ses différents comptes, et les prestataires de services d’initiation de paiement, qui permettent aux consommateurs de payer leur achat en ligne tout en donnant au commerçant l’assurance que le paiement a bien été fait.
+Ces deux types de service utilisaient jusqu’ici une méthode fragile, juridiquement parlant, qui consistait à extraire les données détenues par les banques en se faisant passer pour leurs clients, avec leur consentement.
+Désormais, ces acteurs auront un statut juridique propre, avec des règles d’agrément, d’enregistrement et de responsabilité spécifiques, mais bénéficieront également de l’obligation pour les banques de leur communiquer certaines informations.
+En résumé, ce sont  de nouveaux devoirs, mais également de nouveaux droits.
+Cette ordonnance est par ailleurs conforme à notre exigence, rappelée dans cet hémicycle lors des récents débats sur le projet de loi au service d’une société de confiance, de ne pas surtransposer les directives européennes.
+C’est une ligne à laquelle le Gouvernement et la majorité se sont astreints durant ces débats et qui continuera de guider notre action lors des transpositions futures.
+ Je tiens, pour conclure, à remercier notre rapporteure, Nadia Hai, qui a effectué un important travail de déchiffrage et de pédagogie sur ce sujet complexe et technique mais néanmoins crucial pour tout un pan de la nouvelle économie digitale.
+(Applaudissements sur les bancs des groupes REM et MODEM.) Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission des finances, madame la rapporteure, chers collègues, la discussion d’aujourd’hui porte sur la ratification d’une ordonnance transposant en droit français une directive européenne sur les services de paiement connue sous le nom de DSP2, laquelle vient abroger la première directive de 2007.
+Les nouveaux acteurs du numérique financier peuvent être aussi des prestataires de services d’initiation de paiement, qui donnent l’assurance au commerçant en ligne que le paiement a bien été initié par l’acheteur.cashback , devenu monnaie courante dans les pays anglo-saxons et défendu et soutenu par une majorité d’acteurs.
+Il permet, entre autres, de donner accès à des liquidités directement à la caisse des commerces de proximité, ce qui est une commodité pour les citadins et les jeunes, mais devient une nécessité dans les territoires ruraux, où les distributeurs de billets se font plus clairsemés, pour les personnes âgées et à mobilité réduite.via un open banking(Applaudissements sur les bancs des groupes REM et MODEM.) Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, madame la rapporteure, chers collègues, beaucoup ayant été dit sur ce sujet ce matin, j’ai choisi de vous livrer un témoignage.
+Comme de plus en plus de nos concitoyens, j’apprécie les innovations qui promettent de me simplifier la vie et, comme beaucoup, je suis tentée de céder aux sirènes de ces nouvelles applications que l’on nomme fintech, qui vous proposent de simplifier la gestion de votre budget et de vos comptes en banque.(Sourires.)(Applaudissements sur les bancs des groupes REM, MODEM et NG.) La discussion générale est close.
+J’appelle maintenant, dans le texte de la commission, les articles du projet de loi.ierest adopté.)ierier .
+5.
+Pour ces différentes raisons, l’usage des espèces est privilégié pour toute activité d’évasion fiscale ou pour tout financement d’activité illicite, ce qui est absolument impossible avec la monnaie électronique.
+Les faits établissant une distinction claire entre monnaie électronique et espèces, il convient donc d’adapter le droit et de supprimer cette assimilation de la première aux secondes.
+La monnaie scripturale est juridiquement distinguée, la monnaie électronique devrait l’être aussi.
+Il y va de l’innovation et de la promotion d’outils de paiement sécurisés, rapides, transparents et bien moins coûteux tant pour la société que pour les acteurs économiques.
+C’est ce que je dis dans l’exposé des motifs de mon amendement.
+Je maintiens ma position.
+Si nous adoptons ce texte, on pourra davantage séparer les règles applicables à la monnaie fiduciaire ou scripturale d’un côté, et à la monnaie électronique de l’autre.
+C’est un amendement de principe, qui ne mange pas de pain et dont le contenu a commencé à avoir des applications, comme vous le rappeliez, madame la rapporteure, dans votre intervention.(L’amendement n5 n’est pas adopté.) 6 rectifié.
+L’amendement nier , consacré au service dit de cashback L’amendement proposé permettra tout à la fois d’offrir un cadre lisible et stable pour les commerçants, d’encourager une pratique attendue par les consommateurs, et d’assurer la qualité de la circulation de la monnaie fiduciaire sur l’ensemble du territoire.
+En précisant les modalités de cette circulation, il contribuera à prévenir les risques de blanchiment.
+L’amendement permettra également d’assurer la bonne information du consommateur lors de la prestation de ce service, élément particulièrement important s’agissant d’une pratique nouvelle en France.
+Je voudrais attirer votre attention sur plusieurs dangers liés à la généralisation du cashback , cette opération qui, comme vous l’avez dit, madame la rapporteure, permet au consommateur de retirer des espèces en même temps qu’il effectue un paiement dans un commerce.
+On connaît déjà les conséquences de la rationalisation de la présence des distributeurs d’espèces dans nos communes, surtout les plus petites d’entre elles, celles qui n’ont plus d’agence bancaire.
+Le cashback  va accentuer ce mouvement dramatique et mortifère.
+Il peut constituer un complément, à la marge, sur de très petites sommes, mais non un substitut.
+Pour la revitalisation de nos campagnes et la sécurité de ceux qui les font vivre, je vous demande, madame la ministre, de prendre d’urgence des mesures complémentaires à celles que nous sommes en train d’étudier.via  le décret, d’établir une certaine proportionnalité entre la somme demandée en cashback  Avez-vous des idées pour améliorer la sécurité de ce système de  ? Charles de Courson nous a expcashback a fortiori  Les banques, normalement, devraient être au service de l’intérêt général.
+Tous les Français devraient donc disposer d’un service bancaire minimum, quelle que soit la rentabilité de tel ou tel distributeur.
+Cela ne peut pas être remplacé par un mécanisme reportant la charge de distribuer de l’argent liquide sur les commerçants.
+J’ai bien compris qu’en théorie, cela se fera sur la base du volontariat.
+Mais vous comprenez bien que dans les zones où l’on a déjà du mal à trouver de l’argent liquide, les commerçants ne pourront pas refuser d’assurer ce service.
+Pour toutes ces raisons, nous voterons contre cet amendement.
+Nous voterons évidemment pour cet amendement, car il apporte un début de solution à un problème important.
+En moins de six mois, deux distributeurs automatiques de billets ont été supprimés dans ma circonscription.
+Deux distributeurs en moins, dans deux communes différentes, cela fait deux marchés en danger, deux centres-bourgs menacés.
+Cela gêne considérablement les personnes âgées qui ne peuvent pas, faute de moyen de locomotion, se rendre dans un autre village pour faire leurs courses.cashback  ne devrait pas se substituer aux distributeurs de billets.
+Nous avons besoin d’agences bancaires, avec des êtres humains, et de distributeurs de billets.
+Mais en attendant, de façon très pragmatique, cette possibilité offerte aux commerçants permettra aux personnes âgées, dans certaines zones, de retirer des espèces et donc d’aller au marché, chez le boucher ou chez le boulanger.
+Cela aidera à maintenir une vraie cohésion sociale dans nos centres-bourgs.
+Je vois bien les dangers que mes collègues ont évoqués, mais je voterai cet amendement avec beaucoup de plaisir.
+(Applaudissements sur quelques bancs du groupe REM.)cashback cashback  Troisièmement, je pense aux buralistes, qui cherchent toujours des activités de substitution à la vente de tabac.
+Des conventions sont même signées pour les aider à les développer.
+Je voudrais savoir si le cashback  De la même manière, une réflexion pourrait être menée sur les distributeurs automatiques de billets, notamment dans les agences postales, qui restent présentes dans beaucoup de villages.
+Même si elles ne sont pas ouvertes de nombreuses heures pendant la journée, elles pourraient être un point d’accès à l’argent liquide.
+?cashback  Vous m’interrogez sur la façon dont le Gouvernement précisera l’encadrement de cette nouvelle pratique et veillera à la sécurité du dispositif pour les commerçants qui l’utiliseront.
+Je vous confirme qu’il y aura un décret d’application et que pour élaborer ce décret, nous organiserons une consultation de place, au cours de laquelle les questions relatives à la sécurité et au montant maximal de retrait seront évoquées.cashback  leur permettra de redistribuer plus rapidement les espèces qu’ils accumulent nécessairement en exerçant leur activité.
+Les commerçants décideront eux-mêmes, compte tenu de leur situation personnelle, du territoire où ils sont situés, et du montant d’espèces qu’ils ont déjà à manipuler, s’ils veulent développer cette activité.cashback  Cet amendement peut en effet contribuer à maintenir l’activité économique de nos centres-bourgs, à stimuler leur vitalité.cashback  Nous sentons bien que les organismes financiers veulent se retirer des petites communes, et je crains que ce dispositif ne les y incite encore davantage.
+Voilà pourquoi, madame la rapporteure, je ne partage pas votre optimisme.
+Madame la ministre, je vais vous donner deux exemples.quid cashback, (L’amendement n6 rectifié est adopté.) 1.
+Cet amendement propose de compléter la transposition de la directive afin de sécuriser les données du client n’étant pas considérées comme des données sensibles mais pouvant néanmoins avoir un intérêt commercial pour les prestataires de services d’information sur les comptes.
+Il faut savoir que si ces derniers offrent aujourd’hui un service gratuit pour les fonctions basiques, ils ont diverses sources de rémunération, parmi lesquelles la publicité ciblée, les modèles premium(L’amendement n1 est retiré.) 8 rectifié.via  le recours à des interfaces programmatives qui répondront à un cahier des charges prévu dans la norme technique réglementaire.
+En attendant, c’est la pratique dite du web scrapping C’est pourquoi le Gouvernement souhaite prendre les devants en réduisant l’incertitude opérationnelle ouverte par la période transitoire.
+Cet amendement prévoit ainsi une application anticipée de l’acte délégué.
+Cela permettra de généraliser plus rapidement le recours aux interfaces programmatives dès qu’elles seront prêtes et testées comme conformes au cahier des charges européen, a priori  dès la fin de cette année.
+Elles devront en tout état de cause permettre aux acteurs de continuer à fournir leurs services.
+Les autorités nationales pourront prévoir que ces interfaces s’imposent comme le seul mode d’accès aux données de paiement par les intermédiaires.
+En termes de cybersécurité, cet amendement permettra de réduire au plus vite les risques informatiques liés à l’accès par plusieurs intermédiaires distincts aux centres de données des banques, accès qui constituent autant de points de faiblesse.
+Chaque accès serait alors géré par une interface unique, dite API, qui ne nécessiterait plus le stockage des mots de passe et des identifiants des clients par les intermédiaires dans leur propre serveur, réduisant ainsi très considérablement le risque de hacking .(L’amendement n8 rectifié est adopté.) 7.
+Avis favorable car cet amendement comble une lacune de la directive en clarifiant les obligations d’information qui incombent au prestataire de services de paiement vis-à-vis de l’utilisateur en cas d’absence de procédure de règlement extrajudiciaire.(L’amendement n7 est adopté.) 10.
+Il s’agit d’un amendement de coordination, monsieur le président.(L’amendement n10, accepté par le Gouvernement, est adopté.) 9.
+La DSP2 introduit un régime dérogatoire comparable pour les instruments de paiement spécifiques en prévoyant que leur émission, là aussi, échappe au monopole des établissements bancaires.
+L’amendement prévoit l’extension du contrôle de la Banque de France à ces instruments.
+À défaut, les émetteurs pourraient être tentés de faire qualifier leurs titres spéciaux de paiement dématérialisés, issus de la DME2, en instruments de paiement spécifiques issus de la DSP2 pour échapper à sa surveillance.
+C’est très clair.
+Madame la députée, nous ne surtransposons pas la directive puisqu’il s’agit d’éléments qui étaient laissés à la libre appréciation du législateur national.(L’amendement n9 est adopté.) 4 rectifié.
+C’est un amendement d’appel, madame la secrétaire d’État, parce qu’il paraît essentiel d’évoquer, dans un débat sur les services de paiement, le développement des systèmes du type bitcoin Il est tout de même assez étonnant de transposer une directive qui a, et à juste raison, pour but de sécuriser les transactions sans s’intéresser à la monnaie virtuelle.
+À défaut d’une réglementation adéquate, toutes ces formes de monnaies privées peuvent donc continuer de prospérer dans l’indifférence générale, avec un risque et une volatilité non maîtrisée.
+Nous aimerions que le Gouvernement explique quelle est sa position à l’égard des bitcoins  et s’il envisage d’encadrer ces monnaies virtuelles, une forme d’innovation qui risque de finir, comme les fameuses tulipes hollandaises, par un immense scandale.
+Pour le reste, je vous rappelle que nous avons déjà engagé des travaux sur le sujet.
+Je pense notamment à la mission d’information de la commission des finances sur la cryptomonnaie et les monnaies virtuelles, que je vous invite vivement à intégrer puisque j’ai bien remarqué que cela vous intéresse énormément.
+Le Gouvernement a également missionné Jean-Pierre Landau sur le sujet.
+L’Autorité des marchés financiers, de son côté, va rendre des conclusions à la suite du cycle de consultations qu’elle a mené.
+Enfin, la Banque de France se penche également sur la question.
+Voilà les raisons pour lesquelles j’émets une demande de retrait.
+Le Gouvernement s’est récemment exprimé sur ce sujet au niveau national comme à l’échelon européen.
+Comme vous le savez, les monnaies virtuelles ne constituent pas aujourd’hui un risque systémique, leur montant n’étant pas de nature à susciter l’inquiétude.
+Ce sont leur volatilité et leur manque de transparence pour les utilisateurs qui posent problème, leur capacité à constituer des circuits occultes de financement, y compris en matière de blanchiment.
+Actuellement, le Gouvernement travaille sur l’encadrement réglementaire des risques de blanchiment des capitaux et de financement du terrorisme, dans le cadre de la transposition de la quatrième directive anti-blanchiment révisée.
+Celle-ci comprend, à la demande de la France, des dispositions spécifiques imposant aux États membres la soumission de toutes les activités de conversion entre monnaie virtuelle et monnaie à cours légal à la lutte contre le blanchiment et le financement du terrorisme.
+Elle prévoit également que toutes ces activités devront être agréées et dotées, au titre de la lutte contre le blanchiment et le financement du terrorisme, d’une autorité de contrôle.
+ dont les conclusions seront connues très prochainement.
+Dans l’attente de ces travaux, je vous propose, monsieur le député, de retirer votre amendement.
+Quoi qu’il en soit, je retire l’amendement.(L’amendement n4 rectifié est retiré.) 2.
+Il est rédactionnel.(L’amendement n2, accepté par le Gouvernement, est adopté.) Je mets aux voix l’ensemble du projet de loi.(Le projet de loi est adopté.)(Applaudissements sur les bancs des groupes REM et MODEM.) Discussion, après engagement de la procédure accélérée, du projet de loi relatif à l’élection des représentants au Parlement européen.
+La séance est levée.(La séance est levée à onze heures cinquante.)La Directrice du service du compte rendu de la séancede l’Assemblée nationaleCatherine Joly
