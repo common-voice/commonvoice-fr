@@ -40,9 +40,29 @@ accepted_seance_context = [
 ]
 seance_context = None
 
-chars_mapping = {
-  '2': '²',
-  '3': '³',
+superscript_chars_mapping = {
+  '0': u'\u2070',
+  '1': u'\u00b9',
+  '2': u'\u00b2',
+  '3': u'\u00b3',
+  '4': u'\u2074',
+  '5': u'\u2075',
+  '6': u'\u2076',
+  '7': u'\u2077',
+  '8': u'\u2078',
+  '9': u'\u2079',
+
+  '0 ': u'\u2070 ',
+  '1 ': u'\u00b9 ',
+  '2 ': u'\u00b2 ',
+  '3 ': u'\u00b3 ',
+  '4 ': u'\u2074 ',
+  '5 ': u'\u2075 ',
+  '6 ': u'\u2076 ',
+  '7 ': u'\u2077 ',
+  '8 ': u'\u2078 ',
+  '9 ': u'\u2079 ',
+
   'o': 'uméro',
   'os': 'uméros',
   'e': 'ième',
@@ -50,14 +70,43 @@ chars_mapping = {
   'ER': 'IER',
   're': 'ière',
   'ème': 'ième',
+  'eme': 'ième',
   'ter': 'ter',
+
   'o ': 'uméro ',
   'os ': 'uméros ',
   'e ': 'ième ',
   'er ': 'ier ',
   'er.': 'ier.',
   'er,': 'ier,',
-  ' ': ' ',
+  ' ': '',
+}
+
+subscript_chars_mapping = {
+  '0': u'\u2080',
+  '1': u'\u2081',
+  '2': u'\u2082',
+  '3': u'\u2083',
+  '4': u'\u2084',
+  '5': u'\u2085',
+  '6': u'\u2086',
+  '7': u'\u2087',
+  '8': u'\u2088',
+  '9': u'\u2089',
+
+  '0 ': u'\u2080 ',
+  '1 ': u'\u2081 ',
+  '2 ': u'\u2082 ',
+  '3 ': u'\u2083 ',
+  '4 ': u'\u2084 ',
+  '5 ': u'\u2085 ',
+  '6 ': u'\u2086 ',
+  '7 ': u'\u2087 ',
+  '8 ': u'\u2088 ',
+  '9 ': u'\u2089 ',
+
+  'e': u'\u2091',
+  ' ': '',
 }
 
 if not os.path.isdir(args.output):
@@ -117,15 +166,24 @@ for event, node in doc:
         toAdd = node.nodeValue
 
         if visited[-1] == 'indice':
-          print(visited[-1], "'{}'".format(node.nodeValue), seance_context[visited[-2:][0]][-1])
-          # Reset to nothing because we don't really care
-          toAdd = ''
+          if node.nodeValue in subscript_chars_mapping:
+            toAdd = subscript_chars_mapping[node.nodeValue]
+          else:
+            # Reset to nothing because we don't really care
+            toAdd = ''
+            print(visited[-1], "'{}'".format(node.nodeValue), seance_context[visited[-2:][0]][-1])
 
-        if visited[-1] == 'exposant':
-          if node.nodeValue in chars_mapping:
-            toAdd = chars_mapping[node.nodeValue]
+        elif visited[-1] == 'exposant':
+          if node.nodeValue in superscript_chars_mapping:
+            toAdd = superscript_chars_mapping[node.nodeValue]
           else:
             print(visited[-1], "'{}'".format(node.nodeValue), seance_context[visited[-2:][0]][-1])
+
+        elif visited[-1] == 'italique':
+          pass
+
+        else:
+          print('UNKNOWN', visited[-1], "'{}'".format(node.nodeValue), seance_context[visited[-2:][0]][-1])
 
         if len(toAdd) > 0:
           try:
