@@ -41,9 +41,23 @@ accepted_seance_context = [
 seance_context = None
 
 chars_mapping = {
+  '2': '²',
+  '3': '³',
   'o': 'uméro',
-  'o ': 'uméro',
-  'os ': 'uméros',
+  'os': 'uméros',
+  'e': 'ième',
+  'er': 'ier',
+  'ER': 'IER',
+  're': 'ière',
+  'ème': 'ième',
+  'ter': 'ter',
+  'o ': 'uméro ',
+  'os ': 'uméros ',
+  'e ': 'ième ',
+  'er ': 'ier ',
+  'er.': 'ier.',
+  'er,': 'ier,',
+  ' ': ' ',
 }
 
 if not os.path.isdir(args.output):
@@ -104,6 +118,8 @@ for event, node in doc:
 
         if visited[-1] == 'indice':
           print(visited[-1], "'{}'".format(node.nodeValue), seance_context[visited[-2:][0]][-1])
+          # Reset to nothing because we don't really care
+          toAdd = ''
 
         if visited[-1] == 'exposant':
           if node.nodeValue in chars_mapping:
@@ -111,11 +127,12 @@ for event, node in doc:
           else:
             print(visited[-1], "'{}'".format(node.nodeValue), seance_context[visited[-2:][0]][-1])
 
-        try:
-          seance_context[visited[-2:][0]][-1] += toAdd
-        except KeyError:
-          print("KeyError", visited, toAdd)
-          ##seance_context[visited[-2:][0]][-1] = [ node.nodeValue ]
+        if len(toAdd) > 0:
+          try:
+            seance_context[visited[-2:][0]][-1] += toAdd
+          except KeyError:
+            print("KeyError", visited, toAdd)
+            ##seance_context[visited[-2:][0]][-1] = [ node.nodeValue ]
 
   if event == END_ELEMENT:
     indent_level -= 2
