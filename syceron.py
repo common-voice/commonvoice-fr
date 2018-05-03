@@ -6,14 +6,14 @@ import os
 import argparse
 import networkx as nx
 import networkx.drawing.nx_pydot as nx_pydot
-import json
 
 from xml.dom.pulldom import START_ELEMENT, CHARACTERS, END_ELEMENT, parse
 from xml.dom.minidom import Element, Text
 
 parser = argparse.ArgumentParser(description='SyceronBrut text content extraction for Common Voice')
-parser.add_argument('--debug', action='store_true', help='Some debug')
-parser.add_argument('--debug-more', action='store_true', help='Some more debug')
+parser.add_argument('--debug', action='store_true', default=False, help='Some debug')
+parser.add_argument('--debug-more', action='store_true', default=False, help='Some more debug')
+parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
 
 parser.add_argument('--print-tree', action='store_true', help='Only print XML tree structure')
 parser.add_argument('--tree-output', type=argparse.FileType('w'), help='Where to store XML tree structure. Use \'-\' for stdout.')
@@ -74,7 +74,10 @@ for event, node in doc:
           output_seance_name = os.path.join(args.output, seance_context['DateSeance'][0]) + '.txt'
           print('output_seance_name', output_seance_name)
           with open(output_seance_name, 'w') as output_seance:
-            output_seance.write('\n'.join(seance_context['texte']))
+            output_seance.write('.\n'.join((' '.join(seance_context['texte'])).split('. ')))
+
+          if args.one:
+            break
 
         seance_context = {}
 
