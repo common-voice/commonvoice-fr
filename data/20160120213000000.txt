@@ -1,21 +1,51 @@
 La séance est ouverte.
 Le président a reçu de Mme Valérie Pécresse, députée de la deuxième circonscription des Yvelines, une lettre l’informant qu’elle démissionnait de son mandat de députée.
 Acte est donné de cette démission qui sera notifiée au Premier ministre.
-L’ordre du jour appelle la suite de la discussion, après engagement de la procédure accélérée, du projet de loi pour une République numérique (nos 3318, 3399, 3387, 3389, 3391).
+L’ordre du jour appelle la suite de la discussion, après engagement de la procédure accélérée, du projet de loi pour une République numérique (numéros 3318, 3399, 3387, 3389, 3391).
 Cet après-midi, l’Assemblée a poursuivi la discussion des articles du projet de loi, s’arrêtant à l’article 9.
 La parole est à M. André Chassaigne, premier orateur inscrit sur l’article.
+Dans son avis rendu le 3 décembre 2015, le Conseil d’État avait estimé que l’article 9 était entaché d’incompétence négative, faute d’une rédaction suffisamment précise.
+La Commission nationale de l’informatique et des libertés – CNIL – recommandait de son côté, dans un souci de lisibilité et de sécurité juridique, d’harmoniser et de préciser les concepts utilisés dans cet article, notamment celui de « données de référence ».
+Le travail conduit en commission a indubitablement permis d’améliorer la rédaction de l’article, dont l’enjeu n’est rien moins que de favoriser l’avènement d’une nouvelle mission de service public.
+Son ambition est notamment de mieux coordonner les initiatives déjà développées pour rendre certaines données plus facilement accessibles au public.
+Garantir la bonne diffusion de ces données, en vue de faciliter leur réutilisation, est un enjeu majeur.
+Le texte renvoie au décret la liste des bases de données couvertes par cette nouvelle mission de service public, qui pourraient être notamment la Base Adresse Nationale, le cadastre, le référentiel cartographique à grande échelle de l’IGN, la base SIRENE des entreprises de l’INSEE, ou encore la base nationale des adresses, qui associe à chaque adresse postale ses coordonnées GPS : développée à l’origine par La Poste pour la distribution du courrier, elle est aujourd’hui devenue cruciale pour l’activité du SAMU, des pompiers ou encore des services privés de livraison en ligne.
 Certains de nos collègues proposent par voie d’amendement que les collectivités locales, importantes pourvoyeuses de données, fassent partie d’une concertation sur la qualité minimale que la publication des données de référence doit respecter.
 Cette concertation nous semble bienvenue.
 Dans tous les cas, nous ne pouvons que saluer l’initiative de cet article et approuver la démarche du Gouvernement – pour une fois ! Oh ! C’était parfait, jusque-là ! La parole est à M. Jacques Cresta.
+L’article 9, complété lors de son examen par la commission des lois, a une très forte valeur symbolique, puisqu’il inscrit dans la loi une nouvelle mission de service public.
+C’est un signe de la grande importance que revêtent, aujourd’hui, la mise à disposition et la publication des données.
+Cette disposition est une marque de la volonté de transparence du Gouvernement, mais aussi du fait que le politique est prêt à accompagner l’innovation.
+On peut d’ailleurs voir à l’œuvre une véritable logique de long terme dans les décisions successives qui ont pu être prises par le Gouvernement.
+Ainsi, cet article 9 me semble être la suite logique du décret du 16 septembre 2014 instituant un administrateur général des données.
+Aujourd’hui, c’est par la loi que nous franchirons une étape supplémentaire, même si de nombreuses modalités seront ultérieurement précisées par décret et par arrêté.
+En effet, si le signe est fort, et le geste louable, les conséquences précises de la création de ce nouveau service public sont encore difficiles à appréhender.
+Je pense en particulier aux missions qui seront dévolues aux collectivités territoriales.
+Si celles-ci ne semblent pas devoir produire de nouvelles données, la production de ces dernières devra se conformer à un nouveau cahier des charges, améliorant la qualité des données qu’elles doivent transmettre à l’État.
 Que cela ne soit pas considéré comme un transfert de compétences, je peux aisément le comprendre, mais je m’interroge tout de même sur l’absence de compensation, en particulier pour les plus petites communes.
 La parole est à Mme Catherine Coutelle, présidente de la délégation de l’Assemblée nationale aux droits des femmes et à l’égalité des chances entre les hommes et les femmes.
+La délégation aux droits des femmes n’a pas déposé d’amendements sur cet article, mais elle voudrait appeler votre attention, madame la secrétaire d’État, comme elle l’a déjà fait lorsque vous êtes venue devant elle.
+Nous avons souligné à la page 115 de notre rapport que, s’agissant aussi bien des données de référence, abordées à l’article 9, que des données générales publiques, dont il sera question dans la section 3 du projet de loi, les données fournies par les administrations pourront, si elles sont de qualité, être utilisées en faveur de l’égalité entre les femmes et les hommes.
+Nous manquons cruellement de données sexuées, madame la secrétaire d’État.
+Très souvent, nous ignorons si les données qui nous sont fournies concernent des femmes ou des hommes – des données par exemple en matière d’emploi, d’égalité professionnelle ou encore de formation.
+Je ne connais pas dans le détail le dispositif relatif aux données de référence, mais, puisque le Gouvernement doit publier un décret sur la qualité minimale des données, il faudrait que celui-ci précise que les données devront être sexuées chaque fois que c’est possible, afin de mieux lutter contre les inégalités.
 Ce soir encore, un article est paru qui montre la persistance de grandes inégalités au sein de la fonction publique.
 Ce n’est pas le sentiment qu’on a spontanément, en l’absence de données sexuées.
 Et la publication de telles données nous rendrait également service dans la lutte contre les violences.
-La parole est à Mme Marie-Anne Chapdelaine, pour soutenir l’amendement no 548.
+Nous en venons aux amendements à l’article 9.
+La parole est à Mme Marie-Anne Chapdelaine, pour soutenir l’amendement numéro 548.
 Cet amendement, déposé à l’initiative de Serge Letchimy, entend appeler l’attention du rapporteur et de Mme la secrétaire d’État sur l’existence de données de référence locales, en matière de biodiversité ou de climatologie par exemple.
 Il appelle ainsi à prendre en compte la spécificité des territoires ultramarins.
 La parole est à M. Luc Belot, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, pour donner l’avis de la commission.
+Je me suis moi aussi interrogé sur l’opportunité d’établir des données de référence territoriales, afin de prendre en compte les spécificités non seulement de l’outre-mer, mais aussi de chacune de nos régions, voire de territoires plus petits.
+Je vais vous faire une réponse qui vaudra certainement pour l’ensemble des amendements du même type.
+Chacun veut aller vite et loin, ce qui est plutôt une bonne chose, et je suis généralement tout disposé à suivre.
+Mais, pour le coup, votre amendement nous ferait aller trop vite.
+Nous avons déjà stabilisé un cadre national : l’État assure sa mission de service public en mettant à disposition les données, et les collectivités locales les produisent.
+Les données concernées seront assez limitées, du moins dans un premier temps.
+Elles sont indiquées à la fois dans l’étude d’impact et dans le rapport : il s’agira de celles du cadastre, de la base nationale d’adresses collaborative, du référentiel à grande échelle, du registre des entreprises dit SIRENE et du registre national des associations.
+Envisager une démarche territoriale, plus resserrée que le schéma que nous avons défini, me semble certes avant-gardiste, mais pas encore tout à fait à notre portée.
+Il paraît en tout cas trop tôt pour inscrite une telle disposition dans la loi, même si elle est certainement souhaitable et si certains territoires s’y engageront très vite.
 Je vous invite donc à retirer votre amendement.
 À défaut, je lui donnerai un avis défavorable.
 La parole est à Mme la secrétaire d’État chargée du numérique, pour donner l’avis du Gouvernement.
@@ -23,13 +53,17 @@ Je demande également le retrait de cet amendement, ou j’y serai défavorable.
 Je précise que l’article 9 ne parle pas de données nationales, et n’exclut donc pas a priori des données de nature, ou d’origine, territoriale.
 Il n’est donc sans doute pas nécessaire d’apporter cette précision, puisque le champ est déjà ouvert pour des évolutions futures.
 Madame Chapdelaine, votre amendement est-il maintenu ? Je le retire.
-La parole est à M. Jean-Luc Bleunven, pour soutenir l’amendement no 711.
+Je suis saisie de trois amendements, numéros 711, 162 et 163, pouvant être soumis à une discussion commune.
+La parole est à M. Jean-Luc Bleunven, pour soutenir l’amendement numéro 711.
 En tenant compte des avis rendus par le Conseil d’État et la CNIL sur l’article 9, cet amendement a pour objet de mieux préciser le rôle des collectivités territoriales et de leurs groupements dans le nouveau service public de la donnée, relevant de la compétence de l’État et visant à mettre à disposition et à publier des données dites « de référence » en vue de faciliter leur réutilisation.
-La parole est à M. Alain Leboeuf, pour soutenir l’amendement no 162.
+La parole est à M. Alain Leboeuf, pour soutenir l’amendement numéro 162.
+Il tend à insérer un nouvel alinéa après l’alinéa 2.
+Comme André Chassaigne l’a rappelé, le Conseil d’État a estimé que l’article 9 du projet de loi était entaché d’incompétence négative, au sens notamment où les obligations pesant sur les collectivités locales au titre de leur participation à ce nouveau service public ne sont pas définies de manière suffisamment précise.
+De son côté, la CNIL a également émis certaines réserves.
 Le présent amendement a donc pour objet de mieux préciser le rôle des collectivités territoriales et de leurs groupements dans le nouveau service public de la donnée, relevant de la compétence de l’État et visant à mettre à disposition et à publier des données dites « de référence » en vue de faciliter leur réutilisation.
 Madame la secrétaire d’État, il est temps que nous prêtions un peu plus d’attention à nos collectivités locales, ainsi qu’à leurs groupements.
 Tel est le sens de cet amendement.
-Monsieur Leboeuf, je vous invite à présent à soutenir l’amendement no 163, qui est en discussion commune.
+Monsieur Leboeuf, je vous invite à présent à soutenir l’amendement numéro 163, qui est en discussion commune.
 Cet amendement a pour objet de donner la possibilité à l’État de déléguer aux collectivités territoriales et à leurs groupements la mission de service public relevant de sa compétence et consistant à mettre à disposition et à publier les données de référence produites ou reçues par les administrations.
 Cette délégation de compétence peut être une vraie solution pour nos collectivités.
 Un certain nombre d’acteurs territoriaux du numérique l’attendent avec impatience.
@@ -37,10 +71,19 @@ Quel est l’avis de la commission ? Pour les raisons que je viens d’exprimer
 Elle permet de bien comprendre le rôle des collectivités territoriales : si elles produisent de la donnée, c’est à l’État qu’il revient d’en assurer la diffusion.
 Il faut en rester à la rédaction actuelle.
 C’est pourquoi je suis défavorable aux trois amendements.
-Quel est l’avis du Gouvernement ? Il s’agit plutôt pour l’État de définir une liste de données de référence a minima et d’administrations qui seront soumises à cette obligation plus élevée que pour la plupart des données.
+Quel est l’avis du Gouvernement ? Même position.
+Il ne s’agit nullement de nier le rôle que jouent déjà et que devront jouer plus encore les collectivités locales dans la politique d’ouverture de leurs données publiques.
+C’est d’ailleurs la raison pour laquelle le Gouvernement a introduit un amendement afin d’harmoniser la nouvelle législation avec la loi NOTRe.
+Cette mission de service public de la donnée crée une nouvelle obligation juridique pour l’État, soit une charge, mais en aucun cas, elle n’empêche les collectivités d’assurer un niveau de qualité, de fréquence de publication ou de précision dans le format qui soit le meilleur possible.
+Il s’agit plutôt pour l’État de définir une liste de données de référence a minima et d’administrations qui seront soumises à cette obligation plus élevée que pour la plupart des données.
 Le choix du Gouvernement, c’est bien de distinguer le rôle de mission de service public de la donnée, qui relève de l’État, du rôle de production de données brutes pour diffusion et publication, qui est celui des collectivités locales.
 Le principe de libre administration est respecté, mais rien ne les empêche d’aller au-delà des obligations juridiques fixées par la loi.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 755.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 755.
+J’ai beau chercher, je ne vois toujours pas l’intérêt de créer une nouvelle catégorie de données de référence.
+Ce sont des données administratives comme les autres.
+Leur définition est soumise à des critères flous, comme celui de la qualité : il semble comprendre la mise à jour régulière, alors que cette notion d’actualisation, comme je l’ai déjà dit, ne devrait pas être une option mais une obligation qui s’applique à toutes les données que l’on veut diffuser.
+Par ailleurs, vos intentions sont assez peu lisibles, car la substance de cet article est renvoyée, comme d’habitude, à un décret d’application, ce que n’a pas manqué de souligner le Conseil d’État.
+Ce décret devra déterminer les modalités de la coordination entre administrations et la liste des données de référence, désigner les administrations responsables de leur production et de leur publication, et fixer la qualité minimale que la publication des données de référence doit respecter, notamment en termes de précision, de fréquence de mise à jour, d’accessibilité ou de format.
 Malheureusement, cet article me semble être, avant tout, un article d’affichage.
 À part multiplier les catégories et complexifier la loi CADA, je ne vois pas quel est son but.
 C’est vrai.
@@ -50,7 +93,11 @@ Mais la création de ces données de référence est l’un des éléments impor
 Aussi supprimer les alinéas 3 à 7 ne me semble-t-il pas pertinent.
 C’est pourquoi je souhaite que nous maintenions la rédaction actuelle.
 Avis défavorable.
-Je n’ai pas compris la démonstration ! Quel est l’avis du Gouvernement ? Pour cela, il faut un niveau d’exigence beaucoup plus élevé que pour la moyenne des données produites et publiées par l’administration.
+Je n’ai pas compris la démonstration ! Quel est l’avis du Gouvernement ? L’étude d’impact sur ce sujet est exhaustive et définit bien les intentions du Gouvernement concernant les données de référence.
+Contrairement à ce qui est écrit dans l’amendement, il ne s’agit pas purement et simplement de données administratives : leur périmètre est potentiellement plus large, puisqu’il s’agit d’inciter les administrations non pas à produire des données pour leurs propres besoins mais pour une diffusion aux fins de réutilisation.
+Ce sont le plus souvent des données qui font déjà l’objet de réutilisations très fréquentes, et qui ont vocation à irriguer tout l’écosystème.
+Ce sera par exemple, pour les besoins propres de l’administration ou entre administrations, les données qui circuleront grâce au programme « Dites-le-nous une fois », mais aussi, pour le secteur privé – et d’ailleurs à la demande du Groupement français de l’industrie de l’information, monsieur Tardy – des données statistiques réutilisables par les entreprises.
+Pour cela, il faut un niveau d’exigence beaucoup plus élevé que pour la moyenne des données produites et publiées par l’administration.
 C’est pourquoi nous avons conçu cette catégorie des données de référence, ou données pivot, qui imposent un tel niveau d’exigence à certaines catégories de données, dont M. Chassaigne a déjà commencé à dresser la liste avec justesse.
 Avis défavorable.
 La parole est à M. Michel Piron.
@@ -58,20 +105,21 @@ Même si je ne suis pas du tout un spécialiste de ces questions, j’apprécie 
 Mais je ne laisse pas de m’interroger.
 Ce que vous nous décrivez, c’est l’obligation que la loi enjoigne à l’administration de respecter un certain nombre d’exigences et d’informations à destination de publics plus larges.
 Est-il véritablement nécessaire pour cela de passer par la loi, ou même par le décret ? De simples circulaires ne suffiraient-elles pas ? C’est une question de gouvernance que je pose.
-Est-il possible que des ministres gouvernent sans avoir l’autorisation de la loi pour donner des injonctions ou des directives à l’administration ? C’est vrai que ça fait peur ! La parole est à Mme Isabelle Attard, pour soutenir l’amendement no 28.
+Est-il possible que des ministres gouvernent sans avoir l’autorisation de la loi pour donner des injonctions ou des directives à l’administration ? C’est vrai que ça fait peur ! La parole est à Mme Isabelle Attard, pour soutenir l’amendement numéro 28.
 Il est défendu.
-La parole est à Mme Marie-Anne Chapdelaine, pour soutenir l’amendement no 547.
+La parole est à Mme Marie-Anne Chapdelaine, pour soutenir l’amendement numéro 547.
 Au nom à nouveau de M. Letchimy, je veux insister sur le contexte particulier de certains territoires ultramarins.
 Nous proposons de définir dans ces départements des données de référence spécifiques, par exemple en matière de climatologie ou de biodiversité.
-Cet amendement concerne également le partage des données : ces départements étant intégrés à un environnement régional particulier, comment produire des analyses communes avec leurs voisins ? Quel est l’avis de la commission ? Le débat est le même que pour l’amendement no 548 : vous posez la question des données territoriales pour la même raison que précédemment.
+Cet amendement concerne également le partage des données : ces départements étant intégrés à un environnement régional particulier, comment produire des analyses communes avec leurs voisins ? Quel est l’avis de la commission ? Le débat est le même que pour l’amendement numéro 548 : vous posez la question des données territoriales pour la même raison que précédemment.
 C’est pourquoi je vous demande de retirer cet amendement, à défaut de quoi j’émettrai un avis défavorable.
 Quel est l’avis du Gouvernement ? Même question, même réponse, même avis ! La parole est à Mme Marie-Anne Chapdelaine.
 Je retire l’amendement.
-La parole est à Mme Chantal Guittet, pour soutenir l’amendement no 318.
+Je suis saisie de deux amendements identiques, numéros 318 et 532.
+La parole est à Mme Chantal Guittet, pour soutenir l’amendement numéro 318.
 Cet amendement vise à définir une concertation avec les collectivités territoriales et leurs groupements, lors de l’établissement du décret qui fixera le champ d’application des données de référence et précisera leurs modalités de participation.
-La parole est à M. Philippe Gosselin, pour soutenir l’amendement no 532.
+La parole est à M. Philippe Gosselin, pour soutenir l’amendement numéro 532.
 Il s’agit de remettre les collectivités territoriales au cœur du dispositif.
-Les amendements nos162 et 163 ont été rejetés tout à l’heure, mais je crois qu’il est important que les collectivités, qui sont des pièces maîtresses du dispositif, soient associées le plus largement possible.
+Les amendements numéros162 et 163 ont été rejetés tout à l’heure, mais je crois qu’il est important que les collectivités, qui sont des pièces maîtresses du dispositif, soient associées le plus largement possible.
 Je regrette d’ailleurs que Mme Chapdelaine ait retiré son amendement relatif aux outre-mer.
 Moi aussi ! Il y a en effet un réel intérêt pour ces territoires à ce que nous collions au plus près à leur environnement géographique.
 Ce qui est valable pour les ultramarins l’est aussi pour nous.
@@ -81,25 +129,29 @@ Quel est l’avis de la commission ? Nous avons déjà évoqué la manière d�
 Je peux souscrire à la volonté d’élargir le champ et d’être efficace, mais concernant les données de référence, qui seront stockées de manière nationale et qui auront cette vocation élargie, la pratique relèvera plutôt de l’échange.
 En outre, au moment où l’enjeu est de simplifier, vouloir réglementer des phases de concertation, dans une matière technique assez simple, ne me semble relever ni de la loi ni du décret.
 Avis défavorable.
-Quel est l’avis du Gouvernement ? En revanche, la configuration est tout autre s’agissant des obligations de mission de service public qui, pour les raisons que j’ai déjà évoquées, ne s’appliquent qu’à l’État.
+Quel est l’avis du Gouvernement ? J’ai déjà eu l’occasion de réaffirmer tout l’intérêt porté par le Gouvernement au travail, souvent exceptionnel et très avant-gardiste, mené en ce moment par certaines collectivités locales en matière d’ouverture de leurs données publiques.
+C’est pourquoi le Gouvernement a émis un avis de sagesse sur le décret concernant la liste des licences qui seront utilisées, notamment par les collectivités locales.
+En revanche, la configuration est tout autre s’agissant des obligations de mission de service public qui, pour les raisons que j’ai déjà évoquées, ne s’appliquent qu’à l’État.
 Autant je suis favorable à la concertation la plus large possible avec les collectivités locales, autant il me semble que dans ce cas de figure elle ne s’impose nullement.
 À l’inverse, elle n’est pas exclue en l’état actuel, puisque le Conseil national d’évaluation des normes pourrait être sollicité.
 C’est la raison pour laquelle je demande le retrait de ces amendements, à défaut de quoi j’y serai défavorable.
 La parole est à M. Christian Paul.
-Il me semble important que le Gouvernement prenne des engagements à destination des outre-mer, car si la vitalité numérique y est très importante, ils ont aussi des spécificités.
+Je mets à profit cette discussion pour revenir un instant sur l’amendement concernant les outre-mer cosigné par Marie-Anne Chapdelaine et Serge Letchimy.
+J’étais assis dans le point aveugle de la présidence et je n’ai pas pu intervenir à temps… Il me semble important que le Gouvernement prenne des engagements à destination des outre-mer, car si la vitalité numérique y est très importante, ils ont aussi des spécificités.
 Si l’on veut que l’insularité numérique n’aboutisse pas à une forme d’isolement, il serait important que l’esprit de l’amendement de Serge Letchimy soit validé par le Gouvernement et que vous vous engagiez, madame la secrétaire d’État, à mener un travail spécifique avec ces collectivités.
 Certes, l’amendement a été retiré, mais ce serait de très bonne politique de le faire pour que les données de référence dans ces territoires ne soient pas traitées de façon uniforme.
 On est d’accord.
+Monsieur Paul, vous n’étiez nullement dans un angle mort de la présidence, mais vous avez rappelé vous-même que l’amendement de M. Letchimy avait été retiré.
 La parole est à M. Michel Piron.
 Madame la secrétaire d’État, j’ai bien entendu votre bienveillance à l’égard des collectivités locale et la considération que vous leur manifestez, mais quand vous dites que le nouveau dispositif sera réservé aux services publics, faut-il comprendre que les collectivités locales n’en feraient pas partie ? Il y a différents niveaux de services publics.
 Il y en a certes de niveau national, relevant de l’État, mais il me semble qu’il y a aussi des niveaux territoriaux qui peuvent relever des collectivités locales.
-La parole est à Mme Nathalie Kosciusko-Morizet, pour soutenir l’amendement no 188 rectifié.
+La parole est à Mme Nathalie Kosciusko-Morizet, pour soutenir l’amendement numéro 188 rectifié.
 Cet amendement propose de compléter l’alinéa 7 par la phrase suivante : « Ce décret précise également le calendrier dans lequel chacun des types d’actes faisant l’objet d’une publication réglementée est intégré dans les données de référence. » Il s’agit de fixer un délai au bout duquel tout serait publié en ligne.
 Quel est l’avis de la commission ? Je parle sous le contrôle de Mme la secrétaire d’État, mais il me semble que les types d’actes faisant l’objet d’une publication réglementée qu’évoque l’amendement n’ont pas vocation à être intégrés dans les données de référence.
 La publication en ligne des données de droit incombe à la direction de l’information légale et administrative, la DILA, et je crois que nous pouvons tous reconnaître qu’elle s’en acquitte particulièrement bien.
 Il faut donc que cela reste dans ses missions.
 Avis défavorable.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 756.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 756.
 J’ai déjà dit que cet article n’est qu’un article d’affichage dont la substance est renvoyée à un décret d’application.
 Je prends les paris : celui-ci ne sortira jamais, ou alors dans fort longtemps.
 Dès lors, pour lancer un challenge à la personne qui devrait le rédiger, je propose que le décret d’application soit pris dans un délai de six mois… et je lui souhaite bon courage.
@@ -107,7 +159,8 @@ Quel est l’avis de la commission ? Je suis plutôt homme à relever les paris
 Par conséquent, je donne un avis favorable à l’amendement de M. Tardy ! (Exclamations sur les bancs du groupe Les Républicains.) Je prends date ! Quel est l’avis du Gouvernement ? Je me réjouis de constater que si M. Tardy est contre le service public de la donnée, il est en même temps très pressé de le voir naître.
 (Sourires.) Le décret ne sortira jamais ! C’est l’actuel gouvernement qui a introduit des procédures de contrôle de l’application des lois et de leur effectivité dans des proportions jamais vues auparavant,… Très bien ! … au point qu’on peut appliquer statistiques et pourcentages au suivi de l’application de toutes les lois ! Tous les records sont battus actuellement dans ce domaine.
 Je tiens donc le pari en émettant un avis de sagesse.
-(Applaudissements sur les bancs du groupe socialiste, républicain et citoyen.) La parole est à M. Lionel Tardy, pour soutenir l’amendement no 20.
+(Applaudissements sur les bancs du groupe socialiste, républicain et citoyen.) Je suis saisie de plusieurs amendements portant articles additionnels après l’article 9.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 20.
 Comme prévu, la loi pour l’accès au logement et un urbanisme rénové, dite loi ALUR, n’est pas source de simplification, ce que le Gouvernement a réalisé avec retard.
 En particulier les promesses de vente sont devenues de véritables pavés de plusieurs centaines de pages, impliquant des démarches supplémentaires et des retards dans les ventes, ce qui est jugé inacceptable sur le terrain, on nous le dit tous les jours.
 La numérisation pourrait constituer une piste pour alléger ce dispositif.
@@ -120,7 +173,13 @@ Or vous m’accorderez que l’achat ou la vente d’un bien immobilier ne relè
 Vous proposez que les pièces annexées à la promesse de vente d’un bien immobilier soient envoyées à l’acquéreur par voie électronique sauf refus explicite de sa part, alors qu’aujourd’hui, vous l’avez rappelé, c’est l’inverse : l’accord de l’acquéreur doit être explicite.
 Je ne suis pas favorable au renversement de la charge de la preuve et je crois que cela aurait peu d’efficacité : il faudrait d’abord que l’acquéreur soit informé de la possibilité de refuser l’envoi dématérialisé, puis prévoir un délai pour l’envoi des documents sous forme papier… Votre proposition me paraît en l’état peu aboutie.
 Mais c’est ce qui se pratique pour les algorithmes ! Nous souhaitons tous des mesures de simplification, mais pour ce qui est de la règle du silence vaut accord, commençons à la faire appliquer par l’État et nous verrons plus tard pour les ventes de biens immobiliers ! Avis défavorable.
+Je suis saisie de deux amendements, numéros 587 et 41, qui peuvent faire l’objet d’une présentation groupée.
 La parole est à Mme Bernadette Laclais, pour les soutenir.
+Ces deux amendements, que j’ai cosignés avec Gérard Bapt, ne présentent en effet que quelques différences rédactionnelles.
+Leur objet est de permettre un échange d’informations plus rapide entre les patients, les prescripteurs et ce qu’on appelle les prestataires de services et distributeurs de matériels.
+Le but est d’assurer la meilleure prise en charge possible pour les patients atteints de maladies chroniques, sachant que ces dernières peuvent avoir des conséquences extrêmement graves si elles ne sont pas correctement traitées et qu’elles sont la première cause de mortalité dans le monde.
+On sait que le fait de suivre son traitement de manière constante et sur le long terme améliore l’état de santé du patient, réduisant le risque de développer des troubles graves.
+Or, les technologies numériques permettent maintenant de suivre en continu le bon usage d’un dispositif et de mener en temps réel les actions optimisant cet usage, pour le plus grand profit du patient.
 Je précise que le patient resterait bien sûr libre d’arrêter l’utilisation du dispositif médical et du télésuivi qui y serait associé.
 Il s’agit de permettre des échanges de données pour assurer le suivi médical.
 Ce serait là une occasion d’expérimenter et de garantir aux patients atteints de maladie chronique la meilleure prise en charge possible.
@@ -132,64 +191,194 @@ Mais je rappelle que Mme la secrétaire d’État s’était engagée en commis
 Il me semble qu’il y aurait aussi une fenêtre de tir dans le cadre du projet de loi de financement de la sécurité sociale.
 Certes, le plus tôt vaudrait le mieux, mais je ne peux que demander le retrait.
 À défaut, l’avis serait défavorable aux deux amendements.
-Quel est l’avis du Gouvernement ? Pour l’ensemble de ces raisons, le Gouvernement demande le retrait de ces amendements.
+Quel est l’avis du Gouvernement ? Je m’étais effectivement engagée la semaine dernière, en commission des lois, à expertiser ces amendements, tant le Gouvernement est favorable à tous les principes qui les sous-tendent.
+Le numérique révolutionne le monde de la santé : grâce notamment à l’utilisation des données concernant les patients, il améliore le suivi et la prévention de certaines maladies chroniques, en particulier les maladies cardiovasculaires ou respiratoires et le diabète.
+C’est rendu possible grâce à la télémédecine, avec un dispositif de suivi médical à distance.
+Une expérimentation à ce sujet est en train d’être menée par le ministère de la santé et des affaires sociales.
+Un rapport, rendu fin décembre 2015, souligne la complexité de mise en place de ce système puisqu’il implique de mettre en relations les patients, les prestataires privés extérieurs, les fabricants de dispositifs médicaux et bien sûr les médecins prescripteurs.
+Cela oblige à se montrer très prudent dans un domaine où sont maniées des données particulièrement sensibles.
+Se pose également la question du remboursement de l’utilisation de ces dispositifs médicaux, certaines associations de malades ayant exprimé la crainte que des traitements ne soient plus remboursés si le suivi du parcours actuel des malades était abandonné.
+Ce n’est absolument pas l’intention du Gouvernement.
+Je répète que le ministère de la santé et des affaires sociales a pris la direction indiquée par ces amendements, avec la perspective de présenter le résultat des expérimentations de télésurveillance en cours, qui sont d’ailleurs d’une ampleur inégalée au niveau international.
+Mais avant de passer de l’expérimentation au droit commun, dans ce domaine très complexe, il faut tirer un bilan complet.
+La ministre de la santé a donc suggéré que le dispositif soit intégré dans le prochain projet de loi de financement de la sécurité sociale s’il s’avère réaliste.
+Pour l’ensemble de ces raisons, le Gouvernement demande le retrait de ces amendements.
 À défaut, il serait dans l’obligation d’émettre un avis défavorable.
 La parole est à Mme Laure de La Raudière.
-Madame la secrétaire d’État, j’avais déjà soulevé cette question en commission : les débats sur les articles additionnels sont quelquefois plus intéressants que les débats sur les articles eux-mêmes ! Eh oui ! J’ai donc très peur que, dans six mois, le Gouvernement ne donne exactement la même réponse, en raison d’une certaine réticence de l’administration à avancer sur le sujet.
+Madame la secrétaire d’État, j’avais déjà soulevé cette question en commission : les débats sur les articles additionnels sont quelquefois plus intéressants que les débats sur les articles eux-mêmes ! Eh oui ! Ils montrent toute l’ampleur du sujet du numérique dans la société et aussi la petitesse du champ couvert par votre texte, au titre pourtant pompeux de « Pour une République numérique ».
+J’ai peur aussi que votre réponse ne traduise la très grande réticence de la caisse primaire d’assurance maladie à avancer sur le sujet.
+Autant j’ai confiance en la ministre, qui voit bien l’intérêt d’améliorer le suivi des maladies chroniques par des méthodes numériques, autant j’ai peur que la CPAM veuille garder ces données pour elle et rechigne à apporter de l’innovation dans la pratique médicale, dans le parcours de soins, dans tout ce qui va avec les technologies de e-santé.
+J’ai donc très peur que, dans six mois, le Gouvernement ne donne exactement la même réponse, en raison d’une certaine réticence de l’administration à avancer sur le sujet.
 Il est fort dommage que nous ne puissions pas débattre davantage de l’e-santé, qui représente un enjeu majeur pour les Français.
 La parole est à M. Philippe Gosselin.
-Outre cette remarque de fond, pouvez-vous préciser, madame Laclais, comment s’articulent les deux amendements ? Il me semble qu’ils sont identiques, hormis le paragraphe sur les tarifs de responsabilité et les primes, qui ne figure pas dans l’amendement no 41.
+Notre rapporteur s’inquiétait de ce que cet amendement soit un cavalier budgétaire.
+Je m’inquiète surtout de ce qui se passera si le projet de loi Macron 2 ne voit pas le jour et qu’il doit être intégré ici ou là dans les textes, au gré des événements : je crains que la majorité ne passe son temps à déplorer des cavaliers ! Et il serait cavalier qu’elle refuse de le faire.
+Outre cette remarque de fond, pouvez-vous préciser, madame Laclais, comment s’articulent les deux amendements ? Il me semble qu’ils sont identiques, hormis le paragraphe sur les tarifs de responsabilité et les primes, qui ne figure pas dans l’amendement numéro 41.
 La parole est à Mme Bernadette Laclais.
+C’est cela.
+Je remercie le rapporteur d’avoir rappelé le contexte de ces amendements et souligné la constance de Gérard Bapt, lors de la discussion à la fois du présent texte et du projet de loi relatif à la santé.
+Pour ce dernier, le principe de l’entonnoir nous avait effectivement conduits à retirer notre amendement.
+Mais il y a toutefois un vrai sujet, qu’il faudra savoir traiter.
+Aussi, madame la secrétaire d’État, j’ai apprécié la manière dont vous l’avez évoqué.
+Il y a en effet de nombreux acteurs qui gravitent autour de cette question.
+L’idéal serait de parvenir à un consensus.
+Nous savons bien que certaines interrogations peuvent être légitimes, notamment émanant d’associations de patients.
+L’amendement ne vise pas autre chose qu’une aide, un suivi, un accompagnement du patient.
+Il ne s’agit nullement de sanctionner l’absence de suivi, mais d’accompagner des personnes dans le traitement de leur maladie chronique.
+C’est un bienfait pour elles, mais aussi sur le plan collectif, compte tenu des coûts de ces pathologies.
 Je retire donc ces deux amendements.
 J’ai bien noté votre ouverture, madame la secrétaire d’État, s’agissant du projet de loi de financement de la sécurité sociale.
 Vous pouvez compter sur nous pour mettre à profit le temps restant d’ici là pour favoriser la concertation sur cette question, car il faut essayer d’aboutir.
 C’est une perspective très positive pour les malades, mais toutes les dispositions doivent être bien comprises.
 Nous travaillerons dans cet état d’esprit.
 Aussi, je vous remercie, madame la secrétaire d’État, des précisions que vous avez bien voulu apporter.
-La parole est à M. Philippe Gosselin, pour soutenir l’amendement no 531.
+La parole est à M. Philippe Gosselin, pour soutenir l’amendement numéro 531.
+La mise à jour des informations émanant de l’État et des services publics à destination du grand public pose problème.
+Même le site monservice-public.fr contient d’énormes erreurs.
+Certaines mises à jour interviennent cinq à six mois après les modifications ! Or, si l’on veut être crédible en mettant une information à disposition du grand public, cela suppose de l’actualiser.
+Il s’agit donc de rendre obligatoire ces mises à jour, selon des modalités qui restent à fixer par décret car, la loi n’a pas à être trop bavarde et à entrer dans le détail des dispositions.
+Sans pour autant faire peser une pression insupportable, il serait bon d’accompagner ce principe d’obligation de sanctions au moins symboliques.
+Disposer d’informations erronées sur des plateformes, des services qui ne sont pas à jour, c’est pire que de ne pas avoir d’information.
+Nos concitoyens pensent s’adresser à des sites de référence, cela doit être le cas.
 Cet amendement introduit donc une obligation de mise à jour, que les services publics et l’État devront rappeler avec insistance.
-Quel est l’avis de la commission ? Je vous demande donc de retirer cet amendement, monsieur Gosselin, en m’associant à votre demande d’une très grande vigilance de l’État, en particulier sur ce site.
+Quel est l’avis de la commission ? Malheureusement, la réalité que vous décrivez, monsieur Gosselin, est parfaitement juste.
+Les données de certains sites, dont monservice-public.fr, ne sont pas à jour.
+Nous devons alerter l’État et le Gouvernement sur ce fait afin que ce site, que nous citons partout, soit vraiment un site de référence et que ses informations soient justes en permanence.
+Monsieur Gosselin, vous êtes attaché à ce que la loi ne soit pas bavarde.
+Je souscris à ce principe et, plutôt que de renvoyer au décret, je vous propose un renvoi à l’alinéa 2 de l’article 8 qui vient d’être adopté : « Elles publient chaque année une version mise à jour de ce répertoire ».
+Cela me paraît efficace.
+Je vous demande donc de retirer cet amendement, monsieur Gosselin, en m’associant à votre demande d’une très grande vigilance de l’État, en particulier sur ce site.
 À défaut de retrait, j’émettrai un avis défavorable.
-Quel est l’avis du Gouvernement ? Vous pouvez naturellement compter sur ma vigilance, monsieur Gosselin, pour continuer à exercer une pression constante sur les administrations, afin qu’elles veillent à l’exactitude des informations publiées sur leur site.
+Quel est l’avis du Gouvernement ? Même avis : retrait ou avis défavorable.
+Bien sûr, comment ne pas partager l’objectif d’une actualisation régulière des informations fournies par les services publics ? La non-actualisation ne reflète pas un manque de volonté mais, plus crûment, un manque de ressources.
+Soyez assuré que les agents publics, notamment ceux de la Direction de l’information légale et administrative, y travaillent jour après jour.
+Que changerait le fait d’inscrire une telle obligation dans la loi ? La pression de nos concitoyens et l’élévation de leur niveau d’attente sont davantage susceptibles d’entraîner des évolutions positives.
+Vous ne parlez que de l’État et des services publics, monsieur Gosselin, mais j’ai aussi rappelé des chiffres concernant les collectivités locales, qui reflètent la réalité de leurs moyens : aujourd’hui, sept collectivités sur dix n’ont pas de site internet ! C’est là qu’est le problème.
+Vous pouvez naturellement compter sur ma vigilance, monsieur Gosselin, pour continuer à exercer une pression constante sur les administrations, afin qu’elles veillent à l’exactitude des informations publiées sur leur site.
 Pour cela, les ressources et les moyens disponibles doivent être à la hauteur des enjeux.
-Monsieur Gosselin, souhaitez-vous retirer l’amendement ? Nous devons donc passer à la vitesse supérieure.
+Monsieur Gosselin, souhaitez-vous retirer l’amendement ? Je ne le retire pas.
+Il s’agit bien évidemment d’un amendement d’appel, qui souligne une vraie difficulté.
+Vous parlez des collectivités qui n’ont pas de site internet, mais c’est préférable à voir ses administrés se demander si les informations qu’ils lisent sont exactes ! La transparence et la fiabilité de l’information sont cruciales.
+Or trop de sites n’assurent pas l’actualisation de leurs données, monservice-public.fr est loin d’être le seul.
+Celle-ci doit faire l’objet d’une ardente obligation, et cela suppose de l’inscrire dans la loi.
+Il ne suffit pas de s’en remettre à une « pression » qui, d’ailleurs, devrait déjà exister ! Il serait regrettable qu’elle ne soit pas déjà exercée, mais si elle l’est, nous voyons bien qu’elle n’est pas suivie d’effet.
+Nous devons donc passer à la vitesse supérieure.
 Pour éviter une loi trop longue, je propose de confier les modalités d’application au décret, mais il faut qu’elle fixe le principe.
 Madame la secrétaire d’État, vous disiez vouloir élaborer une constitution de la République numérique.
 Une constitution se doit de fixer certains grands principes, et celui de l’actualisation des informations me paraît fondamental.
-La parole est à M. Luc Belot, pour soutenir l’amendement no 710.
+La parole est à M. Luc Belot, pour soutenir l’amendement numéro 710.
+Chacun se souvient qu’à l’initiative de Mme Attard et de M. Coronado, la commission avait adopté ce nouvel article qui dispose que le Conseil supérieur de l’audiovisuel – CSA – communique chaque mois aux présidents de l’Assemblée nationale et du Sénat et aux responsables des différents partis politiques représentés au Parlement le relevé des temps d’intervention des personnalités politiques.
 Mais le CSA rencontre parfois des difficultés à obtenir ces données de certaines chaînes de radio ou de télévision.
 Cet amendement vise donc à insérer une mention explicite : « Les services de radio et de télévision transmettent les données relatives aux temps d’intervention des personnalités politiques […] au Conseil selon les conditions, notamment de périodicité et de format, qu’il détermine ».
 Cet ajout rendra l’amendement adopté en commission pleinement effectif.
 Quel est l’avis du Gouvernement ? Les propos du rapporteur sont très explicites.
 Après des hésitations initiales, le Gouvernement est heureux d’émettre un avis favorable sur cet amendement.
 La parole est à M. Christian Paul.
+Nous abordons avec cet article la question des logiciels libres.
+L’adoption des logiciels libres par les administrations doit être reconnue et surtout, amplifiée.
+Certains amendements y contribueront.
+Un logiciel libre, ce n’est pas un choix technologique, mais une caractéristique juridique.
+Il appartient aux administrations clientes de leur donner la priorité, dans le cadre du code des marchés publics.
+L’usage amplifié des logiciels libres dans les administrations présente au moins trois vertus.
+Premièrement, il permet de partager, de mutualiser les compétences, et de faire appel à l’intelligence collective des utilisateurs.
+Deuxièmement, il conduit les administrations et les agents publics à mieux maîtriser leurs outils logiciels et informationnels, ce qui permet une sorte de conquête de souveraineté – terme à la mode s’agissant du numérique et que j’emploie rarement, mais qui est adapté ici.
+Troisièmement, il entraîne une économie d’argent public, même si ces logiciels ne sont pas gratuits, et lutte contre certains effets de rente.
 Si nous pensons que le monde numérique vise à donner du pouvoir aux utilisateurs, il faut que cet article donne une priorité à l’usage des logiciels libres.
 Nous y reviendrons lors de la discussion sur les différents amendements déposés.
 La parole est à M. Gilles Lurton.
+Cet article 9 ter prévoit que les services de l’État, administrations, établissements publics et entreprises du secteur public, les collectivités territoriales et leurs établissements publics encouragent l’utilisation des logiciels libres et des formats ouverts lors du développement, de l’achat ou de l’utilisation d’un système informatique.
+Issu d’un amendement de la majorité en commission, il peut paraître séduisant pour les collectivités territoriales et les établissements publics.
+Je vous avoue que la proposition m’a également séduit, lors de ma première lecture du texte issu de la commission.
+Toutefois, un certain nombre de petites start-up de ma circonscription m’ont fait part de leur crainte de voir cette proposition limiter leur possibilité d’accéder à la commande publique.
+Elles m’ont expliqué qu’un logiciel libre n’était pas forcément un logiciel gratuit.
+Si, dans le modèle du logiciel libre, le téléchargement des composants essentiels peut être gratuit, le logiciel est destiné à être adapté aux besoins de l’utilisateur par une société de services ou par les équipes informatiques internes.
+Il existe donc un coût de développement spécifique et de maintenance du logiciel.
+À l’inverse, le logiciel propriétaire est un produit standardisé, qui fournit une solution clés en main, souvent appréciée par les plus petites structures, notamment les municipalités ou les petites collectivités territoriales.
+D’ailleurs, 90 % des acteurs français du secteur travaillent sur des logiciels propriétaires.
+Ces start-up m’ont également signalé le risque qu’une telle disposition ne freine leur développement, alors que la France vient d’envoyer 120 d’entre elles au grand salon de l’électronique de Las Vegas, où M.
+Macron s’est également rendu.
+Toutes ces petites entreprises françaises innovantes craignent de se voir limiter l’accès à la demande publique.
 J’espère que vous me rassurerez sur ce point, madame la secrétaire d’État, et je me demande si le bon sens ne voudrait pas qu’on laisse la liberté de choix aux collectivités territoriales, sans avantager un type de logiciel plutôt qu’un autre.
 Quel conservatisme ! La parole est à M. André Chassaigne.
+Je voudrais revenir sur la genèse de la mention du logiciel libre dans le présent texte.
+Celle-ci résulte d’une très forte mobilisation des internautes lors du processus de concertation préalable, via une forme de maïeutique citoyenne, alors qu’elle n’avait pas été retenue par le Gouvernement dans le texte initial.
+Elle a donc ensuite été introduite par l’intermédiaire d’un amendement déposé en commission des lois.
+Selon nous, il s’agit d’une excellente chose : cela montre que le texte, sous l’effet d’une démarche participative, a pu évoluer et être considérablement enrichi, même s’il a fallu un travail parlementaire pour convaincre le Gouvernement du bien-fondé de cette disposition.
 Il y eut toutefois un fort lobbying des éditeurs de logiciels pour s’y opposer.
 On vient de le voir ! Cela peut se comprendre, vu le poids du secteur des logiciels propriétaires, dont on estime qu’il pèserait 50 milliards d’euros.
 On se doute que derrière tout cela, il existe des rapports de force ! Certains peuvent vouloir démontrer qu’en faisant de telles préconisations, nous outrepassons nos pouvoirs et remettons en cause la liberté d’acheter.
 Pourtant, je ne crois pas que tout cela soit contraire au code des marchés publics.
 La parole est à Mme Chantal Guittet.
+Favoriser l’utilisation des logiciels libres est un grand pas vers plus d’égalité et de partage de l’information.
+Le texte emploie le verbe « encourager », mais c’est à mes yeux insuffisant.
+L’Union européenne, elle, émet des recommandations ; elle appelle à remplacer systématiquement les logiciels privateurs par des logiciels libres et demande que, dans les marchés publics, on retienne le logiciel libre comme critère de sélection obligatoire pour tout ce qui est de l’ordre du service public.
 Je m’étonne que la France ne suive pas les recommandations de l’Union européenne.
 La priorité au logiciel libre dans le secteur public est une condition indispensable pour une informatique loyale au service de l’intérêt général.
 Excellent ! La parole est à M. Philippe Gosselin.
+Il me paraît intéressant d’encourager le développement des logiciels libres, mais l’idée de fixer une quasi-obligation ou une exclusivité me laisse un peu perplexe.
+Je rejoins ce qu’a dit M. Lurton à ce sujet.
+Je m’interroge notamment sur la conformité d’une telle mesure avec le principe de libre administration des collectivités locales.
+Je me méfie aussi de la gratuité, qui pourrait apparaître comme la solution immédiate.
+En effet, le coût d’un logiciel ne permet pas de déterminer les coûts d’adaptation et de maintenance qui seront supportés.
+Il est nécessaire d’aller au-delà.
+Il existe dans ce domaine une circulaire dont le contenu me paraît plutôt intelligent – je pense que mon point de vue sera partagé par la majorité : il s’agit de la circulaire Ayrault du 19 septembre 2012, qui reprend la présente proposition, mais en encourageant sans obliger, en suggérant sans contraindre, et en faisant référence au cycle du produit.
+Si l’on veut avoir une vision globale du sujet, il faut prendre en considération l’ensemble du processus et ne pas s’arrêter à l’argument quelque peu « racoleur » de la gratuité du logiciel ; il ne faut pas non plus sous-estimer les investissements réalisés par certaines entreprises, qui peuvent s’imposer sur le marché européen.
 Sans doute le marché ne doit-il pas dicter sa loi, mais on doit aussi s’efforcer de faire les choses avec finesse et équilibre.
 Or une exclusivité accordée au logiciel libre me semble dangereuse.
-La parole est à Mme Delphine Batho, pour soutenir l’amendement no 583.
+La parole est à Mme Delphine Batho, pour soutenir l’amendement numéro 583.
 D’abord, il ne faut pas confondre la notion de logiciel libre avec la question de la gratuité : cela n’a rien à voir.
-L’amalgame est parfois fait ! Je précise qu’une décision du Conseil d’État de 2011 considère qu’un marché de services informatiques peut se référer à un logiciel libre et qu’une décision de la Cour constitutionnelle italienne de 2010 va dans le même sens.
+L’amalgame est parfois fait ! Ensuite, pour ce qui est des perspectives de développement économique, je ferai référence à un article des Échos paru en novembre dernier.
+Il y est dit que le marché du logiciel libre pèse 4,1 milliards d’euros en France, en augmentation de 33 % depuis 2012, que c’est un secteur, loin des grands acteurs dominants, qui embauche, et que l’open source représente 50 000 salariés dans des petites et moyennes entreprises, des entreprises de taille intermédiaire et des start-up – 66 % des acteurs comptent moins de dix salariés.
+S’agissant des perspectives de développement économique, tout cela me paraît important.
+La question des logiciels libres a donné lieu à une longue discussion en commission des lois.
+Plusieurs amendements proposaient la rédaction suivante : « donne la priorité aux logiciels libres ».
+L’amendement qui a finalement été adopté était un amendement de repli présenté par le groupe socialiste ; on y utilise le terme « encourage ».
+J’avais dit en commission que je proposerais une nouvelle rédaction pour la séance plénière, car ce mot a une portée normative faible.
+Tel est le sens de l’amendement numéro 583, qui reprend les termes du code de l’éducation – « les logiciels libres sont utilisés en priorité » – et qui, pour tenir compte des arguments avancés par le Gouvernement, renvoie la définition des conditions d’application à un décret en Conseil d’État.
+Je précise qu’une décision du Conseil d’État de 2011 considère qu’un marché de services informatiques peut se référer à un logiciel libre et qu’une décision de la Cour constitutionnelle italienne de 2010 va dans le même sens.
 Cette disposition n’est donc pas contraire au droit européen.
-Quel est l’avis de la commission ? Je préfère donc en rester à la rédaction actuelle, même si j’avais émis des réserves à son sujet en commission.
+Quel est l’avis de la commission ? Ma réponse vaudra pour une grande partie des amendements déposés sur l’article, sur ce sujet important, qui revient de manière régulière.
+Je serai donc un peu long, même s’il faut savoir ne pas abuser des bonnes choses.
+Je remercie les orateurs d’avoir opéré une distinction entre le logiciel libre et le logiciel gratuit.
+Certains articles de presse, qui vont un peu loin en matière de simplification, laissent entendre qu’il existe un lien direct entre les deux, alors que ce n’est pas aussi simple.
+Ce sont les services à la fois de l’État et des collectivités locales qui sont en cause.
+Avant de devenir parlementaire, j’ai été chargé, au sein d’un exécutif local, des questions liées aux services informatiques, et j’ai dû choisir entre logiciel libre et logiciel propriétaire.
+J’ai privilégié tantôt l’un tantôt l’autre, et j’ai apprécié de pouvoir le faire sans que l’État n’intervienne dans mon choix.
+Dans le cadre de la libre administration des collectivités locales, c’est quelque chose à quoi on se doit d’être attaché.
+Vous évoquiez à l’instant, madame Batho, la discussion en commission sur la portée normative du verbe « encourager ».
+Je vous rappelle que j’avais un avis extrêmement réservé sur ce terme, pour cette raison de portée d’abord, et aussi du point de vue du principe de libre administration des collectivités territoriales.
+Vous proposez maintenant d’écrire que les logiciels libres seront utilisés « en priorité ».
+Je voudrais appeler votre attention sur certains points, de manière à nourrir la réflexion sans pour autant apporter de réponse tranchée – car je n’aime pas que l’on caricature les idées de tel ou tel en affirmant qu’il est pour ou contre le logiciel libre.
+L’enjeu est de savoir si l’on décide d’accorder une priorité aux logiciels libres dans le cadre des services de l’État.
+Nous sommes ici pour écrire la loi, et il faut garder à l’esprit que tous les éléments retenus doivent être constitutionnels.
+L’expression « utilisés en priorité » me pose problème.
+D’abord, elle s’accorde mal avec le droit de la commande publique – largement communautarisé – qui prévoit que les candidats sont placés dans une situation d’égalité et de libre accès.
+Vous avez cité, monsieur Gosselin, les orientations pour l’usage des logiciels libres dans l’administration publiées en septembre 2012 par Jean-Marc Ayrault, document qui avait été salué par la communauté du logiciel libre et rédigé dans un souci d’égalité.
+Je préférerais que l’on reste dans ce cadre, qui me semble juste, y compris en ce qui concerne la commande publique.
+D’autre part, nous disposons d’un certain nombre d’éléments concernant la jurisprudence constitutionnelle, qui est particulièrement fournie, qui me font craindre qu’une telle mesure ne soit déclarée inconstitutionnelle.
+En effet, le principe d’égalité ne s’oppose ni à ce que le législateur règle de façon différente des situations différentes ni à ce qu’il déroge à l’égalité pour des raisons d’intérêt général, pourvu que dans l’un et l’autre cas la différence de traitement qui en résulte soit en rapport direct avec l’objet de la loi qui l’établit.
+Il est ainsi arrivé qu’une disposition soit déclarée contraire au principe d’égalité, comme dans le cas de la décision 2001-452 relative à la loi portant mesures urgentes de réformes à caractère économique et financier.
+Cette décision admet que la loi peut prévoir un accès préférentiel aux marchés publics en faveur de structures coopératives et associatives visant à promouvoir l’emploi de personnes rencontrant des difficultés particulières d’insertion, mais ajoute que cette dérogation doit en rester une ; il en résulte que la préférence instaurée par le législateur doit porter sur une « part réduite, pour des prestations définies et dans la mesure strictement nécessaire à la satisfaction des objectifs d’intérêt général ainsi poursuivis », ce que ne faisait pas la loi en cause, dont les dispositions se caractérisaient tant par leur ampleur que par leur imprécision.
+Je voudrais que nous ayons ces éléments en tête au moment où l’on veut introduire l’expression « utilisés en priorité » dans le texte.
+Je préfère donc en rester à la rédaction actuelle, même si j’avais émis des réserves à son sujet en commission.
 Parler d’usage prioritaire me paraîtrait trop dangereux en termes de droit de la concurrence, d’atteinte à liberté d’entreprendre et de jurisprudence constitutionnelle.
 Avis défavorable, donc.
 Quel est l’avis du Gouvernement ? Je constate que, dans ce vif débat concernant le recours aux logiciels libres dans les administrations, les jugements sont de part et d’autre très sévères, voire extrêmes.
 J’aimerais pourtant que l’on reconnaisse l’avancée réelle qui consiste à inscrire dans la loi un encouragement au recours au logiciel libre,… Mais un « encouragement », et rien de plus ! …puisque cette incitation n’existait auparavant que dans une circulaire.
 C’est bien la preuve que le Gouvernement accorde une grande importance à la promotion du logiciel libre.
 D’ailleurs, de plus en plus de ministères se tournent vers les logiciels libres, et pas parmi les moins régaliens ; je pense notamment à la gendarmerie, mais aussi au ministère de l’écologie et du développement durable par exemple.
-C’est un peu léger, tout de même ! Il me semble que c’est une piste intéressante : ne pas choisir un produit ou un autre, mais fixer les objectifs de l’action publique.
+C’est un peu léger, tout de même ! Concernant la réglementation applicable à l’éducation nationale, je me suis renseignée : il est en effet fait référence à une priorité, mais pour une utilisation externe, c’est-à-dire pour les relations avec les usagers du service public de l’éducation.
+Or il semble que le marché passé avec un grand acteur économique du logiciel propriétaire concernait les relations internes au sein de ce ministère, la logistique interne ; le code de l’éducation a ainsi été respecté.
+En droit, soyons honnêtes, il subsiste des incertitudes.
+Le fait de donner la priorité à un type de produit, de logiciel ou de technologie par rapport aux autres pose-t-il problème au regard du droit de la concurrence, du droit du commerce et de l’industrie, notamment vis-à-vis du principe de la liberté d’entreprendre ? Cette priorisation serait de portée très générale et, me dit-on, trop imprécise.
+En droit communautaire, en outre, une directive portant sur les marchés publics a récemment renforcé la responsabilité des acheteurs publics.
+Elle semble restreindre encore la possibilité d’orienter l’achat, par des adjudicateurs publics, vers un produit particulier.
+À l’heure actuelle, le Gouvernement reste donc défavorable à cet amendement.
+Ce qui m’intéresse, pour aller plus loin, c’est la démarche engagée au sein de la direction interministérielle des systèmes d’information et de communication de l’État – DISIC – qui s’occupe de l’informatique de l’État.
+Cette démarche ne consiste pas à trancher entre un type de technologie ou un autre, mais à déterminer les objectifs recherchés par l’administration.
+Ces objectifs pourraient être rassemblés en trois piliers : la maîtrise, l’indépendance – voire la souveraineté – numérique, et la pérennité.
+Il convient dès lors d’examiner la meilleure solution au regard de ces objectifs, au-delà des choix technologiques – au-delà, par exemple, des modèles de licences.
+Il me semble que c’est une piste intéressante : ne pas choisir un produit ou un autre, mais fixer les objectifs de l’action publique.
 Je suivrai de très près les travaux menés par la DISIC.
 Notre choix, aujourd’hui, est celui de la liberté.
 On m’a suggéré une formule : la laïcité du logiciel.
@@ -197,15 +386,34 @@ Ce terme est peut-être un peu osé,… Il est plutôt bien trouvé : il y a qu
 Dans certains cas, les logiciels libres s’imposeront comme les plus efficaces, les mieux à même de garantir l’autonomie, l’indépendance des systèmes d’information de l’État.
 C’est ce qui s’appelle un avis de sagesse ! Non, c’est un avis défavorable.
 La parole est à M. Christian Paul.
+Si vous l’acceptez, madame la présidente, je profiterai de cette prise de parole pour présenter l’amendement numéro 596 rectifié, afin d’appuyer la démonstration faite par Delphine Batho tout à l’heure.
+Madame la secrétaire d’État, monsieur le rapporteur, nous sommes d’accord sur beaucoup de points de ce projet de loi, mais en l’occurrence, je considère qu’il n’y a pas assez de volonté politique.
+Cela fait plus de dix ans, peut-être quinze, que nous « encourageons » l’utilisation des logiciels libres par les administrations françaises.
+Or il est clair que cela ne suffit pas.
+Dans des pans entiers de l’administration, il n’y a pas d’appétence pour les logiciels libres.
 Nous étions plusieurs à défendre un amendement semblable dans la loi pour la refondation de l’école de la République.
 Il y est inscrit très clairement que l’éducation nationale doit donner la priorité aux logiciels libres.
-Pas en interne ! Contrairement à ce que vous avez dit de manière surprenante et catégorique, monsieur le rapporteur, il n’y a pas d’incompatibilité entre le recours aux logiciels libres et le code des marchés publics.
+Pas en interne ! Ainsi, cela figure déjà dans un texte de loi.
+Nous devrions donc avancer, ce soir, avec les amendements déposés à l’article 9 ter.
+Contrairement à ce que vous avez dit de manière surprenante et catégorique, monsieur le rapporteur, il n’y a pas d’incompatibilité entre le recours aux logiciels libres et le code des marchés publics.
 Il est facile de le démontrer : une collectivité qui voudrait s’équiper de logiciels peut très bien décider de ne pas avoir à payer de licence annuelle.
 Elle peut aussi choisir des logiciels pour lesquels elle veut bénéficier de certaines caractéristiques, telles que les libertés d’usage, de copie, de modification, de redistribution.
 Je me réfère ici à un bon spécialiste français des logiciels libres, François Pellegrini.
 Le recours à un logiciel libre dans le cadre d’un cahier des charges met en concurrence des entreprises qui sont invitées à utiliser des logiciels libres… Veuillez conclure, monsieur Paul… Il peut s’agir des start-up dont il a été question tout à l’heure.
-Encore une fois, monsieur Gosselin, il ne s’agit pas de gratuité, car tout cela peut avoir un prix… Ce n’est pas uniquement une question de gratuité, je suis tout à fait d’accord ! Très franchement, il n’y a pas du tout d’incompatibilité entre le code des marchés public, les principes juridiques de notre droit et le recours aux logiciels libres dans un appel d’offres.
+Encore une fois, monsieur Gosselin, il ne s’agit pas de gratuité, car tout cela peut avoir un prix… Ce n’est pas uniquement une question de gratuité, je suis tout à fait d’accord ! …mais cela peut représenter parfois une économie substantielle de deniers publics, et je vous sais sensible à cet argument.
+Très franchement, il n’y a pas du tout d’incompatibilité entre le code des marchés public, les principes juridiques de notre droit et le recours aux logiciels libres dans un appel d’offres.
 La parole est à Mme Isabelle Attard.
+Je suis entièrement d’accord avec ce que vient de dire Christian Paul : il n’y a aucun problème avec le code des marchés publics ! Cela fait partie des mythes, des légendes qui circulent pour discréditer les logiciels libres.
+Peut-être faut-il éclaircir d’abord un point d’ordre sémantique.
+Nous parlons de logiciels libres et de logiciels propriétaires, mais du point de vue de l’usager, c’est l’inverse ! Il faudrait parler de logiciels « privateurs » et de logiciels libres, car les premiers sont bel et bien privateurs de liberté.
+L’expression « logiciel propriétaire » est trompeuse car elle fait accroire que l’on est propriétaire des données qui y sont incluses.
+C’est faux : par définition, ces données appartiennent à l’éditeur du logiciel, c’est lui le propriétaire.
+Dans ce débat, les mots comptent.
+Lorsqu’on parle de « logiciel propriétaire », les gens s’imaginent qu’ils sont propriétaires de leurs données, alors que c’est l’inverse.
+J’aimerais que nous utilisions d’autres mots.
+Alors peut-être les habitants de notre pays changeraient de regard sur ces logiciels.
+Vous avez dit, madame la secrétaire d’État, qu’un problème se poserait vis-à-vis du code des marchés publics.
+C’est faux ! Ce serait comme interdire les marchés publics d’achat de voitures, au motif que cela pénaliserait les loueurs de véhicules.
 J’insiste : le produit est le même.
 Je m’insurge contre ceux qui prétendent que les technologies diffèrent.
 Ce qui diffère, ce ne sont pas les technologies, ce sont les licences.
@@ -214,38 +422,87 @@ Stoppons les rumeurs, cassons les mythes : le logiciel libre est une avancée, 
 Il faut conclure, madame Attard… Les logiciels libres ne sont pas forcément moins chers à l’achat.
 En revanche, leurs utilisateurs n’ont pas les pieds et les poings liés par les mises à jour obligatoires des logiciels propriétaires – et celles-là, on les sent passer ! C’est là que l’on voit la différence : les ministères et les collectivités pourront réaliser des économies substantielles à ce niveau-là.
 La parole est à Mme Delphine Batho.
+Je suis d’accord avec Mme la secrétaire d’État sur le fait que cet article 9 ter, inséré en commission, représente déjà un progrès.
+Sur le fond, néanmoins, je suis d’accord avec ce qu’ont dit Christian Paul et Isabelle Attard.
+Je tiens à préciser que le code de l’éducation comprend en réalité deux dispositions relatives aux logiciels libres.
+La première figure à l’article L. 123-4-1 : « Les logiciels libres sont utilisés en priorité. » La seconde figure un peu plus loin, à l’article L. 131-2 : « Dans le cadre de ce service public, la détermination du choix des ressources utilisées tient compte de l’offre de logiciels libres ».
+On ne peut donc considérer que ces dispositions sont seulement internes au service public de l’enseignement supérieur.
 Or ces deux dispositions n’ont jamais été jugées contraires à la Constitution.
 Peut-être, certes, le Conseil constitutionnel n’en a-t-il pas été saisi.
 Mais elles n’ont pas non plus été jugées contraires au code des marchés publics.
 Je ne vois donc pas ce qui empêcherait de donner la priorité, dans le présent texte, aux logiciels libres, d’autant plus que mon amendement prévoit que les modalités d’application seraient fixées par décret.
 La parole est à M. Julien Aubert.
+Différant de mes collègues de l’opposition, je suis tenté d’appuyer la démarche de Mme Batho.
+Du point de vue de l’État, ce n’est pas une question de neutralité technologique mais de choix économique.
+Il s’agit de déterminer les relations de ses services informatiques, de ses services de logiciels, avec des entités extérieures.
+Il me semble qu’à cet égard, il faut favoriser l’open source, c’est-à-dire, en français, les logiciels libres.
+Par conséquent, il faut assumer ce choix économique.
+Nous pouvons faire en sorte que l’État joue un rôle moteur, un rôle de locomotive pour ce secteur de l’économie qui est en pleine ébullition.
 Il ne faut pas se retrancher derrière le code des marchés publics, car il n’est pas question ici de différence technologique.
 C’est bel et bien un choix de politique économique – j’assume le choix de ce terme, bien qu’on puisse me le reprocher.
 Il faut aller au bout de cette logique : puisque nous avons adopté cette démarche, autant l’assumer pleinement en donnant clairement la priorité au logiciel libre par rapport aux entreprises de ce secteur.
 La parole est à M. André Chassaigne.
-Nous savons très bien que, quelle que soit la formulation retenue pour cet article, il faudra la retranscrire dans le code des marchés publics.
+En vous écoutant, tout à l’heure, monsieur le rapporteur, madame la secrétaire d’État, je me suis dit : ils nous prennent pour des perdreaux de l’année ! Vous avez vraiment essayé d’emberlificoter les choses.
+Je m’explique : le fait même de faire la démonstration que « encourager » vaut bien mieux que « utilisés en priorité », cela veut dire que derrière tout cela, le problème est politique! Avez-vous la volonté politique de privilégier le logiciel libre ? Ou bien hésitez-vous, pour des raisons diverses, surtout économiques, mais peut-être aussi philosophiques ? Nous savons très bien que, quelle que soit la formulation retenue pour cet article, il faudra la retranscrire dans le code des marchés publics.
 Et retranscrire dans le code des marchés publics la priorité donnée aux logiciels libres n’est absolument pas un obstacle ! Le code énumère des critères, dont par exemple le coût global de l’utilisation d’un produit.
-Il n’est pas en faveur des logiciels libres ! Toute la question est donc celle de la volonté.
+Il n’est pas en faveur des logiciels libres ! Il y en a d’autres : la fonctionnalité, la valeur technique par exemple.
+Je rappelle, par ailleurs, qu’au moment du Grenelle de l’environnement, nous avions décidé d’introduire un critère de proximité des achats pour la restauration d’État : cela montre bien que si nous avons vraiment la volonté de développer l’utilisation des logiciels libres, cela ne posera aucun problème.
+Toute la question est donc celle de la volonté.
 N’essayez pas de nous emberlificoter ! Considère-t-on que les logiciels libres sont prioritaires, ou tergiverse-t-on pour ne pas avoir à être trop net ? La parole est à Mme Marie-Anne Chapdelaine.
+Je voudrais rassurer M. Chassaigne : en commission, le groupe socialiste a exprimé sa volonté politique d’agir en faveur des logiciels libres.
+Il a soutenu la proposition de Delphine Batho utilisant le verbe « encourager ».
+Pourquoi ne voulions-nous pas de l’expression « utilisés en priorité » ? Parce que nous voulons laisser aux collectivités le choix de leurs logiciels.
+Le verbe « encourager » nous semble apte à susciter une dynamique incitant les acteurs à acquérir les logiciels libres qui deviendront, je suis d’accord avec vous sur ce point, incontournables.
+En revanche, il faut faire avec l’existant, et avec les circonstances particulières.
+Dans certains cas, certaines collectivités peuvent ne pas avoir le choix, et être obligées d’utiliser un logiciel natif plutôt qu’un logiciel libre.
+Le plus important est donc de lancer une dynamique, ce qui ne signifie pas que d’ici dix ou quinze ans, les députés qui seront à notre place n’inscriront pas les termes « utilisés en priorité » dans la loi, car tout le monde sera équipé de logiciels libres, et bien content de pouvoir le faire.
 Je pense qu’il est encore trop tôt pour cela.
 Le groupe socialiste soutient la solution de compromis qui a été trouvée en commission entre ceux qui voulaient donner la priorité aux logiciels libres et ceux qui ne le voulaient pas.
 Certes, il arrive que les compromis mécontentent tout le monde mais, en l’occurrence, il s’agit d’un premier pas : voyons le verre à moitié plein plutôt qu’à moitié vide.
 Le groupe SRC soutient donc l’article tel qu’il est rédigé.
 La parole est à Mme la secrétaire d’État.
+D’abord, j’invite tous les députés possesseurs d’un iPhone à s’en séparer pour se mettre en conformité avec leurs idées… (Sourires.) Plaisanterie à part, je n’accepte pas, monsieur Chassaigne, que vous accusiez le Gouvernement de tenter de vous « emberlificoter » : je me suis efforcée d’être la plus claire possible.
+Nous avons fait le choix de laisser toute liberté à l’administration de choisir.
+Vous faites grand cas, ce me semble, de l’ouverture dont j’ai parlé.
+Vous avez fait référence au code des marchés publics et à des notions, issues d’un choix politique, qui y ont été intégrées.
+La question fondamentale que nous devons nous poser est celle de l’objectif recherché.
+Au-delà de la promotion des modèles ouverts, de l’open source, l’enjeu est la maîtrise, la souveraineté, l’indépendance des systèmes d’information : c’est là que réside, pour les administrations en charge des services publics, la clé de la maîtrise de leur écosystème.
+L’inscription de ces objectifs dans le code des marchés publics donne raison à ceux qui défendent le logiciel libre ; mais c’est aussi une façon d’éviter les imbroglios juridiques auxquels nous nous heurtons depuis de nombreuses années.
 C’est la première fois que l’on ouvre une telle piste : j’aimerais donc que nos débats soient moins doctrinaux ou idéologiques.
 Nous avons déjà fait un premier pas et, vous l’avez compris, le Gouvernement souhaite que nous avancions ensemble : gardons-nous, par conséquent, des accusations gratuites.
+Je suis saisie de deux amendements, numéros 32 et 33, qui peuvent faire l’objet d’une présentation groupée.
 La parole est à Mme Isabelle Attard, pour les soutenir.
 Il s’agit de préciser les administrations concernées par l’encouragement au logiciel libre, sur le modèle de l’article L. 300-2 du code des relations entre le public et l’administration.
 Quel est l’avis de la commission sur ces deux amendements ? Défavorable : ces amendements ne corrigent pas le vrai problème de cet article, c’est-à-dire qu’ils ne suppriment pas la mention des « administrations ».
 La navette, je suppose, permettra de corriger cette erreur qui nous avait échappé.
 Quel est l’avis du Gouvernement ? Même avis.
-La parole est à M. Christian Paul, pour soutenir l’amendement no 596 rectifié.
+Je suis saisie de trois amendements, numéros 596 rectifié, 11 et 379, pouvant être soumis à une discussion commune.
+Les amendements numéros 11 et 379 sont identiques.
+La parole est à M. Christian Paul, pour soutenir l’amendement numéro 596 rectifié.
+Vous en conviendrez sans doute, madame la secrétaire d’État, on peut avoir un dialogue à la fois ferme et courtois : il ne s’agit pas d’idéologie, mais de convictions sur un sujet de politique publique.
+Si l’on veut fabriquer des biens communs, il faut s’en donner les moyens.
+À ceux qui hésitent devant le présent amendement, et qui ont entendu Mme Chapdelaine, je veux rappeler que le choix est gradué.
+Dans le texte tel qu’il est rédigé, il est question d’« encourager » l’utilisation des logiciels libres : cela sera pour ainsi dire sans effet puisque c’est déjà le cas, et heureusement, depuis longtemps.
+Une autre option, évoquée par allusion seulement, serait de rendre cette utilisation obligatoire : là y aurait-il une privation de liberté pour les clients publics et les collectivités.
+Aussi défendons-nous une position intermédiaire, que je crois de compromis : celle de donner la « priorité » aux logiciels libres.
+Cela laisserait place aux exceptions, une priorité ne préjugeant pas d’impossibilités – mais il faut alors les motiver : c’est renverser, en quelque sorte, la charge de la preuve.
 Je demande donc à nos collègues de réfléchir à cette solution et de voter l’un des amendements en discussion commune : cela marquerait une ambition réellement nouvelle en faveur du logiciel libre en France, et cela aurait beaucoup de vertus.
-La parole est à Mme Isabelle Attard, pour soutenir l’amendement no 11.
+La parole est à Mme Isabelle Attard, pour soutenir l’amendement numéro 11.
+Il est dans le même esprit : il ne s’agit pas d’obliger, ce qui priverait les acteurs publics de liberté, mais de donner la priorité lorsque c’est possible.
+Ces principes ont d’ailleurs été posés dans la loi relative à l’enseignement supérieur et à la recherche pour les établissements supérieurs : ils ne constituent donc pas une nouveauté, mais une suite logique.
+Je ne prendrai qu’un exemple pour illustrer la différence entre les deux types de logiciels.
+Une collectivité qui décide de la construction d’une école fait appel à des fournisseurs, qui dessinent des plans, ainsi qu’à des constructeurs ; après quoi la collectivité récupère les plans et le bâtiment lui-même, pour l’utiliser comme elle l’entend.
+Elle en a les clés ! Elle est libre de faire appel à une autre entreprise pour une modification ou une extension – pour une « mise à jour », en somme.
 La différence est la même entre les logiciels libres et les logiciels privateurs.
 Si une collectivité veut garder toute liberté d’action pour les années à venir, elle doit utiliser le logiciel dit « libre ».
 La priorité que nous défendons n’est donc pas un gadget, mais une liberté supplémentaire donnée aux collectivités.
-La parole est à M. André Chassaigne, pour soutenir l’amendement no 379.
+La parole est à M. André Chassaigne, pour soutenir l’amendement numéro 379.
+Pour ma part j’assume le mot « idéologique ».
+Au fond, défendre une forme de partage relève de la philosophie ou de l’éthique.
+« Tout commence en mystique et finit en politique », écrivait Charles Péguy.
+Autrement dit, au risque de me voir accusé de caricature, je crois vraiment que nous sommes face à un choix : laisser se développer une marchandisation croissante ou défendre, dès le départ, le bien commun.
+Pour ceux qui sont attachés à certaines valeurs, tous les combats, désormais, consistent à tenter d’arracher le bien commun à la marchandisation.
+C’est vrai pour l’eau, pour les gènes, pour le corps humain et pour tout ce qui contribue à faire la société.
 Notre débat est donc idéologique, car du mot retenu dépendra l’orientation politique.
 Pas en termes d’application, d’ailleurs : franchement, entre « donner la priorité » ou « encourager », la différence n’est peut-être pas essentielle… Mais en choisissant la première formule, on donne une orientation politique, même si cela apparaît comme idéologique.
 Quel est l’avis de la commission ? Tout a été dit : chacun a compris ce qu’est le logiciel libre et ce qu’il n’est pas, de même que les enjeux liés à la gratuité et à la propriété.
@@ -255,53 +512,74 @@ Il ne s’agit pas de tergiverser, monsieur Chassaigne, mais de proposer une vis
 Aucun argument ne s’oppose à ce que j’ai dit tout à l’heure sur la jurisprudence constitutionnelle, ce qui me semble déjà important.
 Pour autant, mon avis sur l’ensemble de ces amendements reste défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Mme Isabelle Attard, pour soutenir l’amendement no 374.
+La parole est à Mme Isabelle Attard, pour soutenir l’amendement numéro 374.
 Dans la même logique de promotion des logiciels libres, cet amendement vise à préciser que les administrations privilégient les services en ligne non marchands, alternatifs aux GAFA – Google, Apple, Facebook et Amazon.
 Quel est l’avis de la commission ? Je ne partage pas la logique qui préside à cet amendement : pourquoi favoriser les services au motif qu’ils sont seulement « non marchands » ? Beaucoup d’autres critères pourraient être invoqués.
 Avis défavorable.
 Quel est l’avis du Gouvernement ? Je m’interroge sur la signification juridique des mots : « services en ligne non-marchand ».
 Avis défavorable également.
-La parole est à M. Christian Paul, pour soutenir l’amendement no 599 portant article additionnel après l’article 9 ter.
+La parole est à M. Christian Paul, pour soutenir l’amendement numéro 599 portant article additionnel après l’article 9 ter.
+Cet amendement vise à interdire les smartphones… (Sourires.) Je plaisante, madame la secrétaire d’État : nous ne confisquerons pas votre iPhone ! Plus sérieusement, il s’agit de donner aux assemblées parlementaires, à commencer par la nôtre, une ambition particulière quant à l’usage des logiciels libres.
+Persuadés que les amendements précédents seraient adoptés, donnant ainsi le coup d’envoi à une politique ambitieuse en matière de logiciel libre pour l’État et les collectivités publiques, nous entendions préconiser l’application ici même des mêmes mesures.
+Je caresse donc l’espoir qu’à l’Assemblée au moins, on donnera la priorité au logiciel libre.
+Encore une fois, nous ne défendons pas une obligation systématique : dans le domaine dont nous parlons, il existe une échelle graduée.
+Je n’ai pas d’approche intégriste du logiciel libre, mais l’affirmation d’une priorité a du sens, et elle est de nature à créer une dynamique et à bousculer les conservatismes.
 Il faut sortir du conformisme, dit-on : je vois que l’appel n’est pas complètement entendu… Quel est l’avis de la commission ? Nous avons largement débattu du sujet.
 Je ne suis pas favorable à l’inscription dans la loi des modes de fonctionnement de notre assemblée.
 Il s’agit visiblement d’un amendement d’appel, dont je demande donc le retrait.
 Par ailleurs, monsieur Paul, certaines suites bureautiques, dont LibreOffice, sont installées sur nos PC : chaque député est donc libre de les utiliser.
 À défaut de retrait, mon avis sera défavorable.
 Quel est l’avis du Gouvernement ? Je partage l’avis du rapporteur, même s’il ne m’appartient pas, en vertu du principe de séparation des pouvoirs, de me prononcer sur un sujet qui concerne des assemblées parlementaires souveraines.
-Monsieur Paul, maintenez-vous ou retirez-vous l’amendement no 599 ? Pour la clarté des débats, j’indique cependant qu’il ne s’agit pas seulement de la bureautique utilisée dans les bureaux des parlementaires.
+Monsieur Paul, maintenez-vous ou retirez-vous l’amendement numéro 599 ? Monsieur le rapporteur, je ne connais pas, en ce qui me concerne, la notion d’amendement d’appel.
+Je ne retirerai donc pas cet amendement : comme on dit, je prends mon risque.
+Pour la clarté des débats, j’indique cependant qu’il ne s’agit pas seulement de la bureautique utilisée dans les bureaux des parlementaires.
 L’amendement a une ambition plus large : il porte sur l’ensemble des applications informatiques de notre assemblée.
 La parole est à M. Sergio Coronado.
+Nous apportons notre soutien à l’amendement de Christian Paul.
+Je reviens sur l’intervention de Mme la secrétaire d’État tout à l’heure : elle a, en effet, qualifié d’« idéologique » la position des parlementaires favorables aux logiciels libres, pour la disqualifier – comme si ce terme « idéologique » était une sorte d’injure ou désignait un travers.
+À l’instar de mon collègue André Chassaigne, j’assume totalement le fait d’avoir une position « idéologique » sur cette question.
+Mais, madame la secrétaire d’État, cet amendement ne reflète pas seulement une position « idéologique » : il est également le fruit d’une expérience.
+En effet, lorsqu’on entre à l’Assemblée nationale, et alors qu’il est possible de s’équiper en logiciel libre, la proposition n’en est tout simplement pas faite.
+De fait, très peu de députés sont équipés de cette façon : nous devons être moins d’une dizaine à avoir choisi un logiciel libre pour les équipements bureautiques de nos équipes.
 Madame la secrétaire d’État, puisque vous avez fait référence à la téléphonie, vous savez comme moi, puisque vous avez été députée – nous avons d’ailleurs été élus au même moment –, que, lorsque vous arrivez au palais Bourbon, la proposition qui vous est faite est de vous équiper d’un téléphone de la marque à la pomme, comme s’il existait un accord privilégié avec elle.
-Mais non ! L’amendement de Christian Paul est assez juste : il traduit une vision d’ensemble ; il envisage un équipement global et un autre mode de communication et d’organisation de notre vie numérique à l’Assemblée nationale.
+Mais non ! Si, c’est tout de même l’une des principales propositions qui nous est faite ici, à l’Assemblée, en matière de téléphonie.
+L’amendement de Christian Paul est assez juste : il traduit une vision d’ensemble ; il envisage un équipement global et un autre mode de communication et d’organisation de notre vie numérique à l’Assemblée nationale.
 Nous en partageons l’esprit, et nous le voterons.
+Plusieurs orateurs sont inscrits sur cet article.
 La parole est à M. Patrice Martin-Lalande.
 Je ne ferai finalement pas usage de cette faculté.
 C’est dommage ! (Sourires.) La parole est à M. Jacques Cresta.
 Je n’en ferai pas usage non plus.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 758.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 758.
 Il ne faudrait pas, comme nous l’avons relevé dans d’autres articles, que les données transmises par les délégataires de service public portent atteinte à la sécurité et à la sûreté de l’État ni au secret des affaires.
 Cet amendement vise à le rappeler en faisant référence aux articles L. 311-5 et L. 311-6 du code des relations entre le public et l’administration.
 Quel est l’avis de la commission ? Monsieur le député, votre amendement est satisfait à l’alinéa 3 qui prévoit que « Les données fournies par le délégataire peuvent être publiées, sous réserve des articles L. 311-5 à L. 311-7 du code des relations entre le public et l’administration. » L’avis de la commission est donc défavorable.
 Quel est l’avis du Gouvernement ? Il est également défavorable.
-La parole est à M. Jacques Krabal, pour soutenir l’amendement no 665.
+La parole est à M. Jacques Krabal, pour soutenir l’amendement numéro 665.
 L’article 10 fixe au titulaire d’une délégation de service public une obligation de transmission à l’autorité délégante des données et des bases de données collectées ou produites à l’occasion de l’exploitation du service public.
 Il convient de définir plus précisément le champ de cette obligation de transmission en permettant à la personne morale de droit public délégante d’accéder aux données et bases de données selon un calendrier en adéquation avec ses besoins et ses contraintes.
 Quel est l’avis de la commission ? Ce type de disposition relève, très largement, des contrats de délégation de service public.
 L’avis de la commission est donc défavorable.
 Quel est l’avis du Gouvernement ? Il me semble que cette précision va de soi, mais rien ne semble s’opposer à ce qu’elle soit explicitée.
 Le Gouvernement s’en remet donc à la sagesse de l’assemblée.
-La parole est à M. Patrice Martin-Lalande, pour soutenir l’amendement no 58.
+Je suis saisie de trois amendements, numéros 58, 297 et 640, pouvant être soumis à une discussion commune.
+La parole est à M. Patrice Martin-Lalande, pour soutenir l’amendement numéro 58.
+L’alinéa 2 de l’article 10 prévoit que « Le délégataire fournit à la personne publique délégante, dans un standard ouvert aisément réutilisable, c’est-à-dire lisible par une machine, les données et bases de données collectées ou produites à l’occasion de l’exploitation du service public dont il assure la gestion et qui sont indispensables à son exécution. » L’amendement, cosigné par plusieurs de nos collègues, vise à substituer au début de la seconde phrase – qui est pour l’instant ainsi rédigé : « Il autorise par ailleurs la personne publique délégante, ou un tiers désigné par celle-ci, à extraire […] » – la rédaction suivante : « La personne morale de droit public, ou tout autre tiers désigné par celle-ci, peut extraire […] ».
 Les deux rédactions sont différentes : dans un cas, il faut que le délégataire « autorise » cette extraction, ce qui sous-entend qu’il lui est possible de dire oui ou non, donc de refuser.
-Dans l’autre, c’est-à-dire au travers de la rédaction proposée par l’amendement no 58, il n’existe pas de limitation : si la personne publique délégante souhaite avoir accès aux données et aux bases de données, cet accès est de droit.
-La parole est à M. Sergio Coronado, pour soutenir l’amendement no 297.
+Dans l’autre, c’est-à-dire au travers de la rédaction proposée par l’amendement numéro 58, il n’existe pas de limitation : si la personne publique délégante souhaite avoir accès aux données et aux bases de données, cet accès est de droit.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement numéro 297.
 Cet amendement vise à clarifier la formulation des secondes phrases des alinéas 2 et 6.
 Il s’agit tout simplement d’indiquer que la personne publique délégante a le droit d’exploiter les données, et qu’elle n’a pas à obtenir une autorisation pour cela.
-La parole est à Mme Jeanine Dubié, pour soutenir l’amendement no 640.
+La parole est à Mme Jeanine Dubié, pour soutenir l’amendement numéro 640.
 En proposant d’insérer après le verbe « autorise » l’adverbe « nécessairement », cet amendement précise la seconde phrase de l’alinéa 2, afin de lever tout doute sur le fait que l’autorisation sera systématiquement accordée.
 Quel est l’avis de la commission sur ces trois amendements en discussion commune ? Dans un texte de loi, l’indicatif vaut impératif : je préfère donc la rédaction actuelle de l’alinéa 2.
 La commission est donc défavorable à tous ces amendements.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à M. Patrice Martin-Lalande.
+Je ne comprends pas la réponse du rapporteur.
+Quand il est écrit que le délégataire « autorise », cela veut dire qu’il détient le pouvoir de décision.
+Il peut soit accepter, soit refuser que la personne publique délégante extraie et exploite librement ces données et ces bases de données.
+Il s’agit donc bien d’un pouvoir de décision.
 Or c’est précisément ce dont nous ne voulons pas, car cela limiterait la possibilité d’accès à ces données.
 Nous voulons remplacer ce pouvoir de décision du délégataire – que ce pouvoir s’exerce positivement ou négativement – par une automaticité d’accès de la personne publique délégante à ces données.
 La parole est à M. le rapporteur.
@@ -310,26 +588,41 @@ Les choses sont donc extrêmement claires : je souhaite que nous en restions à
 La parole est à M. Patrice Martin-Lalande.
 Monsieur le rapporteur, vous nous dites que le verbe « autoriser » tel qu’il est employé n’implique pas de pouvoir de décision.
 La parole est à M. le rapporteur.
-Je ne voulais pas entrer de nouveau en détail dans les débats que nous avons déjà eus, je le redis, en commission, où nos travaux ont duré dix-sept heures et quinze minutes ! Dans la mesure où il s’agit du même amendement et que mon avis est demeuré le même, je me suis permis de présenter mon avis très succinctement.
+Nous avons déjà eu le débat en commission : j’ai donc déjà argumenté sur ce point à plusieurs reprises.
+Je viens de vous redonner les principaux éléments de cette argumentation.
+Je constate que nous avons un désaccord.
+Sans que cela ne me pose d’ailleurs de problème majeur, je me permets de vous faire observer que nous avons à peine examiné 200 amendements sur 844 et qu’il est déjà vingt-trois heures vingt-cinq ! Je ne voulais pas entrer de nouveau en détail dans les débats que nous avons déjà eus, je le redis, en commission, où nos travaux ont duré dix-sept heures et quinze minutes ! Dans la mesure où il s’agit du même amendement et que mon avis est demeuré le même, je me suis permis de présenter mon avis très succinctement.
 Je veux bien, la prochaine fois, être un peu plus explicite, mais, de fait, mon point de vue ne changera pas et j’ai l’impression que le vôtre non plus.
 Certes ! L’avis de la commission est donc, je le répète, défavorable.
-La parole est à M. Patrice Martin-Lalande, pour soutenir l’amendement no 59.
+La parole est à M. Patrice Martin-Lalande, pour soutenir l’amendement numéro 59.
 Il s’agit, à la suite des amendements précédents, d’éviter les exceptions et les limitations au principe d’ouverture des données publiques d’intérêt général.
 L’amendement propose donc de supprimer l’alinéa 4 de l’article 10 – et non pas l’alinéa 3, comme indiqué par erreur, cette erreur matérielle s’expliquant d’ailleurs par les brefs délais dont nous avons disposé pour rédiger nos amendements entre la fin des travaux de la commission et l’expiration du délai de dépôt en vue de la séance publique.
 Je vous remercie donc de votre indulgence, madame la présidente, et d’accepter que l’amendement soit ainsi rectifié.
 Il permettrait de supprimer cette restriction au principe d’ouverture de ces données.
-La parole est à M. Sergio Coronado, pour soutenir l’amendement no 34.
+La rectification matérielle apportée à cet amendement numéro 59, lequel tendrait donc à supprimer l’alinéa 4, le rend identique à deux autres amendements, numéros 34 et 759, dont je suis saisie.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement numéro 34.
+Madame la présidente, si vous m’y autorisez, je défendrai également l’amendement numéro 91 qui doit être examiné un peu plus tard, car ils vont tous deux dans le même sens.
+Comme l’a rappelé notre collègue Patrice Martin-Lalande, l’alinéa 4 établit, comme l’alinéa 7, une exception si large au principe de réutilisation que cela risque d’aboutir de facto à la généralisation de l’exception.
+Or je ne crois pas que ce soit la volonté de la majorité de l’hémicycle.
 Par ailleurs, ne pas permettre d’exception renforcera la position des administrations face aux demandes des entreprises : c’est pourquoi les deux amendements en question tendent à supprimer la possibilité d’exception qui figure aux deux alinéas concernés.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 759.
-Malgré la légère modification apportée en commission, il n’existe toujours aucun critère objectif de dérogation, si bien que les cas d’exception sont potentiellement infinis.
-Par défaut, mon amendement no 759, ainsi que mon amendement no 864, qui sera examiné ultérieurement, suppriment les possibilités d’exemption susceptibles de rendre cet article inopérant.
-Quel est l’avis de la commission sur ces trois amendements identiques ? La manière dont nous avons précisément réécrit cette disposition est, s’agissant des motifs d’intérêt général – que la personne publique délégante doit expliciter et rendre publics –, de nature à protéger d’éventuels excès.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 759.
+L’ouverture des données aux délégataires de service public est logique ; ce qui l’est moins, ce sont les cas d’exception.
+Il est ainsi prévu que la personne morale de droit public peut exempter le délégataire de ses obligations « par une décision fondée sur des motifs d’intérêt général qu’elle explicite et qui est rendue publique. » Malgré la légère modification apportée en commission, il n’existe toujours aucun critère objectif de dérogation, si bien que les cas d’exception sont potentiellement infinis.
+Par défaut, mon amendement numéro 759, ainsi que mon amendement numéro 864, qui sera examiné ultérieurement, suppriment les possibilités d’exemption susceptibles de rendre cet article inopérant.
+Quel est l’avis de la commission sur ces trois amendements identiques ? Tout d’abord, les collectivités ont plutôt des démarches d’open data : je pense donc qu’il n’y a pas d’inquiétude majeure à avoir à ce sujet.
+Pour autant, il faut garder cette possibilité : nous nous situons dans le cadre de l’ouverture des données publiques.
+Il nous faut nous entourer de certaines garanties qui ne portent pas atteinte au droit de la propriété intellectuelle ni au secret industriel et commercial.
+La manière dont nous avons précisément réécrit cette disposition est, s’agissant des motifs d’intérêt général – que la personne publique délégante doit expliciter et rendre publics –, de nature à protéger d’éventuels excès.
 La commission est donc défavorable à ces trois amendements de suppression de l’alinéa 4.
-Quel est l’avis du Gouvernement ? À ce stade, il faut laisser une souplesse de choix à l’autorité délégante, face à la diversité des situations potentiellement couvertes par ce dispositif.
+Quel est l’avis du Gouvernement ? Il est identique à celui du rapporteur : nous avons largement débattu de cette question en commission des lois.
+Un amendement a permis de limiter les cas d’exemption aux seuls motifs d’intérêt général, ce qui est important.
+À ce stade, il faut laisser une souplesse de choix à l’autorité délégante, face à la diversité des situations potentiellement couvertes par ce dispositif.
 En outre, il ne faut pas sous-estimer l’impact potentiel sur les prix du service public délégué.
 Ne serait-ce que pour cette raison-là, le Gouvernement est défavorable à ces trois amendements qui visent à supprimer des exemptions pour les délégataires de manière générale.
-Je mets donc aux voix les trois amendements identiques nos 59 tel que rectifié, 34 et 759.
+Je mets donc aux voix les trois amendements identiques numéros 59 tel que rectifié, 34 et 759.
 La parole est à Mme Corinne Erhel, rapporteure pour avis de la commission des affaires économiques, pour soutenir l’amendement n° 671.
+L’amendement a pour objet d’apporter une précision juridique, ou plutôt de lever une imprécision.
+Dans un souci à la fois de transparence et d’indépendance, la décision d’exemption des obligations relatives à l’open data doit rester entre les mains de l’autorité délégante et en tout cas ne pas figurer dans les clauses du contrat de délégation.
 L’amendement précise que c’est dans le cahier des charges, c’est-à-dire en amont, que l’autorité délégante informe le délégataire de son exemption éventuelle de son obligation relative à l’open data.
 Cela permet in fine de garantir que c’est bien par une décision unilatérale de l’autorité délégante que ce choix est fait.
 Encore une fois transparence et indépendance.
@@ -338,7 +631,7 @@ C’est un élément extrêmement juste et la commission y est favorable.
 Merci, madame Erhel, pour ce travail.
 Quel est l’avis du Gouvernement ? Merci de cette précision.
 Le Gouvernement y est favorable.
-La parole est à Mme Jeanine Dubié, pour soutenir l’amendement no 839.
+La parole est à Mme Jeanine Dubié, pour soutenir l’amendement numéro 839.
 Cet amendement a pour objet de permettre à la personne morale de droit public délégante de prendre également en compte le secret industriel et commercial, s’agissant des données et bases de données fournies, notamment en vue d’une exploitation future.
 En effet, ces données n’ont pas d’intérêt pour la personne publique ou les citoyens mais pourraient avoir des effets préjudiciables sur la concurrence entre les personnes délégataires.
 Quel est l’avis de la commission ? Votre souci, madame Dubié, est parfaitement satisfait par l’alinéa 3 : « Les données fournies par le délégataire peuvent être publiées, sous réserve des articles L. 311-5 à L. 311-7 du code des relations entre le public et l’administration. » Je vous demande donc de retirer votre amendement.
@@ -346,34 +639,46 @@ Sinon, j’y serai défavorable.
 Quel est l’avis du Gouvernement ? Les articles du code des relations entre le public et l’administration permettent déjà de protéger le secret industriel et commercial mais aussi l’ensemble des autres secrets essentiels tels que la vie privée, le secret médical, le secret de la défense nationale.
 Le Gouvernement est donc défavorable à cet amendement.
 Le maintenez-vous, madame Dubié ? Je le retire.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 760.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 760.
 Je ne suis toujours pas convaincu par vos arguments.
 En guise de repli, cet amendement tente de définir des critères objectifs et de les renvoyer à un décret en Conseil d’État.
 Quelles sont en effet des décisions fondées sur un motif d’intérêt général ? La limite me paraît complexe à déterminer.
 Il faudrait pourtant qu’elle le soit.
 Quel est l’avis de la commission ? Défavorable.
 Il ne faut pas borner a priori les motifs d’intérêt général.
-La parole est à M. Luc Belot, pour soutenir l’amendement no 618.
+Je suis saisie de deux amendements identiques, numéros 618 et 761.
+La parole est à M. Luc Belot, pour soutenir l’amendement numéro 618.
 C’est un amendement de coordination.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 761.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 761.
 Il est défendu.
-La parole est à M. Patrice Martin-Lalande, pour soutenir l’amendement no 590.
+Je suis saisie de trois amendements identiques, numéros 91, 590 et 864.
+L’amendement numéro 91 a été défendu tout à l’heure par M.
+Coronado.
+La parole est à M. Patrice Martin-Lalande, pour soutenir l’amendement numéro 590.
 Il est défendu.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 864.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 864.
 Il est défendu.
 Quel est l’avis de la commission sur ces trois amendements identiques ? Par cohérence, défavorable.
-La parole est à M. Philippe Gosselin, pour soutenir l’amendement no 137.
-Comme avec l’amendement no 590 de M. Martin-Lalande, il s’agit de limiter les exceptions au principe d’ouverture des données publiques d’intérêt général dans le cadre des délégations de service public.
+Je suis saisie de deux amendements identiques, numéros 137 et 165.
+La parole est à M. Philippe Gosselin, pour soutenir l’amendement numéro 137.
+Comme avec l’amendement numéro 590 de M. Martin-Lalande, il s’agit de limiter les exceptions au principe d’ouverture des données publiques d’intérêt général dans le cadre des délégations de service public.
 J’ai entendu les réponses qui ont été données, je considère que l’amendement est défendu.
-La parole est à M. Alain Leboeuf, pour soutenir l’amendement no 165.
+La parole est à M. Alain Leboeuf, pour soutenir l’amendement numéro 165.
+Les données essentielles relatives à l’exécution du service public doivent être rendues accessibles sous un format ouvert et librement réutilisable, quel que soit le mode d’exploitation de ce service public.
 Puisque les dispositions prévues à l’article 10 ne concernent que les concessionnaires choisis dans le cadre d’une procédure de publicité et de mise en concurrence, cet amendement a pour objet d’étendre ces dispositions aux concessionnaires qui exploitent un service public soit en bénéficiant d’un droit exclusif octroyé par la loi, soit dans le cadre des dispositions applicables aux relations dites de quasi-régie.
 Quel est l’avis de la commission sur ces deux amendements identiques ? Défavorable.
-Quel est l’avis du Gouvernement ? L’accès de la collectivité locale aux données du service public est donc déjà possible par d’autres biais.
+Quel est l’avis du Gouvernement ? Défavorable.
+La quasi-régie décrit une situation dans laquelle la personne publique reste pour l’essentiel maîtresse de la gestion du service public, par exemple parce que le service public est exploité par une société dont la personne publique est actionnaire majoritaire.
+Lorsqu’un concessionnaire détient des droits exclusifs, cela veut dire qu’il est juridiquement impossible d’attribuer la gestion du service public à une autre personne, notamment lorsque la loi prévoit une situation de monopole.
+Dans ces situations où il n’y a pas de mise en concurrence, le service public reste donc en fait exploité au sein de la sphère publique.
+L’accès de la collectivité locale aux données du service public est donc déjà possible par d’autres biais.
 Nous sommes dans la configuration de l’ouverture des données publiques de manière générale et non pas de l’ouverture des données d’intérêt général comme c’est le cas pour les délégations de service public.
-La parole est à Mme Jeanine Dubié, pour soutenir l’amendement no 831 rectifié.
+Je suis saisie de deux amendements, numéros 831 rectifié et 35, pouvant être soumis à une discussion commune.
+La parole est à Mme Jeanine Dubié, pour soutenir l’amendement numéro 831 rectifié.
 Cet amendement a pour objet de permettre la transparence en open data pour les partenariats public-privé.
 Cette disposition a été l’une des plus soutenues sur la plateforme de consultation « Pour une République numérique ».
-La parole est à Mme Isabelle Attard, pour soutenir l’amendement no 35.
+La parole est à Mme Isabelle Attard, pour soutenir l’amendement numéro 35.
+Contrairement à ce qui nous avait été dit en commission, l’article 56 de l’ordonnance du 23 juillet 2015 relative aux marchés publics ne prévoit l’open data que sur les données ayant conduit à la conclusion du marché public et non sur celles issues de son exécution.
 Les nombreux problèmes liés à l’exécution des partenariats public-privé dont on peut avoir connaissance dans les journaux suffisent largement à justifier le besoin de transparence sur ces données.
 Quel est l’avis de la commission sur ces deux amendements ? Nous avons eu effectivement cette discussion.
 Aux termes de l’article 56 de l’ordonnance que vous venez de citer, madame Attard, « dans des conditions fixées par voie réglementaire, les acheteurs rendent public le choix de l’offre retenue et rendent accessibles sous un format ouvert et librement réutilisable les données essentielles du marché public, sous réserve des dispositions de l’article 44 ».
@@ -384,38 +689,50 @@ La parole est à Mme Isabelle Attard.
 Il semble que nous ne soyons pas sur la même longueur d’ondes.
 L’article 56 prévoit en open data les données ayant conduit à la conclusion du marché public et non celles qui sont issues de son exécution.
 Or, selon tout ce qui est dénoncé et critiqué aujourd’hui, c’est après que viennent les problèmes, et de façon extrêmement grave.
-La parole est à M. Philippe Gosselin, pour soutenir l’amendement no 139.
+Je suis saisie de trois amendements, numéros 139, 166 et 713, pouvant être soumis à une discussion commune.
+Les amendements numéros 139 et 166 sont identiques.
+La parole est à M. Philippe Gosselin, pour soutenir l’amendement numéro 139.
 Puisque l’on est dans l’ouverture des données, il importe que les règles soient communes à tous les services publics, quel que soit leur mode d’exploitation.
 Cet amendement vise à intégrer les régies dotées de la personnalité morale et de l’autonomie financière dans la catégorie des collectivités, administrations ou établissements au sens large qui pourraient être visés par la loi.
-La parole est à M. Alain Leboeuf, pour soutenir l’amendement no 166.
+La parole est à M. Alain Leboeuf, pour soutenir l’amendement numéro 166.
 Il est défendu.
-La parole est à M. Jean-Luc Bleunven, pour soutenir l’amendement no 713.
+La parole est à M. Jean-Luc Bleunven, pour soutenir l’amendement numéro 713.
 En matière d’ouverture des données d’intérêt général, les opérateurs publics ou privés chargés de l’exploitation d’un service public doivent être soumis aux mêmes obligations de transparence, quel que soit le mode d’exploitation.
 Cet amendement a pour objet d’étendre aux régies dotées de la personnalité morale et de l’autonomie financière les mêmes obligations que celles applicables aux délégataires de service public conformément à l’article 10 du projet de loi.
-Quel est l’avis de la commission sur ces trois amendements ? Défavorable pour les mêmes raisons que sur l’amendement no 137.
+Quel est l’avis de la commission sur ces trois amendements ? Défavorable pour les mêmes raisons que sur l’amendement numéro 137.
 Quel est l’avis du Gouvernement ? J’ai expliqué les raisons pour lesquelles le Gouvernement est défavorable à ces amendements.
-La parole est à Mme Bernadette Laclais, pour soutenir l’amendement no 497.
+Je suis saisie de deux amendements, numéros 497 et 383, pouvant être soumis à une discussion commune.
+La parole est à Mme Bernadette Laclais, pour soutenir l’amendement numéro 497.
+Cet amendement tend à modifier l’alinéa 8 de l’article 10.
+Dès lors que la loi estime utile d’ouvrir les données des différentes délégations de service public, il convient que toutes soient assez rapidement soumises à la même transparence.
+Une DSP pouvant être conclue pour vingt ans, il n’est pas cohérent de demander aujourd’hui communication de données dans un service et d’attendre le renouvellement appelé à intervenir en 2035 pour avoir les mêmes données dans un service qui aurait conclu la DSP avant la date de promulgation de la loi.
 C’est la raison pour laquelle je propose que, dans un délai de trois ans, les I et II de l’article 10 soient applicables aux contrats conclus ou reconduits antérieurement à la promulgation de la loi.
-La parole est à Mme Isabelle Attard, pour soutenir l’amendement no 383.
-Cet amendement vise à permettre l’ouverture des données des délégations de service public au plus tard au 1erjanvier 2021.
+La parole est à Mme Isabelle Attard, pour soutenir l’amendement numéro 383.
+Certaines délégations de service public peuvent s’exécuter sur des durées très longues.
+La durée maximale pour les DSP dans le domaine des déchets, de l’eau et de l’assainissement est ainsi de vingt ans.
+Il s’agit d’un temps bien trop long.
+Cet amendement vise à permettre l’ouverture des données des délégations de service public au plus tard au 1ierjanvier 2021.
 Nous avons en effet tenu compte des remarques qui nous avaient été faites en commission et reculé la date de 2019 à 2021.
 Une durée de cinq ans semble suffisante pour que l’ensemble des acteurs puissent s’adapter à cette nouvelle obligation.
-Quel est l’avis de la commission sur ces deux amendements ? Je vous demande, madame Laclais, madame Attard, de retirer vos amendements au profit de l’amendement no 273 déposé par Mme Chapdelaine que nous examinerons juste après et auquel je suis favorable car il me paraît être un bon compromis sur l’application de l’article 10 aux contrats en cours.
+Quel est l’avis de la commission sur ces deux amendements ? Je vous demande, madame Laclais, madame Attard, de retirer vos amendements au profit de l’amendement numéro 273 déposé par Mme Chapdelaine que nous examinerons juste après et auquel je suis favorable car il me paraît être un bon compromis sur l’application de l’article 10 aux contrats en cours.
 Sinon, je serai défavorable à vos amendements.
-Quel est l’avis du Gouvernement ? Face au risque manifeste d’inconstitutionnalité, et bien que je partage votre objectif de rendre ces mesures les plus effectives possibles, je vous demande moi aussi de retirer vos amendements au profit de l’amendement no 273.
-Maintenez-vous votre amendement, madame Laclais ? Je n’ai aucun problème pour le retirer au profit de l’amendement no 273.
-Retirez-vous le vôtre, madame Attard ? L’amendement no 273 prévoit que les personnes publiques « peuvent exiger » du délégataire la transmission des données.
+Quel est l’avis du Gouvernement ? Face au risque manifeste d’inconstitutionnalité, et bien que je partage votre objectif de rendre ces mesures les plus effectives possibles, je vous demande moi aussi de retirer vos amendements au profit de l’amendement numéro 273.
+Maintenez-vous votre amendement, madame Laclais ? Je n’ai aucun problème pour le retirer au profit de l’amendement numéro 273.
+Retirez-vous le vôtre, madame Attard ? L’amendement numéro 273 prévoit que les personnes publiques « peuvent exiger » du délégataire la transmission des données.
 Cela me gêne car une telle rédaction est un peu floue.
 Cela dit, je retire mon amendement.
-La parole est à Mme Marie-Anne Chapdelaine, pour soutenir l’amendement no 273.
+La parole est à Mme Marie-Anne Chapdelaine, pour soutenir l’amendement numéro 273.
+L’article 10 fixe au titulaire d’une délégation de service public une obligation de transmission à l’autorité délégante, des données et bases de données collectées ou produites à l’occasion de l’exploitation du service public.
+Ces dispositions s’appliquent pour les contrats futurs, conformément au III de l’article.
 Il convient de prévoir que les dispositions du III ne fassent pas obstacle à la possibilité pour les personnes publiques de se voir transmettre, à l’issue des contrats en cours, les données nécessaires au renouvellement du contrat.
-La parole est à M. Philippe Gosselin, pour soutenir l’amendement no 135.
+Je suis saisie de plusieurs amendements identiques portant article additionnel après l’article 10, et tout d’abord de trois amendements identiques numéros 135, 164 et 712.
+La parole est à M. Philippe Gosselin, pour soutenir l’amendement numéro 135.
 L’amendement vise à mettre le présent projet de loi en coordination avec l’article L. 1112-23 du code général des collectivités territoriales afin de viser toutes les intercommunalités concernées en leur qualité d’autorités délégantes de services publics et non pas simplement les intercommunalités à fiscalité propre.
 Cela implique de citer expressément les syndicats mixtes qui sont des intercommunalités sans être à fiscalité propre.
-La parole est à M. Alain Leboeuf, pour soutenir l’amendement no 164.
+La parole est à M. Alain Leboeuf, pour soutenir l’amendement numéro 164.
 Il ne faut en effet pas oublier les syndicats mixtes qui ont un vrai rôle à jouer.
 J’insiste sur l’importance de ces amendements identiques de coordination.
-La parole est à M. Jean-Luc Bleunven, pour soutenir l’amendement no 712.
+La parole est à M. Jean-Luc Bleunven, pour soutenir l’amendement numéro 712.
 Cet amendement de coordination est défendu.
 Quel est l’avis de la commission ? Cohérence pour cohérence, je tiens à rappeler que l’article L. 1112-23 a été abrogé à mon initiative pour rapatrier les obligations d’open data des collectivités territoriales dans le droit commun du code des relations entre le public et l’administration.
 C’est pourquoi je demande le retrait de ces trois amendements.
@@ -426,59 +743,104 @@ La parole est à M. le rapporteur.
 Après vérification, l’article visé par les amendements a bien été abrogé.
 Les amendements sont donc devenus sans objet et je demande bien leur retrait.
 La parole est à Mme la secrétaire d’État.
-L’adoption de l’amendement no 234 rectifié du rapporteur a effectivement rendu sans objet ces trois amendements.
-Monsieur Gosselin, retirez-vous l’amendement no 135 ? Tout à fait.
-Monsieur Leboeuf, faites-vous de même pour l’amendement no 164 ? Je le retire également.
-Et vous, enfin, monsieur Bleunven, pour l’amendement no 712 ? Je le retire moi aussi.
-La parole est à M. Philippe Gosselin, pour soutenir l’amendement no 144.
+L’adoption de l’amendement numéro 234 rectifié du rapporteur a effectivement rendu sans objet ces trois amendements.
+Monsieur Gosselin, retirez-vous l’amendement numéro 135 ? Tout à fait.
+Monsieur Leboeuf, faites-vous de même pour l’amendement numéro 164 ? Je le retire également.
+Et vous, enfin, monsieur Bleunven, pour l’amendement numéro 712 ? Je le retire moi aussi.
+Nous en venons à une série de trois autres amendements identiques, numéros 144, 169 et 715.
+La parole est à M. Philippe Gosselin, pour soutenir l’amendement numéro 144.
 Sous la réserve que, si l’article L. 1112-23 est abrogé, l’article L. 1112-24 cité dans l’article deviendrait l’article L. 1112-23, l’amendement vise à donner une définition des données privées d’intérêt général, c’est-à-dire des données produites par des acteurs privés qui ne font pas l’objet de contrats publics, ce qui permettrait de lever l’ambiguïté qui existe à l’heure actuelle.
-La parole est à M. Alain Leboeuf, pour soutenir l’amendement no 169.
+La parole est à M. Alain Leboeuf, pour soutenir l’amendement numéro 169.
 Il est défendu.
-La parole est à M. Jean-Luc Bleunven, pour soutenir l’amendement no 715.
+La parole est à M. Jean-Luc Bleunven, pour soutenir l’amendement numéro 715.
 Il est défendu.
-Quel est l’avis de la commission sur ces trois amendements identiques ? Il vous est dès lors facile de comprendre pourquoi je serai défavorable à ces trois amendements s’ils ne sont pas retirés.
-Quel est l’avis du Gouvernement ? Avis défavorable à ce stade.
-Monsieur Gosselin, retirez-vous votre amendement ? Un mot du renvoi hypothétique au projet de loi Noé.
+Quel est l’avis de la commission sur ces trois amendements identiques ? Outre un problème d’absence de procédure, ces amendements représentent une atteinte non négligeable à la propriété privée.
+Si la CADA juge que les données sont d’intérêt général, les entreprises auront la charge de les fournir aux 36 000 communes de notre pays.
+Il vous est dès lors facile de comprendre pourquoi je serai défavorable à ces trois amendements s’ils ne sont pas retirés.
+Quel est l’avis du Gouvernement ? Je tiens tout de même à commenter l’idée de donnée privée d’intérêt général, puisque les amendements ont pour objet de permettre aux collectivités locales d’accéder aux données et aux bases de données privées qui appartiennent à des personnes morales de droit privé.
+Cette question est à mes yeux fondamentale.
+J’ai pu constater aux États-Unis l’importance de ce sujet.
+Des expérimentations sont en cours.
+Le Gouvernement consent des efforts importants pour promouvoir ce chantier et la France peut montrer la voie au plan international.
+Il se trouve que le projet de loi comporte déjà une section consacrée aux données d’intérêt général, avec trois articles qui consacrent de grandes avancées : l’ouverture des données des délégations de service public, très attendue par les collectivités, l’ouverture des données essentielles des conventions de subvention et la transmission par voie électronique à l’INSEE de certaines données des entreprises.
+Nous pourrions certainement aller plus loin encore dans ce chantier des données d’intérêt général, notamment pour une application sectorielle et au cas par cas.
+C’est la raison pour laquelle nous avons missionné l’Inspection générale des finances et le Conseil général de l’économie pour recevoir leurs conclusions en ce sens.
+Il se trouve que rendre obligatoire l’ouverture de données privées soulève des difficultés juridiques importantes, puisque cette ouverture représente une atteinte au droit de propriété, laquelle ne peut être justifiée qu’en démontrant un motif d’intérêt général suffisant.
+C’est l’écueil de ces trois amendements.
+La transmission des données privées aux collectivités et à leurs groupements n’est pas à ce stade encore suffisamment encadrée.
+Je puis vous assurer que nous travaillons aux moyens de surmonter ces obstacles et j’espère que nous serons en mesure de faire des propositions innovantes en ce sens dans les prochains mois.
+Elles devaient faire l’objet de quelques dispositions de la future loi Noé : pourquoi ne pas les y voir apparaître ? Avis défavorable à ce stade.
+Monsieur Gosselin, retirez-vous votre amendement ? C’était un amendement d’appel – même si notre collègue Christian Paul nous a déclaré ne pas connaître cette catégorie d’amendements ! Les explications données et les travaux en cours sur le sujet m’ont convaincu.
+Cet amendement a permis d’ouvrir le débat.
+Je le retire.
+Je reviendrai sur la question de l’atteinte à la propriété.
+Je suis un défenseur du droit de la propriété, notamment intellectuelle.
+Loin de moi donc l’idée d’y porter atteinte.
+Nous avons besoin d’approfondir cette question.
+Un mot du renvoi hypothétique au projet de loi Noé.
 Il y a déjà sur cette arche un bestiaire assez nourri (Sourires) et ce que nous avons entendu cet après-midi conforte mes doutes à son sujet.
 Je vous renvoie à la collégialité gouvernementale.
 Monsieur Leboeuf, retirez-vous également votre amendement ? Oui, madame la présidente.
 Et vous, monsieur Bleunven ? Je fais de même.
-La parole est à M. Philippe Gosselin, pour soutenir l’amendement no 140.
+Nous en venons à une dernière série de trois amendements identiques, numéros 140, 168 et 714.
+La parole est à M. Philippe Gosselin, pour soutenir l’amendement numéro 140.
 Il est défendu.
-La parole est à M. Alain Leboeuf, pour soutenir l’amendement no 168.
+La parole est à M. Alain Leboeuf, pour soutenir l’amendement numéro 168.
+Il n’y a aucune raison de traiter de manière différenciée l’enjeu que constitue l’ouverture des données d’intérêt général selon le mode d’exploitation du service public considéré.
+Dans sa rédaction actuelle, l’article 10 du projet de loi ne concerne pas l’ensemble des délégataires de service public, mais uniquement ceux titulaires d’un contrat attribué dans le respect des règles de publicité et de mise en concurrence.
 Il est donc important d’insérer cet article supplémentaire.
-La parole est à M. Jean-Luc Bleunven, pour soutenir l’amendement no 714.
+La parole est à M. Jean-Luc Bleunven, pour soutenir l’amendement numéro 714.
 Il est défendu.
-Quel est l’avis de la commission sur ces trois amendements identiques ? C’est pourquoi je vous propose de retirer vos amendements.
+Quel est l’avis de la commission sur ces trois amendements identiques ? Décidément, nous avons là un trio de choc qui a des inspirations communes ! Ces amendements sont redondants avec l’article 50 du projet d’ordonnance relative aux contrats de concession, qui, je le reconnais, est en cours d’examen par le Conseil d’État : son adoption en conseil des ministres est prévue dans les prochaines semaines.
+Or cette ordonnance prévoit déjà la publication des données essentielles de tous les contrats de concession, en particulier les investissements et les tarifs.
+C’est pourquoi je vous propose de retirer vos amendements.
 Quel est l’avis du Gouvernement ? Même avis.
 Monsieur Gosselin, retirez-vous votre amendement ? Non, madame la présidente.
 Et vous, monsieur Leboeuf ? Non plus, madame la présidente.
 Et vous, monsieur Bleunven ? Je retire le mien.
 La parole est à M. Thierry Mariani, inscrit sur l’article.
+Le présent article a pour objet de faciliter la transmission des nombreuses informations demandées par l’INSEE aux entreprises lors d’enquêtes statistiques obligatoires.
+Le ministre peut décider de recourir à la dématérialisation de la transmission des informations après une étude de faisabilité et d’opportunité.
+Force est de constater que cet article va dans le bon sens mais je partage l’opinion défendue par mon collègue Philippe Gosselin qui souhaite aller directement vers la dématérialisation.
+En effet, celle-ci représente un atout dans bien des domaines : c’est une avancée qui permet de faciliter de façon très concrète la vie des entreprises ainsi – je pense que vous y serez sensible – que celle des Français établis hors de France que je représente et que vous connaissez bien.
+À cet effet, je me permets de m’éloigner un peu de notre sujet, pour ouvrir une parenthèse dans ce débat et demander au Gouvernement d’exploiter toutes les potentialités numériques pour simplifier les démarches administratives des Français établis hors de France.
+Les démarches en ligne devraient faire l’objet d’une plus grande systématicité pour ces Français.
+Malgré les nombreux efforts faits par les consulats, nombre de Français de l’étranger connaissent des difficultés pour s’y rendre.
+Ils sont parfois contraints de parcourir plusieurs centaines de kilomètres pour renouveler leurs passeports, présenter leurs certificats de vie ou encore voter.
+De plus, nos compatriotes sont souvent confrontés à des complications liées au décalage horaire, par exemple, pour faire établir des documents administratifs avec différents services publics établis en France.
 Afin de faciliter les démarches administratives pour nos compatriotes établis hors de France, la dématérialisation des échanges avec les consulats paraît donc aujourd’hui inéluctable.
 Quelles que soient nos positions dans l’hémicycle, nous ne pouvons qu’encourager cette démarche qui facilitera la vie de nos concitoyens établis à l’étranger.
-La parole est à M. Philippe Gosselin, pour soutenir l’amendement no 261.
+La parole est à M. Philippe Gosselin, pour soutenir l’amendement numéro 261.
+Cet amendement soulève les difficultés d’application et d’effectivité de l’article 12 : nous avons eu un débat intéressant en commission des lois sur le fait de rendre ou non obligatoire la dématérialisation complète.
+Mme Karine Berger a alors évoqué les difficultés rencontrées par les petites entreprises pour assurer la dématérialisation.
 C’est pourquoi je retire l’amendement.
-La parole est à M. Philippe Gosselin, pour soutenir l’amendement no 335.
+La parole est à M. Philippe Gosselin, pour soutenir l’amendement numéro 335.
 Cet amendement vise à garantir que la transmission des informations statistiques envoyées par voie électronique se fasse de façon sécurisée.
 Cela va sans dire : il est toutefois mieux de le préciser.
 Quel est l’avis de la commission ? Avis favorable.
 Quel est l’avis du Gouvernement ? Favorable.
-La parole est à M. Philippe Gosselin, pour soutenir l’amendement no 262.
-Toutefois, par cohérence avec le retrait de l’amendement no 261, je retire également celui-ci.
+La parole est à M. Philippe Gosselin, pour soutenir l’amendement numéro 262.
+Si on devait s’orienter vers une dématérialisation plus complète, il conviendrait de prévoir un calendrier précis.
+Nous sommes dans de nombreux domaines au stade des bonnes intentions.
+Malheureusement, s’en contenter ce serait renvoyer ce projet aux calendes grecques.
+Il faut se donner les moyens d’une action concrète : un calendrier précis est nécessaire.
+Toutefois, par cohérence avec le retrait de l’amendement numéro 261, je retire également celui-ci.
+Je suis saisie d’un amendement numéro 672, qui fait l’objet d’un sous-amendement numéro 870.
 La parole est à Mme Corinne Erhel, rapporteure pour avis de la commission des affaires économiques, pour soutenir l’amendement.
 Cet amendement vise à imposer de manière plus explicite le régime du secret statistique aux données transmises par les personnes morales de droit privé dans le cadre d’une enquête statistique.
 En effet, la rédaction actuelle, qui prévoit que les données « ne peuvent être communiquées à quiconque », me semble manquer de précision juridique.
 Il est donc proposé de reprendre les termes de la loi du 7 juin 1951, qui définit de manière plus précise les obligations qui s’imposent à l’INSEE ou aux services ministériels en matière de secret statistique.
-La parole est à Mme la secrétaire d’État, pour soutenir le sous-amendement no 870.
-L’amendement no 672 présenté par Mme Erhel est tout à fait utile : il clarifie la situation et permet aux services dépositaires des informations recueillies de mieux travailler.
+La parole est à Mme la secrétaire d’État, pour soutenir le sous-amendement numéro 870.
+L’amendement numéro 672 présenté par Mme Erhel est tout à fait utile : il clarifie la situation et permet aux services dépositaires des informations recueillies de mieux travailler.
 Cependant, il introduit un délai de vingt-cinq ans qui n’existait pas dans le projet de loi initial et que je souhaite supprimer.
 En effet, la garantie de confidentialité dans le temps des informations transmises est un élément essentiel de l’équilibre trouvé avec les professionnels et les personnes morales de droit privé que nous avons sollicités.
-C’est pourquoi je suis favorable à l’amendement no 672 sous réserve de l’adoption du sous-amendement no 870.
-Quel est l’avis de la commission ? La commission est favorable au sous-amendement no 870 du Gouvernement et à l’amendement no 672 ainsi sous-amendé.
+C’est pourquoi je suis favorable à l’amendement numéro 672 sous réserve de l’adoption du sous-amendement numéro 870.
+Quel est l’avis de la commission ? La commission est favorable au sous-amendement numéro 870 du Gouvernement et à l’amendement numéro 672 ainsi sous-amendé.
 La parole est à Mme Corinne Erhel, rapporteure pour avis.
 Je suis favorable au sous-amendement du Gouvernement.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 762.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 762.
+À première vue, l’article 12 peut donner l’impression d’une aspiration des données statistiques détenues par les entreprises privées au profit de la statistique publique.
+Je pense que ce n’est pas l’esprit du texte, mais encore faut-il prévoir toutes les garanties.
 Par exemple, dans le texte présenté au Conseil d’État, les conditions d’enregistrement temporaire des données étaient encadrées.
 Or, dans le texte actuel, cet encadrement est renvoyé à un décret alors que le Conseil d’État n’a, sauf erreur de ma part, pas émis de réserve tenant au caractère réglementaire de cette disposition.
 Compte tenu de l’importance de cet encadrement pour la protection des données personnelles, je maintiens ma volonté de le réintroduire dans la loi.
@@ -489,64 +851,116 @@ Quel est l’avis du Gouvernement ? Les précisions contenues dans l’avant-pr
 Je suis défavorable à votre amendement, monsieur Tardy, mais je vous garantis que le dispositif prévu inclura toutes les précautions de sécurité nécessaires, y compris la garantie de traçabilité que vous appelez de vos vœux.
 Nous sommes d’accord sur l’objectif poursuivi.
 Maintenez-vous votre amendement, monsieur Tardy ? Oui, madame la présidente.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 763.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 763.
+Cet article suscite une crainte, qui tient au fait que les données à transmettre doivent être anonymisées au préalable.
+À qui incombera le coût de cette opération ? Sur les entreprises, bien évidemment.
+Je précise que l’on parle ici d’entreprises privées, qui sont obligées de transmettre leurs données à des fins statistiques.
+Cet amendement prévoit que les entreprises communiquent à l’INSEE le coût des opérations d’anonymisation qu’elles ont dû effectuer.
 Vous aurez bien sûr compris qu’il s’agit d’un amendement d’appel.
 Je souhaite en effet que l’État s’engage à compenser les coûts par décret – une proposition irrecevable au titre de l’article 40 de la Constitution, mais qui a son importance.
 Quel est l’avis de la commission ? Cette question a été abordée longuement en commission.
 L’amendement de M. Tardy est satisfait par l’alinéa 5 : j’y suis donc défavorable.
-La parole est à Mme Laure de La Raudière, pour soutenir l’amendement no 554.
+Je suis saisie de deux amendements, numéros 554 et 764, pouvant être soumis à une discussion commune.
+La parole est à Mme Laure de La Raudière, pour soutenir l’amendement numéro 554.
+Les données brutes des personnes morales qui vont être confiées à l’INSEE sont des données stratégiques, très sensibles d’un point de vue concurrentiel.
+Aussi est-il important de limiter les risques en matière de sécurité physique et de garantir la confidentialité de ces données.
+Leur destruction, après utilisation par l’INSEE, permet de prévenir totalement ces risques : c’est ce que prévoit cet amendement à l’alinéa 7.
+En outre, la conservation de telles données brutes ne se justifie pas, dans la mesure où seules les informations traitées par la statistique publique, agrégées et anonymisées, pourront être rendues publiques.
 Par souci de sécurité, je propose donc que les données brutes, une fois utilisées, soient détruites par l’INSEE.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 764.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 764.
 Je rejoins les propos de Laure de La Raudière.
 Mon amendement est en quelque sorte un amendement de repli, en cohérence avec le principe de l’enregistrement temporaire.
 Si des précisions doivent être apportées dans le décret, elles doivent également concerner le pendant de l’enregistrement temporaire, à savoir la destruction des données dont la statistique publique n’est pas propriétaire.
-Quel est l’avis de la commission sur ces deux amendements ? M. Tardy et Mme de La Raudière ont parfaitement raison : je donne un avis favorable à leur amendement no 554 et je propose donc le retrait de l’amendement de repli no 764.
-Quel est l’avis du Gouvernement ? Même position : je suis favorable à l’amendement no 554.
-Monsieur Tardy, retirez-vous votre amendement no 764 ? Oui, madame la présidente.
-La parole est à Mme Laure de La Raudière, pour soutenir l’amendement no 838.
+Quel est l’avis de la commission sur ces deux amendements ? M. Tardy et Mme de La Raudière ont parfaitement raison : je donne un avis favorable à leur amendement numéro 554 et je propose donc le retrait de l’amendement de repli numéro 764.
+Quel est l’avis du Gouvernement ? Même position : je suis favorable à l’amendement numéro 554.
+Monsieur Tardy, retirez-vous votre amendement numéro 764 ? Oui, madame la présidente.
+La parole est à Mme Laure de La Raudière, pour soutenir l’amendement numéro 838.
 Cet amendement vise à conserver un apport pertinent de l’avant-projet de loi, qui prévoyait l’établissement d’une convention entre le service statistique concerné et la personne morale faisant l’objet de l’enquête.
 Or le texte actuel prévoit, d’une part, une « concertation » – ce qui est très différent d’une convention –, et d’autre part, une « fixation réglementaire », sans qu’il soit clairement garanti que toutes les conditions techniques et tarifaires de mise à disposition soient envisagées et établies d’un commun accord par les personnes concernées.
 A fortiori, les sanctions prévues rendent indispensable le fait que la personne morale de droit privé ait pris pleinement connaissance du cadre juridique de cette transmission d’informations avant son entrée en vigueur.
 Il est donc proposé qu’une convention soit établie, et qu’elle soit ensuite homologuée par voie réglementaire.
 C’était l’esprit de l’avant-projet de loi, madame la secrétaire d’État.
 Quel est l’avis de la commission ? Défavorable.
-Quel est l’avis du Gouvernement ? Vous proposez, madame de La Raudière, de signer une convention supplémentaire et de mettre en place une procédure d’homologation.
+Quel est l’avis du Gouvernement ? Défavorable également.
+Les entreprises seront informées des modalités techniques de l’enquête au moment de l’étude de faisabilité et d’opportunité, qui a été maintenue dans le projet de loi et qui sera rendue publique.
+L’information des entreprises se poursuivra ultérieurement, au moment de la mise en œuvre de l’enquête, notamment par la transmission d’une note explicative, comme cela se fait d’ailleurs pour toutes les enquêtes statistiques.
+Vous proposez, madame de La Raudière, de signer une convention supplémentaire et de mettre en place une procédure d’homologation.
 Voilà des formalités administratives nouvelles qui me semblent a priori superflues, d’autant que l’INSEE veillera particulièrement – et c’est normal – à entretenir des relations de long terme avec les entreprises concernées.
 Lorsqu’il s’agit, par exemple, de collecter des données de caisses auprès des grands distributeurs, on imagine bien que cette démarche est récurrente : il s’agit alors d’agir dans le respect mutuel des accords trouvés.
 C’est la raison pour laquelle le Gouvernement est défavorable à votre amendement.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 765.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 765.
+L’alinéa 12 prévoit que le ministre de l’économie lui-même puisse publier la liste des entreprises qui n’ont pas transmis leurs données, malgré son injonction.
+Or ce défaut est déjà passible d’une amende administrative, ce qui est largement suffisant.
 Même si le « name and shame » est à la mode, cette disposition n’est pas opportune, car il ne s’agit pas ici d’un délit, ni d’une amende prononcée par le juge, contrairement à ce que la loi prévoit contre le travail illégal.
 Par ailleurs, il y aurait un déséquilibre notoire entre les entreprises et les administrations.
-Quel est l’avis de la commission ? Pour toutes ces raisons, la commission est défavorable à cet amendement.
-La parole est à Mme Marie-Anne Chapdelaine, pour soutenir l’amendement no 276 portant article additionnel après l’article 12.
+Quel est l’avis de la commission ? L’analogie avec la CADA ne paraît pas juste.
+Dans le cas présent, il y a bien eu sanction, puisque le ministre chargé de l’économie a prononcé une amende administrative.
+Dans le II de l’article 3-1 nouveau de la loi du 7 juin 1951, on renforce la procédure de sanction en cas de non-respect de l’obligation de communication des données.
+Le montant maximal de l’amende est de 25 000 euros ; il peut être doublé en cas de récidive dans un délai de trois ans.
+Par ailleurs, le ministre peut déjà rendre publiques les sanctions qu’il prononce.
+Il peut également ordonner leur insertion dans des publications aux frais des personnes sanctionnées.
+Pour toutes ces raisons, la commission est défavorable à cet amendement.
+La parole est à Mme Marie-Anne Chapdelaine, pour soutenir l’amendement numéro 276 portant article additionnel après l’article 12.
+Si les entreprises sont obligées de répondre à certaines enquêtes statistiques diligentées par l’INSEE, ce n’est pas le cas pour les enquêtes de conjoncture administrées par l’Institut d’émission des départements d’outre-mer, l’IEDOM, et l’Institut d’émission d’outre-mer, l’IEOM.
+Je souligne une nouvelle fois la nécessité d’une connaissance plus fine des dynamiques conjoncturelles des économies ultramarines.
+Compte tenu du taux de réponse relativement faible aux enquêtes de conjoncture, cet amendement propose d’étendre l’obligation de réponse aux enquêtes conjoncturelles à celles effectuées par l’IEDOM et l’IEOM dans les départements, régions et collectivités d’outre-mer.
 J’ai bien entendu, monsieur le rapporteur, madame la secrétaire d’État, ce que vous m’avez répondu tout à l’heure : vous avez dit qu’une telle disposition pouvait être intéressante, mais que ce n’était pas le bon moment.
 Or il y a des territoires que l’on connaît moins et qui ont besoin d’être mieux appréhendés.
 J’ai déjà retiré des amendements, comme vous me l’aviez demandé, mais je tiens vraiment à appeler votre attention sur cette nécessité d’avoir une connaissance plus fine de certains territoires ultramarins, qu’ils soient d’ailleurs ruraux ou urbains.
 J’aimerais avoir l’engagement que ce sujet ne sera pas relégué aux oubliettes.
 Quel est l’avis de la commission ? Il est vrai, madame Chapdelaine, que vous avez accepté tout à l’heure de retirer deux amendements : la secrétaire d’État et moi-même avons pris l’engagement de ne pas oublier ces sujets, et vous pouvez compter sur nous.
-En revanche, s’agissant de l’amendement no 276, la demande de retrait est un peu différente, puisqu’il est satisfait.
+En revanche, s’agissant de l’amendement numéro 276, la demande de retrait est un peu différente, puisqu’il est satisfait.
 Des enquêtes sont réalisées par l’IEDOM et l’IEOM, que vous venez de citer ; elles s’inscrivent dans le cadre du programme d’enquêtes ayant reçu le visa ministériel et bénéficient à ce titre des mêmes dispositions qui rendent la réponse obligatoire.
 Votre amendement est donc satisfait : c’est pourquoi je vous demande de le retirer.
-Quel est l’avis du Gouvernement ? Concernant l’amendement no 276, je rejoins la position du rapporteur.
+Quel est l’avis du Gouvernement ? Il ne s’agit aucunement d’exclure les territoires d’outre-mer de notre politique d’ouverture des données publiques.
+Je tiens simplement à préciser que ces données ne sont ni nationales ni territoriales : elles incluent donc aussi, par définition, les données produites par les collectivités ultramarines.
+Concernant l’amendement numéro 276, je rejoins la position du rapporteur.
 Nous approuvons naturellement l’objectif de cette mesure, à savoir une amélioration de la connaissance statistique dans les départements et collectivités d’outre-mer, mais il se trouve que la loi du 7 juin 1951 prévoit déjà une procédure pour rendre obligatoire la réponse aux enquêtes statistiques, y compris à celles qui sont menées dans ces territoires.
 Il est donc proposé aux institutions que vous avez citées, madame Chapdelaine, de suivre cette même procédure, qui est ouverte à l’ensemble des organismes publics.
 C’est pourquoi je vous demande de retirer votre amendement ; à défaut, le Gouvernement y sera défavorable.
 La parole est à Mme Marie-Anne Chapdelaine.
 Je retire mon amendement.
-La parole est à M. Jacques Krabal, pour soutenir l’amendement no 859.
+La parole est à M. Jacques Krabal, pour soutenir l’amendement numéro 859.
+Il s’agit d’insérer dans le code du sport un article L. 333-1-5 ainsi rédigé : « Le droit d’exploitation défini au premier alinéa de l’article L. 333-1 inclut le droit de constituer et d’exploiter des bases de données relatives aux manifestations ou compétitions sportives à des fins commerciales. » Ce droit d’exploitation poursuit trois objectifs.
+Tout d’abord, il donne aux fédérations et aux ligues professionnelles les moyens d’organiser les manifestations et les compétitions officielles conformément aux exigences de service public.
+En outre, il fiabilise les données et bases de données pour éviter leur manipulation et assurer la protection du consommateur dans le cadre des paris sportifs.
+Enfin, il garantit l’unité et la solidarité entre les activités sportives professionnelles et amateurs.
 Il est par conséquent important que les fédérations sportives et leurs ligues affiliées puissent commercialiser librement les informations et données publiques qu’elles détiennent au titre de leurs missions de service public, afin de permettre d’atteindre les objectifs précités.
-Quel est l’avis de la commission ? Vous n’avez donc pas d’inquiétude particulière à avoir quant au modèle de financement fondé sur les droits d’exploitation.
+Quel est l’avis de la commission ? Nous aurons une discussion similaire à l’article 42 sur le e-sport et les jeux vidéo.
+S’agissant du présent article, il me semble que l’on fait une confusion d’une part entre les redevances publiques brutes, lesquelles sont très encadrées par le présent projet de loi ainsi que par le projet de loi Valter relative à la transposition de la directive PSI – Public sector information – et d’autre part la rémunération de prestations spécifiques relatives à des données, qui reste tout à fait possible.
+Vous n’avez donc pas d’inquiétude particulière à avoir quant au modèle de financement fondé sur les droits d’exploitation.
 je vous propose donc de retirer votre amendement.
 À défaut, l’avis de la commission sera défavorable.
-Quel est l’avis du Gouvernement ? Nulle raison de s’inquiéter sur ce point.
+Quel est l’avis du Gouvernement ? Je sais que les fédérations sportives se sont interrogées quant à l’effet des nouvelles dispositions de ce projet de loi en matière de publication de réutilisation des données publiques.
+Je confirme que ces fédérations sont incluses dans le champ de la loi dite CADA dans la mesure où l’État leur confie une mission de service public.
+Pour autant, le modèle de financement n’est aucunement remis en cause, pas plus que la protection des droits d’exploitation commerciale des données liées à ces compétitions.
+Nulle raison de s’inquiéter sur ce point.
 Le Gouvernement demande donc le retrait de l’amendement.
 À défaut, il émettra un avis défavorable.
 La parole est à M. Jacques Krabal.
 Compte tenu des propos rassurants de Mme la secrétaire d’État et du rapporteur, je retire l’amendement.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 767, portant article additionnel avant l’article 13.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 767, portant article additionnel avant l’article 13.
+Nous avons eu le débat lors de la création de la Haute autorité pour la diffusion des œuvres et la protection des droits sur internet – HADOPI.
+Loin de moi l’idée de rouvrir ce débat, surtout à cette heure-ci ! Il n’empêche que, après cinq ans d’activité de cette instance, seuls trente-deux dossiers sur les quatre cents transmis à la justice ont abouti à des condamnations.
+Les études tendent à montrer le peu d’effet de la riposte graduée.
+Je ne parle pas des contournements techniques comme les réseaux privés virtuels ou virtual private network – VPN – contre lesquels une Haute autorité ne peut pas grand chose.
+Ce qui m’inquiète avant tout, c’est la réorientation vers laquelle tendrait le Gouvernement.
+Au départ, la HADOPI a trois missions : encourager le développement de l’offre légale ; protéger les œuvres et objets contre les atteintes aux droits d’auteur ; assurer une régulation et une veille dans le domaine des mesures techniques de protection.
+En 2015, le Gouvernement a réduit le budget de la HADOPI.
+Conséquence logique, celle-ci s’est concentrée sur sa mission de riposte graduée au détriment des autres, dont on ne parle d’ailleurs que très peu.
+Voilà pourquoi je souhaite hiérarchiser les missions : d’abord, le développement de l’offre légale ; ensuite, la riposte graduée ; puis, la veille.
+Je continue de penser que le téléchargement illégal continuera de progresser tant qu’en face, les internautes ne trouveront pas ce qu’ils sont en droit d’attendre, à savoir une offre légale accessible et complète.
+C’est aujourd’hui loin d’être le cas, en dépit de l’influence de certains acteurs privés.
+Dans HADOPI, il y a les deux lettres D et O – pour diffusion des œuvres.
+Mieux vaut insister sur cette mission-là de la HADOPI plutôt que de renforcer ses pouvoirs de sanction, comme le souhaitent certains sénateurs.
 J’avais déposé un autre amendement qui a été jugé irrecevable sur le plan financier, car les membres du collègue HADOPI sont rémunérés : je proposais qu’un membre du Conseil national du numérique rejoigne ce collège afin d’y apporter une expertise utile en matière de numérique.
 J’invite le Gouvernement à reprendre cette initiative à son compte.
-Quel est l’avis de la commission ? Au titre de ces missions, la Haute autorité peut formuler toute recommandation de modification qu’elle juge utile, aussi bien législative que réglementaire.
+Quel est l’avis de la commission ? On a ici largement affaire à un cavalier législatif.
+Lionel Tardy qui connaît particulièrement bien le sujet en conviendra lui-même.
+(Sourires.) Sur le fond, car le sujet est intéressant, la Haute autorité assure premièrement, une mission d’encouragement au développement de l’offre légale.
+Deuxièmement, une mission de protection des œuvres et objets contre les atteintes aux droits d’auteur.
+Troisièmement, une mission de régulation et de veille dans le domaine des mesures techniques de protection.
+Au titre de ces missions, la Haute autorité peut formuler toute recommandation de modification qu’elle juge utile, aussi bien législative que réglementaire.
 Elle peut être consultée par le Gouvernement sur tout projet de loi ou décret.
 Elle peut également être consultée par les commissions parlementaires sur toute question relative à ses domaines de compétence.
 Pour toutes ces raisons, je souhaite le retrait de l’amendement.
@@ -561,7 +975,13 @@ Je prendrai seulement quelques secondes pour dire à M. Tardy qu’il aurait d�
 De l’avis général, même s’il n’est pas politiquement correct de le dire, la HADOPI est, depuis sa création, une institution coûteuse et inutile.
 Eh oui ! C’est vrai.
 Elle est coûteuse, je n’y reviens pas : depuis sa création, des dizaines de millions d’euros ont été prélevés sur le budget du ministère de la culture par les gouvernements successifs… Tout à fait.
-Ce sont les ayants droit qui devraient la financer, pas l’État ! Si nous avions voulu aller au bout de nos convictions ce soir, nous aurions peut-être pu, à la faveur de ce texte, mettre fin à l’existence de la HADOPI et redéployer ses crédits vers d’autres autorités administratives indépendantes – je pense notamment à la CNIL.
+Ce sont les ayants droit qui devraient la financer, pas l’État ! …à un moment où dans certains domaines de la politique culturelle, on observe une réelle paupérisation.
+Elle est inutile, pour ce qui de la protection des auteurs et des artistes.
+Cette institution était en fait mort-née dès sa création.
+Elle avait été conçue pour lutter contre les échanges peer to peer.
+Or, depuis, ce sont les consultations en streaming qui se sont développées.
+La HADOPI, comme le droit en général d’ailleurs, sont totalement impuissants face à cette situation.
+Si nous avions voulu aller au bout de nos convictions ce soir, nous aurions peut-être pu, à la faveur de ce texte, mettre fin à l’existence de la HADOPI et redéployer ses crédits vers d’autres autorités administratives indépendantes – je pense notamment à la CNIL.
 Si on redéployait le budget de la HADOPI vers la CNIL, on servirait… L’open data.
 …l’open data en effet, par exemple.
 Nous sommes tous très créatifs sur ces sujets ! Avec l’argent qu’on n’a pas ! Très franchement, la HADOPI, c’est fini ! Monsieur Tardy, maintenez-vous ou retirez-vous votre amendement ? Je le maintiens.
@@ -572,7 +992,8 @@ Il n’y a ni difficulté, ni malaise particulier, mais si nous nous engageons d
 Je souhaiterais que l’on fasse un point sur l’état d’avancement de nos travaux.
 Monsieur le député, le rythme d’adoption des amendements étant variable, il est difficile de faire des pronostics.
 La règle veut que nous levions la séance à une heure du matin.
-Et je vous en prie, ne parlez pas de malaise ! (Sourires.) La parole est à M. Lionel Tardy, pour soutenir l’amendement no 768.
+Et je vous en prie, ne parlez pas de malaise ! (Sourires.) Nous en venons à l’article 13.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 768.
 De façon assez étonnante, les personnalités membres de la CNIL doivent posséder des compétences en matière d’informatique et de libertés individuelles, mais pas en matière de protection des données personnelles, alors que cet aspect, pourtant indissociable des deux autres, prend de plus en plus de place dans les missions de la CNIL.
 Le présent amendement vise à rajouter cette compétence pour les personnalités qualifiées.
 Quel est l’avis de la commission ? Votre amendement me semble largement satisfait, monsieur Tardy.
@@ -581,16 +1002,25 @@ Aussi, je demande le retrait de l’amendement.
 À défaut, l’avis sera défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 Je retire l’amendement.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 769.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 769.
 Étant donné l’extension des missions de la CNIL qui va devoir traiter des évolutions technologiques au sens large, il serait plus approprié de parler de compétences en « numérique » plutôt qu’en « informatique » pour les personnalités qualifiées.
 Sans aller jusqu’au changement de nom de la CNIL – Commission nationale de l’informatique et des libertés –, rappelons tout de même que les termes employés datent de 1978 et que depuis lors, les usages ont évolué et vont continuer d’évoluer.
 Une voiture, qui n’est pas un appareil informatique, est en train de devenir un objet connecté.
-Quel est l’avis de la commission ? La commission est donc très favorable à cet amendement.
+Quel est l’avis de la commission ? Une fois de plus, Lionel Tardy fait une analyse juste – il est vrai qu’il connaît fort bien ces questions.
+Selon la définition du Larousse, le terme « informatique » désigne une discipline née avec l’ordinateur.
+C’est un néologisme propre à la langue française formé en 1962 par Philippe Dreyfus, condensation des mots « information » et « automatique ».
+Il n’est pas inutile, à minuit et demi, de faire ce petit rappel.
+(Sourires.) Les Anglo-Saxons parlent, eux, de computer science ou de data processing.
+Deux définitions de l’informatique se sont toujours télescopées, celle qui concerne l’ensemble des techniques mises en œuvre pour l’utilisation des ordinateurs et celle concernant la science du traitement rationnel de l’information, notamment par des moyens automatiques.
+On parle de numérique à propos de la représentation d’informations ou de grandeurs physiques au moyen de caractères, tels que des chiffres, ou au moyen de signaux à valeur discrète et on qualifie de « numériques » les systèmes, dispositifs ou procédés employant ce mode de représentation discrète – par opposition à analogiques.
+La commission est donc très favorable à cet amendement.
 Quel est l’avis du Gouvernement ? Que dire de plus ? Tout y est.
 Avis favorable.
 Bravo ! Heureusement que M. Tardy est là ! L’article 14 faisait l’objet d’un amendement, madame la présidente.
 Son auteur l’a retiré de la liasse.
-Le co-auteur n’en a pas été averti ! (Sourires.) À défaut de droit d’auteur, c’est le droit de l’auteur ! (Sourires.) La parole est à M. Jacques Krabal, pour soutenir l’amendement no 832, portant article additionnel après l’article 16.
+Le co-auteur n’en a pas été averti ! (Sourires.) À défaut de droit d’auteur, c’est le droit de l’auteur ! (Sourires.) La parole est à M. Jacques Krabal, pour soutenir l’amendement numéro 832, portant article additionnel après l’article 16.
+Les deux chambres françaises font figure d’exemple dans le monde pour la diversité et la quasi-exhaustivité de la publication de leurs documents parlementaires.
+Je ne m’étendrai pas sur les dernières avancées en la matière qui montrent l’engagement continu du Parlement français en faveur d’une grande transparence.
 Cependant, l’exception au droit des citoyens à saisir la CADA sur un possible refus d’accès à des documents de l’administration parlementaire fait ombre à ce tableau.
 Il convient donc de lever cette exception difficilement justifiable par la seule séparation des pouvoirs.
 Quel est l’avis de la commission ? Le sujet a déjà été évoqué.
@@ -599,7 +1029,12 @@ Je demande donc le retrait de l’amendement.
 À défaut, l’avis sera défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 Je retire l’amendement.
-La parole est à Mme Delphine Batho, pour soutenir l’amendement no 585 rectifié.
+La parole est à Mme Delphine Batho, pour soutenir l’amendement numéro 585 rectifié.
+Avec la section relative à la gouvernance, on aborde la question de la souveraineté.
+L’article 3 de la Déclaration des droits de l’homme et du citoyen dispose : « Le principe de toute souveraineté réside essentiellement dans la nation.
+Nul corps, nul individu ne peut exercer d’autorité qui n’en émane expressément. » Or, comme j’ai eu l’occasion de le dire devant la commission des lois, conformément aux dispositions de l’article 5 de la loi dite Informatique et libertés, ladite loi ne s’applique qu’aux traitements de données à caractère personnel « dont le responsable est établi sur le territoire français […] » ; ou « dont le responsable, sans être établi sur le territoire français ou sur celui d’un autre État membre de la Communauté européenne, recourt à des moyens de traitement situés sur le territoire français […] ».
+Autrement dit, ces dispositions actent la perte de souveraineté et le fait que nos lois ne s’appliquent pas à un certain nombre de très grands acteurs du numérique, avec tous les problèmes que cela pose.
+Ce matin, sur une radio nationale, vous avez d’ailleurs été longuement interrogée, madame la secrétaire d’État, sur ces questions.
 L’amendement que je propose tend donc à corriger le 2° de l’article 5 de la loi du 6 janvier 1978 en faisant en sorte que soient soumis aux dispositions de cette loi tous les traitements de données à caractère personnel des personnes établies sur le territoire français.
 Quel est l’avis de la commission ? Le 2.
 de l’article 3 de la proposition de règlement européen sur la protection des données personnelles, qui devrait être définitivement adopté courant mars 2016, prévoit précisément son applicabilité sur la base d’un critère territorial, et non de nationalité.
@@ -607,7 +1042,8 @@ La loi européenne doit en effet s’appliquer là où les données personnelles
 Avis défavorable, donc.
 Quel est l’avis du Gouvernement ? Madame la députée, votre proposition, fort légitime, est satisfaite par ce nouvel article 3 du règlement européen sur la protection des données personnelles, qui prévoit en effet, pour la première fois, que les activités de traitement de données liées à une offre de biens ou de services sont soumises à cette réglementation européenne lorsqu’elles sont destinées à des ressortissants de l’Union européenne.
 Il s’agit là d’une avancée, qui avait été soutenue, encouragée et obtenue par le gouvernement français dans les négociations.
-Il serait peu opportun de légiférer en cette matière pour quelques mois, car plus aucune marge de manœuvre ne nous est laissée, … Quel aveu ! Je précise de nouveau la démarche du Gouvernement dans la rédaction de ce texte : lorsqu’il est possible d’anticiper des dispositions, nous le faisons.
+Il serait peu opportun de légiférer en cette matière pour quelques mois, car plus aucune marge de manœuvre ne nous est laissée, … Quel aveu ! …mais le texte européen répond pleinement aux attentes du gouvernement français.
+Je précise de nouveau la démarche du Gouvernement dans la rédaction de ce texte : lorsqu’il est possible d’anticiper des dispositions, nous le faisons.
 Lorsque des marges de manœuvre sont laissées aux États membres, comme c’est notamment le cas pour tous les renvois au droit national, à propos par exemple de la mort numérique, nous le faisons.
 En revanche, lorsque les dispositions ne laissent pas de marge de manœuvre, il faut attendre.
 C’est la réponse que j’ai donnée en commission et que je donnerai à nouveau dans cet hémicycle.
@@ -616,21 +1052,35 @@ La parole est à M. Philippe Gosselin.
 Nous apprécions à sa juste valeur la constance de Mme la secrétaire d’État,… C’est gentil ! (Sourires.) …mais cette réponse souligne une fois de plus l’ambiguïté du texte et de sa coordination avec le futur règlement européen : quand ça nous arrange, on dit que nous allons attendre et quand cela ne nous arrange pas, nous disons aussi que nous allons attendre.
 C’est un discours à géométrie variable et très inconstant, au rebours de la constance dont fait preuve Mme la secrétaire d’État.
 Oh ! Madame Batho, maintenez-vous votre amendement ? Oui, madame la présidente.
-La parole est à M. André Chassaigne, pour soutenir l’amendement no 395.
+Je suis saisie de deux amendements identiques, numéros 395 et 586.
+La parole est à M. André Chassaigne, pour soutenir l’amendement numéro 395.
+Je voudrais d’abord rendre à Delphine ce qui est à Delphine.
+(Sourires.) Il s’agit en effet d’un amendement que Mme Batho a présenté en commission des lois et que nous avons repris, car nous partageons entièrement son diagnostic.
+Cet amendement aborde un défi majeur auquel la puissance publique est confrontée en matière de numérique : celui de notre souveraineté numérique, ainsi que du stockage et de l’utilisation des données personnelles de nos concitoyens.
+Il y a aujourd’hui un risque majeur de voir nos données personnelles transférées d’un continent à un autre.
+En clair, les données personnelles de nos concitoyens peuvent être stockées dans des serveurs d’un autre pays, où la législation et les règles en matière de sécurité et de confidentialité sont différentes des nôtres.
+La question est bien celle de la souveraineté numérique de nos concitoyens, mise à mal par cette mondialisation des nouvelles technologies qui peut mettre en péril à la fois nos vies privées, nos emplois et notre propriété intellectuelle.
+Nous nous trouvons donc aujourd’hui dans une situation où nos données personnelles, cet or noir numérique, peuvent être stockées hors de notre pays, notamment de l’autre côté de l’Atlantique.
 Il nous faut donc avancer sur ce sujet pour regagner ce qui a été perdu en matière de souveraineté numérique.
 Les discussions aux niveaux européen et international doivent permettre d’aller en ce sens pour que la règle de droit qui s’applique au traitement des données soit la règle de droit des citoyens concernés par ces données.
 Ce principe est encore plus vrai lorsqu’elles donnent lieu à création de valeur.
-La parole est à Mme Delphine Batho, pour soutenir l’amendement no 586.
+La parole est à Mme Delphine Batho, pour soutenir l’amendement numéro 586.
 Sans vouloir allonger le débat sur l’amendement précédent, je tiens à souligner que, si le futur règlement européen constitue une avancée certaine et très importante, on voit bien qu’il y aura contradiction entre ce règlement et la rédaction actuelle de l’article 5 de loi de 1978, qui affirme en effet explicitement qu’il est des cas précis dans lesquels les dispositions de cette loi ne s’appliquent pas.
 C’est la raison pour laquelle je proposais de corriger immédiatement cette rédaction.
-On va prendre du retard ! L’amendement no 586 porte sur une autre dimension de la souveraineté, qui consiste à dire que la domiciliation juridique et fiscale est établie à la source des données – selon la même philosophie, donc, que l’amendement précédent, mais dans une autre perspective, notamment celle de l’assujettissement à l’impôt.
+On va prendre du retard ! L’amendement numéro 586 porte sur une autre dimension de la souveraineté, qui consiste à dire que la domiciliation juridique et fiscale est établie à la source des données – selon la même philosophie, donc, que l’amendement précédent, mais dans une autre perspective, notamment celle de l’assujettissement à l’impôt.
 Quel est l’avis de la commission ? Pour les mêmes raisons que tout à l’heure, avis défavorable.
-Quel est l’avis du Gouvernement ? Je saisis cette occasion de répondre à Mme Batho et aux députés de l’opposition qu’il faut être très rigoureux juridiquement.
+Quel est l’avis du Gouvernement ? Avis défavorable également, ce qui pose encore la question cruciale de l’articulation entre le droit national et le droit européen.
+Je saisis cette occasion de répondre à Mme Batho et aux députés de l’opposition qu’il faut être très rigoureux juridiquement.
 En l’occurrence, il y aurait contradiction entre cet article 5 de la loi Informatique et libertés et l’article 3 du futur règlement européen – ou, pour l’amendement déposé par M. Chassaigne, l’article 25 de ce règlement –, car le droit français est issu d’une directive européenne de 1995 transposée en droit français par la loi du 6 août 2004 modifiant la loi du 6 janvier 1978.
 Dans l’attente de l’entrée en vigueur définitive du règlement européen, le droit français doit donc rester compatible avec cette directive européenne.
 C’est ce que je voulais signifier lorsque j’expliquais que nous n’avions pas de marge de manœuvre pour amender, à ce stade, le droit national.
-La parole est à M. Lionel Tardy, pour soutenir l’amendement no 771, tendant à supprimer l’article 16 ter.
-La forme de cet article pose également problème, monsieur le rapporteur.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement numéro 771, tendant à supprimer l’article 16 ter.
+L’idée d’un système d’exploitation souverain est à prendre avec beaucoup de recul.
+Conserver cet article 16 ter signifierait que l’on n’a pas tiré toutes les conséquences de l’échec de la tentative de créer un cloud souverain, dont les internautes se souviennent – je vous conseille, à cet égard, de consulter le compte Twitter @ossouverain, créé depuis le dépôt de cet amendement, et qui est assez drôle.
+Plus sérieusement, il faut arrêter de croire que des initiatives innovantes, pour être françaises, peuvent se décider depuis Bercy ou, pire, depuis un comité Théodule.
+Posons-nous la question de savoir ce que nous devons faire pour soutenir des initiatives privées.
+Si l’on veut vraiment un dispositif public, c’est au minimum au niveau européen qu’il faut l’envisager, et non pas, je le répète, au niveau franco-français.
+Quelle serait la valeur ajoutée d’un tel système d’exploitation ? La forme de cet article pose également problème, monsieur le rapporteur.
 Il tend en effet à demander un rapport, ce qui est aller au-delà d’un simple amendement d’appel, et à créer un commissariat à la souveraineté numérique, c’est-à-dire une nouvelle structure.
 Enfin, il comporte plusieurs termes flous, comme celui de « cyberespace ».
 Soyons lucides, mes chers collègues, et supprimons cet article « rapport ».
@@ -641,46 +1091,73 @@ Je ne crois pas, en effet, que l’innovation puisse s’imposer et être décid
 Il y en a aussi eu d’heureux ! Qui dit souveraineté numérique dit aussi cyberdéfense, sécurité des systèmes d’information, sécurité des opérateurs d’importance vitale, protection des données personnelles et souveraineté sur celles-ci, citoyenneté numérique, etc – la liste des sujets couverts est potentiellement longue.
 Je crois toujours à l’utilité d’un tel rapport et le Gouvernement est donc défavorable à l’amendement.
 La parole est à M. Patrice Martin-Lalande.
+Je souhaite quant à moi le maintien de l’article que nous avons voté en commission et suis donc défavorable à l’amendement présenté par M. Tardy, et cela pour plusieurs raisons.
+D’abord, une grande partie du travail que nous faisons sur la loi a pour objet de renforcer et d’assurer la maîtrise individuelle dans l’utilisation de l’internet.
+Il serait paradoxal que nous ayons accompli tant de travail sur la maîtrise individuelle et que ce projet de loi ne dise pas un mot de la maîtrise collective, qu’on appelle souveraineté.
+Nous ne pouvons pas faire l’impasse sur la nécessité de marquer dans ce projet de loi notre préoccupation quant à la maîtrise collective, nationale, du numérique, alors que nous abordons en détail sa maîtrise individuelle.
+Quant aux logiciels libres, évoqués tout à l’heure, ils ne peuvent exister sans un système d’exploitation souverain.
+Il faut, en ce domaine, être aussi cohérents que possible.
 Il est donc nécessaire de maintenir cet article, car le rapport demandé est le moyen que nous avons trouvé pour permettre au Gouvernement et au Parlement de faire le point sur les possibilités, réelles ou moins évidentes qu’on ne le pensait, d’avancer au moyen d’un outil dénommé commissariat à la souveraineté numérique – comme il y a eu un commissariat à l’énergie atomique, qui a fait un travail dont chacun doit se souvenir.
 C’est donc véritablement notre devoir que de maintenir cette préoccupation dans le texte de loi.
 La parole est à Mme Delphine Batho.
 Je voudrais, en réponse à l’intervention de M. Tardy, faire comprendre que la question de la souveraineté numérique est fondamentale et qu’il faut éviter de la tourner en ridicule.
-Je ne la tourne nullement en ridicule ! Cette question ouvre toute une série de débats sur les instruments nécessaires à cette fin.
+Je ne la tourne nullement en ridicule ! Si ces mots ne figuraient pas dans le projet de loi, ce serait un manque très important.
+La question fondamentale est en effet de savoir comment nos lois, nos droits, nos libertés et notre sécurité sont protégés dans le cyberespace, notion reconnue par l’ONU.
+Cette question ouvre toute une série de débats sur les instruments nécessaires à cette fin.
 Il est ainsi demandé de mettre à l’étude la création d’un commissariat à la souveraineté numérique.
 J’ai également donné hier, afin d’éviter les caricatures, certaines précisions sur l’opportunité de la création d’un système d’exploitation souverain, car il ne s’agit nullement d’empêcher un internet libre et ouvert ou de tout mettre sous contrôle au nom d’une conception de fermeture.
 Ce n’est pas du tout l’état d’esprit dans lequel se situe cette démarche et je tiens à remercier Mme la secrétaire d’État et le Gouvernement d’accepter d’engager ce travail sérieux de réflexion.
 Il me semble donc important que cette disposition reste dans le texte.
-C’est en effet important ! La parole est à M. Patrice Martin-Lalande, pour soutenir l’amendement no 75.
+C’est en effet important ! La parole est à M. Patrice Martin-Lalande, pour soutenir l’amendement numéro 75.
 Il est retiré.
-La parole est à Mme Catherine Coutelle, pour soutenir l’amendement no 703.
+Je suis saisie de plusieurs amendements portant article additionnel avant l’article 17.
+La parole est à Mme Catherine Coutelle, pour soutenir l’amendement numéro 703.
 Je vous propose simplement de modifier le titre de la section en remplaçant « Économie du savoir » par « Formation au numérique et économie du savoir ».
 Quel est l’avis de la commission ? Autant j’aurai un avis favorable sur votre prochain amendement, madame Coutelle, autant je vous propose de retirer celui-là, afin de conserver la rédaction actuelle du titre, sa vocation étant plus large.
 À défaut, avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 Madame Coutelle, retirez-vous votre amendement ? Je le retire ; cet amendement avait pour but que l’on parle de la formation.
-La parole est à Mme Catherine Coutelle, pour soutenir l’amendement no 700.
+La parole est à Mme Catherine Coutelle, pour soutenir l’amendement numéro 700.
+Je vais le défendre même s’il a déjà reçu un avis favorable.
+La Délégation aux droits des femmes a rendu un rapport dont la majorité des recommandations portent sur les cyberviolences et les violences sur le net.
+Nous avons interrogé des enseignants : les jeunes citoyens qui vont sur internet s’imaginent sur un espace privé et ne pensent pas aux conséquences de ce qu’ils peuvent y publier.
 Intégrer une formation à l’égalité entre les femmes et les hommes ainsi qu’à la lutte contre les violences dans la formation au numérique prévue par le code de l’éducation serait une bonne chose.
 Il s’agit donc de préciser le contenu de la formation au numérique prévue par la loi pour la refondation de l’école afin d’y intégrer la prévention aux cyberviolences.
 Quel est l’avis de la commission ? Avis favorable, comme je le laissais entendre à l’instant.
 Cela me donne l’occasion de souligner le travail de Mme Coutelle et de la Délégation aux droits des femmes sur l’ensemble de ces sujets.
 L’outil numérique au sens large – nous y reviendrons un peu plus loin avec les jeux vidéo – est utilisé pour ses potentialités extrêmement positives, mais aussi parfois pour des motifs extrêmement bas.
 Je suis donc favorable à cet ajout, qui me paraît particulièrement pertinent, et dont je remercie Mme Coutelle et la Délégation aux droits des femmes.
-Quel est l’avis du Gouvernement ? L’entrée dans le code de l’éducation du respect de l’égalité entre les femmes et les hommes dans le cadre des formations à l’utilisation des outils et des ressources numériques me semble être un objectif très important, qu’il faut poursuivre.
+Quel est l’avis du Gouvernement ? La Délégation aux droits des femmes, présidée par Mme Catherine Coutelle, a fait un travail remarquable sur la question des femmes dans le numérique.
+J’approuve totalement les conclusions du rapport rendu sur le projet de loi car, malheureusement, on ne peut que partager le constat qui est fait de la quasi-absence de femmes dans le secteur du numérique.
+L’entrée dans le code de l’éducation du respect de l’égalité entre les femmes et les hommes dans le cadre des formations à l’utilisation des outils et des ressources numériques me semble être un objectif très important, qu’il faut poursuivre.
 Il s’inscrira d’ailleurs dans l’action du Gouvernement : au printemps prochain, avec ma collègue Pascale Boistard, secrétaire d’État aux droits des femmes, nous présenterons un plan « Mixité et numérique » qui visera à lutter contre les inégalités rencontrées dans ce secteur.
 Le Gouvernement est donc favorable à cet amendement.
-La parole est à Mme Catherine Coutelle, pour soutenir l’amendement no 699.
+La parole est à Mme Catherine Coutelle, pour soutenir l’amendement numéro 699.
+Le présent amendement vise à rendre l’orientation, qui est à la base du choix d’un métier par les élèves, favorable au numérique, sans stéréotype sexué.
+En effet, nous avons constaté un fait impressionnant : alors que les filles se dirigent davantage vers les métiers scientifiques, même si c’est encore insuffisant, elles sont deux fois moins nombreuses à s’orienter vers les métiers du numérique.
+La chute est considérable : c’est une régression ! L’orientation doit donc faire un effort pour ne pas présenter ces métiers de façon stéréotypée, laissant croire qu’ils ne sont pas faits pour les filles, que ce sont des métiers de garçons, véhiculant ainsi un imaginaire qui n’est pas la réalité.
+Nous avions reçu les associations qui défendent la place des femmes dans le numérique – Girlz in Web, Women in Tech, Duchess France ou encore Syntec – et qui, toutes, nous ont dit faire des efforts pour que les filles soient présentes.
 Vous avez lancé, madame la secrétaire d’État, la Grande école du numérique dans laquelle seront effectués des appels à projets.
 Je vous félicite car vous avez indiqué que les organismes qui répondront à ces appels à projets devront comporter 30 % de filles.
 L’école Simplon, que j’ai visitée,… Très bonne école ! …satisfait à cette exigence de 30 % de filles, ce que ne fait pas l’école 42.
 Xavier Niel, que j’ai rencontré lorsque j’ai visité son école, l’a reconnu : il en est désolé mais, pour le moment, il n’atteint pas les 30 %, loin de là ! Ce n’est pas bien ! Quel est l’avis de la commission ? Il s’agit d’une réalité objective : nous sommes un certain nombre d’hommes traitant de questions numériques à avoir décidé, depuis plusieurs mois, de refuser d’intervenir dans des tables rondes et des colloques qui seraient exclusivement masculins.
-Vous ne devez pas participer à beaucoup de réunions ! Cela étant dit, et même si je souscris à vos propos, je vous demande le retrait de cet amendement parce que l’objet de cet article est bien plus large que la question du numérique et des stéréotypes sexués, laquelle devrait être traitée de manière bien plus spécifique que dans le cadre de ce texte.
+Vous ne devez pas participer à beaucoup de réunions ! Je peux vous garantir que c’est extrêmement difficile : j’en ai déjà refusé plusieurs, les organisateurs ne se posant pas vraiment ce genre de questions ! Nous avons donc un travail à mener à tous les niveaux, y compris lorsque nous devons assurer ce genre de représentations.
+Nous n’en sommes pas encore à demander la parité, mais je peux vous garantir qu’il y a encore quelques semaines, dans de grandes manifestations, dans de grandes institutions de cette République, les tables rondes étaient particulièrement masculines ! Cela étant dit, et même si je souscris à vos propos, je vous demande le retrait de cet amendement parce que l’objet de cet article est bien plus large que la question du numérique et des stéréotypes sexués, laquelle devrait être traitée de manière bien plus spécifique que dans le cadre de ce texte.
 Quel est l’avis du Gouvernement ? La position du Gouvernement sera la même que celle du rapporteur.
 L’amendement est largement satisfait, d’abord par la loi pour la refondation de l’école, qui précise les objectifs définis dans votre amendement et, de manière plus concrète, par le référentiel du « parcours Avenir »,… Nous sommes sauvés ! …qui a vocation à accompagner chaque élève, de la sixième jusqu’à la terminale, en prenant clairement en compte cet objectif de promotion de la mixité des métiers et d’une information totalement dénuée de stéréotypes.
 Cela s’applique tout particulièrement au secteur du numérique, qui entre complètement dans le champ de ces parcours, d’où la demande de retrait du Gouvernement.
 La parole est à Mme Catherine Coutelle.
+Je remercie tout d’abord le rapporteur pour ce qu’il fait en faveur de la mixité.
+Ce problème se pose partout, comme on a pu le constater au festival de la bande dessinée d’Angoulême, incapable de sélectionner une femme auteure de BD.
 Je vous remercie également, madame la secrétaire d’État, en souhaitant un plein succès à votre plan stratégique « Mixité et numérique », qui nous permettra de parler de ce sujet.
 Mon amendement avait pour objectif d’inscrire ce thème dans la loi ; néanmoins, je le retire.
 La parole est à M. André Chassaigne, premier orateur inscrit sur l’article.
+J’interviens avant l’examen des amendements à l’article 17 pour indiquer la position qui sera celle des députés du Front de gauche sur cette disposition visant à renforcer l’accès aux travaux de recherche financés par des fonds publics.
+Nous pensons que le point d’équilibre trouvé par cet article est le bon, garantissant des droits aux membres de la recherche et à ceux du secteur de l’édition.
+Il est ainsi proposé que les publications nées d’une activité de recherche financée principalement sur fonds publics puissent être rendues publiquement et gratuitement accessibles en ligne par leurs auteurs, dans des délais différents selon les domaines concernés par les recherches.
+Ces délais, tout à fait raisonnables, ont d’ailleurs été divisés par deux grâce à la mobilisation citoyenne lors de la préconsultation.
+La possibilité de rendre publics les travaux scientifiques ainsi ouverts permettra aux chercheurs de valoriser autrement leurs travaux, notamment sur les réseaux sociaux scientifiques.
+La place du chercheur est bel et bien reconnue ; l’accès ouvert aux publications est vital pour le travail scientifique, c’est une évidence.
 Nous considérons donc que l’article proposé va dans le sens de l’intérêt de notre recherche, de son rayonnement international et répond clairement à une logique de diffusion du savoir que nous ne pouvons que soutenir.
 Nous soutiendrons donc l’article 17 sans la moindre hésitation.
 La parole est à M. Philippe Gosselin, pour un rappel au règlement.
@@ -688,8 +1165,16 @@ Dans la mesure où il ne nous reste que quelques minutes, je trouve un peu fâch
 Monsieur le député, vous avez fait un rappel au règlement sur le même sujet il y a un quart d’heure : je vous ai expliqué que la tradition était de lever la séance à une heure.
 Il n’y a rien de nouveau, nous pouvons entamer la discussion sur l’article, sans commencer l’examen des amendements, et nous lèverons la séance à une heure.
 On n’entame pas la discussion des amendements ? Cela fait deux fois que je vous réponds la même chose : je vous ai déjà dit il y a un quart d’heure que nous levons la séance à une heure.
-Pas un quart d’heure : c’était il y a trois quarts d’heure ! Il y a trois quarts d’heure, soit ! Faites confiance à la présidence ! La parole est à M. Christian Paul.
+Pas un quart d’heure : c’était il y a trois quarts d’heure ! Il y a trois quarts d’heure, soit ! Faites confiance à la présidence ! Nous continuons d’entendre les orateurs inscrits sur l’article.
+La parole est à M. Christian Paul.
+S’il y avait une raison d’accéder à la demande de M. Gosselin, c’est que cet article est très important : c’est même une des avancées de ce texte que de faire progresser réellement le libre accès aux productions scientifiques et aux travaux de la recherche publique.
+Cet article 17 marquera cette loi car il s’agit vraiment d’une disposition d’intérêt général.
 Je lisais encore ce soir, dans un hebdomadaire, que l’on prétendait que c’était le résultat du lobbying des grands du numérique : non ! C’est une demande très générale, très large, des communautés scientifiques françaises, qui souhaitent faciliter et accélérer la circulation de leurs travaux.
-C’est vrai ! Voilà le sens de cet article 17, qui constitue un apport très important et très attendu par l’immense majorité des chercheurs français.
-La suite de la discussion est renvoyée à la prochaine séance.
+C’est vrai ! On a pu observer, je le dis sans critique excessive, une captation de l’information scientifique au détriment des institutions publiques et surtout d’usages les plus larges.
+Il y avait un déséquilibre dans notre droit entre les organismes de recherche, les chercheurs, les éditeurs et le public le plus large, avec un certain nombre d’oligopoles de fait dans le secteur de l’édition scientifique.
+Il est donc très important de soutenir cet article afin de rendre librement accessibles les publications scientifiques financées majoritairement sur fonds publics – à l’image de ce qui se passe dans d’autres pays, notamment en Allemagne –, après une durée d’exclusivité qu’il ne faut pas prolonger excessivement.
+Voilà le sens de cet article 17, qui constitue un apport très important et très attendu par l’immense majorité des chercheurs français.
+Il n’y a plus d’orateurs inscrits sur l’article.
+Les amendements à cet article seront étudiés demain : le débat ne sera pas bridé, monsieur Gosselin ! La suite de la discussion est renvoyée à la prochaine séance.
+Prochaine séance, ce matin, à neuf heures trente : Suite de la discussion du projet de loi pour une République numérique.
 La séance est levée.
