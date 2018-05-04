@@ -48,6 +48,10 @@ accepted_code_style = [
 mapping_normalization = [
   [ u'\xa0 ', u' ' ],
   [ u'\xa0' , u' ' ],
+  [ u'M. '  , u'Monsieur ' ],
+  [ u'Mme ' , u'Madame ' ],
+  [ u'Mlle ' , u'Mademoiselle ' ],
+  [ u'Mlles ', u'Mademoiselles ' ],
 ]
 
 superscript_chars_mapping = {
@@ -155,6 +159,8 @@ for event, node in doc:
           if not args.dry:
             with open(output_seance_name, 'w') as output_seance:
               output_seance.write('.\n'.join((' '.join(seance_context['texte'])).split('. ')))
+          else:
+            print('.\n'.join((' '.join(seance_context['texte'])).split('. ')))
 
           if args.one:
             break
@@ -171,10 +177,13 @@ for event, node in doc:
   if node.nodeName == 'texte':
     doc.expandNode(node)
 
-    def maybe_translate(element, mapping):
-      value = element.nodeValue
+    def maybe_normalize(value):
       for norm in mapping_normalization:
         value = value.replace(norm[0], norm[1])
+      return value
+
+    def maybe_translate(element, mapping):
+      value = maybe_normalize(element.nodeValue)
 
       if value in mapping:
         return mapping[value]
@@ -195,7 +204,7 @@ for event, node in doc:
             elif root.nodeName == 'indice':
               finaltext += maybe_translate(c, subscript_chars_mapping)
             else:
-              finaltext += c.nodeValue
+              finaltext +=maybe_normalize(c.nodeValue)
           if c.nodeType == c.ELEMENT_NODE:
             finaltext += recursive_text(c)
       return finaltext
