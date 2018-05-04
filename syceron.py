@@ -12,8 +12,6 @@ from xml.dom.pulldom import START_ELEMENT, CHARACTERS, END_ELEMENT, parse
 from xml.dom.minidom import Element, Text
 
 parser = argparse.ArgumentParser(description='SyceronBrut text content extraction for Common Voice')
-parser.add_argument('--debug', action='store_true', default=False, help='Some debug')
-parser.add_argument('--debug-more', action='store_true', default=False, help='Some more debug')
 parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
 
 parser.add_argument('--print-tree', action='store_true', help='Only print XML tree structure')
@@ -27,7 +25,6 @@ args = parser.parse_args()
 doc = parse(args.file)
 indent_level = 0
 visited = []
-old = None
 
 structure = nx.DiGraph()
 
@@ -140,7 +137,7 @@ for event, node in doc:
       
       if node.tagName == "DateSeance":
         if seance_context is not None and 'texte' in seance_context:
-          output_seance_name = os.path.join(args.output, seance_context['DateSeance'][0])
+          output_seance_name = os.path.join(args.output, seance_context['DateSeance'])
           if os.path.isfile(output_seance_name + '.txt'):
             output_seance_name += str(int(datetime.datetime.timestamp(datetime.datetime.utcnow())))
 
@@ -152,61 +149,35 @@ for event, node in doc:
           if args.one:
             break
 
-        seance_context = {}
-
-  if args.debug:
-    print("DEBUG:", "/".join(visited), visited)
-    print("DEBUG:", " "*indent_level, str(type(node)), ":", node.toxml())
-
-  if type(node) == Text:
-    visitedFullPath = "@".join(map(lambda x: x.tagName, visited))
-    
-    if args.debug_more:
-        print("DEBUG:", "visitedFullPath=" + visitedFullPath, ":", node.nodeValue, )
-
-    if any(regex.match(visitedFullPath) for regex in accepted_seance_context):
-      try:
-        seance_context[visited[-1:][0].tagName].append(node.nodeValue)
-      except KeyError:
-        seance_context[visited[-1:][0].tagName] = [ node.nodeValue ]
-    else:
-      ## Collasping childrens of "texte" such as "exposant", "italique", ...
-      if len(visited) >= 3 and visited[-2].tagName == 'texte' and 'code_style' in visited[-3].attributes and visited[-3].attributes['code_style'].value in accepted_code_style:
-        ##print("LOLILOL", visited[-2], visited[-1], seance_context[visited[-2:][0]])
-
-        toAdd = node.nodeValue
-
-        if visited[-1].tagName == 'indice':
-          if node.nodeValue in subscript_chars_mapping:
-            toAdd = subscript_chars_mapping[node.nodeValue]
-          else:
-            # Reset to nothing because we don't really care
-            toAdd = ''
-            print(visited[-1].tagName, "'{}'".format(node.nodeValue), seance_context[visited[-2:][0].tagName][-1])
-
-        elif visited[-1].tagName == 'exposant':
-          if node.nodeValue in superscript_chars_mapping:
-            toAdd = superscript_chars_mapping[node.nodeValue]
-          else:
-            print(visited[-1].tagName, "'{}'".format(node.nodeValue), seance_context[visited[-2:][0].tagName][-1])
-
-        elif visited[-1].tagName == 'italique':
-          pass
-
-        else:
-          print('UNKNOWN', visited[-1].tagName, "'{}'".format(node.nodeValue), seance_context[visited[-2:][0].tagName][-1])
-
-        if len(toAdd) > 0:
-          try:
-            seance_context[visited[-2:][0].tagName][-1] += toAdd
-          except KeyError:
-            print("KeyError", visited, toAdd)
-            ##seance_context[visited[-2:][0].tagName][-1] = [ node.nodeValue ]
+        doc.expandNode(node)
+        seance_context = { 'DateSeance':  node.firstChild.nodeValue }
 
   if event == END_ELEMENT:
     indent_level -= 2
     if type(node) == Element and len(visited) > 0:
       old = visited.pop()
+      del old
+
+  if node.nodeName == 'texte':
+    doc.expandNode(node)
+
+    def recursive_text(root, finaltext=""):
+      if root.nodeName == 'br':
+        return ''
+      else:
+        for c in root.childNodes:
+          if c.nodeType == c.TEXT_NODE:
+            finaltext += c.nodeValue
+          if c.nodeType == c.ELEMENT_NODE:
+            finaltext = recursive_text(c, finaltext)
+      return finaltext
+
+    if visited[-2].attributes and 'code_style' in visited[-2].attributes and visited[-2].attributes['code_style'].value == 'NORMAL':
+      fullText = recursive_text(node)
+      try:
+        seance_context[node.nodeName].append(fullText)
+      except KeyError:
+        seance_context[node.nodeName] = [ fullText ]
 
 if args.tree_output:
   print(nx_pydot.to_pydot(structure), file=sys.stdout if args.tree_output == '-' else args.tree_output)
