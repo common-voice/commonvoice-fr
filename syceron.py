@@ -47,6 +47,8 @@ accepted_code_style = [
 
 mapping_normalization = [
   [ u'\xa0 ', u' ' ],
+  [ u'«\xa0', u'«' ],
+  [ u'\xa0»', u'»' ],
   [ u'\xa0' , u' ' ],
   [ u'M. '  , u'Monsieur ' ],
   [ u'Mme ' , u'Madame ' ],
