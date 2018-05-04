@@ -17,6 +17,8 @@ parser.add_argument('--one', action='store_true', default=False, help='Stop afte
 parser.add_argument('--print-tree', action='store_true', help='Only print XML tree structure')
 parser.add_argument('--tree-output', type=argparse.FileType('w'), help='Where to store XML tree structure. Use \'-\' for stdout.')
 
+parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
+
 parser.add_argument('file', type=str, help='Source XML file')
 parser.add_argument('output', type=str, help='Output directory')
 
@@ -41,6 +43,11 @@ seance_context = None
 
 accepted_code_style = [
   'NORMAL'
+]
+
+mapping_normalization = [
+  [ u'\xa0 ', u' ' ],
+  [ u'\xa0' , u' ' ],
 ]
 
 superscript_chars_mapping = {
@@ -78,7 +85,9 @@ superscript_chars_mapping = {
 
   'o ': 'uméro ',
   'os ': 'uméros ',
+  's ': 's ',
   'e ': 'ième ',
+  'ème ': 'ième',
   'er ': 'ier ',
   'er.': 'ier.',
   'er,': 'ier,',
@@ -143,8 +152,9 @@ for event, node in doc:
 
           output_seance_name += '.txt'
           print('output_seance_name', output_seance_name)
-          with open(output_seance_name, 'w') as output_seance:
-            output_seance.write('.\n'.join((' '.join(seance_context['texte'])).split('. ')))
+          if not args.dry:
+            with open(output_seance_name, 'w') as output_seance:
+              output_seance.write('.\n'.join((' '.join(seance_context['texte'])).split('. ')))
 
           if args.one:
             break
@@ -161,15 +171,33 @@ for event, node in doc:
   if node.nodeName == 'texte':
     doc.expandNode(node)
 
+    def maybe_translate(element, mapping):
+      value = element.nodeValue
+      for norm in mapping_normalization:
+        value = value.replace(norm[0], norm[1])
+
+      if value in mapping:
+        return mapping[value]
+
+      print("NOT TRANSLATED: '{}' => '{}'".format(element.nodeValue, value))
+      for c in value:
+        print("value: '{}' == {}".format(c, ord(c)))
+      return ''
+
     def recursive_text(root, finaltext=""):
       if root.nodeName == 'br':
-        return ''
+        return ' '
       else:
         for c in root.childNodes:
           if c.nodeType == c.TEXT_NODE:
-            finaltext += c.nodeValue
+            if root.nodeName == 'exposant':
+              finaltext += maybe_translate(c, superscript_chars_mapping)
+            elif root.nodeName == 'indice':
+              finaltext += maybe_translate(c, subscript_chars_mapping)
+            else:
+              finaltext += c.nodeValue
           if c.nodeType == c.ELEMENT_NODE:
-            finaltext = recursive_text(c, finaltext)
+            finaltext += recursive_text(c)
       return finaltext
 
     if visited[-2].attributes and 'code_style' in visited[-2].attributes and visited[-2].attributes['code_style'].value == 'NORMAL':
