@@ -2,7 +2,7 @@ La séance est ouverte.
 L’ordre du jour appelle la suite de la discussion, après engagement de la procédure accélérée, du projet de loi pour une République numérique (numéros 3318, 3399, 3387, 3389, 3391).
 Cet après-midi, l’Assemblée a commencé d’entendre les orateurs inscrits dans la discussion générale.
 La parole est à Madame Elisabeth Pochon.
-Madame la présidente, madame la secrétaire d’État chargée du numérique, monsieur le rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, madame la rapporteure pour avis de la commission des affaires économiques, mes chers collègues, je veux vous redire combien j’apprécie le titre du texte que nous examinons aujourd’hui, de ce projet de loi « pour une République numérique », parce qu’il porte en lui les germes d’une utopie que je souhaite raisonnable, un doux rêve, l’idée que le numérique puisse favoriser la liberté des échanges entre les citoyens, qu’il soit également accessible à tous et qu’il génère de la fraternité entre tous les utilisateurs.
+Madame la présidente, madame la secrétaire d’État chargée du numérique, monsieur le rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, madame la rapporteure pour avis de la commission des affaires économiques, mes chers collègues, je veux vous redire combien j’apprécie le titre du texte que nous examinons aujourd’hui, de ce projet de loi «pour une République numérique», parce qu’il porte en lui les germes d’une utopie que je souhaite raisonnable, un doux rêve, l’idée que le numérique puisse favoriser la liberté des échanges entre les citoyens, qu’il soit également accessible à tous et qu’il génère de la fraternité entre tous les utilisateurs.
 Ce texte a pour ambition de permettre et d’organiser ces échanges entre les personnes, quelles qu’elles soient, où qu’elles soient, d’ouvrir un champ des possibles et des potentiels pour développer de nouveaux progrès à partager entre tous.
 Nous savons tous que la révolution numérique est en route.
 Il est de bon augure de vouloir la transformer en République car, dans ce tourbillon, nulle marche arrière n’est possible ni souhaitable.
@@ -55,7 +55,7 @@ C’est pourquoi je propose d’instaurer une obligation de résultat pour cet o
 Il est par ailleurs nécessaire de donner aux maires, qui jouent un rôle essentiel dans les opérations d’entretien communales, la possibilité d’être informés de manière exhaustive des opérations d’entretien effectuées dans leur commune.
 C’est pourquoi je propose que l’opérateur Orange remette, dans un délai d’un an après l’entrée en vigueur de la loi, un rapport établissant pour chaque commune un état des lieux complet des lignes fixes et des opérations d’entretien effectuées.
 Votre projet de loi doit certes garantir l’égalité d’accès au numérique, mais il doit aussi se préoccuper de la sécurité et de la souveraineté nationale dans ce domaine qui, jusqu’à présent, échappe presque totalement au contrôle de l’État.
-« Il faut très certainement repenser internet et les réseaux numériques de communication comme un véritable territoire à sécuriser » : par ces mots, Éric Freyssinet, colonel de gendarmerie spécialisé dans la cybercriminalité, résume parfaitement l’enjeu de sécurité auquel le projet de loi pour une République numérique doit répondre.
+«Il faut très certainement repenser internet et les réseaux numériques de communication comme un véritable territoire à sécuriser» : par ces mots, Éric Freyssinet, colonel de gendarmerie spécialisé dans la cybercriminalité, résume parfaitement l’enjeu de sécurité auquel le projet de loi pour une République numérique doit répondre.
 Nous devons aujourd’hui prendre la mesure du pouvoir du numérique, espace immatériel qui échappe aux frontières, et donc du danger qu’il représente pour notre sécurité nationale.
 À l’heure où le terrorisme recrute sur les réseaux sociaux et y fomente ses actes odieux, mettant en danger la sécurité de la nation, il paraît indispensable de donner à l’État la capacité de maîtriser l’application de ses lois sur les réseaux informatiques de son territoire.
 Il s’agit d’un enjeu essentiel de sécurité, mais également de liberté quant à l’usage des données collectées sur internet.
@@ -83,8 +83,8 @@ Mes chers collègues, les systèmes d’exploitation dominants ne sont pas apatr
 Cette situation est de plus en plus intenable.
 En effet, à défaut que ce soient les responsables politiques européens qui réagissent avec vigueur par exemple après l’affaire Snowden, ce sont des décisions de justice, celle de la Cour de justice de l’Union européenne, qui enjoignent les États membres à prendre des mesures mettant fin au transfert des données des citoyens européens aux États-Unis.
 Alors oui, il est temps que la République reprenne la main.
-C’est pourquoi madame la secrétaire d’État, contrairement au Conseil d’État, j’approuve pleinement le titre de votre projet de loi « pour une République numérique ».
-Et je suis bien d’accord avec vous lorsque vous dénoncez le « lobby de l’impuissance » qui considère, sous prétexte que le cyberespace est planétaire, que l’on ne peut rien faire.
+C’est pourquoi madame la secrétaire d’État, contrairement au Conseil d’État, j’approuve pleinement le titre de votre projet de loi «pour une République numérique».
+Et je suis bien d’accord avec vous lorsque vous dénoncez le «lobby de l’impuissance» qui considère, sous prétexte que le cyberespace est planétaire, que l’on ne peut rien faire.
 Ce projet de loi comporte des avancées ; il introduit des règles élémentaires qui jusqu’ici faisaient défaut.
 À mes yeux, notre ambition doit viser à construire notre souveraineté numérique.
 Je vous remercie, madame la secrétaire d’État, d’avoir donné un avis favorable à l’amendement que j’ai proposé afin qu’un travail sérieux s’engage sur cette question fondamentale.
@@ -92,7 +92,7 @@ La souveraineté numérique est une question d’intérêt national qui doit tou
 Nous devons mettre à l’étude la création d’un Commissariat à la souveraineté numérique… Toujours d’accord.
 …examiner le rôle que celui-ci pourrait jouer par exemple pour le développement d’un système d’exploitation souverain.
 Je sais que cela fait débat, mais je le conçois comme ouvert et démocratique, à partir d’un noyau Linux, garantissant une mutualisation, permettant de soutenir le développement collaboratif d’un écosystème numérique libre, respectueux des lois, dans lequel les citoyens comme les entreprises puissent avoir confiance.
-Aller à l’encontre de la logique de privatisation et de la domination des oligopoles, c’est soutenir le logiciel libre ; c’est reconnaître les « communs informationnels » ; c’est faire du réseau de données un « commun » qui n’appartient à personne et dont l’usage est commun à tous, en comblant les failles béantes de notre législation qui ne conçoit la donnée que comme personnelle et n’appréhende pas ce qui est aujourd’hui la dimension collective de la protection des données interconnectées.
+Aller à l’encontre de la logique de privatisation et de la domination des oligopoles, c’est soutenir le logiciel libre ; c’est reconnaître les «communs informationnels» ; c’est faire du réseau de données un «commun» qui n’appartient à personne et dont l’usage est commun à tous, en comblant les failles béantes de notre législation qui ne conçoit la donnée que comme personnelle et n’appréhende pas ce qui est aujourd’hui la dimension collective de la protection des données interconnectées.
 C’est reconnaître l’action de groupe.
 C’est éviter que des oligopoles siphonnent la valeur de notre économie sans même payer d’impôts, au détriment des entreprises innovantes qui, elles, paient leurs impôts en France ! La France ne doit pas avoir une vision frileuse de la révolution numérique.
 Très bien.
@@ -100,8 +100,7 @@ La mutation en cours n’appelle pas seulement des stratégies défensives, mais
 Il faut aussi anticiper tous les bouleversements, y compris sociaux, en engageant un travail de fond sur cette idée nouvelle qui fait son chemin dans la société : la création d’un revenu de base.
 Dans le contexte actuel, cela serait aussi un formidable levier pour refonder de façon positive le sentiment d’appartenance à une République numérique, mais surtout à une République sociale moderne qui assure à chacun une dignité.
 Madame la secrétaire d’État, vous avez commencé votre propos avec Mendès France.
-C’est avec lui que je conclurai en vous livrant cette belle citation que je me plais souvent à rappeler : « La République doit se construire sans cesse, car nous la concevons éternellement révolutionnaire, à l’encontre de l’inégalité, de l’oppression, de la misère, de la routine, des préjugés, éternellement inachevée tant qu’il reste des progrès à accomplir.
-» La République numérique est loin d’être achevée.
+C’est avec lui que je conclurai en vous livrant cette belle citation que je me plais souvent à rappeler : «La République doit se construire sans cesse, car nous la concevons éternellement révolutionnaire, à l’encontre de l’inégalité, de l’oppression, de la misère, de la routine, des préjugés, éternellement inachevée tant qu’il reste des progrès à accomplir.» La République numérique est loin d’être achevée.
 Mais avec ce texte, nous accomplissons assurément un premier progrès.
 (Applaudissements sur les bancs du groupe socialiste, républicain et citoyen.) Très bien.
 La parole est à Madame Virginie Duby-Muller.
@@ -121,15 +120,15 @@ Des mesures symboliques ont aussi pu être adoptées, comme l’adaptation du no
 Malheureusement, si nous saluons la méthode de consultation mise en place pour l’élaboration du texte, nous restons sur notre faim s’agissant de son contenu.
 Madame la secrétaire d’État, ce projet de loi manque de force.
 Nous restons dans l’ordre du symbole, de la bonne volonté accompagnée d’un patchwork de mesures lesquelles sont parfois inadaptées, ou éludent d’autres sujets fondamentaux.
-Plusieurs dispositions sont ainsi proposées dans la précipitation : sur certains points, il reste urgent d’attendre ! On notera les conditions d’examen du texte, notamment un timing très serré, souligné du reste par le rapporteur pour avis Émeric Bréhier, conduisant à une « précipitation dans les auditions, sans disposer de la version définitive du projet de loi ».
-Le Conseil d’État, dans son avis critique, déplorait lui aussi « l’insuffisance de l’étude d’impact qui, sur plusieurs sujets, n’évalue pas les incidences des mesures prévues par le texte ».
+Plusieurs dispositions sont ainsi proposées dans la précipitation : sur certains points, il reste urgent d’attendre ! On notera les conditions d’examen du texte, notamment un timing très serré, souligné du reste par le rapporteur pour avis Émeric Bréhier, conduisant à une «précipitation dans les auditions, sans disposer de la version définitive du projet de loi».
+Le Conseil d’État, dans son avis critique, déplorait lui aussi «l’insuffisance de l’étude d’impact qui, sur plusieurs sujets, n’évalue pas les incidences des mesures prévues par le texte».
 L’article 42 du texte en est l’illustration : un amendement du rapporteur pour avis adopté en commission des lois risque de provoquer un profond bouleversement du système des jeux en ligne.
-En effet, dans sa rédaction actuelle, l’article définit le jeu vidéo comme « un support physique ou en ligne, s’appuyant sur une trame scénarisée ou des situations simulées » : en l’espèce, rien n’empêchera un opérateur de jeux d’argent de scénariser du casino en ligne, du poker en ligne, du loto en ligne, en les faisant sortir de la régulation, comme prévu dans la troisième partie de l’article.
+En effet, dans sa rédaction actuelle, l’article définit le jeu vidéo comme «un support physique ou en ligne, s’appuyant sur une trame scénarisée ou des situations simulées» : en l’espèce, rien n’empêchera un opérateur de jeux d’argent de scénariser du casino en ligne, du poker en ligne, du loto en ligne, en les faisant sortir de la régulation, comme prévu dans la troisième partie de l’article.
 Par ailleurs, les professionnels du secteur comprennent mal le choix du ministre de la jeunesse pour la délivrance de l’agrément : pourquoi ne pas confier cette habilitation au ministère de l’intérieur ou du budget ? J’ai déposé des amendements dans ce sens, sur lesquels nous pourrons revenir.
 Il s’agit en effet de disposer des moyens et des compétences pour assurer la fiabilité et la transparence des compétitions, prévenir les activités frauduleuses ou criminelles, et prévenir les atteintes à la santé publique, comme l’addiction et le jeu pathologique.
-Encore une fois, madame la secrétaire d’État, votre précipitation est palpable : l’article est présenté dans le texte initial, mais vous expliquez vous-même en commission qu’une mission parlementaire a été créée « afin de parvenir à une définition juridique du champ d’application de la régulation, mais aussi d’envisager toutes les questions subsidiaires, dont celle du statut des joueurs ».
-Le rapporteur pour avis Bréhier a d’ailleurs souligné qu’au début de l’examen du texte, avant même que celui-ci n’ait d’existence juridique, « la mission à laquelle vous faites référence n’avait pas encore été créée.
-Le secteur l’attendait d’ailleurs depuis plusieurs mois, comme vous-même ».
+Encore une fois, madame la secrétaire d’État, votre précipitation est palpable : l’article est présenté dans le texte initial, mais vous expliquez vous-même en commission qu’une mission parlementaire a été créée «afin de parvenir à une définition juridique du champ d’application de la régulation, mais aussi d’envisager toutes les questions subsidiaires, dont celle du statut des joueurs».
+Le rapporteur pour avis Bréhier a d’ailleurs souligné qu’au début de l’examen du texte, avant même que celui-ci n’ait d’existence juridique, «la mission à laquelle vous faites référence n’avait pas encore été créée.
+Le secteur l’attendait d’ailleurs depuis plusieurs mois, comme vous-même».
 Des mesures sont clairement en décalage, voire en contradiction, avec les directives et règlements européens.
 On sait pourtant que des mesures franco-françaises et franco-centrées sur le numérique nuiraient à nos entreprises et feraient fuir les investisseurs.
 C’est en ce sens que nous proposons, avec les amendements de mon collègue Lionel Tardy, la suppression des articles 22 et 23 : aujourd’hui, l’échelle européenne est l’échelle minimale sur laquelle doit s’engager une réflexion sur de nouvelles obligations, aussi pertinentes puissent-elles être.
@@ -141,7 +140,7 @@ Madame la secrétaire d’État, cette première version du texte n’est pas sa
 Sur la forme, ce projet de loi reflète un réel problème de timing ; cela se vérifie pour l’ensemble du texte, notamment par les nombreux articles à la rédaction précipitée et malheureuse.
 De plus, il aura fallu attendre trois ans pour accoucher d’un texte examiné selon la procédure accélérée, alors que la législation européenne est en cours de définition.
 Sur le fond, le texte n’est finalement pas à la hauteur des enjeux et n’a d’ambition que dans son titre.
-Le Conseil d’État a d’ailleurs proposé de le renommer « projet de loi sur les droits des citoyens dans la société numérique » et nous nous associons à cette démarche.
+Le Conseil d’État a d’ailleurs proposé de le renommer «projet de loi sur les droits des citoyens dans la société numérique» et nous nous associons à cette démarche.
 Il se trouve par ailleurs à la croisée des mesures, entre le projet de loi Valter et le projet de loi Macron 2, le tout renvoyant une image d’indécision et de tensions latentes entre les ministères.
 Pourtant, madame la secrétaire d’État, si la France dispose aujourd’hui d’atouts certains et d’un grand potentiel dans le numérique et dans son appropriation par les citoyens, il est de notre responsabilité d’accompagner cette évolution intelligemment, en faisant preuve de sérieux.
 Nous appelons à un véritable humanisme numérique, fondé sur des mesures concrètes, ambitieuses et pragmatiques.
@@ -153,7 +152,7 @@ Deux exemples : on estime que son utilisation pour analyser le trafic routier de
 L’opportunité que constitue la quatrième révolution industrielle, comme vous l’évoquiez, Madame la secrétaire d’État, doit s’appliquer partout et pour tous.
 Je veux avant tout parler des problématiques d’accès au numérique, qui constitue le troisième volet de votre projet de loi.
 Force est de constater que notre pays reste encore marqué par une fracture numérique forte, à la fois générationnelle et géographique.
-Certains territoires ruraux et de montagnes ne disposent pas encore de téléphone mobile en 2G – c’est ce qu’on appelle « les zones blanches » – et connaissent de grandes difficultés dans le fonctionnement du téléphone fixe.
+Certains territoires ruraux et de montagnes ne disposent pas encore de téléphone mobile en 2G – c’est ce qu’on appelle «les zones blanches» – et connaissent de grandes difficultés dans le fonctionnement du téléphone fixe.
 À l’heure où nous avons plus que jamais besoin de rassemblement, nous ne pouvons accepter qu’une partie de nos concitoyens soit oubliée et exclue de la participation à cette nouvelle ère qui s’ouvre.
 Nous ne pouvons laisser les inégalités technologiques, sociales et économiques s’accroître.
 Il en va de la santé économique, de la vivacité de nos territoires ; il en va également du lien social au sein de notre République.
@@ -165,7 +164,7 @@ Concernant l’aménagement numérique du territoire par exemple, le texte facil
 Au-delà des mots, ce sont tout de même 3 milliards d’euros qui seront consacrés à des projets de couverture numérique portés par les collectivités, dont 1,5 milliard est déjà engagé.
 Quant à l’entretien du réseau de téléphonie fixe qui pâtissait de défaillances avérées au détriment des usagers, l’article 39 du projet de loi procède à la clarification juridique nécessaire des responsabilités d’entretien du réseau sur les propriétés privées.
 Cet article reprend les mesures de la proposition de loi de mon collègue André Chassaigne dont je salue le travail.
-Il confère au prestataire de service universel de nouvelles obligations relatives à l’entretien de son réseau téléphonique fixe qui est désormais considéré « d’utilité publique ».
+Il confère au prestataire de service universel de nouvelles obligations relatives à l’entretien de son réseau téléphonique fixe qui est désormais considéré «d’utilité publique».
 De plus, l’opérateur s’expose à des sanctions accrues en cas de non-respect des engagements.
 En contrepartie, l’opérateur historique bénéficiera de moyens accrus pour lui permettre de maintenir son réseau en bon état.
 Je me félicite du volontarisme du Gouvernement sur cette question essentielle de l’accès au numérique, mais je souhaiterais néanmoins aller plus loin.
@@ -190,7 +189,7 @@ Je conclus, madame la secrétaire d’État, en exprimant le souhait que, de mê
 La parole est à Monsieur Dino Cinieri.
 Avec MMonsieur Paul Salen, Pierre Morel-A-L’Huissier, Arnaud Viala, Patrice Lalande, Frédéric Lefebvre, Gilles Lurton, Alain Lebœuf et Madame Virginie Duby-Muller, nous sommes tous d’accord, madame la secrétaire d’État, pour dire que notre pays doit se doter d’outils numériques adaptés pour répondre aux nouveaux besoins.
 Le numérique simplifie les démarches de nos concitoyens, qu’ils soient simples usagers du service public ou chefs d’entreprise, mais encore faut-il disposer d’une connexion correcte.
-Aujourd’hui, le débit internet est beaucoup trop faible, voire inexistant dans certaines communes classées « zones blanches », ce qui entraîne des problèmes pour les entreprises et pour les particuliers.
+Aujourd’hui, le débit internet est beaucoup trop faible, voire inexistant dans certaines communes classées «zones blanches», ce qui entraîne des problèmes pour les entreprises et pour les particuliers.
 Le week-end dernier, j’ai été interpellé par des administrés du Haut-Forez, du Pilat et d’Ondaine, qui me disaient ne capter que deux barres, et dans leur grenier seulement ! (Exclamations sur quelques bancs du groupe Les Républicains.) Admettez que, dans ces conditions, il est difficile de profiter des services en ligne.
 Le numérique est un atout et un gage d’attractivité dans les territoires ruraux enclavés, où la demande de simplification administrative par voie électronique est la plus forte.
 Malheureusement, votre projet de loi n’apporte pas de réponse concrète aux besoins de couverture numérique de l’ensemble de nos territoires et au financement du très haut débit pour mettre un terme aux zones blanches qui exaspèrent légitimement nos concitoyens et les élus locaux de nos zones rurales.
@@ -202,7 +201,7 @@ Quant aux élus locaux, ils s’inquiètent, comme le Conseil d’État, de l’
 Je regrette également, madame la secrétaire d’État, votre précipitation à propos de ce texte.
 Pourquoi avoir déclaré l’urgence, alors que le règlement européen sur les données personnelles est encore en cours d’élaboration ? Adopter des mesures franco-françaises impossibles à mettre en œuvre risque, outre la perte de temps, de faire fuir les investisseurs.
 Or, en ce moment, notre pays n’a nullement besoin de cela.
-(« Très bien ! » sur quelques bancs du groupe Les Républicains.) La parole est à Monsieur Patrice Martin-Lalande.
+(«Très bien !» sur quelques bancs du groupe Les Républicains.) La parole est à Monsieur Patrice Martin-Lalande.
 Madame la secrétaire d’État, lorsque je suis intervenu tout à l’heure à la tribune, j’ai évoqué l’irrecevabilité, pour des raisons financières vraiment ténues, d’un amendement que j’avais déposé avec plusieurs de nos collègues et qui tendait à ce que tout projet ou proposition de loi doive faire l’objet d’une consultation publique en ligne avant son inscription à l’ordre du jour du Parlement.
 Ce qui a été fait pour la préparation de ce projet de loi illustre en grandeur réelle – nous le savions déjà – l’intérêt qu’il y aurait à faire évoluer nos pratiques en matière de vie démocratique et de représentation du peuple.
 Aujourd’hui, nous avons affaire à des citoyens qui peuvent tous recevoir et émettre, ce qui n’était pas le cas autrefois – d’où le fait qu’il y ait eu, jadis, des représentants et qu’il y ait, aujourd’hui, des participants.
@@ -213,15 +212,14 @@ Elle y a en effet sa place et je souhaiterais que vous-même ou Monsieur le rapp
 La parole est à Madame Isabelle Attard.
 Madame la secrétaire d’État, je tiens d’abord à saluer la démarche qui a été engagée pour ce projet de loi, le contenu que vous avez donné à celui-ci et le travail énorme accompli par les rapporteurs, en particulier par Monsieur Luc Belot.
 J’ai cependant une question très précise et légèrement fâcheuse à vous poser.
-Vous avez en effet proposé aux citoyens de commenter, d’amender et de voter un article – l’article 8 – qui créait un « domaine commun informationnel » et qui avait pour objectif de « protéger les ressources communes à tous appartenant au domaine public contre les pratiques d’appropriation qui conduisent à en interdire l’accès ».
-L’article mentionnait clairement que « relèvent du domaine commun informationnel les œuvres protégées par le code de la propriété intellectuelle dont la durée de protection légale a expiré.
-Elles ne peuvent, en tant que telles, faire l’objet d’une exclusivité ni d’une restriction de l’usage commun à tous autres que l’exercice du droit moral ».
+Vous avez en effet proposé aux citoyens de commenter, d’amender et de voter un article – l’article 8 – qui créait un «domaine commun informationnel» et qui avait pour objectif de «protéger les ressources communes à tous appartenant au domaine public contre les pratiques d’appropriation qui conduisent à en interdire l’accès».
+L’article mentionnait clairement que «relèvent du domaine commun informationnel les œuvres protégées par le code de la propriété intellectuelle dont la durée de protection légale a expiré.
+Elles ne peuvent, en tant que telles, faire l’objet d’une exclusivité ni d’une restriction de l’usage commun à tous autres que l’exercice du droit moral».
 Cette définition, madame la secrétaire d’État, est très claire : nul ne peut restreindre l’accès à des œuvres du domaine commun informationnel.
-Or, aujourd’hui, les députés ont reçu un mail d’un conseiller parlementaire du ministère de la culture, dans lequel on lit que « le Gouvernement est totalement défavorable au domaine commun.
-La création envisagée d’un domaine commun informationnel est à la fois inutile, dangereuse et inopportune ».
+Or, aujourd’hui, les députés ont reçu un mail d’un conseiller parlementaire du ministère de la culture, dans lequel on lit que «le Gouvernement est totalement défavorable au domaine commun.
+La création envisagée d’un domaine commun informationnel est à la fois inutile, dangereuse et inopportune».
 Les arguments avancés par le ministère oscillent entre l’approximation et le mensonge pur et simple.
-C’est très violent ! Je vous livre le plus beau : « Par exemple, l’enregistrement d’un morceau de musique ou d’une chanson qui n’est plus couvert par le droit d’auteur ne pourra donner lieu à la commercialisation d’un CD.
-» Mais où va-t-on ? Si vous avez bien écouté la définition que j’ai rappelée plus tôt, le mensonge doit vous sauter aux yeux.
+C’est très violent ! Je vous livre le plus beau : «Par exemple, l’enregistrement d’un morceau de musique ou d’une chanson qui n’est plus couvert par le droit d’auteur ne pourra donner lieu à la commercialisation d’un CD.» Mais où va-t-on ? Si vous avez bien écouté la définition que j’ai rappelée plus tôt, le mensonge doit vous sauter aux yeux.
 Prenons un exemple : si j’enregistre une interprétation du concerto pour clarinette de Mozart après l’adoption du principe du domaine commun informationnel, j’obtiens automatiquement un droit voisin sur l’enregistrement que je viens de réaliser.
 Une nouvelle protection légale de 70 ans débute donc et cette nouvelle œuvre n’est pas dans le domaine commun informationnel : je pourrai la vendre sans aucun souci.
 Plus drôle encore : l’argument du ministère de la culture sous-entend que cette rédaction proposée en septembre par le Gouvernement était gravement fautive, ce qui serait une démonstration d’incompétence à l’époque.
@@ -235,11 +233,11 @@ Je ne peux, pour ma part, qu’approuver cette disposition visant à favoriser l
 Toutefois, cette extension aux administrations publiques du droit d’accès aux documents que d’autres administrations détiennent pour l’accomplissement de leur mission de service public ne peut être codifiée dans le code des relations entre les publics et l’administration, dont le champ est limité par l’article L.
 100-1 aux relations entre le public et l’administration – c’est du moins ce que relève le Conseil d’État dans l’avis qu’il a rendu sur ce projet de loi le jeudi 3 décembre 2015 – et cela risque de créer une difficulté majeure de codification du texte.
 J’ajoute que le coût de cette mesure n’a pas été évalué et je m’interroge sur le respect des prescriptions de la loi du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés lorsque les données en cause présentent un caractère personnel.
-Enfin, je profite de cette intervention pour vous dire que je regrette l’utilisation du terme « République » dans le titre de ce texte.
+Enfin, je profite de cette intervention pour vous dire que je regrette l’utilisation du terme «République» dans le titre de ce texte.
 Je considère que l’utilisation trop fréquente de ce terme… On le trouve dans le nom d’un parti politique.
 C’est bien pire ! …conduit à le galvauder à un moment où les Françaises et les Français montrent, dans un grand élan républicain, leur attachement à notre nation et aux valeurs de liberté, d’égalité et de fraternité que comporte notre République.
 Très bien ! La parole est à Monsieur André Chassaigne.
-En préambule de l’examen de la première partie de ce projet de loi, j’exprimerai simplement la position des députés du Front de gauche sur la question de l’ouverture des données, plus communément appelée « open data ».
+En préambule de l’examen de la première partie de ce projet de loi, j’exprimerai simplement la position des députés du Front de gauche sur la question de l’ouverture des données, plus communément appelée «open data».
 Nous sommes, bien entendu, très favorables à l’ouverture des données, considérablement renforcée par les dispositions figurant notamment aux articles 3, 4 et 5.
 Ce bond en avant est nécessaire.
 Il répond à l’impératif de transparence.
@@ -285,7 +283,7 @@ De plus, ce texte ne tient pas assez compte de l’échelon européen : des mesu
 On sait par exemple que la portabilité des données personnelles fera l’objet d’un règlement européen d’application immédiate : pourquoi donc légiférer juste avant cette échéance ? Il ne faudrait pas que votre gouvernement pénalise le secteur du numérique en imposant des contraintes qui nuiraient à nos entreprises et feraient fuir les investisseurs, ce qui est malheureusement une spécialité nationale.
 Enfin, ce texte, qui aurait dû être le grand texte sur le numérique de ce gouvernement, s’intercale en fait entre deux autres : il suit le projet de loi relatif à la gratuité et aux modalités de réutilisation des informations du secteur public, et précède la loi Macron 2, dite loi Noé, relative aux nouvelles opportunités économiques.
 Malgré tous ces défauts, il n’en reste pas moins que nous sommes dans l’ère du numérique et que nous devons encourager son usage et son évolution : c’est une évidence.
-Il est aussi impératif d’apporter des solutions aux attentes de nos concitoyens qui résident dans les « zones blanches » : leur exaspération est compréhensible à l’heure où le numérique est un atout indispensable et un moyen de renforcer l’attractivité de nos territoires ; je le mesure dans mon département rural de la Mayenne.
+Il est aussi impératif d’apporter des solutions aux attentes de nos concitoyens qui résident dans les «zones blanches» : leur exaspération est compréhensible à l’heure où le numérique est un atout indispensable et un moyen de renforcer l’attractivité de nos territoires ; je le mesure dans mon département rural de la Mayenne.
 Mais je ne pense pas que ce projet de loi suffise seul à répondre à cette urgence de l’aménagement numérique du territoire afin de développer les nouveaux métiers, partout sur le territoire de notre République.
 Je suis saisie d’un amendement numéro 698 qui fait l’objet d’un sous-amendement numéro 869.
 La parole est à Monsieur Luc Belot, pour soutenir l’amendement.
@@ -355,21 +353,21 @@ La parole est à Monsieur Christian Paul, pour soutenir l’amendement numéro 5
 Il a été défendu.
 Quel est l’avis de la commission ? Je vous proposerai, cher collègue, de vous rallier à la rédaction que nous avons adoptée, en cohérence avec les dispositions de la loi Valter et avec le reste du texte.
 Le demandeur a aujourd’hui le choix entre trois possibilités de communication : soit la consultation gratuite sur place, sous réserve qu’elle ne nuise pas à la conservation du document, soit la délivrance d’une copie, soit par courrier électronique et sans frais lorsque le document est disponible sous forme numérique.
-La rédaction que je propose vous donne satisfaction par le renvoi à l’article L.31-19, à l’exception du format réutilisable certes, mais comme l’amendement dit « si possible », cela revient quasiment au même.
+La rédaction que je propose vous donne satisfaction par le renvoi à l’article L.31-19, à l’exception du format réutilisable certes, mais comme l’amendement dit «si possible», cela revient quasiment au même.
 C’est pourquoi je vous invite à retirer votre amendement.
 La parole est à Monsieur Christian Paul.
 Le contenu de cet amendement, qui a été discuté en commission, a été repris dans l’amendement numéro 698, que nous avons cosigné avec le rapporteur.
 Je retire donc mon amendement.
 La parole est à Monsieur Patrice Martin-Lalande, pour soutenir l’amendement numéro 53.
 Cet amendement, que j’ai défendu en commission, tire son origine d’un constat que j’ai encore fait en lisant l’étude d’impact et la version initiale de ce projet de loi.
-L’internet fait l’objet dans les textes officiels de quatre désignations différentes : « l’internet » donc, mais aussi « l’Internet », « internet » et « Internet », soit deux noms propres et deux noms communs.
+L’internet fait l’objet dans les textes officiels de quatre désignations différentes : «l’internet» donc, mais aussi «l’Internet», «internet» et «Internet», soit deux noms propres et deux noms communs.
 Puisque nous sommes Français, donc cartésiens, nous devrions pouvoir être d’accord sur le fait qu’il est illogique de désigner la même réalité de quatre manières différentes.
 Il ne serait pas complètement contraire à nos traditions d’essayer de respecter la logique de la langue française, qui impose de désigner ce qui est un bien commun et universel par un nom commun, soit l’internet.
 Ce n’est pas considérable.
 Il s’agit simplement d’essayer d’introduire de la logique dans les futurs textes officiels.
 Quel est l’avis de la commission ? Votre proposition concernerait l’ensemble des textes officiels de la République française.
-Elle sous-entend qu’il y aurait un grand besoin de coordination de l’ensemble de nos textes, alors que concrètement la formulation « internet », sans article, s’est très largement imposée depuis des années.
-D’autre part, la notion de « textes officiels de la République française », si je vois bien ce qu’elle recouvre, ne renvoie à aucune entité juridique connue.
+Elle sous-entend qu’il y aurait un grand besoin de coordination de l’ensemble de nos textes, alors que concrètement la formulation «internet», sans article, s’est très largement imposée depuis des années.
+D’autre part, la notion de «textes officiels de la République française», si je vois bien ce qu’elle recouvre, ne renvoie à aucune entité juridique connue.
 Je vous demande donc de retirer votre amendement.
 La compréhension du monde numérique, que vous connaissez bien, n’a pas besoin d’une telle précision dans nos textes officiels.
 Quel est l’avis du Gouvernement ? À l’issue de la discussion que nous avons eue en commission des lois, je m’étais engagée à examiner de plus près cet amendement.
@@ -477,7 +475,7 @@ Ce serait bête de s’arc-bouter sur une position un peu idéologique – que j
 La parole est à Monsieur le président de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République.
 Depuis quelques années, nous sommes constants dans notre hostilité aux rapports.
 Il arrive cependant que notre vigilance soit moins forte.
-Très bien ! Ne m’applaudissez pas trop tôt ! À ma connaissance, nous en avons laissé passer deux : l’un dans la loi de modernisation de l’action publique territoriale et d’affirmation des métropoles, dite « loi MAPTAM », l’autre dans la réforme pénale.
+Très bien ! Ne m’applaudissez pas trop tôt ! À ma connaissance, nous en avons laissé passer deux : l’un dans la loi de modernisation de l’action publique territoriale et d’affirmation des métropoles, dite «loi MAPTAM», l’autre dans la réforme pénale.
 Jamais deux sans trois ! Nous avons demandé des rapports au Gouvernement, malgré son hostilité.
 Nous les attendons toujours.
 De ce fait, je reste constant.
@@ -558,7 +556,7 @@ Je renvoie les auteurs de l’amendement aux travaux de Monsieur Sirugue.
 Leur diagnostic sur les mutations du travail et de l’emploi, du fait de l’avènement du numérique, est très juste : celui-ci impose une plus grande mobilité, une formation continue tout au long de la vie professionnelle, une obligation de rebondir plus rapidement et de traverser des phases pendant lesquelles on doit être couvert socialement.
 On retrouve le débat qu’ont eu les économistes pendant les années 1970 autour de l’allocation universelle.
 L’idée, très séduisante, peut réunir tous les groupes politiques – tant qu’on n’entre pas trop dans les détails.
-Le diable est dans les détails ! En réalité, si l’on part du principe que l’on instaure une sorte de « matelas » unique, cela peut conduire à supprimer des aides telles que les bourses pour les étudiants, les allocations familiales, l’aide au logement, ou encore la prime d’activité.
+Le diable est dans les détails ! En réalité, si l’on part du principe que l’on instaure une sorte de «matelas» unique, cela peut conduire à supprimer des aides telles que les bourses pour les étudiants, les allocations familiales, l’aide au logement, ou encore la prime d’activité.
 Mais, à l’inverse, on peut aussi considérer qu’une allocation de ce type devrait s’ajouter aux autres dispositifs sociaux.
 Le débat est infini.
 Vous avez raison de poser la question, et de la poser aujourd’hui.
@@ -607,8 +605,8 @@ J’ai découvert le concept de start-up d’État à San Francisco, à Washingt
 Il m’a paru nécessaire de mieux le connaître et d’amplifier le développement de ces start-up d’État.
 L’objectif consiste à utiliser les méthodes de travail des start-up privées, qui sont des entreprises très agiles, très rapides, très concrètement orientées vers la qualité du service fourni aux usagers, aux consommateurs finaux, aux administrés.
 L’appropriation de ces méthodes par l’État est un enjeu absolument essentiel, non seulement pour améliorer la qualité des systèmes d’information et des services numériques, pour baisser les coûts de développement de nouveaux services publics, pour réinternaliser des compétences mais aussi pour faire entrer le numérique et, de manière générale, ces méthodes, ces stratégies, au cœur de la transformation de l’action publique, afin de moderniser celle-ci.
-Il se trouve que, depuis mai 2013, le Secrétariat général pour la modernisation de l’action publique a mis au point une méthode de développement que l’on appelle « start-up d’État », qui a permis à la Direction interministérielle du numérique et des systèmes d’information et de communication de l’État – la DINSIC –, dirigée par Henri Verdier, ici présent, et que je salue, de mettre en place une stratégie mais aussi, en interne, un incubateur de services numériques.
-Je donnerai quelques exemples de ces services : le nouveau site data.gouv.fr, pour la diffusion des données publiques et des données d’intérêt général, sous licence ouverte ; le service « Le marché public simplifié » ; le site mesaides.gouv.fr, pour obtenir une simulation des aides sociales auxquelles peuvent prétendre nos concitoyens ; le site dénommé « le.taxi », qui est une plateforme nationale de mise en relation des clients avec les taxis ; ou encore le service « La bonne boîte », qui vient d’être inauguré par Pôle emploi et permet d’identifier les entreprises les plus à même de recruter et donc de satisfaire les besoins du marché du travail.
+Il se trouve que, depuis mai 2013, le Secrétariat général pour la modernisation de l’action publique a mis au point une méthode de développement que l’on appelle «start-up d’État», qui a permis à la Direction interministérielle du numérique et des systèmes d’information et de communication de l’État – la DINSIC –, dirigée par Henri Verdier, ici présent, et que je salue, de mettre en place une stratégie mais aussi, en interne, un incubateur de services numériques.
+Je donnerai quelques exemples de ces services : le nouveau site data.gouv.fr, pour la diffusion des données publiques et des données d’intérêt général, sous licence ouverte ; le service «Le marché public simplifié» ; le site mesaides.gouv.fr, pour obtenir une simulation des aides sociales auxquelles peuvent prétendre nos concitoyens ; le site dénommé «le.taxi», qui est une plateforme nationale de mise en relation des clients avec les taxis ; ou encore le service «La bonne boîte», qui vient d’être inauguré par Pôle emploi et permet d’identifier les entreprises les plus à même de recruter et donc de satisfaire les besoins du marché du travail.
 En deux ans, douze start-up d’État ont été mises en place par la DINSIC – j’aurais pu citer de nombreuses autres initiatives.
 Il faut désormais amplifier ce phénomène, ce à quoi nous nous employons, voire l’exporter au sein d’autres administrations centrales.
 Vous aurez compris que le sujet est particulièrement important pour le Gouvernement et qu’il est très bien défendu par Clotilde Valter, ma collègue en charge de la réforme de l’État.
@@ -653,21 +651,21 @@ Elle peut occasionner de très nombreux contentieux.
 C’est pourquoi je souhaite que l’on supprime cet article qui n’est pas nécessaire, puisque l’article 2 répond à la même préoccupation.
 À tout le moins, il faudrait revoir profondément cette question, notamment avec les entreprises publiques concernées.
 Quel est l’avis de la commission ? En défendant votre amendement, vous avez fait part de votre souci de protéger les SPIC.
-Dans le même temps, comme vous l’avez écrit dans l’exposé sommaire, vous reconnaissez que le fait de prévoir « la communication des éléments des logiciels qui fondent des décisions individuelles n’est en soit pas contestable et mérite d’être loué ».
+Dans le même temps, comme vous l’avez écrit dans l’exposé sommaire, vous reconnaissez que le fait de prévoir «la communication des éléments des logiciels qui fondent des décisions individuelles n’est en soit pas contestable et mérite d’être loué».
 Je vous donnerai quelques éléments pour vous rassurer, et vous demanderai en conséquence de bien vouloir retirer cet amendement.
 Tout d’abord, comme pour tous les documents administratifs, la communication des codes sources sera soumise aux restrictions prévues aux articles L.
 311-5 et L.
 311-6 du CRPA.
 Le premier dresse la liste des documents qui ne sont pas communicables, le second de ceux qui ne sont communicables qu’aux seuls intéressés, notamment dans le cas où ils comportent des mentions relatives au secret industriel et commercial.
 Ensuite, le Gouvernement a déposé un amendement numéro 860 deuxième rectification à l’article 4, que je vous invite à consulter.
-Il vise à préciser que le secret industriel « comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou industrielles » et qu’il « est apprécié en tenant compte, le cas échéant, du fait que la mission de service public de l’administration mentionnée à l’article L.
-300-2 est soumise à la concurrence ».
+Il vise à préciser que le secret industriel «comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales ou industrielles» et qu’il «est apprécié en tenant compte, le cas échéant, du fait que la mission de service public de l’administration mentionnée à l’article L.
+300-2 est soumise à la concurrence».
 Je crois que cet amendement répond tout à fait à votre inquiétude.
 Dernier élément pour vous rassurer : je présenterai dans quelques instants un amendement, numéro 836, visant à préciser l’article L.
-311-5 du CRPA afin de rendre non communicables les documents administratifs dont la communication porterait atteinte « à la sécurité des systèmes d’information des administrations ».
+311-5 du CRPA afin de rendre non communicables les documents administratifs dont la communication porterait atteinte «à la sécurité des systèmes d’information des administrations».
 Au bénéfice de ces éléments, je vous demande de retirer cet amendement.
 Quel est l’avis du Gouvernement ? Même avis : le Gouvernement demande le retrait de cet amendement au profit de l’amendement numéro 836 de Monsieur le rapporteur.
-Il ne s’agit pas du tout de revenir sur le vote, en commission, de l’amendement visant à ajouter les codes sources à la liste des documents administratifs qui peuvent être communiqués en vertu de la loi du 17 juillet 1978 dite « loi CADA ».
+Il ne s’agit pas du tout de revenir sur le vote, en commission, de l’amendement visant à ajouter les codes sources à la liste des documents administratifs qui peuvent être communiqués en vertu de la loi du 17 juillet 1978 dite «loi CADA».
 Il s’agit simplement d’ajouter une nuance, en permettant à l’administration de refuser de communiquer les codes sources lorsque la sécurité de ses systèmes d’information ne peut être garantie.
 Pour tirer les conséquences de certaines critiques, exprimées la semaine dernière, le Gouvernement a déposé l’amendement numéro 860 deuxième rectification.
 Je profite de cette prise de parole pour le présenter brièvement : il s’agit de renforcer, dans la loi, la protection du secret industriel et commercial.
@@ -698,12 +696,11 @@ Madame la présidente, si vous m’y autorisez, je défendrai simultanément l�
 Je vous en prie.
 Ces amendements ont pour objet de faciliter l’émergence de l’open data en rendant les documents communiqués plus facilement réutilisables.
 La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro 23.
-Cet amendement vise à rendre l’alinéa 4 cohérent avec l’alinéa 2, afin qu’il se termine par les mots « dans un format ouvert et aisément réutilisable.
-» Quel est l’avis de la commission sur ces trois amendements en discussion commune ? Les deux amendements que vous avez défendus, madame Dubié, renvoient à des débats qui ont eu lieu dans cet hémicycle au sujet de la loi Valter ; à cette occasion, j’ai soutenu des dispositions assez proches de celles que vous proposez.
+Cet amendement vise à rendre l’alinéa 4 cohérent avec l’alinéa 2, afin qu’il se termine par les mots «dans un format ouvert et aisément réutilisable.» Quel est l’avis de la commission sur ces trois amendements en discussion commune ? Les deux amendements que vous avez défendus, madame Dubié, renvoient à des débats qui ont eu lieu dans cet hémicycle au sujet de la loi Valter ; à cette occasion, j’ai soutenu des dispositions assez proches de celles que vous proposez.
 En commission mixte paritaire, avec nos collègues sénateurs, nous avons cependant retenu une autre rédaction.
 Je suis favorable à conserver la cohérence, l’unité de notre législation sur ce point : restons-en à l’état actuel.
 Je suis donc défavorable aux amendements numéros 653 et 654.
-En revanche, je suis favorable à l’amendement numéro 23 de Madame Attard et de Monsieur Coronado, concernant la formule « format ouvert et aisément réutilisable ».
+En revanche, je suis favorable à l’amendement numéro 23 de Madame Attard et de Monsieur Coronado, concernant la formule «format ouvert et aisément réutilisable».
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Madame Jeanine Dubié.
 Je retire les amendements numéros 653 et 654.
@@ -720,7 +717,7 @@ Nous la retrouverons au moment de l’examen de l’article 4, puis quand il s�
 En l’occurrence, à l’article 2, il s’agit des algorithmes publics.
 Dans le champ du numérique, c’est l’une des questions essentielles de cette décennie.
 En effet, l’on parle de plus en plus de régulation par les algorithmes.
-On parle même de « gouvernement des algorithmes » pour montrer la place que prennent ces traitements automatisés dans les décisions des pouvoirs publics.
+On parle même de «gouvernement des algorithmes» pour montrer la place que prennent ces traitements automatisés dans les décisions des pouvoirs publics.
 Ce sont en effet des algorithmes qui calculent nos impôts, les allocations familiales ou l’affectation de nos enfants dans telle école ou telle université.
 Il est donc très important que le recours à ces algorithmes ne dissimule pas les éléments constitutifs des décisions derrière un écran opaque, ce qui risquerait de laisser place à l’arbitraire.
 Cet article 2 propose des dispositions en ce sens.
@@ -733,10 +730,9 @@ Je pense néanmoins que nous devons nous pencher très sérieusement sur cette q
 Il s’agit de choix éthiques et politiques essentiels pour la civilisation numérique.
 Je vous invite donc à examiner très attentivement les articles 2 et 4 de ce projet de loi, et les amendements que nous proposerons, car ils recouvrent des choix essentiels.
 La parole est à Monsieur Patrice Martin-Lalande, pour soutenir l’amendement numéro 55.
-Dans sa rédaction actuelle, l’article 2 prévoit que « lorsqu’une décision individuelle est prise sur le fondement d’un traitement algorithmique, les règles définissant ce traitement ainsi que les principales caractéristiques de sa mise en œuvre sont communiquées par l’administration à l’intéressé s’il en fait la demande ».
-L’amendement numéro 55, cosigné par plusieurs de mes collègues, dont Lionel Tardy, vise à ajouter après le mot : « algorithmique » la précision suivante : « l’administration informe l’intéressé de l’existence de ce traitement algorithmique dans la décision qui lui est notifiée.
-» En effet, il ne sert à rien de donner à l’intéressé le pouvoir de demander ces informations s’il ne sait pas, en lisant la décision individuelle qu’il reçoit, s’il y a eu ou non un traitement algorithmique ! Si cette mention ne figure pas sur la décision, cela aura pour effet de limiter l’effectivité de ce droit.
-D’ailleurs, madame la secrétaire d’État, vous avez dit en commission, au sujet d’un amendement identique à celui-ci, que « le Gouvernement juge intéressant cet amendement qui renforce l’effectivité du nouveau droit ».
+Dans sa rédaction actuelle, l’article 2 prévoit que «lorsqu’une décision individuelle est prise sur le fondement d’un traitement algorithmique, les règles définissant ce traitement ainsi que les principales caractéristiques de sa mise en œuvre sont communiquées par l’administration à l’intéressé s’il en fait la demande».
+L’amendement numéro 55, cosigné par plusieurs de mes collègues, dont Lionel Tardy, vise à ajouter après le mot : «algorithmique» la précision suivante : «l’administration informe l’intéressé de l’existence de ce traitement algorithmique dans la décision qui lui est notifiée.» En effet, il ne sert à rien de donner à l’intéressé le pouvoir de demander ces informations s’il ne sait pas, en lisant la décision individuelle qu’il reçoit, s’il y a eu ou non un traitement algorithmique ! Si cette mention ne figure pas sur la décision, cela aura pour effet de limiter l’effectivité de ce droit.
+D’ailleurs, madame la secrétaire d’État, vous avez dit en commission, au sujet d’un amendement identique à celui-ci, que «le Gouvernement juge intéressant cet amendement qui renforce l’effectivité du nouveau droit».
 J’insiste : il faut dire aux administrés si un algorithme a été utilisé dans les décisions individuelles qui les concernent, sans quoi le droit institué par l’article 2 sera peu effectif.
 Sans cela, en effet, ce droit ne sera utilisé qu’accidentellement.
 Quel est l’avis de la commission ? L’enjeu est de garantir la transparence et de donner aux citoyens la possibilité de connaître et d’obtenir ces informations.
@@ -747,14 +743,14 @@ Avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 En outre, l’obligation d’information systématique pour l’ensemble des décisions administratives individuelles risque de créer une charge nouvelle excessive, en imposant aux administrations de retracer, pour chaque décision, l’existence ou non d’un traitement algorithmique.
 La parole est à Monsieur Patrice Martin-Lalande.
-Monsieur le rapporteur, vous dites que mon amendement supprime une partie de l’article 2 ; permettez-moi de ne pas être d’accord avec vous ! C’est pourtant ce qui est écrit ! Nous proposons d’insérer, après le mot « algorithmique », les mots suivants : « l’administration informe l’intéressé de l’existence de ce traitement algorithmique dans la décision qui lui est notifiée », le reste sans changement.
+Monsieur le rapporteur, vous dites que mon amendement supprime une partie de l’article 2 ; permettez-moi de ne pas être d’accord avec vous ! C’est pourtant ce qui est écrit ! Nous proposons d’insérer, après le mot «algorithmique», les mots suivants : «l’administration informe l’intéressé de l’existence de ce traitement algorithmique dans la décision qui lui est notifiée», le reste sans changement.
 Il s’agit non pas de supprimer une partie du dispositif, mais de le compléter.
 Quant à l’alourdissement de la charge, madame la secrétaire d’État, nous voulons maintenir la proportionnalité entre résultat et charge, à laquelle nous sommes attachés.
 Il suffirait qu’un logo figure sur la décision individuelle, indiquant qu’elle a été prise sur le fondement d’un traitement algorithmique.
 Cela suffirait à inviter les intéressés à se renseigner, s’ils le souhaitent.
 La parole est à Monsieur le rapporteur.
 Je viens de comprendre les raisons de notre incompréhension mutuelle, cher collègue.
-Votre amendement vise, après le mot : « algorithmique », à « rédiger ainsi la fin de l’alinéa 2 » et non à compléter l’alinéa 2, ce qui vous conduit à supprimer les éléments auxquels vous semblez tenir autant que moi.
+Votre amendement vise, après le mot : «algorithmique», à «rédiger ainsi la fin de l’alinéa 2» et non à compléter l’alinéa 2, ce qui vous conduit à supprimer les éléments auxquels vous semblez tenir autant que moi.
 Je vous demande donc de retirer cet amendement.
 La parole est à Monsieur Patrice Martin-Lalande.
 Au temps pour moi.
@@ -771,11 +767,11 @@ Dans le cadre du droit à communication, la communication des règles définissa
 Mais j’y vois deux limites.
 Il ne faudrait pas que les explications soient complexes et inaccessibles pour les non initiés.
 C’est le sens de l’amendement numéro 733, qui prévoit que les éléments seront communiqués de façon claire, ainsi que nous l’avons prévu dans d’autres articles.
-Par ailleurs, comment l’intéressé peut-il faire la demande s’il ne sait pas que la décision a été prise sur le fondement d’un traitement algorithmique ? Cela reste un mystère pour moi – et certainement pour vous ! Conserver les termes « s’il en fait la demande » à l’alinéa 2 réduit considérablement la portée de cet article.
+Par ailleurs, comment l’intéressé peut-il faire la demande s’il ne sait pas que la décision a été prise sur le fondement d’un traitement algorithmique ? Cela reste un mystère pour moi – et certainement pour vous ! Conserver les termes «s’il en fait la demande» à l’alinéa 2 réduit considérablement la portée de cet article.
 C’est le sens de l’amendement numéro 732.
 C.Q.F.D.
 ! La parole est à Madame Jeanine Dubié, pour soutenir l’amendement numéro 630.
-Cet amendement a pour objet de préciser que l’administration communique « de manière claire, transparente et loyale » l’information concernant le traitement algorithmique.
+Cet amendement a pour objet de préciser que l’administration communique «de manière claire, transparente et loyale» l’information concernant le traitement algorithmique.
 La parole est à Madame Delphine Batho, pour soutenir l’amendement numéro 606.
 L’information des usagers doit être la règle, non l’exception.
 Je souhaite apporter un argument au débat : pour les administrations, il me semble beaucoup plus simple et efficace de faire figurer une mention expliquant que la décision a été prise sur le fondement d’un traitement algorithmique, et d’en définir les règles, que d’avoir à traiter, une par une, des demandes individuelles d’information.
@@ -881,12 +877,12 @@ Je suis saisie de plusieurs amendements, numéros 8, 47, 9 et 544, pouvant être
 L’amendement numéro 9 fait l’objet de deux sous-amendements, numéros 882 et 883.
 La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro 8.
 La définition d’un seuil pour le nombre d’agents en dessous duquel une administration peut être dispensée de publier ses données apparaît peu pertinente.
-Ce critère n’est pas vraiment adapté, dans la mesure où de « petites » administrations peuvent produire des données importantes.
+Ce critère n’est pas vraiment adapté, dans la mesure où de «petites» administrations peuvent produire des données importantes.
 Ce critère manque de surcroît de transparence aux yeux du grand public.
 Il a été proposé, pour les collectivités locales, de retenir le seuil, plus clair, du nombre d’habitants.
-Par ailleurs, comme le rappelle l’étude d’impact, « les nouvelles obligations des documents administratifs prévues par le présent article seront mises en œuvre facilement au plan technique grâce à la plateforme ouverte des données publiques, data.gouv.fr.
+Par ailleurs, comme le rappelle l’étude d’impact, «les nouvelles obligations des documents administratifs prévues par le présent article seront mises en œuvre facilement au plan technique grâce à la plateforme ouverte des données publiques, data.gouv.fr.
 […] Quelques minutes suffisent pour créer le compte d’une organisation et mettre en ligne […] un jeu de données.
-Data.gouv.fr accueille aujourd’hui près de 21 000 jeux de données, issus de 350 producteurs ».
+Data.gouv.fr accueille aujourd’hui près de 21 000 jeux de données, issus de 350 producteurs».
 Cette publication est donc simple à mettre en place.
 Dès lors, cet amendement tend à supprimer le principe des seuils, comme nous vous l’avions proposé en commission.
 Quel est l’avis de la commission ? Monsieur Coronado connaît le peu d’amour que je porte aux seuils, d’une manière générale.
@@ -911,15 +907,15 @@ Retirez-vous votre amendement, monsieur Martin-Lalande ? Avec plaisir, madame la
 Nous en arrivons donc à l’amendement numéro 9, qui fait l’objet de deux sous-amendements, numéros 882 et 883.
 L’amendement numéro 9 a déjà été présenté, monsieur Coronado… Oui, madame la présidente.
 La parole est à Monsieur Luc Belot, rapporteur, pour soutenir les sous-amendements.
-Le premier, comme je l’indiquais, se rapporte à la question du « crantage » à cinquante agents dans le décret.
-Le second consiste simplement à ajouter les mots : « ou salariés », afin de ne pas prendre uniquement les agents en compte.
+Le premier, comme je l’indiquais, se rapporte à la question du «crantage» à cinquante agents dans le décret.
+Le second consiste simplement à ajouter les mots : «ou salariés», afin de ne pas prendre uniquement les agents en compte.
 Je crois que le Gouvernement a déjà fait part de son avis favorable tant aux sous-amendements qu’à l’amendement… Oui, madame la présidente.
 La parole est à Monsieur Philippe Duron, pour soutenir l’amendement numéro 544.
 Il est satisfait.
 Je le retire.
 Merci, mon cher collègue ! La parole est à Monsieur Luc Belot, rapporteur, pour soutenir l’amendement numéro 231.
 Nous en arrivons à des débats que nous avons entamés tout à l’heure et qui ont également été copieux lors de l’examen des textes relatifs à l’open data, notamment celui qu’a défendu Madame Clotilde Valter pour transposer la directive PSI.
-En l’occurrence, il est proposé d’ajouter à l’alinéa 2, après le mot : « aisément », les mots : « et gratuitement ».
+En l’occurrence, il est proposé d’ajouter à l’alinéa 2, après le mot : «aisément», les mots : «et gratuitement».
 L’enjeu, déjà évoqué, est celui de la gratuité des données publiques.
 Depuis 1998, tous les responsables de l’État, quelle que soit leur sensibilité politique, se sont fait l’écho de cette demande.
 Le CIMAP – comité interministériel pour la modernisation de l’action publique – de 2013, le rapport de Monsieur Mohammed Adnène Trojette, les discours de l’actuel Premier ministre et de ses prédécesseurs, permettent de mesurer l’importance de cet enjeu.
@@ -948,7 +944,7 @@ Je prends acte des avancées et je félicite le Gouvernement de sa décision con
 Je vais donc retirer cet amendement, considérant que votre réponse, madame la secrétaire d’État, vaut également engagement pour avancer.
 Je suis à votre entière disposition pour commencer à dresser avec vous la liste des établissements – je pense évidemment à l’IGN et au SHOM – qui devraient pouvoir évoluer très vite vers cette gratuité à laquelle je suis tout particulièrement attaché.
 La parole est à Madame Jeanine Dubié, pour soutenir l’amendement numéro 655.
-Cet amendement a pour objet de préciser qu’un document publié dans un standard ouvert aisément réutilisable ne doit pas être simplement « lisible par une machine » : il doit pouvoir être exploité par un système de traitement automatisé.
+Cet amendement a pour objet de préciser qu’un document publié dans un standard ouvert aisément réutilisable ne doit pas être simplement «lisible par une machine» : il doit pouvoir être exploité par un système de traitement automatisé.
 Les documents au format PDF, par exemple, sont techniquement lisibles par une machine, mais en aucun cas réutilisables en open data par un outil programmatique automatisé.
 Quel est l’avis de la commission ? Je ne peux que souscrire à l’analyse, puisque j’ai défendu dans l’hémicycle il y a deux mois des amendements assez similaires.
 Pour autant, comme je l’ai indiqué, nous avons choisi en commission mixte paritaire avec nos collègues sénateurs une rédaction légèrement différente, qui ne nuit pas, me semble-t-il, à l’objectif de l’amendement, qui est d’assurer que les documents soient réutilisables.
@@ -956,40 +952,39 @@ Dans un souci de cohérence rédactionnelle de l’ensemble de nos textes, surto
 Je ne le retire pas ! Quel est l’avis du Gouvernement ? Même avis que le rapporteur.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 734 rectifié.
 Il s’agit d’un amendement lexical, pour ainsi dire.
-Le terme historique de la loi CADA est celui de « documents administratifs ».
-Si la jurisprudence a à peu près réussi à en établir le périmètre, il n’est en revanche plus vraiment approprié de parler de « documents » dès lors que l’on y inclut de nouvelles notions comme celle de base de données.
-Il serait donc utile de procéder, à terme, à un toilettage et de parler par exemple de « données administratives ».
+Le terme historique de la loi CADA est celui de «documents administratifs».
+Si la jurisprudence a à peu près réussi à en établir le périmètre, il n’est en revanche plus vraiment approprié de parler de «documents» dès lors que l’on y inclut de nouvelles notions comme celle de base de données.
+Il serait donc utile de procéder, à terme, à un toilettage et de parler par exemple de «données administratives».
 Là encore, l’amendement procède d’un souci de lisibilité de la loi.
 Quel est l’avis de la commission ? Je propose le retrait au profit d’un autre amendement qui n’est ni du rapporteur ni du Gouvernement, mais de notre collègue Laure de La Raudière.
-Il s’agit de l’amendement numéro 611, qui viendra un peu plus tard en discussion et qui a le mérite d’ajouter le mot « données » au lieu de le substituer, ce qui, je crois, satisfait aussi votre objectif, monsieur Tardy.
+Il s’agit de l’amendement numéro 611, qui viendra un peu plus tard en discussion et qui a le mérite d’ajouter le mot «données» au lieu de le substituer, ce qui, je crois, satisfait aussi votre objectif, monsieur Tardy.
 Retirez-vous votre amendement au profit de celui de Madame de la Raudière, monsieur Tardy ? Je n’ai pas examiné son amendement, qui est un peu loin, mais je fais confiance à ma collègue.
 Je retire donc mon amendement.
 La parole est à Madame Laure de La Raudière, pour soutenir l’amendement numéro 607.
 Je voudrais tout d’abord remercier mon collègue Monsieur Tardy pour sa confiance.
-Voir Lionel retirer un amendement, c’est tout à fait exceptionnel ! (Sourires.) Pas tant que ça ! L’amendement numéro 607 vise à supprimer les mots : « , ainsi que leurs versions mises à jour ».
+Voir Lionel retirer un amendement, c’est tout à fait exceptionnel ! (Sourires.) Pas tant que ça ! L’amendement numéro 607 vise à supprimer les mots : «, ainsi que leurs versions mises à jour».
 Objectivement, cet ajout ne me semble pas utile au texte.
 Si les administrations mentionnées au premier alinéa de l’article L.
-300-2 du code des relations entre le public et l’administration sont tenues de mettre à disposition les « documents qu’elles communiquent en application des procédures au présent titre », elles sont également tenues de communiquer les mises à jour dès lors qu’il y a matière à le faire.
-La précision « ainsi que leurs versions mises à jour » pourrait les contraindre à faire plus de publications que le titre Iier ne les y contraint, entraînant, je crois, une certaine insécurité juridique.
+300-2 du code des relations entre le public et l’administration sont tenues de mettre à disposition les «documents qu’elles communiquent en application des procédures au présent titre», elles sont également tenues de communiquer les mises à jour dès lors qu’il y a matière à le faire.
+La précision «ainsi que leurs versions mises à jour» pourrait les contraindre à faire plus de publications que le titre Iier ne les y contraint, entraînant, je crois, une certaine insécurité juridique.
 Quel est l’avis de la commission ? Je ferai une lecture inverse.
 Je souhaite en effet le maintien de cette précision qui me paraît essentielle.
 Dans son rapport, la sénatrice Corinne Bouchoux évoque différents sites, notamment sante.gouv.fr, où l’on trouvait des données particulièrement datées alors que le ministère avait fait, sans jamais les rendre publiques, des mises à jour.
-Il me semble donc important de maintenir, à l’alinéa 3, les mots : « , ainsi que leurs versions mises à jour », qui sont de nature à apporter des garanties, à rappeler l’obligation et à éviter que des administrations, considérant qu’elles ont déjà fait le travail, ne se préoccupent pas des mises à jour.
+Il me semble donc important de maintenir, à l’alinéa 3, les mots : «, ainsi que leurs versions mises à jour», qui sont de nature à apporter des garanties, à rappeler l’obligation et à éviter que des administrations, considérant qu’elles ont déjà fait le travail, ne se préoccupent pas des mises à jour.
 Quel est l’avis du Gouvernement ? Défavorable.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 735.
-Ce week-end, Madame la secrétaire d’État a largement relayé sur Twitter la tribune publiée par un patron de start-up dans Les Échos et intitulée : « Pour l’ouverture réelle et complète des données publiques ».
+Ce week-end, Madame la secrétaire d’État a largement relayé sur Twitter la tribune publiée par un patron de start-up dans Les Échos et intitulée : «Pour l’ouverture réelle et complète des données publiques».
 Pourtant, je ne suis pas sûr que cette tribune donne à 100 % raison au projet de loi.
 Les chefs d’entreprise insistent à juste titre sur un aspect jusqu’ici négligé, la nécessité que les données publiques soient mises à jour régulièrement.
 C’est un point crucial : si les données sont obsolètes, leur ouverture perd une grande partie de son intérêt.
 Cet amendement vise donc à préciser cette obligation, qui est manquante dans le texte actuel.
 Quel est l’avis de la commission ? C’est un des nombreux avis favorables donnés à Lionel Tardy.
 Le Gouvernement rend-il également un avis favorable ? On ne les compte plus, madame la présidente ! (Sourires.) La parole est à Madame Laure de La Raudière, pour soutenir l’amendement numéro 608.
-Je souhaiterais, à l’alinéa 5 de l’article, après le mot : « reçoivent », insérer les mots : « dans le cadre de leur mission de service public ».
+Je souhaiterais, à l’alinéa 5 de l’article, après le mot : «reçoivent», insérer les mots : «dans le cadre de leur mission de service public».
 Je ne sais pas si l’amendement du Gouvernement que nous venons d’adopter est suffisamment précis pour qu’il soit clair que l’obligation prévue à l’alinéa 5 s’applique uniquement aux bases de données correspondant à une mission de service public entrant dans le champ de l’obligation de mise en ligne.
 Dans un souci de sécurité juridique, je pense qu’il convient de le préciser.
 Quel est l’avis de la commission ? Votre amendement est satisfait, chère collègue, par celui du Gouvernement mais également par la définition même de l’article L.
-100-3 du code des relations entre le public et l’administration, lequel dispose : « Au sens du présent code […], on entend par : 1° Administration : les administrations de l’État, les collectivités territoriales, leurs établissements publics administratifs et les organismes et personnes de droit public et de droit privé chargés d’une mission de service public administratif, y compris les organismes de sécurité sociale ; 2° Public : a) Toute personne physique ; b) Toute personne morale de droit privé, à l’exception de celles qui sont chargées d’une mission de service public lorsqu’est en cause l’exercice de cette mission.
-» Considérant que votre attente est satisfaite par cette définition, je vous propose de retirer votre amendement.
+100-3 du code des relations entre le public et l’administration, lequel dispose : «Au sens du présent code […], on entend par : 1° Administration : les administrations de l’État, les collectivités territoriales, leurs établissements publics administratifs et les organismes et personnes de droit public et de droit privé chargés d’une mission de service public administratif, y compris les organismes de sécurité sociale ; 2° Public : a) Toute personne physique ; b) Toute personne morale de droit privé, à l’exception de celles qui sont chargées d’une mission de service public lorsqu’est en cause l’exercice de cette mission.» Considérant que votre attente est satisfaite par cette définition, je vous propose de retirer votre amendement.
 Quel est l’avis du Gouvernement ? Même avis.
 Je citerai une autre source : l’article L.
 300-2 du même code prévoit une restriction aux missions de service public, ce qui rend votre amendement inopérant.
@@ -1002,7 +997,7 @@ Je le dis très clairement pour la suite de la navette parlementaire, votre rais
 La parole est à Madame Laure de La Raudière, pour soutenir l’amendement numéro 633.
 Il est défendu.
 Quel est l’avis de la commission ? Avis défavorable.
-Au demeurant, par souci de cohérence rédactionnelle avec l’alinéa 6, il aurait été opportun d’ajouter également le mot « sanitaire ».
+Au demeurant, par souci de cohérence rédactionnelle avec l’alinéa 6, il aurait été opportun d’ajouter également le mot «sanitaire».
 Par ailleurs, je suis plutôt défavorable à l’idée de borner l’avancée que constitue la publication des bases de données des administrations, car ces données peuvent présenter un intérêt autre qu’économique, social ou environnemental.
 Certaines données peuvent présenter un intérêt eu égard à la transparence de la vie publique ou à la vie démocratique.
 Ces données doivent, elles aussi, être accessibles.
@@ -1016,11 +1011,11 @@ Madame la présidente, veuillez considérer que l’amendement de repli numéro 
 Quel est l’avis de la commission ? C’est une discussion que nous avons régulièrement.
 Je perçois la cohérence et la persévérance de notre collègue Monsieur Gosselin, mais, cher collègue, il n’y aura pas de diffusion de données sensibles au sens où vous l’entendez dans la mesure où l’alinéa 8 du même article encadre précisément le dispositif de publications.
 L’alinéa 8 consiste en effet à insérer un article L.
-312-1-2 dans le code des relations entre le public et l’administration, article qui dispose que « lorsque les documents visés aux articles L.
+312-1-2 dans le code des relations entre le public et l’administration, article qui dispose que «lorsque les documents visés aux articles L.
 312-1 ou L.
-312-1-1 » – ceux qui vous inquiètent – « comportent des mentions entrant dans le champ d’application des articles L.
-311-5 » – les documents non communicables – « ou L.
-311-6 » – les documents communicables aux seuls intéressés –, « ils ne peuvent être rendus publics qu’après avoir fait l’objet d’un traitement afin d’occulter ces mentions ».
+312-1-1» – ceux qui vous inquiètent – «comportent des mentions entrant dans le champ d’application des articles L.
+311-5» – les documents non communicables – «ou L.
+311-6» – les documents communicables aux seuls intéressés –, «ils ne peuvent être rendus publics qu’après avoir fait l’objet d’un traitement afin d’occulter ces mentions».
 Votre demande étant satisfaite, cher collègue, je vous propose de retirer cet amendement.
 Quel est l’avis du Gouvernement ? Même avis.
 Je constate que l’opposition est partagée sur ce sujet, certains députés souhaitant renforcer les obligations de publication, d’autres voulant les restreindre.
@@ -1034,9 +1029,9 @@ Les amendements numéros 10, 57, 553, 573 et 736 sont identiques.
 L’amendement numéro 260 de Monsieur Philippe Gosselin a déjà été défendu.
 La parole est à Madame Corinne Erhel, rapporteure pour avis, pour soutenir l’amendement numéro 682.
 La rédaction actuelle de l’article accorde un pouvoir extrêmement large à l’administration pour déterminer les documents qui pourront être ouverts au public.
-Cet amendement vise à supprimer, dans l’alinéa 6, le verbe « estime » car il me semble qu’en laissant à l’administration le pouvoir d’estimer lesquels de ces documents ont une valeur économique, social, sanitaire ou environnementale, le projet de loi limite de façon importante le pouvoir d’intervention du juge administratif.
-En supprimant le verbe « estime » qui, encore une fois, recouvre une notion très large, le juge qui sera saisi d’un recours pourra plus facilement imposer à l’administration de dévoiler et de publier les documents qu’elle était réticente à rendre publics.
-Quel est l’avis de la commission ? Comme mon excellente collègue rapporteure pour avis de la commission des affaires économiques, j’ai un problème avec l’utilisation, dans cet alinéa, du verbe « estime », et nous essayons, depuis le début de nos auditions, de trouver une solution adéquate.
+Cet amendement vise à supprimer, dans l’alinéa 6, le verbe «estime» car il me semble qu’en laissant à l’administration le pouvoir d’estimer lesquels de ces documents ont une valeur économique, social, sanitaire ou environnementale, le projet de loi limite de façon importante le pouvoir d’intervention du juge administratif.
+En supprimant le verbe «estime» qui, encore une fois, recouvre une notion très large, le juge qui sera saisi d’un recours pourra plus facilement imposer à l’administration de dévoiler et de publier les documents qu’elle était réticente à rendre publics.
+Quel est l’avis de la commission ? Comme mon excellente collègue rapporteure pour avis de la commission des affaires économiques, j’ai un problème avec l’utilisation, dans cet alinéa, du verbe «estime», et nous essayons, depuis le début de nos auditions, de trouver une solution adéquate.
 J’ai d’ailleurs déposé un amendement prévoyant la consultation de l’administrateur général des données afin que l’estimation ne soit pas laissée à la collectivité ou à l’établissement.
 J’ai cru comprendre que cette réflexion a poursuivi son chemin et je vais laisser Madame la secrétaire d’État en dire quelques mots.
 Dans tous les cas, il reste possible, lorsqu’un utilisateur ou un citoyen constate un refus de publication, de saisir la CADA, à qui il appartient de juger de l’objectivité des estimations de l’administration.
@@ -1044,10 +1039,10 @@ Dans tous les cas, il reste possible, lorsqu’un utilisateur ou un citoyen cons
 Je vous propose de retirer cet amendement, en attendant les éléments de réponse de Madame la secrétaire d’État concernant l’administrateur général des données.
 Quel est l’avis du Gouvernement ? Avis défavorable, pour les mêmes raisons que celles que j’ai développées pour l’amendement de Monsieur Gosselin, et de nouveau je vous renvoie à l’amendement numéro 233 du rapporteur.
 Êtes-vous sensible à cette demande de retrait, madame la rapporteure pour avis ? J’ai lu rapidement l’amendement de Luc Belot.
-Je veux bien retirer mon amendement mais, encore une fois, il faut être conscient que le verbe « estime » a un sens extrêmement large qui laisse un pouvoir d’appréciation qui l’est tout autant.
+Je veux bien retirer mon amendement mais, encore une fois, il faut être conscient que le verbe «estime» a un sens extrêmement large qui laisse un pouvoir d’appréciation qui l’est tout autant.
 Dans la discussion commune, nous en arrivons à la série d’amendements identiques.
 La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro 10.
-La discussion portant sur la suppression des mots « l’administration qui les détient estime que » a eu lieu quasiment sur tous les bancs de l’hémicycle, au sein de tous les groupes de notre assemblée.
+La discussion portant sur la suppression des mots «l’administration qui les détient estime que» a eu lieu quasiment sur tous les bancs de l’hémicycle, au sein de tous les groupes de notre assemblée.
 Nous avons eu cette discussion avec Corinne Erhel en commission des affaires économiques puis en commission des lois.
 L’administration ne peut pas se retrouver juge et partie.
 Cet argument a été avancé par l’ensemble de nos collègues et j’ai un peu de mal à comprendre Monsieur le rapporteur et Madame la secrétaire d’État lorsqu’ils suggèrent d’opter pour la paperasserie ou de faire intervenir une administration supplémentaire en saisissant la CADA.
@@ -1061,13 +1056,12 @@ Comme vient de l’indiquer Corinne Erhel, l’article est rédigé de manière 
 Nous proposons de revenir à la version de l’avant-projet de loi, qui disposait que la communicabilité des documents résulte de leur intérêt économique, social et environnemental, apprécié objectivement.
 La parole est à Madame Delphine Batho, pour soutenir l’amendement numéro 553.
 Je ne suis pas convaincue par l’amendement du rapporteur qui ajoute la consultation de l’administrateur général des données, nommé par décret et agissant sous l’autorité du Premier ministre – il ne s’agit pas d’un tiers extérieur qui donne un avis sur la position de l’administration et son refus d’ouvrir des données.
-En outre, le décret numéro 2014-1050 dispose déjà : « L’administrateur général des données peut être saisi par toute personne de toute question portant sur la circulation des données.
-» Je ne vois donc pas ce que cet amendement apporterait sur le plan juridique et ce que cela changerait au risque de contentieux contenu dans le verbe « estime », que soulignait Madame Erhel, et au fait de renvoyer à l’administration la responsabilité de juger s’il convient de rendre publiques les données.
+En outre, le décret numéro 2014-1050 dispose déjà : «L’administrateur général des données peut être saisi par toute personne de toute question portant sur la circulation des données.» Je ne vois donc pas ce que cet amendement apporterait sur le plan juridique et ce que cela changerait au risque de contentieux contenu dans le verbe «estime», que soulignait Madame Erhel, et au fait de renvoyer à l’administration la responsabilité de juger s’il convient de rendre publiques les données.
 Il serait plus simple d’en venir à la rédaction proposée par ces amendements identiques, présentés par un grand nombre de nos collègues.
 La parole est à Madame Jeanine Dubié, pour soutenir l’amendement numéro 573.
 Je ne vois pas davantage que notre collègue Delphine Batho en quoi l’amendement numéro 233 introduit une simplification.
 J’ai plutôt l’impression qu’il complique les choses en faisant appel à l’administrateur général des données.
-Il paraît beaucoup plus simple de supprimer le verbe « estime ».
+Il paraît beaucoup plus simple de supprimer le verbe «estime».
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 736.
 Cet alinéa pose effectivement un vrai problème.
 Chacun sait que certaines administrations ont encore des réticences à fournir des données.
@@ -1085,17 +1079,17 @@ Il est donc important qu’un tiers extérieur intervienne – mais un tiers ré
 Non seulement je ne suis pas convaincue par l’amendement du rapporteur, mais je m’étonne de son argument, qui consiste à dire que l’on pourra saisir la CADA.
 Ce n’est pas mon seul argument ! Mais c’est précisément ce que nous ne voulons pas faire ! De même que certains d’entre nous ont eu l’occasion, pour des raisons diverses, de constater combien les administrations ont du mal à mettre en ligne leurs données, de même, certains – et parfois les mêmes – ont eu l’occasion de se frotter à la CADA et de constater ce n’est pas toujours simple, agréable, rapide et efficace.
 La solution que je propose me semble de nature à mettre tout le monde d’accord.
-Je suggère de ne pas supprimer le verbe « estime », car l’administration peut continuer à estimer ce qu’il convient de publier, mais d’ajouter la référence à un tiers, pour que l’administration ne soit plus la seule à estimer.
+Je suggère de ne pas supprimer le verbe «estime», car l’administration peut continuer à estimer ce qu’il convient de publier, mais d’ajouter la référence à un tiers, pour que l’administration ne soit plus la seule à estimer.
 Un tiers pourrait appeler l’attention sur les données qui, dans l’intérêt de tous, mériteraient d’être rendues publiques.
 Autrement dit, la sagesse de l’administration pourrait être éclairée par des suggestions de la société civile.
 Sur ce sujet, je crois que ce serait utile.
 La parole est à Monsieur Luc Belot, rapporteur, pour soutenir l’amendement numéro 233 et pour donner l’avis de la commission sur les autres amendements en discussion commune.
-Comme je l’ai dit tout à l’heure, s’il ne règle pas totalement le problème posé par l’usage du terme « estime », qui nous gêne tous, l’amendement numéro 233 fait tout de même en sorte que l’administration ne soit pas la seule à estimer ce qu’il convient de rendre public, en introduisant une consultation spécifique de l’administrateur général des données.
+Comme je l’ai dit tout à l’heure, s’il ne règle pas totalement le problème posé par l’usage du terme «estime», qui nous gêne tous, l’amendement numéro 233 fait tout de même en sorte que l’administration ne soit pas la seule à estimer ce qu’il convient de rendre public, en introduisant une consultation spécifique de l’administrateur général des données.
 Cette disposition devrait avoir un effet positif et pousser les différentes administrations à aller dans le sens d’une large publication de leurs données.
-L’inconvénient des différents amendements tendant à supprimer l’expression « l’administration qui les détient estime que », c’est qu’ils conservent le terme « intérêt ».
+L’inconvénient des différents amendements tendant à supprimer l’expression «l’administration qui les détient estime que», c’est qu’ils conservent le terme «intérêt».
 Or l’intérêt d’une publication pourra toujours être discuté.
-Si nous voulons réécrire cet alinéa ou en supprimer une partie, je pense qu’il faudrait supprimer également le terme « intérêt », et lui préférer l’expression : « données économiques, sociales, sanitaires, ou environnementales ».
-En supprimant à la fois le verbe « estime » et le mot « intérêt », nous aboutirions peut-être à la meilleure rédaction possible : je me permets donc de souffler cette idée à nos collègues sénateurs et au Gouvernement, en vue de la navette.
+Si nous voulons réécrire cet alinéa ou en supprimer une partie, je pense qu’il faudrait supprimer également le terme «intérêt», et lui préférer l’expression : «données économiques, sociales, sanitaires, ou environnementales».
+En supprimant à la fois le verbe «estime» et le mot «intérêt», nous aboutirions peut-être à la meilleure rédaction possible : je me permets donc de souffler cette idée à nos collègues sénateurs et au Gouvernement, en vue de la navette.
 Une telle rédaction serait, me semble-t-il, de nature à répondre aux inquiétudes qui se sont exprimées sur tous les bancs de cet hémicycle.
 Pour l’heure, je maintiens mon amendement numéro 233, car je pense que le recours à l’administrateur général des données va tout de même dans le bon sens.
 Et je demande le retrait de tous les autres amendements en discussion commune.

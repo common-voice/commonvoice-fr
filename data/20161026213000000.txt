@@ -46,7 +46,7 @@ En parallèle, la France peine à accélérer la part de l’apprentissage dans 
 Fin 2015, on dénombre ainsi 403 000 apprentis en France – c’est encore loin de l’objectif fixé par le Gouvernement de 500 000 apprentis en 2017.
 De même, sept mois après la fin de leur formation, 35 % de jeunes apprentis restent sans emploi.
 L’une des explications de ce phénomène est l’écart du poids des charges sociales entre le moment où l’entreprise artisanale forme un apprenti dont le salaire est totalement exonéré de charges sociales et salariales, et l’embauche de ce même apprenti à l’issue de sa formation, où l’entreprise devra supporter pleinement et de plein fouet un accroissement des charges.
-Il n’y a rien de pire pour une entreprise artisanale, notamment en période de crise, que de former pendant des années un jeune apprenti et de ne pouvoir l’embaucher en CDI en raison de l’absence pour l’employeur de ce que j’appelle un « sas de décompression » de charges.
+Il n’y a rien de pire pour une entreprise artisanale, notamment en période de crise, que de former pendant des années un jeune apprenti et de ne pouvoir l’embaucher en CDI en raison de l’absence pour l’employeur de ce que j’appelle un «sas de décompression» de charges.
 Très bien ! Cet amendement vise donc à soutenir l’activité artisanale, autant en ville qu’en milieu rural, et à améliorer l’insertion professionnelle des jeunes qui ont choisi cette filière.
 Quel est l’avis de la commission ? La commission a rejeté cet amendement, dont l’intention positive est pourtant parfaitement compréhensible.
 Ses auteurs souhaitent rendre l’exonération de cotisations dégressive sur cinq ans.
@@ -87,7 +87,7 @@ Plusieurs orateurs sont inscrits sur l’article 9.
 La parole est à Monsieur Dominique Tian.
 J’avoue ne pas comprendre cet article.
 J’ai interrogé quelques professionnels de l’URSSAF et du RSI qui ont reconnu ne pas comprendre, eux non plus, cette nouvelle organisation.
-Il est indiqué dans l’exposé des motifs de l’article que « les efforts déployés ont largement permis de normaliser la situation du régime du RSI grâce à l’engagement des équipes […] » Après avoir ainsi essayé de convaincre que la situation s’améliore au RSI, il est surprenant de conclure qu’il faut mettre en place « une nouvelle organisation de recouvrement des cotisations sociales des travailleurs indépendants du RSI ».
+Il est indiqué dans l’exposé des motifs de l’article que «les efforts déployés ont largement permis de normaliser la situation du régime du RSI grâce à l’engagement des équipes […]» Après avoir ainsi essayé de convaincre que la situation s’améliore au RSI, il est surprenant de conclure qu’il faut mettre en place «une nouvelle organisation de recouvrement des cotisations sociales des travailleurs indépendants du RSI».
 Monsieur le secrétaire d’État, la mise en place du RSI, vous l’avez souvent dit vous-même, a été une catastrophe industrielle.
 Mon collègue Frédéric Lefebvre, qui a été secrétaire d’État chargé du commerce et de l’artisanat et s’est heurté au problème pendant de nombreuses années, peut témoigner du mécontentement général des assurés – artisans, commerçants et professions libérales.
 Vous reconnaissez que la situation s’améliore et que nous sommes sur la voie de l’apaisement tout en nous proposant la mise en place dans des délais extrêmement brefs d’une nouvelle organisation non concertée, d’une grande complexité, sans que les intéressés n’aient été entendus, alors même que l’on sait tous les problèmes informatiques qu’il y a.
@@ -119,7 +119,7 @@ C’est la raison pour laquelle je voterai contre ce dispositif.
 La parole est à Madame Sylviane Bulteau.
 Monsieur Lefebvre, je voudrais revenir sur les propos blessants que vous avez tenus à la fin de la séance de cet après-midi, et encore à l’instant.
 C’est en tout cas ainsi que je les ai ressentis.
-Ces propos sont méprisants lorsque vous parlez de « bricolage » – je pense notamment aux personnels du RSI qui, depuis pas mal d’années, s’adaptent à tous les changements et à tous les efforts qu’on leur demande.
+Ces propos sont méprisants lorsque vous parlez de «bricolage» – je pense notamment aux personnels du RSI qui, depuis pas mal d’années, s’adaptent à tous les changements et à tous les efforts qu’on leur demande.
 En effet, ils s’adaptent au bricolage ! Je pense aussi aux administrateurs du RSI qui, au niveau national comme au niveau régional, sont des représentants des professions indépendantes, qui travaillent et qui ont leur propre entreprise.
 Eux aussi s’adaptent ! Malheureusement, ce sont eux aussi des victimes du RSI.
 Il n’est pas très malin, si je puis me permettre d’utiliser ce terme, de dénigrer ainsi le RSI.
@@ -155,7 +155,7 @@ Si le directeur national chargé du recouvrement et les directeurs territoriaux 
 En effet ! Le RSI n’a aucun pouvoir de contrôle sur les URSSAF, qui ont leur propre système informatique et refusent d’en changer, car il s’agit pour eux d’un enjeu mineur.
 Est-ce là l’ambitieuse réforme à mener ? Ou faut-il être plus courageux et retirer aux URSSAF la gestion informatique ? Si le RSI l’assumait lui-même, il n’y aurait plus qu’un seul pilote.
 La parole est à Monsieur Thierry Benoit.
-Même si, dans un temps passé, le RSI a été qualifié de « catastrophe industrielle », l’idée d’origine, qui consistait à fusionner plusieurs caisses servant des prestations aux artisans, aux commerçants et aux indépendants, était judicieuse.
+Même si, dans un temps passé, le RSI a été qualifié de «catastrophe industrielle», l’idée d’origine, qui consistait à fusionner plusieurs caisses servant des prestations aux artisans, aux commerçants et aux indépendants, était judicieuse.
 J’en suis convaincu.
 Dans l’absolu ! Et puis, répétons-le : si les indépendants, qui sont, comme je le dis souvent, d’obédience entrepreneuriale, comme le veut leur métier, étaient affiliés au régime général, ils cotiseraient plus.
 En Bretagne – Madame Le Callennec le confirmera –, nous avons la chance d’avoir un RSI dynamique et transparent, qui travaille très bien, et qui vient dans les territoires expliquer son activité et son fonctionnement.
@@ -205,13 +205,11 @@ On ne peut y échapper qu’en se mettant dans l’illégalité et en perdant du
 L’article L.
 111-2-2 du code de la sécurité sociale dispose que sont affiliées à un régime obligatoire de sécurité sociale dans le cadre du présent code, quel que soit leur âge, leur sexe, leur nationalité ou leur lieu de résidence, toutes les personnes exerçant sur le territoire français, à titre temporaire ou permanent, une activité professionnelle non salariée.
 Le même code rappelle par son article L.
-133-6-1 que « le régime social des indépendants affilie les personnes exerçant les professions artisanales, industrielles et commerciales redevables des cotisations et contributions sociales mentionnées à l’article L.
-133-6.
-» Enfin, l’ordonnance 2005-1528 dispose, à l’article 1ier : « Il est créé un régime social des travailleurs indépendants dénommé "régime social des indépendants" […].
-» Enfin, puisque Monsieur Lefebvre a fait allusion aux caisses régionales, l’article L.
+133-6-1 que «le régime social des indépendants affilie les personnes exerçant les professions artisanales, industrielles et commerciales redevables des cotisations et contributions sociales mentionnées à l’article L.
+133-6.» Enfin, l’ordonnance 2005-1528 dispose, à l’article 1ier : «Il est créé un régime social des travailleurs indépendants dénommé "régime social des indépendants" […].» Enfin, puisque Monsieur Lefebvre a fait allusion aux caisses régionales, l’article L.
 611-8 du code de la sécurité sociale, auquel fait référence l’article R.
 611-21 du même code, instaure les caisses de base du RSI, qui sont régionales.
-Il indique en effet : « Les caisses de base communes aux groupes professionnels des artisans, des industriels et des commerçants assurent pour leurs ressortissants, sous le contrôle de la caisse nationale, les missions du service des prestations, des allocations et du recouvrement des cotisations […] » Pardon d’être long, mais puisque Monsieur Lefebvre a fait allusion à des procédures devant la justice, il faut que les juristes qui auraient à se pencher sur cette question puissent trouver dans nos débats le point de vue du Gouvernement, qui assoit, selon nous, l’existence du RSI.
+Il indique en effet : «Les caisses de base communes aux groupes professionnels des artisans, des industriels et des commerçants assurent pour leurs ressortissants, sous le contrôle de la caisse nationale, les missions du service des prestations, des allocations et du recouvrement des cotisations […]» Pardon d’être long, mais puisque Monsieur Lefebvre a fait allusion à des procédures devant la justice, il faut que les juristes qui auraient à se pencher sur cette question puissent trouver dans nos débats le point de vue du Gouvernement, qui assoit, selon nous, l’existence du RSI.
 Tout à fait ! Libre à chacun, notamment via ou non le Défenseur des droits, d’en contester la base légale.
 Le cas échéant, les juridictions répondront.
 D’autres questions ont été posées.
@@ -231,7 +229,7 @@ Cela ne veut pas dire, pour répondre à une interpellation légitime, qu’au n
 Plusieurs d’entre vous se sont inquiétés, et je partage cette inquiétude, de l’organisation des systèmes informatiques.
 Le rapport de Fabrice Verdier et de Sylviane Bulteau y faisait déjà allusion.
 Madame Bulteau, nous avons évoqué cette question quand vous avez présenté votre rapport.
-Vous aviez soulevé la question du logiciel V2 ; vous vous étiez interrogée sur la manière d’intégrer ce logiciel « indépendant », c’est le cas de le dire, ou du moins autonome, au sein d’un logiciel plus global.
+Vous aviez soulevé la question du logiciel V2 ; vous vous étiez interrogée sur la manière d’intégrer ce logiciel «indépendant», c’est le cas de le dire, ou du moins autonome, au sein d’un logiciel plus global.
 Fabrice Verdier a déposé un amendement numéro 713 visant à ce qu’un rapport soit établi à ce sujet.
 L’amendement vise à ce que l’ACOSS remette ce rapport au Gouvernement.
 En tout cas, nous nous montrerons favorables à ce que le Parlement puisse être informé, voire associé, comme nous l’avons déjà fait, au traitement de cette question informatique, qui est un sujet central.
@@ -328,9 +326,8 @@ Monsieur le secrétaire d’État a voulu rappeler tout à l’heure un certain 
 Il a mentionné à juste titre l’article L.
 611-8 du code de la sécurité sociale, qui dispose que les caisses de base sont créées par arrêté du préfet de région.
 Or, ces arrêtés préfectoraux n’ont jamais été pris : aucune caisse n’est en mesure de présenter cet acte de baptême administratif.
-Les caisses prétendent pourtant qu’elles tiennent leur existence d’un arrêté préfectoral approuvant les statuts, lesquels sont des statuts-types imposés par arrêté ministériel et disposant : « La caisse est créée par arrêté du préfet de région en date du … en application des dispositions de l’article L.
-611-8 du code de la sécurité sociale.
-» Par conséquent, inévitablement se pose un problème d’existence légale et de capacité à agir.
+Les caisses prétendent pourtant qu’elles tiennent leur existence d’un arrêté préfectoral approuvant les statuts, lesquels sont des statuts-types imposés par arrêté ministériel et disposant : «La caisse est créée par arrêté du préfet de région en date du … en application des dispositions de l’article L.
+611-8 du code de la sécurité sociale.» Par conséquent, inévitablement se pose un problème d’existence légale et de capacité à agir.
 Il me semblait important que ces éléments figurent au compte rendu de nos débats.
 La parole est à Monsieur Julien Aubert.
 Monsieur le secrétaire d’État, monsieur le rapporteur, je vous ai posé trois questions ; aucune d’entre elles n’a reçu de réponse.
@@ -417,8 +414,8 @@ Quel est l’avis de la commission ? La commission a émis un avis favorable.
 Mentionner les chapitres III et IV du titre IV du livre II du code de la sécurité sociale, qui définissent les règles applicables au recouvrement des cotisations au régime général de la Sécurité sociale, permet de les étendre au recouvrement des cotisations et contributions sociales dues par les travailleurs indépendants, sous réserve d’adaptations par décret.
 Il s’agit donc, dans l’esprit de la réforme, à la fois de simplification et d’unification.
 La parole est à Madame Isabelle Le Callennec.
-Selon l’exposé des motifs de l’amendement que nous nous apprêtons à voter, « le présent amendement vise à apporter des précisions quant aux règles de recouvrement applicables à cette nouvelle organisation et aux missions des URSSAF ».
-Quant au texte de l’amendement, il complète l’alinéa 5 par les mots « selon les dispositions des chapitres III et IV du titre IV du livre II, sous réserve d’adaptations par décret en Conseil d’État ».
+Selon l’exposé des motifs de l’amendement que nous nous apprêtons à voter, «le présent amendement vise à apporter des précisions quant aux règles de recouvrement applicables à cette nouvelle organisation et aux missions des URSSAF».
+Quant au texte de l’amendement, il complète l’alinéa 5 par les mots «selon les dispositions des chapitres III et IV du titre IV du livre II, sous réserve d’adaptations par décret en Conseil d’État».
 Cela ne me semble pas très précis.
 Nous aimerions donc en savoir un peu plus.
 Par ailleurs, je reviens un instant sur ce qui a été dit tout à l’heure.
@@ -482,12 +479,12 @@ Votre amendement n’a-t-il pas pour objet de restreindre le champ d’intervent
 Pouvez-vous préciser ce point très important ? L’action sociale des caisses, pour ceux qui s’y sont intéressés, ne consiste pas uniquement à prendre en charge des cotisations impayées.
 La parole est à Madame Isabelle Le Callennec.
 J’aimerais savoir ce que cet amendement change précisément, monsieur le secrétaire d’État.
-Il consiste à substituer, à la fin de l’alinéa 22, aux mots « dues auprès de ce régime » les mots « mentionnées à l’article L.
-133-1-1 », lequel traite du recouvrement des cotisations et contributions sociales.
-D’une part, je ne comprends pas ce que cela change ; d’autre part, un alinéa ultérieur précise qu’un « décret en Conseil d’État fixe les conditions d’application du présent article et notamment le taux du prélèvement à opérer sur les ressources de chaque régime pour alimenter le fonds ».
+Il consiste à substituer, à la fin de l’alinéa 22, aux mots «dues auprès de ce régime» les mots «mentionnées à l’article L.
+133-1-1», lequel traite du recouvrement des cotisations et contributions sociales.
+D’une part, je ne comprends pas ce que cela change ; d’autre part, un alinéa ultérieur précise qu’un «décret en Conseil d’État fixe les conditions d’application du présent article et notamment le taux du prélèvement à opérer sur les ressources de chaque régime pour alimenter le fonds».
 Avez-vous déjà une idée de ce taux ? La parole est à Monsieur le secrétaire d’État.
-Je réponds à Monsieur de Courson que l’amendement ne modifie pas le champ d’intervention du fonds d’action sociale mais remplace simplement, à propos des cotisations, les mots « dues auprès de ce régime », relatifs à l’une des actions du fonds, par « mentionnées à l’article L.
-133-1-1 ».
+Je réponds à Monsieur de Courson que l’amendement ne modifie pas le champ d’intervention du fonds d’action sociale mais remplace simplement, à propos des cotisations, les mots «dues auprès de ce régime», relatifs à l’une des actions du fonds, par «mentionnées à l’article L.
+133-1-1».
 Cela permet d’inclure les professions libérales en les rendant éligibles à une prise en charge de leurs cotisations par le fonds d’action sociale.
 Les amendements numéros 820 et 821 sont rédactionnels, monsieur le rapporteur.
 En effet, monsieur le président.
@@ -557,7 +554,7 @@ Cet amendement propose que l’ACOSS remette aux deux ministres chargés des aff
 Cela fait quelques heures que nous débattons du sujet, afin d’aboutir à un système plus perfectionné et plus performant de recouvrement.
 Une coresponsabilité du RSI et de l’URSSAF, telle que la prévoit l’article 9, est nécessaire, mais il faut aussi travailler sur le système d’information, le fameux logiciel V2 qui pose des problèmes depuis la création du RSI.
 Nous attendons donc avec impatience la remise de ce rapport.
-Je me permets d’adresser une petite mise en garde à l’attention du Gouvernement : l’ACOSS a tendance à dire que tout va bien avec le système informatique… (« Ah ! » sur les bancs du groupe Les Républicains), une version que Fabrice Verdier et moi-même avons plutôt remise en cause dans notre rapport.
+Je me permets d’adresser une petite mise en garde à l’attention du Gouvernement : l’ACOSS a tendance à dire que tout va bien avec le système informatique… («Ah !» sur les bancs du groupe Les Républicains), une version que Fabrice Verdier et moi-même avons plutôt remise en cause dans notre rapport.
 Nous sommes persuadés qu’il faudra, à un moment donné, passer à un seul pilote informatique.
 Quel est l’avis de la commission ? Les préoccupations sur le système informatique sont largement partagées.
 Je suis favorable à un rapport, tout en sachant qu’il ne répondra pas aux inquiétudes exprimées par Monsieur de Courson, puisqu’il sera livré six mois après la promulgation de la loi, au moment où des difficultés pourraient survenir.
@@ -567,7 +564,7 @@ J’espère que cela aura répondu aux préoccupations exprimées dans votre rap
 Tout va très bien, madame la marquise ! L’avis est donc favorable, monsieur le rapporteur ? Oui, monsieur le président.
 Et, comme le suggère Monsieur de Courson, nous pourrons voir après le passage du texte au Sénat s’il y a lieu de déplacer un peu le curseur s’agissant de la date.
 (Murmures sur les bancs du groupe Les Républicains et du groupe de l’Union des démocrates et indépendants.) Quel est l’avis du Gouvernement ? Notre discussion avait bien commencé, je crois, avec une analyse claire des responsabilités, des progrès et du chemin restant à parcourir pour arriver à la nécessaire perfection de l’ensemble du système.
-Aussi, lorsque vous parlez de catastrophe annoncée, monsieur Tian, c’est de la provocation ! Je pourrais vous parler, moi, de ce rapport de la Cour des comptes qui évoquait une « catastrophe industrielle » ! Je pourrais vous rappeler les dates, les noms des ministres, ceux des promoteurs de l’ISU – qui d’ailleurs, curieusement, reviennent de l’étranger pour recommencer leur vie politique en France ; mais c’est une autre histoire… Nous en reparlerons quand vous voulez ! Jusqu’à présent, j’ai entendu des arguments factuels et tout à fait légitimes.
+Aussi, lorsque vous parlez de catastrophe annoncée, monsieur Tian, c’est de la provocation ! Je pourrais vous parler, moi, de ce rapport de la Cour des comptes qui évoquait une «catastrophe industrielle» ! Je pourrais vous rappeler les dates, les noms des ministres, ceux des promoteurs de l’ISU – qui d’ailleurs, curieusement, reviennent de l’étranger pour recommencer leur vie politique en France ; mais c’est une autre histoire… Nous en reparlerons quand vous voulez ! Jusqu’à présent, j’ai entendu des arguments factuels et tout à fait légitimes.
 Chacun va sur le terrain, et cela nous arrive aussi : Marisol Touraine, Martine Pinville et moi-même sommes allés voir les administrateurs du RSI pour donner un signal, celui du soutien du Gouvernement à l’ensemble de ces réformes.
 Après, on peut toujours discuter des personnes : il est vrai qu’il y a eu des luttes d’influence pour savoir si le pilotage revenait à l’un des deux directeurs… Mais vous avez raison, madame Bulteau : le cœur du réacteur, c’est le système informatique.
 Tous les acteurs sur le terrain, et le président du RSI lui-même, nous l’ont signalé.
@@ -614,7 +611,7 @@ Dans le prolongement des actions engagées, la réforme d’ensemble du recouvre
 Quel est l’avis du Gouvernement ? Je vais essayer de rester calme.
 Les propos de Monsieur Aubert sont proprement inacceptables.
 L’ISU a été créé en 2008.
-De 2008 à 2012, rien n’a fonctionné, à tel point que le rapport de la Cour des comptes parle en 2012 de « catastrophe industrielle ».
+De 2008 à 2012, rien n’a fonctionné, à tel point que le rapport de la Cour des comptes parle en 2012 de «catastrophe industrielle».
 Derrière cette expression, il y a, entre autres, la perte nette d’environ 1,5 milliard d’euros de cotisations, auxquelles le régime a dû renoncer car tout dysfonctionnait.
 Derrière cette expression, il y a aussi des centaines de milliers de dossiers individuels qui ont été perdus et que l’on a dû reconstituer à la main, les systèmes informatiques ayant perdu les informations sur les salariés.
 Aujourd’hui, nous reconnaissons avec humilité que tout n’est pas parfait, mais beaucoup s’accordent à reconnaître que de nombreux progrès ont été réalisés.
@@ -646,7 +643,7 @@ Il n’avait pas choisi le RSI.
 Il faudrait un plafond, un bouclier social qui garantirait que les cotisations n’excèdent pas un certain montant, compte tenu du revenu que les indépendants perçoivent dans l’année.
 Quel est l’avis de la commission ? Avis défavorable.
 En juin 2015, le Gouvernement a engagé vingt actions afin d’améliorer le fonctionnement du RSI, qui ont déjà permis certaines avancées.
-Le dispositif du « 3 en 1 », notamment, répond en partie aux préoccupations de Monsieur Aubert puisqu’il vise à réduire le décalage entre le moment où les revenus sont perçus et celui où les cotisations correspondantes sont prélevées.
+Le dispositif du «3 en 1», notamment, répond en partie aux préoccupations de Monsieur Aubert puisqu’il vise à réduire le décalage entre le moment où les revenus sont perçus et celui où les cotisations correspondantes sont prélevées.
 En outre, l’amendement n’évoque qu’un rapport et il n’y a donc pas matière à le gager, mais en diminuant les cotisations sociales, il entraînerait encore une perte pour la Sécurité sociale.
 Je suis toujours curieux d’entendre, après toute proposition de dépense ou de limitation des recettes de la Sécurité sociale, des propositions pour compenser ces pertes.
 Quel est l’avis du Gouvernement ? Le débat a été long et il a été au fond, de façon constructive et intéressante, indépendamment des effets de manche ou de tribune ci ou là.
@@ -654,7 +651,7 @@ Le Gouvernement est défavorable à cet amendement.
 Je souhaite par ailleurs, monsieur le président, une suspension de séance de quelques minutes.
 Je propose de donner auparavant la parole à Monsieur Julien Aubert, pour répondre à la commission et au Gouvernement.
 J’ignore s’il y a un effet de tribune, monsieur le secrétaire d’État, mais l’effet de tribu, lui, est clairement présent : même dans un débat d’intérêt général, il semble impossible de dépasser le clivage partisan.
-Le rapporteur a évoqué la réforme du « 3 en 1 », effectivement.
+Le rapporteur a évoqué la réforme du «3 en 1», effectivement.
 Mais quelle que soit la date de paiement, si votre niveau de cotisation est de toute façon trop élevé par rapport à vos revenus, de toute façon vous serez rattrapé par les problèmes ! Lorsque vous étalez vos dépenses de consommation sur plusieurs mois, la somme finit quand même par être payée en intégralité ! Cela ne permet donc pas de résoudre le problème.
 Lorsque cela vient des rangs de la gauche, nous venons de le voir, la demande d’un rapport, en l’espèce sur le système informatique, ne choque personne.
 Mais dès lors qu’un rapport est demandé par la droite, de toute évidence, c’est une perte de temps.
@@ -671,7 +668,7 @@ L’article 10 crée une obligation d’affiliation au régime des travailleurs 
 Cela veut dire que si vous louez un de vos biens – une tondeuse, un camping-car, une voiture, un zodiac – et que cela dépasse 321 euros par mois, vous êtes obligé de devenir un travailleur indépendant.
 Le rapport Terrasse ne prévoyait pas cela : il envisageait plutôt une modulation de la CSG.
 Vous avez préparé quelque chose de complètement différent, qui, à mon avis, pose des problèmes juridiques, et aussi moraux : 3 800 euros par an, en l’espèce ce n’est quand même pas grand-chose ! Considérer que l’on exerce un métier parce que l’on a loué, pour 3 800 euros, sa voiture ou son camping-car paraît quand même abusif.
-Il ne s’agit pas de métier, mais de revenu ! En outre, vous vous heurtez directement à l’article 7 de la loi du 20 avril 2016 relative à la déontologie et aux droits et obligations des fonctionnaires, selon lequel il est interdit au fonctionnaire « de créer ou de reprendre une entreprise » et autres – je ne vais pas vous le lire en entier.
+Il ne s’agit pas de métier, mais de revenu ! En outre, vous vous heurtez directement à l’article 7 de la loi du 20 avril 2016 relative à la déontologie et aux droits et obligations des fonctionnaires, selon lequel il est interdit au fonctionnaire «de créer ou de reprendre une entreprise» et autres – je ne vais pas vous le lire en entier.
 Cela veut dire que vous excluez du champ de la location l’ensemble des fonctionnaires de notre pays, ainsi, probablement, que d’autres professions réglementées.
 Vous allez de surcroît poser des problèmes juridiques extrêmement importants à des personnes qui sont déjà affiliées au régime général de la sécurité sociale et qui ne sont évidemment pas des professionnels – surtout pas pour un montant de 3 800 euros annuels ! La parole est à Monsieur Frédéric Lefebvre.
 On poursuit avec une nouvelle forme de bricolage : voilà que l’on veut faire entrer dans le régime social des indépendants des activités lucratives réalisées sur des plateformes d’achat, de revente ou de prestation de services qui ne sont pas très différentes des mêmes activités réalisées dans le cadre de l’économie dite traditionnelle.
@@ -716,7 +713,7 @@ La parole est à Madame Laure de La Raudière.
 On peut noter que de nombreuses d’interrogations émergent sur tous les bancs de l’hémicycle à propos de cet article.
 Même si l’on peut comprendre l’objectif louable de définition d’un cadre juridique stable susceptible de permettre le développement de l’économie du partage entre particuliers tout en garantissant les professionnels des secteurs concernés contre l’émergence d’une concurrence déloyale – car je crois que c’est le résultat que vous recherchez –… Eh oui ! …cet article soulève néanmoins certaines questions : non seulement celle du seuil, qui vient d’être évoquée par Madame Laclais, mais aussi celle de savoir ce qui entre en ligne de compte dans les revenus.
 J’ai à ce propos deux questions bien précises à vous poser, monsieur le secrétaire d’État – et j’aimerais avoir des réponses.
-Premièrement, les recettes annuelles tirées des activités mentionnées à cet article sont-elles bien considérées hors partage des frais par les particuliers qui fournissent ces services ? Deuxièmement, considérez-vous que pour un particulier, la seule recherche de la couverture des coûts d’usage d’un bien meuble ne constitue pas, par définition, l’exercice d’une activité à but lucratif ? Globalement, qu’est-ce qui, dans cet article 10, est pris en compte comme « revenu » ? Quels sont les revenus soumis au seuil de 3 860 euros que vous avez mentionné ? Cela s’entend-il bien hors partage de frais ? La parole est à Madame Martine Lignières-Cassou.
+Premièrement, les recettes annuelles tirées des activités mentionnées à cet article sont-elles bien considérées hors partage des frais par les particuliers qui fournissent ces services ? Deuxièmement, considérez-vous que pour un particulier, la seule recherche de la couverture des coûts d’usage d’un bien meuble ne constitue pas, par définition, l’exercice d’une activité à but lucratif ? Globalement, qu’est-ce qui, dans cet article 10, est pris en compte comme «revenu» ? Quels sont les revenus soumis au seuil de 3 860 euros que vous avez mentionné ? Cela s’entend-il bien hors partage de frais ? La parole est à Madame Martine Lignières-Cassou.
 Monsieur le secrétaire d’État, si nous sommes tous soucieux du développement de l’économie collaborative, nous sommes également vigilants, comme cela vient d’être rappelé, quant à ce que ce développement soit compatible avec les règles de concurrence, notamment vis-à-vis de l’économie traditionnelle.
 Le débat porte sur deux sujets : la fiscalité et la protection sociale.
 Ce soir, il ne sera pas question de fiscalité, puisque le sujet est en passe d’être clarifié, mais de protection sociale.
@@ -755,8 +752,8 @@ Cette instruction précise les conditions d’exonération, les revenus perçus,
 Avec le présent article, le Gouvernement entend imposer une activité émergente.
 Il pose des problèmes de seuils qui ont été soulevés en commission des affaires sociales.
 D’ailleurs, le rapporteur semblait assez ouvert à l’idée de retravailler la question.
-L’exposé des motifs précise aussi qu’il s’agit de locations de « courtes durées » : qu’entend-on par là ? Et quid des seuils de recettes, de 23 000 euros de chiffre d’affaires pour la location de biens immeubles et de 3 860 euros pour les autres biens, sachant que par exemple le tarif d’un meublé n’est pas du tout le même à Paris et en province ? Le seuil sera donc très vite atteint dans la capitale, et beaucoup moins vite en province.
-Bref, cet article va « corseter » une activité qui émerge et qui, pour le moment, concerne plutôt des personnes désireuses d’arrondir leurs fins de mois.
+L’exposé des motifs précise aussi qu’il s’agit de locations de «courtes durées» : qu’entend-on par là ? Et quid des seuils de recettes, de 23 000 euros de chiffre d’affaires pour la location de biens immeubles et de 3 860 euros pour les autres biens, sachant que par exemple le tarif d’un meublé n’est pas du tout le même à Paris et en province ? Le seuil sera donc très vite atteint dans la capitale, et beaucoup moins vite en province.
+Bref, cet article va «corseter» une activité qui émerge et qui, pour le moment, concerne plutôt des personnes désireuses d’arrondir leurs fins de mois.
 Il est trop tôt, me semble-t-il, pour légiférer et encadrer, d’autant que l’on va se heurter à la question des seuils.
 Enfin, je le répète, cet article est assez contradictoire avec l’idée d’exonérer d’impôt les activités de co-consommation, que l’administration fiscale a encouragées à travers son instruction.
 La parole est à Monsieur Paul Giacobbi.
@@ -805,7 +802,7 @@ Disons-le clairement : cet article ne prétend pas tout régler.
 Ah ! Il est flou ! Nous aurons à y revenir, peut-être avant la fin de l’année et probablement aussi dans les années qui viennent.
 Mais nous étions face à un choix.
 La première solution consiste à laisser s’installer des usages parfois hors du droit, parfois à la frontière du droit et parfois conformes au droit.
-Les exemples sont effectivement divers et variés, entre le partage de frais ou la co-consommation – qui sont un peu la même chose, pour répondre à votre question, madame Le Callennec – l’activité annexe ou principale, les polyactivités, sans oublier la question que pose la concurrence de cette activité avec les secteurs organisés, existants, « traditionnels » en un mot.
+Les exemples sont effectivement divers et variés, entre le partage de frais ou la co-consommation – qui sont un peu la même chose, pour répondre à votre question, madame Le Callennec – l’activité annexe ou principale, les polyactivités, sans oublier la question que pose la concurrence de cette activité avec les secteurs organisés, existants, «traditionnels» en un mot.
 De tout cela, l’actualité nous parle tous les jours.
 La question de Uber, la question de Airbnb, la question de Drivy, la question d’un nombre considérable de plateformes se pose à nous quotidiennement.
 On peut choisir de ne rien faire, parce qu’il faut laisser le secteur se développer, que c’est merveilleux, que tout est bien comme ça.
@@ -814,7 +811,7 @@ Les représentants de l’Union des métiers et des industries de l’hôtelleri
 À l’occasion de l’Euro 2016, le taux de remplissage des hôtels et celui des logements loués via Airbnb était sans comparaison ! C’est vrai.
 Donc, soit nous nous mettons la tête dans le sable en remettant à plus tard, auquel cas les usages vont s’installer, rendant encore plus difficile d’y revenir quand tout le monde aura pris l’habitude de faire ce qui, pour le moment, ne nous dérange pas trop parce qu’il s’agit de revenus modestes, soit nous traitons le problème, en ayant bien sûr conscience que cela sera difficile et qu’il faudra sûrement y revenir, car tous les jours des activités nouvelles se créent dans ce secteur – personne ne saura s’y opposer, et personne ne le veut, je pense, particulièrement au sein des nouvelles générations.
 La position du Gouvernement est donc qu’il faut traiter ce problème.
-Et encore, il y a de nombreuses questions que nous ne traiterons pas, ne serait-ce que parce qu’elles n’entrent pas dans le cadre d’un PLFSS, comme la subordination des « salariés » aux plateformes – je suis presque obligé d’utiliser ce mot : je parle de ceux dont l’activité principale se fait sur ces plateformes.
+Et encore, il y a de nombreuses questions que nous ne traiterons pas, ne serait-ce que parce qu’elles n’entrent pas dans le cadre d’un PLFSS, comme la subordination des «salariés» aux plateformes – je suis presque obligé d’utiliser ce mot : je parle de ceux dont l’activité principale se fait sur ces plateformes.
 C’est une question importante, qui recouvre celle du droit à la formation, celle du droit à la protection sociale ou celle de la retraite, sans même parler du droit de grève.
 En effet, que vous le vouliez ou non, certains de nos concitoyens font désormais de cette activité leur activité principale.
 C’est tant mieux, mais cela veut dire que nous devons également protéger les salariés, ainsi que les recettes.
@@ -851,7 +848,7 @@ Voilà ce que je souhaitais dire, monsieur le président.
 Pardons d’avoir été un peu long.
 Le sujet est lourd et si nous ne le traitons pas, sans prétention et avec l’humilité qui convient, nous laisserons s’installer des habitudes sur lesquelles il sera extrêmement difficile de revenir.
 Plus nous attendrons – et je pense que nous avons déjà, collectivement, trop attendu – plus il sera difficile de revenir à des pratiques cohérentes.
-Il ne s’agit pas de « corseter », comme je l’ai entendu tout à l’heure, mais d’accompagner.
+Il ne s’agit pas de «corseter», comme je l’ai entendu tout à l’heure, mais d’accompagner.
 Si nous ne le faisions pas, nous ne ferions pas notre travail et nous refilerions, si j’ose dire, la patate chaude à nos successeurs, quels qu’ils soient.
 Nous en venons aux amendements.
 Je suis saisi de quatre amendements de suppression de l’article, numéros 7, 48, 112 et 599.
@@ -859,7 +856,7 @@ La parole est à Madame Martine Lignières-Cassou, pour soutenir l’amendement 
 Je le redis : nous comprenons l’intention du Gouvernement.
 En revanche, peut-être parce qu’il s’agit d’activités émergentes, nous avons le sentiment que l’ensemble du dispositif qui nous est proposé n’est pas suffisamment pensé et manque de cohérence.
 Monsieur le secrétaire d’État, vous nous dites avoir mené une concertation avec les plateformes, mais ce ne sont pas elles qui sont visées par vos propositions : ce sont les citoyens.
-(« Ah ! » sur les bancs du groupe Les Républicains.) Voilà ! De ce point de vue-là, deux choses nous gênent.
+(«Ah !» sur les bancs du groupe Les Républicains.) Voilà ! De ce point de vue-là, deux choses nous gênent.
 D’abord, il y a la question des seuils : aujourd’hui, y compris dans les activités traditionnelles de location de meublés, de chambres d’hôtes, ou de gîtes ruraux, les seuils ne sont pas les mêmes.
 Nous avons été alertés par les exploitants de gîtes, qui nous ont indiqué qu’aujourd’hui le seuil d’assujettissement est supérieur à 23 000 euros.
 Bref, les seuils en vigueur au sein de l’économie traditionnelle ne sont pas les mêmes.
@@ -986,9 +983,9 @@ Je voudrais revenir sur un point.
 Supposons que je loue un bien : que je mette à ma fenêtre une pancarte bien visible depuis la rue ou que je le place sur une plateforme, pour moi le revenu est le même et je paierai le même niveau de RSI.
 En revanche, si je passe par la plateforme, cela crée du buzz sur internet et la plateforme a plus d’annonces publicitaires, qui la rémunèrent.
 Or, nous savons que celle-ci s’acquitte rarement de l’impôt, en tout cas en France.
-J’entends bien votre argument, monsieur le secrétaire d’État, mais alors pourquoi, la semaine dernière, l’amendement « Youtube » a-t-il été refusé par le Gouvernement ? Ne sommes-nous pas en train de créer deux poids et deux mesures ? C’est cela qui m’inquiète.
+J’entends bien votre argument, monsieur le secrétaire d’État, mais alors pourquoi, la semaine dernière, l’amendement «Youtube» a-t-il été refusé par le Gouvernement ? Ne sommes-nous pas en train de créer deux poids et deux mesures ? C’est cela qui m’inquiète.
 Il est évident qu’il faut encadrer cette économie et l’intégrer à notre activité économique globale, de sorte qu’elle soit soumise à imposition – nous serons tous d’accord sur ce point.
-Mais ne crée-t-on pas une différence de traitement entre le particulier et la plateforme, qui a toute capacité à engranger des recettes publicitaires dues au flux des annonces qu’elle publie, à se loger dans certains États à fiscalité « avantageuse » et à échapper à une forme d’imposition ? La parole est à Monsieur Lionel Tardy.
+Mais ne crée-t-on pas une différence de traitement entre le particulier et la plateforme, qui a toute capacité à engranger des recettes publicitaires dues au flux des annonces qu’elle publie, à se loger dans certains États à fiscalité «avantageuse» et à échapper à une forme d’imposition ? La parole est à Monsieur Lionel Tardy.
 Nous sommes toujours un peu surpris du décalage entre les déclarations du Gouvernement en faveur du numérique et de l’économie collaborative et ses actes.
 Dans ce cas, toute personne tirant de l’activité de location meublée de courte durée des recettes supérieures à 23 000 euros devrait être affiliée au RSI.
 C’est très clairement un mauvais coup porté à l’économie collaborative.

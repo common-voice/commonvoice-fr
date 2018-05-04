@@ -130,7 +130,7 @@ Il faut d’ailleurs au contraire que les pays fassent preuve d’offensive par 
 Je rappelle aussi que certaines dispositions dont on aurait pu douter de la conformité en la matière étaient très bien passées parce qu’elles permettaient d’apporter des précisions et de rendre le droit européen beaucoup plus clair qu’il ne l’était.
 La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro 6.
 Cet amendement vise à définir plus précisément la notion de neutralité, afin de pallier une éventuelle interprétation restrictive de ce principe.
-Il s’agit de préciser que cette notion signifie un internet ouvert « par le traitement égal et non discriminatoire du trafic par les opérateurs dans la fourniture des services d’accès à internet, sans limitation ni interférence, indépendamment de l’expéditeur, du destinataire, du type, du contenu, de l’appareil, du service ou de l’application, ainsi que par le droit des utilisateurs finals, y compris les personnes fournissant des services de communication au public en ligne d’accéder et de contribuer à internet ».
+Il s’agit de préciser que cette notion signifie un internet ouvert «par le traitement égal et non discriminatoire du trafic par les opérateurs dans la fourniture des services d’accès à internet, sans limitation ni interférence, indépendamment de l’expéditeur, du destinataire, du type, du contenu, de l’appareil, du service ou de l’application, ainsi que par le droit des utilisateurs finals, y compris les personnes fournissant des services de communication au public en ligne d’accéder et de contribuer à internet».
 Cette précision est importante car, comme l’a rappelé Christian Paul à l’instant, des tentatives de monopole ou d’accord commerciaux entre des fournisseurs d’accès et certaines applications peuvent remettre définitivement en cause la neutralité du net.
 Cela reviendrait, à côté de l’autoroute de l’internet, à construire une voie rapide, réservée à certains utilisateurs.
 Ces derniers ne pourraient l’utiliser qu’à la condition de payer davantage ou différemment, ou d’être irréversiblement liés à certaines applications ou fournisseurs d’accès.
@@ -179,14 +179,14 @@ Cet article me semble donc davantage répondre à des impératifs de communicati
 Mais que ceux qui souhaitent voir l’auto-hébergement garanti se rassurent : le règlement européen pose une telle garantie, puisqu’il s’agit d’un des principes découlant de la neutralité d’internet.
 Dès lors, pourquoi inscrire celui-là plutôt que les autres, si ce n’est pour répondre aux demandes issues de la consultation publique ? En quoi la garantie de l’auto-hébergement doit-elle nécessairement être inscrite dans la loi ? La parole est à Madame Corinne Erhel, rapporteure pour avis de la commission des affaires économiques, pour soutenir l’amendement numéro 673.
 Cet amendement ne vise nullement à s’opposer à l’auto-hébergement, pratique que l’on peut encourager car elle permet d’utiliser les ressources internet de façon indépendante.
-Je suis bien d’accord sur ce point ! Cependant, cette garantie est déjà satisfaite par l’article 19, notamment par les dispositions du règlement européen, qui détaillent les exceptions au principe de neutralité, lorsqu’il s’agit de « préserver l’intégralité et la sûreté du réseau ».
+Je suis bien d’accord sur ce point ! Cependant, cette garantie est déjà satisfaite par l’article 19, notamment par les dispositions du règlement européen, qui détaillent les exceptions au principe de neutralité, lorsqu’il s’agit de «préserver l’intégralité et la sûreté du réseau».
 Or les pratiques qui, à l’heure actuelle, limitent techniquement et contractuellement l’auto-hébergement ne peuvent en aucun cas se prévaloir de ces dispositions relatives aux attaques du réseau.
 Certes, cet élément a fait l’objet d’une vive demande lors de la consultation publique, mais cette demande est déjà satisfaite si l’on s’entend sur ce qu’est le principe de neutralité technologique, de neutralité dans les usages, et si l’on écarte toute intervention ferme sur les réseaux et tout risque d’atteinte au réseau.
 Très bien ! Quel est l’avis de la commission ? Nous avons déjà débattu à plusieurs reprises de l’ouverture des ports internet de nos box, afin que les serveurs stockent nos propres données.
 Le sujet est connu : des entreprises préfèrent disposer de leurs propres serveurs plutôt que d’un stockage sur le cloud, certaines start-up se passant d’ailleurs parfois de l’ouverture des ports.
 Par ailleurs, certains serveurs de jeux n’hésitent pas à adresser des demandes d’hébergement à des adolescents gamers.
 Monsieur Martin-Lalande évoquait à ce propos, dans son exposé sommaire, une surtransposition du règlement européen, que je réfute.
-Je retire le « sur- ».
+Je retire le «sur-».
 Il s’agit seulement d’une inscription inutile dans la loi ! Comme l’évoquait Corinne Erhel, cette question a fait l’objet d’une forte demande des internautes et exige de la pédagogie.
 D’aucuns pourraient juger superflu d’intégrer ces éléments dans ce projet de loi : lors de la discussion en commission, j’avais d’ailleurs soulevé quelques réserves sur cet article et sur l’article 25.
 Pour autant, les députés écrivent la loi : aussi, puisque rien ne contrevient à ce que nous puissions adopter l’article 20, je formulerai une demande de retrait de ces trois amendements de suppression.
@@ -232,14 +232,14 @@ Gérard Larcher, actuel président du Sénat, était l’un des orateurs les plu
 Il soulignait l’accord nécessaire sur la création de la commission, l’impératif de son indépendance, et envisageait pour elle un rôle de contrôle de la réglementation et de contrôle parlementaire sur le secteur des postes et télécommunications.
 Les débats avaient porté en grande partie sur la composition de la Commission et sur le nombre de députés, de sénateurs et de membres extérieurs, désignés à l’époque par le Conseil économique et social, le Conseil d’État et la Cour des comptes.
 Ils avaient en outre abouti à inclure dans le nom de la commission la notion de service public.
-Des débats ultérieurs ont remplacé le terme de « télécommunications » par celui de « communications électroniques », introduit la parité entre députés et sénateurs et fait entrer dans la commission trois personnalités qualifiées, une issue du secteur des postes, les deux autres de celui des télécommunications.
+Des débats ultérieurs ont remplacé le terme de «télécommunications» par celui de «communications électroniques», introduit la parité entre députés et sénateurs et fait entrer dans la commission trois personnalités qualifiées, une issue du secteur des postes, les deux autres de celui des télécommunications.
 Les modifications que je propose aujourd’hui par voie d’amendement, en qualité de président de cette instance depuis février 2013 – fonction à laquelle j’ai succédé à Jean-Pierre Fourré, député, Jean Besson, député, Jacques Guyard, député, Pierre Hérisson, sénateur à deux reprises, et Alain Joyandet, député –, sont souhaitées par l’ensemble des collègues qui la composent, bien qu’ils appartiennent à différents groupes parlementaires et à différentes commissions permanentes : Corinne Erhel, Jeanine Dubié, André Chassaigne, Thierry Benoit, Lionel Tardy au titre de la commission des affaires économiques ; Alain Leboeuf, dont la désignation est en instance de confirmation par le président de l’Assemblée nationale, au titre de la commission du développement durable ; et moi-même, au titre de la commission des finances.
 La même position sera défendue par nos collègues du Sénat.
-Le changement de nom ne touchera pas que la forme, même si chacun admettra que « CSSPPCE » est un sigle difficilement compréhensible.
-Au fond, ce que nous exprimons en lui préférant l’appellation « Commission parlementaire du numérique et des postes », c’est la volonté d’acter que le numérique est partout dans notre vie, et qu’il le sera encore plus demain – c’est d’ailleurs le cœur même de ce projet de loi.
-En écrivant « postes » au pluriel, nous souhaitons aussi prendre en considération l’évolution d’un marché qui comprend désormais des opérateurs privés – par exemple DHL, UPS ou Fedex pour la distribution des colis – et de nouvelles formes de distribution à domicile, comme Amazon.
-Il s’agit en quelque sorte d’ancrer la réalité du relais humain et territorial en prolongement du commerce électronique, phénomène que devinait déjà Gérard Larcher en 1990 lorsqu’il évoquait « un monde en perpétuelle évolution où il faut faire preuve de souplesse pour s’adapter aux réalités économiques ».
-Reste à trancher la question de l’introduction du qualificatif « parlementaire » dans la nouvelle appellation de la commission.
+Le changement de nom ne touchera pas que la forme, même si chacun admettra que «CSSPPCE» est un sigle difficilement compréhensible.
+Au fond, ce que nous exprimons en lui préférant l’appellation «Commission parlementaire du numérique et des postes», c’est la volonté d’acter que le numérique est partout dans notre vie, et qu’il le sera encore plus demain – c’est d’ailleurs le cœur même de ce projet de loi.
+En écrivant «postes» au pluriel, nous souhaitons aussi prendre en considération l’évolution d’un marché qui comprend désormais des opérateurs privés – par exemple DHL, UPS ou Fedex pour la distribution des colis – et de nouvelles formes de distribution à domicile, comme Amazon.
+Il s’agit en quelque sorte d’ancrer la réalité du relais humain et territorial en prolongement du commerce électronique, phénomène que devinait déjà Gérard Larcher en 1990 lorsqu’il évoquait «un monde en perpétuelle évolution où il faut faire preuve de souplesse pour s’adapter aux réalités économiques».
+Reste à trancher la question de l’introduction du qualificatif «parlementaire» dans la nouvelle appellation de la commission.
 En sortant les personnalités qualifiées tout en prévoyant l’éventuel recours, pour des travaux ponctuels, à des experts extérieurs, nous nous retrouverions avec une commission exclusivement composée de parlementaires désignés par les commissions permanentes.
 J’espère ainsi lever les interrogations, légitimes, de la rapporteure pour avis, Corinne Erhel, et de la présidente de la commission des affaires économiques.
 On reconnaîtrait ainsi la connaissance et/ou l’appétence particulière de certains parlementaires sur ces sujets, tout en étant certain que les notions de service public et d’aménagement du territoire se trouveraient au cœur de leurs préoccupations.
@@ -251,11 +251,11 @@ Je remettrai d’ailleurs très prochainement aux deux présidents le rapport d�
 La Commission parlementaire du numérique et des postes confirmera ainsi son renouveau, ainsi que sa lisibilité en interne et pour l’extérieur.
 Sa force résidera dans son caractère bicaméral et transpartisan et dans sa capacité à porter un regard attentif sur un secteur dont la colonne vertébrale est formée par le service public.
 La parole est à Madame Catherine Coutelle, présidente de la délégation de l’Assemblée nationale aux droits des femmes et à l’égalité des chances entre les hommes et les femmes.
-Sans revenir sur les missions de cette commission qui existe depuis longtemps, je regrette qu’au détour d’un projet de loi nous qualifions une nouvelle commission de « parlementaire ».
+Sans revenir sur les missions de cette commission qui existe depuis longtemps, je regrette qu’au détour d’un projet de loi nous qualifions une nouvelle commission de «parlementaire».
 Nous avons besoin de clarté dans nos institutions, et quand on va sur le site de l’Assemblée nationale, on note qu’il existe déjà deux types de commissions parlementaires : les commissions permanentes et les commissions spéciales, créées au cas par cas.
-Je trouve dommage que l’on crée une nouvelle commission dite « parlementaire », avec un périmètre variable.
+Je trouve dommage que l’on crée une nouvelle commission dite «parlementaire», avec un périmètre variable.
 Elle a raison ! Chaque texte de loi sera désormais tenté de le faire.
-Les « haut conseil » et « haut comité » sont déjà bien trop nombreux ! Je précise que cela n’enlève rien à la qualité du travail réalisé depuis 1990.
+Les «haut conseil» et «haut comité» sont déjà bien trop nombreux ! Je précise que cela n’enlève rien à la qualité du travail réalisé depuis 1990.
 Si toutefois cette commission parlementaire devait voir le jour, je proposerai un sous-amendement à l’amendement numéro 107 de Monsieur Launay.
 Vous avez souligné, monsieur Launay, que cette commission serait paritaire, puisqu’elle serait composée de sept députés et de sept sénateurs nommés par les deux assemblées.
 Mais elle ne l’est pas au sens où la délégation aux droits des femmes l’entend, puisque sur quatorze parlementaires, on ne compte actuellement que deux femmes ! Cela relève de la compétence des commissions.
@@ -263,14 +263,13 @@ Ce n’est pas à nous de dire qui elles doivent choisir ! Non, monsieur Launay 
 Madame la secrétaire d’État, nous avons suffisamment défendu l’idée que les femmes et les jeunes filles ne s’engageaient pas assez dans le secteur du numérique ! Monsieur Belot nous a dit qu’il en avait assez de ne voir, dans les colloques, que des tribunes composées d’hommes.
 Je vous demande donc d’introduire la parité dans la composition de cette commission.
 Je ne sais pas si Monsieur Launay défendra l’amendement numéro 107,… Je considère que je l’ai déjà défendu.
-…mais j’entends compléter ce dernier en précisant que le premier alinéa de l’article L.125 du code des postes et des communications électroniques est complété par une phrase ainsi rédigée : « L’écart entre le nombre de femmes et d’hommes, membres de la commission, ne peut être supérieur à un.
-» Un décret en Conseil d’État permettrait de fixer les modalités de cette disposition.
+…mais j’entends compléter ce dernier en précisant que le premier alinéa de l’article L.125 du code des postes et des communications électroniques est complété par une phrase ainsi rédigée : «L’écart entre le nombre de femmes et d’hommes, membres de la commission, ne peut être supérieur à un.» Un décret en Conseil d’État permettrait de fixer les modalités de cette disposition.
 Nous en venons aux amendements.
 La parole est à Madame Corinne Erhel, rapporteure pour avis, pour soutenir l’amendement numéro 679, tendant à supprimer l’article.
 Cet article, qui prévoit la transformation de la CSSPPCE en commission parlementaire, est issu d’un amendement qui avait reçu un avis défavorable de la commission des affaires économiques, pour deux raisons – je suis d’autant plus à l’aise pour les présenter que je suis membre de ladite structure.
 La première raison relève de la terminologie : il faut faire attention à ne pas introduire de confusion avec les commissions parlementaires, notamment la commission des affaires économiques qui est compétente dans le domaine des postes et télécommunications.
 En outre, la CSSPPCE comprend à ce jour trois personnalités qualifiées qui disposent, à mon sens, d’un droit de vote, puisqu’il est fait référence au décret de 2005.
-Si nous rebaptisons la CSSPPCE « Commission parlementaire du numérique et des postes », comme le prévoit l’article 20 quater introduit dans ce projet de loi par un amendement défendu en commission par Monsieur Tardy, il faudra transformer les personnalités qualifiées en experts auprès de la commission.
+Si nous rebaptisons la CSSPPCE «Commission parlementaire du numérique et des postes», comme le prévoit l’article 20 quater introduit dans ce projet de loi par un amendement défendu en commission par Monsieur Tardy, il faudra transformer les personnalités qualifiées en experts auprès de la commission.
 Pour cela, et pour que ces experts aient le droit de vote, il faudra modifier le décret de 2005.
 Le numérique est une question transversale ; de ce point de vue, l’intérêt de la CSSPPCE est de rassembler des parlementaires et des personnalités qualifiées extérieures.
 Je suis très attachée à cette caractéristique.
@@ -288,18 +287,18 @@ Il me semble difficile de soutenir un autre point de vue ! J’ai bien pris note
 Ce sont en effet les commissions parlementaires qui nomment les membres de l’ARCEP, puis les présidents des assemblées concernées qui valident cette nomination.
 Il est néanmoins possible d’indiquer aux commissions concernées ainsi qu’aux présidents des assemblées que l’objectif de parité s’impose dans ce secteur comme dans les autres.
 Les compétences sont réparties sur tous les bancs de cette assemblée, chez les femmes aussi bien que les hommes.
-Ensuite, concernant la future dénomination de la CSSPPCE, certains s’inquiètent des termes « commission parlementaire ».
+Ensuite, concernant la future dénomination de la CSSPPCE, certains s’inquiètent des termes «commission parlementaire».
 Je ne partage pas leur inquiétude.
-Si cette instance est renommée « commission parlementaire du numérique et des postes », personne n’ira s’imaginer qu’il s’agit d’une commission de l’une des deux chambres, puisque nous n’appelons jamais ces dernières « commission parlementaire ».
-Nous parlons en effet de la « commission des lois de l’Assemblée nationale », par exemple, ou de la « commission des affaires économiques du Sénat ».
+Si cette instance est renommée «commission parlementaire du numérique et des postes», personne n’ira s’imaginer qu’il s’agit d’une commission de l’une des deux chambres, puisque nous n’appelons jamais ces dernières «commission parlementaire».
+Nous parlons en effet de la «commission des lois de l’Assemblée nationale», par exemple, ou de la «commission des affaires économiques du Sénat».
 Je ne pense donc pas qu’il puisse y avoir de confusion.
 Peut-être pourrions-nous laisser au Sénat le soin de mener la réflexion en la matière.
 J’évoquerai néanmoins une piste qui mérite d’être explorée.
 L’OPECST – Office parlementaire d’évaluation des choix scientifiques et techniques – est un organe interparlementaire qui fonctionne particulièrement bien.
-Sur ce modèle, nous pourrions retenir le nom générique « office » et ainsi – je souffle cette idée aux sénateurs – appeler cet organisme « Office parlementaire du numérique et des postes ».
+Sur ce modèle, nous pourrions retenir le nom générique «office» et ainsi – je souffle cette idée aux sénateurs – appeler cet organisme «Office parlementaire du numérique et des postes».
 C’est une bonne idée ! Cela permettrait de satisfaire les partisans d’un nom plus simple – objectif sur lequel le président de la CSSPPCE, Jean Launay, a raison d’insister.
-Par parenthèse, sur le plan juridique, l’ordonnance du 17 novembre 1958 nous autorise tout à fait à appeler cet organisme « commission » si nous le souhaitons, puisqu’il comprend des députés et des sénateurs.
-Je consulte du regard mes collègues pour savoir s’ils souhaiteraient choisir l’appellation d’« office » dès maintenant, auquel cas je proposerais un sous-amendement à l’amendement numéro 107 de Monsieur Launay pour transformer la CSSPPCE en « Office parlementaire du numérique et des postes ».
+Par parenthèse, sur le plan juridique, l’ordonnance du 17 novembre 1958 nous autorise tout à fait à appeler cet organisme «commission» si nous le souhaitons, puisqu’il comprend des députés et des sénateurs.
+Je consulte du regard mes collègues pour savoir s’ils souhaiteraient choisir l’appellation d’«office» dès maintenant, auquel cas je proposerais un sous-amendement à l’amendement numéro 107 de Monsieur Launay pour transformer la CSSPPCE en «Office parlementaire du numérique et des postes».
 (Applaudissements sur plusieurs bancs du groupe socialiste, républicain et citoyen.) Quel est l’avis du Gouvernement ? Il est délicat, pour moi, de me prononcer sur une question qui relève de l’organisation interne du Parlement.
 Je me bornerai à indiquer que je suis frappée par les chiffres donnés par Madame Coutelle, qui témoignent à quel point cette structure est éloignée de la parité.
 Il y a 27 % de femmes à l’Assemblée nationale, alors que dans cette commission, il n’y en a que 17 %.
@@ -312,8 +311,7 @@ En effet, le numérique est une question transversale, qui concerne tous les tex
 Les députés impliqués sur ces sujets sont souvent ceux qui présentent le plus d’amendements, mais ils ne peuvent même pas les voter car ils n’appartiennent pas à la commission considérée : nous l’avons encore vu cette semaine en commission des lois.
 C’est donc une bonne solution qui nous est proposée là.
 J’en profite pour défendre d’ores et déjà l’amendement numéro 478, qui vise à répondre à l’une des préoccupations exprimées par Corinne Erhel.
-Conformément aux débats qui ont eu lieu en commission, afin d’accompagner ce changement de nom, il convient en effet que les personnalités qualifiées deviennent des « experts auprès de la commission.
-» La parole est à Madame la rapporteure pour avis.
+Conformément aux débats qui ont eu lieu en commission, afin d’accompagner ce changement de nom, il convient en effet que les personnalités qualifiées deviennent des «experts auprès de la commission.» La parole est à Madame la rapporteure pour avis.
 Compte tenu des éléments de ce débat, et conformément à ce que j’ai dit tout à l’heure, je retire l’amendement numéro 679.
 Je suis saisi de deux amendements identiques, numéros 107 et 478.
 L’amendement numéro 107 fait l’objet d’un sous-amendement numéro 896.
@@ -327,7 +325,7 @@ La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 478
 Il est défendu.
 Si j’ai bien compris, la commission est favorable à l’amendement numéro 107 sous-amendé ? Tout à fait ! Quant au Gouvernement, s’agissant d’une affaire interne au Parlement, il ne se prononce pas ? C’est cela ! La parole est à Monsieur Jean Launay.
 Si nous adoptons ces amendements identiques, alors nous choisirons le terme commission.
-Il me semble préférable de retirer l’amendement numéro 107 pour que le Sénat puisse retenir l’appellation « Office ».
+Il me semble préférable de retirer l’amendement numéro 107 pour que le Sénat puisse retenir l’appellation «Office».
 C’est tout à fait conforme à l’esprit de mon intervention en discussion générale.
 Je comprends l’intervention de Catherine Coutelle : elle est bien dans son rôle.
 Je précise tout de même que la proportion de femmes est meilleure parmi les membres de la CSSPPE issus de l’Assemblée que parmi ceux issus du Sénat : il y en a deux parmi les premiers, aucun parmi les seconds.
@@ -385,7 +383,7 @@ Je ne souhaite pas voir cette protection étendue à ceux qui sont allés beauco
 Par ailleurs, je partage l’avis du président de la commission des lois : l’exemption de poursuites poserait un vrai problème ; aussi n’y a-t-il pas lieu de l’introduire dans notre droit.
 Quel est l’avis du Gouvernement ? Les lanceurs d’alerte et les failles de sécurité sont un sujet d’importance, qui fut soulevé lors des débats en commission.
 Je m’étais alors engagée à vous faire part, en séance, de la position précise du Gouvernement.
-Il arrive que des personnes expertes en numérique ou en informatique, parfois appelées « pirates » ou « hackers », identifient des failles de sécurité ou des documents mal sécurisés : par crainte de sanctions pénales, elles ne le font pas toujours savoir aux entreprises ou administrations concernées.
+Il arrive que des personnes expertes en numérique ou en informatique, parfois appelées «pirates» ou «hackers », identifient des failles de sécurité ou des documents mal sécurisés : par crainte de sanctions pénales, elles ne le font pas toujours savoir aux entreprises ou administrations concernées.
 Le droit pénal offre déjà des garanties, puisqu’il est nécessaire de démontrer l’intentionnalité de la faute.
 Lorsque l’entité concernée n’a pas sécurisé certains documents, il arrive cependant que ce ceux-ci soient accessibles directement via le moteur de recherche.
 Les dispositions du droit pénal peuvent alors s’appliquer contre celui qui a signalé la faille, et non contre celui qui a mal sécurisé le système.
@@ -399,7 +397,7 @@ Il n’est aucunement question d’introduire une exemption pénale qui permettr
 Il convient cependant de garantir l’immunité pénale des lanceurs d’alerte dont l’action a permis l’amélioration globale de la sécurité.
 L’ANSSI y est favorable, de même que le secrétariat général de la défense et de la sécurité nationale, et les Pays-Bas ont introduit dans leur droit une disposition similaire.
 Aussi le Gouvernement émet-il un avis de sagesse bienveillante sur l’amendement.
-(« Très bien ! » sur plusieurs bancs du groupe socialiste, républicain et citoyen.) La parole est à Monsieur Christian Paul.
+(«Très bien !» sur plusieurs bancs du groupe socialiste, républicain et citoyen.) La parole est à Monsieur Christian Paul.
 J’ignorais quelle serait la conclusion de Madame la secrétaire d’État, et je m’en trouve heureusement surpris, d’autant que le journaliste Olivier Laurelli avait mené un véritable travail d’investigation.
 Face à ce qui constitue un point aveugle de notre droit, je soutiens donc pleinement l’amendement de Monsieur Coronado.
 Qu’il faille mieux sécuriser les systèmes informatiques publics, c’est très probable, et c’est la mission des autorités compétentes : l’important, pour nous, est de fixer un cadre légal pour des situations qui relèvent du droit de nos concitoyens à savoir.
@@ -427,25 +425,24 @@ Le présent amendement a pour but de protéger les lanceurs d’alerte lorsqu’
 Il s’agit donc de combler un vide juridique pour ces lanceurs d’alerte.
 Certaines personnes, en effet, hésitent à signaler des failles de sécurité car elles ignorent si elles s’exposent à des condamnations – même si, dans les faits, elles n’eussent pas été condamnées.
 L’amendement s’inspire également d’une jurisprudence.
-Quel est l’avis de la commission ? Avec l’amendement numéro 651 rectifié, Madame Kosciusko-Morizet n’y va pas de main morte, si j’ose dire, puisqu’elle propose que « toute personne qui a tenté de commettre ou commis ce délit [soit] exemptée de poursuites ».
+Quel est l’avis de la commission ? Avec l’amendement numéro 651 rectifié, Madame Kosciusko-Morizet n’y va pas de main morte, si j’ose dire, puisqu’elle propose que «toute personne qui a tenté de commettre ou commis ce délit [soit] exemptée de poursuites».
 Le procureur peut d’ores et déjà décider de ne pas engager de poursuites : le droit actuel me semble donc suffire.
-S’agissant de l’amendement numéro 271 rectifié, autant je puis souscrire à son amorce – « Toute personne qui a tenté de commettre » –, autant les mots suivants – « ou commis » – ne peuvent pas convenir.
+S’agissant de l’amendement numéro 271 rectifié, autant je puis souscrire à son amorce – «Toute personne qui a tenté de commettre» –, autant les mots suivants – «ou commis» – ne peuvent pas convenir.
 Sous réserve de la suppression de ces mots, l’avis est favorable ; dans le cas contraire, il est défavorable.
 Et sur l’amendement numéro 496, monsieur le rapporteur ? L’avis étant favorable à l’amendement de Madame Chapdelaine – sous réserve de la rectification proposée –, je suggère le retrait des deux autres amendements en discussion ; faute de quoi l’avis serait défavorable.
-Quel est l’avis du Gouvernement ? Avec la rectification suggérée par le rapporteur, le début de l’amendement de Madame Chapdelaine serait ainsi rédigé : « Toute personne qui a tenté de commettre le délit prévu au présent article […].
-» Je m’en remets à la sagesse de l’Assemblée, même si cette nouvelle rédaction me paraît bonne.
+Quel est l’avis du Gouvernement ? Avec la rectification suggérée par le rapporteur, le début de l’amendement de Madame Chapdelaine serait ainsi rédigé : «Toute personne qui a tenté de commettre le délit prévu au présent article […].» Je m’en remets à la sagesse de l’Assemblée, même si cette nouvelle rédaction me paraît bonne.
 La parole est à Madame Nathalie Kosciusko-Morizet.
 Comme on l’a rappelé, nous avons eu, en commission des lois, un débat à la suite duquel j’ai modifié la rédaction de mon amendement initial.
-C’est après vous avoir écouté lors de ce débat, monsieur le rapporteur, que j’ai introduit les mots : « exemptée de poursuites », des juristes m’ayant signalé que cette expression était plus solide juridiquement que l’expression : « exemptée de peine ».
+C’est après vous avoir écouté lors de ce débat, monsieur le rapporteur, que j’ai introduit les mots : «exemptée de poursuites», des juristes m’ayant signalé que cette expression était plus solide juridiquement que l’expression : «exemptée de peine».
 La rédaction que je propose me paraît donc être la bonne au regard du code pénal.
 Je la maintiens donc, comme je maintiens que ce point doit être précisé dans la loi : on ne peut s’en remettre seulement à une jurisprudence – d’ailleurs mouvante – ou à des assurances orales, quelle que soit la qualité des personnes qui les donnent.
 La parole est à Monsieur Sergio Coronado.
-À l’instar de Madame Kosciusko-Morizet, nous avons revu la rédaction de notre amendement suite à l’intervention du rapporteur en commission ; et sur le point dont nous parlons, après consultation et réflexion, nous avons opté non pas pour la formulation retenue par Madame Chapdelaine et ses collègues, mais pour une formulation similaire à celle de Madame Kosciusko-Morizet : « Ne peut donner lieu à des poursuites pénales, le délit prévu au premier alinéa […] ».
-Nous avons donc, sur ce point, un désaccord avec le rapporteur : notre rédaction nous paraît meilleure et plus sûre, et elle élargit le champ de l’alerte à d’autres instances, à savoir « l’autorité administrative ou judiciaire, la Commission nationale de l’informatique et des libertés ou le responsable du système de traitement automatisé de données ».
+À l’instar de Madame Kosciusko-Morizet, nous avons revu la rédaction de notre amendement suite à l’intervention du rapporteur en commission ; et sur le point dont nous parlons, après consultation et réflexion, nous avons opté non pas pour la formulation retenue par Madame Chapdelaine et ses collègues, mais pour une formulation similaire à celle de Madame Kosciusko-Morizet : «Ne peut donner lieu à des poursuites pénales, le délit prévu au premier alinéa […]».
+Nous avons donc, sur ce point, un désaccord avec le rapporteur : notre rédaction nous paraît meilleure et plus sûre, et elle élargit le champ de l’alerte à d’autres instances, à savoir «l’autorité administrative ou judiciaire, la Commission nationale de l’informatique et des libertés ou le responsable du système de traitement automatisé de données».
 La parole est à Madame Marie-Anne Chapdelaine.
 Nous comprenons bien qu’il puisse y avoir un problème juridique, mais il s’agit là de poser le principe, sachant qu’il y aura sans doute une deuxième lecture.
 Je maintiens donc l’amendement numéro 271 rectifié.
-Avant d’en venir aux votes, êtes-vous favorable, madame Chapdelaine, à la rectification de votre amendement proposée par Monsieur le rapporteur, qui consisterait à supprimer les mots : « ou commis » ? Je vois que Monsieur Le Bouillonnec ne dit rien ! Je préfère ne pas assister à cela ! (Sourires.) C’est bien ce qui me semblait ! Nous sommes assez loin du code de procédure pénale ! En effet ! Je regrette que le Sénat ait à nous censurer sur des erreurs aussi élémentaires ! Je préfère que nous en restions à la rédaction de l’amendement numéro 271 rectifié sans la modification proposée par le rapporteur.
+Avant d’en venir aux votes, êtes-vous favorable, madame Chapdelaine, à la rectification de votre amendement proposée par Monsieur le rapporteur, qui consisterait à supprimer les mots : «ou commis» ? Je vois que Monsieur Le Bouillonnec ne dit rien ! Je préfère ne pas assister à cela ! (Sourires.) C’est bien ce qui me semblait ! Nous sommes assez loin du code de procédure pénale ! En effet ! Je regrette que le Sénat ait à nous censurer sur des erreurs aussi élémentaires ! Je préfère que nous en restions à la rédaction de l’amendement numéro 271 rectifié sans la modification proposée par le rapporteur.
 Comme vous l’avez dit, le Sénat, dans sa grande sagesse, fera ensuite ce qu’il faut.
 C’est une erreur ! Nous votons la loi, tout de même ! Nous ne voterons donc pas cet amendement.
 La parole est à Madame Laure de La Raudière, pour un rappel au règlement.
@@ -472,8 +469,7 @@ On s’aperçoit en effet que celui-ci n’est plus tenable, et que, encore une 
 Comme je l’ai dit en défendant la motion de renvoi en commission, raisonner indépendamment du niveau européen est contre-productif.
 Quel intérêt y-a-t-il à procéder de la sorte, à part celui de pénaliser les acteurs français ou de modifier la réglementation dans quelques mois ? Très honnêtement, comme je l’ai dit hier et comme je le répète aujourd’hui, je ne vois pas.
 Les derniers avis des autorités administratives indépendantes, notamment de l’ARCEP ou du Conseil d’État, sont clairs sur ce point.
-J’appelle votre attention sur une résolution adoptée par la commission des affaires européennes et qui rappelle « la nécessité d’une articulation cohérente entre les calendriers d’examen des projets de loi nationaux et ceux des textes européens.
-» En l’espèce, certaines dispositions du projet de loi pour une République numérique relatives à la protection des données personnelles sont susceptibles d’être modifiées prochainement, compte tenu du calendrier d’adoption de la proposition de règlement européen.
+J’appelle votre attention sur une résolution adoptée par la commission des affaires européennes et qui rappelle «la nécessité d’une articulation cohérente entre les calendriers d’examen des projets de loi nationaux et ceux des textes européens.» En l’espèce, certaines dispositions du projet de loi pour une République numérique relatives à la protection des données personnelles sont susceptibles d’être modifiées prochainement, compte tenu du calendrier d’adoption de la proposition de règlement européen.
 Cela a été dit en commission des affaires européennes : comme quoi, tout le monde s’y perd ! Et les premiers à s’y perdre seront, encore une fois, les acteurs de l’écosystème français.
 Si chaque pays commence à mettre en place sa propre réglementation, autant donner tout de suite à nos entreprises numériques un visa pour les États-Unis, surtout lorsque la réglementation que l’on s’apprête à mettre en place est plus rapide et plus sévère que celle envisagée au niveau européen.
 Pour toutes ces raisons, il faut donc, mes chers collègues, supprimer l’article 21 comme les suivants.
@@ -493,7 +489,7 @@ Lorsqu’on veut réellement parler de protection et de libre disposition des do
 Je suis donc défavorable à la suppression de l’article 21.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 782.
-Le projet de loi prévoit la portabilité des données « en toutes circonstances ».
+Le projet de loi prévoit la portabilité des données « en toutes circonstances».
 Ces termes ambigus n’apportent rien et sont en contradiction avec les limitations techniques qui peuvent exister : l’amendement vise donc, tout bonnement, à les supprimer.
 La parole est à Madame Laure de La Raudière, pour soutenir l’amendement numéro 720.
 Il est défendu.
@@ -516,12 +512,12 @@ Il nous faut être particulièrement vigilants en la matière.
 Le fait que nous ayons examiné de nombreuses rédactions, comme la manière dont nous avons réfléchi à la façon de rédiger, in fine, cet article 21 – notamment, comme nous le verrons tout à l’heure, ses alinéas 14 à 16 – doivent nous conduire à la plus grande prudence.
 L’amendement numéro 704 que je vous propose est bien plus précis que le mot licite que nous avions envisagé dans un premier temps.
 Il concerne en outre bien les données qui intéressent le consommateur, tout en protégeant réellement la capacité et les algorithmes des différents opérateurs.
-Cet amendement fait l’objet d’un sous-amendement numéro 873 du Gouvernement visant à le compléter par l’alinéa suivant : « Des autres données associées au compte utilisateur du consommateur, dont la récupération est pertinente pour le changement de fournisseur dans un secteur économique ou industriel.
+Cet amendement fait l’objet d’un sous-amendement numéro 873 du Gouvernement visant à le compléter par l’alinéa suivant : «Des autres données associées au compte utilisateur du consommateur, dont la récupération est pertinente pour le changement de fournisseur dans un secteur économique ou industriel.
 Les données nécessaires sont précisées par voie réglementaire.
 » Je suis favorable à ce sous-amendement.
-Je précise en effet de manière extrêmement claire, dès le début de l’amendement numéro 704, que les obligations s’imposant aux fournisseurs de services de communication en ligne en matière de récupération des données s’exercent « Sans préjudice des dispositions protégeant le secret en matière commerciale et industrielle et des droits de propriété intellectuelle ».
+Je précise en effet de manière extrêmement claire, dès le début de l’amendement numéro 704, que les obligations s’imposant aux fournisseurs de services de communication en ligne en matière de récupération des données s’exercent «Sans préjudice des dispositions protégeant le secret en matière commerciale et industrielle et des droits de propriété intellectuelle».
 C’est de nature, je crois, à rassurer tout le monde.
-Le 2° de ce même amendement précise que les fonctionnalités que doivent offrir les fournisseurs portent également sur « toutes les données résultant de l’utilisation du compte utilisateur du consommateur et consultables en ligne par celui-ci …».
+Le 2° de ce même amendement précise que les fonctionnalités que doivent offrir les fournisseurs portent également sur «toutes les données résultant de l’utilisation du compte utilisateur du consommateur et consultables en ligne par celui-ci …».
 Avec l’amendement numéro 704 et le sous-amendement numéro 873, on a, je crois, un juste équilibre entre la portabilité, la garantie des données personnelles, la capacité de récupérer des données stockées autour d’un logiciel applicatif qui restent pour partie des données personnelles et la protection réelle du secret en matière industrielle et commerciale.
 Je vous appelle donc à voter l’amendement numéro 704 sous-amendé par le Gouvernement.
 La parole est à Madame la secrétaire d’État, pour soutenir le sous-amendement numéro 873 et donner l’avis du Gouvernement sur l’amendement numéro 704.
@@ -664,7 +660,7 @@ Je l’ai déjà signalé tout à l’heure : nous aurons l’air malins quand i
 À défaut de suppression, l’amendement propose une clause de revoyure, après adoption du règlement européen, ainsi qu’une date d’entrée en vigueur après cette révision, puisque ce règlement laissera une période d’adaptation de deux ans.
 Le risque auquel nous expose le texte, c’est de contraindre les acteurs français à aller plus vite que leurs voisins européens, ce qui n’a pas d’autre intérêt que de leur mettre un boulet au pied.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 783 portant article additionnel avant l’article 22.
-L’amendement propose de compléter le titre de la section 3 par les mots « et l’information des consommateurs », conformément à une suggestion que m’a faite le rapporteur en commission.
+L’amendement propose de compléter le titre de la section 3 par les mots «et l’information des consommateurs», conformément à une suggestion que m’a faite le rapporteur en commission.
 Je suis saisi de deux amendements identiques, numéros 16 et 650, visant à supprimer l’article.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 16.
 Comme l’article 21, l’article 22 anticipe une future réglementation européenne.
@@ -711,7 +707,7 @@ Je regrette une nouvelle fois que le texte n’ait pas été suffisamment prépa
 Mieux vaudrait renvoyer le projet de loi en commission, comme je l’ai suggéré en défendant une motion de procédure.
 La parole est à Monsieur Patrice Martin-Lalande, pour soutenir l’amendement numéro 482 rectifié.
 Cet amendement a pour objet de préciser que les informations à délivrer au consommateur concernent l’ensemble de celles qui sont décrites au huitième alinéa, et non pas seulement les informations mentionnées dans la deuxième phrase de cet alinéa.
-Pour ce faire, dans la dernière phrase du huitième alinéa, il substitue aux mots « à ce titre », les mots « au titre du présent alinéa ».
+Pour ce faire, dans la dernière phrase du huitième alinéa, il substitue aux mots «à ce titre», les mots «au titre du présent alinéa».
 Quel est l’avis de la commission ? Je ne peux pas accepter votre amendement pour plusieurs raisons.
 D’abord, vous supprimez la définition de l’opérateur de plateforme en ligne, prévue à l’alinéa 5, ce qui pose évidemment un problème.
 Ensuite, vous revenez au texte du projet de loi initial pour déterminer le contenu de l’obligation de loyauté, alors que nous l’avons précisée en commission et que le Gouvernement a déposé un amendement de synthèse – l’amendement numéro 881 –, qui détermine dans quel cas l’opérateur devra indiquer au moyen d’un pictogramme et préciser dans ses conditions générales d’utilisation les conséquences d’un lien contractuel ou capitalistique avec la personne morale référencée ou d’une rémunération versée par celle-ci.
@@ -723,7 +719,7 @@ La distinction entre sites marchands et non marchands me semble délicate à op�
 Appliquer des obligations identiques à toutes les plateformes semble de surcroît dangereux pour celles d’entre elles qui ne font que mettre en relation des particuliers.
 Ce besoin de réguler des entreprises qui fonctionnent, comme BlaBlaCar ou d’autres sites nés en France, est symptomatique d’une certaine vision du numérique.
 Si l’internaute n’est pas satisfait ou estime qu’il est mal informé, il est assez grand pour aller voir ailleurs.
-Je maintiens donc ma demande de ne pas appliquer ces obligations aux sites dits de « partage », qui font la force d’internet, et dont la régulation, en dehors du droit souple, ne répond à aucune demande mais révèle un manque de confiance dans les acteurs du numérique.
+Je maintiens donc ma demande de ne pas appliquer ces obligations aux sites dits de «partage», qui font la force d’internet, et dont la régulation, en dehors du droit souple, ne répond à aucune demande mais révèle un manque de confiance dans les acteurs du numérique.
 Je suis saisi de deux amendements, numéros 881 et 849, pouvant être soumis à une discussion commune.
 L’amendement numéro 881 fait l’objet de plusieurs sous-amendements, numéros 897, 892 et 893.
 La parole est à Madame la secrétaire d’État, pour soutenir l’amendement numéro 881.
@@ -737,10 +733,10 @@ Je ne parle pas d’un manque de confiance du Gouvernement envers les opérateur
 Il convient donc de la restaurer.
 La parole est à Madame Karine Berger, pour soutenir le sous-amendement numéro 897.
 J’ai déposé ce sous-amendement avant de constater que nos collègues du groupe écologiste en avaient déposé un autre comportant un objet identique.
-Il s’agit de préciser que les rémunérations visées dans l’amendement du Gouvernement sont à la fois directes et indirectes, en supprimant, à l’alinéa 5, le mot « directe ».
+Il s’agit de préciser que les rémunérations visées dans l’amendement du Gouvernement sont à la fois directes et indirectes, en supprimant, à l’alinéa 5, le mot «directe».
 En effet, madame la secrétaire d’État, dans le cas d’une publicité, le contrat est conclu avec la régie publicitaire, qui perçoit une rémunération, et non avec la personne qui fait l’objet de la publicité.
-Il y a là un vrai problème : en conservant, à l’alinéa 5 de l’amendement, l’expression « rémunération directe », toutes les formes d’intermédiation échapperaient aux obligations fixées.
-Il me semble que nous avons intérêt à conserver une vision large de la rémunération et à supprimer, dans votre amendement – qui opère par ailleurs une grande synthèse – le mot « directe ».
+Il y a là un vrai problème : en conservant, à l’alinéa 5 de l’amendement, l’expression «rémunération directe», toutes les formes d’intermédiation échapperaient aux obligations fixées.
+Il me semble que nous avons intérêt à conserver une vision large de la rémunération et à supprimer, dans votre amendement – qui opère par ailleurs une grande synthèse – le mot «directe».
 La parole est à Madame Isabelle Attard, pour soutenir les sous-amendements numéros 892 et 893, qui peuvent faire l’objet d’une présentation groupée.
 Nous avons été alertés par UFC-Que Choisir sur le fait que le signalement des rémunérations indirectes, par exemple via une régie publicitaire, était exclu.
 Le sous-amendement numéro 892 vise à corriger cet état de fait.
@@ -751,27 +747,26 @@ Je le retire au bénéfice de la proposition de synthèse du Gouvernement.
 Quel est l’avis de la commission sur cet amendement et ces sous-amendements ? Comme vous le savez, il nous a fallu un certain temps pour parvenir à une rédaction satisfaisante, tant pour définir les plateformes que le principe de loyauté, et les notions qui leur étaient attachées.
 Là résidait l’intérêt de distinguer cette catégorie juridique.
 Vous imaginez sans peine que, dans le cadre de ce long travail rédactionnel et des nombreux allers-retours que l’on a empruntés, on a souhaité retenir la rédaction la plus efficace.
-De fait, chaque mot est pesé, et j’ai fait ajouter, à dessein, le mot « directe », pour exclure le cas de la rémunération indirecte.
+De fait, chaque mot est pesé, et j’ai fait ajouter, à dessein, le mot «directe», pour exclure le cas de la rémunération indirecte.
 L’enjeu est simple : il faut permettre à l’utilisateur de comprendre effectivement les liens unissant les différents acteurs.
 Les relations indirectes, qu’elles concernent des personnes physiques ou des entreprises, qu’elles soient contractuelles, qu’elles portent sur des prestations ou des services, peuvent être extrêmement solides.
 L’enjeu n’est pas tant de connaître la nature des relations existantes que leur implication dans le classement produit.
-Je souhaite donc, madame Attard, que l’on s’en tienne au mot « directe » et que l’on n’ajoute pas les termes « ou indirecte » ; en effet, si l’on suivait votre proposition, on ne permettrait pas aux utilisateurs d’acquérir une bonne compréhension de la situation.
-Madame Berger, vous souhaitez, par votre amendement numéro 849, que l’opérateur de la plateforme fasse « apparaître clairement » les informations demandées.
+Je souhaite donc, madame Attard, que l’on s’en tienne au mot «directe» et que l’on n’ajoute pas les termes «ou indirecte» ; en effet, si l’on suivait votre proposition, on ne permettrait pas aux utilisateurs d’acquérir une bonne compréhension de la situation.
+Madame Berger, vous souhaitez, par votre amendement numéro 849, que l’opérateur de la plateforme fasse «apparaître clairement» les informations demandées.
 Votre préoccupation est partagée par Madame Attard.
 Or, je rappelle que les conditions générales d’utilisation sont toujours consultables en ligne.
 Je pense que la précision n’est, en l’occurrence, pas utile.
 Je vous demande donc de retirer votre amendement et votre sous-amendement.
 La rédaction à laquelle nous sommes parvenus me paraît en effet équilibrée et de qualité ; elle permettra vraiment de fournir l’ensemble des garanties souhaitables.
 La parole est à Madame Corinne Erhel, rapporteure pour avis.
-Je souhaiterais voir substituer, au troisième alinéa de l’amendement, au mot « dispositions » le mot « stipulations », terme adéquat s’agissant d’un contrat, afin de permettre une bonne applicabilité juridique de cette mesure.
+Je souhaiterais voir substituer, au troisième alinéa de l’amendement, au mot «dispositions» le mot «stipulations», terme adéquat s’agissant d’un contrat, afin de permettre une bonne applicabilité juridique de cette mesure.
 La parole est à Monsieur le rapporteur.
 J’y suis favorable.
 Quel est l’avis du Gouvernement sur ces sous-amendements ? Avis défavorable à l’ensemble des sous-amendements, au profit de l’amendement numéro 881, et avis favorable à la rectification proposée par Madame Erhel.
 La parole est à Madame Karine Berger, pour soutenir l’amendement numéro 852.
 Cet amendement porte sur une thématique qui me tient particulièrement à cœur, comme à tous les députés cosignataires.
 Il s’agit de permettre un maximum de pédagogie sur la question de la propriété intellectuelle sur internet.
-L’objet de l’amendement est circonscrit : il vise simplement à ce que « l’opérateur rappelle au consommateur les principes de protection des droits visés au code de la propriété intellectuelle et les régimes de responsabilité, selon des modalités et une périodicité déterminées par décret.
-» Je rappelle à mes collègues que les livres papier mentionnent, sur l’une de leurs premières pages, les droits de propriété intellectuelle qui leur sont associés, tandis que, sur un certain nombre de plateformes sur internet, aucune information n’est communiquée aux consommateurs sur le fait que certains contenus en ligne font peut-être l’objet d’une protection par le droit de la propriété intellectuelle.
+L’objet de l’amendement est circonscrit : il vise simplement à ce que «l’opérateur rappelle au consommateur les principes de protection des droits visés au code de la propriété intellectuelle et les régimes de responsabilité, selon des modalités et une périodicité déterminées par décret.» Je rappelle à mes collègues que les livres papier mentionnent, sur l’une de leurs premières pages, les droits de propriété intellectuelle qui leur sont associés, tandis que, sur un certain nombre de plateformes sur internet, aucune information n’est communiquée aux consommateurs sur le fait que certains contenus en ligne font peut-être l’objet d’une protection par le droit de la propriété intellectuelle.
 Il s’agit de faire œuvre de pédagogie sur internet et de rappeler qu’un certain nombre de contenus peuvent aussi être protégés, notamment par les droits d’auteur.
 Quel est l’avis de la commission ? Défavorable.
 Si, sur le fond, on ne peut évidemment que souscrire à l’objet de votre amendement, il me paraît compliqué d’imposer la mention de l’ensemble des règles existantes ; de fait, si vous imposez celle-ci, il faudra certainement en faire figurer bien d’autres.
@@ -784,12 +779,12 @@ Je vous demande donc de retirer cet amendement.
 Quel est l’avis du Gouvernement ? Même avis.
 Madame Berger, la question que vous soulevez est importante.
 Votre amendement a pour objet de rappeler cette obligation aux plateformes mais pourquoi, alors, ne pas rappeler toutes les autres obligations – je pense par exemple à la diffusion de contenus à caractère pédopornographique, à la lutte contre les messages d’apologie de crimes et de violences ou à la prévention contre ces mêmes contenus ? L’approche du Gouvernement consiste à favoriser un engagement volontaire négocié.
-Je vous livre un exemple : pour lutter contre la diffusion de la contrefaçon sur internet, qui concerne directement le sujet que vous avez soulevé, le Comité national anti-contrefaçon, le CNAC, travaille avec certains acteurs – notamment les régies de publicité sur internet, mais aussi les opérateurs de paiement en ligne – en suivant l’approche dite du « follow the money ».
+Je vous livre un exemple : pour lutter contre la diffusion de la contrefaçon sur internet, qui concerne directement le sujet que vous avez soulevé, le Comité national anti-contrefaçon, le CNAC, travaille avec certains acteurs – notamment les régies de publicité sur internet, mais aussi les opérateurs de paiement en ligne – en suivant l’approche dite du «follow the money ».
 Il s’agit d’une approche coopérative qui semble la plus à même d’aboutir à des résultats très concrets.
 L’objectif partagé est de lutter contre l’utilisation illicite de produits culturels couverts par la propriété intellectuelle.
 La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro 368.
 Actuellement, le deuxième alinéa de l’article L.
-111-5-1 du code de la consommation prévoit que l’obligation de délivrer une information loyale, claire et transparente sur la qualité de l’annonceur ne vaut que « lorsque seuls des consommateurs ou des non-professionnels sont mis en relation ».
+111-5-1 du code de la consommation prévoit que l’obligation de délivrer une information loyale, claire et transparente sur la qualité de l’annonceur ne vaut que «lorsque seuls des consommateurs ou des non-professionnels sont mis en relation».
 Il s’agit par cet amendement de généraliser cette obligation à l’ensemble des opérateurs de plateforme en supprimant cette dernière mention.
 En effet, la plupart des plateformes sont mixtes ; la distinction est donc délicate à établir.
 En outre, les droits de l’acheteur sont différents selon qu’il est en relation avec un particulier ou avec un professionnel.
@@ -812,10 +807,9 @@ La parole est à Madame Brigitte Bourguignon, inscrite sur l’article.
 Je salue l’avancée sur le plan éthique que constitue l’amendement, défendu notamment par Monsieur Émeric Brehier, relatif à la responsabilité des opérateurs en ligne.
 Pour autant, il ne s’agit que d’une étape dans cette lutte qu’il nous faut mener tous ensemble contre les contenus illicites, que des réseaux sociaux très populaires laissent véhiculer aujourd’hui.
 Pour en avoir discuté avec un responsable de Facebook France, les standards de ces réseaux me laissent perplexe.
-Ainsi, le terme « migrant », trop générique, n’appelle aucune alerte.
-Élue d’une circonscription située à 15 kilomètres de Calais, j’ai pu lire cette nuit encore un commentaire au sujet d’un jeune migrant de 16 ans, fauché sur l’autoroute : « Il l’a bien cherché.
-Ce sont des rats.
-» Pas de signalement possible, pas de pseudonyme, pas de mot-clé, pas de modération – pas de responsabilité ! Un mouvement citoyen est né, qui essaie, sans grand succès, de promouvoir la tolérance sur ces réseaux sociaux.
+Ainsi, le terme «migrant», trop générique, n’appelle aucune alerte.
+Élue d’une circonscription située à 15 kilomètres de Calais, j’ai pu lire cette nuit encore un commentaire au sujet d’un jeune migrant de 16 ans, fauché sur l’autoroute : «Il l’a bien cherché.
+Ce sont des rats.» Pas de signalement possible, pas de pseudonyme, pas de mot-clé, pas de modération – pas de responsabilité ! Un mouvement citoyen est né, qui essaie, sans grand succès, de promouvoir la tolérance sur ces réseaux sociaux.
 Un journal calaisien s’est emparé du sujet, tentant de procéder à des dénonciations, à l’instar de ce qui se fait en Allemagne, en levant l’anonymat de ces courageux sectaires qui mettent en ligne sans vergogne de tels commentaires.
 Nous appelons à plus de responsabilité.
 C’est une première étape, c’est vrai.
@@ -942,7 +936,7 @@ Or, vous suggérez que le label soit octroyé par ces ordres.
 D’ailleurs, est-ce bien leur rôle ? Surtout, les obligations déontologiques qui s’imposent aux personnels continuent de s’appliquer aux prestations délivrées dans le cadre de ces plateformes.
 Le problème est davantage celui de l’applicabilité effective du droit.
 Vous savez d’ailleurs, comme moi, que plusieurs contentieux sont en cours.
-Au final, à quoi tient l’attractivité d’une plateforme qui offre de nouveaux services ? À sa facilité d’utilisation, à son ergonomie, à ce que l’on nomme « l’expérience utilisateur ».
+Au final, à quoi tient l’attractivité d’une plateforme qui offre de nouveaux services ? À sa facilité d’utilisation, à son ergonomie, à ce que l’on nomme «l’expérience utilisateur».
 À terme, un rapprochement s’opérera très certainement, sans remettre en cause les règles déontologiques, en direction de ces objectifs, sous le contrôle des institutions ordinales.
 Plus globalement, la mission confiée à Pascal Terrasse sur l’économie collaborative traite aussi de ce sujet.
 Il devrait rendre son rapport d’ici quelques jours.
@@ -958,7 +952,7 @@ On éviterait ainsi un phénomène bien réel, celui de la sous-location en tout
 Quel est l’avis de la commission ? Ce débat sur la location de logements par le biais d’opérateurs de plateforme est récurrent.
 Il comporte de nombreux aspects : fiscalisation, déclaration, autorisation, loyer… La question plus globale qu’il convient de trancher dans le projet de loi pour une République numérique est de savoir s’il appartient aux plateformes de communiquer sur ce qui est licite ou illicite de la part de leurs utilisateurs.
 Ce sujet bien plus vaste touche à l’ensemble de l’économie collaborative, à la réalité de ce que sont les plateformes et des informations qu’elles peuvent avoir ou non.
-Il y a là un enjeu de fluidité, d’« agilité », comme on dit dans le monde du numérique.
+Il y a là un enjeu de fluidité, d’«agilité», comme on dit dans le monde du numérique.
 Bien entendu, je tiens à ce que l’on évite des dérives comme celles que vous connaissez bien à Paris, madame Mazetier.
 Je souhaite moi aussi qu’il y soit mis fin, qu’il s’agisse de la durée maximale de quatre mois laissée aux particuliers pour louer de façon occasionnelle leur résidence principale ou des immeubles entiers que certaines personnes achètent pour les transformer en quasi-résidences hôtelières.
 Vous avez raison d’alerter le Parlement et le Gouvernement sur cette réalité.
@@ -978,7 +972,7 @@ S’il est prématuré de répondre définitivement à cette problématique, vou
 Nous souhaitons favoriser l’essor de l’économie collaborative, mais il faut que cette économie respecte l’État, respecte le droit et ne tolère pas la fraude consistant à faire passer pour de la location occasionnelle ce qui est en réalité de la location de meublés touristiques.
 La parole est à Madame Sandrine Mazetier.
 Madame la secrétaire d’État a répondu par anticipation à l’amendement numéro 378.
-L’amendement numéro 376, lui, vise simplement à obliger le bailleur qui met son logement en location sur une plateforme d’intermédiation – car je ne sais si l’on peut parler de plateforme « collaborative » – justifie de sa qualité de propriétaire.
+L’amendement numéro 376, lui, vise simplement à obliger le bailleur qui met son logement en location sur une plateforme d’intermédiation – car je ne sais si l’on peut parler de plateforme «collaborative» – justifie de sa qualité de propriétaire.
 On imagine mal une personne mettre en vente une œuvre d’art sans justifier de sa qualité de propriétaire de l’œuvre en question ! Or, à Paris, même des occupants de logements sociaux sous-louent leur logement.
 Franchement, obliger les plateformes comme Airbnb – mais ce n’est pas la seule – à demander à leurs abonnés une telle justification ne me paraît pas représenter une contrainte monstrueuse ou un frein insurmontable ! En trois ans, Paris est devenue la première ville Airbnb au monde, dépassant même Los Angeles.
 Parmi les bailleurs, il y a beaucoup de gens qui louent des biens dont ils ne sont pas propriétaires, beaucoup de Jawad, si vous voyez ce que je veux dire… (Sourires.) Ce n’est pas une contrainte horrible que la petite précaution que je propose, et je pense que nous pourrions l’adopter dès maintenant.
@@ -1040,7 +1034,7 @@ Je connais votre attachement et votre engagement sur ce sujet, mais en 2014 – 
 Nous sommes en ce moment dans une problématique d’effectivité et de territorialité de la loi, vous le savez aussi bien que moi.
 Je suis persuadée que la réponse n’est plus législative mais technologique.
 Je pense qu’un moyen de lutter plus efficacement contre la contrefaçon serait d’utiliser plus largement, notamment au sein de nos propres services, les possibilités offertes par les mégadonnées et la cartographie des trafics de contrefaçon.
-Votre amendement invite les opérateurs à « agir avec diligence en prenant toutes les mesures raisonnables, adéquates et proactives afin de protéger les consommateurs… ».
+Votre amendement invite les opérateurs à «agir avec diligence en prenant toutes les mesures raisonnables, adéquates et proactives afin de protéger les consommateurs…».
 Cette rédaction est trop large pour apporter une véritable plus-value juridique.
 On nous reproche parfois de fabriquer des textes juridiquement flous : c’est le cas de cet amendement et c’est la raison pour laquelle le Gouvernement y est défavorable.
 La parole est à Monsieur Philippe Gosselin.
@@ -1090,7 +1084,7 @@ Si vous le permettez, monsieur le président, je défendrai en même temps les a
 L’amendement numéro 465 entend interdire les outils de géolocalisation ayant pour but de proposer une publicité ciblée grâce à la localisation de l’internaute déduite par l’IP tracking.
 L’amendement numéro 402 vise la suppression de l’IP tracking.
 Enfin, l’amendement numéro 403 tend à interdire la pratique commerciale consistant à varier les tarifs en fonction des heures de réservation.
-Je voudrais revenir sur ce fameux IP tracking dont on parle beaucoup et que je préférerais, pour ma part, désigner par le mot « pistage » – pistage d’identité ou de données personnelles – puisqu’il s’agit ni plus ni moins d’une traque de l’identité personnelle d’un internaute durant ses connexions en vue de faire varier artificiellement le prix d’un service ou d’une prestation.
+Je voudrais revenir sur ce fameux IP tracking dont on parle beaucoup et que je préférerais, pour ma part, désigner par le mot «pistage» – pistage d’identité ou de données personnelles – puisqu’il s’agit ni plus ni moins d’une traque de l’identité personnelle d’un internaute durant ses connexions en vue de faire varier artificiellement le prix d’un service ou d’une prestation.
 C’est une pratique communément employée sur les sites internet d’achat et de réservation, notamment de billets d’avion, de billets de train et de chambres d’hôtel.
 Ainsi, plus on examine un bien sur un site internet donné – prenons l’exemple d’un billet d’avion – et plus son prix risque d’augmenter artificiellement du fait de cette consultation.
 Le prix n’est plus établi en fonction de la confrontation de l’offre et de la demande, comme le désirent nos amis libéraux, mais il fluctue en fonction de l’intensité du besoin de la personne.
@@ -1108,18 +1102,18 @@ Nos amendements visent purement et simplement à interdire l’IP tracking lorsq
 Il existe des ruses pour essayer de contourner ces pratiques : changer d’ordinateur, utiliser différents smartphones… mais elles sont réservées à des initiés.
 Le consommateur lambda que je suis rencontre les pires difficultés pour être traité correctement.
 Il a raison, c’est un vrai problème ! Quel est l’avis de la commission ? Avis défavorable.
-Quel est l’avis du Gouvernement ? Je comprends tout à fait votre raisonnement et je partage votre constat, monsieur le député – et cela vaut pour tous les députés qui ont déposé des amendements en ce sens –, et je préfère, moi aussi, le mot « pistage » à l’appellation anglophone.
+Quel est l’avis du Gouvernement ? Je comprends tout à fait votre raisonnement et je partage votre constat, monsieur le député – et cela vaut pour tous les députés qui ont déposé des amendements en ce sens –, et je préfère, moi aussi, le mot «pistage» à l’appellation anglophone.
 Tout le monde a été confronté à ce type de pratique.
 Je suis par ailleurs ravie de voir, monsieur Chassaigne, que vous êtes devenu un grand libéral puisque vous recherchez l’adéquation entre l’offre et la demande.
 (Sourires.) Il a tout de même cité Karl Marx ! Toujours est-il que cet amendement est satisfait parce que l’article L.
 121-1 du code de la consommation établit la liste des pratiques commerciales trompeuses, en incluant l’omission trompeuse.
-Je cite le code : « Une pratique commerciale est également trompeuse si, compte tenu des limites propres au moyen de communication utilisé et des circonstances qui l’entourent, elle omet, dissimule ou fournit de façon inintelligible, ambiguë ou à contretemps une information substantielle ou lorsqu’elle n’indique pas sa véritable intention commerciale dès lors que celle-ci ne ressort pas déjà du contexte ».
+Je cite le code : «Une pratique commerciale est également trompeuse si, compte tenu des limites propres au moyen de communication utilisé et des circonstances qui l’entourent, elle omet, dissimule ou fournit de façon inintelligible, ambiguë ou à contretemps une information substantielle ou lorsqu’elle n’indique pas sa véritable intention commerciale dès lors que celle-ci ne ressort pas déjà du contexte».
 Je vous demande pardon pour le jargon, mais il se trouve que la DGCCRF mène des enquêtes sur cette base juridique qui suffit pleinement à appréhender les phénomènes que vous avez décrits.
 La loi ne doit pas être bavarde, et c’est la raison pour laquelle je demande le retrait de cet amendement que je considère satisfait.
 Monsieur Chassaigne a déjà défendu l’amendement numéro 402.
 Il a également soutenu l’amendement numéro 403.
 La parole est à Madame Karine Berger, pour soutenir l’amendement numéro 843 rectifié.
-(« Ah ! » sur les bancs du groupe Les Républicains.) J’entends des exclamations, parce que cet amendement est déjà célèbre ! Je tiens à préciser que c’est un amendement d’appel.
+(«Ah !» sur les bancs du groupe Les Républicains.) J’entends des exclamations, parce que cet amendement est déjà célèbre ! Je tiens à préciser que c’est un amendement d’appel.
 Il vise plus à poser des questions, qui me semblent importantes, qu’à être voté.
 Nous partageons d’ailleurs, avec mon collègue Gosselin, les mêmes préoccupations sur ces sujets.
 Absolument ! Cet amendement revient sur la problématique de la responsabilité sur internet, qui se pose pour les liens hypertextes et les mécanismes de renvoi à des contenus illicites.
@@ -1143,7 +1137,7 @@ Le débat est plus complexe qu’il n’y paraît.
 Certaines associations de protection des droits d’auteur tiennent parfois un double discours, car elles tirent en réalité un bénéfice des contrats conclus avec les plateformes diffusant des contenus culturels.
 Cela est également le cas de certains médias qui derrière des positions d’affichage trouvent plutôt leur compte dans cette économie numérique.
 Il nous faut être nuancés et prudents dans ce débat.
-C’est dans le cadre de la renégociation de la directive « e-commerce » que cette question de la responsabilité des plateformes sera posée.
+C’est dans le cadre de la renégociation de la directive «e-commerce» que cette question de la responsabilité des plateformes sera posée.
 S’il fallait établir un ordre de priorité, il me semble que la responsabilité des plateformes dans la diffusion de contenus illicites en lien avec le droit pénal, notamment les contenus haineux, antisémites ou islamophobes et la diffusion de l’apologie du terrorisme, devrait arriver en tête.
 C’est une position personnelle.
 Mais nos concitoyens, dans leur majorité, attendent aujourd’hui des réponses sur ces points-là, face à l’impression d’impuissance ou tout au moins d’absence d’efficacité que leur laisse le retrait des contenus illicites par les plateformes.
@@ -1168,7 +1162,7 @@ Je suis saisi de deux amendements identiques, numéros 217 rectifié et 524 rect
 La parole est à Monsieur André Chassaigne, pour soutenir l’amendement numéro 217 rectifié.
 Il s’agit de compléter, dans le code de la consommation, la liste des informations devant figurer sur le contrat souscrit par un consommateur particulier ou professionnel auprès d’un fournisseur de service de communications électroniques.
 Actuellement, l’article L.
-121-83 prévoit que sont présentées « sous une forme claire, détaillée et aisément accessible » des informations sur les services offerts, leur niveau de qualité et le délai nécessaire pour en assurer la prestation.
+121-83 prévoit que sont présentées «sous une forme claire, détaillée et aisément accessible» des informations sur les services offerts, leur niveau de qualité et le délai nécessaire pour en assurer la prestation.
 Cela reste très incomplet.
 Nous proposons donc que le fournisseur informe plus précisément le consommateur sur les débits minimums, moyens et maximums, montants et descendants, tant en matière d’internet fixe que mobile.
 Doivent également être précisées les compensations et formules de remboursement applicables non seulement lorsque le niveau de qualité des services prévu n’est pas atteint, mais aussi lorsque les débits réellement constatés sont en décalage manifeste avec ceux annoncés, notamment dans les documents publicitaires.
@@ -1186,7 +1180,7 @@ Je retire également le mien.
 Vous gardez la parole, monsieur Gosselin, pour soutenir l’amendement numéro 523.
 Il s’agit une nouvelle fois de cette logique d’information claire et honnête.
 Les fournisseurs de service de communications électroniques font souvent appel à des références techniques, parmi lesquelles le consommateur ne peut pas se retrouver.
-« Ce que l’on conçoit bien s’énonce clairement, et les mots pour le dire arrivent aisément… » Quel est l’avis de la commission ? Ce débat dure depuis un petit moment, notamment sur l’emploi du terme « fibre » dans les publicités.
+«Ce que l’on conçoit bien s’énonce clairement, et les mots pour le dire arrivent aisément…» Quel est l’avis de la commission ? Ce débat dure depuis un petit moment, notamment sur l’emploi du terme «fibre» dans les publicités.
 Je vous invite à retirer cet amendement au profit des amendements numéros 103 rectifié, 571 rectifié et 102 rectifié auxquels je vais donner un avis favorable.
 La parole est à Monsieur Philippe Gosselin.
 Si vous êtes dans de bonnes dispositions, monsieur le rapporteur, je le retire ! Je suis saisi de deux amendements, numéros 790 et 791, qui peuvent faire l’objet d’une présentation groupée.
@@ -1194,7 +1188,7 @@ La parole est à Monsieur Lionel Tardy, pour les soutenir.
 Mais c’était un marché de dupes ! Les amendements n’ont pas été soutenus ! Il y a un an, le Gouvernement faisait un cadeau aux écologistes, en leur offrant une loi à leur nom – la loi Abeille –, une loi de défiance à l’égard du numérique, de complexification et mal ficelée, relative à la sobriété, à la transparence, à l’information et à la concertation en matière d’exposition aux ondes électromagnétiques, texte auquel les députés Les Républicains s’étaient opposés avec force.
 Ce n’est pas nous pourtant qui sommes revenus dessus quelques mois plus tard, mais le Gouvernement dans le cadre de la loi Macron, après s’être rendu compte que certaines dispositions et certains décrets d’application étaient intenables.
 Aujourd’hui, ce texte continue de poser des problèmes.
-J’en veux pour preuve son article 6 qui prévoyait que, dans un délai d’un an à compter de la promulgation de la loi, soit mise en place « une politique de sensibilisation et d’information concernant l’usage responsable et raisonné des terminaux mobiles ainsi que les précautions d’utilisation des appareils utilisant des radiofréquences ».
+J’en veux pour preuve son article 6 qui prévoyait que, dans un délai d’un an à compter de la promulgation de la loi, soit mise en place «une politique de sensibilisation et d’information concernant l’usage responsable et raisonné des terminaux mobiles ainsi que les précautions d’utilisation des appareils utilisant des radiofréquences».
 Or, ce délai arrive à expiration le 9 février prochain, sans qu’il y ait eu de campagne de sensibilisation.
 De fait, une telle campagne ne relève pas de la loi, comme nous l’avions répété à de nombreuses reprises au cours des débats.
 Il faut donc supprimer cet article 6 qui ne sera pas appliqué.
@@ -1212,7 +1206,7 @@ Dans les établissements les plus petits, où les salles ont plusieurs usages, c
 De même, la désactivation du wifi lorsqu’il n’est pas utilisé dans les établissements scolaires est mesure anxiogène qui impose de nouvelles contraintes aux enseignants alors que dans le même temps on tente, malgré le manque de financement, d’équiper les écoles en outils numériques.
 Enfin, l’obligation d’informer le conseil d’école est une autre mesure anxiogène et inutile.
 En effet, comme l’a souligné Laure de La Raudière, les collectivités peuvent toujours demander des devis pour l’étude d’une solution de connexion.
-Puisque vous voulez appeler ce texte « Projet de loi pour une République numérique », madame la secrétaire d’État, Laure de La Raudière et moi-même vous invitons à supprimer l’article 7 de la loi Abeille, entrave au numérique à l’école, pourtant le socle de la République.
+Puisque vous voulez appeler ce texte «Projet de loi pour une République numérique», madame la secrétaire d’État, Laure de La Raudière et moi-même vous invitons à supprimer l’article 7 de la loi Abeille, entrave au numérique à l’école, pourtant le socle de la République.
 Il ne s’agit donc que d’un amendement de cohérence.
 Quel est l’avis de la commission ? Défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
@@ -1233,7 +1227,7 @@ Quel est l’avis de la commission ? Il s’agit d’un amendement d’appel et 
 Je vais donc vous donner une réponse claire, madame la députée : le gouvernement français n’est pas favorable à la création d’une taxe sur la publicité en ligne.
 Le sujet a déjà été débattu.
 Je renvoie aux conclusions d’un rapport rendu, fin 2013, par le Conseil national du numérique, et qui est très clair sur les effets contreproductifs d’une telle mesure, notamment pour les entreprises européennes, y compris françaises, du fait des effets de bord en termes de délocalisation qui seraient absolument incontournables.
-Le choix du Gouvernement se reflète dans la loi « Croissance et activité », celui d’établir un cadre de confiance pour que la publicité digitale inscrive ses obligations dans une chaîne de valeurs aussi transparente que celle de la publicité traditionnelle.
+Le choix du Gouvernement se reflète dans la loi «Croissance et activité», celui d’établir un cadre de confiance pour que la publicité digitale inscrive ses obligations dans une chaîne de valeurs aussi transparente que celle de la publicité traditionnelle.
 Vous avez par ailleurs évoqué les travaux effectués au sein de l’OCDE sur une harmonisation fiscale au niveau international, a minima au niveau européen, et le choix du gouvernement est vraiment d’agir à cette échelle, y compris pour la publicité numérique.
 Quel est l’avis de la commission ? Défavorable.
 La parole est à Madame Karine Berger.
@@ -1250,16 +1244,14 @@ Les deux amendements peuvent paraître avant-gardistes à cet égard, mais sont 
 En effet, on se heurte aujourd’hui à une définition en droit de la donnée à caractère personnel qui repose sur une conception individuelle et qui donc ignore la dimension collective de la protection des données.
 L’amendement numéro 562 propose une définition juridique très précise du réseau indivisible de données, et l’amendement numéro 564 fait de ce réseau un bien commun.
 Je ferai référence à deux auteurs cités par la journaliste Laure Belot.
-Très bonne référence ! (Sourires.) Le premier est l’excellente historienne du droit Antoinette Rouvroy : « Cette fétichisation de la donnée personnelle », dit-elle, « nous fait passer à côté de ce qui fait aujourd’hui problème : les formes de pouvoir qui s’exercent passent peut-être beaucoup moins par les traitements des données à caractère personnel et l’identification des individus que par des formes algorithmiques de catégorisation impersonnelle.
+Très bonne référence ! (Sourires.) Le premier est l’excellente historienne du droit Antoinette Rouvroy : «Cette fétichisation de la donnée personnelle», dit-elle, «nous fait passer à côté de ce qui fait aujourd’hui problème : les formes de pouvoir qui s’exercent passent peut-être beaucoup moins par les traitements des données à caractère personnel et l’identification des individus que par des formes algorithmiques de catégorisation impersonnelle.
 En clair, nos données personnelles sont certes anonymisées, mais elles sont agrégées massivement par des programmes informatiques qui modélisent et prévoient collectivement nos comportements.
-Par ce traitement informatique, ce qu’on veut neutraliser est la dimension de puissance des individus.
-» Je citerai aussi le philosophe François Ewald : « Les nouvelles capacités de savoir produisent de nouvelles positions de pouvoir.
+Par ce traitement informatique, ce qu’on veut neutraliser est la dimension de puissance des individus.» Je citerai aussi le philosophe François Ewald : «Les nouvelles capacités de savoir produisent de nouvelles positions de pouvoir.
 Tout cela n’a rien d’idyllique.
 Une transparence est nécessaire.
 Il faut que l’on sache un peu plus ce qui se passe.
 C’est la théorie des communs : les données n’appartiennent ni à l’individu ni à l’opérateur.
-L’opérateur est celui qui rassemble et utilise la valeur, mais il est nécessaire d’envisager un encadrement préventif, cadre qui assure à la fois le développement des nouvelles technologies et le fait qu’elles bénéficieront à tous.
-» Cela rejoint les réflexions qu’avait exprimées Pierre Bellanger dans son texte « Principes et pratiques des données personnelles en réseau », contribution au rapport consacré par le Conseil d’État aux technologies numériques en 2014.
+L’opérateur est celui qui rassemble et utilise la valeur, mais il est nécessaire d’envisager un encadrement préventif, cadre qui assure à la fois le développement des nouvelles technologies et le fait qu’elles bénéficieront à tous.» Cela rejoint les réflexions qu’avait exprimées Pierre Bellanger dans son texte «Principes et pratiques des données personnelles en réseau», contribution au rapport consacré par le Conseil d’État aux technologies numériques en 2014.
 La parole est à Monsieur Patrice Martin-Lalande.
 J’ai une opinion très positive de ce que je viens d’entendre car cela rejoint l’amendement que j’ai défendu tout à l’heure.
 Au moment où on essaie de rendre internet plus sûr pour le transformer en un lieu de confiance, il faut absolument clarifier le problème de la définition des données à caractère personnel lorsqu’elle concerne un groupe de personnes.
@@ -1281,16 +1273,14 @@ Madame Batho a déjà soutenu l’amendement numéro 564.
 La parole est à Madame Delphine Batho, pour soutenir l’amendement numéro 565.
 Il est défendu.
 La parole est à Monsieur Patrice Martin-Lalande, pour soutenir l’amendement numéro 514.
-Cet amendement, déposé par Frédéric Lefebvre et plusieurs autres députés, vise à compléter cet article par les deux alinéas suivants : « L’usage des données d’identification et des données comportementales d’une personne est subordonné à la condition que chacun des usages à titre gratuit ou à titre onéreux fasse l’objet d’une mention spécifique dans l’acte de recueil du consentement et que les modalités d’exploitation de ces données soient délimitées quant à leurs finalités et à leurs destinataires, quant au lieu et quant à la durée »  « Cette disposition n’est pas applicable aux traitements de données à caractère personnel ayant exclusivement pour finalité le respect d’une obligation légale ou réglementaire.
-» Il s’agit donc d’introduire davantage de clarté dans un dispositif qui nous fait progresser mais qui pourrait aller encore plus loin.
+Cet amendement, déposé par Frédéric Lefebvre et plusieurs autres députés, vise à compléter cet article par les deux alinéas suivants : «L’usage des données d’identification et des données comportementales d’une personne est subordonné à la condition que chacun des usages à titre gratuit ou à titre onéreux fasse l’objet d’une mention spécifique dans l’acte de recueil du consentement et que les modalités d’exploitation de ces données soient délimitées quant à leurs finalités et à leurs destinataires, quant au lieu et quant à la durée»  «Cette disposition n’est pas applicable aux traitements de données à caractère personnel ayant exclusivement pour finalité le respect d’une obligation légale ou réglementaire.» Il s’agit donc d’introduire davantage de clarté dans un dispositif qui nous fait progresser mais qui pourrait aller encore plus loin.
 Quel est l’avis de la commission ? Le règlement européen est d’application directe.
 Il n’est donc pas nécessaire d’inscrire ses dispositions dans la loi nationale.
 Quel est l’avis du Gouvernement ? Avis défavorable.
 Le principe de consentement est le pilier historique du traitement des données personnelles, qu’elles soient françaises ou européennes.
 Revenir sur ce principe ne pourrait que l’affaiblir.
 La parole est à Monsieur Patrice Martin-Lalande, pour soutenir l’amendement numéro 517.
-Cet amendement a pour objectif de compléter l’article 26 par l’alinéa suivant : « L’usage des données d’une personne à des fins de profilage à des fins commerciales est subordonné à la condition que chacun des usages à titre gratuit ou à titre onéreux fasse l’objet d’une mention spécifique dans l’acte de recueil du consentement et que les modalités d’exploitation de ces données soient délimitées quant à leurs finalités et à leurs destinataires, quant au lieu et quant à la durée.
-» Quel est l’avis de la commission ? Avis défavorable.
+Cet amendement a pour objectif de compléter l’article 26 par l’alinéa suivant : «L’usage des données d’une personne à des fins de profilage à des fins commerciales est subordonné à la condition que chacun des usages à titre gratuit ou à titre onéreux fasse l’objet d’une mention spécifique dans l’acte de recueil du consentement et que les modalités d’exploitation de ces données soient délimitées quant à leurs finalités et à leurs destinataires, quant au lieu et quant à la durée.» Quel est l’avis de la commission ? Avis défavorable.
 La parole est à Monsieur Patrice Martin-Lalande.
 Je m’attendais à cette réponse ; je retire l’amendement.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 563.
@@ -1300,14 +1290,14 @@ Défendu également.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 794.
 Cet article vise à informer le consommateur sur la durée de conservation des données collectées.
 L’intention de ce dispositif est compréhensible, mais il faut veiller à son application.
-Comme l’a noté la CNIL, « la délivrance d’une information complète peut s’avérer délicate pour le professionnel et trompeuse pour la personne ».
+Comme l’a noté la CNIL, «la délivrance d’une information complète peut s’avérer délicate pour le professionnel et trompeuse pour la personne».
 Il y a fort à parier qu’afin de se protéger, les responsables de traitement indiqueront tous une durée infinie, ce qui ne renforcera en rien les droits des personnes.
 Mieux vaut donc préciser cette obligation en incitant ceux qui collectent les données à fournir une durée indicative, quitte à ce que cette information soit renouvelable à chaque modification ou collecte de nouvelles données.
 Quel est l’avis de la commission ? Avis défavorable.
-La rédaction que vous proposez, monsieur Tardy, en ajoutant le mot « prévue », ne me semble pas répondre à l’inquiétude de la CNIL, qui aurait souhaité une information périodique.
+La rédaction que vous proposez, monsieur Tardy, en ajoutant le mot «prévue», ne me semble pas répondre à l’inquiétude de la CNIL, qui aurait souhaité une information périodique.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Philippe Gosselin, pour soutenir l’amendement numéro 263.
-Des droits réels exigent qu’ils soient exercés « clairement et simplement ».
+Des droits réels exigent qu’ils soient exercés «clairement et simplement».
 Quel est l’avis de la commission ? Nous avons déjà débattu de ce point.
 L’article 28 introduit une manière claire et simple d’exercer les droits issus de la loi de 1978.
 Cet ajout ne me semble donc pas utile.
@@ -1319,28 +1309,28 @@ J’avais d’ailleurs déposé des amendements tendant renforcer le texte sur c
 Cependant, monsieur le rapporteur, à quelle place figurera cette disposition dans l’organisation des missions de la CNIL ? Il me semble qu’il convient de l’inscrire au 2° de l’article 11 de la loi relative à l’informatique, aux fichiers et aux libertés, plutôt qu’au 4°.
 Quel est l’avis de la commission ? Je ne partage pas tout à fait votre position, ma chère collègue.
 Le 2° de l’article 11 porte sur le contrôle par la CNIL de l’application de cette loi, avec des technologies qui peuvent évoluer et ne pas présenter des garanties équivalentes dans le temps.
-La mise en place de technologies par un responsable de traitement ne constitue pas un blanc-seing de conformité de ces pratiques à la loi « informatique et libertés ».
+La mise en place de technologies par un responsable de traitement ne constitue pas un blanc-seing de conformité de ces pratiques à la loi «informatique et libertés».
 Je pense donc plus pertinent de maintenir ce dispositif dans le 4° de l’article 11.
 L’essentiel étant, naturellement, qu’il y figure.
-Quel est l’avis du Gouvernement ? Je souligne l’avancée que représente l’introduction dans la loi « informatiques et libertés » de cette mission de promotion de l’utilisation de technologies protectrices de la vie privée, notamment des protocoles de chiffrement des données.
+Quel est l’avis du Gouvernement ? Je souligne l’avancée que représente l’introduction dans la loi «informatiques et libertés» de cette mission de promotion de l’utilisation de technologies protectrices de la vie privée, notamment des protocoles de chiffrement des données.
 Cette mention apparaît pour la première fois dans la loi.
 L’actualité montre cependant chaque jour que le besoin réside moins dans le contrôle que dans l’information et la veille que la CNIL peut apporter sur ce sujet.
 En conséquence, j’émettrai un avis défavorable sur cet amendement.
 La parole est à Madame Delphine Batho.
 Le 4° de l’article 11 dispose que la CNIL joue un rôle d’information et d’avis, alors que le 2° l’oblige à veiller à ce que les traitements respectent certaines règles.
-La rédaction de l’article 29 présente à ce titre une certaine ambiguïté puisque, au titre du f), la CNIL « promeut, dans le cadre de ses missions, l’utilisation des technologies protectrices de la vie privée, notamment les technologies de chiffrement des données ».
+La rédaction de l’article 29 présente à ce titre une certaine ambiguïté puisque, au titre du f), la CNIL «promeut, dans le cadre de ses missions, l’utilisation des technologies protectrices de la vie privée, notamment les technologies de chiffrement des données».
 S’agit-il de toutes les missions de l’article 11 ou des seules missions figurant au 4° de l’article 11 ? Toutes les missions sont concernées.
 Je retire cependant cet amendement, la discussion pouvant se prolonger au Sénat.
 Je suis saisi de deux amendements, numéros 795 et 796, pouvant être soumis à une discussion commune.
 La parole est à Monsieur Lionel Tardy, pour les soutenir.
 Les cas de saisine de la CNIL posent un problème de rédaction.
-Selon le texte de la commission, le 4° de l’article 11 de la loi de janvier 1978 serait ainsi rédigé : « Elle est consultée sur tout projet de loi ou de décret relatif à la protection des personnes à l’égard des traitements automatisés ou sur les dispositions de tout projet de loi ou de décret relatives à la protection des données à caractère personnel ou au traitement de telles données ».
+Selon le texte de la commission, le 4° de l’article 11 de la loi de janvier 1978 serait ainsi rédigé : «Elle est consultée sur tout projet de loi ou de décret relatif à la protection des personnes à l’égard des traitements automatisés ou sur les dispositions de tout projet de loi ou de décret relatives à la protection des données à caractère personnel ou au traitement de telles données».
 On peut en déduire que la CNIL sera saisie dans le cas où un projet de loi comporte au moins une disposition relative aux données à caractère personnel, mais qu’elle ne le sera, en matière de traitement automatisé, que si l’ensemble du projet est consacré à ce sujet.
 Une telle distinction n’est pas souhaitable car, comme nous l’avons observé, il serait nécessaire de recueillir l’avis de la commission même sur des textes dont un seul article touche au numérique.
 Ainsi, elle n’avait pas été saisie du fameux article 13 de la loi de programmation militaire, alors qu’il concernait l’accès aux données de connexion.
 Ces amendements visent donc à modifier cet alinéa pour aboutir à une rédaction plus uniforme, donc plus large, des cas de saisine de la CNIL.
 Quel est l’avis de la commission ? Je ne partage pas votre analyse, monsieur Tardy : cette rédaction est bien moins restrictive que vous ne le pensez et couvre toutes les hypothèses évoquées dans l’exposé sommaire de l’amendement comme dans votre propos.
-Ainsi, l’expression : « dispositions relatives à la protection des données personnelles ou au traitement de telles données » recouvre et même inclut la formulation : « dispositions relatives à la protection des personnes à l’égard des traitements automatisés ».
+Ainsi, l’expression : «dispositions relatives à la protection des données personnelles ou au traitement de telles données» recouvre et même inclut la formulation : «dispositions relatives à la protection des personnes à l’égard des traitements automatisés».
 La commission a donc émis un avis défavorable.
 L’amendement est satisfait ! Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 797.
@@ -1371,7 +1361,7 @@ Quel est l’avis du Gouvernement ? Je m’en remets à la sagesse du Parlement 
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 800.
 La CNIL peut apporter son concours à toute autorité administrative indépendante.
 L’amendement, qui s’inspire des remarques formulées par le Conseil national du numérique dans son rapport Ambition numérique, propose d’étendre cette possibilité à toutes les administrations.
-Quel est l’avis de la commission ? Cet amendement est satisfait par le d) du 2° de l’article 11 de la loi « Informatique et libertés ».
+Quel est l’avis de la commission ? Cet amendement est satisfait par le d) du 2° de l’article 11 de la loi «Informatique et libertés».
 Avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 L’administration sollicite souvent la CNIL de cette manière.
@@ -1411,7 +1401,7 @@ La parole est à Monsieur Luc Belot, pour soutenir l’amendement numéro 407.
 Il s’agissait de permettre aux héritiers de demander la clôture du compte du défunt en l’absence de directives.
 Mais nous avons évoqué ce sujet avec Monsieur Tardy, et je retire mon amendement.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 803 rectifié.
-L’examen du texte en commission a permis de maintenir les deux derniers alinéas de l’article 40 de la loi « Informatique et libertés », ce qui est une bonne chose.
+L’examen du texte en commission a permis de maintenir les deux derniers alinéas de l’article 40 de la loi «Informatique et libertés», ce qui est une bonne chose.
 En revanche, la rédaction retenue manque de clarté, car les dispositions relatives à l’absence de directives sont éparpillées.
 Les amendements numéros 803 rectifié et 886 visent à présenter clairement les droits des héritiers dans ce cas : droit d’accès pour des raisons successorales et droit de rectification pour la seule suppression des informations, par exemple la suppression des comptes du défunt sur les réseaux sociaux.
 Quel est l’avis de la commission ? Favorable.
@@ -1486,7 +1476,7 @@ Il faut dire qu’internet représente, en la matière, quelque chose de nouveau
 Sans cette action de groupe, nul ne pourrait poursuivre devant les tribunaux ceux qui les violeraient, et nous n’aurions fait notre travail qu’en partie.
 Je suis saisi de deux amendements, numéros 285 et 7 rectifié, pouvant être soumis à une discussion commune.
 La parole est à Madame Marie-Anne Chapdelaine, pour soutenir l’amendement numéro 285.
-Je souhaite rectifier cet amendement, en supprimant, au deuxième alinéa, les mots « et la réparation ».
+Je souhaite rectifier cet amendement, en supprimant, au deuxième alinéa, les mots «et la réparation».
 Il s’agit d’autoriser les actions collectives pour la protection des données personnelles, pour obtenir cessation de la violation de la législation applicable en la matière.
 Les associations et les organisations syndicales pourront y avoir recours.
 L’amendement numéro 285 est ainsi rectifié.
@@ -1538,7 +1528,7 @@ J’appelle votre attention sur le fait que la formation restreinte de la CNIL n
 Mais qui peut le plus peut le moins : il me semble donc très pertinent de relever le niveau maximum des sanctions.
 J’avais moi aussi proposé, en commission, d’élever ces montants jusqu’à plusieurs dizaines de millions d’euros.
 On nous avait demandé de retirer ces amendements, ce qui m’a conduit à proposer de multiplier par dix les montants actuels, au moins pendant la période transitoire.
-Ce qu’il faut à tout prix éviter, c’est que la période 2016-2018 soit une « période grise ».
+Ce qu’il faut à tout prix éviter, c’est que la période 2016-2018 soit une «période grise».
 De ce point de vue, la proposition du Gouvernement me paraît aller dans le bon sens ; je retire donc mon amendement.
 La parole est à Monsieur Christian Paul, pour soutenir l’amendement numéro 595.
 Nous serons unanimes, je pense, à soutenir la diplomatie numérique de la France, en tout cas celle de Madame la secrétaire d’État – ce qui revient au même.

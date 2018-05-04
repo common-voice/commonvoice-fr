@@ -45,7 +45,7 @@ Plusieurs angles morts perdurent, dont celui des énormes fichiers de l’Éduca
 Nous reprenons donc la proposition de bon sens, voire salutaire, de la Commission nationale consultative des droits de l’homme – CNCDH –, qui est une institution publique indépendante.
 Elle s’appuie sur l’article 36 du RGPD, qui autorise les États à soumettre à l’approbation de l’autorité de contrôle – la CNIL, dans le cas de la France – tout traitement de données récoltées dans le cadre d’une mission d’intérêt public.
 Pour La France insoumise, ce droit est surtout un devoir.
-Le précédent gouvernement a fait entrer le cheval de Troie « Microsoft » dans l’éducation nationale.
+Le précédent gouvernement a fait entrer le cheval de Troie «Microsoft» dans l’éducation nationale.
 Je vous adjure de vous abstenir d’aller plus loin en ouvrant à tous les vents des informations personnelles, voire intimes, qui concernent des millions d’enfants et de familles.
 La parole est à Madame Sarah El Haïry, pour soutenir l’amendement numéro 75.
 Cet amendement vise à créer une nouvelle catégorie spécifique pour les traitements de données à caractère personnel dans le domaine scolaire.
@@ -78,7 +78,7 @@ L’auteure de ces deux amendements est Madame Brocard.
 Chers collègues, savez-vous combien de fois, chaque jour, vos données personnelles, votre géolocalisation, votre adresse IP, vos goûts, vos opinions, votre situation familiale sont traités, malaxés, enrichis, extraits, pour vous délivrer une publicité, vous cibler ou vous envoyer un courriel ? C’est fait en toute légalité, car, vous ne le savez pas, mais vous avez donné votre consentement.
 Avez-vous compté le nombre de messages non désirés, de spams, qui envahissent votre boîte de réception ? Vous ne le savez pas, mais vous avez donné votre consentement.
 En effet, pour obtenir discrètement votre consentement, les opérateurs usent d’artifices toujours plus élaborés.
-On vous demande de cliquer sur de gros boutons – « valider », « je m’inscris », « j’achète » –, suivis de petites lignes illisibles et alambiquées indiquant : « en m’inscrivant, j’accepte… ».
+On vous demande de cliquer sur de gros boutons – «valider», «je m’inscris», «j’achète» –, suivis de petites lignes illisibles et alambiquées indiquant : «en m’inscrivant, j’accepte…».
 Beaucoup plus bas, sur la même page, figure une phrase encore plus illisible, qui vous propose de refuser le traitement de vos données.
 Mais vous ne la voyez jamais, puisqu’elle a disparu quand vous avez cliqué sur le gros bouton.
 Par cet amendement, nous proposons que l’action permettant de recueillir le consentement volontaire prévue par le RGPD n’ait aucune autre finalité.
@@ -88,8 +88,8 @@ Le consentement ne doit pas être extorqué par un artifice.
 Au titre du RGPD, le consentement est donné par un acte positif clair.
 Nous souhaitons que celui-ci ne génère aucune autre action, et qu’une case cochée puisse être décochée avant de passer à autre chose.
 J’en viens à l’amendement numéro 92.
-Le RGPD définit ainsi les bases d’obtention du consentement : « toute manifestation de volonté libre spécifique, éclairée et univoque par laquelle la personne concernée accepte, par une déclaration ou par un acte positif clair, que des données à caractère personnel la concernant fassent l’objet d’un traitement ».
-En 2004, la loi pour la confiance dans l’économie numérique donnait déjà une définition similaire : on entend par consentement « toute manifestation de volonté libre, spécifique et informée ».
+Le RGPD définit ainsi les bases d’obtention du consentement : «toute manifestation de volonté libre spécifique, éclairée et univoque par laquelle la personne concernée accepte, par une déclaration ou par un acte positif clair, que des données à caractère personnel la concernant fassent l’objet d’un traitement».
+En 2004, la loi pour la confiance dans l’économie numérique donnait déjà une définition similaire : on entend par consentement «toute manifestation de volonté libre, spécifique et informée».
 Ces formulations ne sont que des bases de travail, tant pour les opérateurs que pour la CNIL.
 Il me semble nécessaire de préciser ce qu’il est possible de faire et ce qu’il convient de ne pas faire pour être en accord avec ces principes, afin de protéger non seulement les personnes concernées, puisque les opérateurs, comme c’est le cas depuis la loi pour la confiance dans l’économie numérique, n’ont de cesse de trouver des artifices pour contourner ces principes et obtenir les consentements, mais également les opérateurs eux-mêmes, qui ont besoin d’avoir la certitude que leur méthode de recueil de consentements ne sera pas sanctionnée, le RGPD les obligeant à conserver des traces de cette méthode pour un contrôle éventuel.
 Nous proposons donc que la CNIL, en s’appuyant sur son travail au sein du G29 ainsi que sur l’observation des plaintes et sur l’expérience de ses nouveaux pouvoirs de contrôle et de sanction, établisse une norme qui définisse clairement les principes d’obtention du consentement, et que cette norme soit révisée afin de tenir compte de la jurisprudence, des nouvelles pratiques et des nouvelles technologies.
@@ -101,7 +101,7 @@ De manière exceptionnelle, nous nous sommes donc permis, du fait que nous n’a
 En conséquence, avis défavorable à tous les autres amendements en discussion commune.
 Quel est l’avis du Gouvernement ? Le Gouvernement émet un avis favorable à l’amendement numéro 184.
 En effet, par rapport à la directive de 1995, le RGPD apporte des éclaircissements et des précisions sur les exigences relatives à l’obtention et à la démonstration de l’existence d’un consentement valide, notion que nous avons déjà abordée en commission.
-L’article 4 du RGPD définit le consentement comme « toute manifestation de volonté, libre, spécifique, éclairée et univoque par laquelle la personne concernée accepte, par une déclaration ou par un acte positif clair, que des données à caractère personnel la concernant fassent l’objet d’un traitement ».
+L’article 4 du RGPD définit le consentement comme «toute manifestation de volonté, libre, spécifique, éclairée et univoque par laquelle la personne concernée accepte, par une déclaration ou par un acte positif clair, que des données à caractère personnel la concernant fassent l’objet d’un traitement».
 Ce consentement, au sein du règlement, est du reste une des six bases légales pour considérer qu’un traitement est licite.
 Il constitue une des clés de voûte de la protection des données à caractère personnel.
 La notion de consentement est également précisée à l’article 7 du RGPD, qui porte sur les conditions applicables au consentement, ainsi que dans plusieurs considérants, notamment les considérants 32 et 33.
@@ -189,7 +189,7 @@ Ainsi, cet amendement pragmatique tient compte du fait que les adolescents et m�
 La parole est à Madame Christine Hennion, pour soutenir l’amendement numéro 21.
 J’aimerais commencer mon intervention par un petit clin d’œil.
 Cela fait de nombreuses années que l’Europe se préoccupe de l’éducation de nos jeunes à internet.
-Ainsi, il y a quelques années, la Commission européenne a créé le programme « Safer Internet », en français « Internet sans crainte », et institué le « Safer Internet day » – en 2018, cette journée tombait hier, alors même que nous entamions nos débats sur ce texte si important.
+Ainsi, il y a quelques années, la Commission européenne a créé le programme «Safer Internet », en français «Internet sans crainte», et institué le «Safer Internet day » – en 2018, cette journée tombait hier, alors même que nous entamions nos débats sur ce texte si important.
 Pour ma part, je préconise également de fixer la majorité numérique à treize ans.
 J’ai déjà expliqué hier, lors de la présentation du projet de loi, les raisons de mon choix.
 Aujourd’hui, en effet, 75 % des enfants de onze à quatorze ans ont déjà accès à internet via un téléphone mobile : l’âge auquel cette question se pose correspond donc davantage à l’entrée en classe de sixième qu’à l’entrée au lycée.
@@ -252,7 +252,7 @@ Pourquoi, en effet, le fixer à quinze ans plutôt qu’à quatorze ou à dix-hu
 À seize ans, on dispose, comme cela a été dit, de capacités contractuelles et bancaires.
 À treize, d’autres éléments entrent en ligne de compte.
 Il me semble toutefois que nous sommes parvenus, avec un seuil fixé à quinze ans, à un point d’équilibre, même si ce n’est pas tout à fait parfait.
-Cet âge renvoie en effet aussi à la « majorité sexuelle » – terme qui, je le sais, fait l’objet de différentes appréciations.
+Cet âge renvoie en effet aussi à la «majorité sexuelle» – terme qui, je le sais, fait l’objet de différentes appréciations.
 La question fait aussi référence à d’autres textes que nous aurons l’occasion, madame la garde des sceaux, d’examiner d’ici à quelques semaines dans le cadre d’autres débats.
 Nous anticipons donc sur certains de ces débats et sur les âges qui pourraient être fixés alors.
 Au-delà de l’âge que nous fixerons ce soir, ce qui importe est que le débat reste ouvert et, en quelque sorte, que l’alerte soit donnée quant aux besoins des utilisateurs en termes de protection et d’éducation.
@@ -268,7 +268,7 @@ Je suis saisie d’un amendement numéro 103 qui fait l’objet d’un sous-amen
 La parole est à Madame Paula Forteza, rapporteure, pour soutenir l’amendement.
 Il s’agit d’un amendement de clarification rédactionnelle, tendant à bien établir un double consentement des parents et des enfants avant l’âge de quinze ans, dans un souci de co-apprentissage des usages numériques et de responsabilisation croissante des mineurs.
 La parole est à Monsieur Erwan Balanant, pour soutenir le sous-amendement numéro 182.
-Ce sous-amendement tend à apporter une clarification à la clarification en substituant aux mots : « titulaire » les mots : « ou les titulaires ».
+Ce sous-amendement tend à apporter une clarification à la clarification en substituant aux mots : «titulaire» les mots : «ou les titulaires».
 Je rappelle en effet qu’un enfant peut avoir un papa et une maman, deux mamans ou deux papas.
 Ou quatre ! Quel est l’avis de la commission sur le sous-amendement ? Cette précision est bienvenue.
 Avis favorable.
@@ -360,8 +360,8 @@ Je suis saisie de deux amendements identiques, numéros 53 et 119.
 La parole est à Monsieur Ugo Bernalicis, pour soutenir l’amendement numéro 53.
 Par cet article, le Gouvernement souhaite autoriser la définition du profil d’une personne comme aide à la prise de décision administrative.
 Rappelons qu’auparavant, définir un profil était interdit.
-Aux termes de ce projet de loi, c’est seulement « prévoir » un profil qui sera interdit.
-Mais vous conviendrez que la frontière juridique entre « définir » et « prévoir » est assez mince ! Il faut se méfier de cette possibilité, dont les conséquences sur notre société risquent d’être sans précédent.
+Aux termes de ce projet de loi, c’est seulement «prévoir» un profil qui sera interdit.
+Mais vous conviendrez que la frontière juridique entre «définir» et «prévoir» est assez mince ! Il faut se méfier de cette possibilité, dont les conséquences sur notre société risquent d’être sans précédent.
 Souhaitez-vous réellement instaurer, par exemple, le recours à la justice prédictive, méthode très décriée – j’en veux pour preuve le logiciel américain Compas, logiciel commercial largement utilisé pour prédire la récidive dans certains États.
 Or ses prédictions ne sont ni plus pertinentes ni plus justes que celles de personnes n’ayant aucune expertise judiciaire, ou très peu.
 Le profilage est-il envisagé pour la délivrance des titres de séjour aux étrangers ? Pour les demandes d’emploi formulées par des chômeurs ? Pour une demande de permis de construire déposée par un riverain de l’océan ? Les demandeurs seront-ils classés selon leur pays d’origine, leur âge, leur adresse, leur cursus scolaire ? Les algorithmes autorisés par cet article ne permettront-ils de présélectionner – c’est-à-dire de discriminer, ou de renforcer des discriminations ? Attention à ne pas ouvrir la boîte de Pandore : les dossiers doivent être analysés de façon individuelle par des êtres humains.
@@ -371,12 +371,10 @@ Pour nous, il conduit à une quasi-automatisation, et donc à une déshumanisati
 Ce n’est pas acceptable.
 La parole est à Monsieur Jean-Paul Dufrègne, pour soutenir l’amendement numéro 119.
 Nous demandons nous aussi la suppression de cet article qui ouvre plus largement la possibilité, pour l’administration, de recourir à des décisions automatisées prises sur le fondement d’un algorithme, dans le champ des décisions administratives individuelles.
-Les garanties offertes en contrepartie en matière d’information pleine et entière des personnes, de maîtrise des traitements, de droit au recours et de données traitées – à l’exception, dans ce cadre, des données dites « sensibles » – ne sont pas suffisantes au regard des risques qui pèsent sur les droits et libertés des personnes concernées.
-L’étude d’impact du projet de loi justifie cette évolution en ces termes : « Le maintien de l’interdiction absolue ne permet pas de répondre aux évolutions de l’activité administrative qui a de plus en plus recours à des traitements algorithmiques, notamment pour les décisions de masse que la réglementation encadre précisément et dont l’édiction rapide permet la bonne délivrance du service public.
-» L’objectif visé est clairement le développement d’une administration numérique, voire d’une administration totalement dématérialisée, qui ne requerra plus une intervention humaine.
+Les garanties offertes en contrepartie en matière d’information pleine et entière des personnes, de maîtrise des traitements, de droit au recours et de données traitées – à l’exception, dans ce cadre, des données dites «sensibles» – ne sont pas suffisantes au regard des risques qui pèsent sur les droits et libertés des personnes concernées.
+L’étude d’impact du projet de loi justifie cette évolution en ces termes : «Le maintien de l’interdiction absolue ne permet pas de répondre aux évolutions de l’activité administrative qui a de plus en plus recours à des traitements algorithmiques, notamment pour les décisions de masse que la réglementation encadre précisément et dont l’édiction rapide permet la bonne délivrance du service public.» L’objectif visé est clairement le développement d’une administration numérique, voire d’une administration totalement dématérialisée, qui ne requerra plus une intervention humaine.
 Or la CNIL regrette le manque de garanties précises lors de l’utilisation de traitements algorithmiques débouchant sur l’adoption de décisions administratives et appelle à l’approfondissement de la réflexion sur ces différents points.
-De son côté, le Conseil d’État estime qu’« alors même qu’il n’est plus nécessaire que l’action humaine s’interpose entre le traitement et la prise de décision », il est essentiel « de garantir à tout instant une maîtrise humaine complète des algorithmes, comportant notamment la capacité d’interrompre le fonctionnement du traitement, notamment lorsque ceux-ci sont dotés de capacités d’apprentissage leur permettant de modifier leur logique de fonctionnement sans une démarche humaine préalable de validation.
-» Pour notre part, nous considérons qu’il convient de maintenir l’article 10 de la loi de 1978 dans sa version actuelle, qui interdit de prendre des décisions administratives individuelles sur le seul fondement d’un traitement automatisé de données.
+De son côté, le Conseil d’État estime qu’«alors même qu’il n’est plus nécessaire que l’action humaine s’interpose entre le traitement et la prise de décision», il est essentiel «de garantir à tout instant une maîtrise humaine complète des algorithmes, comportant notamment la capacité d’interrompre le fonctionnement du traitement, notamment lorsque ceux-ci sont dotés de capacités d’apprentissage leur permettant de modifier leur logique de fonctionnement sans une démarche humaine préalable de validation.» Pour notre part, nous considérons qu’il convient de maintenir l’article 10 de la loi de 1978 dans sa version actuelle, qui interdit de prendre des décisions administratives individuelles sur le seul fondement d’un traitement automatisé de données.
 Nous considérons que les enjeux juridiques et éthiques fondamentaux de cette question méritent d’être analysés de façon plus approfondie avant tout élargissement du recours aux décisions administratives automatisées.
 Quel est l’avis de la commission ? Je rappelle tout d’abord qu’il est interdit de fonder des décisions de justice sur l’utilisation d’un algorithme ; cela était vrai avant le RGPD, cela sera toujours vrai après.
 Il me semble que la suppression complète des décisions administratives individuelles automatisées serait un peu excessive.
@@ -426,7 +424,7 @@ Il faudra alors être capable de les analyser et d’en garantir la transparence
 C’est aussi un des enjeux du rapport que le Gouvernement a confié à Monsieur Cédric Villani.
 Il abordera ce sujet dans ses conclusions et le Gouvernement aura à se prononcer sur la capacité technologique de l’État à développer des algorithmes plus justes, plus transparents, mais aussi à les contrôler pour apporter plus de valeur au citoyen.
 La parole est à Monsieur Ugo Bernalicis.
-Vous nous dites que la manière dont sont construits les algorithmes est publique et que la « société civile des experts » va pouvoir regarder cela de plus près, et pourquoi pas lancer l’alerte.
+Vous nous dites que la manière dont sont construits les algorithmes est publique et que la «société civile des experts» va pouvoir regarder cela de plus près, et pourquoi pas lancer l’alerte.
 Ce serait merveilleux s’il existait un statut du lanceur d’alerte – je vous renvoie ici aux amendements que La France insoumise a déposés et qui ont été rejetés.
 Ce n’est donc pas à l’ordre du jour.
 Il faudrait aussi que les gens qui détecteraient un problème aient la capacité de se faire entendre.
@@ -454,7 +452,7 @@ Aujourd’hui, l’administration a atteint un tel degré de numérisation qu’
 Tous ceux que je rencontre demandent qu’on réintroduise de l’humain dans les relations entre les administrations et les administrés ; j’entends davantage cela qu’une aspiration à l’automatisation.
 Il aurait été utile de suivre la recommandation de la CNIL, qui nous appelle à pousser plus loin la réflexion sur ce sujet avant de légiférer.
 Je pense à certain algorithme : j’ignore s’il s’agissait d’un algorithme boîte noire ou sous maîtrise humaine, mais ce que je sais, c’est qu’à cause de lui, des milliers de lycéens sont restés sans affectation à la rentrée universitaire.
-Il s’agit de l’algorithme qui a fait APB (« Ah ! » sur les bancs du groupe FI.).
+Il s’agit de l’algorithme qui a fait APB («Ah !» sur les bancs du groupe FI.).
 Cela mérite qu’on prenne le temps de la réflexion avant d’étendre ce type d’administration à de nombreux autres domaines.
 (Applaudissements sur les bancs des groupes GDR et FI.) La parole est à Monsieur le secrétaire d’État.
 Les 13 millions de Français, soit 20 % d’entre eux, qui ne savent pas utiliser une interface numérique sont une priorité de ce gouvernement, et ce depuis le premier jour – 45 % des Français disent qu’ils trouvent plus difficile de passer par une interface numérique.
@@ -471,7 +469,7 @@ Allez donc dire ça à des personnes de quatre-vingts ans ! Par ailleurs, l’ou
 Elle a vu dans le détail comment les impôts dus par chaque citoyen étaient calculés.
 Il est donc possible d’auditer ces algorithmes.
 Il y a une grande naïveté sur ces choses ! La parole est à Monsieur Philippe Gosselin.
-Je n’ai pas de problème avec la « démat » : il est évident qu’on doit vivre avec son époque, mais je ne peux pas vous laisser dire, madame la rapporteure, que les gens sont contents de payer avec leur smartphone.
+Je n’ai pas de problème avec la «démat» : il est évident qu’on doit vivre avec son époque, mais je ne peux pas vous laisser dire, madame la rapporteure, que les gens sont contents de payer avec leur smartphone.
 Certains sont sans doute satisfaits de pouvoir le faire, mais je recevais il y a quelques jours encore des personnes de quatre-vingts ans qui ont dû payer 15 euros supplémentaires faute d’être capables de s’acquitter par voie dématérialisée de plus de 2000 euros d’impôts locaux.
 Ils sont donc sanctionnés parce qu’ils sont démunis de moyens numériques de paiement.
 Voilà pourquoi je ne peux pas laisser dire que tout le monde est content : ce n’est pas vrai.
@@ -573,7 +571,7 @@ La majorité est fracturée ! La parole est à Madame Danièle Obono, pour soute
 L’interdiction de la collecte de certaines données personnelles sensibles, à des fins explicites d’identification d’une personne, doit souffrir une exception, lorsque cette collecte, faite par des organes étatiques, l’est pour des motifs de sécurité intérieure.
 Ces motifs sont évidemment compréhensibles et justifient une dérogation, qui doit cependant être autant encadrée que possible.
 C’est le sens de cet amendement, qui vise à la limiter au strict nécessaire sans empêcher la poursuite d’opérations indispensables à la sécurité de l’ensemble des citoyens et des citoyennes.
-Quel est l’avis de la commission ? Il me semble que la notion de « risque majeur » n’est pas très claire.
+Quel est l’avis de la commission ? Il me semble que la notion de «risque majeur» n’est pas très claire.
 On ne la rencontre pas dans d’autres dispositions législatives de ce type.
 Par ailleurs, l’encadrement existe, puisque le Conseil d’État fixera la liste des traitements autorisés à déroger au droit à la communication d’une violation de données en présence d’un tel risque.
 Il n’est donc pas nécessaire d’instituer des garanties supplémentaires.
@@ -584,7 +582,7 @@ Cela peut se justifier par des raisons importantes liées à la défense ou à l
 Néanmoins, nous ne voudrions pas que ces raisons justifient, par principe, l’absence de communication des données, quand bien même elles ne présenteraient pas de caractère sensible et déterminant.
 Aussi vous proposons-nous de faire intervenir dans la procédure le juge des libertés et de la détention – JLD –, seul garant des libertés individuelles, conformément à l’article 66 de la Constitution, pour valider cette absence de communication.
 En effet, il est important que le juge puisse vérifier le caractère sensible des données lors de la survenue des faits, et que l’on ne se contente pas d’une décision de la CNIL qui affirmerait qu’en ce domaine, en tout état de cause, les données ne seront jamais communiquées.
-À défaut, « la porte serait ouverte à toutes les fenêtres ».
+À défaut, «la porte serait ouverte à toutes les fenêtres».
 Sur l’amendement numéro 71 rectifié, portant article additionnel après l’article 15, je suis saisie par le groupe La France insoumise d’une demande de scrutin public.
 Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.
 Quel est l’avis de la commission sur l’amendement numéro 56 ? Il serait compliqué de faire intervenir le JLD dans un cadre administratif.
@@ -611,13 +609,12 @@ Ce texte n’accorde pas d’habilitation au JLD pour se prononcer, et nous lui 
 Nous affirmons que la procédure d’autorisation par la CNIL et le Conseil d’État va se traduire par le fait que, dans un domaine donné, on ne communiquera pas les données, quelle que soit leur sensibilité et quelles que soient les circonstances.
 Aussi estimons-nous qu’il serait opportun qu’une personne indépendante, garante des libertés individuelles, intervienne en la matière : le JLD nous semble tout indiqué.
 La parole est à Monsieur Loïc Prud’homme, pour soutenir l’amendement numéro 71 rectifié, portant article additionnel après l’article 15.
-Cet amendement a trait aux compteurs « intelligents » Gazpar et Linky, qui n’ont d’intelligent que le nom et devraient plutôt être nommés des « capteurs de données ».
+Cet amendement a trait aux compteurs «intelligents» Gazpar et Linky, qui n’ont d’intelligent que le nom et devraient plutôt être nommés des «capteurs de données».
 Mais non ! De fait, les compteurs Gazpar et Linky collectent, quasiment en temps réel, votre consommation de gaz naturel ou d’électricité.
 Les données collectées peuvent être envoyées à votre opérateur énergétique afin de constituer votre courbe de charge, c’est-à-dire la courbe de votre consommation au cours d’une journée.
 Si vous acceptez cela, vos données sont enregistrées par votre opérateur énergétique.
 D’ailleurs, dans le cas de Linky, ENEDIS ne cache pas que ce qui l’intéresse, ce sont les données personnelles.
-Son président, Philippe Monloubou, n’a-t-il pas déclaré, en février 2017 : « L’entreprise doit anticiper pour faire évoluer son « business model » car nous sommes désormais également un opérateur de big data.
-» Nous sommes là au cœur du sujet.
+Son président, Philippe Monloubou, n’a-t-il pas déclaré, en février 2017 : «L’entreprise doit anticiper pour faire évoluer son «business model» car nous sommes désormais également un opérateur de big data.» Nous sommes là au cœur du sujet.
 Par cet amendement, nous souhaitons mettre fin à une atteinte majeure aux droits et libertés fondamentales numériques – plus particulièrement, en l’occurrence, au droit au consentement.
 L’objectif affirmé de l’efficacité énergétique semble louable – bien qu’illusoire, comme l’a souligné la Cour des comptes dans son rapport public annuel.
 Il apparaît toutefois que la méthode de collecte centralisée, qui relève clairement d’une volonté de monétiser, à terme, du big data, n’est absolument pas la meilleure des méthodes pour concilier la poursuite de l’objectif d’efficacité énergétique et le respect du droit au consentement.
@@ -635,7 +632,7 @@ La parole est à Monsieur Gilles Lurton.
 Madame la ministre, on peut soutenir, en effet, que ces compteurs ne sont pas l’objet du présent texte, mais ils n’en constituent pas moins un problème.
 Dans les mois qui ont suivi l’entrée en vigueur de la loi sur la transition énergétique, les abonnés n’étaient pas en mesure de refuser l’installation d’un compteur Linky.
 Ils le peuvent depuis quelque temps, mais ces dispositifs continuent à créer de nombreuses difficultés dans nos communes.
-Les mouvements dits « anti-Linky » se font aujourd’hui, de mon point de vue, de plus en plus pressants.
+Les mouvements dits «anti-Linky» se font aujourd’hui, de mon point de vue, de plus en plus pressants.
 Pourquoi ? Quand une personne s’oppose à l’installation d’un compteur Linky, ENEDIS, je l’ai dit, respecte leur volonté.
 En revanche, dans une copropriété, le compteur est automatiquement installé, même si les copropriétaires ne le souhaitent pas, ce qui entraîne, à l’heure actuelle, de nombreux litiges dans les communes – dont, j’imagine, nous sommes tous, ici, saisis régulièrement.
 Sur le plan scientifique, je ne suis pas capable de me prononcer sur les effets éventuels du compteur Linky.
@@ -655,7 +652,7 @@ C’est en effet un principe démocratique de base.
 Monsieur Ruffin, je ne peux vous donner la parole, Monsieur Prud’homme s’étant déjà exprimé.
 Je mets aux voix l’amendement numéro 71 rectifié.
 La parole est à Monsieur Jean Terlier, inscrit sur l’article 16 A.
-Largement inspirée des voies d’action américaines sans pour autant en être une traduction littérale, l’action de groupe a été introduite dans le droit de la consommation et le droit de la concurrence par la loi du 17 mars 2014, dite « loi Hamon ».
+Largement inspirée des voies d’action américaines sans pour autant en être une traduction littérale, l’action de groupe a été introduite dans le droit de la consommation et le droit de la concurrence par la loi du 17 mars 2014, dite «loi Hamon».
 Le législateur français n’entendait pas alors seulement se conformer à l’obligation d’harmonisation des pratiques à l’échelle européenne, mais voulait donner aux internautes des outils puissants destinés à contrôler et à sanctionner les e-commerçants.
 Le développement de la e-consommation – ou plus exactement les nouvelles modalités de consommation, de communication, d’information et de recherche – justifie que l’action collective ne soit pas circonscrite au domaine particulier du droit de la consommation.
 C’est pourquoi elle figure également dans la loi du 26 janvier 2016 de modernisation de notre système de santé – et donc dans le droit de la santé.
@@ -741,13 +738,13 @@ Cet amendement vise à créer un droit de communication entre la CNIL et la dire
 Il s’agit de conférer des pouvoirs supplémentaires à la CNIL, dont disposent déjà d’autres autorités administratives indépendantes telles que l’Autorité de la concurrence ou l’Autorité des marchés financiers.
 Pourquoi donner de tels pouvoirs à la CNIL ? Compte tenu de ses nouvelles missions, de la multiplication des acteurs qu’il lui incombe d’analyser et de leur caractère mondialisé – notamment les GAFA –, il est crucial qu’elle dispose des moyens de comprendre les relations financières entre les entités : qui collecte quelles données et où ? Quelles sont les entités juridiques responsables ? C’est ce qu’elle fait déjà, certes, mais l’administration fiscale dispose de données essentielles, qui pourraient contribuer à une meilleure information de la CNIL.
 Quel est l’avis de la commission ? Avis défavorable.
-Cet amendement est à notre sens satisfait par l’article 4 du projet de loi, qui dispose que les agents de la CNIL « peuvent demander communication de tous documents nécessaires à l’accomplissement de leur mission, quel qu’en soit le support, et en prendre copie.
-Ils peuvent recueillir, notamment sur place ou sur convocation, tout renseignement et toute justification utiles et nécessaires à l’accomplissement de leur mission ».
+Cet amendement est à notre sens satisfait par l’article 4 du projet de loi, qui dispose que les agents de la CNIL «peuvent demander communication de tous documents nécessaires à l’accomplissement de leur mission, quel qu’en soit le support, et en prendre copie.
+Ils peuvent recueillir, notamment sur place ou sur convocation, tout renseignement et toute justification utiles et nécessaires à l’accomplissement de leur mission».
 Cela concerne en particulier l’administration fiscale.
 La parole est à Madame Émilie Cariou.
 Ces dispositions permettent-elles de passer outre le secret fiscal ? Je n’en suis pas certaine.
 La parole est à Madame la rapporteure.
-Je vous lis la suite de la phrase : « Le secret ne peut leur être opposé sauf concernant les informations couvertes par le secret professionnel applicable aux relations entre un avocat et son client, par le secret des sources des traitements journalistiques ou […] par le secret médical ».
+Je vous lis la suite de la phrase : «Le secret ne peut leur être opposé sauf concernant les informations couvertes par le secret professionnel applicable aux relations entre un avocat et son client, par le secret des sources des traitements journalistiques ou […] par le secret médical».
 Le secret fiscal n’est pas mentionné parmi les exceptions.
 La parole est à Madame Émilie Cariou.
 Je vérifierai.
@@ -762,10 +759,10 @@ Je ne rentre pas dans le détail, mais l’idée de cet amendement est de redonn
 Chacun pourrait ainsi faire valoir son navigateur ou son moteur de recherche.
 Je ne doute d’ailleurs nullement que toutes ces applications seront conformes au RGPD, mais certains voudront peut-être offrir des services supplémentaires – par exemple, ils ne collecteront pas de données.
 C’est ce libre choix que nous voulons donner aux utilisateurs.
-Je fais partie d’une catégorie un peu informée ; quand je décide de ne pas dire « oui » en cliquant sur la petite flèche en bas à droite, je sais à quoi je me soustrais.
+Je fais partie d’une catégorie un peu informée ; quand je décide de ne pas dire «oui» en cliquant sur la petite flèche en bas à droite, je sais à quoi je me soustrais.
 Ce n’est pas le cas de tout le monde.
 Enfin, tout à l’heure, j’ai employé le mot anglais feedback, et je prie ceux qui ont réagi de m’en excuser.
-Mais, puisqu’ils parlent d’« économie digitale », je leur devais bien ça ! (Sourires.) Quel est l’avis de la commission ? Avis défavorable.
+Mais, puisqu’ils parlent d’«économie digitale», je leur devais bien ça ! (Sourires.) Quel est l’avis de la commission ? Avis défavorable.
 J’approuve l’objectif de votre amendement, mais il me semble que les principes que vous défendez découlent de ceux déjà inscrits dans le RGPD – je pense notamment à la privacy by design, c’est-à-dire la protection de la vie privée dès la conception, ou au consentement libre, qui implique un choix.
 Nous avions décidé de retravailler l’amendement ; il me semble que la rédaction n’est pas encore tout à fait aboutie.
 Remettons l’ouvrage sur le métier.
@@ -775,8 +772,8 @@ Le considérant 78 du règlement, ainsi que son article 25, impose déjà aux re
 Seules les données nécessaires pour chaque finalité spécifique de traitement doivent être traitées.
 De plus, le considérant 32 du RGPD donne une définition du consentement qui implique que l’utilisateur d’un smartphone ne pourra pas se voir imposer l’utilisation, par défaut, d’un navigateur donné.
 Il pourra demander au fabricant du téléphone de lui permettre d’installer un autre navigateur plus respectueux, par exemple, dans la collecte de données, en faisant valoir qu’il n’a pas librement consenti au traitement de ses données par le navigateur qui aurait été préinstallé.
-Dans votre exposé des motifs, vous constatez que « la quasi-totalité des smartphones commercialisés en France […] sont équipés d’un système d’exploitation […] qui impose par défaut le même moteur de recherche à leurs utilisateurs ».
-Vous estimez que « l’utilisation d’un seul service collectant des données à caractère personnel pour d’autres fins que celle de la fourniture de service en question ne permettrait pas d’obtenir un consentement libre de la personne concernée ».
+Dans votre exposé des motifs, vous constatez que «la quasi-totalité des smartphones commercialisés en France […] sont équipés d’un système d’exploitation […] qui impose par défaut le même moteur de recherche à leurs utilisateurs».
+Vous estimez que «l’utilisation d’un seul service collectant des données à caractère personnel pour d’autres fins que celle de la fourniture de service en question ne permettrait pas d’obtenir un consentement libre de la personne concernée».
 Il nous semble qu’en allant au-delà des obligations imposées par le RGPD – en prévoyant par exemple que les produits soient livrés sans logiciel préinstallé, ou que les clauses contractuelles qui conduiraient les fabricants et les distributeurs de terminaux mobiles à installer par défaut un certain système d’exploitation plutôt qu’un autre seraient nulles – nous risquerions d’enfreindre les règles du droit de la concurrence.
 Celui-ci sanctionne les abus de position dominante, mais il est beaucoup plus délicat d’imposer à titre préventif des obligations restrictives, plus difficiles à justifier.
 Le Gouvernement a en outre, je l’ai redit plusieurs fois, fait le choix de ne pas surtransposer le RGPD, afin de construire un marché européen du numérique vraiment unifié, et qui n’oblige pas les acteurs économiques à se conformer à une multitude de législations différentes selon les pays dans lesquels ils opèrent.
@@ -787,7 +784,7 @@ Je suis tout à fait disposée à poursuivre ces échanges constructifs, avec to
 La parole est à Monsieur Philippe Gosselin.
 Votre position, madame la garde des sceaux, est raisonnable.
 Mais notre collègue Éric Bothorel soulève une question importante.
-Nous ne voulons pas nous voir imposer des services « à l’insu de notre plein gré », comme on dit ! De telles dispositions pourraient redonner confiance dans la vie numérique, et faire tomber quelques fantasmes.
+Nous ne voulons pas nous voir imposer des services «à l’insu de notre plein gré», comme on dit ! De telles dispositions pourraient redonner confiance dans la vie numérique, et faire tomber quelques fantasmes.
 Nous devons absolument creuser cette question, collectivement.
 La parole est à Monsieur Cédric Villani.
 Loin de moi l’idée de contredire Madame la rapporteure et Madame la garde des sceaux, mais je voudrais apporter, sur le fond, de l’eau au moulin de notre collègue Éric Bothorel.
@@ -801,8 +798,8 @@ Ces pratiques sont inacceptables et constituent une véritable distorsion de con
 Nous confions aux moteurs de recherche nos rêves, nos espoirs, nos peurs, nos intérêts aussi.
 Ces données sont précieuses et il est important que nous nous saisissions activement de ce sujet.
 (Applaudissements sur les bancs des groupes REM et LR, ainsi que sur plusieurs bancs du groupe GDR.) La parole est à Monsieur François Ruffin.
-J’entends parler de libre choix, de consentement éclairé, ou à l’inverse de services imposés « à l’insu de notre plein gré ».
-Vous me pardonnerez de revenir un peu en arrière, mais il y a un fossé entre la loi que nous écrivons ici et la réalité ! Quand quelqu’un vient chez vous poser un compteur Linky, il commence par dire « bonjour, c’est EDF ».
+J’entends parler de libre choix, de consentement éclairé, ou à l’inverse de services imposés «à l’insu de notre plein gré».
+Vous me pardonnerez de revenir un peu en arrière, mais il y a un fossé entre la loi que nous écrivons ici et la réalité ! Quand quelqu’un vient chez vous poser un compteur Linky, il commence par dire «bonjour, c’est EDF».
 Mais ce n’est pas EDF qui pose les compteurs Linky ! Il dit ensuite que c’est obligatoire, ce qui n’est pas vrai.
 Je ne fais là que vous rapporter des témoignages, qui nous assurent aussi que l’entreprise revient jusqu’à ce que la personne accepte la pose de ce compteur.
 Là aussi, la question du libre choix et du consentement éclairé est posée.
@@ -824,11 +821,11 @@ Je prends acte des propositions de Madame la garde des sceaux, et je me réjouis
 Je retire l’amendement, pour me mettre immédiatement au travail avec tous ceux qui l’ont cosigné, afin d’atteindre notre but dans des délais acceptables.
 (Applaudissements sur plusieurs bancs du groupe REM.) La parole est à Monsieur Loïc Prud’homme, pour soutenir l’amendement numéro 57.
 Par ce projet de loi de transposition, et sans que cela n’ait été explicitement prévu par la directive européenne relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel, le Gouvernement inaugure une libéralisation du fichage en facilitant l’accès aux données – la création d’un traitement étant elle-même facilitée – et en ouvrant la possibilité à un plus grand nombre d’acteurs de les utiliser.
-Cet article, qui est l’un des plus problématiques du projet de loi, permet la généralisation des fichiers en matière pénale « à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces », et supprime l’obligation de leur autorisation par arrêté ministériel.
+Cet article, qui est l’un des plus problématiques du projet de loi, permet la généralisation des fichiers en matière pénale «à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, y compris la protection contre les menaces pour la sécurité publique et la prévention de telles menaces», et supprime l’obligation de leur autorisation par arrêté ministériel.
 À l’instar de la CNIL, nous souhaitons promouvoir le renforcement du droit commun plutôt que son démantèlement ou la facilitation des fichiers.
-Dans son avis du 30 novembre 2017, la CNIL estime que « le projet de loi ne prévoit aucune disposition concernant le droit d’opposition des personnes concernées, qui doit pouvoir, y compris en ces matières, trouver à s’appliquer dans des circonstances particulières, comme par exemple dans le cadre du traitement de données relatives à des personnes victimes dans le traitement des antécédents judiciaires ».
+Dans son avis du 30 novembre 2017, la CNIL estime que «le projet de loi ne prévoit aucune disposition concernant le droit d’opposition des personnes concernées, qui doit pouvoir, y compris en ces matières, trouver à s’appliquer dans des circonstances particulières, comme par exemple dans le cadre du traitement de données relatives à des personnes victimes dans le traitement des antécédents judiciaires».
 Nous ne faisons ici qu’utiliser les marges de manœuvre prévues par le droit européen, au travers de la notion de mission d’intérêt public.
-Selon les termes mêmes du paragraphe 5 de l’article 36 du RGPD, – je les répète, car la pédagogie, c’est la répétition : « nonobstant le paragraphe 1, le droit des États membres peut exiger que les responsables du traitement consultent l’autorité de contrôle et obtiennent son autorisation préalable en ce qui concerne le traitement effectué par un responsable du traitement dans le cadre d’une mission d’intérêt public exercée par celui-ci, y compris le traitement dans le cadre de la protection sociale et de la santé publique ».
+Selon les termes mêmes du paragraphe 5 de l’article 36 du RGPD, – je les répète, car la pédagogie, c’est la répétition : «nonobstant le paragraphe 1, le droit des États membres peut exiger que les responsables du traitement consultent l’autorité de contrôle et obtiennent son autorisation préalable en ce qui concerne le traitement effectué par un responsable du traitement dans le cadre d’une mission d’intérêt public exercée par celui-ci, y compris le traitement dans le cadre de la protection sociale et de la santé publique».
 La parole est à Madame la rapporteure, pour soutenir l’amendement numéro 13.
 Amendement rédactionnel.
 La parole est à Madame la rapporteure, pour soutenir l’amendement numéro 14.

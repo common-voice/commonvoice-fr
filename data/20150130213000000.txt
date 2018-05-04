@@ -19,8 +19,8 @@ La parole est à Monsieur Philippe Houillon, inscrit sur l’article 11.
 Cet article vise non pas les cas d’exploitation abusive d’une position dominante, mais les cas où une entreprise ou un groupe d’entreprises seraient en position dominante ou soulèveraient des préoccupations de concurrence du fait de prix élevés.
 Le texte prévoit la possibilité pour l’Autorité de la concurrence de prononcer des injonctions structurelles qui peuvent toucher à la propriété et, en cas de non-respect de celles-ci, de prononcer des sanctions pécuniaires.
 Monsieur le ministre, ces dispositions me paraissent poser un problème d’ordre constitutionnel.
-Je me permets de vous renvoyer à la décision du Conseil constitutionnel qui a été rendue concernant la loi favorisant la diffusion et la protection de la création sur internet, dite loi HADOPI, qui est très claire : une autorité administrative indépendante peut « exercer un pouvoir de sanction dans la mesure nécessaire à l’accomplissement de sa mission dès lors que l’exercice de ce pouvoir est assorti par la loi de mesures destinées à assurer la protection des droits et libertés constitutionnellement garantis ».
-Il est ajouté que doivent en particulier être respectés « le principe de la légalité des délits et des peines ainsi que les droits de la défense, principes applicables à toute sanction ayant le caractère d’une punition, même si le législateur a laissé le soin de la prononcer à une autorité de nature non juridictionnelle ».
+Je me permets de vous renvoyer à la décision du Conseil constitutionnel qui a été rendue concernant la loi favorisant la diffusion et la protection de la création sur internet, dite loi HADOPI, qui est très claire : une autorité administrative indépendante peut «exercer un pouvoir de sanction dans la mesure nécessaire à l’accomplissement de sa mission dès lors que l’exercice de ce pouvoir est assorti par la loi de mesures destinées à assurer la protection des droits et libertés constitutionnellement garantis».
+Il est ajouté que doivent en particulier être respectés «le principe de la légalité des délits et des peines ainsi que les droits de la défense, principes applicables à toute sanction ayant le caractère d’une punition, même si le législateur a laissé le soin de la prononcer à une autorité de nature non juridictionnelle».
 Ce texte pose problème car il ne précise pas la nature des préoccupations de concurrence susceptibles d’être remarquées par l’Autorité de la concurrence le cas échéant.
 Très juste ! Rien n’est dit non plus sur ce que sont des prix élevés ; il s’agit de prix non pas trop élevés mais simplement élevés.
 On ne dit pas non plus quel est l’objectif poursuivi par les recommandations ou injonctions structurelles de l’Autorité de la concurrence ni ce qui serait le cas échéant interdit.
@@ -28,7 +28,7 @@ Enfin, quant au principe même des injonctions structurelles, le Conseil constit
 En revanche, le Conseil constitutionnel ne s’est pas prononcé sur la question de la compatibilité avec le droit de propriété.
 Or, ce texte vient permettre à l’Autorité de la concurrence de prononcer des injonctions structurelles qui touchent au droit de propriété.
 Le texte présente donc deux difficultés.
-Premièrement, il pose problème en matière de légalité : alors que le texte se doit d’être clair et précis, il est flou quant à « l’incrimination », même s’il ne s’agit pas ici de matière pénale.
+Premièrement, il pose problème en matière de légalité : alors que le texte se doit d’être clair et précis, il est flou quant à «l’incrimination», même s’il ne s’agit pas ici de matière pénale.
 Deuxièmement, les injonctions structurelles peuvent entrer en conflit avec le droit de propriété, ce qui pose une question d’ordre constitutionnel.
 Ce texte ne saurait donc prospérer.
 C’est très juste, car on octroie un pouvoir de sanction sans caractériser l’infraction ! La parole est à Madame Véronique Louwagie.
@@ -40,7 +40,7 @@ On peut toujours penser que des améliorations sont possibles, et tout est toujo
 Je m’attarderai plutôt sur la rédaction de l’article.
 Concernant les aspects quantitatifs et les modalités d’application, tout d’abord, comment apprécier le seuil de 50 % de part de marché d’une zone de chalandise qui n’est pas définie ? De quelle zone parle-t-on ? Cette imprécision introduit un élément de subjectivité, et une notion à géométrie variable risque de donner lieu à beaucoup de contentieux.
 J’en viens à présent aux aspects juridiques.
-Premièrement, comment peut-on apprécier ce qui représente, aux termes de l’alinéa 2 de l’article, « des préoccupations de concurrence du fait de prix ou de marges élevés » ? À partir de quand a-t-on des préoccupations ? Sont-elles prises en compte lorsqu’elles sont importantes, sans seuil ? À quel moment déclenche-t-on cette appréciation des préoccupations ? Deuxièmement, puisqu’il est fait état de comparaisons avec « des moyennes habituellement constatées », la notion de moyenne est-elle pertinente ? Une moyenne apporte, il est vrai, une indication, mais peut-elle pour autant constituer une valeur de référence dans tous les cas de figure ? C’est une vraie question.
+Premièrement, comment peut-on apprécier ce qui représente, aux termes de l’alinéa 2 de l’article, «des préoccupations de concurrence du fait de prix ou de marges élevés» ? À partir de quand a-t-on des préoccupations ? Sont-elles prises en compte lorsqu’elles sont importantes, sans seuil ? À quel moment déclenche-t-on cette appréciation des préoccupations ? Deuxièmement, puisqu’il est fait état de comparaisons avec «des moyennes habituellement constatées», la notion de moyenne est-elle pertinente ? Une moyenne apporte, il est vrai, une indication, mais peut-elle pour autant constituer une valeur de référence dans tous les cas de figure ? C’est une vraie question.
 Troisièmement, la référence à une estimation introduit également beaucoup d’incertitude dans le texte.
 Vous reconnaîtrez avec moi qu’il s’agit de quelque chose d’imprécis, qui s’appuie sur des critères subjectifs.
 Derrière tout cela, il y a un vrai risque de contentieux.
@@ -58,8 +58,7 @@ Ces dispositions sont uniques en Europe, monsieur le ministre, et donneront à l
 Je propose de supprimer cet article afin que notre situation reste équilibrée par rapport à celle des autres États européens.
 La parole est à Monsieur Marc Dolez, pour soutenir l’amendement de suppression numéro 2464.
 Il est défendu.
-Quel est l’avis de la commission ? Les exposés sommaires des deux premiers amendements ont en commun de justifier la demande de suppression de l’article par la phrase : « ce pouvoir accru s’apparente à de l’économie administrée, ce qui est contraire à la liberté d’entreprendre et au droit de propriété constitutionnellement garantis.
-» Raisonnement pour le moins surprenant si l’on considère que la situation de quasi-monopole constitue, au fond, une économie administrée par le dominant.
+Quel est l’avis de la commission ? Les exposés sommaires des deux premiers amendements ont en commun de justifier la demande de suppression de l’article par la phrase : «ce pouvoir accru s’apparente à de l’économie administrée, ce qui est contraire à la liberté d’entreprendre et au droit de propriété constitutionnellement garantis.» Raisonnement pour le moins surprenant si l’on considère que la situation de quasi-monopole constitue, au fond, une économie administrée par le dominant.
 Pour notre part, nous préférons une concurrence saine qui s’exerce au bénéfice des consommateurs.
 Il ne s’agit pas ici de proposer de sanctionner l’abus de position dominante, la notion de faute n’étant pas nécessairement requise.
 Constatons simplement qu’en France, ce sont six groupes qui détiennent 85 % des parts de marché de la distribution alimentaire.
@@ -104,10 +103,10 @@ Sans quoi, il n’y a plus de concurrence.
 Plus on souhaite renforcer les règles d’urbanisme commercial, plus cet outil est nécessaire.
 La parole est à Monsieur Philippe Houillon.
 Monsieur le ministre, vous avez fini par reconnaître dans votre intervention qu’une sanction peut bien être prononcée contre l’entreprise si elle n’a pas déféré à l’injonction structurelle.
-Cela vous renvoie à l’obligation imposée par la jurisprudence du Conseil constitutionnel et par la décision citée tout à l’heure, de clarifier ce qu’est une « préoccupation de concurrence ».
+Cela vous renvoie à l’obligation imposée par la jurisprudence du Conseil constitutionnel et par la décision citée tout à l’heure, de clarifier ce qu’est une «préoccupation de concurrence».
 Vous ne m’avez pas répondu sur ce point.
 Autrement, nous verrons bien ce que jugera le Conseil constitutionnel.
-Par ailleurs, vous avez parlé de rigueur : convenez que je n’ai jamais employé le terme d’« expropriation » ! J’ai dit qu’une injonction structurelle pouvait aboutir à la cession d’une propriété ou, en cas d’inexécution, à une sanction.
+Par ailleurs, vous avez parlé de rigueur : convenez que je n’ai jamais employé le terme d’«expropriation» ! J’ai dit qu’une injonction structurelle pouvait aboutir à la cession d’une propriété ou, en cas d’inexécution, à une sanction.
 J’ai dit que si le Conseil constitutionnel s’est prononcé sur la loi relative à la Nouvelle-Calédonie sous l’angle de la liberté d’entreprendre, il ne s’est pas prononcé sous l’angle du droit de propriété.
 Comment peut-on dire qu’une injonction structurelle qui oblige une entreprise à vendre, sous peine d’une lourde sanction – jusqu’à 10 % du montant du chiffre d’affaires mondial hors taxe ! – ne touche pas au droit de propriété ? Il faut bien du talent… je doute que le vôtre résistera à l’examen du Conseil constitutionnel.
 La parole est à Monsieur Gérard Cherpion.
@@ -176,9 +175,9 @@ La parole est à Monsieur Dino Cinieri.
 Je retire l’amendement.
 Je suis saisie de deux amendements identiques, numéros 518 et 666.
 La parole est à Monsieur Patrick Hetzel, pour soutenir l’amendement numéro 518.
-Cet amendement, tout en étant rédactionnel, touche à une question de fond puisqu’il vise à ajouter, à la première phrase de l’alinéa 2, après le mot « dominante », le terme « abusive ».
+Cet amendement, tout en étant rédactionnel, touche à une question de fond puisqu’il vise à ajouter, à la première phrase de l’alinéa 2, après le mot «dominante», le terme «abusive».
 L’article L.
-52-26 du code du commerce prévoit l’intervention de l’Autorité de la concurrence « en cas d’exploitation abusive d’une position dominante ».
+52-26 du code du commerce prévoit l’intervention de l’Autorité de la concurrence «en cas d’exploitation abusive d’une position dominante».
 Tel est l’esprit de la loi.
 Avoir une position dominante, en soi, n’est pas condamnable.
 Le seul boulanger d’un village peut se retrouver en position dominante mais ce n’est pas pour autant qu’il va en abuser.
@@ -187,7 +186,7 @@ La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro 66
 Je ne pense pas que l’on puisse reprocher à quiconque de réussir.
 Bien au contraire, nous aimerions que ce soit plus souvent le cas dans notre pays.
 Le fait de réussir conduit souvent à occuper une position dominante.
-Le terme de « dominante », sans spécification supplémentaire, est trompeur et doit être complété par celui d’« abusive ».
+Le terme de «dominante», sans spécification supplémentaire, est trompeur et doit être complété par celui d’«abusive».
 Quel est l’avis de la commission ? Votre démonstration peut être inversée.
 Une position dominante peut être constituée sans que l’on puisse considérer qu’elle est répréhensible mais, par elle-même, elle déclenche des préoccupations de concurrence dont on juge ensuite si elle est abusive ou pas.
 L’on peut considérer que des positions dominantes ne sont pas abusives parce que, par exemple, aucune autre enseigne n’est susceptible de s’implanter sur un territoire donné.
@@ -270,10 +269,10 @@ Quel est l’avis du Gouvernement ? Avis défavorable.
 Vous lui avez coupé la chique, madame la présidente.
 C’est de la maltraitance.
 (Sourires.) La parole est à Monsieur Patrick Hetzel, pour soutenir l’amendement numéro 520.
-Pour rester cohérent, je propose à la première phrase de l’alinéa 2 de l’article 11, de substituer aux mots : « soulève des préoccupations de concurrence », les mots : « donne lieu à des pratiques abusives ».
-À mon sens, « les préoccupations de concurrence » sont des termes plus vagues que « les pratiques abusives », que l’on caractérise assez bien.
+Pour rester cohérent, je propose à la première phrase de l’alinéa 2 de l’article 11, de substituer aux mots : «soulève des préoccupations de concurrence», les mots : «donne lieu à des pratiques abusives».
+À mon sens, «les préoccupations de concurrence» sont des termes plus vagues que «les pratiques abusives», que l’on caractérise assez bien.
 Quel est l’avis de la commission ? Avis défavorable.
-En parlant de « préoccupations de concurrence », on peut entrer dans la procédure sans présumer de son résultat.
+En parlant de «préoccupations de concurrence», on peut entrer dans la procédure sans présumer de son résultat.
 La parole est à Monsieur Philippe Vitel, pour soutenir l’amendement numéro 1127.
 L’amendement est défendu.
 Je suis saisie de deux amendements identiques, numéros 519 et 667.
@@ -335,8 +334,8 @@ De fait, dès lors que l’on vide l’injonction structurelle de son sens, il e
 Je reviens donc à la charge, car le délai de deux mois paraît très court pour donner suite aux demandes très précises adressées aux entreprises – qu’il s’agisse de cessions d’actifs ou de modifications, voire de ruptures contractuelles.
 L’amendement tend donc à porter ce délai de deux à trois mois, ce qui semble très raisonnable.
 La parole est à Monsieur Jean-Frédéric Poisson, pour soutenir l’amendement numéro 668.
-Monsieur le ministre, admettons que vous disposiez de données « objectives » pour susciter les préoccupations de l’Autrorité de la concurrence et enclencher une procédure.
-Mais qu’en sera-t-il pour les « moyennes habituellement constatées dans le secteur économique concerné » auxquelles se réfère l’alinéa 2 ? Lorsque, pour rédiger le décret, vos services devront définir ce « secteur économique concerné », il apparaîtra vite que l’objectivité dont vous vous targuez est plus difficile à atteindre que vous ne le pensez.
+Monsieur le ministre, admettons que vous disposiez de données «objectives» pour susciter les préoccupations de l’Autrorité de la concurrence et enclencher une procédure.
+Mais qu’en sera-t-il pour les «moyennes habituellement constatées dans le secteur économique concerné» auxquelles se réfère l’alinéa 2 ? Lorsque, pour rédiger le décret, vos services devront définir ce «secteur économique concerné», il apparaîtra vite que l’objectivité dont vous vous targuez est plus difficile à atteindre que vous ne le pensez.
 Je me borne à vous le signaler et nous regarderons tout cela avec une grande attention.
 Je devine, aux échanges que vous avez avec votre cabinet, que vous ne voyez pas là de problème.
 Mais reportez-vous, par exemple, à une étude de chambre de commerce destinée à déterminer une zone de chalandise.
@@ -354,7 +353,7 @@ Je suis sensible, en revanche, à l’argument qui vous conduit à proposer, dan
 Compte tenu du caractère raisonnable de cette proposition et de votre préoccupation légitime, avis favorable sur cet amendement.
 La parole est à Monsieur Philippe Vitel, pour soutenir l’amendement numéro 1125.
 L’alinéa 4 inclut les terrains, bâtis ou non, dans le champ des cessions d’actifs que l’Autorité de la concurrence pourra imposer.
-Cela constitue une atteinte directe au droit de propriété et l’amendement tend donc à supprimer les mots : « y compris de terrains, bâtis ou non ».
+Cela constitue une atteinte directe au droit de propriété et l’amendement tend donc à supprimer les mots : «y compris de terrains, bâtis ou non».
 Quel est l’avis de la commission ? Avis très défavorable, compte tenu des stratégies grossières de rétention d’actifs qui se développent autour de certains centres commerciaux, lesquels achètent des terrains pour les neutraliser et éviter que la concurrence ne vienne s’y installer.
 Quel est l’avis du Gouvernement ? Défavorable, pour les mêmes raisons.
 La parole est à Monsieur Philippe Vitel, pour soutenir l’amendement numéro 1126.
@@ -367,27 +366,27 @@ Je suis saisie de plusieurs amendements portant article additionnel après l’a
 La parole est à Monsieur Yves Jégo, pour soutenir l’amendement numéro 1844.
 Au-delà de son caractère apparemment anecdotique, cet amendement, qui me tient à cœur, touche en fait à l’objet de votre loi, à savoir la croissance, laquelle repose d’abord sur la confiance.
 De nombreuses entreprises françaises qui se battent pour continuer à produire dans notre pays se voient concurrencées par des entreprises qui ne produisent plus du tout, ou qui ne produisent plus que partiellement, sur le territoire national.
-C’est la réalité, bien connue, des délocalisations, à laquelle on pourrait ajouter les « délocalisations partielles », de nombreux produits étant fabriqués en partie hors de France, et en partie seulement sur le territoire national.
+C’est la réalité, bien connue, des délocalisations, à laquelle on pourrait ajouter les «délocalisations partielles», de nombreux produits étant fabriqués en partie hors de France, et en partie seulement sur le territoire national.
 Ce phénomène crée évidemment bien des inquiétudes pour l’emploi et l’industrialisation de notre pays et il nous faut tenter par tous les moyens de lutter contre ces dérives.
 À cette fin, il faut que nous donnions aux consommateurs les armes du choix et de la lutte, afin qu’ils puissent arbitrer leur acte d’achat en toute connaissance de cause.
-Depuis plusieurs années se développe un phénomène, renforcé par une récente remise au goût du jour du « made in France » : la prolifération sur de nombreux produits – il suffit pour s’en convaincre de se rendre dans les rayons de n’importe quel magasin, grand ou petit – de drapeaux bleu-blanc-rouge, sans autres indications, qui sont souvent un repère laissant penser au consommateur que le produit auquel il s’intéresse est français ou fabriqué en France.
+Depuis plusieurs années se développe un phénomène, renforcé par une récente remise au goût du jour du «made in France » : la prolifération sur de nombreux produits – il suffit pour s’en convaincre de se rendre dans les rayons de n’importe quel magasin, grand ou petit – de drapeaux bleu-blanc-rouge, sans autres indications, qui sont souvent un repère laissant penser au consommateur que le produit auquel il s’intéresse est français ou fabriqué en France.
 Or, il est rare que, lors de l’achat, on passe une heure à examiner toutes les étiquettes : le drapeau attire l’œil et les entreprises ne s’y trompent pas.
 Il y a dans cette utilisation du drapeau français une série de fraudes, certaines entreprises et certains producteurs utilisant impunément le drapeau bleu-blanc-rouge parce que la recette ou une partie du produit est française, ou parce que l’un de ses éléments a pu passer par la France.
 Ces fraudes sont punissables par la loi – j’anticipe en cela la réponse que vous allez me faire et que vous m’avez du reste déjà faite en commission, selon laquelle la fraude et la tromperie du consommateur sont un délit qui peut déjà être puni.
 Cependant, compte tenu des moyens limités de la direction ad hoc de vos services, les sanctions sont faibles, le nombre des contrôles insignifiant – pour ne pas dire qu’ils sont inexistants – et la puissance des producteurs est évidemment bien supérieure à celle dont dispose l’administration pour procéder à des contrôles.
 L’amendement propose donc une mesure simple : le contrôle ne s’opérera plus a posteriori, mais il s’agit d’interdire l’utilisation du drapeau bleu-blanc-rouge sur un produit, sauf si l’entreprise a les moyens de démontrer que ce produit est bien fabriqué en France.
 Cette mesure très simple ne nuira pas aux entreprises de bonne foi, mais leur permettra au contraire de mieux valoriser leur différence.
-Elle contribuera à donner au combat pour le « made in France », que nous soutenons tous, sur tous les bancs de cet hémicycle, une traduction concrète et opérationnelle et évitera des dérives et des pratique de marketing destinées à tromper le consommateur et à dévoyer l’esprit de vérité qui doit commander la présentation des produits.
+Elle contribuera à donner au combat pour le «made in France », que nous soutenons tous, sur tous les bancs de cet hémicycle, une traduction concrète et opérationnelle et évitera des dérives et des pratique de marketing destinées à tromper le consommateur et à dévoyer l’esprit de vérité qui doit commander la présentation des produits.
 C’est là, même si elle peut sembler anecdotique, une vraie question, qui sous-tend une réorientation de la consommation vers des produits véritablement français.
 Si l’on ne réorientait même qu’un pourcentage infime de la consommation, ce sont des centaines, des milliers d’emplois qui seraient concernés.
-Cette disposition qui ne coûte pas un sou d’argent public peut être un levier intéressant, faisant rimer « croissance » avec « confiance » et indiquant aux consommateurs que, s’ils aperçoivent un drapeau bleu-blanc-rouge sur un produit, il peuvent avoir la certitude que ce produit a vraiment été fabriqué en France et que, s’ils le choisissent, leur acte d’achat est citoyen, avec un retour sur l’emploi.
+Cette disposition qui ne coûte pas un sou d’argent public peut être un levier intéressant, faisant rimer «croissance» avec «confiance» et indiquant aux consommateurs que, s’ils aperçoivent un drapeau bleu-blanc-rouge sur un produit, il peuvent avoir la certitude que ce produit a vraiment été fabriqué en France et que, s’ils le choisissent, leur acte d’achat est citoyen, avec un retour sur l’emploi.
 Vous savez, monsieur le ministre, mon attachement à cette question.
-J’ai d’ailleurs eu l’occasion, par l’intermédiaire d’un rapport parlementaire, de proposer la mise en œuvre du label « Origine France garantie », qui fixe des critères assez exigeants pour qualifier l’origine des produits.
+J’ai d’ailleurs eu l’occasion, par l’intermédiaire d’un rapport parlementaire, de proposer la mise en œuvre du label «Origine France garantie», qui fixe des critères assez exigeants pour qualifier l’origine des produits.
 C’est dans ce cadre que je m’exprime et que je propose, au nom des milliers d’entreprises qui produisent en France et qui n’en peuvent plus de voir d’autres entreprises, qui ne le font plus, s’attribuer scandaleusement l’origine française de leurs produits malgré les contrôles que vous diligentez.
 Je ne doute pas que vous allez me dire que vous allez renforcer les contrôles, mais cela ne suffira pas si l’on n’inverse pas le mouvement.
 C’est, je le répète, sur une mesure simple et qui ne coûtera pas un sou d’argent public que j’invite l’Assemblée réfléchir.
 Se battre pour l’emploi, c’est aussi parfois faire des choses très simples qui peuvent se révéler des leviers très appréciables.
-J’attends avec impatience votre réponse, et avec moi les 350 entreprises de l’association Pro France qui portent le label « Origine France garantie ».
+J’attends avec impatience votre réponse, et avec moi les 350 entreprises de l’association Pro France qui portent le label «Origine France garantie».
 Elles l’attendent avec d’autant plus d’impatience qu’elles emploient en France, qu’elles ont fait le choix de rester sur notre territoire, de respecter les normes et les règles sanitaires et sociales et de payer des impôts et des charges élevées, et qu’elles entendent être défendues face à ceux qui s’attribuent le drapeau français alors qu’ils ont depuis bien longtemps délocalisé leur production.
 Monsieur le ministre, votre engagement et votre réponse seront, pour moi-même et pour le groupe UDI, importants dans la détermination de la position que nous adopterons globalement sur votre texte.
 Quel est l’avis de la commission ? Monsieur le ministre Jégo, vous avez rappelé à juste titre que la commission s’était prononcée défavorablement sur votre proposition.
@@ -397,8 +396,8 @@ Quel est l’avis du Gouvernement ? Monsieur le député Jégo, j’ai entendu v
 Il est vrai que j’ai émis un avis défavorable et, si je suivais scrupuleusement ce que mes services m’ont préparé, je vous répondrais que le droit de la consommation, et en particulier l’article L.
 121-1 du code de la consommation, qui prohibe les pratiques commerciales trompeuses, permet de couvrir le cas que vous évoquez.
 Il n’y a que les juristes qui le savent ! On a les mêmes services ! C’est vrai que vous avez des services comparables, lesquels ont donc dû vous fournir des réponses comparables ! Néanmoins, je dois dire que l’exposé des motifs que vous venez de faire montre bien la sensibilité du sujet.
-Mon prédécesseur a initié un travail sur la marque « France », travail qui continue parce qu’il est important, et je sais que vous y tenez également.
-Il s’agit d’un label : on parle non pas de droit « en dur » mais, en quelque sorte, d’éléments de signalisation de la qualité et de reconnaissance de certains producteurs français.
+Mon prédécesseur a initié un travail sur la marque «France», travail qui continue parce qu’il est important, et je sais que vous y tenez également.
+Il s’agit d’un label : on parle non pas de droit «en dur» mais, en quelque sorte, d’éléments de signalisation de la qualité et de reconnaissance de certains producteurs français.
 Nous voulons continuer cette entreprise, pour laquelle nous proposerons des initiatives dans les prochains mois.
 Nous voulons développer ces pratiques en France et à l’international.
 Pour toutes ces raisons, je vais donner un avis favorable à votre amendement, contrairement à ce qui m’est suggéré.
@@ -414,10 +413,10 @@ La parole est à Monsieur le rapporteur général, pour soutenir l’amendement 
 Cet amendement est repris, la commission ayant émis un avis favorable.
 Je suis saisie de plusieurs amendements portant article additionnel après l’article 11 bis.
 La parole est à Monsieur Daniel Gibbes, pour soutenir l’amendement numéro 1654.
-Le récent scandale de la viande de cheval estampillée « pur bœuf » dans différents produits transformés, a mis en avant une défaillance dans l’étiquetage des produits alimentaires à base de viande.
+Le récent scandale de la viande de cheval estampillée «pur bœuf» dans différents produits transformés, a mis en avant une défaillance dans l’étiquetage des produits alimentaires à base de viande.
 Aujourd’hui, de nombreux industriels de l’agroalimentaire, certainement afin de réduire les coûts à tout prix, utilisent dans leurs préparations du minerai de viande.
 La législation actuelle ne contraint pas les industriels à préciser le type de viande utilisée.
-Or, bien souvent, ces plats préparés sont estampillés « pur bœuf », alors qu’il s’agit en réalité de déchets reconstitués qui ont l’apparence de la viande.
+Or, bien souvent, ces plats préparés sont estampillés «pur bœuf», alors qu’il s’agit en réalité de déchets reconstitués qui ont l’apparence de la viande.
 Cet amendement a pour but de préciser le type de viande utilisée – morceau de chair ou minerai – afin de mieux informer le consommateur et de mettre fin à une pratique qui peut s’apparenter à de la tromperie.
 Quel est l’avis de la commission ? Défavorable.
 Pour quelle raison ? Quel est l’avis du Gouvernement ? La préoccupation exprimée par l’amendement que vous venez de présenter, monsieur Gibbes, est partagée par le Gouvernement.
@@ -500,9 +499,9 @@ En votant cet amendement, nous enverrions un signal fort à un moment où trop d
 En effet il y a souvent moins d’intérêt à reprendre ces entreprises, souvent petites, qu’à en créer une nouvelle.
 Quel est l’avis de la commission ? Avis défavorable.
 Une telle mesure mérite un débat plus approfondi, de préférence dans le cadre d’un projet de loi de finances.
-L’introduire dans ce texte serait un peu « cavalier », si j’ose ce mot.
+L’introduire dans ce texte serait un peu «cavalier», si j’ose ce mot.
 Nous ne disposons pas des éléments qui nous permettraient d’en évaluer l’impact.
-(Exclamations sur les bancs du groupe UMP.)  C’est un peu fort ! S’il n’y avait que dans ce cas ! Quel est l’avis du Gouvernement ? Je comprends votre préoccupation, madame Louwagie, mais, premièrement – et votre exposé des motifs le reconnaît « en creux » – il est tout de même plus risqué de créer une entreprise, et les bénéfices des premières années sont moindres qu’en cas de reprise d’une entreprise.
+(Exclamations sur les bancs du groupe UMP.)  C’est un peu fort ! S’il n’y avait que dans ce cas ! Quel est l’avis du Gouvernement ? Je comprends votre préoccupation, madame Louwagie, mais, premièrement – et votre exposé des motifs le reconnaît «en creux» – il est tout de même plus risqué de créer une entreprise, et les bénéfices des premières années sont moindres qu’en cas de reprise d’une entreprise.
 C’est la première raison qui justifie le ciblage de ces exonérations.
 S’il faut sans doute envisager un dispositif adapté à certaines zones où la reprise est particulièrement compliquée, ce n’est pas la finalité du dispositif d’exonération dont vous proposez l’extension.
 Deuxièmement, une telle extension aurait un coût budgétaire qui n’est pas prévu ici.
@@ -600,8 +599,7 @@ La parole est à Monsieur Julien Aubert.
 Je ne peux pas laisser passer le plaisir de soutenir cet amendement présenté par Madame Pompili, avec néanmoins un regret.
 C’est presque une alliance grecque ! Vous dites qu’il est excessif, mais je constate que vous ne présentez pas de proposition alternative.
 Il y a des points de diagnostic sur lesquels nous sommes d’accord : nous sommes d’accord qu’il y a eu un grignotage des terres, nous sommes d’accord qu’il y a eu une explosion des constructions de zones commerciales, nous sommes d’accord que dans certains endroits, il y a une vraie pression sur le sol.
-Nous sommes également convaincus que laisser agir la concurrence, malgré tous les filtres mis en place, se traduit par la pression qui s’exerce sur les maires et les élus locaux, avec ce célèbre argument : « La commune d’à côté va autoriser l’hypermarché, si nous ne le faisons pas les premiers, toute la valeur marchande va se déporter et nous perdrons de la richesse.
-» Cette concurrence malsaine entre les territoires fait de l’environnement sa première victime.
+Nous sommes également convaincus que laisser agir la concurrence, malgré tous les filtres mis en place, se traduit par la pression qui s’exerce sur les maires et les élus locaux, avec ce célèbre argument : «La commune d’à côté va autoriser l’hypermarché, si nous ne le faisons pas les premiers, toute la valeur marchande va se déporter et nous perdrons de la richesse.» Cette concurrence malsaine entre les territoires fait de l’environnement sa première victime.
 De la part d’un Gouvernement qui a défendu la transition énergétique et qui a fait de l’environnement l’une de ses grandes batailles, je conçois que vous ne soyez pas d’accord avec un dispositif peut-être excessif, mais dans ce cas, j’ai envie de vous demander : que proposez-vous en échange ? Le temps passe.
 Attendons-nous que dans dix ans, un rapport de la Cour des comptes, excellente source par ailleurs, constate que la situation s’est aggravée ? (Exclamations sur les bancs du groupe SRC.) Eh oui ! La parole est à Madame Barbara Pompili, pour soutenir l’amendement numéro 1956 rectifié.
 Ceci est ce qu’on appelle un amendement de repli : plutôt que de demander un avis contraignant, il demande un avis simple de la commission départementale.
@@ -712,7 +710,7 @@ Le prix d’usage est défini comme la valeur marchande associée à l’usage d
 Quel est l’avis du Gouvernement ? Favorable.
 La parole est à Monsieur Julien Aubert.
 Cet amendement mérite que l’on s’y arrête une minute.
-En mars 2014, le Parlement a voté une mesure d’expérimentation, puis vous expliquez que ce secteur est paralysé du fait du grand nombre d’initiatives sur ce sujet et qu’en conséquence, on abroge l’expérimentation pour faire figurer cette mesure dans le « dur » de la loi – autrement dit, il ne s’agit plus d’une expérimentation.
+En mars 2014, le Parlement a voté une mesure d’expérimentation, puis vous expliquez que ce secteur est paralysé du fait du grand nombre d’initiatives sur ce sujet et qu’en conséquence, on abroge l’expérimentation pour faire figurer cette mesure dans le «dur» de la loi – autrement dit, il ne s’agit plus d’une expérimentation.
 Non, justement pas ! Un an, c’est tout de même court pour estimer qu’une expérimentation est concluante.
 Généralement, les expérimentations sont plus longues, à moins que vous ne tiriez très rapidement les conséquences de celle-ci, qui a été décidée en mars 2014.
 N’est-ce pas aller un peu vite en besogne ? La parole est à Monsieur Richard Ferrand, rapporteur général.
@@ -720,8 +718,7 @@ L’objet de cet amendement est de pérenniser l’expérimentation de l’affic
 Chargé d’une mission sur ce sujet, le Conseil national de la consommation a conclu que cette expérimentation ne pouvait pour l’heure être lancée, et a donc appelé à la pérennisation de la mesure.
 La parole est à Monsieur Julien Aubert.
 Ce n’est pas très clair à la lecture de l’exposé sommaire.
-Il est écrit : « En effet, à l’issue de ces travaux, étant apparu que les modèles économiques en vigueur ne permettent pas encore la mise en œuvre de cette expérimentation, les membres du groupe ont, à l’unanimité, souhaité pérenniser cette disposition.
-» Êtes-vous sûrs que c’est bien l’expérimentation que vous voulez pérenniser ? Dans ma première intervention, je vous demandais si l’on arrêtait l’expérimentation pour pérenniser définitivement la mesure.
+Il est écrit : «En effet, à l’issue de ces travaux, étant apparu que les modèles économiques en vigueur ne permettent pas encore la mise en œuvre de cette expérimentation, les membres du groupe ont, à l’unanimité, souhaité pérenniser cette disposition.» Êtes-vous sûrs que c’est bien l’expérimentation que vous voulez pérenniser ? Dans ma première intervention, je vous demandais si l’on arrêtait l’expérimentation pour pérenniser définitivement la mesure.
 Est-ce bien l’expérimentation que l’on pérennise ? C’est bien cela.
 Je suis saisie d’un amendement numéro 2237 qui fait l’objet de deux sous-amendements, nos 3193 et 3194.
 La parole est à Monsieur Christophe Sirugue, pour soutenir l’amendement.
@@ -787,7 +784,7 @@ Tout le monde sait ici que les tarifs pratiqués ne sont bien souvent pas révis
 Au fond, tout le monde s’était accommodé d’un système de régulation silencieuse et cogérée, dans lequel un certain nombre de tarifs étaient totalement déconnectés des coûts, que ce soit d’ailleurs à la baisse ou à la hausse.
 Pendant plusieurs décennies, on a laissé s’opérer une sorte de péréquation interne, dont les différents travaux que nous avons menés ont mis en lumière le caractère aujourd’hui déséquilibré.
 Un rebasage de l’ensemble des tarifs pratiqués devra donc être décidé.
-De même, il conviendra de distinguer les prestations qui relèveront toujours de tarifs fixes – j’ai envie de dire « réglementés » –, celles auxquelles s’appliqueront des tarifs proportionnels, et celles qui donneront lieu à des péréquations, ces dernières étant horizontales et pas simplement internes à la profession.
+De même, il conviendra de distinguer les prestations qui relèveront toujours de tarifs fixes – j’ai envie de dire «réglementés» –, celles auxquelles s’appliqueront des tarifs proportionnels, et celles qui donneront lieu à des péréquations, ces dernières étant horizontales et pas simplement internes à la profession.
 Lorsque le Parlement aura approuvé ces différentes orientations, l’ensemble de ces dispositions aboutira à plus de liberté et à moins de cooptation, à plus de liberté d’association et à moins de rigidité, à plus de liberté de mobilité, et ceci, évidemment, avec l’obsession de garantir la sécurité juridique et un maillage convenable de notre territoire.
 Là encore, réformer n’est pas casser, contrairement à ce qu’on a pu entendre ces derniers temps.
 Quel blagueur ! Face à cette volonté de réforme, nous avons pu constater des réactions contrastées au sein des différentes professions.
@@ -814,7 +811,7 @@ Nous pourrons constater que nous retrouvons ces éléments, à la faute d’orth
 Bien sûr, cela n’arrive jamais ! Une fois encore, ce débat vise un seul objectif : aérer l’accès à ces professions, permettre et faciliter l’exercice de ces métiers par des jeunes qui peuvent tout à fait y prétendre.
 Nous nous attacherons à démontrer que cette réforme est utile, comme cela a été acté en commission, nécessaire, pertinente et cohérente avec l’ensemble des points que nous avons déjà abordés et de ceux que nous aborderons après avoir traité ces deux chapitres.
 Au sortir de la commission, nous sommes très fortement déterminés à porter l’ouverture,… C’est beau, ce que vous dites ! …à œuvrer pour que les uns et les autres aient la possibilité d’exercer des professions aujourd’hui interdites… Nous allons passer de l’ombre à la lumière ! …par le verrouillage consenti, depuis un certain nombre d’années, tant par les pouvoirs publics que par la profession.
-Quelle emphase ! « Entre ici, notariat ! » (Sourires sur les bancs du groupe UMP.) Non, monsieur Aubert, il ne s’agit pas du tout d’utiliser cette emphase, ni d’estimer qu’on passerait de l’ombre à la lumière.
+Quelle emphase ! «Entre ici, notariat !» (Sourires sur les bancs du groupe UMP.) Non, monsieur Aubert, il ne s’agit pas du tout d’utiliser cette emphase, ni d’estimer qu’on passerait de l’ombre à la lumière.
 Il s’agit simplement de dire que l’on a le droit de préférer l’égalité républicaine du vingt et unième siècle à ce que fut la sécurité dynastique (Exclamations sur les bancs du groupe UMP)… Quelle accusation ! Quelle haine ! …issue de la loi du 26 avril 1816 adoptée sous Louis XVIII.
 (Applaudissements sur les bancs du groupe SRC.
 – Exclamations sur les bancs du groupe UMP.) Et la loi salique ? Allez-vous la citer plus tard ? La parole est à Monsieur Jean-Frédéric Poisson.
@@ -841,7 +838,7 @@ De la part d’officiers ministériels, si ! Certes, mais c’est aussi la premi
 Ce n’est certainement pas vous qui l’auriez créé ! Avant que d’être interrompu par moi-même, comme disait Pierre Desproges, je disais donc qu’au bout du compte, cette objection de principe perdurera tout au long de l’examen des articles concernant les professions judiciaires.
 J’ajoute qu’outre cette position symbolique – mais ne sommes-nous pas ici dans la maison du symbole par excellence ? – des professions judiciaires placées sous l’autorité du marché, même si elle est par ailleurs compensée par une forme de maintien de la présence de la ministre de la justice, il reste que l’article 22 a vocation à ouvrir à des sociétés étrangères la possibilité d’investir dans les professions judiciaires en France.
 Ne dites pas non de la tête, monsieur le ministre : c’est écrit en toutes lettres dans le texte, et vous l’avez plusieurs fois confirmé au cours du débat.
-Vous souhaitez oxygéner ces professions – Monsieur le rapporteur général a même employé le verbe « aérer », comme si cela sentait le renfermé.
+Vous souhaitez oxygéner ces professions – Monsieur le rapporteur général a même employé le verbe «aérer», comme si cela sentait le renfermé.
 Convenez que c’est un peu sévère ! Scandaleux ! Disons donc, pour mieux coller à votre pensée, monsieur le rapporteur général, que vous souhaitez faire respirer cette profession, permettre à des jeunes d’y accéder et assouplir les choses : c’est parfait.
 Selon nous, le faire de cette manière comporte un risque pour ce qui constitue la tradition de notre droit – et la tradition, ce n’est pas rien – et le refus qui a toujours été celui de la France de s’aligner sur des modèles qui, au fond, ne sont pas les siens.
 Il y a d’excellentes raisons à cela, notamment la tradition de l’État en France qui, il est vrai, n’est pas comparable à celle des États qui nous entourent : il y a là aussi une exception française que l’on pourrait défendre jusque dans le statut des professions réglementées, et il est regrettable que vous y renonciez.
@@ -856,10 +853,10 @@ Tout d’abord, vous introduisez en matière de tarifs la notion de rémunérati
 Cela signifie-t-il que les rémunérations n’étaient pas auparavant raisonnables et que, partant, le ministère de la justice n’aurait pas correctement fait son travail ? En outre, il est vrai que cette notion de rémunération raisonnable, que vous allez définir par des critères réglementaires, ne s’appliquera dans votre esprit qu’aux professions réglementées du droit, mais dès lors qu’un texte aborde une telle notion en en définissant les critères, il va de soi qu’une porosité se créera qui permettra de l’exporter dans d’autres matières.
 De ce point de vue, j’ignore si vous avez étudié l’impact de cette nouveauté.
 Vous évoquez la péréquation, interne et externe.
-Nous aurons l’occasion de revenir sur la péréquation interne lors de l’examen des amendements ; la péréquation externe, en revanche, ou plutôt ce que vous appelez comme telle, consiste à ponctionner une partie des rémunérations afin d’alimenter un fonds qui, en l’état actuel du texte, servira à financer ce qui s’appelle « l’aide judiciaire » ainsi que les maisons de justice et du droit.
+Nous aurons l’occasion de revenir sur la péréquation interne lors de l’examen des amendements ; la péréquation externe, en revanche, ou plutôt ce que vous appelez comme telle, consiste à ponctionner une partie des rémunérations afin d’alimenter un fonds qui, en l’état actuel du texte, servira à financer ce qui s’appelle «l’aide judiciaire» ainsi que les maisons de justice et du droit.
 Il ne s’agit pas de péréquation ; c’est plutôt une taxe parafiscale.
 Qualifiez donc cette ponction comme elle doit l’être, et ne parlez pas de péréquation, puisque les recettes en question alimentent tout à fait autre chose que les professions concernées.
-J’en viens aux « tarifs corridor ».
+J’en viens aux «tarifs corridor».
 Vous avez, monsieur le rapporteur général, évoqué une large concertation, et je comprends que vous ayez abordé ce thème, puisque tous les professionnels ont indiqué que mises à part les auditions que vous avez mentionnées, aucune concertation n’a été mise en œuvre.
 La mission de la commission des lois a conduit des auditions, et la commission a unanimement conclu qu’il fallait s’opposer aux tarifs corridor, pour des raisons déjà expliquées et sur lesquelles nous reviendrons.
 Nous avons donc logiquement déposé devant la commission spéciale un amendement de suppression des tarifs corridor, non seulement parce que la mission précitée avait formulé des conclusions en ce sens, mais également pour des motifs techniques qui ont été expliqués.
@@ -869,10 +866,10 @@ Excellente idée ! Enfin ! Avec de tels paradoxes, vous ne pouvez guère donner 
 Enfin, il demeure un élément essentiel, comme l’a indiqué Monsieur Poisson : vous dénaturez le caractère continental de notre système juridique, qui est civiliste et constitué de professions qui se trouvent hors du commerce.
 Je regrette que Madame Taubira soit absente car, ces derniers temps, elle a plusieurs fois communiqué sur ce point en rappelant que le droit n’est pas une marchandise et qu’il est hors du commerce.
 Or, non contents d’intégrer les tarifs dans le code de commerce, vous donnez compétence au ministre de l’économie pour arrêter les tarifs et à l’Autorité de la concurrence pour communiquer son avis préalable sur ces tarifs.
-Or, je constate que l’avis de l’Autorité de la concurrence, dont nous n’avons pas encore parlé, comporte des termes de nature commerciale tels que « remise » ou « devis » : c’est parfaitement inacceptable en pareille matière ! Encore avons-nous la chance d’avoir évité dans cet avis la référence aux promotions, aux soldes et autres termes commerciaux qui ont l’air de plaire, puisqu’on les emploie dans ce texte.
+Or, je constate que l’avis de l’Autorité de la concurrence, dont nous n’avons pas encore parlé, comporte des termes de nature commerciale tels que «remise» ou «devis» : c’est parfaitement inacceptable en pareille matière ! Encore avons-nous la chance d’avoir évité dans cet avis la référence aux promotions, aux soldes et autres termes commerciaux qui ont l’air de plaire, puisqu’on les emploie dans ce texte.
 Vous donnez également compétence à la DGCCRF et au Conseil national de la consommation.
 En clair, vous incluez ces professions – et donc le droit – dans le commerce, alors même que c’est l’inverse de notre système.
-Pour conclure, permettez-moi de vous soumettre une question pour laquelle j’éprouve une certaine « sympathie intellectuelle », pour reprendre votre expression, même si, en toute honnêteté, je ne suis pas certain de la rectitude du raisonnement.
+Pour conclure, permettez-moi de vous soumettre une question pour laquelle j’éprouve une certaine «sympathie intellectuelle», pour reprendre votre expression, même si, en toute honnêteté, je ne suis pas certain de la rectitude du raisonnement.
 Comme vous le savez, le législateur peut déléguer à une autorité administrative indépendante de l’exécutif la définition de telle ou telle norme permettant d’appliquer la loi.
 Pourtant, le Conseil constitutionnel a estimé que cette capacité ne pouvait être autorisée que lorsqu’elle est limitée dans son champ et dans son contenu.
 Or, vous donnez compétence à l’Autorité de la concurrence pour tout.
@@ -922,7 +919,7 @@ Lorsque vous mettez en place une péréquation, vous envisagez en effet d’util
 Il en manque déjà ! À travers l’ensemble des articles de ce texte, vous contribuez à créer une justice à deux vitesses.
 Quel conservatisme ! La parole est à Monsieur Daniel Gibbes.
 Madame la présidente, monsieur le ministre, madame la rapporteure, monsieur le rapporteur général, mes chers collègues, comme bon nombre de mes collègues et de professionnels, je suis plutôt partisan d’un meilleur encadrement ou d’une révision plus régulière des tarifs pratiqués.
-Très bien ! Reste que, comme bon nombre de mes collègues et de professionnels, je suis surpris que cette réforme trouve sa place dans un projet de loi « pour la croissance et l’économie ».
+Très bien ! Reste que, comme bon nombre de mes collègues et de professionnels, je suis surpris que cette réforme trouve sa place dans un projet de loi «pour la croissance et l’économie».
 Envisagée sous le seul prisme économique et concurrentiel, cette réforme n’a en outre pas fait l’objet d’une étude d’impact pleinement impartiale, qui aurait pourtant été éclairante sur les conséquences économiques et sociales que ce bouleversement plus qu’hasardeux ne manquera pas de provoquer.
 Cette réforme va particulièrement affecter les notaires.
 En effet, les études présentées par les professionnels du notariat, même si le ministre de l’économie les balaie d’un revers de main parce qu’il remet en cause leur impartialité, ont au moins le mérite, à mon sens, de mettre en lumière certains aspects inquiétants de la réforme.
@@ -938,7 +935,7 @@ En instaurant un tarif négociable au cas par cas, et ce malgré la notion de pl
 En effet, le citoyen va pouvoir négocier, comparer, et je veux bien l’entendre.
 Mais un citoyen aisé, averti, sera toujours mieux à même de le faire qu’un autre moins aisé et moins habile, et le citadin, qui bénéficiera de nombreux offices notariaux dans sa ville, pourra bien plus facilement se livrer à la traque au meilleur prix que le rural ou l’ultramarin.
 Là est la réalité ! Et l’on imagine sans peine, en matière immobilière, les tractations que pourront mener les promoteurs avec leurs notaires, ce qui ne pourra que porter préjudice à la sécurité juridique.
-Il est tout aussi évident que les offices notariaux, en fonction de leur taille et de leur localisation, finiront par se jeter dans une « guerre des prix » à laquelle le droit et la sécurité juridique n’ont rien à gagner.
+Il est tout aussi évident que les offices notariaux, en fonction de leur taille et de leur localisation, finiront par se jeter dans une «guerre des prix» à laquelle le droit et la sécurité juridique n’ont rien à gagner.
 Soumettre les notaires à la loi du marché au prétexte d’une libéralisation de leur activité, c’est encore une fois réduire leurs prestations à une marchandise.
 Cela n’ira pas sans la dégradation d’un service public essentiel à la sécurité juridique de nos concitoyens.
 De plus, l’instauration d’une concurrence tarifaire risque de créer une concurrence par les coûts entre les études notariales, et donc d’entraîner des licenciements dans la profession – le Conseil supérieur du notariat avance le chiffre de 12 000 licenciements, et certains députés socialistes celui de 20 000 ! Encore une fois, tout cela aurait pu être chiffré dans une étude d’impact solide.
@@ -958,14 +955,14 @@ Ensuite, si les tarifs sont aussi élevés, c’est d’abord parce que les taxe
 Eh oui ! C’est vrai ! Dans mon département de l’Eure, les droits d’enregistrement sont passés de 5,05 % à 5,85 %.
 Faites baisser les taxes, et vous ferez baisser les tarifs ! Cela me paraît beaucoup plus simple que le corridor tarifaire qui a été décidé et mis en place.
 Cela n’a rien à voir ! Enfin, beaucoup de notaires ont exprimé leur crainte à propos de la financiarisation, c’est-à-dire l’ouverture à des investisseurs financiers, des offices notariaux.
-On notera le paradoxe de ce gouvernement choisi par un Président de la République qui disait lui-même pendant sa campagne « Mon ennemi, c’est la finance ! » et qui ouvre les offices notariaux à cette même finance, leur faisant perdre un caractère public auquel ils sont viscéralement attachés.
+On notera le paradoxe de ce gouvernement choisi par un Président de la République qui disait lui-même pendant sa campagne «Mon ennemi, c’est la finance !» et qui ouvre les offices notariaux à cette même finance, leur faisant perdre un caractère public auquel ils sont viscéralement attachés.
 Mais non ! C’est faux ! Il y a là au moins un paradoxe, en tout cas une inquiétude légitime, car cela signifie qu’au fond, seuls les offices importants seront rentables et pourront rester ouverts, tandis que les petits offices, qui s’occupent des actes peu importants, ne seront plus rentables et fermeront, quelle que soit la cartographie que vous mettrez en place.
 Ce dont vous parlez ne figure pas dans la loi ! Vous inquiétez les notaires à tort ! Enfin, à quoi sert cette disposition prévue par l’article 12 ? On nous dit qu’elle créera des emplois.
 Combien d’emplois allez-vous réellement créer grâce à cette dérégulation, ou cette libéralisation, des offices notariaux ? Avec plus de 3,4 millions de chômeurs en France, nous avons atteint un niveau de chômage absolument sans précédent.
 Et nous allons passer des heures à déréglementer une profession qui se porte bien, qui tourne bien et qui garantit la sécurité juridique aux Français ! Très bien ! Croyez-vous vraiment qu’elle tourne bien ? Si vous voulez vous attaquer à une profession réglementée, commencez donc par la fonction publique : vous y trouverez beaucoup plus d’économies et d’emplois pour l’avenir ! (Applaudissements sur les bancs du groupe UMP.) C’est vrai ! Excellent ! La parole est à Monsieur Guénhaël Huet.
-Chacun sait depuis quelques semaines, monsieur le ministre, que l’on trouve à l’article 12 l’une des dispositions les plus controversées et les plus décriées de votre projet de loi par ailleurs très hétéroclite, qualifié à plusieurs reprises de « loi fourre-tout ».
+Chacun sait depuis quelques semaines, monsieur le ministre, que l’on trouve à l’article 12 l’une des dispositions les plus controversées et les plus décriées de votre projet de loi par ailleurs très hétéroclite, qualifié à plusieurs reprises de «loi fourre-tout».
 Mais nous touchons là aux fondements d’une grande partie de l’organisation de notre système juridique.
-Mais non ! Commençons par nous interroger sur les origines de la proposition de « corridor des tarifs » que l’on entend réglementer d’une autre manière.
+Mais non ! Commençons par nous interroger sur les origines de la proposition de «corridor des tarifs» que l’on entend réglementer d’une autre manière.
 On peut en évoquer deux.
 Comme l’a indiqué tout à l’heure Philippe Houillon, sans doute faut-il donner des gages supplémentaires de libéralisation à Bruxelles ! Peut-être aussi la pure politique politicienne exige-t-elle de donner à la gauche de la gauche quelque satisfecit en stigmatisant une profession censée gagner beaucoup d’argent ! Là, nous n’avons pas réussi ! On a tout faux ! Cela ne marche pas, en effet ! Mais si vous aviez bien regardé les choses, monsieur le ministre, et je reviendrai tout à l’heure sur l’indigence de l’étude d’impact, vous sauriez que la profession notariale est caractérisée par des revenus très diversifiés, et que tous les notaires ne sont pas des gens riches à stigmatiser.
 Voilà pour les origines.
@@ -1043,7 +1040,7 @@ Pour ma part, je ne souhaite pas l’apparition dans notre pays d’hypermarché
 Au surplus, ces dispositions sont la résultante d’une contrainte européenne : je trouve qu’il est désagréable de réformer dans l’urgence parce qu’il faut donner des gages à Bruxelles et montrer que l’on fait des réformes structurelles.
 Attaquez-vous aux régimes spéciaux, réformez le régime social des indépendants, vous aurez un véritable impact sur l’activité ! Nous maintenons à l’UMP que votre réforme, qui voudrait s’inspirer de ce qui se pratique à l’étranger, en mélangeant les professions, en les fusionnant, en créant des statuts de sociétés anonymes, est dictée par une forme d’idéologie anglo-saxonne.
 Je suis désolé de vous dire que le renforcement de l’activité ne passe pas nécessairement par la mise en concurrence.
-Le rapporteur a employé tout à l’heure, dans un argumentaire assez frivole, les mots « aérer » – mais ces professions ne sont pas renfermées –, « déverrouiller » – mais il n’y a pas de magot caché –, « ouvrir » – mais ils ne sont pas en prison.
+Le rapporteur a employé tout à l’heure, dans un argumentaire assez frivole, les mots «aérer» – mais ces professions ne sont pas renfermées –, «déverrouiller» – mais il n’y a pas de magot caché –, «ouvrir» – mais ils ne sont pas en prison.
 Il faut cesser de filer la métaphore de l’ouverture et de considérer que cette dernière est nécessairement positive.
 Ce projet de loi ouvre tard mais ferme tôt.
 Par conséquent, j’y opposerai, pour ce qui me concerne, tous les arguments possibles, afin de vous faire changer d’avis.
@@ -1052,8 +1049,8 @@ Monsieur le ministre, mes chers collègues, nous entamons, avec cet article 12, 
 Notre groupe reviendra évidemment, dans le cours de la discussion, sur chacun des points soulevés.
 En préambule, je veux d’abord rappeler les positions de fond de notre groupe sur le sujet et l’appréciation que nous sommes amenés à porter sur cette partie du projet de loi, qui donne leur sens aux nombreux amendements que nous serons amenés à déposer dans la discussion.
 Je veux d’abord dire que nous ne partageons absolument pas l’idée qu’il faudrait réviser les conditions d’exercice des professions réglementées du droit pour simplifier les règles qui entravent l’activité économique.
-Cette antienne n’est pas récente : elle a été exprimée en 2011 – nous l’avions alors dénoncée – dans le cadre du projet de loi de modernisation des professions judiciaires et juridiques réglementées, qui trouvait son inspiration dans le rapport Darrois, dont l’objet était de « relever les défis de la concurrence internationale dans le domaine du droit ».
-Le rapport Attali « Pour la libération de la croissance française », largement inspirateur du projet de loi dont nous discutons, considère pour sa part les professions juridiques réglementées comme des freins à l’économie.
+Cette antienne n’est pas récente : elle a été exprimée en 2011 – nous l’avions alors dénoncée – dans le cadre du projet de loi de modernisation des professions judiciaires et juridiques réglementées, qui trouvait son inspiration dans le rapport Darrois, dont l’objet était de «relever les défis de la concurrence internationale dans le domaine du droit».
+Le rapport Attali «Pour la libération de la croissance française», largement inspirateur du projet de loi dont nous discutons, considère pour sa part les professions juridiques réglementées comme des freins à l’économie.
 À en croire ces avis soi-disant autorisés, les grandes institutions européennes et la Commission européenne, c’est l’ensemble de notre système juridique qui, par opposition à la common law britannique, serait un obstacle à la croissance.
 C’est le sempiternel cliché de la flexibilité anglo-saxonne, opposée à la rigidité interventionniste française, celui-là même qui nous sera immanquablement opposé dans le cadre du futur traité transatlantique, pour achever de déréguler l’ensemble du marché du droit.
 Nous le disons pour notre part avec force : le droit n’est pas une marchandise ou un objet économique banal.
@@ -1090,7 +1087,7 @@ Cela n’est rendu possible que par le fait que la profession finance cette form
 Si la profession ne le fait plus, qui le fera ? L’État ? Sur quels fonds ? Non : on va augmenter les frais de scolarité.
 Vous voulez démocratiser ces professions, et vous allez les rendre encore moins accessibles, en multipliant par deux ou trois les frais de scolarité.
 C.Q.F.D.
-! Est-ce vraiment comme cela que vous entendez démocratiser ces professions et ouvrir leur accès à des jeunes dépourvus de moyens, à des jeunes qui ne sont pas « fils de » ? Drôle de méthode que la vôtre ! Il est un troisième aspect de votre texte qui me tient beaucoup à cœur : l’ouverture du capital des sociétés d’exercice des professions juridiques aux experts-comptables.
+! Est-ce vraiment comme cela que vous entendez démocratiser ces professions et ouvrir leur accès à des jeunes dépourvus de moyens, à des jeunes qui ne sont pas «fils de» ? Drôle de méthode que la vôtre ! Il est un troisième aspect de votre texte qui me tient beaucoup à cœur : l’ouverture du capital des sociétés d’exercice des professions juridiques aux experts-comptables.
 Je sais que cette question est source de difficultés pour vous : vous avez d’ailleurs déposé un amendement à ce sujet en commission.
 Vous nous avez dit qu’il solutionnait tout.
 Eh bien non ! En vertu de votre amendement, ne pourront être associés en France qu’un véritable professionnel et un expert-comptable : si cela est cohérent en droit français, cela ne l’est pas en droit européen.
@@ -1129,7 +1126,7 @@ C’est la raison pour laquelle je tiens à mettre l’accent sur ce point spéc
 En effet, il ne vous aura pas échappé que la section générale de la Caisse des dépôts finance bien des secteurs stratégiques et participe à la politique économique de la France.
 C’est un point que nous ne devrions pas ignorer et dont nous devrions pouvoir débattre ici à l’occasion de l’examen de l’article 12 de ce projet de loi.
 Très bien ! La parole est à Monsieur Jean-Yves Caullet.
-Comme le disaient mes professeurs : ne dites pas « je serai bref », soyez-le ! Nous avons tous rappelé notre attachement à un système de droit, la confiance que nous accordons aux professionnels du droit.
+Comme le disaient mes professeurs : ne dites pas «je serai bref», soyez-le ! Nous avons tous rappelé notre attachement à un système de droit, la confiance que nous accordons aux professionnels du droit.
 Le respect que nous témoignons à ces derniers, qui n’a rien d’une révérence, et qui n’est que l’hommage donné aux services qu’ils rendent à la République, doit nous porter à purger ce débat de deux formes d’archaïsme.
 Notre collègue Jean-Frédéric Poisson parlait d’action et de réaction, d’outrances en réponse peut-être à d’autres outrances.
 Purgeons ce débat de ces allégations stériles ! Ce n’est pas nous qui l’avons engagé ! Ces professions ont pu être à un moment donné stigmatisées, c’est vrai, et cette stigmatisation a sans doute été médiatisée, forcément exagérée.

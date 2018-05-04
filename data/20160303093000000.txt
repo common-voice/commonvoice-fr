@@ -52,8 +52,7 @@ Quel est l’avis de la commission ? Défavorable.
 Quel est l’avis du Gouvernement ? Défavorable.
 Votre amendement est-il maintenu, monsieur Sebaoun ? Non, je le retire, monsieur le président.
 La parole est à Monsieur Alain Tourret, pour soutenir l’amendement numéro 135.
-Nous souhaitons compléter l’article 2 par l’alinéa suivant : « Les dispositions du présent article ne s’appliquent pas aux données techniques de connexion ou numéro d’abonnement de l’utilisateur lorsqu’il s’agit de la ligne téléphonique dont le titulaire ou l’utilisateur est un avocat, un magistrat, un journaliste, un député ou un sénateur.
-» En effet, le projet de loi autorise en matière de criminalité et de délinquance organisées le recours par la police au dispositif des IMSI catcher sur autorisation du juge des libertés et de la détention ou, en cas d’urgence, sur simple autorisation du procureur de la République.
+Nous souhaitons compléter l’article 2 par l’alinéa suivant : «Les dispositions du présent article ne s’appliquent pas aux données techniques de connexion ou numéro d’abonnement de l’utilisateur lorsqu’il s’agit de la ligne téléphonique dont le titulaire ou l’utilisateur est un avocat, un magistrat, un journaliste, un député ou un sénateur.» En effet, le projet de loi autorise en matière de criminalité et de délinquance organisées le recours par la police au dispositif des IMSI catcher sur autorisation du juge des libertés et de la détention ou, en cas d’urgence, sur simple autorisation du procureur de la République.
 La spécificité des professions en cause, au regard notamment de l’indépendance et du secret professionnel, ne permet pas le recours à un tel dispositif, qui est attentatoire aux droits de la défense.
 Quel est l’avis de la commission ? Avant de répondre à la préoccupation que vient d’exprimer notre collègue Alain Tourret, je dois rappeler la façon dont fonctionne un IMSI catcher, car il est absolument impossible techniquement de satisfaire le présent amendement.
 Un IMSI catcher agit comme une antenne-relais factice mobile imposant aux terminaux mobiles situés dans son périmètre de se connecter à lui en se substituant à celles des opérateurs afin de collecter certaines données techniques associées à leur utilisation.
@@ -109,8 +108,8 @@ L’usage de cette technique a parfois fait l’objet d’incompréhensions sur 
 Certains amendements, qui n’ont pas été défendus, formulent des propositions similaires, quoiqu’un peu plus pointues, à celles de Monsieur le rapporteur.
 Nous soutenons largement les avancées proposées.
 La parole est à Monsieur Alain Tourret, pour soutenir l’amendement numéro 195.
-Nous proposons de compléter l’article 2 comme suit : « Les données recueillies sont détruites sur décision du procureur de la République dès qu’il apparaît qu’elles ne sont pas en rapport avec l’autorisation de mise en œuvre, dans un délai maximal de six mois.
-Il est dressé procès-verbal de l’opération de destruction ».
+Nous proposons de compléter l’article 2 comme suit : «Les données recueillies sont détruites sur décision du procureur de la République dès qu’il apparaît qu’elles ne sont pas en rapport avec l’autorisation de mise en œuvre, dans un délai maximal de six mois.
+Il est dressé procès-verbal de l’opération de destruction».
 Cet amendement prévoit la suppression des données recueillies par l’IMSI catcher après un délai de six mois sur décision du procureur de la République.
 Il est indispensable que certains renseignements ne tombent pas dans de mauvaises mains susceptibles d’actions attentatoires aux libertés.
 Quel est l’avis de la commission ? Compte tenu de l’adoption de l’amendement numéro 364, je suis surpris que cet amendement soit discuté.
@@ -214,7 +213,7 @@ Or ces logiciels, très intrusifs, doivent être autorisés par une instance sp�
 Les explications techniques que le Gouvernement ne manquera pas d’apporter devraient vous convaincre que cet amendement n’a plus d’objet ou n’en aura bientôt plus.
 Je vous invite donc à le retirer.
 Quel est l’avis du Gouvernement ? J’ai eu l’occasion de m’exprimer au Sénat sur ce problème important, souvent évoqué par le procureur de Paris, qui faisait l’objet d’une proposition de loi de Philippe Bas.
-Éric Ciotti connaît mieux que personne la LOPPSI 2, puisqu’il en était le rapporteur, et c’est à bon droit qu’il a prévu que l’on puisse installer dans les logiciels ce que l’on appelle des « chevaux de Troie » ou des keyloggers.
+Éric Ciotti connaît mieux que personne la LOPPSI 2, puisqu’il en était le rapporteur, et c’est à bon droit qu’il a prévu que l’on puisse installer dans les logiciels ce que l’on appelle des «chevaux de Troie» ou des keyloggers.
 Il est fait état de difficultés d’usage, qui seraient liées à la complexité de l’habilitation donnée par l’ANSSI.
 Après vérification, je me dois de vous répondre que les habilitations peuvent être obtenues dans de brefs délais, et que ces difficultés sont plutôt dues au fait que les constructeurs de logiciels n’en ont pas demandé.
 Le fait est que, compte tenu de notre technologie, il n’y a pas eu suffisamment de demandes.
@@ -253,8 +252,7 @@ Le 11 août 2015, une tribune paraît dans The New York Times signée par Franç
 Vance Jr., procureur de Manhattan, Adrian Leppard, chef de la City of London Police et Javier Zaragoza, procureur de la Haute Cour d’Espagne.
 Ces quatre magistrats interpellent les pouvoirs publics : actuellement, des dizaines d’enquêtes liées au terrorisme sont bloquées parce que les constructeurs de smartphones ont décidé, depuis septembre 2014, de verrouiller totalement l’accès aux téléphones et, de surcroît, de ne plus avoir la clé de déverrouillage.
 Nous sommes confrontés à la volonté de multinationales de faire en sorte que les enquêtes judiciaires échouent parce qu’elles en ont décidé ainsi.
-C’est inadmissible ! Permettez-moi de lire ce que le procureur Molins a déclaré dans un entretien paru dans L’Express : « Dans l’affaire Sid Ahmed Ghlam, nous avons retrouvé un téléphone dans lequel nous n’avons toujours pas pu "entrer" », ajoutant : « Soit [Google et Apple] proposent un dispositif nous permettant d’accéder aux données nécessaires aux investigations, soit les pouvoirs publics devront tôt ou tard légiférer afin de les y contraindre.
-» C’était le 2 septembre 2015.
+C’est inadmissible ! Permettez-moi de lire ce que le procureur Molins a déclaré dans un entretien paru dans L’Express : «Dans l’affaire Sid Ahmed Ghlam, nous avons retrouvé un téléphone dans lequel nous n’avons toujours pas pu "entrer"», ajoutant : «Soit [Google et Apple] proposent un dispositif nous permettant d’accéder aux données nécessaires aux investigations, soit les pouvoirs publics devront tôt ou tard légiférer afin de les y contraindre.» C’était le 2 septembre 2015.
 Le 8 janvier 2016, le même ajoute que tous les smartphones que l’on essaie d’exploiter sont verrouillés et cryptés, ce qui pose un grave problème car si la personne refuse de donner son code d’accès, on ne peut plus accéder aux données.
 Il reste un téléphone que l’on n’a toujours pas exploité, dans l’affaire Ghlam ! Le procureur en avait parlé en septembre : nous sommes en janvier.
 L’an dernier, pas moins de huit smartphones n’ont pu être explorés.
@@ -325,7 +323,7 @@ Agir au niveau national ne présente guère d’intérêt mais poser la question
 Le sujet est beaucoup plus complexe.
 Il concerne nos libertés et je suis très étonné que certains parlementaires le présentent de manière aussi binaire.
 Surprenante intervention ! En effet ! Et que fait-on face à la finance ? La parole est à Monsieur Éric Ciotti.
-Puisque vous nous remerciez de soulever ce débat important, monsieur le garde des sceaux, et d’« aiguillonner » le Gouvernement à ce sujet, allons jusqu’au bout de cette logique.
+Puisque vous nous remerciez de soulever ce débat important, monsieur le garde des sceaux, et d’«aiguillonner» le Gouvernement à ce sujet, allons jusqu’au bout de cette logique.
 Nous n’en sommes qu’à la première étape de la navette parlementaire, c’est donc l’occasion de lancer un message.
 Et pour que ce message soit reçu, il faut qu’il soit fort.
 On ne peut se contenter d’annoncer une collaboration internationale dont on sait que jusqu’à présent, elle n’a guère été féconde.
@@ -387,7 +385,7 @@ C’est pourquoi je considère que nous pourrions, en France, nous doter d’une
 J’ai également bien entendu le garde des sceaux, et d’ailleurs je salue le Gouvernement pour le projet de loi dans son ensemble.
 Mes chers collègues, ce texte ayant fait l’objet d’une procédure accélérée, cet amendement, que j’ai rédigé avec vingt-cinq de mes collègues, ne vous a été transmis que jeudi dernier, j’en suis désolé, mais nous étions en vacances parlementaires.
 Le groupe socialiste, républicain et citoyen n’a donc pu l’étudier et en vérifier les aspects techniques.
-Monsieur le ministre, vous avez évoqué la nécessité pour le Gouvernement de « jouer collectif » : je partage votre sentiment.
+Monsieur le ministre, vous avez évoqué la nécessité pour le Gouvernement de «jouer collectif» : je partage votre sentiment.
 La majorité ainsi que les parlementaires de l’opposition qui sont présents vous soutiennent.
 C’est pourquoi je vais, à ce stade, accéder à votre demande, tout en appelant votre attention sur la vigilance dont vous devrez faire preuve et la nécessité de mettre en œuvre un calendrier extrêmement serré.
 C’est ce que souhaitent les parlementaires socialistes, et je crois que cette demande est partagée par nos collègues de l’opposition dont je salue les prises de position sur un point qui relève de l’intérêt collectif.
@@ -523,8 +521,7 @@ La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro 224
 Monsieur le ministre, nous avons eu un long et intéressant débat – qui s’est conclu par un vote serré – sur la puissance des vecteurs technologiques dans la commission de crimes ou de délits terroristes.
 On constate de plus en plus un phénomène de radicalisation dû à internet et la diffusion de messages de prosélytisme en faveur de Daech sur les réseaux sociaux.
 On peut malheureusement partager le constat d’un combat assez inefficace contre le déploiement de ces messages sur les réseaux sociaux, qui sont souvent à la source de comportements qui conduisent au terrorisme ou, plus grave, participent à la commission d’actes terroristes.
-Aussi je souhaite, par cet amendement, conférer au ministre de l’intérieur la faculté de « prendre toute mesure pour assurer l’interruption de tout service de communication au public en ligne provoquant à la commission d’actes de terrorisme ou en faisant l’apologie.
-» Quel est l’avis de la commission ? Je voudrais d’abord signaler que les pouvoirs publics ne sont pas dépourvus d’outils pour bloquer des sites internet.
+Aussi je souhaite, par cet amendement, conférer au ministre de l’intérieur la faculté de «prendre toute mesure pour assurer l’interruption de tout service de communication au public en ligne provoquant à la commission d’actes de terrorisme ou en faisant l’apologie.» Quel est l’avis de la commission ? Je voudrais d’abord signaler que les pouvoirs publics ne sont pas dépourvus d’outils pour bloquer des sites internet.
 Au-delà des possibilités de blocage judiciaire et des procédures de référé de droit commun, nous avons créé, dans la loi de novembre 2014, une possibilité de blocage administratif.
 En revanche, conférer au ministre de l’intérieur la possibilité de bloquer des sites internet sans prise en considération de l’urgence – critère que nous avons retenu pour adopter les dispositions relatives à l’état d’urgence – et en dehors de tout régime de pouvoirs exceptionnels et sans procédure contradictoire constituerait, à n’en pas douter, une atteinte disproportionnée au droit et à la liberté d’expression, qui nous mettrait sans doute en difficulté au regard de nos obligations constitutionnelles et conventionnelles.
 Voilà pourquoi la commission a donné un avis défavorable à cet amendement.
@@ -553,7 +550,7 @@ Aussi je veux rappeler que cet amendement numéro 94, que nous défendions, conc
 Il me semble qu’il serait utile que, dans la suite des débats, on puisse se pencher à nouveau sur cette question, que nous avons examinée pour le moins rapidement tout à l’heure.
 De fait, dans l’intérêt de tous, de la protection de la société, évidemment, comme de l’efficacité de nos enquêtes et de nos forces de police, il faut rendre possible l’accroissement de la durée maximale de détention des mineurs de plus de seize ans, avec un régime quelque peu différent de celui que nous avons institué pour les majeurs par le vote de l’amendement numéro 17.
 Permettez-moi d’évoquer rapidement l’amendement numéro 260 que je vais défendre à l’issue du vote de cet article.
-Comme je l’avais annoncé à l’occasion du débat sur la déchéance de nationalité, monsieur le ministre, il s’agit de durcir les peines à l’égard des terroristes, en leur étendant notamment le régime de la « perpétuité incompressible », ainsi qu’elle est communément dénommée, bien que ces mots ne figurent pas dans notre législation.
+Comme je l’avais annoncé à l’occasion du débat sur la déchéance de nationalité, monsieur le ministre, il s’agit de durcir les peines à l’égard des terroristes, en leur étendant notamment le régime de la «perpétuité incompressible», ainsi qu’elle est communément dénommée, bien que ces mots ne figurent pas dans notre législation.
 Cette peine s’applique actuellement à deux catégories de crimes : l’assassinat avec viol, tortures ou actes de barbarie d’un mineur de moins de quinze ans et le meurtre en bande organisée ou l’assassinat d’une personne dépositaire de l’autorité publique.
 Il me semble que, pour le moins, les criminels terroristes pourraient se voir appliquer la même peine.
 C’est un point qui me paraît essentiel.
@@ -567,11 +564,11 @@ Nous en venons à deux amendements, numéros 176 rectifié et 182, qui peuvent f
 La parole est à Monsieur Olivier Falorni, pour les soutenir.
 Ce qui nous réunit aujourd’hui, bien évidemment, c’est la sécurité des Français.
 Nous devons poursuivre deux objectifs : renforcer efficacement la lutte contre le terrorisme, mais aussi mettre les terroristes hors d’état de nuire.
-Aujourd’hui, la peine de perpétuité dite « incompressible » s’applique, aux termes de l’article 221-3 du code pénal, à l’assassinat d’un mineur de quinze ans, « précédé ou accompagné d’un viol, de tortures ou d’actes de barbarie, ou lorsque l’assassinat a été commis en bande organisée sur un magistrat, un fonctionnaire de la police nationale, un militaire de la gendarmerie, un membre du personnel de l’administration pénitentiaire ou toute autre personne dépositaire de l’autorité publique […] » Cette peine de perpétuité dite « incompressible » devrait s’appliquer aux actes de terrorisme punis de la réclusion criminelle à perpétuité.
+Aujourd’hui, la peine de perpétuité dite «incompressible» s’applique, aux termes de l’article 221-3 du code pénal, à l’assassinat d’un mineur de quinze ans, «précédé ou accompagné d’un viol, de tortures ou d’actes de barbarie, ou lorsque l’assassinat a été commis en bande organisée sur un magistrat, un fonctionnaire de la police nationale, un militaire de la gendarmerie, un membre du personnel de l’administration pénitentiaire ou toute autre personne dépositaire de l’autorité publique […]» Cette peine de perpétuité dite «incompressible» devrait s’appliquer aux actes de terrorisme punis de la réclusion criminelle à perpétuité.
 La durée de la période de sûreté dépend de l’application de l’article 132-23 du code pénal.
 Lorsqu’il est précisé dans l’article prohibant le crime que les deux premiers alinéas de cet article 132-23 lui sont applicables, la période de sûreté est de dix-huit ans, à moins que la cour ne décide de la baisser ou de l’élever, sans pouvoir excéder vingt-deux ans.
 La règle souffre une exception, instaurée en 1994, à l’initiative de Pierre Méhaignerie, qui est applicable à deux cas : l’assassinat d’enfants précédé ou accompagné de viols, de tortures ou d’actes de barbarie, et l’assassinat de personnes dépositaires de l’autorité publique, commis avec préméditation ou en bande organisée.
-En ce cas, la cour d’assises peut décider, soit de porter la période de sûreté à trente ans, soit que le condamné ne pourra bénéficier d’aucun aménagement de peine, ce que l’on appelle communément la perpétuité « incompressible » ou « réelle ».
+En ce cas, la cour d’assises peut décider, soit de porter la période de sûreté à trente ans, soit que le condamné ne pourra bénéficier d’aucun aménagement de peine, ce que l’on appelle communément la perpétuité «incompressible» ou «réelle».
 Il me semble en effet totalement légitime d’appliquer cette peine, qui se trouve au sommet de notre hiérarchie répressive, aux actes de terrorisme comprenant des crimes de sang.
 L’amendement que je vous soumets a une double vocation.
 Il s’assigne un objectif d’efficacité, par la mise hors d’état de nuire des barbares qui frappent notre pays, mais poursuit aussi un objectif symbolique, qui n’est pas moins important : affirmer haut et fort, ici, qu’un crime terroriste est à l’égal des deux crimes punis de la sorte depuis 1994, que ce crime terroriste est l’atteinte la plus grave aux valeurs de la République.
@@ -607,7 +604,7 @@ Quel est l’avis de la commission sur les amendements en discussion commune ? N
 Permettez-moi donc d’exposer globalement la démarche de la commission des lois à ce propos, ce qui me permettra de formuler plus rapidement un avis sur les amendements suivants.
 Comme le Gouvernement vient de l’indiquer par la voix du garde des sceaux, j’estime qu’il est nécessaire de renforcer les conditions d’exécution des peines concernant le terrorisme afin de tenir compte d’une part de la gravité des infractions commises par ces personnes, et d’autre part des stratagèmes employés par certaines pour se présenter sous un jour favorable au juge d’application des peines.
 Toutefois, je considère que cela doit se faire dans le respect du principe d’individualisation des peines qui doit s’appliquer au stade de leur exécution.
-Voilà pourquoi j’émettrai un avis défavorable à l’adoption de tous les amendements tendant à supprimer automatiquement les aménagements de peines dont ces personnes peuvent faire l’objet – je dis bien supprimer « automatiquement ».
+Voilà pourquoi j’émettrai un avis défavorable à l’adoption de tous les amendements tendant à supprimer automatiquement les aménagements de peines dont ces personnes peuvent faire l’objet – je dis bien supprimer «automatiquement».
 En revanche, je suis favorable, parmi les nombreux amendements qui convergent vers cette solution, à celui qui me semble le plus global et le mieux rédigé, l’amendement numéro 35 de Monsieur Larrivé – sous réserve, bien entendu, de l’adoption du sous-amendement qui vient d’être proposé par le garde des sceaux.
 Cet amendement permet au tribunal de prolonger de manière exceptionnelle la durée de droit commun de la période de sûreté applicable à certaines personnes condamnées pour des infractions graves à caractère terroriste en la portant à trente ans ou, si la peine prononcée est la réclusion criminelle à perpétuité, en décidant la perpétuité réelle.
 Cette disposition permet de retarder ou d’écarter tout aménagement de peine avec le temps de sûreté pour la période décidée par le tribunal.
@@ -844,7 +841,7 @@ Cela nous permettrait d’imaginer autre chose que d’enfermer les gens dans de
 La question de l’incarcération posera aussi celle du rôle et de la fonction de la prison.
 Ce sujet ne date pas d’aujourd’hui, et il doit être pris en compte.
 Monsieur Dhuicq, les malades mentaux, notamment les pervers, n’existent pas qu’en France.
-Je n’ai pas utilisé le terme de « malades mentaux » ! Vous savez aussi bien que moi qu’ils sont traités différemment dans certains pays.
+Je n’ai pas utilisé le terme de «malades mentaux» ! Vous savez aussi bien que moi qu’ils sont traités différemment dans certains pays.
 Regardons ce qui s’y passe, et prenons le meilleur ! La parole est à Monsieur Pascal Popelin, rapporteur.
 À ce stade de notre débat, je veux dire avec beaucoup de sérénité, mais aussi avec un peu de gravité, que j’avais le sentiment, depuis le début, que nous discutions avec sérieux et dans un esprit extrêmement constructif.
 Je suis très sérieux, monsieur le rapporteur ! J’ai bien compris que vous étiez sérieux, et je pense l’être également.
@@ -943,11 +940,10 @@ Pour la première fois, depuis deux ou trois ans, nous avons un vrai désaccord 
 En tout cas, ne cachons pas cette vraie différence de fond qui ressort de nos débats depuis ce matin.
 La parole est à Monsieur le rapporteur.
 J’apporterai à Monsieur Lellouche une réponse d’ordre technique, puisqu’il m’a interpellé sur ce point.
-Avec l’amendement numéro 35, nous avons introduit un article 421-7 complétant le chapitre Ier du titre II du livre IV du code pénal, qui est ainsi rédigé : « Les deux premiers alinéas de l’article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues au présent chapitre.
-» Les mesures prises visent donc l’ensemble du chapitre Ier du titre II du livre IV du code pénal.
+Avec l’amendement numéro 35, nous avons introduit un article 421-7 complétant le chapitre Ier du titre II du livre IV du code pénal, qui est ainsi rédigé : «Les deux premiers alinéas de l’article 132-23 relatif à la période de sûreté sont applicables aux infractions prévues au présent chapitre.» Les mesures prises visent donc l’ensemble du chapitre Ier du titre II du livre IV du code pénal.
 Merci de cette précision.
 La parole est à Monsieur le président de la commission des lois.
-Monsieur Lefebvre, puisque vous souhaitez une mesure dite « de surveillance judiciaire » – qui est une peine spéciale –, je vous rappelle que nous l’avons instaurée dans une loi que vous n’avez pas votée, à savoir la réforme Taubira du 15 août 2014.
+Monsieur Lefebvre, puisque vous souhaitez une mesure dite «de surveillance judiciaire» – qui est une peine spéciale –, je vous rappelle que nous l’avons instaurée dans une loi que vous n’avez pas votée, à savoir la réforme Taubira du 15 août 2014.
 Nous avons introduit ce mécanisme car il existe une possibilité nouvelle et étendue de révocation de l’ensemble des crédits de peines qui ont été prononcés, avec une possibilité de surveiller n’importe quelle personne sortant de prison, quelle que soit la durée de la peine prononcée.
 Ces mécanismes existent d’ores et déjà, monsieur Lefebvre.
 S’il faut les améliorer… C’est l’objet de ma demande.
@@ -970,7 +966,7 @@ Merci, monsieur le député.
 Sinon, et ce n’est pas pour faire de la polémique, je ne le voterai pas.
 La parole est à Monsieur Gérard Sebaoun.
 Notre discussion étant assez éloignée du contenu de l’amendement, je me permets de prendre la parole pour réagir aux propos de notre collègue Dhuicq.
-Il a parlé de « pervers », et je crois qu’il connaît assez bien le sujet.
+Il a parlé de «pervers», et je crois qu’il connaît assez bien le sujet.
 En réalité, quoi que l’on pense de la sûreté, on ne peut pas faire l’amalgame entre des pervers et des terroristes qui ont très probablement fait l’objet d’expertises psychiatriques.
 Quels qu’aient été les résultats, que j’ignore, et les experts psychiatres peuvent se tromper, on ne peut pas faire aussi simplement l’amalgame entre un pervers et un terroriste.
 Ces gens ne sont pas fous, même s’ils sont dangereux.
@@ -1018,7 +1014,7 @@ Ces individus, nous le savons, présentent un danger pour la société et la pri
 C’est ce que nous ne cessons de dire ! Par conséquent, il convient de généraliser la surveillance judiciaire de ces individus à la sortie de la prison.
 Cet amendement ne porte pas atteinte au principe d’individualisation des peines, ni à la liberté du procureur de la République ou du juge de l’application des peines, mais simplifie le recours à la surveillance judiciaire pour les infractions relevant d’actes de terrorisme en l’étendant aux délits pour lesquels la peine d’emprisonnement est inférieure à sept ans, et qui constitue actuellement la limite fixée par le présent article.
 Quel est l’avis de la commission ? L’article 723-29 du code de procédure pénale prévoit l’application de mesures de sûreté et le placement sous surveillance judiciaire dès sa libération de toute personne condamnée à une peine privative de liberté d’une durée égale ou supérieure à sept ans pour un crime ou un délit pour lequel le suivi socio-judiciaire est encouru ou d’une durée supérieure ou égale à cinq ans pour un crime ou délit commis une nouvelle fois en état de récidive légale.
-Or, la plupart des infractions terroristes que vous visez sont punies de peines d’emprisonnement ou de réclusion d’une durée égale ou supérieure à sept ans, sauf la provocation « simple » à la commission d’actes de terrorisme ou l’apologie de tels actes.
+Or, la plupart des infractions terroristes que vous visez sont punies de peines d’emprisonnement ou de réclusion d’une durée égale ou supérieure à sept ans, sauf la provocation «simple» à la commission d’actes de terrorisme ou l’apologie de tels actes.
 Par ailleurs, je rappelle que j’ai repris tout à l’heure l’amendement de Monsieur Zumkeller tendant à appliquer aux personnes condamnées pour un acte de terrorisme les mesures de suivi socio-judiciaire, ce qui permettra donc de les placer sous surveillance judiciaire.
 L’intention que vous exprimez, et que je partage, est donc satisfaite à la fois par l’état du droit et par l’enrichissement que nous lui avons apporté tout à l’heure dans la discussion avec l’amendement numéro 296.
 Quel est l’avis du Gouvernement ? Même avis.
@@ -1053,15 +1049,15 @@ Un rapport de notre collègue Sébastien Pietrasanta, qui n’est pas ici aujour
 Monsieur le garde des sceaux, quelles sont, à ce stade, les intentions du Gouvernement face à ces enjeux, et quelle sera la politique pénale qui sera mise en place en matière de déradicalisation, compte tenu de la préconisation formulée par le rapport que j’ai évoqué et de l’amendement que j’aurais souhaité présenter – cela s’est malheureusement révélé impossible – pour inscrire un tel dispositif dans le texte de loi ? Je vous remercie par avance des précisions que vous pourrez nous donner.
 Je suis saisi de deux amendements identiques, numéros 40 et 251.
 La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro 40.
-Cet amendement tendant à la suppression de l’article 4 ter reprendra, si Monsieur le garde des sceaux me le permet, la position du Gouvernement, qualifiée de « caverne idéologique » par Monsieur Ciotti.
+Cet amendement tendant à la suppression de l’article 4 ter reprendra, si Monsieur le garde des sceaux me le permet, la position du Gouvernement, qualifiée de «caverne idéologique» par Monsieur Ciotti.
 Je laisse à ce dernier l’élégance de cette expression, qui procède de la tendance qu’avait l’opposition de renvoyer sans cesse Christiane Taubira – elle vous hante encore ! – à une forme d’animalité ou de bestialité.
 Après son départ du Gouvernement, il eût été sage, Monsieur Ciotti, de changer de registre et de lexique.
 La position que je vais exposer était celle du Gouvernement et a été exprimée au banc, non pas par Madame Taubira, mais par Monsieur Bernard Cazeneuve, venu lui prêter main-forte pour résister à l’offensive du président de la commission des lois, qui avait en effet réussi à faire adopter un amendement de Monsieur Guillaume Larrivé et d’autres auteurs, tendant à modifier la situation existante.
 Cette disposition ressemble étonnamment à un cavalier législatif.
 Je ne vois pas bien, en effet, ce que vient faire un article relatif au renseignement administratif dans le chapitre consacré au renforcement de l’efficacité des investigations judiciaires.
 J’imagine donc que Monsieur le garde des sceaux me répondra.
-Pour le reste, je reprendrai l’argumentation développée l’été dernier par le Gouvernement, qui indiquait – c’était du reste le principal argument du ministre de l’intérieur – qu’une telle évolution représenterait une modification importante du métier de surveillant, précisant que « les contrôles exercés par l’administration pénitentiaire ont vocation à prévenir les risques d’évasion et la commission d’infractions à l’intérieur des établissements.
-Ils diffèrent donc considérablement des missions générales des services de renseignement ».
+Pour le reste, je reprendrai l’argumentation développée l’été dernier par le Gouvernement, qui indiquait – c’était du reste le principal argument du ministre de l’intérieur – qu’une telle évolution représenterait une modification importante du métier de surveillant, précisant que «les contrôles exercés par l’administration pénitentiaire ont vocation à prévenir les risques d’évasion et la commission d’infractions à l’intérieur des établissements.
+Ils diffèrent donc considérablement des missions générales des services de renseignement».
 De plus, selon le même raisonnement, c’est une même administration qui gérerait des personnes au quotidien et mettrait en œuvre des techniques secrètes pour les surveiller, ce qui n’est pas très sain.
 Le Gouvernement rappelait également les liens très étroits existant entre les services de renseignement et le renseignement pénitentiaire, les autres services pouvant accéder à la détention pour utiliser des techniques de renseignements dans le cadre légal.
 Enfin, le président de la Commission nationale de contrôle des techniques de renseignement – CNCTR – a noté lors de son audition par le Sénat, le 8 février dernier, que la liste des services du second cercle pouvant accéder aux techniques spéciales était déjà trop longue.
@@ -1071,7 +1067,7 @@ Cela ne me paraît pas souhaitable.
 C’est pourquoi, reprenant les arguments développés l’an dernier par le Gouvernement, je propose de supprimer l’article 4 ter.
 La parole est à Monsieur Gérard Sebaoun, pour soutenir l’amendement identique numéro 251.
 Un débat important a en effet eu lieu, y compris au sein de notre groupe, et la position du Gouvernement était celle que vient de rappeler Monsieur Coronado.
-Comme l’exprimait alors le Gouvernement, « il ne peut être exigé d’une même administration qu’elle gère au quotidien des personnes et qu’elle mette en œuvre des techniques secrètes pour les surveiller ».
+Comme l’exprimait alors le Gouvernement, «il ne peut être exigé d’une même administration qu’elle gère au quotidien des personnes et qu’elle mette en œuvre des techniques secrètes pour les surveiller».
 Je suis, sur ce sujet, assez modéré et ma religion n’est pas totalement faite, même si je défends cet amendement de suppression.
 J’écouterai donc avec intérêt le garde des sceaux.
 Je tiens en tout cas à le remercier pour les propos qu’il a tenus hier lors de la séance de questions d’actualité, se déclarant favorable à l’idée d’une expérimentation à propos du téléphone en cellule – je ne parle pas des 27 000 téléphones cellulaires interdits que l’on retrouve dans les prisons françaises, mais d’une action dans le sens des recommandations formulées par les rapports des contrôleurs généraux des lieux de privation de liberté, Monsieur Jean Marie Delarue et Madame Adeline Hazan, qui ont constaté le problème que représentaient, d’une manière générale, la difficulté de l’accès au téléphone dans les coursives, la limitation du temps d’utilisation et l’absence de confidentialité.
@@ -1095,7 +1091,7 @@ J’ai reçu hier ou avant-hier une organisation syndicale de magistrats qui sus
 Nous nous intéressons naturellement ici, non pas à la totalité des personnels qui sont dans les coursives, mais uniquement à la pénitentiaire, à ceux qui sont dédiés et formés et qui aujourd’hui, à travers un rapport de l’inspection du ministère, ont affiné ce que serait le renseignement pénitentiaire.
 La directrice de l’administration pénitentiaire discute en ce moment avec les organisations syndicales d’une doctrine du renseignement pénitentiaire ; un syndicat – l’UFAP – a publié sa propre doctrine sur ce que sera le renseignement pénitentiaire.
 Nous aurons l’occasion, avec l’Assemblée nationale mais aussi avec le Sénat, de revenir sur ces questions pour en définir les modalités pratiques.
-Il y a un terme que je n’utiliserai plus : celui de « deuxième cercle » de la communauté du renseignement – je le dis devant un membre éminent de la commission nationale de contrôle des techniques de renseignement – puisqu’un décret est paru – lequel, aux yeux du ministre que je suis, n’appelle pas de commentaire –, qui considère que l’on a étendu de manière assez vaste les techniques.
+Il y a un terme que je n’utiliserai plus : celui de «deuxième cercle» de la communauté du renseignement – je le dis devant un membre éminent de la commission nationale de contrôle des techniques de renseignement – puisqu’un décret est paru – lequel, aux yeux du ministre que je suis, n’appelle pas de commentaire –, qui considère que l’on a étendu de manière assez vaste les techniques.
 Elles mériteraient d’être regardées de manière un peu plus précise, mais cette observation n’engage naturellement que moi, et pas le Gouvernement.
 Le renseignement pénitentiaire est une bonne chose, il est utile ; ses personnels sont formés et seront efficaces, je n’en doute pas, pour combattre la menace.
 Je crois au final que c’est une décision de bon sens que d’intégrer le ministère de la justice dans les potentialités.

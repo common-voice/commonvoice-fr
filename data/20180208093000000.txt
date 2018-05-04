@@ -2,7 +2,7 @@ La séance est ouverte.
 L’ordre du jour appelle la discussion, après engagement de la procédure accélérée, du projet de loi ratifiant l’ordonnance numéro 2017-1252 du 9 août 2017 portant transposition de la directive 2015/2366 du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur (numéros 368, 607).
 La parole est à Madame la secrétaire d’État auprès du ministre de l’économie et des finances.
 Monsieur le président, monsieur le président de la commission des finances, de l’économie générale et du contrôle budgétaire, madame la rapporteure, mesdames et messieurs les députés, le projet de loi qui vous est présenté permet la ratification de l’ordonnance numéro 2017-1252 du 9 août 2017.
-La directive européenne 2015/2366, dite « Services de paiement 2 », ou DSP 2, met à jour et complète le dispositif européen des services de paiement en vue d’encourager cette activité dans le marché intérieur de l’Union européenne.
+La directive européenne 2015/2366, dite «Services de paiement 2», ou DSP 2, met à jour et complète le dispositif européen des services de paiement en vue d’encourager cette activité dans le marché intérieur de l’Union européenne.
 Elle actualise la directive 2007/64/CE du 13 novembre 2017, dite DSP 1, qui avait introduit un premier cadre d’activité en complétant la typologie des acteurs bancaires.
 La directive DSP 1 avait ainsi créé les établissements de paiement, la directive 2009/110 du 16 septembre 2009 relative à l’accès à l’activité des établissements de monnaie électronique ayant ensuite donné naissance aux établissements de monnaie électronique, avec un régime allégé par rapport aux établissements de crédit, et ce afin de rendre plus concurrentiel et plus dynamique le marché des services de paiement dans le marché intérieur.
 La nouvelle directive de 2015 fixe les règles régissant l’accès à l’activité de services de paiement, la supervision des prestataires de services de paiement, les modalités techniques applicables aux opérations de paiement ainsi que les droits et obligations des parties à un service de paiement.
@@ -55,7 +55,7 @@ Les dispositions de la DSP 2 s’appliquent, pour la plupart d’entre elles, de
 En l’état actuel du droit, certaines ne s’appliqueront toutefois – j’y reviendrai – qu’en août 2019.
 La directive a trois objectifs : promouvoir l’innovation et la concurrence dans le domaine des services de paiement, protéger le consommateur et, enfin, améliorer la sécurité des données des utilisateurs.
 La DSP 2 est un texte technique recouvrant un large champ d’acteurs et d’opérations.
-Il faut bien admettre que l’exigence de précision de la norme a permis au langage « techno » d’exprimer toute sa richesse.
+Il faut bien admettre que l’exigence de précision de la norme a permis au langage «techno» d’exprimer toute sa richesse.
 Mais derrière les acronymes, les sigles à la prononciation malaisée et les catégories juridiques aux périmètres plus ou moins établis, c’est le quotidien de nos concitoyens qui va s’en trouver changé.
 C’est rassurant ! En effet, les objectifs de la directive sont centrés sur l’intérêt du consommateur : la DSP 2 accompagne en effet l’innovation dans le secteur des services de paiement tout en visant à protéger les données des utilisateurs.
 Ces dernières années, l’innovation s’est traduite par l’apparition et le développement de nouveaux acteurs et de nouvelles pratiques auxquels la DSP 2 a donné un cadre juridique.
@@ -132,7 +132,7 @@ Le texte que nous examinons aujourd’hui n’est pas si technique que cela.
 Comme Madame la rapporteure l’a souligné, c’est en réalité la vie quotidienne de chacun d’entre nous qui est concernée par la sécurisation des données.
 Il existe d’ailleurs un lien entre le présent texte et celui relatif à la protection des données personnelles que nous avons examiné cette semaine.
 En seulement quelques années, le paysage financier mondial a beaucoup évolué.
-Sous l’impulsion des d’acteurs offrant des prestations d’un type nouveau, les « fintech », les usages bancaires se sont modifiés, avec pour conséquence des incertitudes juridiques concernant la protection des données personnelles des utilisateurs et les régimes de responsabilité des prestataires.
+Sous l’impulsion des d’acteurs offrant des prestations d’un type nouveau, les «fintech», les usages bancaires se sont modifiés, avec pour conséquence des incertitudes juridiques concernant la protection des données personnelles des utilisateurs et les régimes de responsabilité des prestataires.
 Dans ce contexte, la directive du 25 novembre 2015, dite DSP 2, permet d’accompagner la mutation numérique des services de paiement.
 Évolution essentielle, elle entérine l’existence des nouveaux intermédiaires, tout en donnant un cadre légal à leurs activités ; il faut en effet réguler lorsque des activités nouvelles émergent.
 La sécurité des utilisateurs sera renforcée par une plus grande protection des données.
@@ -142,7 +142,7 @@ Ces dispositions n’entreront toutefois en vigueur qu’à l’issue d’une p�
 La récupération des informations, plus sécurisée, permettra aux clients de ces nouveaux acteurs de réduire le risque d’une fuite ou d’un vol d’informations.
 La confiance dans l’utilisation de ce type d’application sera ainsi renforcée.
 Ce sera en outre une occasion à saisir.
-D’abord, l’emploi d’une API devrait permettre aux fintech d’être plus compétitives, grâce à l’utilisation de solutions « clés en main », préparées par les établissements de crédit pour accéder aux données des clients.
+D’abord, l’emploi d’une API devrait permettre aux fintech d’être plus compétitives, grâce à l’utilisation de solutions «clés en main», préparées par les établissements de crédit pour accéder aux données des clients.
 L’entrée en vigueur de la DSP 2 pourrait également renforcer les liens entre les fintech et les banques – les relations entre ces deux types d’acteurs n’ayant pas été toujours faciles –, en développant les échanges et les partenariats entre eux.
 Je souhaite toutefois appeler l’attention du Gouvernement sur plusieurs points, sur lesquels il conviendra d’être vigilant.
 L’accès aux données via les API permettra-t-il aux fintech d’obtenir les mêmes informations que celles auxquelles ils ont accès aujourd’hui ? La qualité de l’accès à l’information sera-t-elle la même ? Il faudra aussi que le Gouvernement soit attentif à ce qu’il n’y ait pas de barrières techniques au développement des acteurs de la fintech.
@@ -188,7 +188,7 @@ Un agrément unique avait été instauré pour tous les prestataires de services
 Enfin, cette première directive, de 2007, avait consacré la fin du monopole bancaire avec la création de la catégorie juridique des établissements de paiement, personnes morales fournissant habituellement des services de paiement tels que le versement et le retrait d’espèces et les opérations de gestion d’un compte de paiement.
 La nouvelle directive de 2015, dont nous parlons aujourd’hui, vient transformer ce cadre législatif avec l’intégration au code monétaire et financier de deux nouveaux services de paiement, des modifications apportées au régime d’agrément, de nouveaux droits et obligations pour les utilisateurs et le renforcement des pouvoirs de l’Autorité de contrôle prudentiel et de résolution, l’ACPR, en matière de supervision des activités transfrontalières.
 Je veux, madame la secrétaire d’État, mes chers collègues, appeler votre attention sur ce dernier point.
-Il nous semble important de doter l’autorité prudentielle de nouvelles prérogatives pour « surveiller » l’activité économique de ces entités et anticiper au mieux d’éventuels troubles en matière de stabilité financière : c’est là une nécessité.
+Il nous semble important de doter l’autorité prudentielle de nouvelles prérogatives pour «surveiller» l’activité économique de ces entités et anticiper au mieux d’éventuels troubles en matière de stabilité financière : c’est là une nécessité.
 Mais de quels moyens additionnels, humains et financiers, l’ACPR disposera-t-elle pour accomplir ces nouvelles missions ? Permettez-nous, à cet égard, de vous faire part de notre inquiétude quant à la baisse des effectifs plafonds de l’ACPR, votée en fin d’année dernière lors des discussions budgétaires.
 Cette baisse a en effet de quoi inquiéter alors que l’on confie de nouvelles missions à l’ACPR et que l’on renforce, plus généralement, les exigences prudentielles vis-à-vis des banques.
 Autre point de vigilance : la protection des données.
@@ -237,7 +237,7 @@ Certains, disais-je, affirment que ce texte va trop loin, d’autres, pas assez 
 Nous savons cependant qu’il est le fruit d’un compromis et de l’avancée obtenue en 2015, et qu’il ne peut être le point final de nos travaux.
 À première vue technique, voire technicien, il participe donc pleinement de l’esprit qui anime cette majorité et inspirera nos travaux dans les prochaines années : accompagner les Français dans les grandes transformations technologiques et numériques de leur quotidien et de l’économie, en les protégeant toujours et en garantissant leur sécurité et leur information.
 (Applaudissements sur les bancs du groupe REM.) La parole est à Madame Véronique Louwagie.
-Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, madame la rapporteure, mes chers collègues, « l’homme et sa sécurité doivent constituer la première préoccupation de toute aventure technologique » : gardons à l’esprit cette mise en garde d’Albert Einstein, qui doit éclairer constamment le législateur que nous sommes.
+Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, madame la rapporteure, mes chers collègues, «l’homme et sa sécurité doivent constituer la première préoccupation de toute aventure technologique» : gardons à l’esprit cette mise en garde d’Albert Einstein, qui doit éclairer constamment le législateur que nous sommes.
 Dans les activités de services de paiement, plus encore que dans de nombreux autres secteurs, les innovations technologiques ont fleuri, et nous ne pouvons d’ailleurs que nous en réjouir tant elles ont pu faciliter la vie des consommateurs que nous sommes.
 Néanmoins, de tels bouleversements ne sont pas sans incidences, et nous devons aussi adapter notre législation et l’harmoniser au niveau européen pour servir les intérêts des usagers que nous sommes.
 En effet, que ce soit dans le cadre des missions des autorités publiques ou des travaux d’harmonisation des standards techniques, l’échelon européen joue un rôle croissant dans la définition de règles de sécurité pour les moyens de paiement.
@@ -278,8 +278,7 @@ Pour l’heure, les députés du groupe Les Républicains voteront ce texte.
 (Applaudissements sur les bancs des groupes LR et NG ainsi que sur plusieurs bancs du groupe REM.)  La parole est à Madame Sarah El Haïry.
 Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, madame la rapporteure, mes chers collègues, à l’heure de l’hyperconnexion, de la loi sur la protection des données personnelles et face à l’intelligence artificielle ou à la cybermalveillance, très réelle, à travers ce texte de ratification de l’ordonnance transposant la directive européenne concernant les services de paiement dans le marché intérieur, l’Europe est protectrice et la France l’est aussi tout en donnant de la liberté.
 Accordons-nous maintenant une petite allusion à l’histoire dans ce débat plutôt technique.
-Par ce texte, plusieurs siècles après, nous faisons mentir Benjamin Franklin, qui disait : « Un peuple prêt à sacrifier un peu de liberté pour un peu de sécurité ne mérite ni l’une ni l’autre, et finit par perdre les deux.
-» Par ce texte, nous apportons plus de liberté et plus de sécurité et nous gagnons sur les deux tableaux.
+Par ce texte, plusieurs siècles après, nous faisons mentir Benjamin Franklin, qui disait : « Un peuple prêt à sacrifier un peu de liberté pour un peu de sécurité ne mérite ni l’une ni l’autre, et finit par perdre les deux.» Par ce texte, nous apportons plus de liberté et plus de sécurité et nous gagnons sur les deux tableaux.
 Un peu plus d’un an après la loi d’habilitation intégrée à la loi relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique, dite Sapin 2, nous sommes maintenant amenés à ratifier l’ordonnance transposant la directive européenne concernant les services de paiement dans le marché intérieur.
 Plus communément appelée DSP 2, cette directive prend la suite de la directive DSP 1 de 2007 en ouvrant de façon obligatoire et gratuite les données des comptes de paiement aux agrégateurs et aux initiateurs de paiement.
 Elle permet ainsi d’aller vers une harmonisation des interprétations et des applications de cette législation dans les États membres, d’étendre le champ d’application de la DSP 1 et, ainsi, de combler les lacunes en termes de normalisation et d’interopérabilité.
@@ -373,7 +372,7 @@ Néanmoins, dans ce domaine, notre seule boussole est la protection des consomma
 En effet, l’obligation faite aux banques d’assurer aux prestataires de services de paiement et aux prestataires de services d’information l’accès aux données de leurs clients, dès lors que ces derniers ont donné leur accord, nécessite des moyens de contrôle efficaces, sans quoi de graves dérives pourraient survenir, notamment en matière de fraude bancaire.
 II faut donc donner au superviseur national, qui, en France, est l’Autorité de contrôle prudentiel et de résolution, l’ACPR, les moyens nécessaires à cette fin.
 Or, pour rappel, l’article 65 de la loi de finances initiale pour 2018 fixe le plafond des autorisations d’emplois de l’ACPR à 1 050 équivalents temps plein travaillé, contre 1 121 ETPT dans l’article 58 de la loi de finances initiale pour 2017, ce qui représente une diminution de 7 % des moyens de l’Autorité.
-En commission des finances, la rapporteure a annoncé que « l’ACPR s’engage à réallouer ses ressources pour mettre en œuvre la directive ».
+En commission des finances, la rapporteure a annoncé que «l’ACPR s’engage à réallouer ses ressources pour mettre en œuvre la directive».
 Cette réponse n’est pas de nature à nous rassurer.
 Cette réallocation sera-t-elle suffisante ? Est-ce à dire que l’ACPR disposait jusqu’à présent d’un excédent de moyens ? Pour conclure, le groupe Nouvelle Gauche est favorable à la ratification de l’ordonnance d’août 2017 qui transpose fidèlement la DSP2.
 Toutefois, il demande au Gouvernement d’apporter à la représentation nationale toutes les garanties concernant les moyens accordés à l’ACPR pour exercer ses nouvelles missions dans l’intérêt des consommateurs.
@@ -395,7 +394,7 @@ On le voit, cette directive présente plusieurs aspects positifs : elle renforce
 C’est la raison pour laquelle nous voterons en sa faveur.
 Néanmoins, nous avons plusieurs remarques et mises en garde à formuler.
 D’abord, il ne faut pas surestimer la portée du texte.
-En janvier dernier, Valdis Dombrovskis, vice-président de la Commission chargé de la stabilité financière, des services financiers et de l’union des marchés de capitaux, déclarait que la directive, en facilitant les paiements et les transactions, « stimuler[ait] l’économie et la croissance ».
+En janvier dernier, Valdis Dombrovskis, vice-président de la Commission chargé de la stabilité financière, des services financiers et de l’union des marchés de capitaux, déclarait que la directive, en facilitant les paiements et les transactions, «stimuler[ait] l’économie et la croissance».
 C’est lui accorder beaucoup trop de vertu ! Sans augmentation de l’investissement ou du pouvoir d’achat par la répartition des richesses, il sera en effet bien difficile de favoriser durablement l’activité économique.
 Aujourd’hui, la Banque centrale européenne verse des milliards d’euros aux banques et à la sphère financière.
 De surcroît, l’un des grands objectifs de la Commission est de poursuivre la dérégulation financière en développant les marchés financiers dans les vingt-huit pays de l’Union européenne à travers l’union des marchés de capitaux.
@@ -442,7 +441,7 @@ C’est une ligne à laquelle le Gouvernement et la majorité se sont astreints 
 (Applaudissements sur les bancs des groupes REM et MODEM.) La parole est à Monsieur Daniel Labaronne.
 Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission des finances, madame la rapporteure, chers collègues, la discussion d’aujourd’hui porte sur la ratification d’une ordonnance transposant en droit français une directive européenne sur les services de paiement connue sous le nom de DSP2, laquelle vient abroger la première directive de 2007.
 Comme l’ont expliqué mes collègues, l’enjeu de ce texte est notamment de donner un cadre à l’activité de nouveaux acteurs du numérique financier : les prestataires de services d’information sur les comptes, parfois appelés agrégateurs d’informations.
-Il s’agit de start-up de la fintech comme « Gérer mon compte », « Budgea », « Bankin’ » ou « Linxo », qui revendiquent plus de 4 millions d’utilisateurs.
+Il s’agit de start-up de la fintech comme «Gérer mon compte», «Budgea», «Bankin’» ou «Linxo», qui revendiquent plus de 4 millions d’utilisateurs.
 Ces prestataires permettent de gérer au mieux ses comptes, en agrégeant les informations de ses différents établissements financiers.
 Le contexte actuel est très favorable aux agrégateurs de comptes bancaires.
 La loi Macron sur la mobilité bancaire, mise en application en février 2017, a entraîné une multibancarisation des Français.
@@ -465,7 +464,7 @@ Cela nous renvoie à la problématique des données personnelles et prolonge le 
 Les données personnelles dites sensibles sont certes mieux protégées avec ce texte, mais qu’en est-il de la mine d’or d’informations qui peut être tirée de la lecture d’un compte bancaire ? Aujourd’hui, les prestataires de services d’information sur les comptes utilisent la vente de ces données client comme une source de rémunération complémentaire, qui leur permet de proposer un service gratuit.
 Il serait dommage que cette pratique se propage aux établissements bancaires qui ne vendent pas aujourd’hui les données de leurs clients.
 Je déposerai à cet égard un amendement d’appel visant à sécuriser les données personnelles pouvant avoir un intérêt commercial pour les prestataires.
-Ce problème pourrait se poser d’autant plus fortement si, comme on le suppose, les GAFA – Google, Apple, Facebook, Amazon – profitaient de l’open banking, la « banque ouverte », pour utiliser des données à des fins commerciales.
+Ce problème pourrait se poser d’autant plus fortement si, comme on le suppose, les GAFA – Google, Apple, Facebook, Amazon – profitaient de l’open banking, la «banque ouverte», pour utiliser des données à des fins commerciales.
 Il faut donc réguler davantage.
 C’est pourquoi, le présent texte sera complété par le règlement de protection des données de l’Union européenne qui entrera bientôt en vigueur.
 Nous avons l’occasion d’en rediscuter ce matin, et je m’en réjouis.
@@ -479,9 +478,8 @@ Je sélectionne ma banque dans la liste proposée.
 Il y en a plusieurs, parmi des banques françaises, allemandes, anglaises ou espagnoles – il faut dire que la plateforme compte quelque 2 millions d’utilisateurs en Europe.
 Puis, l’application me propose de saisir l’identifiant et le code d’accès à la plateforme de ma banque.
 Là, j’hésite… Ne suis-je pas sur le point de livrer à une application téléchargée gratuitement sur internet ces accès dont ma banque ne cesse de me répéter qu’ils me sont strictement personnels ? Après tout, c’est un peu comme si je livrais le code de ma carte bancaire ! Cela veut donc dire que l’application va se connecter en mon nom à mes comptes.
-Mais si une opération bancaire frauduleuse est réalisée sur mon compte, quelles seront mes capacités de recours ? Comme je ne suis apparemment pas la seule à m’interroger avant de sauter le pas, l’application a introduit un lien sur sa page : « Votre application est sûre et sécurisée.
-En savoir plus.
-» Je clique, et tombe sur une liste d’engagements destinés à me rassurer : un agrément de la Banque de France, des technologies de chiffrement parmi les plus performantes, l’absence de données bancaires visibles ou encore des partenaires reconnus...
+Mais si une opération bancaire frauduleuse est réalisée sur mon compte, quelles seront mes capacités de recours ? Comme je ne suis apparemment pas la seule à m’interroger avant de sauter le pas, l’application a introduit un lien sur sa page : «Votre application est sûre et sécurisée.
+En savoir plus.» Je clique, et tombe sur une liste d’engagements destinés à me rassurer : un agrément de la Banque de France, des technologies de chiffrement parmi les plus performantes, l’absence de données bancaires visibles ou encore des partenaires reconnus...
 L’une des affirmations attire mon attention : elle précise que l’application est encadrée par la directive européenne sur les services de paiement numéro 2, soit la DSP2.
 Nous y voilà donc ! J’en déduis que, tant que nous n’aurons pas voté, dans cet hémicycle, la transposition de cette directive européenne, je prendrai un risque à utiliser une application pourtant bien pratique.
 C’est une réalité : la loi que nous examinons permettra, par exemple, de sécuriser l’accès à mes données bancaires, en clarifiant l’identification de la personne qui s’y connecte.
@@ -653,9 +651,9 @@ Voilà pourquoi, madame la rapporteure, je ne partage pas votre optimisme.
 La parole est à Monsieur Charles de Courson.
 Madame la ministre, je vais vous donner deux exemples.
 Monsieur le président, ça suffit ! On ne va pas y passer la matinée ! Mais si ! Le problème, c’est de savoir comment ce service sera rémunéré.
-Vous avez évoqué cette question, madame la secrétaire d’État : quid de cette rémunération ? Prenons l’exemple des « points Poste » : les commerçants peuvent, dans ce cadre, distribuer de l’argent – je crois qu’il y a un plafond de 200 euros.
+Vous avez évoqué cette question, madame la secrétaire d’État : quid de cette rémunération ? Prenons l’exemple des «points Poste» : les commerçants peuvent, dans ce cadre, distribuer de l’argent – je crois qu’il y a un plafond de 200 euros.
 Ils sont rémunérés pour cela, mais pas par le client : par La Poste.
-Concernant le cashback, comment le mode de rémunération sera-t-il défini ? Allez-vous le fixer par décret ? Ou bien la rémunération sera-t-elle libre ? Vous devez nous expliquer comment cela fonctionnera, car il faudra bien rémunérer les commerçants pour le service qu’ils rendront ! C’est le cas, je le répète, dans les « points Poste », mais c’est La Poste qui les rémunère, pas le client : si le client demande 100 euros, il reçoit 100 euros, on ne lui prélève pas de commission.
+Concernant le cashback, comment le mode de rémunération sera-t-il défini ? Allez-vous le fixer par décret ? Ou bien la rémunération sera-t-elle libre ? Vous devez nous expliquer comment cela fonctionnera, car il faudra bien rémunérer les commerçants pour le service qu’ils rendront ! C’est le cas, je le répète, dans les «points Poste», mais c’est La Poste qui les rémunère, pas le client : si le client demande 100 euros, il reçoit 100 euros, on ne lui prélève pas de commission.
 Voilà ce que je n’arrive pas à comprendre.
 Est-ce que ce sera un service gratuit ? La parole est à Monsieur Daniel Labaronne, pour soutenir l’amendement numéro 1.
 Cet amendement propose de compléter la transposition de la directive afin de sécuriser les données du client n’étant pas considérées comme des données sensibles mais pouvant néanmoins avoir un intérêt commercial pour les prestataires de services d’information sur les comptes.
@@ -671,7 +669,7 @@ Enfin, l’article L.
 521-6 dispose que le traitement des données à caractère personnel est effectué par les prestataires de services de paiement conformément au règlement général de protection des données, lequel pose le consentement comme condition préalable et le définit comme étant un acte positif, clair et effectué par une personne éclairée.
 Compte tenu de ces éléments d’information, je vous propose, mon cher collègue, de retirer votre amendement.
 Quel est l’avis du Gouvernement ? Je n’ai rien à ajouter : retrait.
-Monsieur Labaronne, retirez-vous l’amendement ? Je vais le retirer, mais la notion de « traitement de données » ne signifie pas forcément, dans l’esprit des usagers qui donnent leur consentement, « commercialisation des données bancaires ».
+Monsieur Labaronne, retirez-vous l’amendement ? Je vais le retirer, mais la notion de «traitement de données» ne signifie pas forcément, dans l’esprit des usagers qui donnent leur consentement, «commercialisation des données bancaires».
 J’entendais attirer l’attention sur le fait qu’il fallait peut-être mieux préciser cette notion, celle-ci pouvant se traduire par une commercialisation de données non sensibles à caractère personnel.
 La parole est à Madame la secrétaire d’État, pour soutenir l’amendement numéro 8 rectifié.
 La DSP2 a prévu une entrée en vigueur au 13 janvier dernier pour la plus grande partie de ses dispositions et une entrée en vigueur différée pour celles relatives aux modalités de sécurisation de l’accès aux données de paiement entre un acteur tiers – agrégateur ou initiateur de paiements – et la banque du client, spécifiées dans la norme technique réglementaire.
@@ -703,7 +701,7 @@ La parole est à Madame Nadia Hai, rapporteure, pour soutenir l’amendement num
 Il s’agit d’un amendement de coordination, monsieur le président.
 La parole est à Madame la secrétaire d’État, pour soutenir l’amendement numéro 9.
 Celui-ci prévoit l’extension de la compétence de contrôle de la Banque de France aux instruments de paiement spécifiques issus de la DSP2.
-Je rappelle qu’existe déjà une directive sur la monnaie électronique, appelée « DME2 », qui a introduit un régime dérogatoire pour les titres spéciaux de paiement dématérialisé – les supports de paiement émis à des fins sociales ou fiscales spécifiques tels que, par exemple, les chèques-vacances ou les titres-restaurant.
+Je rappelle qu’existe déjà une directive sur la monnaie électronique, appelée «DME2», qui a introduit un régime dérogatoire pour les titres spéciaux de paiement dématérialisé – les supports de paiement émis à des fins sociales ou fiscales spécifiques tels que, par exemple, les chèques-vacances ou les titres-restaurant.
 Ils échappent au monopole des établissements bancaires.
 Leur émission est soumise au contrôle de la Banque de France.
 La DSP2 introduit un régime dérogatoire comparable pour les instruments de paiement spécifiques en prévoyant que leur émission, là aussi, échappe au monopole des établissements bancaires.

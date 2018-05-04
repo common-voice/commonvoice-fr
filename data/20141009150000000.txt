@@ -95,7 +95,7 @@ Ils reflètent parfaitement l’insertion de la France dans la mondialisation.
 C’est parce que j’ai toujours été convaincu de leur importance que, depuis plus de treize ans, au sein du RPR puis de l’UMP, j’ai fait le choix de me consacrer à ces Français qui se sont établis hors de nos frontières.
 Je connais, tout comme les autres députés des Français de l’étranger ici présents, leurs préoccupations quotidiennes et leurs attentes.
 Déjà en 2008, convaincu qu’ils sont non pas une partie mais une partie intégrante de notre nation, j’avais défendu la création des onze sièges de députés des Français de l’étranger afin qu’ils soient représentés à l’Assemblée nationale comme ils l’étaient au Sénat.
-Ce projet avait d’ailleurs – j’en souris maintenant – été vigoureusement combattu par le groupe socialiste, qui avait, à l’époque, déposé un amendement visant à supprimer la création de ces députés jugeant cette représentativité « plus que douteuse », pour reprendre les termes qui avaient été alors utilisés.
+Ce projet avait d’ailleurs – j’en souris maintenant – été vigoureusement combattu par le groupe socialiste, qui avait, à l’époque, déposé un amendement visant à supprimer la création de ces députés jugeant cette représentativité «plus que douteuse», pour reprendre les termes qui avaient été alors utilisés.
 je me permets de vous rappeler que cet amendement avait été présenté par un certain Arnaud Montebourg et défendu par un député qui a fait du chemin depuis puisqu’il s’agissait de François Hollande...
 Je me réjouis donc aujourd’hui que l’existence de députés représentant les Français établis hors de France fasse finalement consensus dans notre assemblée, chacun des quatre principaux groupes parlementaires en comptant en leur sein.
 J’espère d’ailleurs que cette représentativité ne sera pas remise en cause à l’avenir, monsieur le secrétaire d’État.
@@ -155,30 +155,24 @@ Comme notre rapporteur l’a souligné, nombre de nos compatriotes ont trouvé s
 Je suis un fervent partisan du vote électronique, pourvu que les conditions dans lesquelles ce dernier s’effectue soient de nature à répondre aux attentes de nos compatriotes.
 Je voudrais évoquer ici les conditions dans lesquelles les services de l’État ont mis en œuvre le système de vote électronique lors des dernières échéances législatives, qu’il s’agisse des élections de juin 2012 ou des deux partielles de juin 2013, ainsi qu’aux élections consulaires.
 J’ai à cette époque relayé les observations de nombreux compatriotes, notamment sur le système Java.
-Une réponse du 7 mai 2013 à une question de ma collègue Claudine Schmid, indiquait qu’une « mise à jour concernant la version 1.7 de Java avait cependant été effectuée ».
+Une réponse du 7 mai 2013 à une question de ma collègue Claudine Schmid, indiquait qu’une «mise à jour concernant la version 1.7 de Java avait cependant été effectuée».
 Pourtant, on a revu les mêmes dysfonctionnements.
 Cela ne doit pourtant pas servir d’argument pour ne pas étendre le vote électronique.
 Il faut régler ces problèmes : nous en avons le temps, de plus.
-Je vais citer des requêtes très précises de nos compatriotes : « Bonjour.
+Je vais citer des requêtes très précises de nos compatriotes : «Bonjour.
 Je dispose du meilleur ordinateur Apple et il est à jour.
-Mais le système de vote pour les élections européennes bloque sur Java.
-» Voici la réponse que ce monsieur a reçue de vos services : « En réponse à votre demande enregistrée sous la référence X, nous vous informons que si vous avez le Java 55 installé, veuillez le désinstaller.
+Mais le système de vote pour les élections européennes bloque sur Java.» Voici la réponse que ce monsieur a reçue de vos services : «En réponse à votre demande enregistrée sous la référence X, nous vous informons que si vous avez le Java 55 installé, veuillez le désinstaller.
 Si Java n’est pas installé dans votre ordinateur ou désinstallé, ou si vous utilisez un navigateur en version 32 bits (grande majorité) ou Internet Explorer en version 64 bits, créez un compte chez Oracle et installez Java en suivant les instructions indiquées.
-Sans retour de votre part dans les quarante-huit heures, nous considérerons que notre réponse vous aura donné satisfaction.
-» (Sourires.) Ça, c’est la cellule d’assistance ! Je pourrais vous citer d’autres exemples : « Je voudrais vous faire part de ma déception de ne pas pouvoir voter par internet pour l’élection des conseillers consulaires.
-J’habite trop loin de San Francisco et j’avais l’intention de voter par internet.
-» Ça, c’est la distance, nous en avons parlé les uns et les autres.
-« J’ai passé plusieurs heures à essayer de voter.
+Sans retour de votre part dans les quarante-huit heures, nous considérerons que notre réponse vous aura donné satisfaction.» (Sourires.) Ça, c’est la cellule d’assistance ! Je pourrais vous citer d’autres exemples : « Je voudrais vous faire part de ma déception de ne pas pouvoir voter par internet pour l’élection des conseillers consulaires.
+J’habite trop loin de San Francisco et j’avais l’intention de voter par internet.» Ça, c’est la distance, nous en avons parlé les uns et les autres.
+«J’ai passé plusieurs heures à essayer de voter.
 Finalement, on me dit que c’est impossible avec Windows Vista.
 Ce serait bien de le préciser à l’avance ! Bon, je trouve un autre ordinateur avec Windows 7.
 J’installe la dernière version de Java, j’enlève les autres versions et on me dit encore que ce n’est pas compatible.
-Donc, je ne pourrai pas voter.
-» Autre mail d’un Français : « Monsieur Lefebvre, comme vous pouvez le constater, je trouve cela un vrai scandale que le ministère des affaires étrangères et du développement international demande aux Français vivant à l’étranger de voter par Internet les 5, 7, 12 et 15 mai en se servant d’une ancienne version 51 de Java, qui a été remplacée par une nouvelle version le 15 avril.
-Si le ministère tient vraiment à faire voter les électeurs, c’est aux techniciens employés par le ministère à se tenir bien au courant… Qui a l’intention de remplacer une nouvelle version de Java par une ancienne, pour ensuite la remplacer de nouveau par la nouvelle version – tout simplement pour pouvoir voter une seule fois à l’élection des conseillers consulaires ? » Je terminerai par ces deux courriels que j’ai reçus après le vote aux dernières élections consulaires.
-« Nous avons essayé, mon épouse et moi-même, de voter par Internet pour les dernières élections des représentants consulaires, sauf que le site ne le permettait jamais ! Notre fille à Halifax a connu la même impossibilité.
-La configuration de l’ordinateur effectuée avec succès, la fenêtre de vote restait inaccessible.
-» « Cher Monsieur Lefebvre, je me permets d’ajouter que j’avais essayé de contacter l’aide technique directe, en dehors de la page en ligne ’’Foire aux questions’’, rempli le formulaire avec une bonne marge de temps, sans recevoir aucune réponse.
-» Je pourrais vous lire encore de nombreux messages.
+Donc, je ne pourrai pas voter.» Autre mail d’un Français : «Monsieur Lefebvre, comme vous pouvez le constater, je trouve cela un vrai scandale que le ministère des affaires étrangères et du développement international demande aux Français vivant à l’étranger de voter par Internet les 5, 7, 12 et 15 mai en se servant d’une ancienne version 51 de Java, qui a été remplacée par une nouvelle version le 15 avril.
+Si le ministère tient vraiment à faire voter les électeurs, c’est aux techniciens employés par le ministère à se tenir bien au courant… Qui a l’intention de remplacer une nouvelle version de Java par une ancienne, pour ensuite la remplacer de nouveau par la nouvelle version – tout simplement pour pouvoir voter une seule fois à l’élection des conseillers consulaires ?» Je terminerai par ces deux courriels que j’ai reçus après le vote aux dernières élections consulaires.
+«Nous avons essayé, mon épouse et moi-même, de voter par Internet pour les dernières élections des représentants consulaires, sauf que le site ne le permettait jamais ! Notre fille à Halifax a connu la même impossibilité.
+La configuration de l’ordinateur effectuée avec succès, la fenêtre de vote restait inaccessible.» «Cher Monsieur Lefebvre, je me permets d’ajouter que j’avais essayé de contacter l’aide technique directe, en dehors de la page en ligne ’’Foire aux questions’’, rempli le formulaire avec une bonne marge de temps, sans recevoir aucune réponse.» Je pourrais vous lire encore de nombreux messages.
 Vos services ont-ils pris la mesure de ces dysfonctionnements, monsieur le secrétaire d’État ? Quand vous invoquez des questions techniques, excusez-moi, mais après trois exercices de vote, elles doivent pouvoir être réglées et ne peuvent pas servir d’arguments pour ne pas étendre le dispositif.
 Il doit être amélioré.
 Quant à la constitutionnalité, s’il y a une atteinte au principe d’égalité par rapport aux Français de France, qu’est-ce qui empêche d’envisager, dans certains cas particuliers, quand il y a par exemple un trop grand éloignement du bureau de vote, un dispositif similaire en France ? Quand on ne veut pas, on ne peut pas.
@@ -202,7 +196,7 @@ Permettez-moi de vous rappeler, pour mémoire, ces modalités.
 Pour la présidentielle, les européennes et le référendum : vote à l’urne et procuration.
 Pour les législatives : vote à l’urne, procuration, vote électronique et vote par correspondance sous pli fermé.
 Enfin, pour les conseillers consulaires – à ce sujet, vous avez fait, monsieur le secrétaire d’État, une petite erreur – : vote à l’urne, procuration et vote électronique.
-Franchement, chers collègues, ne pensez-vous pas qu’il faudrait rendre tout ceci cohérent, suivant ainsi une recommandation de la Cour des comptes qui avait souligné en 2013 que « ces différentes modalités de votes, peu lisibles, sont source d’incompréhension pour les Français de l’étranger » et qu’une « simplification visant à uniformiser les modalités de vote constituerait à cet égard un progrès raisonnable » ? Il est tout aussi paradoxal que l’actuelle majorité, en tout cas le groupe socialiste, qui a conduit la réforme de la représentation des Français de l’étranger avec la mise en place des conseils consulaires et la réforme de l’Assemblée des Français de l’étranger, qui est le corps électoral des douze sénateurs des Français de l’étranger, n’ait pas soulevé les objections au vote électronique qu’elle semble découvrir aujourd’hui.
+Franchement, chers collègues, ne pensez-vous pas qu’il faudrait rendre tout ceci cohérent, suivant ainsi une recommandation de la Cour des comptes qui avait souligné en 2013 que «ces différentes modalités de votes, peu lisibles, sont source d’incompréhension pour les Français de l’étranger» et qu’une «simplification visant à uniformiser les modalités de vote constituerait à cet égard un progrès raisonnable» ? Il est tout aussi paradoxal que l’actuelle majorité, en tout cas le groupe socialiste, qui a conduit la réforme de la représentation des Français de l’étranger avec la mise en place des conseils consulaires et la réforme de l’Assemblée des Français de l’étranger, qui est le corps électoral des douze sénateurs des Français de l’étranger, n’ait pas soulevé les objections au vote électronique qu’elle semble découvrir aujourd’hui.
 Nous avons en effet, avec le texte présenté à l’époque par Madame Conway-Mouret, supprimé le vote par correspondance qui existait pour l’élection des élus à l’Assemblée des Français de l’étranger et mis en place le vote électronique pour les conseillers consulaires et les délégués, sans que les objections que nous entendrons tout à l’heure chez Monsieur Popelin aient été soulevées.
 Il n’y a pas de débat manichéen pour ou contre le vote électronique, je voudrais le dire clairement.
 Absolument ! Les oppositions au vote électronique sont sérieuses et légitimes.
@@ -225,11 +219,11 @@ Certains logiciels ont été développés par des sous-traitants privés en-deho
 La mise en place et l’administration du système de vote électronique sont en effet réalisées par une entreprise privée basée à Barcelone, qui n’a pas de bureau en France.
 Les serveurs web qui ont accueilli les électeurs sont eux-mêmes en Espagne.
 C’est donc la première fois qu’une élection est ainsi partiellement sous-traitée et même délocalisée.
-C’est un peu ennuyeux, d’autant qu’en 2010, la CNIL estimait « hautement souhaitable que les serveurs et les autres moyens informatiques centraux du système de vote électronique soient localisés sur le territoire national afin de permettre un contrôle effectif des opérations par les membres du bureau de vote ».
+C’est un peu ennuyeux, d’autant qu’en 2010, la CNIL estimait «hautement souhaitable que les serveurs et les autres moyens informatiques centraux du système de vote électronique soient localisés sur le territoire national afin de permettre un contrôle effectif des opérations par les membres du bureau de vote».
 Et ce n’est pas tout, puisque le contrôle du résultat est aussi problématique.
 Sans tomber dans la théorie du complot, il faut rappeler que, dans un scrutin classique, des assesseurs, des représentants des partis politiques et même de simples citoyens vérifient que le vote se déroule selon les règles de la démocratie et qu’il n’y a aucune fraude.
 Or, le bon déroulement du vote électronique des citoyens français résidant à l’étranger n’offre pas les mêmes garanties de contrôle, contrairement à ce que j’ai pu entendre.
-En effet, un arrêté publié le 8 mai 2012 au Journal officiel prévoit que l’expertise indépendante, « destinée à vérifier le respect du secret du vote, de la sincérité du scrutin et de l’accessibilité du suffrage », sera conduite par « un informaticien spécialisé dans la sécurité » et « n’ayant pas d’intérêt financier dans la société qui a créé le dispositif de vote ».
+En effet, un arrêté publié le 8 mai 2012 au Journal officiel prévoit que l’expertise indépendante, «destinée à vérifier le respect du secret du vote, de la sincérité du scrutin et de l’accessibilité du suffrage», sera conduite par «un informaticien spécialisé dans la sécurité» et «n’ayant pas d’intérêt financier dans la société qui a créé le dispositif de vote».
 Une seule et unique personne pour contrôler la régularité de l’ensemble du scrutin ! Nombre de réclamations avaient été enregistrées par le ministère et les postes qui avaient en charge du déroulement des opérations de vote en 2012, et le système est resté le même pour les élections consulaires, sans que le ministère ni l’administration des affaires étrangères ne s’en émeuvent.
 L’organisation d’un scrutin en ligne pour les élections législatives présente donc d’évidentes faiblesses, nous l’avons dit, faiblesses auxquelles il convient d’ajouter la fracture numérique.
 Le niveau et la qualité de connexion est très inégal et varie en fonction des territoires.
@@ -257,7 +251,7 @@ En tant que président de l’association Culture Papier, j’ai également salu
 Merci, monsieur le président, pour les mots que vous avez prononcés devant la représentation nationale.
 Dans le cadre de sa niche parlementaire, l’Union pour un mouvement populaire nous présente aujourd’hui une proposition de loi visant à instaurer le vote par voie électronique des Français de l’étranger à l’élection présidentielle et à l’élection des représentants au Parlement européen.
 La possibilité de participer au suffrage est garantie par notre législation.
-En ce sens, le quatrième alinéa de l’article 3 de la Constitution prévoit que « sont électeurs, dans les conditions déterminées par la loi, tous les nationaux français majeurs des deux sexes, jouissant de leurs droits civils et politiques ».
+En ce sens, le quatrième alinéa de l’article 3 de la Constitution prévoit que «sont électeurs, dans les conditions déterminées par la loi, tous les nationaux français majeurs des deux sexes, jouissant de leurs droits civils et politiques».
 Ainsi, l’article 1ier de la présente proposition de loi prévoit de reconnaître aux Français résidant à l’étranger la possibilité de participer à l’élection présidentielle et à l’élection des représentants au Parlement européen par voie électronique, ce mécanisme s’entendant d’un vote par internet à partir de tout terminal informatique via une connexion sécurisée à internet et non à partir d’un matériel informatique spécifiquement dédié au vote.
 En effet, le mécanisme de vote électronique permet de pallier les différences existantes entre les circonscriptions des Français établis à l’étranger, celles-ci étant très disparates tant en raison du nombre d’électeurs qu’en raison de l’étendue territoriale des circonscriptions concernées, comme chacun l’a déjà rappelé.
 Aussi, à partir du 1ier mars 2012, le vote par voie électronique a été mis en place pour les élections législatives.
@@ -294,7 +288,7 @@ Le civisme, la citoyenneté, ne sont pas que de simples mots : ils devraient êt
 Comment la France, pays des droits de l’homme et du citoyen, peut-elle se satisfaire de ce rejet de la démocratie qui est en route ? Pour toutes ces raisons, vous l’aurez compris, le groupe RRDP votera cette proposition… Très bien.
 …au-delà des questions constitutionnelles qui ont été posées et que vous avez exprimées, monsieur le secrétaire d’État, car nous pensons que des solutions peuvent être trouvées.
 Nous gardons toutefois à l’esprit que ce n’est là que le début d’un long parcours visant à revaloriser la citoyenneté.
-Je vous invite à méditer cette morale de Jean de La Fontaine selon qui : « L’adversaire d’une vraie liberté est un désir excessif de sécurité ».
+Je vous invite à méditer cette morale de Jean de La Fontaine selon qui : «L’adversaire d’une vraie liberté est un désir excessif de sécurité».
 Je vous remercie.
 (Applaudissements sur les bancs des groupes UDI et écologiste et sur plusieurs bancs du groupe UMP.) La parole est à Monsieur Pascal Popelin.
 Monsieur le président, monsieur le secrétaire d’État, monsieur le rapporteur, mes chers collègues, la modernisation de nos pratiques démocratiques doit être au cœur des préoccupations et des aspirations de toutes les forces républicaines.
@@ -304,7 +298,7 @@ Comme la très grande majorité des membres de cette Assemblée, je suis donc pa
 Cette législature a déjà été porteuse d’avancées dans ce domaine.
 Pour rester sur des éléments consensuels, je n’évoquerai ici que la prise en compte du vote blanc dans la présentation des résultats des élections, rendue possible par l’adoption d’une proposition de loi émanant du groupe UDI, soutenue par le Gouvernement et la majorité.
 En dépit de quelques éléments de polémique – aujourd’hui dépassés – sur le calendrier de sa mise en œuvre, ce mode de comptabilisation est désormais effectif et définitif depuis le dernier scrutin européen.
-Aujourd’hui, la proposition de loi « ramassée » qui nous occupe semble vouloir s’inscrire dans cette perspective de facilitation de l’exercice du suffrage.
+Aujourd’hui, la proposition de loi «ramassée» qui nous occupe semble vouloir s’inscrire dans cette perspective de facilitation de l’exercice du suffrage.
 Je suis en effet convaincu que son auteur et ses soutiens sont animés par la seule ambition de vouloir, sincèrement, améliorer et faciliter l’organisation des conditions de vote de nos concitoyens qui résident à l’étranger.
 Ces compatriotes, cela a été dit, se trouvent en effet dans une situation particulière : ils ne disposent pas toujours d’un bureau de vote à quelques rues de leur domicile ou au centre de leur village.
 Nous le savons tous, pour certains expatriés, voter à l’urne, comme on dit, peut impliquer de devoir faire plusieurs centaines de kilomètres le jour du scrutin.
@@ -400,7 +394,7 @@ Outre les soucis de sécurisation de ces votes en ligne se pose tout d’abord l
 Faut-il généraliser le vote électronique à l’ensemble des Français ? C’est bien cela, la question de fond que les membres de la commission des lois se sont posée.
 La réponse n’est pas évidente pour tous.
 Nombreux sont ceux qui restent attachés à un vote physique aux urnes, dit traditionnel, qui matérialise et encourage au devoir citoyen.
-Il contribue, comme le disait très justement l’un de mes collègues en commission des lois, à « vivifier » notre démocratie.
+Il contribue, comme le disait très justement l’un de mes collègues en commission des lois, à «vivifier» notre démocratie.
 D’un point de vue plus pragmatique, le vote physique a d’abord le mérite de rassurer, puisqu’il permet de vérifier l’identité de l’électeur, de garantir qu’aucune pression ne s’exerce sur celui-ci et de réduire les risques de fraude.
 De tels risques, on l’a dit tout à l’heure, pourraient avoir des conséquences sans précédent pour certaines élections, notamment pour l’élection présidentielle.
 Pour ma part, même si je considère que le principe du vote aux urnes, dit traditionnel doit être préservé, je pense que l’on ne doit pas écarter le vote électronique, d’abord parce qu’il est un moyen novateur de lutter contre l’abstention.
@@ -467,7 +461,7 @@ Absolument ! S’il n’y avait pas eu de vote électronique, peut-être la part
 Je ne reviendrai pas sur les chiffres de participation, ils ont déjà longuement été cités.
 En ce qui concerne le problème constitutionnel, nous ne pouvons nous substituer au Conseil constitutionnel.
 Il se prononcerait s’il était saisi, et la situation des Français établis à l’étranger étant différente, peut-être ferait-il application de sa jurisprudence sur le principe d’égalité, qui permet de traiter différemment des personnes placées dans des situations différentes.
-Sur ce sujet, le Conseil d’État a considéré en 2010 : « eu égard à l’extrême difficulté, voire à l’impossibilité pratique, auxquelles peuvent se heurter les Français établis hors de France non seulement pour se rendre dans les bureaux de vote, mais encore pour donner procuration à un compatriote de confiance, et compte tenu par ailleurs des carences pouvant affecter le courrier dans certains pays, (…) le vote par voie électronique pouvait apparaître, dans nombre de cas, comme le seul moyen pour les Français résidant hors de France d’exercer effectivement un droit qu’ils tiennent désormais de la Constitution ».
+Sur ce sujet, le Conseil d’État a considéré en 2010 : «eu égard à l’extrême difficulté, voire à l’impossibilité pratique, auxquelles peuvent se heurter les Français établis hors de France non seulement pour se rendre dans les bureaux de vote, mais encore pour donner procuration à un compatriote de confiance, et compte tenu par ailleurs des carences pouvant affecter le courrier dans certains pays, (…) le vote par voie électronique pouvait apparaître, dans nombre de cas, comme le seul moyen pour les Français résidant hors de France d’exercer effectivement un droit qu’ils tiennent désormais de la Constitution».
 Ce raisonnement, qui a prévalu pour l’élection des députés et que votre majorité a étendu aux conseillers consulaires, mériterait aujourd’hui d’être transposé à l’élection du Président de la République et aux représentants de la France au Parlement européen.
 Une telle mesure n’imposerait en rien que la même possibilité soit offerte à l’ensemble des électeurs résidant en France.
 Néanmoins, comme vient de le rappeler notre collègue de Polynésie française et comme le disait Daniel Gibbes en commission des lois, il existe des situations dans les DOM-TOM qui pourraient amener à développer ce vote électronique.
