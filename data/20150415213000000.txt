@@ -1,464 +1,607 @@
-La séance est ouverte.(La séance est ouverte à vingt et une heures trente.)Suite de la discussion d’un projet de loi L’ordre du jour appelle la suite de la discussion, après engagement de la procédure accélérée, du projet de loi relatif au renseignement (n 2669, 2697, 2691).(suite)(suite) Je souhaiterais replacer cet article dans l’économie globale du texte.
-J’avais dit, lors de la discussion générale, que ce projet de loi comportait essentiellement deux grands volets.
-Le premier vise à définir le périmètre de la communauté du renseignement, les finalités et les instances de contrôle.
-Nous en avons débattu.
-Des adaptations, des ouvertures ont été réalisées, le Gouvernement a pris en compte certains amendements des parlementaires.
-Chacun aura la possibilité d’évaluer si ces pas sont suffisants.via Je voudrais rappeler la demande d’explications qu’avai t faite Christian Paul au Gouvernement à la fin de la séance de l’après-midi.
-D’autres d’entre nous avaient aussi posé de nombreuses questions qui n’ont pas eu de réponses.
-Je rappelle que nous en avons fini avec la discussion sur l’article…(L’amendement n42 rectifié n’est pas adopté.) 20.
-Cet amendement, de même que les n 20 à 22.
-Même avis.(L’amendement n20 n’est pas adopté.) 59.
-Je vous rassure, je n’ai pas l’intention de rouvrir le débat que nous avons eu lors de l’examen du projet de loi de programmation militaire.
-Ceci dit, vous apportez vous-même des modifications aux articles relatifs aux accès administratifs aux données de connexion.
-C’est donc l’occasion de revenir sur deux problèmes qui sont toujours, à mes yeux, irrésolus.(L’amendement n59, repoussé par la commission et le Gouvernement, n’est pas adopté.) Favorable.(L’amendement n283 rectifié est adopté.) Monsieur Tardy, si je ne me trompe, vous avez déjà défendu l’amendement n 21.
-Oui, monsieur le président.(L’amendement n21, repoussé par la commission et le Gouvernement, n’est pas adopté.) Je suis saisi de deux amendements identiques, n 184.deep packet inspection , ou DPI, qui consistent à analyser le contenu de chaque paquet IP transitant par un équipement sur lequel un dispositif d’analyse est opérant.
-Par voie de conséquence, lorsque ce dispositif est installé au niveau d’un équipement majeur tel qu’un cœur de réseau, il permet d’opérer une surveillance généralisée de l’ensemble du trafic des abonnés.
-Je rappellerai pour conclure que, voilà quelques mois, dans le cadre de l’examen du projet de loi renforçant les dispositions relatives à la lutte contre le terrorisme, vous aviez jugé, monsieur le ministre, qu’une telle solution était particulièrement intrusive,… Ces amendements proposent de supprimer les deux dispositifs innovants de cet article.
-Parce qu’ils seront suivis de plusieurs autres sur le sujet, je propose au ministre que nous prenions le temps de nous y arrêter, de donner l’essentiel de nos arguments afin que nos collègues soient parfaitement éclairés et puissent ainsi progresser dans leur réflexion.Digital Rights Ireland La commission a donc émis un avis défavorable sur ces deux amendements.
-Ainsi que vient de l’indiquer le rapporteur, nous entrons dans le débat sur l’essentiel des techniques utilisées.
-Je vais développer mon sentiment sur la question assez longuement, afin d’éclairer la suite de nos discussions.
-Le premier mécanisme d’accès aux données de connexion, tout en suivant une logique de ciblage individuel, agit sur l’ampleur des données collectées et le caractère instantané de l’accès.
-Ces traitements permettent dans un second temps, et après une seconde autorisation, d’identifier des personnes à surveiller.
-Il n’est donc question ni de surveillance de masse ni de captation et de stockage de la totalité des données transitant sur le réseau.
-Il s’agit bien plutôt d’un ciblage, portant non pas sur des individus mais sur des modes de communication que les services auront pu identifier comme étant caractéristiques de l’activité de personnes impliquées dans l’action terroriste.
-Ce n’est d’ailleurs que dans un second temps que, le cas échéant, et toujours sous contrôle de la CNCTR, les services pourront accéder à l’identité des personnes ainsi détectées.
-Je pourrais vous citer des cas que j’ai moi-même suivis en tant que ministre de la défense, et qui démontrent l’importance de ce dispositif.
-Les garanties apportées par le texte sont les suivantes.
-Premièrement, seule la finalité de prévention de terrorisme justifie l’usage de ces dispositifs, et c’est la CNCTR qui le valide.
-Deuxièmement, les opérations ne portent que sur des données de connexion.
-Troisièmement, elles sont réalisées sous le pilotage et le contrôle du GIC.
-Quatrièmement, la méthode utilisée pour la détection ainsi que le périmètre de la recherche sur les réseaux seront définis et soumis au préalable à la Commission.
-Toute opération de recueil et toute modification de l’algorithme devront faire l’objet d’une autorisation au cas par cas.
-Cinquièmement, la Commission pourra contrôler en permanence le dispositif, ses évolutions, les traitements réalisés et les résultats obtenus.
-Sixièmement, seules les données nécessaires à la détection des alertes seront collectées.
-Septièmement, les services ne pourront accéder aux données autres que le résultat du traitement.
-Ils n’auront donc directement accès ni aux banques de données des opérateurs ni à leurs flux globaux.
-Huitièmement, ils ne pourront avoir accès à l’identité des personnes éventuellement concernées que sur une seconde autorisation expresse du Premier ministre prise après l’avis de la CNCTR.
-Les amendements adoptés en commission sur l’initiative du président rapporteur ont permis de préciser, d’expliciter l’ensemble de ces garanties et le Gouvernement l’en remercie.
-Le Gouvernement a en outre été sensible aux préoccupations exprimées par les hébergeurs, auxquels il a été fait référence tout à l’heure.
-Ils ont fait part de leurs observations sur le texte dans une lettre adressée récemment au Premier ministre.
-Ce matin, le ministre de l’intérieur, le ministre de l’économie et la secrétaire d’État au numérique ont rencontré leurs représentants.
-Tels sont les éléments de garantie et de clarté que nous souhaitons apporter au sujet de cette technologie.
+La séance est ouverte.
+L’ordre du jour appelle la suite de la discussion, après engagement de la procédure accélérée, du projet de loi relatif au renseignement (nos 2669, 2697, 2691).
+Cet après-midi, l’Assemblée a commencé d’entendre les orateurs inscrits à l’article 2.
+La parole est à M. Sergio Coronado, dernier orateur inscrit sur l’article.
+Je voudrais que tout soit bien clair, car beaucoup d’idées reçues viennent polluer nos débats.
+La première, on l’a vu hier au moment du rejet de l’amendement du Gouvernement, est que la radicalisation a lieu en prison.
+On ne dispose pas vraiment de données à ce sujet, et la garde des sceaux a donné des éléments hier montrant que ce n’était pas tout à fait vrai.
+Une autre idée reçue qui me paraît également extrêmement dangereuse consiste à dire que le recueil des métadonnées ne fait courir aucun risque car elles sont totalement anonymes.
+Certains collègues doutent peut-être du bien-fondé de mes critiques, mais ils doivent savoir que si j’avais accès ce soir à leurs données de connexion, j’en saurais sans doute davantage sur leur vie privée qu’après cinq ans à les côtoyer sur ces bancs.
+J’en saurais davantage sur leurs comportements, sur leurs habitudes alimentaires, sur leur orientation sexuelle, sur les gens qu’ils fréquentent, sans parler, comme l’a fait hier Isabelle Attard, de leurs passe-temps favoris la nuit venue ! La parole est à M. Sergio Coronado, pour soutenir l’amendement no 42 rectifié.
+Nous souhaitons, par cet amendement, revoir la définition des données de connexion donnée au nouvel article L. 851-1 du code de la sécurité intérieure, qui est issu de l’article 20 de la loi de programmation militaire.
+Nous ne souhaitons pas supprimer cet article 20, qui avait donné lieu à un grand débat extrêmement polémique à l’époque, notamment parce qu’il est très imprécis.
+Mais nous proposons d’harmoniser la rédaction de l’article L. 851-1 avec celle prévue au nouvel article L. 351-7, qui porte sur les dispositifs techniques de proximité.
+Nous l’avions déjà proposé lors des débats sur le projet de loi relatif à la géolocalisation.
+Le rapporteur nous avait demandé de retirer notre amendement  en attendant le projet de loi sur le renseignement.
+Nous y voilà.
+La parole est à M. Jean-Jacques Urvoas, président et rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, pour donner l’avis de la commission.
+La commission a repoussé cet amendement, et pas seulement parce qu’il revient sur le débat sur l’article 20 de la loi de programmation militaire ! Il entend en effet encadrer le recueil des données de connexion via un dispositif technique dit « de proximité ».
+Or, en commission, ce dispositif a perdu sa qualification de « proximité » et, surtout, a fait l’objet d’un encadrement strict aux alinéas 23 et 24 du présent article, prenant ainsi en compte la préoccupation exprimée ici.
+La parole est à M. le ministre de la défense, pour donner l’avis du Gouvernement.
+Le Gouvernement est défavorable à cet amendement, qui a pour objet de limiter le champ des données de connexion accessibles aux services.
+Comme je l’ai dit, le périmètre des données de connexion accessibles est connu et précisément déterminé par des textes réglementaires depuis la loi du 23 janvier 2006.
+Il inclut les données permettant d’identifier l’utilisateur du terminal et celles relatives aux équipements, mais également aux dates, horaires et durées des communications, ou encore celles qui permettent d’identifier les destinataires de ces communications.
+Or, ces éléments sont évidemment extrêmement déterminants pour l’information des services.
+Il n’est donc pas question de revenir sur leur accessibilité.
+La parole est à Mme Laure de La Raudière.
+Il paraît essentiel aujourd’hui, avant d’aller plus loin dans la discussion sur l’ensemble des amendements déposés à l’article 2, que vous nous éclairiez sur la façon dont vous allez procéder techniquement pour mettre en place vos sondes.
+Nous aurons ensuite d’autres questions sur les algorithmes.
+Je voulais rappeler cette demande, très sage, de Christian Paul.
+Je rappelle que nous en avons fini avec la discussion sur l’article… La parole est à M. Lionel Tardy, pour soutenir l’amendement no 20.
+Dans la liste que je vous ai citée tout à l’heure, il n’y avait que des données – je dis bien des données – pouvant être recueillies auprès des opérateurs.
+Alors qu’un an et demi s’est écoulé, je ne comprends pas pourquoi il est toujours question de recueil d’informations et de documents.
+Quels sont ces documents auxquels vous vous obstinez à faire référence ? À quel moment la loi autorise-t-elle le recueil de documents auprès des opérateurs ? Je ne vois pas de réponse.
+Je pense donc qu’il faut tout simplement supprimer cette référence, car il y a une suspicion que je souhaite lever, comme vous j’imagine, messieurs les ministres.
+La CNIL a formulé la même interrogation et estime que le périmètre est mal défini.
+Elle recommande de préciser la formulation, afin que seules les données de connexion – les données ! – puissent être recueillies.
+Tel est le sens de mes amendements nos 20 à 22.
+Quel est l’avis de la commission ? La commission a repoussé cet amendement car nous avions déjà tenu ce débat sur l’article 20 du projet de loi de programmation militaire.
+M.
+Tardy avait d’ailleurs déjà exprimé un certain nombre d’incertitudes ou d’inquiétudes.
+Mais depuis, le décret du 24 décembre 2014 relatif à l’accès administratif aux données de connexion, codifié aux articles R. 246-1 et suivants du code de la sécurité intérieure, a apaisé toutes les craintes qui avaient été formulées.
+Nous considérons donc que l’amendement n’a pas lieu d’être.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 59.
+En effet, la liste des données pouvant être recueillies n’est pas exhaustive.
+Il est question de « recueil d’éléments », mais avec un « y compris » qui ne ferme pas la porte au recueil d’autres choses non mentionnées dans la loi.
+Je cite cette liste : données techniques relatives à l’identification des numéros d’abonnement ou de connexion à des services de communication électroniques, données relatives au recensement de l’ensemble des numéros d’abonnement ou de connexion d’une personne désignée, données relatives à la localisation des équipements terminaux utilisés, données relatives aux communications d’un abonné portant sur la liste des numéros appelés et appelants, la durée et la date des communications.
+Je propose de clore cette liste.
+L’accès administratif concerne les données que j’ai citées, mais rien ne nous garantit qu’il n’en concernera pas d’autres, sans que l’on sache lesquelles.
+C’est assez contradictoire, messieurs les ministres, avec votre volonté de définir un cadre légal.
+La parole est à M. Jean-Jacques Urvoas, rapporteur, pour soutenir l’amendement no 283 rectifié.
+Je reprends en effet cet amendement en l’absence de ses signataires, car nous le trouvons pertinent.
+C’est une mesure de cohérence avec un amendement rédactionnel adopté tout à l’heure, qui vise à supprimer le terme « dûment ».
+Quel est l’avis du Gouvernement ? Favorable.
+Monsieur Tardy, si je ne me trompe, vous avez déjà défendu l’amendement no 21.
+Oui, monsieur le président.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 184.
+Je rappellerai pour conclure que, voilà quelques mois, dans le cadre de l’examen du projet de loi renforçant les dispositions relatives à la lutte contre le terrorisme, vous aviez jugé, monsieur le ministre, qu’une telle solution était particulièrement intrusive,… Ne pouvez-vous pas faire autrement, monsieur le ministre ? …qu’elle présentait des risques importants en matière de sécurité des réseaux compte tenu de l’absence de visibilité des opérateurs et qu’elle était particulièrement onéreuse : près de 150 millions d’euros par an, sur la base des éléments que vous aviez vous-même fournis.
+Je vous renvoie au compte rendu de ces débats.
+La parole est à Mme Laure de La Raudière, pour soutenir l’amendement no 103 rectifié.
+Quel type d’algorithmes allez-vous utiliser ? Comment allez-vous procéder ? Quels résultats espérez-vous obtenir ? Quel est l’avis de la commission sur ces deux amendements identiques ? La commission a donc émis un avis défavorable sur ces deux amendements.
+Quel est l’avis du Gouvernement ? Le premier mécanisme d’accès aux données de connexion, tout en suivant une logique de ciblage individuel, agit sur l’ampleur des données collectées et le caractère instantané de l’accès.
+Non ! Ce n’est pas possible ! L’article L. 851-3 permet ainsi aux services d’accéder en continu à l’ensemble des données de connexion d’un certain nombre de personnes identifiées comme possiblement engagées dans des réseaux ou des projets terroristes.
+La surveillance est donc exercée en temps réel et porte sur l’exhaustivité des données de connexion.
+Il s’agit toutefois bien de données de connexion, et non pas de contenu.
+C’est pire ! L’article L. 851-4 permet ainsi au Premier ministre d’imposer aux opérateurs et aux prestataires de services d’installer sur leurs réseaux, et donc sur les flux de données de connexion qu’ils traitent, des traitements automatisés, également qualifiés d’algorithmes, qui repèrent non pas des personnes pré-identifiées mais des comportements de communication suspects en termes de risque terroriste.
+Cela ne marche pas ! Je vais vous donner un exemple significatif, qui a déjà été cité en commission : si Daech met en ligne une vidéo de décapitation sur des sites djihadistes connus, puis se connecte sur d’autres sites pour s’assurer de la bonne réception et de la bonne qualité des images et du message, cette dernière activité se traduit par des connexions à certaines heures, depuis certains lieux, sur certains sites.
+Un algorithme permet de trier anonymement les connexions et de repérer ainsi un trafic caractéristique.
+Si je me connecte pour voir une vidéo de Daech, alors je suis concerné ? Tels sont les éléments de garantie et de clarté que nous souhaitons apporter au sujet de cette technologie.
 Si nous souhaitons la mettre en œuvre, c’est qu’elle est indispensable pour nous protéger contre les menaces terroristes qui sont en train de s’organiser, dont je pourrais donner de nombreux exemples.
-Comme je l’ai démontré hier soir, les informations obtenues sont encore plus riches lorsqu’elles sont assorties de métadonnées et de données de connexion, puisque l’on peut alors savoir avec qui la personne est en relation tant de fois par jour ou par semaine, combien de temps dure la conversation, quels sont les conversations menées et les sites consultés ultérieurement.
-Ainsi, les données sont encore plus précieuses.
-C’est bien pourquoi elles sont au centre des préoccupations des géants mondiaux de l’informatique.
-Les comportements terroristes changent donc en permanence.(Exclamations sur les bancs du groupe SRC.)  Madame Attard, vous aurez épuisé votre temps de parole dans quelques secondes… J’espère en tout cas, mes chers collègues, que vous avez pu lire pendant la pause l’excellent article d’Andréa Fradin dans L’Obs,  qui explique à quel point les algorithmes seront inutiles.
-Plus nous avançons dans le débat et plus j’écoute les arguments des quelques députés qui défendent ces amendements de suppression, plus je suis convaincu de l’impérieuse nécessité de voter le dispositif proposé par les autorités exécutives.
-Oui, pour une finalité unique et précisément définie, celle de la lutte contre le terrorisme, nous devons donner à ces grands services publics que sont les services de renseignement des moyens technologiques nouveaux, en l’espèce un algorithme qui permettra d’identifier des comportements constituant de véritables menaces nationales.
-En outre, le dispositif n’entrera en vigueur, si nous le votons, que pour trois années, période au terme de laquelle la représentation nationale en réalisera l’évaluation.
+La parole est à Mme Isabelle Attard.
+Vous nous dites, monsieur le ministre de la défense, que les données de connexion sont moins importantes, ou en tout cas moins précises, que le contenu lui-même.
+C’est faux ! Et malheureusement pour vous, nous ne sommes pas les seuls à le dire.
+Quiconque s’y connaît un tout petit peu en informatique pourrait vous le confirmer.
+Évidemment ! Vous nous dites ensuite que ces fameux algorithmes pourront détecter des comportements suspects.
+C’est encore faux ! Les comportements sont différents à chaque attaque terroriste ! Bien sûr ! Les comportements terroristes changent donc en permanence.
+Justement ! Que faites-vous lorsque les terroristes cryptent leurs données, monsieur le ministre ? Ce ne sont pas des tours que l’on a attaquées au mois de janvier, mais une rédaction.
+Techniquement, donc, comment vous y prenez-vous ? J’attends votre réponse.
+Ne vous inquiétez pas, nous avons encore toute la soirée.
+(Exclamations sur les bancs du groupe SRC.) Mes chers collègues, je crois que le sujet est suffisamment important pour que l’on en discute ! Madame Attard, vous aurez épuisé votre temps de parole dans quelques secondes… J’espère en tout cas, mes chers collègues, que vous avez pu lire pendant la pause l’excellent article d’Andréa Fradin dans L’Obs, qui explique à quel point les algorithmes seront inutiles.
+La parole est à M. Guillaume Larrivé.
 Ce dispositif, je le voterai, et j’avoue ne pas comprendre les raisons pour lesquelles certains s’obstinent encore à le combattre.
-Sur tous ces points, je ne suis pas éclairée.
-Or notre rôle de députés est d’éclairer le peuple français sur ces questions majeures.
-Après votre exposé, monsieur le ministre de la défense, je n’arrive toujours pas à comprendre comment les choses se passeront concrètement.
-Je suis vraiment désolée d’entrer dans les aspects techniques, mais c’est le seul moyen de savoir s’il s’agira ou non d’une captation généralisée de données.
-Lorsque l’on parle d’outils numériques, on ne peut s’affranchir de ce passage par la technique.
+La parole est à Mme Laure de La Raudière.
+Rassurez-vous, monsieur Larrivé : je ne le combats pas, je souhaite simplement obtenir des réponses à mes questions.
+Ce système est-il efficace ou ne l’est-il pas ? Quelles sont les évaluations réalisées à ce sujet, sachant que l’on ne trouve rien dans l’étude d’impact ? Conduit-il ou non à une surveillance massive ? J’ajouterai : quel est son coût ? Monsieur le ministre, y aura-t-il utilisation de DPI dans le cœur de réseau ? Si tel n’est pas le cas, c’est que vous procéderez autrement : en utilisant quelles techniques ? S’agira-t-il de captation de données aux extrémités, par exemple uniquement chez les hébergeurs ? Merci de nous renseigner ! Nous voulons vraiment avancer dans le débat.
+Il nous faut comprendre ce que vous allez faire, précisément pour nous déterminer sur le vote de cet article.
+La parole est à M. Lionel Tardy.
 Il faut donc parler technique, je suis désolé.
 Vous pourrez faire tout ce que vous voulez sur le plan politique, le sujet restera technique.
-Nous l’avons vu hier, vous justifiez votre programme de surveillance de masse par une analogie avec l’analyse de données commerciales, en faisant mine, au passage, d’oublier que les autorités étatiques sont dotées de pouvoirs autrement plus intrusifs que celui de nous envoyer les publicités ciblées qui peuplent nos boîtes de spam.
-Même en supposant que le terrorisme présente des signatures repérables par analyse de données, ce qui est pour le moins hasardeux, pareil système va engendrer pléthore de suspects, dont une écrasante majorité de fausses pistes, et ceci par millions.
-Bref, je vous souhaite bonne chance pour analyser toutes ces données et pour prouver la validité de votre information.
+Vous n’êtes pas le seul à le maîtriser, monsieur Tardy, ne vous inquiétez pas ! Bref, je vous souhaite bonne chance pour analyser toutes ces données et pour prouver la validité de votre information.
+La parole est à M. Pascal Popelin.
 Il n’y a donc pas de surveillance de masse, d’abord parce que c’est humainement impossible, ensuite parce que c’est inefficace au regard de ce qui motive le recours à ce type d’outil, enfin et surtout parce que c’est contraire à ce texte.
 C’est d’ailleurs ce qui lui donne toute sa force du point de vue des libertés individuelles.
+La parole est à M. Éric Ciotti.
 Nous sommes face à un débat technique, nous disent des experts.
 Bien sûr.
-Je ne suis pas un expert, je le concède bien volontiers à ceux qui le sont.
-Néanmoins, je pense que nous devons nous pourvoir d’outils techniques de protection contre le terrorisme et je fais confiance aux spécialistes de nos services, dont l’expertise est reconnue, pour les mettre en place.
-Il est en effet nécessaire et souhaitable que cet échange ait lieu, d’autant que nous n’avons pu débattre en fin de séance tout à l’heure et obtenir des réponses avant de passer à l’examen des amendements.
+Mais non, ce n’est pas que cela ! Certains invoquent divers risques ou menaces auxquels le dispositif nous exposerait.
+Je ne partage pas leur point de vue.
+Nous sommes ici au cœur de la lutte contre le terrorisme.
+Que l’on cesse de dire que cela sera techniquement inefficace : quand bien même on n’arriverait à détecter qu’un seul comportement à risque, à éviter un seul attentat, nous aurions fait œuvre utile ! Soutenons le dispositif et arrêtons donc de soulever des menaces en permanence ! Ce ne sont pas ces techniques qui menacent les libertés, ce sont ceux qui brandissent l’arme du terrorisme contre les libertés.
+Très bien ! Je vais maintenant donner la parole à M. Christian Paul, qui l’a demandée.
+Le ministre et le rapporteur ont tous deux souligné l’importance de ces deux amendements, ce qui explique que j’aie dérogé au règlement en laissant intervenir plusieurs orateurs.
+Mais après cette intervention et la réponse du ministre de l’intérieur, nous passerons au vote.
 Nous sommes devant une affaire de la plus haute importance.
-Il est rare que le New York Times Monsieur le député, il est temps de conclure.
+Il est rare que le New York Times consacre son éditorial à la France, et la dernière fois, c’était sur ce texte ! Ce seul fait, sans juger du contenu de l’article, appelle une discussion approfondie au sein de notre hémicycle.
+Comme d’autres l’ont dit avant moi, nous sommes strictement dans notre rôle de parlementaires.
+Nous ne cherchons pas à soulever les peurs et les comportements irrationnels, comme a pu le faire M. Larrivé, avec son esprit habituel de croisade, ou comme M. Ciotti s’y emploie de façon permanente.
+Chef de la fronde, vous voilà arbitre des élégances ! Pour faire avancer le débat, je souhaite vous faire part de deux interrogations.
+Monsieur le ministre de la défense, vous avez parlé de la captation – le choix des termes n’est pas aisé et peut-être conviendrait-il de parler plutôt de collecte, de traitement – en temps réel de l’exhaustivité des données de connexion.
+Monsieur le député, il est temps de conclure.
+Cela m’amène à une deuxième remarque : j’ai la conviction, depuis le début du débat en commission des lois, que le seul cadre que l’on ait voulu se donner est la finalité des opérations – la lutte contre le terrorisme – et, bien sûr, le passage par la commission de contrôle, sur lequel il nous faudra revenir.
 Veuillez conclure.
 Nous n’avons pas suffisamment encadré de façon normative la nature des documents concernés et les activités de traitement.
 Nous devons le faire davantage, sans quoi la brèche qui aura été pratiquée à l’occasion de ce texte sera considérable.
-Je veux remercier l’ensemble des intervenants, quelle que soit leur position.
-J’essaierai de leur apporter des éléments de réponse pour ce qui concerne le ministère dont j’ai la responsabilité, en complément de ce que vient de dire excellemment le ministre de la défense.(Applaudissements sur de nombreux bancs du groupe SRC et du groupe UMP.)L’Obs , ou dans le Petit Bessin illustré,  mais par nature, et par essence, je n’y crois pas.
-Enfin, monsieur Tardy, vous répétez sans cesse qu’il y aura une surveillance de masse, que nous allons entrer dans les données et dans les conversations, que ce sera Big Brother Nous avons expliqué le fonctionnement des deux techniques que vous mettez en cause et leur finalité.
-Si nous sommes amenés à vouloir disposer du contenu des conversations, nous sommes obligés de repasser devant la CNCTR.
-Si elle considère que nous ne sommes pas légitimes à le faire, elle peut saisir le juge administratif.
-Si le juge administratif considère qu’en l’ayant fait, nous avons commis une infraction pénale, il peut saisir le juge judiciaire.
-Il est mensonger de dire que ces techniques visent à prélever massivement des données.
-Il est mensonger de dire que cela se fait sans contrôle.
-Il est mensonger de dire que le juge n’intervient pas.
-Mais je constate que, face à des lobbies puissants, qui ont la possibilité de diffuser de nombreux messages sur internet, une vérité peut être, pendant un temps, plus faible qu’un agglomérat de mensonges.
-Face au terrorisme, au risque qu’il représente, la vérité implique que nous soyons rigoureux et que nous expliquions ce que nous faisons, et ce sous votre contrôle, celui de la CNCTR et celui du juge.(Applaudissements sur de nombreux bancs des groupes SRC et UMP.)(Les amendements identiques n184 et 103 rectifié ne sont pas adoptés.) 94.
-Il est défendu.(L’amendement n94, repoussé par la commission et le Gouvernement, n’est pas adopté.) 145.
-Or, comme le souligne parfaitement le Syndicat de la magistrature, le glissement de la sollicitation a posteriori  auprès des opérateurs vers la ponction directe sur les réseaux est d’autant plus préoccupant que les critères sont peu restrictifs.
+La parole est à M. le ministre de l’intérieur.
+Bref, les opérateurs ont accès à nos données personnelles, et nul ne sait dans cet hémicycle ce qu’ils en font.
+Mais cela n’indigne personne.
+Cela ne pose aucun problème lorsqu’il s’agit de grands trusts internationaux, dont je m’empresse de dire que certains ont délocalisé leurs bases fiscales, puissants et suffisamment organisés pour parvenir à convaincre des parlementaires d’intervenir sur un certain nombre de sujets – qu’ils alimentent d’ailleurs de leurs connaissances techniques, en leur expliquant qu’il y a ceux qui savent et ceux qui ne savent pas.
+Mais lorsqu’un État se propose de prévenir le terrorisme sur internet, il est nécessairement suspect de poursuivre des objectifs indignes ! Eh bien moi, je n’adhère pas à cela.
+(Applaudissements sur de nombreux bancs du groupe SRC et du groupe UMP.) Très bien ! Nous avons expliqué le fonctionnement des deux techniques que vous mettez en cause et leur finalité.
+Ce n’est pas vrai ! Compte tenu de la menace qui pèse sur le pays, de la gravité de ce qui peut advenir, je suis exaspéré de voir que, sur un sujet aussi grave, à propos duquel nous nous appliquons à apporter, dans la plus grande des sincérités, le maximum de précisions, il puisse y avoir autant d’amalgames, autant d’approximations et, parfois, autant d’arrogance ! (Applaudissements sur de nombreux bancs des groupes SRC et UMP.) La parole est à M. Lionel Tardy, pour soutenir l’amendement no 94.
+Il est défendu.
+La parole est à M. Jean-Jacques Candelier, pour soutenir l’amendement no 145.
+Or, comme le souligne parfaitement le Syndicat de la magistrature, le glissement de la sollicitation a posteriori auprès des opérateurs vers la ponction directe sur les réseaux est d’autant plus préoccupant que les critères sont peu restrictifs.
 Il n’est en effet requis aucun risque imminent d’action terroriste pour mettre en œuvre cette modalité dérogatoire de recueil.
 C’est la raison pour laquelle nous proposons cet amendement qui limite ce dispositif dérogatoire aux cas de menace terroriste imminente.
-La commission a repoussé cet amendement, qui rendrait le dispositif inopérant.
-Défavorable.(L’amendement n145, repoussé par le Gouvernement, n’est pas adopté.) Il tend à préciser que ce sont bien les données de connexion que vous voulez récupérer, monsieur le ministre.
-Je suis désolée si je donne l’impression de dire des mensonges, parce que ce n’est pas du tout mon objectif.
-En revanche, je serais rassurée si vous me précisiez la méthode par laquelle vous allez procéder.
-Allez-vous utiliser la technique du deep packet inspection Je n’ai vraiment pas envie de mentir, le sujet est beaucoup trop grave, et vous avez parfaitement raison d’essayer de mobiliser l’ensemble des moyens pour lutter contre le terrorisme.
+Quel est l’avis de la commission ? La commission a repoussé cet amendement, qui rendrait le dispositif inopérant.
+Quel est l’avis du Gouvernement ? Défavorable.
+La parole est à Mme Laure de La Raudière, pour soutenir l’amendement no 105 rectifié.
+Je n’ai vraiment pas envie de mentir, le sujet est beaucoup trop grave, et vous avez parfaitement raison d’essayer de mobiliser l’ensemble des moyens pour lutter contre le terrorisme.
 Mais reconnaissez aussi que nous avons le droit, connaissant certaines technologies intrusives, de vous poser des questions.
 Des questions qui pour l’instant, n’ont pas reçu de réponse.
-Madame de La Raudière, nous avons déjà échangé sur cette question, je ne sais pas si vous vous en souvenez.
+Quel est l’avis de la commission ? Pour m’en tenir strictement à l’amendement de Mme de La Raudière, il se présente presque de manière rédactionnelle mais tend en réalité à remettre en cause la lettre de l’article 20 de la loi de programmation militaire.
+Avis défavorable.
+Quel est l’avis du Gouvernement ? Madame de La Raudière, nous avons déjà échangé sur cette question, je ne sais pas si vous vous en souvenez.
+Oh oui ! Lorsque nous discutions de la loi du 13 novembre 2014 et que nous évoquions la question du blocage administratif des sites, vous m’aviez déjà demandé si nous utilisions la technique du DPI.
+J’avais alors déclaré devant l’Assemblée nationale qu’il était hors de question d’utiliser cette technique, et je le confirme.
 C’était pour du filtrage internet, ce n’est pas pareil.
-Sachez, et je l’ai répété plusieurs fois depuis lundi soir, que nous sommes tous concernés par la lutte contre le terrorisme.
-Nous cherchons à trouver des solutions qui marchent et à engager les moyens financiers et humains de notre pays dans des méthodes qui vont donner des résultats.
+Je vous confirme ce que j’ai dit de façon inlassable depuis des jours et des semaines – mais à peine la réponse est-elle donnée qu’elle est oubliée, et il faut y revenir ; ce n’est pas vous que je vise en l’occurrence, madame de La Raudière, mais plutôt le brouhaha ambiant et le vacarme médiatique.
+Nous n’utiliserons pas cette technique.
+C’est très clair.
+Je l’ai déjà dit au mois de novembre et je le répète aujourd’hui.
+Nous avons un processus très encadré qui consiste à prendre les données de connexion d’un groupe ciblé, d’où l’utilisation de la détection sur données anonymes.
+Si nous voulons entrer dans les communications, la procédure nous oblige à redemander l’autorisation à la CNCTR, et cette demande doit être fortement motivée.
+Nous n’utiliserons donc en aucun cas cette technique du DPI.
+La parole est à Mme Isabelle Attard.
 Aujourd’hui même, le patron de la NSA a reconnu sous serment que les écoutes généralisées n’avaient permis de ne déjouer qu’un seul attentat, et encore.
 Au début, il avait annoncé un chiffre de cent, mais sous serment, il a avoué que cela ne concernait qu’un seul attentat.
-Merci de conclure, madame Attard.
+C’est déjà bien ! Excusez-moi de revenir là-dessus, monsieur le ministre : vous m’avez interpellée sur les données personnelles collectées… Merci de conclure, madame Attard.
 Je vais faire vite, mais lorsque l’on est qualifiée de non-républicaine alors que l’on essaie de défendre les libertés individuelles tout en étant efficace, c’est extrêmement gênant.
 Je n’ai pas fait de rappel au règlement, mais j’aurais très bien pu.
-(Exclamations sur les bancs du groupe SRC.) Vous nous dites que cette collecte n’émeut personne, mais cela émeut beaucoup de monde.
-J’ai déposé des questions écrites, nous en avons parlé, j’ai posé des questions orales au Gouvernement sur Amazon.
-Et j’étais toute seule à le faire.
-Madame Attard… ? Si vous y aviez participé, vous sauriez ce qui a été voté.
-Il est exaspérant de vous entendre dire des choses qui, une fois de plus, ne correspondent pas à la réalité.
+(Exclamations sur les bancs du groupe SRC.) On n’a pas dit non-républicaine, mais arrogante ! Monsieur le ministre, si le syndicat Alliance Police nationale dénonce aujourd’hui ce projet de loi, c’est parce qu’il demande des moyens.
+Il mendie pour avoir quelques voitures, afin que les renseignements territoriaux puissent faire leur travail de détection des comportements à risque sur notre territoire ! Votez le budget avec nous en ce cas ! Madame Attard… La lutte contre le terrorisme, c’est peut-être 60 000 agents de plus et des moyens financiers ! Merci Mme Attard.
+Je vous ai laissé dépasser largement le temps qui vous était imparti.
+La parole est à M. le ministre.
 Alors quand vous vous avancez sur des sujets que visiblement vous ne connaissez pas, comme je viens d’en apporter la démonstration, faites-le au moins sans arrogance.
 Cela a l’air de vous amuser, mais ça ne fait pas rire les policiers, pas davantage que lorsqu’ils vous entendent théoriser à longueur de temps les violences policières.
 Croyez-moi, compte tenu des violences dont ils sont eux-mêmes victimes, ça les indigne.
 Alors permettez-moi de vous dire que ce discours et cette démagogie sont inacceptables sur des sujets aussi sérieux.
-(Applaudissements sur plusieurs bancs des groupes SRC et UMP.)(L’amendement n105 rectifié n’est pas adopté.) Monsieur Tardy, il me semble que vous avez déjà présenté l’amendement n 22.
-Oui, monsieur le président.(L’amendement n22, repoussé par la commission et le Gouvernement, n’est pas adopté.) 23.
-Il s’agit d’une vraie nouveauté et de vrais risques d’intrusion.
-La seule garantie, et je la salue, est que seule la lutte contre le terrorisme pourra justifier cela.
-Mais on verra que dans le texte, il y a encore six autres sujets qui sont très différents.
-Cependant, je pense qu’il faut rétablir le principe de subsidiarité et passer par les opérateurs, ne serait-ce que pour des raisons philosophiques, relatives au rôle de l’État, et des raisons techniques.
-Il faut absolument rétablir le principe d’une sollicitation des opérateurs.
-C’est une garantie petite, mais nécessaire.
+(Applaudissements sur plusieurs bancs des groupes SRC et UMP.) Monsieur Tardy, il me semble que vous avez déjà présenté l’amendement no 22.
+Oui, monsieur le président.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 23.
 Cet amendement a donc pour objet de rajouter que ce recueil en temps réel se fait par l’intermédiaire des opérateurs.
 La formulation n’est sans doute pas optimale, mais vous avez parfaitement compris l’objectif de cet amendement qui tend à éviter une aspiration directe et massive par l’État qui risque fort de ne pas concerner que des terroristes, loin de là.
-Je suis désolé mais la commission a repoussé cet amendement.
+Quel est l’avis de la commission ? Je suis désolé mais la commission a repoussé cet amendement.
 Tout d’abord, il n’a pas grand-chose à voir avec le principe de subsidiarité, contrairement à ce qui est écrit dans son exposé sommaire.
 Surtout, la mention proposée pourrait sembler minorer le rôle que le Premier ministre doit tenir dans l’organisation du dispositif.
-Défavorable.(L’amendement n23, repoussé par le Gouvernement, n’est pas adopté.) 321.
-Il s’agit d’un amendement de précision.(L’amendement n321, accepté par le Gouvernement, est adopté.) 24.(L’amendement n24, repoussé par le Gouvernement, n’est pas adopté.) Je suis saisi de cinq amendements identiques, n 25, 146, 185, 228 et 259.
-25.
-Avec les boîtes noires, nous arrivons à l’un des points… noirs du texte.
-Franchement, je ne sais pas par où commencer, et je n’aurai sans doute pas assez de deux minutes.
-Je vais donc faire une liste des raisons qui me conduisent à demander leur suppression.
-Enfin, encore une fois, même si seule la lutte contre le terrorisme est concernée, le caractère potentiellement intrusif de ces dispositions reste particulièrement élevé.
-Je sais que vous proposez une durée de quatre mois renouvelables.
-Toutefois, le problème n’est pas la durée, mais bien la technique et son contrôle.
+Quel est l’avis du Gouvernement ? Défavorable.
+La parole est à M. Jean-Jacques Urvoas, pour soutenir l’amendement no 321.
+Il s’agit d’un amendement de précision.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 24.
+Il s’agit d’un simple amendement de précision.
+Nous étions partis du principe que toute mise en œuvre se faisait sur autorisation du Premier ministre.
+Ici, les termes employés sont « sous le contrôle du Premier ministre », ce qui n’est pas tout à fait la même chose.
+Pour être totalement clair, je pense donc qu’il faut bien écrire qu’il s’agit d’un régime d’autorisation.
+Quel est l’avis de la commission ? Avis défavorable.
+Cet amendement est satisfait sur le fond, puisque l’autorisation qui est mentionnée à l’alinéa 12 fait nécessairement référence à une décision du Premier ministre, qui est en charge de toutes les autorisations de la présente loi.
+En outre, en supprimant le mot « contrôle », l’adoption de cet amendement pourrait paradoxalement amoindrir le rôle du Premier ministre dans la mise en œuvre des dispositions prévues.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 25.
 Pour toutes les raisons que j’ai évoquées et que je viens de détailler, une adoption de ce dispositif nuirait aux libertés individuelles et aux acteurs du numérique.
 Peut-être, monsieur le ministre, pouvez-vous nous rappeler les modalités d’utilisation des DPI.
-146.
+La parole est à M. Jean-Jacques Candelier, pour soutenir l’amendement no 146.
 Défendu.
-185.
-…même quand elles peuvent paraître bêtes.
-228.
-S’il y a de la passion, c’est aussi parce que, sur ces questions, une grande démocratie a failli.
-Les révélations que l’on relie un peu rapidement à l’affaire Snowden, mais dont certaines se sont produites avant ou après, ont montré qu’une grande démocratie pouvait faillir.
-Ce n’est pas la nôtre, mais c’est une démocratie qui a une longue histoire, une longue tradition et qui dispose de juristes, de contrôles, de règlements et d’un Parlement.
-À un moment donné, cette démocratie a probablement laissé se déployer un certain nombre de pratiques qui ont été heureusement dénoncées depuis.
-L’amendement que je présente, avec plusieurs de mes collègues du groupe SRC, notamment Patrick Bloche… Merci de conclure, monsieur Paul… Je veux bien, mais sur un sujet comme celui-là… Ce n’est pas à vous de décider, monsieur Paul.
-Excusez-moi de vous le rappeler, mais il y a un règlement et ma responsabilité est de l’appliquer.
-259.
-S’agissant des conditions de recours à cette technique de surveillance, la CNCTR n’aura qu’un simple avis à donner pour qu’il soit permis, pour une durée de trente jours renouvelables sans limitation.
-La prévention contre le terrorisme étant une mission récurrente des services de renseignement, cette mesure pourra être utilisée de façon quasi-permanente.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 185.
+Je tiens à réagir au ton qu’ont soudainement pris nos débats.
+On observe parfois, de la part des parlementaires, y compris de ma part, des maladresses, des abus ou même des postures.
+Mais entendre dire, lorsqu’un parlementaire conteste certaines dispositions du projet de loi, qu’il n’est pas patriote, qu’il n’est pas républicain, qu’il fait preuve de démagogie… Ce n’est pas une façon de mener le débat ! Nous pouvons discuter calmement, même quand il y un désaccord.
+Quand nous posons des questions, comme souvent au cours de cette soirée, il faut essayer d’y répondre.
+Je ne prétends pas être technicien, et je refuse d’ailleurs de l’être : nous sommes parlementaires, nous légiférons au nom du peuple, dans l’intérêt général, et les questions que nous posons sont légitimes… Bien sûr ! Le fait que cette surveillance porte initialement sur des données ne permettant pas l’identification d’une personne, traitées de façon automatique et algorithmique, ne saurait être une garantie suffisante : c’est le sens de l’avis qu’a rendu la commission de réflexion et de propositions sur le droit et les libertés à l’âge numérique, à laquelle certains d’entre nous, délégués par leur groupe, appartiennent.
+Cet argument est d’ailleurs traditionnellement avancé à l’appui de la surveillance généralisée, qui a recours à des algorithmes qui lisent et exploitent des volumes massifs de données.
+La parole est à M. Christian Paul, pour soutenir l’amendement no 228.
+L’amendement que je présente, avec plusieurs de mes collègues du groupe SRC, notamment Patrick Bloche… On ne l’entend pas souvent ! …et Martine Martinel, ici présents, vise à supprimer les alinéas 14 à 16.
+À ce moment du débat, j’ai le sentiment qu’un certain nombre de questions ont été posées.
+Je répète ce que j’ai dit tout à l’heure : l’exhaustivité des données traitées… Merci de conclure, monsieur Paul… C’est une question essentielle, monsieur le président ! Monsieur Paul, vous vous exprimez depuis deux minutes trente ! Je veux bien, mais sur un sujet comme celui-là… Ce n’est pas à vous de décider, monsieur Paul.
+Dans ce cas, monsieur le président, j’arrête là ! Je ne motiverai pas davantage mon amendement ! Excusez-moi de vous le rappeler, mais il y a un règlement et ma responsabilité est de l’appliquer.
+C’est insupportable ! La parole est à M. Philippe Noguès, pour soutenir l’amendement no 259.
 Par ailleurs, la garantie de l’anonymat n’est absolument pas assurée.
 Certes, le texte précise que seul le Premier ministre pourra lever l’anonymat en cas de menace avérée, mais les professionnels d’internet rappellent que la combinaison d’un petit nombre de données suffit à identifier des personnes, démontrant le caractère illusoire de cette protection.
-Naturellement, la commission a repoussé tous les amendements visant à supprimer les alinéas concernés, pour deux raisons essentielles.
-Nous légiférons aujourd’hui en nous inspirant de la loi de 1991, qui a été écrite, comme cela a déjà été beaucoup dit, à une époque où ni internet ni le téléphone portable n’existaient.
-Pourtant, cette loi est encore appliquée et elle rend les services que chacun s’accorde à lui reconnaître.
-Si cette loi a été forte, c’est parce qu’elle n’a pas été écrite en fonction d’une finalité.(Sourires.) Il n’y a en effet aucune raison de considérer que ceux q ui ne pensent pas comme nous ne sont pas républicains.
-Par conséquent, vous avez aussi toutes les raisons de penser qu’il n’y a pas, d’un côté, des parlementaires soucieux des droits de l’homme et de l’autre, un Gouvernement et des services de renseignement qui voudraient tous les jours les remettre en cause.
-Vous avez aussi raison de considérer que la politique est un art de la pédagogie.
-Mais, pour participer à des débats parfois compliqués, je sais que la politique partage cela avec la mauvaise foi, qui, pour être efficace, doit aussi être constamment répétée et réitérée.
-Monsieur le ministre, j’aimerais que vous nous éclairiez un peu plus sur ces boîtes noires.data centers Nous abordons là un domaine qui relève des technologies du futur, extrêmement difficiles à appréhender par le législateur.
+Quel est l’avis de la commission sur ces amendements identiques ? Parce que nous estimons que les conditions d’un contrôle effectif sont réunies, aussi bien vis-à-vis de l’outil existant que de son évolution éventuelle, la commission souhaite que l’article 2 du projet de loi comporte les alinéas 14 à 16.
+En conséquence, la commission est défavorable à tous les amendements visant à les supprimer.
+Quel est l’avis du Gouvernement ? Dans le souci de garantir la sérénité de nos débats, je veux répondre à M. Coronado avant qu’il ne parte – il n’est pas naturel qu’il siège tellement à droite dans cet hémicycle ! Nous lui avons accordé l’asile ! (Sourires.) J’attendais justement votre réponse, monsieur le ministre ! En tout cas, nous avons apporté ces explications et conçu ces dispositions avec la plus grande sincérité.
+Nous pouvons le considérer en toute bonne foi, au moins entre nous : si nous prenons autant de temps pour expliquer une mesure qui ne concerne que la lutte contre le terrorisme, c’est tout simplement parce que nous sommes déterminés à ce qu’il n’y ait pas le moindre décalage entre les dispositions de la loi, l’esprit dans lequel elle a été écrite, les intentions du Gouvernement et les faits qui suivront l’application de la loi, c’est-à-dire la politique mise en œuvre par le Gouvernement dans ce domaine.
+La parole est à Mme Isabelle Attard.
+Pourquoi considérez-vous donc, monsieur le ministre, que je fais preuve d’arrogance ? Ce n’est pas de l’arrogance, mais de l’inquiétude, et la volonté farouche de lutter avec vous, par tous les moyens, afin de déjouer les attentats en préparation.
+Je ne remets nullement en cause les services de renseignement.
+Ah bon ? Bien au contraire : je souhaite qu’ils aient le plus de moyens efficaces possibles pour lutter contre le terrorisme.
+Eh bien voilà ! Lionel Tardy parlait tout à l’heure de détecter une aiguille dans une botte de foin.
+Pour trouver ce qu’ils cherchent, les algorithmes et les boîtes noires que vous vous apprêtez à mettre en place ont bien besoin de tout regarder, avant de cibler.
+Ce n’est pas en grossissant la taille de la botte de foin que l’on va aider les services de renseignement.
+Les algorithmes, ces fameuses formules, ces recettes de cuisine, fonctionnent selon des critères définis par les humains et sur la base de données relatives aux précédents attentats, de façon à pouvoir déjouer les attentats en préparation.
+Mais ils ne sont jamais les mêmes ! Pour reprendre l’image de M. Tardy, ce n’est pas la couleur de l’aiguille qui va changer dans la botte de foin, puisque tous les attentats sont différents et que les procédés et les méthodes seront toujours différents, mais la forme même de l’objet que l’on est en train de chercher.
+Aujourd’hui, c’est une aiguille : demain, ce sera un caméléon, et après-demain, une fourchette.
+La parole est à M. Lionel Tardy.
+Monsieur le ministre, j’aimerais que vous nous éclairiez un peu plus sur ces boîtes noires.
+Elles ne s’appellent pas « boîtes noires » ! Toutes ces questions restent sans réponse.
+D’autant que votre loi sera publique, ce qui signifie que les utilisateurs ayant des visées terroristes passeront ailleurs – un autre pays, un autre réseau – en plus de le faire de manière chiffrée.
+Vous les avertissez que vous allez regarder ce qu’ils font.
+Les gens réellement motivés, qui veulent commettre une infraction et qui savent qu’il y a un gendarme qui utilise telle ou telle technique, auront recours à des moyens détournés.
+Tout ce que vous intercepterez, c’est de la soupe numérique, comme avec la loi Hadopi, mais les responsables, on ne les coincera pas.
+La parole est à M. Pierre Lellouche.
+Nous abordons là un domaine qui relève des technologies du futur, extrêmement difficiles à appréhender par le législateur.
 En effet.
-Qu’il s’agisse d’interdire une fréquence quand elle est manipulée par des terroristes, qu’il s’agisse de réguler le monde de l’internet, c’est toujours très compliqué parce que la technologie évolue toujours plus vite que la loi.
-Plusieurs réflexions me viennent à l’esprit.
-D’abord, je crois qu’il va falloir évaluer le dispositif dans le temps, voir ce qu’il donne à l’usage.
-Cet après-midi, nous avons fait tous ensemble un effort pour augmenter le niveau de contrôle.
-C’est une avancée très importante par rapport à un univers qui suscite énormément d’inquiétudes aussi bien parmi les opérateurs que les internautes.
-On a déjà posé la question.
-C’est bien de prévoir des parlementaires et des juges, mais par définition, nous sommes loin d’être des experts en matière de contrôle de flux cryptés sur le réseau internet.
-Bref, nous avons augmenté le niveau de contrôle.
-Assurons-nous donc qu’il fonctionne.
+Ensuite, il faudra se demander si la Commission est efficace en matière de contrôle de ces systèmes d’algorithmes, qui sont très complexes.
+Je souhaiterais que le Gouvernement nous indique comment, concrètement, la Commission va pouvoir travailler.
+Aura-t-elle auprès d’elle des experts qui seront en mesure de l’éclairer ? On a déjà posé la question.
+Autre remarque : les États étrangers qui ont mis en place de tels systèmes n’ont pas été épargnés et n’en ont pas moins subi des attentats, notamment les États-Unis.
 Bien sûr.
-L’efficacité des systèmes de surveillance est extraordinairement faible.
 Bref, il serait souhaitable de prévoir une sorte de clause de revoyure du dispositif afin d’évaluer l’efficacité du contrôle et de voir s’il sert à quelque chose.
 Je soupçonne fort, monsieur le ministre de la défense, que ce système complexe et coûteux ne vous aidera en rien.
 Monsieur Lellouche… Je conclus, monsieur le président, en répétant que toutes les attaques terroristes que nous avons subies sur notre sol ou qui ont eu lieu dans les pays voisins ont été commises par des gens déjà identifiées.
-Bien sûr.(Sourires.) …qui m’autorise d’ailleurs à indiquer la position de cette formation syndicale, la première dans la police nationale.
+Bien sûr.
+La parole est à M. Éric Ciotti.
+Mme Attard a indiqué que le syndicat de police Alliance était opposé à ce texte.
+Comme j’aime vérifier les informations, je me suis entretenu avec le secrétaire général adjoint de ce syndicat… Par une ligne directe ! (Sourires.) …qui m’autorise d’ailleurs à indiquer la position de cette formation syndicale, la première dans la police nationale.
 Il a indiqué que le texte allait mieux sécuriser le travail des policiers.
 Madame Attard, vous vous êtes livrée à quelques démonstrations techniques.
 Si elles sont aussi pertinentes que vos prises de position politiques, on peut douter de votre argumentation.
-Pour ma part, je ne voterai pas ces amendements identiques.
-Je comprends que le procédé dont nous parlons est un profilage qui permet, en croisant plusieurs critères, de déceler des comportements suspects.
-Ce profilage ou ce dispositif me paraît efficace.
-S’il permet de détecter ne serait-ce qu’une seule menace, son efficacité serait prouvée.
-Je n’ai qu’une question à poser, qui traduit mon inquiétude, partagée par un certain nombre de parlementaires ici présents ce soir.
-Bonne question.
-Sur la question des algorithmes, j’ai exposé l’ensemble des garanties que se proposait d’apporter le Gouvernement, assorties d’éléments complémentaires liés aux discussions que nous avons eues avec les hébergeurs et les opérateurs aujourd’hui, qui feront l’objet d’un amendement.
-Monsieur Lellouche, le dispositif sera évalué dans trois ans, y compris la vérification du bon fonctionnement de la CNCTR ainsi que l’évaluation des algorithmes et leur suivi en cours d’exécution.
+La parole est à M. Charles de La Verpillière.
+Dernier argument : Éric Ciotti et Guillaume Larrivé l’ont très bien démontré, nous sommes face à une menace terroriste gravissime qui s’apparente à notre encontre à un état de guerre.
+Dans une guerre, lorsqu’on a un arsenal avec plusieurs catégories d’armes, on ne peut se priver d’aucune d’entre elles.
+C’est pourquoi je ne voterai pas ces amendements.
+La parole est à M. Patrick Bloche.
+Que pourraient devenir les dispositions figurant aux articles 14 à 16, concernant les boîtes noires, dans les mains d’un gouvernement qui ne serait pas aussi républicain, aussi soucieux des libertés publiques et de la protection des données personnelles que celui qui est aux responsabilités en France aujourd’hui ? Bonne question.
+La parole est à M. le ministre.
 Monsieur Bloche, j’ai établi tout à l’heure une liste de huit garanties permettant d’éviter toute aventure politique condamnable telle que vous en redoutez.
+La parole est à M. le rapporteur.
 Monsieur Bloche, la technique existe, nous ne l’inventons pas.
 Nous essayons de créer une norme pour protéger l’État de droit dans l’utilisation de ces techniques.
-C’est en renforçant le cadre juridique que nous évitons le dévoiement de techniques qui existent.(Les amendements identiques n25, 146, 185, 228 et 259 ne sont pas adoptés.) Mes chers collègues, vous souhaitez des débats dépassionnés et utiles.
-Je me suis affranchi du règlement pour permettre à beaucoup d’orateurs de s’exprimer sur cette série d’amendements, au lieu de deux interventions seulement, une pour et une contre.
-Au regard de l’importance de ce texte et de l’implication de chacun d’entre vous, mon devoir était de faire ainsi mais je ne souhaite pas que chaque amendement suivant fasse l’objet de dix interventions, qui parfois n’ont d’ailleurs rien à voir avec le sujet.
-Je vous invite à rationaliser vos interventions, sinon j’en reviendrai à l’application stricte du règlement.
-104.
-, ce sont les entreprises capitalistiques les plus puissantes au monde qui sont capables de se payer les meilleurs ingénieurs d’analyse de bases de données… L’efficacité des algorithmes est une vraie question.
+C’est en renforçant le cadre juridique que nous évitons le dévoiement de techniques qui existent.
+La parole est à Mme Laure de La Raudière, pour soutenir l’amendement no 104.
+L’efficacité des algorithmes est une vraie question.
 Nous avons des inquiétudes à cet égard par rapport à l’atteinte aux libertés individuelles.
 Si ces algorithmes ne sont pas efficaces, cela ne vaut pas la peine d’en parler dans la loi et de susciter autant de questions dans le public.
-Très bien.(L’amendement n104, repoussé par le Gouvernement, n’est pas adopté.) 26.
-Amendement de repli.
-Étant donné le caractère potentiellement intrusif des boîtes noires, il faut sortir l’artillerie lourde et passer par un avis conforme de la CNCTR pour l’identification des personnes.
-Cela voudrait dire que le Premier ministre ne pourrait passer outre un avis négatif.
+Très bien.
+Quel est l’avis de la commission ? La commission a repoussé cet amendement.
+Mme de La Raudière a expliqué qu’elle était contre l’algorithme.
+Je n’ai pas d’autre argument que celui de dire que nous sommes opposés au principe de cet amendement dans la mesure où l’Assemblée nationale vient de refuser de supprimer l’algorithme.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 26.
 S’il y a bien un dispositif pour lequel cet avis conforme est nécessaire, c’est celui-ci.
 Ce serait de nature à rassurer un minimum.
 Tel est le sens de mon amendement.
-La commission a repoussé cet amendement.
+Quel est l’avis de la commission ? La commission a repoussé cet amendement.
 Nous avons passé une heure sur ce sujet lundi, et une heure mardi.
 Cela n’est peut-être pas la peine de repasser une heure pour dire que nous sommes contre le fait que l’autorité administrative ait le pouvoir de décision.
-C’est la prérogative de l’exécutif.(L’amendement n26, repoussé par le Gouvernement, n’est pas adopté.) 382.
-Le présent amendement a pour objet de dissiper les inquiétudes qui pourraient encore subsister s’agissant de ce dispositif après toutes les explications que nous avons apportées il y a un instant, le ministre de l’intérieur et moi-même.
-Comme dans le droit commun de l’usage des techniques de renseignement, l’autorisation du Premier ministre est accordée pour quatre mois.
-Le dispositif ne pourra être réutilisé qu’après réexamen et appréciation de son utilité.
+C’est la prérogative de l’exécutif.
+La parole est à M. le ministre, pour soutenir l’amendement no 382.
 De façon plus générale, le Gouvernement déposera en fin de texte un amendement tendant à donner une durée déterminée, jusqu’à fin 2018, au dispositif de la détection par algorithme.
 Cela permettra de s’assurer qu’il s’agit d’un dispositif utile qui ne porte pas une atteinte disproportionnée aux libertés publiques ainsi qu’on a pu l’entendre dans quelques interventions et publications.
-Je confirme ainsi ce que j’ai indiqué tout à l’heure dans mon propos liminaire concernant les algorithmes.(L’amendement n382, accepté par la commission, est adopté.) Je suis saisi d’un amendement n Les hébergeurs, auxquels nous avons expliqué quels étaient l’esprit de cette loi et les dispositions que nous prenions précisément pour encadrer l’activité des services de renseignement et leurs techniques – car tel est bien l’objectif premier de ce projet de loi –, ont précisé quelles étaient leurs inquiétudes, au terme de quoi nous avons souhaité proposer un amendement qui permette de conforter encore les garanties offertes par ce texte pour assurer le contrôle de l’activité des services de renseignement.
-Cet amendement apporte donc une garantie supplémentaire – nous en avons déjà donné beaucoup et en donnerons encore autant qu’il sera nécessaire pour rassurer chacun sur le fait qu’il n’y a pas de surveillance de masse, mais seulement des dispositifs très ciblés, qui ne s’appliquent du reste qu’à la lutte contre le terrorisme.
-L’amendement précise essentiellement trois points.
-En premier lieu, la technique sera soumise au principe de proportionnalité et de nécessité qui figure déjà dans la loi.
-La surveillance sur données anonymes s’effectuera sur les seuls traitements de données strictement nécessaires à la détection de la menace terroriste.
-Cela figure déjà dans le texte, mais l’amendement le précise, le conforte et le répète.
-En deuxième lieu, les opérateurs qui le souhaitent pourront eux-mêmes, comme ils l’ont demandé, séparer les métadonnées des contenus, afin de pouvoir garantir eux-mêmes que les contenus ne feront pas l’objet de ce mode de détection.
-Les procédures d’urgence ne seront pas applicables à cette technique de renseignement.
-Ces garanties s’ajoutent à celles déjà énoncées par le texte.
-L’utilisation du dispositif sera, je le répète, strictement limitée à la finalité de la prévention du terrorisme, ainsi que le prévoyait explicitement, dès l’origine, le projet initial du Gouvernement.
-Par ailleurs, d’autres amendements du Gouvernement prévoient que le dispositif fera l’objet d’une expérimentation jusqu’en 2018, délai à l’issue duquel il appartiendra au Parlement, sur la base d’une évaluation concrète de ce dispositif, de le maintenir ou non, ainsi que l’a annoncé lundi le Premier ministre.
-L’autorisation d’utiliser un algorithme aura une validité de quatre mois renouvelables, ce qui fournira à la CNCTR l’occasion de se prononcer régulièrement sur la proportionnalité du dispositif à sa finalité antiterroriste.
-En troisième lieu, la CNCTR pourra être saisie par l’ARCEP, notamment s’il existe des interrogations quant à l’effet du dispositif sur le fonctionnement des réseaux.
-Par ailleurs, les dispositifs seront mis en œuvre en concertation avec l’ensemble des opérateurs – j’insiste sur ce point –, comme c’est déjà le cas dans le cadre judiciaire ou, par exemple, pour les interceptions de sécurité.
-443.
-Monsieur Coronado, vous pouvez défendre également votre sous-amendement n 442.
-Je commencerai par mon sous-amendement n 442.
-441.
+Je confirme ainsi ce que j’ai indiqué tout à l’heure dans mon propos liminaire concernant les algorithmes.
+La parole est à M. le ministre de l’intérieur, pour soutenir l’amendement.
+Comme l’a déjà indiqué tout à l’heure M. Le Drian, ce texte a pour objectifs de mieux protéger les Français, de sécuriser sur le plan juridique les pratiques des services de renseignements et d’exercer sur eux, dans le cadre de la mobilisation des techniques, un contrôle très puissant, à la fois administratif, juridictionnel et parlementaire.
+Cet amendement est de nature à conforter encore la puissance du dispositif de contrôle que nous mettons en place.
+Monsieur Coronado, vous pouvez défendre également votre sous-amendement no 442.
+Il n’évoque que la mise en place des traitements, alors que dans l’exposé sommaire de son amendement le Gouvernement indique que « Les opérateurs auront la possibilité, ainsi que le précise le renvoi à l’article L. 861-3 du code de la sécurité intérieure, de s’assurer par eux-mêmes que les données de contenu seront exclues de la mise en œuvre de ces traitements. » Il s’agit donc d’harmoniser l’amendement avec son exposé sommaire.
+La parole est à M. Lionel Tardy, pour soutenir le sous-amendement no 441.
 Monsieur le président, j’aurais souhaité m’exprimer également sur l’amendement du Gouvernement.
 Je vous propose de présenter votre sous-amendement.
 Vous pourrez également évoquer l’amendement du Gouvernement.
-Le sous-amendement n 442 a déjà été défendu.
-La commission n’a, bien entendu, pas pu étudier l’amendement du Gouvernement, qui a été déposé dans la journée – on en comprend bien les raisons, car il procède d’une réunion qui s’est tenue aujourd’hui entre le Gouvernement et les hébergeurs, de telle sorte qu’il était donc matériellement impossible que la commission puisse l’analyser.
-J’émets en revanche un avis très défavorable sur le sous-amendement n Quant aux deux autres sous-amendements, n 443 et 441, qui ont le même objet, leur plus-value ne semble pas évidente.
+Ce renvoi est utile, car l’article en question précise que ces données « ne peuvent en aucun cas porter sur le contenu des correspondances échangées ou des informations consultées, sous quelque forme que ce soit, dans le cadre de ces communications » et que « Les opérateurs prennent toutes mesures pour empêcher l’utilisation de ces données à des fins autres que celles prévues au présent article.
+» C’est là exactement ce que vous voulez et ce qu’il faut.
+Seule l’adoption de ces sous-amendements et de l’ensemble de ces critères cumulatifs permettra d’assurer que les données de contenu sont exclues.
+Quel est l’avis de la commission sur l’amendement du Gouvernement et sur ces trois sous-amendements ? Quant aux deux autres sous-amendements, nos 443 et 441, qui ont le même objet, leur plus-value ne semble pas évidente.
 Avis défavorable, donc.
-Avis défavorable.
-L’amendement n 437 du Gouvernement est surréaliste.
+Quel est l’avis du Gouvernement sur les trois sous-amendements ? Qui, de M. le ministre de l’intérieur ou de Mme la garde des sceaux, donne cet avis ? Avis défavorable.
+La parole est à M. Lionel Tardy.
+L’amendement no 437 du Gouvernement est surréaliste.
 En commission, vous aviez été alertés sur les problèmes posés par les boîtes noires, que je viens de rappeler.
-Puis, il a fallu une pétition sur Internet et que les hébergeurs menacent de se délocaliser pour qu’ils soient reçus en urgence, aujourd’hui, à Bercy et que vous acceptiez de faire un geste.
-Monsieur le ministre, je salue ce geste, mais je doute très sincèrement de sa réalité et je vais maintenant m’efforcer de décrypter votre amendement.
-Pour les deux autres, vous dites que l’autorisation du Premier ministre respectera le principe de proportionnalité et précisera le champ technique.
-Cela ne veut pas dire grand-chose et, en outre, ce ne sont là que des mots.ier Je suis donc désolé, mais, hormis la suppression de l’urgence – que je salue, mais qui n’est qu’un pas mineur –, tous les problèmes demeurent.
-Ces dispositions restent des obligations franco-françaises.
-La meilleure garantie aurait été un avis conforme de la CNCTR, comme je viens de le proposer.
-Cet amendement ne peut donc raisonnablement rassurer personne – ni les hébergeurs, ni moi – sur le dispositif.
+Il n’y a pas de boîtes noires ! Cet amendement ne peut donc raisonnablement rassurer personne – ni les hébergeurs, ni moi – sur le dispositif.
 J’y suis donc opposé.
-Avec cet amendement n 437 du Gouvernement, qui vient d’arriver, c’est presque pire qu’avant, car vous demandez, en somme, que les hébergeurs eux-mêmes installent ce dispositif, devenant donc – vous pouvez m’interrompre si je m’abuse – des auxiliaires du renseignement, tout en n’ayant toujours aucune maîtrise de l’algorithme.
-L’argument selon lequel il n’y a pas de violation de la vie privée, utilisé également par la NSA, est faux.(Les sous-amendements n443, 441 et 442, successivement mis aux voix, ne sont pas adoptés.)(L’amendement n437 est adopté.) 147.
-Il s’agit d’un amendement de repli, qui fait suite à notre amendement n Sans surprise, la commission a émis un avis défavorable à cet amendement car, depuis le début, nous expliquons que nous nous situons dans le domaine de la police administrative et qu’il convient donc d’éviter les confusions avec la police judiciaire.
-Même avis.(L’amendement n147 n’est pas adopté.) 284.
+La parole est à Mme Isabelle Attard.
+C’est très bien de vous poser en protecteur de notre vie privée et des libertés individuelles, comme vous l’avez fait, avec d’autres ministres, depuis plusieurs jours, mais s’il y a piratage – peut-être devrais-je dire plutôt : « lorsqu’il y aura piratage » –, ces données, qui ne devraient être utilisées que par des gens bienveillants de la CNCTR ou de nos services de renseignement, qui savent faire leur travail, tomberont un jour entre les mains de personnes qui, elles, ne seront nullement bienveillantes.
+Peut-être avez-vous déjà fait travailler vos services sur cette question.
+Comment éviterez-vous le futur piratage de ces boîtes noires ? La parole est à M. Jean-Jacques Candelier, pour soutenir l’amendement no 147.
+Il s’agit d’un amendement de repli, qui fait suite à notre amendement no 146 de suppression du nouvel article L. 851-4.
+Le dispositif prévu par cet article porte en effet atteinte aux libertés individuelles de nombreuses personnes, indistinctement et simultanément.
+Or, comme le souligne très justement l’Union syndicale des magistrats, dès lors que de telles mesures sont vouées à assurer la surveillance de personnes soupçonnées de terrorisme, l’ouverture d’une enquête judiciaire apparaît nécessaire.
+Tel est en particulier le cas lorsqu’une menace de terrorisme est révélée.
+Au risque de m’attirer les foudres ministérielles, j’irai jusqu’au bout : nous proposons donc d’ajouter au dispositif légal l’instauration d’un contrôle par l’autorité judiciaire.
+Quel est l’avis de la commission ? Sans surprise, la commission a émis un avis défavorable à cet amendement car, depuis le début, nous expliquons que nous nous situons dans le domaine de la police administrative et qu’il convient donc d’éviter les confusions avec la police judiciaire.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Denys Robiliard, pour soutenir l’amendement no 284.
 Je souhaite juste un éclaircissement sur le fonctionnement de ce système relativement complexe, y compris dans la façon dont il est présenté dans cet article.
 En fonction de votre réponse, je vous indiquerai si je maintiens ou non mon amendement.
-Les deux amendements n 284 et 285 portaient, au-delà des questions posées par Denys Robiliard, sur l’avis conforme.
+Quel est l’avis de la commission ? Les deux amendements nos 284 et 285 portaient, au-delà des questions posées par Denys Robiliard, sur l’avis conforme.
 Sur ce point, l’avis de la commission est défavorable.
-Quant au moment où l’avis intervient, du point de vue de la commission, l’avis étant préalable, il intervient avant que le dispositif ne soit imposé.(L’amendement n284 n’est pas adopté.) Monsieur Robiliard, vous avez déjà défendu l’amendement n Il est retiré.(L’amendement n285 est retiré.) 27.
-27 propose donc que la procédure d’avis vaille lors de la création mais aussi lors de chaque modification du dispositif et des critères du traitement automatisé visant à détecter les potentiels terroristes.
-Même avis.(L’amendement n27 n’est pas adopté.) 413.
+Quant au moment où l’avis intervient, du point de vue de la commission, l’avis étant préalable, il intervient avant que le dispositif ne soit imposé.
+Quel est l’avis du Gouvernement ? J’ajoute que, dans les propos tenus par les uns et par les autres, une expression revient sans cesse : celle de « boîte noire ».
+Or il n’y a pas de « boîte noire » ! Il y a la plus grande transparence par les hébergeurs et par les opérateurs dans la mise en œuvre des dispositifs que nous avons votés il y a un instant.
+On sait ce qu’il y a dans la boîte noire ! La parole est à M. Denys Robiliard.
+Je me suis expliqué hier longuement : je ne vais donc pas revenir sur ce sujet, n’ayant pas l’intention que l’on y passe une heure.
+Un avis conforme – demander sa conformité a du sens puisque cet avis est préalable – me paraissait utile et protecteur.
+Le système que j’ai décrit ne me paraît pas démenti par ce que vous avez dit.
+En outre, je n’ai jamais parlé de « boîte noire » ! J’ai simplement parlé d’un filtre.
+Je ne disais pas cela pour vous ! Je maintiens qu’en termes de garantie pour chacune des personnes susceptibles d’utiliser internet, le système de l’avis conforme me paraît meilleur, davantage protecteur des libertés ; j’ajoute que si l’avis est préalable et qu’il doit être conforme, je suis certain que les moyens nécessaires seront, dans le temps, mis à la disposition de la CNCTR.
+Je crains sinon qu’on ne lui donne pas tous les moyens nécessaires à ces contrôles.
+Tout à fait ! Monsieur Robiliard, vous avez déjà défendu l’amendement no 285.
+Le retirez-vous ? Il est retiré.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 27.
+C’est un premier pas, mais un aspect a été oublié : si le dispositif est modifié en cours de route, la CNCTR a certes un accès permanent, mais elle ne peut plus émettre d’avis.
+L’amendement no 27 propose donc que la procédure d’avis vaille lors de la création mais aussi lors de chaque modification du dispositif et des critères du traitement automatisé visant à détecter les potentiels terroristes.
+Quel est l’avis de la commission ? Je ne comprends absolument pas l’amendement déposé par notre collègue Tardy et je crains que son explication ne vienne encore embrouiller son propre texte.
+Selon la deuxième phrase de l’alinéa 16, la Commission « dispose d’un accès permanent à ceux-ci, est informée de toute modification apportée et peut émettre des recommandations. » Je ne vois pas ce que vous proposez de plus : je crains que vous n’ayez lu le texte que dans sa version antérieure à la modification apportée par la commission des lois.
+L’avis est défavorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 413.
 Cet amendement propose donc de revenir au texte initial en prévoyant que seules peuvent être recueillies les données techniques de connexion strictement nécessaires à l’identification d’un équipement terminal ou du numéro d’abonnement de son utilisateur, ainsi que les données techniques relatives à la localisation des équipements terminaux utilisés.
 De fait, cette limitation des données est salutaire car elle limite également la liste des dispositifs pouvant être utilisés par le biais de cet article précis.
-Avis défavorable car la commission a longuement discuté de cet outil – nous avions d’ailleurs un désaccord sur cet aspect avec le Gouvernement, lequel a l’intention d’évoquer à nouveau ce point tout à l’heure.
-Nous avons en effet considéré que l’article visant à créer ces dispositions n’avait pas lieu d’être, justement parce que la loi risquait d’être frappée assez rapidement de caducité du fait de l’évolution technologique.
-Il nous a paru plus intéressant de traiter ces dispositifs au regard des finalités qu’ils développent.
-Nous les avons donc réintégrés dans les articles à chaque fois que la finalité était concernée.(L’amendement n413 n’est pas adopté.) Je suis saisi de deux amendements, n 186 et 28, pouvant être soumis à une discussion commune.
-186.
-Nous allons nous intéresser au texte issu des travaux de la commission.
-Dans l’esprit rappelé à l’instant par le rapporteur, il s’agit de circonscrire l’autorisation de certaines techniques de recueil de renseignement, en tout cas les plus intrusives, à certaines finalités.
-Sur le modèle de ce qui a été fait en commission, le présent amendement propose que les techniques de recueil de renseignement les plus intrusives répondent à des finalités parfaitement circonscrites.
-28.
-Avec ces dispositifs, nous avons affaire à des outils très intrusifs, d’autant qu’il sera très difficile de ne pas embarquer en même temps les données de personnes qui ne sont soupçonnées de rien du tout.
-Même avis.(Les amendements n186 et 28, successivement mis aux voix, ne sont pas adoptés.) 29.
+Quel est l’avis de la commission ? C’est la raison pour laquelle nous avons supprimé le dispositif : nous l’avons réintroduit à chaque fois que nécessaire, parce que nous légiférons en fonction des finalités et non pas des avancées technologiques.
+Avis défavorable sur votre amendement.
+Quel est l’avis du Gouvernement ? M. Tardy propose en fait de rétablir la version initiale du texte du Gouvernement.
+Mais le Gouvernement est soucieux de coproduire ce texte avec le Parlement ; or un dispositif a été trouvé en commission, auquel le Gouvernement a décidé de se rallier.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 186.
+Les techniques concernées seraient le recours à l’IMSI-catcher et aux dispositifs techniques de proximité, la géolocalisation et l’interception des correspondances électroniques.
+Ces techniques de renseignement sont fortement intrusives : même le ministre l’a reconnu.
+Il est donc légitime qu’elles ne soient utilisées que pour des finalités bien précises que j’ai indiquées.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 28.
+Pour les autres dispositifs intrusifs, à savoir les boîtes noires et le recueil en temps réel, vous aviez pris le soin de préciser que seule la lutte contre le terrorisme était concernée.
+Il faut en faire de même ici : ce sera un moindre mal et si, comme vous le prétendez, ce ciblage des motifs est réellement efficace, les risques d’intrusion seront limités – davantage qu’avec ce que vous proposez ici.
+Le sens de mon amendement est donc de les limiter à la lutte contre le terrorisme.
+Quel est l’avis de la commission sur ces deux amendements en discussion commune ? Nous avons une divergence absolue avec les deux amendements qui viennent d’être défendus : nous proposons d’encadrer globalement les dispositifs au regard des finalités.
+Dès lors que nous avons un cadre strict, extrêmement protecteur – à l’inverse de ce qui avait pu être écrit auparavant ; nous avons longuement débattu sur ce point –, il n’y a aucune raison d’en restreindre les finalités.
+Il faut permettre à nos services une flexibilité dans l’usage puisque le contrôle est garanti.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 29.
 Toute l’inquiétude vient du fait que la liste des données n’est pas fixée exhaustivement, ainsi que je l’ai dit tout à l’heure.
 Il faut donc encadrer ce recueil au maximum et éliminer ce qui peut l’être, à savoir les documents.
-tion de la loi de programmation militaire, a levé toutes les éventuelles craintes qui avaient pu alors être formulées.
-Même avis.(L’amendement n29 n’est pas adopté.) 187.
-Cet amendement propose que les IMSI-catchers fassent l’objet d’une homologation préalable de la CNCTR avant d’être utilisés par les services.
-Vous le savez, une grande diversité de dispositifs existe, certains pouvant être particulièrement intrusifs, voire attentatoires à la vie privée des citoyens.
-Même avis.(L’amendement n187 n’est pas adopté.) Je suis saisi de trois amendements, n 357, 30 et 188, pouvant être soumis à une discussion commune.
-Les amendements n 30 et 188 sont identiques.
-357.ier .
-Je veux aussi indiquer que le recoupement des données recueillies, puisque dans le cadre en question les services ne sont autorisés à collecter que des données techniques de connexion et n’ont pas accès aux contenus, ce recoupement, disais-je, prend beaucoup de temps.
-En outre, dans le cadre de filatures complexes d’individus formés aux techniques de contre-filature, il est impossible d’effectuer un recoupement rapide sans exposer les agents ou révéler la surveillance.
+Quel est l’avis de la commission ? M. Tardy nous a proposé quatre fois le même amendement, nous l’avons repoussé quatre fois et nous allons le repousser une cinquième fois puisque nous considérons que le décret du 24 décembre 2014, pris en application de la loi de programmation militaire, a levé toutes les éventuelles craintes qui avaient pu alors être formulées.
+Nous n’avons toujours pas de réponse ! Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 187.
+L’objet du présent amendement est double : d’abord, s’assurer que les dispositifs utilisés ne seront pas plus attentatoires au secret des correspondances que nécessaire et, ensuite, s’assurer que des fonctions de traçabilité seront bien déployées sur ces dispositifs pour assurer un suivi des données captées.
+Quel est l’avis de la commission ? Malheureusement, la commission a donné un avis défavorable, puisque la précision paraît inutile : une commission existe, celle qui est prévue à l’article L. 226-2 du code pénal, laquelle est compétente pour l’ensemble des questions de ce type.
+Il n’y a donc pas besoin d’en créer une nouvelle.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Pascal Popelin, pour soutenir l’amendement no 357.
 Enfin, je rappelle que le recours à ces techniques est strictement encadré, le président Urvoas vient de le rappeler, pour garantir la probité de leur usage.
 Nous proposerons encore de renforcer cet encadrement dans un amendement qui va être appelé juste après ceux-ci.
-30.
-188.
-La commission a été plus sensible aux arguments de Pascal Popelin qu’à ceux de Lionel Tardy ou de Sergio Coronado.
-Nous avons donc donné un avis favorable à l’amendement n 357.
-Même avis.(L’amendement n357 est adopté.
-En conséquence, les amendements n30 et 188 tombent.) Je suis saisi de deux amendements identiques, n 358 et 395.
-358.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 30.
+Je regrette : pour moi, 30 jours, c’est trop long.
+C’est la même durée de conservation que pour les interceptions de sécurité qui, elles, concernent des personnes ciblées.
+Il faut donc réduire cette durée de conservation et que la destruction soit la plus rapide possible.
+Mon amendement vise donc à ramener le délai de 30 à 10 jours de délai.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 188.
+Nous avons déjà eu ce débat en commission, et l’avons encore eu hier.
+Nous sommes opposés à l’allongement des délais.
+Comme notre collègue Tardy, nous trouvons qu’une durée de conservation de 30 jours est extrêmement longue et nous souhaitons la réduire à 10.
+Mais j’imagine qu’après l’allongement des délais voté hier, l’Assemblée fera de même ce soir.
+Quel est l’avis de la commission ? La commission a été plus sensible aux arguments de Pascal Popelin qu’à ceux de Lionel Tardy ou de Sergio Coronado.
+Nous avons donc donné un avis favorable à l’amendement no 357.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Pascal Popelin, pour soutenir l’amendement no 358.
 Autant il faut que les techniques de renseignement puissent être utilisées de manière efficace, autant il faut que leur usage soit parfaitement encadré.
 Pour renforcer cet encadrement, mon amendement prévoit que les dispositifs de proximité, en plus d’être inscrits dans un registre spécial contrôlé par la CNCTR, fassent l’objet d’un contingentement limitant leur utilisation simultanée, à l’image de ce qui se pratique en matière d’interceptions de sécurité.
-395.
-Je ne sais pas qui a inspiré qui, mais comme le montrent les numéros d’ordre, l’amendement du groupe SRC est arrivé avant celui du groupe écologiste.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 395.
+Je me félicite que le travail du groupe écologiste inspire parfois le groupe SRC.
+Je ne referai pas la défense qui a été brillamment faite et j’imagine que, M. Popelin ayant un plus grand pouvoir de conviction que nous, comme l’a rappelé notre rapporteur, les deux amendements recevront un avis favorable.
+Quel est l’avis de la commission ? Je ne sais pas qui a inspiré qui, mais comme le montrent les numéros d’ordre, l’amendement du groupe SRC est arrivé avant celui du groupe écologiste.
 Mais en l’espèce, l’intelligence est mutuelle et les profits partagés, puisque la commission a donné un avis favorable aux deux amendements.
-Même avis.(Les amendements identiques n358 et 395 sont adoptés.) Je suis saisi d’un amendement n 380 deuxième rectification qui fait l’objet d’un sous-amendement n 412.
-Nous avons eu plusieurs discussions sur ce sujet.
-Pour dire les choses simplement, cet amendement vise à rétablir l’urgence opérationnelle.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. le ministre, pour soutenir l’amendement.
 Vous vous souvenez qu’il y a eu une discussion sur ce sujet avec le rapporteur, qui proposait de ne prévoir qu’un seul dispositif d’urgence en fusionnant l’urgence absolue et l’urgence opérationnelle.
 Hier soir, j’ai eu l’occasion de dire les raisons pour lesquelles il fallait distinguer l’une de l’autre et pourquoi nous avions besoin d’un dispositif particulier à l’urgence opérationnelle.
 Par conséquent cet amendement, dans la continuité des discussions que nous avons eues hier, tend à rétablir ce régime.
-412.L’ObsA minima,  Très bien.
-Il y a matière à un tweet … Puisque vous disiez que tout se ferait dans le dos du Premier ministre, sachez que celui-ci peut à tout moment demander l’interruption de l’usage de cette technique.
-Par ailleurs, le service est dans l’obligation de transmettre dans les vingt-quatre heures un document très précis sur les moyens qu’il a mobilisés et les éléments qui l’ont conduit à agir.
-Nous nous trouvons donc dans une situation où la CNCTR et le Premier ministre sont prévenus immédiatement, où le Premier ministre peut interrompre à tout moment l’usage de cette technique et où, dans les vingt-quatre heures qui suivent sa mise en œuvre, le service est obligé de transmettre des éléments très circonstanciés à la CNCTR.(Sourires.) … de la commission, veuillez m’excuser, parce que la transcription des données collectées ne nous paraissait pas une notion très explicite.
-En effet, nous considérons que l’article porte sur la géolocalisation en temps réel ou par balise.
-De manière concrète, leur matérialisation n’est pas apparue de manière évidente à la commission qui a donné un avis défavorable.(Le sous-amendement n412 n’est pas adopté.)(L’amendement n380 deuxième rectification est adopté.) 148.
-Avis défavorable.
-Avis défavorable.(L’amendement n148 n’est pas adopté.) 43.
-Je vais le défendre, en effet, et je regrette que mon collègue Popelin ne s’en soit pas inspiré, parce que nous l’avions aussi déposé en commission, monsieur le rapporteur… Cet amendement vise à préciser que les interceptions de sécurité ne sont possibles que lorsque les renseignements ne peuvent être recueillis par un autre moyen, légalement autorisé.
+La parole est à M. Lionel Tardy, pour soutenir le sous-amendement no 412.
+C’est en cas de menace imminente, pour prévenir les risques, mais des garanties sont possibles.
+Voici ce que disait M. Delarue à l’agence de presse AEF sur ce régime d’urgence, un point de vue que je partage totalement… M. Tardy n’est pas capable de penser par lui-même ! A minima, pour répondre aux interrogations de M. Delarue, je propose encore une fois d’ajouter que les transcriptions des données collectées en application du présent article sont transmises à la CNCTR, qui veille au caractère nécessaire et proportionné de l’utilisation du régime d’urgence.
+Tout comme les vingt-quatre heures, ce serait une avancée légère mais nécessaire.
+Quel est l’avis du Gouvernement sur ce sous-amendement ? Ce que dit le texte n’est pas ce que dit M. Delarue.
+Or nous discutons du texte et non de ce que pense M. Delarue, personne par ailleurs tout à fait estimable – et je tiens le plus grand compte de ce qu’il dit.
+Très bien.
+Il y a matière à un tweet… Nous nous trouvons donc dans une situation où la CNCTR et le Premier ministre sont prévenus immédiatement, où le Premier ministre peut interrompre à tout moment l’usage de cette technique et où, dans les vingt-quatre heures qui suivent sa mise en œuvre, le service est obligé de transmettre des éléments très circonstanciés à la CNCTR.
+Quel est l’avis de la commission sur l’amendement du Gouvernement et sur le sous-amendement ? Le sous-amendement de M. Tardy a reçu un avis défavorable de la CNCTR… Vous vous voyez déjà la présider ! (Sourires.) En revanche, l’amendement du Gouvernement a été accepté par la commission.
+Il définit ce que sera demain l’urgence opérationnelle qui permettra soit la mise en œuvre de la géolocalisation en temps réel par données de connexion, y compris par le biais de moyens techniques comme prévu à de l’article 226-3 du code pénal, et la géolocalisation par balise.
+La parole est à M. Jean-Jacques Candelier, pour soutenir l’amendement no 148.
+Le champ des interceptions de sécurité, régi par la loi de 1991 qui fait référence aux « intérêts publics » listés au nouvel article L. 811-3, est considérablement élargi.
+En outre, comme le souligne très justement M. Jean-Marie Delarue, président de la Commission nationale de contrôle des interceptions de sécurité, la loi de 1991 prévoit que le recours à cette technique ne peut intervenir qu’« à titre exceptionnel ».
+Or, ces mots ne figurent pas dans le projet de loi.
+Les interceptions de sécurité entrent donc dans le cadre normal d’une investigation policière administrative.
+Pour moi, ce n’est pas acceptable.
+C’est la raison pour laquelle nous proposons par cet amendement d’introduire dans le texte le caractère exceptionnel des interceptions de sécurité, conformément à la loi de 1991.
+Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis du Gouvernement ? Avis défavorable.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 43.
+Cet amendement vise à préciser que les interceptions de sécurité ne sont possibles que lorsque les renseignements ne peuvent être recueillis par un autre moyen, légalement autorisé.
 Le retrait du principe de subsidiarité inscrit dans la loi de 1991 nous paraît constituer un recul important.
-J’ai déjà eu l’occasion de le dire, nous ne souhaitons pas que la CNCTR soit le juge de la subsidiarité, qui n’était pas explicitement prévue dans la loi de 1991.
+Quel est l’avis de la commission ? J’ai déjà eu l’occasion de le dire, nous ne souhaitons pas que la CNCTR soit le juge de la subsidiarité, qui n’était pas explicitement prévue dans la loi de 1991.
 L’amendement a donc été repoussé par la commission.
-Avis défavorable.(L’amendement n43 n’est pas adopté.) 149.
-Cette surveillance, particulièrement intrusive, vise à contourner la jurisprudence de la CNCIS qui exige qu’il existe un lien direct entre la personne placée sur écoute et l’intérêt à protéger.
-La jurisprudence de la CNCIS s’est resserrée au fur et à mesure, limitant aujourd’hui les interceptions à un individu et supprimant le lien direct pourtant prévu dans la loi de 1991.
-Le texte permet une évolution qui nous paraît tout à fait bénéfique.
-Même avis.
+Quel est l’avis du Gouvernement ? Avis défavorable.
+La parole est à M. Jean-Jacques Candelier, pour soutenir l’amendement no 149.
+Pour toutes ces raisons, nous proposons la suppression de la seconde phrase de l’alinéa 35.
+Quel est l’avis de la commission ? Ce point ayant été le seul à faire consensus lors des auditions, nous avons donné un avis défavorable à l’adoption de l’amendement de M. Candelier.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Denys Robiliard.
+Si je comprends bien les propos de M. le rapporteur, une phrase de l’article L.852-1 visée par M. Candelier casse une « jurisprudence » – si l’on peut employer ce terme – de la CNCIS.
 En effet.
-Autrement dit, en l’état actuel du droit, ce texte outrepasse le jugement du gardien des libertés, l’institution qu’est la CNCIS, selon quoi une personne est visée mais pas son entourage.
-En même temps, on assure que ce projet renforce les libertés alors que le gardien des libertés avait forgé au fil des ans une jurisprudence à l’épreuve des faits considérant qu’il ne fallait pas aller au-delà de la personne visée.
-Il me semble que l’expérience de la CNCIS doit être prise en compte.
-Je crains que cet argument ne sonne de manière un peu particulière au regard de ce qu’a montré l’affaire des frères Kouachi, où l’écoute des entourages était interdite.(L’amendement n149 n’est pas adopté.) Je suis saisi de trois amendements, n Vous pourriez peut-être nous les présenter de manière groupée, monsieur Coronado.
-Je retire les amendements n 45 et n 46 que la commission n’a pas acceptés, l’amendement n 44 constituant par ailleurs une avancée considérable.
-Le rapporteur a dit tout à l’heure qu’il ne souhaitait pas que la CNCTR soit juge de la subsidiarité.
-Or, comme il rappelle souvent les jurisprudences de la CNCIS, je souhaite quant à moi lui rappeler que, dans son dernier rapport, cette dernière note que les décisions qu’elle prend s’appuient sur les principes de légalité, de proportionnalité et de subsidiarité.
-Il y a donc une petite évolution regrettable.
-S’agissant de l’amendement n 44, il nous semble important d’encadrer ce qui fonde le soupçon.
-Actuellement, le projet de loi prévoit que les personnes susceptibles de jouer un rôle intermédiaire, même involontaire, pourront faire l’objet d’interceptions de sécurité.
-Or, un très grand nombre de personnes peuvent être soupçonnées d’être des intermédiaires involontaires.
-Compte tenu de l’atteinte à la vie privée que constituent les interceptions de sécurité, il semble nécessaire de préciser cette notion.(Les amendements n45 et 46 sont retirés.) Quel est l’avis de la commission sur l’amendement n J’ai indiqué par anticipation que la commission y est favorable.
-Même avis.(L’amendement n44 est adopté.) 122.
-Même avis.(L’amendement n122 n’est pas adopté.) 189.
+Puisque nous avons connaissance aujourd’hui de sa jurisprudence, qui nous est très loyalement révélée par M. le rapporteur, je propose de la suivre en votant l’amendement de M. Candelier.
+La parole est à M. le rapporteur.
+Je propose donc de repousser l’amendement de M. Candelier mais j’émettrai un avis favorable à l’amendement no 44 à venir de M. Coronado qui répond largement, si ce n’est dans la lettre, du moins, dans l’esprit, aux préoccupations de M. Robiliard.
+Vous pourriez peut-être nous les présenter de manière groupée, monsieur Coronado.
+Par cet amendement, nous encadrons le soupçon d’être un intermédiaire involontaire car il recouvre un nombre trop important de personnes.
+Il faudra des indices pour qu’il soit fondé.
+Nous proposons donc de limiter la surveillance aux personnes qui jouent ce rôle d’intermédiaire en ajoutant, à la seconde phrase de l’alinéa 35, après le mot « Lorsqu’ », les mots « il existe des raisons sérieuses de croire qu’ ».
+Quel est l’avis de la commission sur l’amendement no 44 ? J’ai indiqué par anticipation que la commission y est favorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Philippe Folliot, pour soutenir l’amendement no 122.
+Cet amendement propose de limiter cette possibilité à l’entourage susceptible de jouer un rôle d’intermédiaire volontaire pour le compte de la personne visée et donc de supprimer les mots « ou non » à la deuxième phrase de l’alinéa 35.
+En revanche, lorsqu’il s’agit de prévenir un acte de terrorisme, le rôle volontaire de l’entourage ne serait pas exigé.
+Quel est l’avis de la commission ? La commission a repoussé l’amendement de M.
+Morin, cosigné par M. Folliot qui vient de le défendre, car il risque d’entraîner une lourdeur administrative au détriment de l’opérationnalité de nos services.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Mme Isabelle Attard, pour soutenir l’amendement no 189.
 Cet amendement vise à ce que les modalités de centralisation des interceptions ne soient définies qu’après avis de la CNCTR.
 Afin d’assurer un contrôle efficace, il est en effet indispensable que la CNCTR puisse donner son avis sur les modalités de centralisation.
 L’accès réel aux transcriptions et aux données est l’un des points fondamentaux d’un contrôle efficace, comme l’a rappelé à plusieurs reprises le président de la CNCIS.
-Même avis.(L’amendement n189 est adopté.) 414.
-Lorsque je dis que cette loi est labyrinthique, nous en avons là encore un exemple flagrant.
-En fait, on refait entrer par la fenêtre les IMSI-catchers et dispositifs assimilés, ce qui est très subtil voire, pardonnez-moi, pernicieux.
-Je m’explique.
+Quel est l’avis de la commission ? La commission a donné un avis favorable à l’adoption de cet amendement de M. Coronado puisqu’il permet de clarifier la situation.
+Même si, sans son adoption, la CNCTR pourrait faire des recommandations au Premier ministre, le formuler explicitement clarifie sans doute le texte.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 414.
 Ici, nous découvrons au détour d’un alinéa sur la centralisation des données que des correspondances pourront aussi être interceptées par ces dispositifs techniques, dont nous connaissons tous le caractère intrusif.
 Ce sera certes de manière exceptionnelle mais cela ne me suffit pas.
 Je propose donc de supprimer la possibilité de l’interception de correspondances par ce biais car nous en sommes arrivés à un point où, sauf erreur, le régime d’autorisation et les objectifs de ces appareils ne sont plus clairs du tout.
 Il ne me semble pas que nous ayons autorisé explicitement cela auparavant.
-Avis défavorable par cohérence.
-Même avis.(L’amendement n414 n’est pas adopté.) 190.
+Quel est l’avis de la commission ? Avis défavorable par cohérence.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Mme Isabelle Attard, pour soutenir l’amendement no 190.
 Le recours à l’IMSI-catcher pour intercepter des correspondances portant gravement atteinte aux libertés individuelles du fait de son caractère extrêmement intrusif et totalement non-discriminant concernant les personnes surveillées, il est indispensable de le limiter à la prévention des actes de terrorisme.
 C’est d’ailleurs ce que prévoyait le texte initial du Gouvernement.
-Avis défavorable pour les raisons que j’ai expliquées tout à l’heure, vu notamment l’encadrement prévu par la commission des lois qui assimile l’usage d’un dispositif technique en interception de correspondances à une interception de sécurité.
+Quel est l’avis de la commission ? Avis défavorable pour les raisons que j’ai expliquées tout à l’heure, vu notamment l’encadrement prévu par la commission des lois qui assimile l’usage d’un dispositif technique en interception de correspondances à une interception de sécurité.
 Le niveau de garantie ainsi accordé permet de ne pas limiter cet usage à cette seule finalité.
 La commission a repoussé cet amendement.
-Sagesse, cet amendement proposant de revenir à une préoccupation initiale du Gouvernement qui n’a pas été suivie par la commission.(L’amendement n190 n’est pas adopté.) 191.
-Dans la même logique, nous souhaitons que le recours à l’IMSI-catcher pour intercepter des correspondances ne puisse être effectif que sur l’avis conforme de la CNCTR – je présenterai tout à l’heure un amendement de repli n 192.
+Quel est l’avis du Gouvernement ? Sagesse, cet amendement proposant de revenir à une préoccupation initiale du Gouvernement qui n’a pas été suivie par la commission.
+La parole est à Mme Isabelle Attard, pour soutenir l’amendement no 191.
+Monsieur le rapporteur, l’IMSI-catcher permettant de capter toutes les communications dans un périmètre précis, comment pouvez-vous être certain qu’il n’interceptera que les communications visées puisqu’il interceptera et enregistrera tout ce qui passera à sa portée ? Quel est l’avis de la commission ? Cependant, en l’espèce, cette mention s’insère après une phrase précisant que le Premier ministre définit les modalités de la centralisation des interceptions de correspondances.
+Dès lors, on ne comprend pas très bien à quel avis du président de la CNCTR il est fait référence.
+En toute hypothèse, l’outil devra être employé conformément à l’autorisation accordée.
 Avis défavorable.
-Une fois de plus, cet amendement est un moyen de faire en sorte que les avis de la CNCTR soient conformes, ce qui ne correspond pas au point de vue de la commission des lois.
-Même avis.(L’amendement n191 n’est pas adopté.) Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.
-192.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Mme Isabelle Attard, pour soutenir l’amendement no 192.
 Le recours à l’IMSI-catcher pour intercepter des correspondances étant une technique extrêmement attentatoire aux libertés individuelles – je le rappelle et le martèle, mais ce n’est pas grave – par son caractère extrêmement intrusif et totalement non-discriminant, il est indispensable qu’il soit expressément autorisé, comme le prévoyait d’ailleurs le projet de loi initial.
-Même avis.(L’amendement n192 n’est pas adopté.) 61.
-Cet amendement a été repoussé par la commission, car nous considérons que sa rédaction aboutirait paradoxalement à ce que l’on empêche la destruction des données incidentes qui sont captées par un dispositif technique.
-Même avis.(L’amendement n61 n’est pas adopté.) 69.
-Cet amendement vise à ne pas limiter par des quotas le nombre d’autorisations délivrées par le Premier ministre – quotas qui existent déjà aujourd’hui pour les interceptions de sécurité autorisées par le Premier ministre après avis de la CNCIS.
-Il s’agit par là d’offrir davantage de souplesse et de latitude au Premier ministre.
+Quel est l’avis de la commission ? La rédaction de l’article L.852-1 du code de la sécurité intérieure dans le texte de la commission ne distingue pas entre une interception de sécurité classique et une interception de correspondances réalisée par un dispositif s’agissant du régime d’autorisation.
+Nous considérons donc que l’amendement est satisfait.
+Il a été repoussé par la commission.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 61.
+Cet amendement de repli propose que les correspondances interceptées de cette façon et sans rapport avec l’enquête soient détruites sans délai, sur-le-champ.
+Le risque est trop grand pour que l’on se permette une imprécision.
+Je crois que c’est le sens de la rédaction actuelle, mais il faut le dire plus explicitement : la destruction doit être immédiate.
+Quel est l’avis de la commission ? Cet amendement a été repoussé par la commission, car nous considérons que sa rédaction aboutirait paradoxalement à ce que l’on empêche la destruction des données incidentes qui sont captées par un dispositif technique.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Éric Ciotti, pour soutenir l’amendement no 69.
 Il est vrai que celui-ci a toute latitude pour augmenter les quotas par arrêtés, et il le fait déjà aujourd’hui, dans le cadre défini par la loi de 1991.
 Mais je souhaiterais, compte tenu de la situation d’urgence et du danger auquel nous devons faire face, que le Premier ministre puisse intervenir avec plus de souplesse et qu’il ne soit pas contraint de revenir en permanence sur ces quotas, qui peuvent avoir un caractère contraignant et même quelquefois paralyser l’action des services.
-La commission a repoussé cet amendement, car elle considère au contraire que l’existence d’un quota est un élément de contrôle utile, compte tenu du caractère intrusif d’une interception de sécurité.
+Quel est l’avis de la commission ? La commission a repoussé cet amendement, car elle considère au contraire que l’existence d’un quota est un élément de contrôle utile, compte tenu du caractère intrusif d’une interception de sécurité.
 Au demeurant, l’existence de ce quota n’a jamais rien empêché, puisqu’il a été relevé cinq fois depuis 1991.
 Le Gouvernement est d’ailleurs en train de le relever une nouvelle fois, de 2150 ou 2190 à 2500, afin de faire face aux besoins supplémentaires.
 Aucune urgence opérationnelle n’a jusqu’ici empêché l’application des dispositions de la loi.
-Même avis.(L’amendement n69 n’est pas adopté.) 193.
-Il est retiré.(L’amendement n193 est retiré.)(Il est procédé au scrutin.) Je rappelle à tous les orateurs inscrits, même si cela ne va pas renforcer ma popularité, que je leur couperai la parole au bout de deux minutes.
-(Sourires.) J’aimerais m’arrêter un instant sur cette seconde partie, qui concerne les mesures de surveillance et de contrôle des transmissions émises ou reçues à l’étranger.
-Il me semble que le contrôle est plus faible ici que sur le reste du texte – beaucoup trop faible.
-Contrairement à ce que prévoient les articles précédents, tout est ici renvoyé à un décret pris en Conseil d’État après avis de la CNCTR, lequel ne sera pas publié.
-L’examen de cet article intervient alors que des révélations sont faites sur la surveillance massive qui existerait – j’utilise le conditionnel – à l’heure actuelle en France.
-Quand je lis la presse, j’en prends et j’en laisse, comme beaucoup d’entre vous, mais je souhaite tout de même obtenir une réponse à mes interrogations.
-La plate-forme nationale de cryptage et de décryptement – PNCD – installée pour l’essentiel dans les bâtiments du siège de la DGSE à Paris, disposerait des plus puissants calculateurs de France et intercepterait, puis stockerait, des milliards de données françaises et étrangères.
-J’ai utilisé le conditionnel jusqu’à présent, monsieur le président, vous êtes témoin, mais le Gouvernement ne peut se contenter de démentir.
-Le cadre de ce projet de loi ne traite absolument pas de la PNCD.
-Si le texte reste en l’état, cette plate-forme restera clandestine et sans contrôle démocratique, pas même  ! Dans la mesure où nous ne pouvons plus déposer d’amendements, un amendement gouvernemental doit d’urgence soumettre la PNCD au contrôle de la Commission de contrôle des techniques de renseignement.
-Monsieur le ministre de l’intérieur, vous nous avez déclaré que vous étiez certain de la constitutionnalité de la loi dont nous débattons.
-Nous savons tous ici que seuls les juges peuvent dire le droit, et que seul le Conseil constitutionnel peut déclarer cette loi conforme à la Constitution de notre république.ier , à lui seul, suffit à la justifier.
-J’espère que d’autres collègues s’y montreront également favorables.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 193.
+Il est retiré.
+Je mets aux voix l’article 2.
+Je rappelle à tous les orateurs inscrits, même si cela ne va pas renforcer ma popularité, que je leur couperai la parole au bout de deux minutes.
+(Sourires.) C’est léger, trop léger ! Et l’on évacue ainsi un grand nombre de questions touchant aux modalités de contrôle des interceptions de communications électroniques émises ou reçues de l’étranger.
+Il y a bien des modalités de réclamation, mais il y a aussi un grand trou, et ce manque de contrôle pose un problème de prévisibilité.
+J’espère que nos débats permettront de dissiper ces fortes inquiétudes.
+La parole est à M. Jean-Jacques Candelier.
+Madame la garde des sceaux, messieurs les ministres de l’intérieur et de la défense, que comptez-vous faire pour limiter la fuite d’informations sur les citoyens français vers l’étranger ? Comptez-vous limiter la quantité de données recueillies et analysées chaque jour par la PNCD ? Comptez-vous soumettre au contrôle de la commission indépendante l’activité de cette plate-forme de cryptage et de décryptement ? La parole est à Mme Isabelle Attard.
+Je me souviens que, sur la loi de programmation militaire, cette saisine avait échoué pour de basses raisons de politique politicienne.
+Je profite donc de notre débat pour vous annoncer une excellente nouvelle : grâce à la diligence de quelques citoyens éclairés, le Conseil constitutionnel a été saisi ce mardi d’une question prioritaire de constitutionnalité concernant les dispositions liberticides de la loi de programmation militaire.
+Soyez donc rassurés, chers collègues : si par malchance, ou par inattention, vous deviez voter dans cette loi des dispositions attentatoires à nos libertés publiques et contraires à notre Constitution, les citoyens sauront utiliser tous les moyens à leur disposition pour corriger vos erreurs.
+Comme le rappelait récemment l’avocat Maître Eolas, dont je vous recommande la lecture, l’article 2 de la Déclaration des droits de l’homme et du citoyen de 1789 dispose explicitement que la fonction de l’État est la conservation des droits naturels et imprescriptibles de l’homme, à savoir la liberté, la propriété, la sûreté et la résistance à l’oppression.
+La parole est à M. Philippe Folliot.
 Nous sommes à la recherche d’un équilibre entre la nécessité d’assurer la protection de la société et des citoyens et celle de garantir un certain nombre de libertés, notamment la préservation de la vie privée.
 C’est le grand défi de ce texte, et c’est pour cela que l’UDI proposera une série d’amendements qui visent, sans nuire à l’efficacité des services, à mieux garantir ces libertés, auxquelles nos concitoyens sont très attachés.
 Je rappelle à mon collègue béarnais que, pour lui aussi, le temps de parole est limité à deux minutes – même si je sais qu’il pourrait parler deux heures.
-Afin de gagner définitivement votre confiance, monsieur le président, je parlerai une minute et cinquante-huit secondes.
-(Sourires.) .
-Dans le même temps, depuis dix ans, nous avons démantelé l’organisation de notre territoire, dont il ne reste plus rien.
-Vous avez même parlé moins que cela.
+J’ai parlé une minute cinquante-huit, monsieur le président ! Vous avez même parlé moins que cela.
 Et comme le préfet des Pyrénées-Atlantiques n’a pas encore déterminé les communes qui sont éligibles à la dotation d’équipement des territoires ruraux, pour ma part, je prendrai sa défense, monsieur le député de la quatrième circonscription.
 Comme je crois que ses décisions doivent intervenir dans les quinze jours, je lui transmettrai le compte rendu de la séance, pour qu’il lise nos déclarations respectives.
-(Sourires.) Il est important que nous puissions donner à nos services de renseignement ces moyens juridiques et techniques, en les légalisant et en leur donnant un cadre juridique, là où, jusqu’à présent, il n’y avait qu’un vide juridique.
+(Sourires.) C’est du trafic d’influence ! La parole est à M. Eduardo Rihan Cypel.
+Il est important que nous puissions donner à nos services de renseignement ces moyens juridiques et techniques, en les légalisant et en leur donnant un cadre juridique, là où, jusqu’à présent, il n’y avait qu’un vide juridique.
 Cet article permet de combler ce vide, tout en sécurisant le travail des agents et en définissant, dans la loi, ce que les services de renseignement peuvent faire et ce qu’ils ne peuvent pas faire sur le plan technique, pour remplir les missions qui sont les leurs.
-Je voudrais seulement apporter deux précisions sur la surveillance des communications internationales, pour répondre aux interventions que je viens d’entendre.
-Nous aurons peut-être l’occasion d’y revenir lors de l’examen des amendements.
-Par ailleurs, le présent texte de loi permettra de mettre en œuvre un cadre juridique qui n’existait pas jusqu’à présent puisque la loi de 1991 avait totalement exclu un cadre juridique pour la surveillance des communications internationales.
-Ce cadre juridique permettra que soit pris un décret classique en Conseil d’État, relatif aux conditions et aux procédures applicables et un autre qui ne sera pas publié mais qui sera soumis à l’avis préalable de la CNCTR ainsi que du Conseil d’État et communiqué à la délégation parlementaire au renseignement.
-Il ne sera pas publié pour ne pas dévoiler à nos adversaires nos capacités techniques.
-Le bon sens s’impose en la matière.
+La parole est à M. le ministre de la défense.
 Je tenais à apporter ces deux précisions pour éviter toute ambiguïté.
-Nous en venons aux amendements.
-152.
+La parole est à M. Jean-Jacques Candelier, pour soutenir l’amendement no 152.
 Cette condition encadre utilement le recours à ces procédés très intrusifs.
 Il reste qu’au regard du champ très large des domaines d’application possible de ces techniques et en l’absence d’un réel contrôle préalable, cette disposition paraît insuffisante.
 Cet amendement vise par conséquent à renforcer l’encadrement de ce dispositif en permettant son autorisation uniquement à titre exceptionnel.
-Même avis.(L’amendement n152 n’est pas adopté.) Je suis saisi de trois amendements, n 126, 127 et 194, pouvant être soumis à une discussion commune.
-126 et 127.
-S’il est nécessaire de doter les services de renseignement de techniques similaires à celles dont bénéficient les services de police judiciaire, il convient d’assortir cette possibilité de garanties et de veiller à ce que l’utilisation de ces techniques ne couvre pas un champ trop large.
-L’amendement n Quant à l’amendement n 127, il vise à en limiter l’utilisation aux seules finalités 194.(L’amendement n194 est retiré.) Même avis.
-Je retire seulement l’amendement n 126.(L’amendement n126 est retiré.)(L’amendement n127 n’est pas adopté.) 128.
+Quel est l’avis de la commission ? La commission a repoussé cet amendement car le caractère exceptionnel résulte du principe de subsidiarité qui figure explicitement dans l’alinéa en question.
+Insérer les mots « à titre exceptionnel » ne ferait qu’alourdir la rédaction.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Philippe Folliot, pour soutenir les amendements nos 126 et 127.
+Quant à l’amendement no 127, il vise à en limiter l’utilisation aux seules finalités prévues aux 1°, 4° et 6° de l’article L. 811-3, soit l’indépendance nationale, l’intégrité du territoire et la défense nationale, la prévention du terrorisme, la prévention de la criminalité et de la délinquance organisées.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 194.
+Nous avions déposé un amendement similaire à l’article 2 qui avait donné lieu au même débat.
+Je retire cet amendement car nous avons clos cette discussion par un vote.
+Quel est l’avis de la commission sur les deux amendements restant en discussion ? Pour les mêmes raisons que celles qui conduisent M. Coronado à faire preuve de cohérence en retirant son amendement, la commission a rendu un avis défavorable : pourquoi exclure par principe ces techniques pour des finalités autres que le terrorisme, par exemple les intérêts liés à la politique étrangère qui peuvent recouvrir le respect de certains accords de prohibition ? Dans la mesure où il peut être nécessaire d’utiliser ces outils, cette restriction serait néfaste sur un plan opérationnel.
+Quel est l’avis du Gouvernement ? Même avis.
+Monsieur Folliot, retirez-vous vos amendements ? Je retire seulement l’amendement no 126.
+La parole est à M. Philippe Folliot, pour soutenir l’amendement no 128.
 Il est défendu.
-Avis défavorable.
-Même avis.(L’amendement n128 n’est pas adopté.) Je suis saisi de deux amendements, n 47 et 129, pouvant être soumis à une discussion commune.
-47.
+Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 47.
 Il me semblerait incohérent d’autoriser l’utilisation de dispositifs plus intrusifs que ceux autorisés aujourd’hui dans le cadre des enquêtes judiciaires.
 Cet amendement vise par conséquent à harmoniser les deux rédactions.
-129.
+La parole est à M. Philippe Folliot, pour soutenir l’amendement no 129.
 Il est défendu.
-La commission a rendu, là encore, un avis défavorable à ces amendements qui visent à harmoniser le code de procédure pénale et le code de sécurité intérieure, ce qui ne nous semble pas opportun car précisément ceux qui sont chargés d’appliquer le code de procédure pénale le jugent trop restrictif.
-Même avis.(Les amendements n47 et 129, successivement mis aux voix, ne sont pas adoptés.) 70.
+Quel est l’avis de la commission ? La commission a rendu, là encore, un avis défavorable à ces amendements qui visent à harmoniser le code de procédure pénale et le code de sécurité intérieure, ce qui ne nous semble pas opportun car précisément ceux qui sont chargés d’appliquer le code de procédure pénale le jugent trop restrictif.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Éric Ciotti, pour soutenir l’amendement no 70.
 Il est défendu.
-Défavorable.
-Même avis.(L’amendement n70 n’est pas adopté.) 137.
+Quel est l’avis de la commission ? Défavorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Philippe Folliot, pour soutenir l’amendement no 137.
 Cet amendement vise à mieux encadrer le renouvellement du recours aux IMSI-catchers et aux dispositifs dits de proximité.
 Le projet de loi dispose que l’autorisation sera délivrée pour une durée maximale de deux mois et renouvelable dans les mêmes conditions de forme et de durée que l’autorisation initiale.
 Cet amendement tend à réduire le délai du renouvellement de deux à un mois.
-Même avis.(L’amendement n137 n’est pas adopté.) 195.
+Quel est l’avis de la commission ? Nous avons examiné hier soir un amendement presque identique, défendu par M. Morin et que l’Assemblée a repoussé.
+Par cohérence, nous proposons de repousser celui-ci également.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 195.
 Cet amendement tend à préciser que le renouvellement de l’autorisation de captation et de sonorisation ne soit possible qu’après avis conforme de la CNCTR.
-Avis défavorable.
+Quel est l’avis de la commission ? Avis défavorable.
 Nous ne souhaitons pas que la CNCTR ait avis décisionnel.
-Même avis.(L’amendement n195 n’est pas adopté.) 132.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Philippe Folliot, pour soutenir l’amendement no 132.
 Cet amendement vise à durcir les conditions de renouvellement du recours aux IMSI-catchers et aux dispositifs de proximité.
 La demande de renouvellement de l’autorisation, à l’issue des deux mois, devra s’accompagner d’un bilan de l’utilisation de ces techniques et des résultats obtenus afin de permettre un avis plus éclairé de la CNCTR.
-Ces dispositions étant précises, l’ajout que vous proposez ne paraît pas opportun tout en créant une contrainte inutile pour les services.
-Même avis.(L’amendement n132 n’est pas adopté.) 351 rectifié.
-Avis favorable.(L’amendement n351 rectifié est adopté.) 350.
-Il est rédactionnel.(L’amendement n350, accepté par le Gouvernement, est adopté.) 32.ier  issu des travaux de la commission vise à ce que le Premier ministre motive sa décision lorsqu’il passe outre un avis défavorable de la commission.
-Même avis.(L’amendement n32 n’est pas adopté.) 71.
+Quel est l’avis de la commission ? Ces dispositions étant précises, l’ajout que vous proposez ne paraît pas opportun tout en créant une contrainte inutile pour les services.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. le rapporteur, pour soutenir l’amendement no 351 rectifié.
+Cet amendement tend à rendre applicables aux paroles captées dans un lieu privé le délai de conservation prévu au a) du I de l’article L. 822-2.
+Quel est l’avis du Gouvernement ? Avis favorable.
+La parole est à M. Jean-Jacques Urvoas, rapporteur, pour soutenir l’amendement no 350.
+Il est rédactionnel.
+La parole est à M. Lionel Tardy, pour soutenir l’amendement no 32.
+Cet amendement de cohérence avec l’article 1er issu des travaux de la commission vise à ce que le Premier ministre motive sa décision lorsqu’il passe outre un avis défavorable de la commission.
+Quel est l’avis de la commission ? Avis défavorable car l’amendement est satisfait par l’article L. 821-4.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Éric Ciotti, pour soutenir l’amendement no 71.
 Défendu.
-Avis défavorable.
-Même avis.(L’amendement n71 n’est pas adopté.) 196.
+Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 196.
 Cet amendement tend à préciser que le renouvellement d’une autorisation d’introduction dans un système de données ne puisse se faire qu’après avis conforme de la CNCTR.
 Je pense que nous obtiendrons la même réponse que pour l’amendement précédent.
-La constance de Sergio Coronado n’a d’égale que la détermination de la commission à ne pas changer sa position.
+Quel est l’avis de la commission ? La constance de Sergio Coronado n’a d’égale que la détermination de la commission à ne pas changer sa position.
 La décision est prise par l’autorité politique et non par l’autorité administrative.
-Même avis.(L’amendement n196 n’est pas adopté.) Je suis saisi de trois amendements, n 341, 365 et 342, qui peuvent faire l’objet d’une présentation groupée.
-Tous trois sont rédactionnels.(Les amendements n341, 365 et 342, acceptés par le Gouvernement, sont successivement adoptés.) 421 Cet amendement vise par conséquent à supprimer la référence à une formation de jugement spécialisée du Conseil d’État pour la remplacer par la seule mention du Conseil d’État qui siégera en formation particulière, dont je détaillerai tout à l’heure la composition et la procédure.
-La commission n’a pas examiné cet amendement mais par confiance, j’y suis favorable à titre personnel.(L’amendement n421 est adopté.) 286.ier La réponse à votre question, monsieur Robiliard, est oui.
-Par conséquent je retire l’amendement.(L’amendement n286 est retiré.) 327.
-Il est rédactionnel.(L’amendement n327, accepté par le Gouvernement, est adopté.) 123.ierier  a visé à la supprimer de la liste des finalités communes à tous les services de renseignement afin de la déplacer.ier Même avis.(L’amendement n123 est retiré.) 48.ier Même avis.(L’amendement n48 est adopté.) Je suis saisi d’un amendement n 197 qui fait l’objet d’un sous-amendement n 383.
-383.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Jean-Jacques Urvoas, rapporteur, pour les soutenir.
+Tous trois sont rédactionnels.
+La parole est à Mme la garde des sceaux, ministre de la justice, pour soutenir l’amendement no 421 Cet amendement vise par conséquent à supprimer la référence à une formation de jugement spécialisée du Conseil d’État pour la remplacer par la seule mention du Conseil d’État qui siégera en formation particulière, dont je détaillerai tout à l’heure la composition et la procédure.
+Quel est l’avis de la commission ? La commission n’a pas examiné cet amendement mais par confiance, j’y suis favorable à titre personnel.
+La parole est à M. Denys Robiliard, pour soutenir l’amendement no 286.
+L’amendement adopté à l’article 1er relatif au secret professionnel s’applique-t-il aux techniques relevant de l’article 3 ? Si c’est le cas, je retirerai par cohérence cet amendement car il n’y a pas de raison de prévoir un régime différent pour la protection du secret professionnel selon l’article dont on relève.
+Quel est l’avis de la commission ? La réponse à votre question, monsieur Robiliard, est oui.
+La parole est à M. Denys Robiliard.
+Par conséquent je retire l’amendement.
+La parole est à M. Jean-Jacques Urvoas, rapporteur, pour soutenir l’amendement no 327.
+Il est rédactionnel.
+La parole est à M. Philippe Folliot, pour soutenir l’amendement no 123.
+Le présent amendement tend à inscrire cette finalité à l’article 3 afin qu’elle s’applique exclusivement à l’article L. 854-1 du code de la sécurité intérieure régissant les mesures de surveillance internationale.
+Quel est l’avis de la commission ? Cet amendement n’a pas lieu d’être, cher collègue : il est cohérent avec l’un des amendements que vous avez défendu à l’article 1er et que nous avons rejeté.
+Il n’y a donc aucune espèce de raison d’adopter celui-ci ; je vous invite à le retirer, faute de quoi j’y serai défavorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement no 48.
+Il n’y a pas lieu selon moi de prévoir une durée dérogatoire de conservation pour les correspondances échangées à l’étranger, d’autant plus qu’aucune limite n’est prévue.
+Il est donc proposé de revenir au dispositif de droit commun en respectant les principes défendus par le Conseil d’État, qui a jugé « nécessaire que ce délai commence à courir comme aujourd’hui à compter du recueil des correspondances et non de leur première exploitation ».
+Quel est l’avis de la commission ? Dans la mesure où l’Assemblée a adopté l’amendement que M. Popelin a défendu à l’article 1er concernant les délais, M. Coronado parle d’or : avis favorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à M. Sergio Coronado, pour soutenir l’amendement.
+Selon nous, si elle constate une irrégularité, la CNCTR ne doit pas seulement remettre un rapport de contrôle au Premier ministre mais aussi pouvoir, le cas échéant, saisir le Conseil d’État selon les modalités définies à l’article L. 821-6 du code de la sécurité intérieure.
+La parole est à Mme la garde des sceaux, pour soutenir le sous-amendement no 383.
 Le Gouvernement est sensible à la garantie supplémentaire que vous proposez d’introduire, monsieur le député.
 Cependant, la mesure telle que vous la prévoyez serait de nature à ouvrir un champ trop large de recours possibles.
 Le Gouvernement vous propose donc de sous-amender votre amendement en limitant cette nouvelle garantie aux cas des correspondances émises ou reçues depuis le territoire national et de leurs données de connexion associées.
-Si vous acceptez ce sous-amendement, le Gouvernement émettra un avis favorable à votre amendement.(Le sous-amendement n383, accepté par la commission, est adopté.)(L’amendement n197, sous-amendé, accepté par la commission, est adopté.) 287.
-Je le retire.(L’amendement n287 est retiré.) 314.
-Même avis.(L’amendement n314 est adopté.) La suite de la discussion est renvoyée à la prochaine séance.
-Suite de la discussion du projet de loi relatif au renseignement.
-La séance est levée.5, à zéro heure cinquante.)La Directrice du service du compte rendu de la séancede l’Assemblée nationaleCatherine Joly
+Si vous acceptez ce sous-amendement, le Gouvernement émettra un avis favorable à votre amendement.
+La parole est à M. Denys Robiliard, pour soutenir l’amendement no 287.
+Je le retire.
+La parole est à M. Philippe Nauche, rapporteur pour avis de la commission de la défense nationale et des forces armées, pour soutenir l’amendement no 314.
+Cet amendement vise à compléter l’article L. 226-3 du code pénal qui interdit l’utilisation et la promotion d’appareils de captation de données informatiques en y ajoutant la référence à l’article L. 853-1 du code de la sécurité intérieure que ce projet de loi vient de créer.
+Quel est l’avis de la commission ? Avis favorable.
+Cet amendement contribue à sécuriser ce que l’on appelle les « chevaux de Troie administratifs » et à protéger les systèmes d’information et les libertés de nos concitoyens.
+Il permettra de soumettre ces « chevaux de Troie administratifs » à la même procédure d’autorisation préalable que les « chevaux de Troie judiciaires ».
+En effet, l’utilisation de chevaux de Troie par l’autorité judiciaire en application de l’article L. 706-102-1 du code de procédure pénale est soumise à l’autorisation préalable du Premier ministre prise sur le fondement de l’article L. 226-3 du code pénal après avis d’une commission interministérielle présidée par l’Agence nationale de la sécurité des systèmes d’information.
+À cette occasion, celle-ci s’assure de la fiabilité et de la sécurité du dispositif, et vérifie que les outils n’ont bien pour seules fonctions que celles qui sont décrites par le législateur.
+Quel est l’avis du Gouvernement ? Même avis.
+La suite de la discussion est renvoyée à la prochaine séance.
+La séance est levée.
