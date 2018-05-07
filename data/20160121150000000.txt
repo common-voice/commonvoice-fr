@@ -32,7 +32,7 @@ Des fonctionnaires de police et de gendarmerie vont dans les établissements sco
 Il faut aussi savoir bien conduire sur internet.
 La parole est à Madame la secrétaire d’État, pour soutenir le sous-amendement numéro huit cent quatre-vingt-quinze.
 Sur ce sujet crucial de l’éducation au numérique, nous avons beaucoup avancé au Gouvernement, en particulier avec Madame Najat Vallaud-Belkacem.
-Nous avons ainsi lancé le plan numérique à l’école, qui va devenir une réalité pour quarante % des collèges dès la rentrée prochaine, en introduisant l’enseignement du code à l’école.
+Nous avons ainsi lancé le plan numérique à l’école, qui va devenir une réalité pour quarante pourcent des collèges dès la rentrée prochaine, en introduisant l’enseignement du code à l’école.
 Des actions concrètes ont déjà été mises en œuvre.
 Je souscris donc à votre amendement, madame Le Dain, qui réaffirme notre démarche, sous réserve toutefois de l’adoption du sous-amendement rédactionnel du Gouvernement numéro huit cent quatre-vingt-quinze.
 Quel est l’avis de la commission ? La commission avait émis un avis défavorable à l’amendement de Madame Le Dain.
@@ -149,13 +149,13 @@ La collectivité pour laquelle je travaillais était détentrice d’un bien app
 La Tapisserie de Bayeux ! Or elle m’obligeait à exiger des droits élevés pour en utiliser des images.
 J’aurais apprécié que, grâce à cet amendement, une association de citoyens puisse accuser le responsable de cette collectivité de pratiquer le copyfraud envers le domaine public car, en tant que fonctionnaire territorial, je n’en avais pas la possibilité.
 Je souhaite donc maintenir cet amendement : pour faire cesser ces atteintes au domaine public, qui sont totalement illégales, il serait pertinent de donner la possibilité à des associations d’agir en justice lorsqu’une escroquerie manifeste est constatée.
-Je suis saisi de trois amendements identiques, numéros soixante-huit, six cent trente-quatre et six cent soixante-treize.
+Je suis saisi de trois amendements identiques, numéros soixante-huit six cent trente-quatre et six cent soixante-treize.
 La parole est à Monsieur Patrice Martin-Lalande, pour soutenir l’amendement numéro soixante-huit.
 Cet amendement vise à supprimer l’article vingt qui n’apporte aucune précision par rapport au droit européen et qui introduit même certains risques inutiles.
 L’article présente d’abord un risque juridique, car il peut sembler interdire aux opérateurs de mettre en œuvre, pour le cas où elles seraient nécessaires, les procédures de gestion de trafic prévues dans les cas de nécessité, et seulement pour le temps nécessaire.
 Il comporte également un risque économique, que j’ai mentionné à plusieurs reprises : en l’absence d’étude d’impact, nous ne pouvons pas comprendre et apprécier les retombées de cet article pour nos opérateurs.
 La parole est à Madame Laure de La Raudière, pour soutenir l’amendement numéro six cent trente-quatre.
-Il est intéressant de constater que des députés de tous les bancs, tous favorables à l’auto-hébergement, ont présenté des amendements de suppression de l’article vingt, qui découle directement de l’application du règlement européen.
+Il est intéressant de constater que des députés de tous les bancs, tous favorables à l’auto-hébergement, ont présenté des amendements de suppression de l’article vingt qui découle directement de l’application du règlement européen.
 Il ne semble donc pas nécessaire d’inscrire ces dispositions dans la loi française.
 A cet égard, le rapport atteste que, lors de la discussion en commission, aucun député n’a accueilli favorablement l’inscription de l’auto-hébergement dans la loi.
 Cet article me semble donc davantage répondre à des impératifs de communication politique puisqu’il serait particulièrement désagréable au Gouvernement de supprimer une disposition que certains internautes ont réclamée lors de la consultation en ligne.
@@ -169,10 +169,10 @@ Monsieur Martin-Lalande évoquait à ce propos, dans son exposé sommaire, une s
 Je retire le «sur-».
 Il s’agit seulement d’une inscription inutile dans la loi ! Comme l’évoquait Corinne Erhel, cette question a fait l’objet d’une forte demande des internautes et exige de la pédagogie.
 D’aucuns pourraient juger superflu d’intégrer ces éléments dans ce projet de loi : lors de la discussion en commission, j’avais d’ailleurs soulevé quelques réserves sur cet article et sur l’article vingt-cinq.
-Pour autant, les députés écrivent la loi : aussi, puisque rien ne contrevient à ce que nous puissions adopter l’article vingt, je formulerai une demande de retrait de ces trois amendements de suppression.
+Pour autant, les députés écrivent la loi : aussi, puisque rien ne contrevient à ce que nous puissions adopter l’article vingt je formulerai une demande de retrait de ces trois amendements de suppression.
 Quel est l’avis du Gouvernement ? Même demande de retrait.
 Aujourd’hui, en France, un opérateur peut bloquer des ports, ce qui nuit – même si ce n’est qu’à la marge – à la bonne application du principe de neutralité de l’internet.
-La disposition prévue par l’article vingt va au-delà du principe de neutralité de l’internet tel que visé à l’article dix-neuf, qui reprend lui-même les termes de l’article trois du règlement européen.
+La disposition prévue par l’article vingt va au-delà du principe de neutralité de l’internet tel que visé à l’article dix-neuf qui reprend lui-même les termes de l’article trois du règlement européen.
 L’auto-hébergement correspond à la faculté pour les utilisateurs d’héberger leurs données sur leurs propres machines et de pouvoir les consulter.
 Ces données sont personnelles et ne sont pas diffusées.
 Or cette faculté n’est ni explicitement mentionnée ni incluse de manière sous-jacente dans le règlement européen.
@@ -181,19 +181,19 @@ La parole est à Madame Corinne Erhel, rapporteure pour avis, pour soutenir l’
 C’est un débat que nous avons déjà eu en commission la semaine dernière : nous avons besoin de lancer une action pour répondre à la pénurie d’adresses IP version quatre – IPVquatre.
 Madame la secrétaire d’État nous avait indiqué que la transition vers l’IP version six – IPVsix – était en cours ; il serait bon de l’accélérer, et je crois que le moment est venu de donner un signal en ce sens.
 J’avais déjà eu l’occasion d’aborder cette question lors de l’examen du projet de loi pour la croissance et l’activité.
-Cet amendement a pour objectif d’obliger les terminaux internet d’être équipés d’une technologie compatible avec le protocole IPVsix à compter du 1ierjanvier deux mille dix-huit.
+Cet amendement a pour objectif d’obliger les terminaux internet d’être équipés d’une technologie compatible avec le protocole IPVsix à compter du unierjanvier 20un8.
 Le phénomène de pénurie d’adresses IPVquatre commence à avoir des effets très négatifs sur les acteurs économiques français et européens.
 Il y a urgence à agir – aussi pour des raisons d’innovation.
 D’où notre proposition d’introduire cette disposition, très attendue, au cœur du projet de loi pour une République numérique.
 Nous avons tous intérêt à envoyer un signal fort sur ce sujet, qui est loin d’être mineur.
 Quel est l’avis de la commission ? Avis favorable.
-Corinne Erhel maîtrise parfaitement sujet, et elle a parfaitement raison de nous alerter sur les difficultés que l’on commence à rencontrer avec le protocole IPV4.
+Corinne Erhel maîtrise parfaitement sujet, et elle a parfaitement raison de nous alerter sur les difficultés que l’on commence à rencontrer avec le protocole IPVquatre.
 Il s’agit d’ailleurs d’un des arguments invoqués par les opérateurs pour expliquer qu’il serait compliqué d’ouvrir les ports, dans la mesure où cela nécessiterait des adresses IP complémentaires.
-Si l’on accélérait la transition vers l’IPV6, on ne rencontrerait pas ces difficultés.
+Si l’on accélérait la transition vers l’IPVsix on ne rencontrerait pas ces difficultés.
 Je ne peux donc que rejoindre le point de vue de Corinne Erhel.
-Madame la secrétaire d’État, vous aviez évoqué en commission une mission de l’ARCEP pour accélérer le développement de l’IPV6.
+Madame la secrétaire d’État, vous aviez évoqué en commission une mission de l’ARCEP pour accélérer le développement de l’IPVsix.
 Pourriez-vous nous en dire davantage ? Quel est l’avis du Gouvernement ? Demande de retrait, pour les mêmes raisons que celles exposées la semaine dernière en commission.
-D’abord, j’ai saisi le président de l’ARCEP le onze janvier dernier pour lui demander un état du déploiement de l’IPV6 en France et des propositions pour accélérer celui-ci.
+D’abord, j’ai saisi le président de l’ARCEP le onze janvier dernier pour lui demander un état du déploiement de l’IPVsix en France et des propositions pour accélérer celui-ci.
 Ensuite, la disposition prévue par l’amendement me paraît disproportionnée au regard de l’objectif recherché ; elle ferait peser des contraintes trop lourdes sur nos industriels et interviendrait en dehors de tout cadre européen.
 En effet, les équipements concernés ne sont pas développés et fabriqués pour le seul marché français : ils sont au minimum destinés à l’ensemble de l’Europe.
 Si l’on veut que la mesure atteigne son objectif, il faut qu’elle soit prise à l’échelon européen.
@@ -235,9 +235,9 @@ Vous avez souligné, monsieur Launay, que cette commission serait paritaire, pui
 Mais elle ne l’est pas au sens où la délégation aux droits des femmes l’entend, puisque sur quatorze parlementaires, on ne compte actuellement que deux femmes ! Cela relève de la compétence des commissions.
 Ce n’est pas à nous de dire qui elles doivent choisir ! Non, monsieur Launay : c’est au président de l’Assemblée nationale et au président du Sénat de désigner les membres de façon paritaire.
 Je vous demande donc d’introduire la parité dans la composition de cette commission.
-Je ne sais pas si Monsieur Launay défendra l’amendement numéro cent sept,… Je considère que je l’ai déjà défendu.
+Je ne sais pas si Monsieur Launay défendra l’amendement numéro cent sept… Je considère que je l’ai déjà défendu.
 Nous en venons aux amendements.
-La parole est à Madame Corinne Erhel, rapporteure pour avis, pour soutenir l’amendement numéro six cent soixante-dix-neuf, tendant à supprimer l’article.
+La parole est à Madame Corinne Erhel, rapporteure pour avis, pour soutenir l’amendement numéro six cent soixante-dix-neuf tendant à supprimer l’article.
 La première raison relève de la terminologie : il faut faire attention à ne pas introduire de confusion avec les commissions parlementaires, notamment la commission des affaires économiques qui est compétente dans le domaine des postes et télécommunications.
 En outre, la CSSPPCE comprend à ce jour trois personnalités qualifiées qui disposent, à mon sens, d’un droit de vote, puisqu’il est fait référence au décret de deux mille cinq.
 Pour cela, et pour que ces experts aient le droit de vote, il faudra modifier le décret de deux mille cinq.
@@ -268,7 +268,7 @@ C’est une bonne idée ! Cela permettrait de satisfaire les partisans d’un no
 Par parenthèse, sur le plan juridique, l’ordonnance du dix-sept novembre mille neuf cent cinquante-huit nous autorise tout à fait à appeler cet organisme «commission» si nous le souhaitons, puisqu’il comprend des députés et des sénateurs.
 (Applaudissements sur plusieurs bancs du groupe socialiste, républicain et citoyen.) Quel est l’avis du Gouvernement ? Il est délicat, pour moi, de me prononcer sur une question qui relève de l’organisation interne du Parlement.
 Je me bornerai à indiquer que je suis frappée par les chiffres donnés par Madame Coutelle, qui témoignent à quel point cette structure est éloignée de la parité.
-Il y a vingt-sept % de femmes à l’Assemblée nationale, alors que dans cette commission, il n’y en a que dix-sept %.
+Il y a vingt-sept pourcent de femmes à l’Assemblée nationale, alors que dans cette commission, il n’y en a que dix-sept pourcent.
 Tout effort dans le sens de la parité serait donc particulièrement bienvenu.
 Le Gouvernement s’en remet à la sagesse de l’Assemblée.
 La parole est à Monsieur Lionel Tardy.
@@ -277,7 +277,7 @@ C’est une reconnaissance de son activité et du travail des parlementaires qui
 En effet, le numérique est une question transversale, qui concerne tous les textes législatifs.
 Les députés impliqués sur ces sujets sont souvent ceux qui présentent le plus d’amendements, mais ils ne peuvent même pas les voter car ils n’appartiennent pas à la commission considérée : nous l’avons encore vu cette semaine en commission des lois.
 C’est donc une bonne solution qui nous est proposée là.
-J’en profite pour défendre d’ores et déjà l’amendement numéro quatre cent soixante-dix-huit, qui vise à répondre à l’une des préoccupations exprimées par Corinne Erhel.
+J’en profite pour défendre d’ores et déjà l’amendement numéro quatre cent soixante-dix-huit qui vise à répondre à l’une des préoccupations exprimées par Corinne Erhel.
 Conformément aux débats qui ont eu lieu en commission, afin d’accompagner ce changement de nom, il convient en effet que les personnalités qualifiées deviennent des «experts auprès de la commission.» La parole est à Madame la rapporteure pour avis.
 Compte tenu des éléments de ce débat, et conformément à ce que j’ai dit tout à l’heure, je retire l’amendement numéro six cent soixante-dix-neuf.
 Je suis saisi de deux amendements identiques, numéros cent sept et quatre cent soixante-dix-huit.
@@ -306,7 +306,7 @@ La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro qua
 Je suis saisi de deux amendements identiques, numéros cent neuf et quatre cent quatre-vingts.
 La parole est à Monsieur Jean Launay, pour soutenir l’amendement numéro cent neuf.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro quatre cent quatre-vingts.
-Je suis saisi de deux amendements, numéros six cent soixante-quatorze et six cent soixante-quinze, qui peuvent faire l’objet d’une présentation groupée.
+Je suis saisi de deux amendements, numéros six cent soixante-quatorze et six cent soixante-quinze qui peuvent faire l’objet d’une présentation groupée.
 La parole est à Madame Corinne Erhel, rapporteure pour avis, pour les soutenir.
 Ils sont retirés.
 Madame Attard, l’amendement numéro soixante-quatorze est-il retiré ? Non, monsieur le président, je vais le présenter.
@@ -329,7 +329,7 @@ C’est pourquoi cet amendement vise à rétablir cette jurisprudence : le respo
 Quel est l’avis de la commission ? Je tâcherai d’être précis, car c’est un sujet sensible.
 Il ne faut pas confondre la réalité actuelle de notre droit, tel qu’il a été appliqué lors du procès auquel vous avez fait référence, madame Attard, avec la réalité de ce qui peut se passer aujourd’hui sur l’ensemble de ces questions.
 L’amendement présente un problème de rédaction.
-Les amendements identiques numéros quatre cent quatre-vingt-seize, six cent cinquante et un rectifié et deux cent soixante et onze rectifié proposent une exemption de poursuites, de peine ou une protection des lanceurs d’alerte des systèmes informatisés.
+Les amendements identiques numéros quatre cent quatre-vingt-seize six cent cinquante et un rectifié et deux cent soixante et onze rectifié proposent une exemption de poursuites, de peine ou une protection des lanceurs d’alerte des systèmes informatisés.
 Néanmoins, il est difficile de modifier le droit en vigueur pour revenir sur une décision de justice qui est devenue définitive.
 Vous avez évoqué longuement en commission l’affaire dans laquelle cette décision est intervenue, à savoir l’affaire Bluetouff.
 Cette question est très importante.
@@ -364,10 +364,10 @@ Je me félicite donc de cet amendement, et espère le voir adopté par notre ass
 Votre avis est donc défavorable, madame la secrétaire d’État ? Je suggère le retrait de cet amendement au profit de l’amendement numéro deux cent soixante et onze rectifié.
 Il était bon de le préciser, pour éviter des doutes par rapport aux propos de Monsieur Paul.
 La parole est à Madame Isabelle Attard.
-Je retire le présent amendement, au profit de l’amendement numéro quatre cent quatre-vingt-seize, que j’estime mieux rédigé que ceux de nos collègues.
+Je retire le présent amendement, au profit de l’amendement numéro quatre cent quatre-vingt-seize que j’estime mieux rédigé que ceux de nos collègues.
 N’oublions pas non plus la tierce personne.
 Ce troisième acteur a une grande part de responsabilité dans l’affaire : celle-ci ne se résume pas à l’accès d’une personne à des données mal sécurisées.
-Je suis saisi de trois amendements, numéros quatre cent quatre-vingt-seize, six cent cinquante et un rectifié et deux cent soixante et onze rectifié, pouvant être soumis à une discussion commune.
+Je suis saisi de trois amendements, numéros quatre cent quatre-vingt-seize six cent cinquante et un rectifié et deux cent soixante et onze rectifié, pouvant être soumis à une discussion commune.
 L’amendement numéro quatre cent quatre-vingt-seize a été défendu, madame Attard… Oui, monsieur le président.
 La parole est à Madame Nathalie Kosciusko-Morizet, pour soutenir l’amendement numéro six cent cinquante et un rectifié.
 Cet amendement concerne le sujet que l’on vient d’évoquer ; je veux, à travers lui, souligner la grande insécurité juridique dans laquelle se trouvent certaines personnes, en dépit des propos de Madame la secrétaire d’État et des assurances du rapporteur.
@@ -386,7 +386,7 @@ L’amendement s’inspire également d’une jurisprudence.
 Le procureur peut d’ores et déjà décider de ne pas engager de poursuites : le droit actuel me semble donc suffire.
 S’agissant de l’amendement numéro deux cent soixante et onze rectifié, autant je puis souscrire à son amorce – «Toute personne qui a tenté de commettre» –, autant les mots suivants – «ou commis» – ne peuvent pas convenir.
 Sous réserve de la suppression de ces mots, l’avis est favorable ; dans le cas contraire, il est défavorable.
-Et sur l’amendement numéro quatre cent quatre-vingt-seize, monsieur le rapporteur ? L’avis étant favorable à l’amendement de Madame Chapdelaine – sous réserve de la rectification proposée –, je suggère le retrait des deux autres amendements en discussion ; faute de quoi l’avis serait défavorable.
+Et sur l’amendement numéro quatre cent quatre-vingt-seize monsieur le rapporteur ? L’avis étant favorable à l’amendement de Madame Chapdelaine – sous réserve de la rectification proposée –, je suggère le retrait des deux autres amendements en discussion ; faute de quoi l’avis serait défavorable.
 La parole est à Madame Nathalie Kosciusko-Morizet.
 Comme on l’a rappelé, nous avons eu, en commission des lois, un débat à la suite duquel j’ai modifié la rédaction de mon amendement initial.
 C’est après vous avoir écouté lors de ce débat, monsieur le rapporteur, que j’ai introduit les mots : «exemptée de poursuites», des juristes m’ayant signalé que cette expression était plus solide juridiquement que l’expression : «exemptée de peine».
@@ -410,12 +410,12 @@ La parole est à Madame Françoise Descamps-Crosnier, pour soutenir l’amendeme
 Cet amendement devrait être plus consensuel puisqu’il vise à instaurer, pour les élèves, la portabilité de leurs données scolaires numériques.
 À la fin de chaque année scolaire, les élèves, s’ils changent d’établissement ou de niveau, peuvent effectivement récupérer tous leurs supports papier.
 Il s’agit d’opérer de manière similaire pour l’espace numérique : il s’agit d’une sorte de continuum éducatif dans le domaine numérique.
-Je suis saisi de deux amendements identiques, numéros quatorze et six cent trente-sept, visant à supprimer l’article vingt et un.
+Je suis saisi de deux amendements identiques, numéros quatorze et six cent trente-sept visant à supprimer l’article vingt et un.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro quatorze.
 Les interrogations de Madame de la Raudière n’ont pas obtenu de réponse.
 Tout le monde nous avait annoncé que le volet économique du présent projet serait traité dans le cadre de la fameuse loi Noé.
 Or Monsieur Macron vient d’annoncer ce matin que les dispositions qui devaient figurer dans celle-ci seraient disséminées dans d’autres textes.
-Nous avons bien compris que le Gouvernement avait un problème dans la mesure où il ne peut faire usage qu’une seule fois par session de l’article quarante-neuf, alinéa trois, de la Constitution, mais nous ne nous ne pouvons pas travailler comme cela.
+Nous avons bien compris que le Gouvernement avait un problème dans la mesure où il ne peut faire usage qu’une seule fois par session de l’article quarante-neuf alinéa trois de la Constitution, mais nous ne nous ne pouvons pas travailler comme cela.
 Je souhaite donc que Madame la secrétaire d’État puisse s’exprimer à ce sujet et nous donner de plus amples informations sur le calendrier.
 On s’aperçoit en effet que celui-ci n’est plus tenable, et que, encore une fois, les engagements pris ne seront pas respectés.
 Comme je l’ai dit en défendant la motion de renvoi en commission, raisonner indépendamment du niveau européen est contre-productif.
@@ -446,7 +446,7 @@ Le projet de loi prévoit bien les cas où la capacité de stockage du nouveau s
 On voit que ce texte va avoir des conséquences négatives sur les petits acteurs en croissance qui vont devoir faire plus d’efforts pour s’adapter.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro sept cent soixante-dix-neuf.
 Il est défendu.
-Je suis saisi de trois amendements, numéros sept cent quatre, six cent quatre-vingt-sept et six cent soixante-seize, pouvant être soumis à une discussion commune.
+Je suis saisi de trois amendements, numéros sept cent quatre six cent quatre-vingt-sept et six cent soixante-seize pouvant être soumis à une discussion commune.
 L’amendement numéro sept cent quatre fait l’objet d’un sous-amendement numéro huit cent soixante-treize.
 La parole est à Monsieur Luc Belot, rapporteur, pour soutenir l’amendement numéro sept cent quatre.
 Je vais prends quelques minutes pour défendre cet amendement : cela nous fera gagner du temps ensuite sur les avis s’agissant des amendements suivants.
@@ -510,7 +510,7 @@ Il a pour objectif de sécuriser les entreprises innovantes sur les données qu�
 C’est un point important.
 Le second tend à limiter la portée de la portabilité en se cadrant sur le règlement des données personnelles.
 Vous avez dit, monsieur le rapporteur, que vous étiez favorable au sous-amendement du Gouvernement.
-Vous êtes, j’imagine, défavorable aux amendements numéros six cent quatre-vingt-sept et six cent soixante-seize, le Gouvernement également.
+Vous êtes, j’imagine, défavorable aux amendements numéros six cent quatre-vingt-sept et six cent soixante-seize le Gouvernement également.
 La parole est à Monsieur Lionel Tardy.
 Il y a une vraie question concernant les données récupérables par l’utilisateur de plateformes qui n’est pas réglée.
 Je comprends la logique pour les données qu’il a lui-même entrées et créées.
@@ -520,7 +520,7 @@ Dans le premier cas, l’utilisateur peut tout à fait être libre de récupére
 Vive la concurrence, dirai-je même.
 Dans le second cas, il y a de la valeur ajoutée.
 Tout ne devrait donc pas être récupérable et aller chez le concurrent.
-Mes amendements numéros quinze et sept cent quatre-vingts, qui vont tomber, proposaient une rédaction alternative.
+Mes amendements numéros quinze et sept cent quatre-vingts qui vont tomber, proposaient une rédaction alternative.
 La parole est à Madame Laure de La Raudière.
 C’est un point vraiment important du titre II.
 C’est pourquoi il faut y passer un peu de temps, nous irons peut-être plus vite par la suite.
@@ -549,12 +549,12 @@ Je suis saisi de deux amendements identiques, numéros six cent quatre-vingt-neu
 La parole est à Madame Corinne Erhel, rapporteure pour avis, pour soutenir l’amendement numéro six cent quatre-vingt-neuf.
 Il s’agit également d’un amendement de clarification juridique.
 La parole est à Monsieur Luc Belot, rapporteur, pour soutenir l’amendement numéro sept cent six.
-Je suis saisi de quatre amendements, numéros six cents, cent dix-sept, trois cent quatre-vingt-dix-huit et quatre cent quatre-vingt-douze, pouvant être soumis à une discussion commune.
+Je suis saisi de quatre amendements, numéros six cents cent dix-sept trois cent quatre-vingt-dix-huit et quatre cent quatre-vingt-douze pouvant être soumis à une discussion commune.
 Les amendements numéros trois cent quatre-vingt-dix-huit et quatre cent quatre-vingt-douze sont identiques.
 La parole est à Monsieur Christian Paul, pour soutenir l’amendement numéro six cents.
 Il est défendu.
 La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent dix-sept.
-Avec votre autorisation, je défendrai en même temps l’amendement numéro quatre cent quatre-vingt-douze, qui porte également sur la nécessité d’informer les usagers afin qu’ils disposent d’un minimum de maîtrise sur leurs données.
+Avec votre autorisation, je défendrai en même temps l’amendement numéro quatre cent quatre-vingt-douze qui porte également sur la nécessité d’informer les usagers afin qu’ils disposent d’un minimum de maîtrise sur leurs données.
 L’utilisateur doit en effet être informé des modalités de stockage de ses fichiers et données, ce qui lui permettra notamment d’exercer une préférence pour les entreprises qui ont choisi de ne pas les conserver dans des États peu respectueux des droits et libertés.
 Le texte actuel sur le règlement des données personnelles ne contient aucune obligation en la matière.
 L’amendement numéro quatre cent quatre-vingt-douze est un amendement de repli, qui vise à limiter l’information au lieu de stockage.
@@ -567,7 +567,7 @@ Il s’agit du domaine harmonisé du règlement.
 Nous avons eu ce débat dans les mêmes termes en commission.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Madame Delphine Batho, pour soutenir l’amendement numéro cinq cent cinquante-neuf.
-L’amendement propose d’aligner les sanctions sur celles que prévoit le nouveau règlement européen relatif à la protection des données personnelles, selon lequel le montant des amendes peut aller jusqu’à quatre % du chiffre d’affaires de la personne morale.
+L’amendement propose d’aligner les sanctions sur celles que prévoit le nouveau règlement européen relatif à la protection des données personnelles, selon lequel le montant des amendes peut aller jusqu’à quatre pourcent du chiffre d’affaires de la personne morale.
 Quel est l’avis de la commission ? Avis défavorable.
 Il faut être en cohérence avec la manière dont on envisage l’intégralité du sujet.
 La protection des données personnelles vise à renforcer la capacité pour les individus d’exercer une maîtrise effective de l’usage des informations identifiantes.
@@ -579,7 +579,7 @@ Puisque l’article vingt et un se situe sur le terrain du droit de la consommat
 Nous débattrons ensuite des sanctions que peut prononcer la CNIL en cas de manquement à la réglementation sur les données personnelles visées par l’amendement.
 La parole est à Madame Delphine Batho.
 Je rappelle qu’il s’agit de sanctionner les manquements commis par des personnes morales aux règles concernant la portabilité des données.
-Infliger une amende de quinze 000 euros à de grands oligopoles est une blague, alors que le règlement européen permet de les sanctionner, dans certains cas, à hauteur de quatre % de leur chiffre d’affaires.
+Infliger une amende de quinze 000 euros à de grands oligopoles est une blague, alors que le règlement européen permet de les sanctionner, dans certains cas, à hauteur de quatre pourcent de leur chiffre d’affaires.
 J’entends votre argumentation sur le code de la consommation, mais je ne suis pas convaincue.
 Je suis saisi de deux amendements identiques, numéros trois cent quatre-vingt-dix-neuf et cinq cent dix-neuf.
 La parole est à Monsieur André Chassaigne, pour soutenir l’amendement numéro trois cent quatre-vingt-dix-neuf.
@@ -594,9 +594,9 @@ Je l’ai déjà signalé tout à l’heure : nous aurons l’air malins quand i
 Le risque auquel nous expose le texte, c’est de contraindre les acteurs français à aller plus vite que leurs voisins européens, ce qui n’a pas d’autre intérêt que de leur mettre un boulet au pied.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro sept cent quatre-vingt-trois portant article additionnel avant l’article vingt-deux.
 L’amendement propose de compléter le titre de la section trois par les mots «et l’information des consommateurs», conformément à une suggestion que m’a faite le rapporteur en commission.
-Je suis saisi de deux amendements identiques, numéros seize et six cent cinquante, visant à supprimer l’article.
+Je suis saisi de deux amendements identiques, numéros seize et six cent cinquante visant à supprimer l’article.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro seize.
-Comme l’article vingt et un, l’article vingt-deux anticipe une future réglementation européenne.
+Comme l’article vingt et un l’article vingt-deux anticipe une future réglementation européenne.
 À l’échelon européen, la réflexion prendra peut-être du temps, mais il ne tient qu’au Gouvernement d’accélérer les négociations.
 Vous pourriez en parler à Harlem Désir, madame la secrétaire d’État.
 Ce n’est pas à la loi française ni aux acteurs français d’expérimenter ce que peut être la future réglementation européenne.
@@ -614,9 +614,9 @@ La parole est à Madame la secrétaire d’État, pour soutenir l’amendement n
 Il est défendu.
 Quel est l’avis de la commission ? Avis favorable.
 Nous avons débattu en commission de l’opportunité de maintenir l’article L.
-111-5 du code de la consommation, notamment en ce qui concerne les comparateurs.
+cent onze-cinq du code de la consommation, notamment en ce qui concerne les comparateurs.
 Il va de soi que la simplification législative ne doit pas offrir l’occasion de revenir sur les obligations qui existent en matière de comparateurs de prix ou de publicité, et qui ne s’appliquent pas aux autres plateformes en ligne.
-Je suis donc favorable à cet amendement de rétablissement, qui justifie trois amendements de conséquence légistique, aux articles vingt-trois, vingt-quatre et quarante-sept, sur lesquels, par souci de cohérence, j’émettrai un avis favorable.
+Je suis donc favorable à cet amendement de rétablissement, qui justifie trois amendements de conséquence légistique, aux articles vingt-trois vingt-quatre et quarante-sept sur lesquels, par souci de cohérence, j’émettrai un avis favorable.
 La parole est à Madame Laure de La Raudière.
 Madame la secrétaire d’État, quand le Gouvernement dépose un amendement qui tend à modifier plusieurs lignes du texte, il est bon de le présenter.
 Puisque le rapporteur l’a fait pour vous, c’est parfait Monsieur le rapporteur, j’ai compris qu’il y avait deux règles à la commission des lois, où j’ai été invitée.
@@ -629,7 +629,7 @@ Une nouvelle fois, j’insiste sur la nécessité d’une seconde lecture, d’a
 Seule une deuxième lecture nous permettrait d’y voir clair dans la politique du Gouvernement sur le numérique.
 Elle permettrait en outre de réfléchir, si vous le souhaitez, à d’autres sujets.
 La parole est à Monsieur Lionel Tardy.
-L’article L.115-1, supprimé en commission, vise les comparateurs et la publicité sur les sites.
+L’article L.cent quinze-un supprimé en commission, vise les comparateurs et la publicité sur les sites.
 Le nouvel article concerne les plateformes de classement, dont relèvent les comparateurs, et les liens capitalistiques et les relations contractuelles, dont la publicité fait partie.
 Je maintiens donc que le nouvel article que vous envisagez de créer recouvre l’ancien – à moins que votre définition de plateforme ne soit à revoir.
 Dans tous les cas, ce n’est pas une bonne chose que de maintenir des obligations différentes pour des sites qui sont des plateformes.
@@ -640,7 +640,7 @@ La parole est à Monsieur Patrice Martin-Lalande, pour soutenir l’amendement n
 Cet amendement a pour objet de préciser que les informations à délivrer au consommateur concernent l’ensemble de celles qui sont décrites au huitième alinéa, et non pas seulement les informations mentionnées dans la deuxième phrase de cet alinéa.
 Pour ce faire, dans la dernière phrase du huitième alinéa, il substitue aux mots «à ce titre», les mots «au titre du présent alinéa».
 Quel est l’avis de la commission ? Je ne peux pas accepter votre amendement pour plusieurs raisons.
-D’abord, vous supprimez la définition de l’opérateur de plateforme en ligne, prévue à l’alinéa cinq, ce qui pose évidemment un problème.
+D’abord, vous supprimez la définition de l’opérateur de plateforme en ligne, prévue à l’alinéa cinq ce qui pose évidemment un problème.
 Je préférerais donc que vous retiriez votre amendement.
 Quel est l’avis du Gouvernement ? Même avis.
 Monsieur Martin-Lalande, retirez-vous votre amendement ? Oui, monsieur le président.
@@ -649,8 +649,8 @@ La distinction entre sites marchands et non marchands me semble délicate à op�
 Appliquer des obligations identiques à toutes les plateformes semble de surcroît dangereux pour celles d’entre elles qui ne font que mettre en relation des particuliers.
 Ce besoin de réguler des entreprises qui fonctionnent, comme BlaBlaCar ou d’autres sites nés en France, est symptomatique d’une certaine vision du numérique.
 Si l’internaute n’est pas satisfait ou estime qu’il est mal informé, il est assez grand pour aller voir ailleurs.
-Je suis saisi de deux amendements, numéros huit cent quatre-vingt-un et huit cent quarante-neuf, pouvant être soumis à une discussion commune.
-L’amendement numéro huit cent quatre-vingt-un fait l’objet de plusieurs sous-amendements, numéros huit cent quatre-vingt-dix-sept, huit cent quatre-vingt-douze et huit cent quatre-vingt-treize.
+Je suis saisi de deux amendements, numéros huit cent quatre-vingt-un et huit cent quarante-neuf pouvant être soumis à une discussion commune.
+L’amendement numéro huit cent quatre-vingt-un fait l’objet de plusieurs sous-amendements, numéros huit cent quatre-vingt-dix-sept huit cent quatre-vingt-douze et huit cent quatre-vingt-treize.
 La parole est à Madame la secrétaire d’État, pour soutenir l’amendement numéro huit cent quatre-vingt-un.
 Cet amendement propose d’opérer une synthèse entre la version initiale du projet de loi sur les obligations de transparence des opérateurs de plateformes et les différentes contributions déposées par le rapporteur et d’autres députés lors des débats en commission des lois.
 Peut-être regrettez-vous, monsieur Tardy, les évolutions de la position gouvernementale.
@@ -661,11 +661,11 @@ Je ne parle pas d’un manque de confiance du Gouvernement envers les opérateur
 Il convient donc de la restaurer.
 La parole est à Madame Karine Berger, pour soutenir le sous-amendement numéro huit cent quatre-vingt-dix-sept.
 J’ai déposé ce sous-amendement avant de constater que nos collègues du groupe écologiste en avaient déposé un autre comportant un objet identique.
-Il s’agit de préciser que les rémunérations visées dans l’amendement du Gouvernement sont à la fois directes et indirectes, en supprimant, à l’alinéa cinq, le mot «directe».
+Il s’agit de préciser que les rémunérations visées dans l’amendement du Gouvernement sont à la fois directes et indirectes, en supprimant, à l’alinéa cinq le mot «directe».
 En effet, madame la secrétaire d’État, dans le cas d’une publicité, le contrat est conclu avec la régie publicitaire, qui perçoit une rémunération, et non avec la personne qui fait l’objet de la publicité.
 Il y a là un vrai problème : en conservant, à l’alinéa cinq de l’amendement, l’expression «rémunération directe», toutes les formes d’intermédiation échapperaient aux obligations fixées.
 Il me semble que nous avons intérêt à conserver une vision large de la rémunération et à supprimer, dans votre amendement – qui opère par ailleurs une grande synthèse – le mot «directe».
-La parole est à Madame Isabelle Attard, pour soutenir les sous-amendements numéros huit cent quatre-vingt-douze et huit cent quatre-vingt-treize, qui peuvent faire l’objet d’une présentation groupée.
+La parole est à Madame Isabelle Attard, pour soutenir les sous-amendements numéros huit cent quatre-vingt-douze et huit cent quatre-vingt-treize qui peuvent faire l’objet d’une présentation groupée.
 Nous avons été alertés par UFC-Que Choisir sur le fait que le signalement des rémunérations indirectes, par exemple via une régie publicitaire, était exclu.
 Le sous-amendement numéro huit cent quatre-vingt-douze vise à corriger cet état de fait.
 La parole est à Madame Karine Berger, pour soutenir l’amendement numéro huit cent quarante-neuf.
@@ -677,7 +677,7 @@ De fait, chaque mot est pesé, et j’ai fait ajouter, à dessein, le mot «dire
 L’enjeu est simple : il faut permettre à l’utilisateur de comprendre effectivement les liens unissant les différents acteurs.
 Les relations indirectes, qu’elles concernent des personnes physiques ou des entreprises, qu’elles soient contractuelles, qu’elles portent sur des prestations ou des services, peuvent être extrêmement solides.
 L’enjeu n’est pas tant de connaître la nature des relations existantes que leur implication dans le classement produit.
-Madame Berger, vous souhaitez, par votre amendement numéro huit cent quarante-neuf, que l’opérateur de la plateforme fasse «apparaître clairement» les informations demandées.
+Madame Berger, vous souhaitez, par votre amendement numéro huit cent quarante-neuf que l’opérateur de la plateforme fasse «apparaître clairement» les informations demandées.
 Votre préoccupation est partagée par Madame Attard.
 Or, je rappelle que les conditions générales d’utilisation sont toujours consultables en ligne.
 Je pense que la précision n’est, en l’occurrence, pas utile.
@@ -687,7 +687,7 @@ La parole est à Madame Corinne Erhel, rapporteure pour avis.
 Je souhaiterais voir substituer, au troisième alinéa de l’amendement, au mot «dispositions» le mot «stipulations», terme adéquat s’agissant d’un contrat, afin de permettre une bonne applicabilité juridique de cette mesure.
 La parole est à Monsieur le rapporteur.
 J’y suis favorable.
-Quel est l’avis du Gouvernement sur ces sous-amendements ? Avis défavorable à l’ensemble des sous-amendements, au profit de l’amendement numéro huit cent quatre-vingt-un, et avis favorable à la rectification proposée par Madame Erhel.
+Quel est l’avis du Gouvernement sur ces sous-amendements ? Avis défavorable à l’ensemble des sous-amendements, au profit de l’amendement numéro huit cent quatre-vingt-un et avis favorable à la rectification proposée par Madame Erhel.
 La parole est à Madame Karine Berger, pour soutenir l’amendement numéro huit cent cinquante-deux.
 Cet amendement porte sur une thématique qui me tient particulièrement à cœur, comme à tous les députés cosignataires.
 Il s’agit de permettre un maximum de pédagogie sur la question de la propriété intellectuelle sur internet.
@@ -706,21 +706,22 @@ Il s’agit d’une approche coopérative qui semble la plus à même d’abouti
 L’objectif partagé est de lutter contre l’utilisation illicite de produits culturels couverts par la propriété intellectuelle.
 La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro trois cent soixante-huit.
 Actuellement, le deuxième alinéa de l’article L.
-111-5-1 du code de la consommation prévoit que l’obligation de délivrer une information loyale, claire et transparente sur la qualité de l’annonceur ne vaut que «lorsque seuls des consommateurs ou des non-professionnels sont mis en relation».
+cent onze-cinq-un du code de la consommation prévoit que l’obligation de délivrer une information loyale, claire et transparente sur la qualité de l’annonceur ne vaut que «lorsque seuls des consommateurs ou des non-professionnels sont mis en relation».
 Il s’agit par cet amendement de généraliser cette obligation à l’ensemble des opérateurs de plateforme en supprimant cette dernière mention.
 En effet, la plupart des plateformes sont mixtes ; la distinction est donc délicate à établir.
 En outre, les droits de l’acheteur sont différents selon qu’il est en relation avec un particulier ou avec un professionnel.
 Quel est l’avis de la commission ? Les professionnels sont déjà soumis, aux termes du code de la consommation, aux dispositions relatives à l’interdiction des pratiques commerciales trompeuses – articles L.
-121-1 à L.
-121-7 –, à la publicité – articles L.
-121-8 à L.
-121-15-4 – et aux contrats conclus à distance – articles L.
-121-16 à L.
+cent vingt et un-un à L.
+cent vingt et un-sept –, à la publicité – articles L.
+cent vingt et un-huit à L.
+cent vingt et un-un5-quatre – et aux contrats conclus à distance – articles L.
+cent vingt et un-un6 à L.
+cent vingt et un-unun9.
 C’est pourquoi la commission a donné un avis défavorable à cet amendement.
 Quel est l’avis du Gouvernement ? Même avis.
 La séance est suspendue.
 La séance est reprise.
-Je suis saisi d’un amendement numéro deux cent cinquante-quatre, portant article additionnel après l’article vingt-deux.
+Je suis saisi d’un amendement numéro deux cent cinquante-quatre portant article additionnel après l’article vingt-deux.
 La parole est à Monsieur Luc Belot, rapporteur, pour le soutenir.
 Il est défendu.
 Quel est l’avis du Gouvernement ? Sagesse.
@@ -737,7 +738,7 @@ C’est une première étape, c’est vrai.
 La coconstruction est nécessaire pour que chacun, à terme, prenne ce problème à bras-le-corps.
 Il n’y a de liberté d’expression sans tolérance.
 La parole est à Madame Sandrine Mazetier.
-Je veux évoquer la série d’amendements portant articles additionnels après l’article vingt-trois, que notre collègue Hervé Féron a initiés.
+Je veux évoquer la série d’amendements portant articles additionnels après l’article vingt-trois que notre collègue Hervé Féron a initiés.
 Ces amendements, notamment celui que Pascal Cherki avait proposé au projet de loi de finances rectificative, ont obtenu l’accord du Gouvernement.
 Je sais d’avance que le Gouvernement nous demandera d’attendre les recommandations du rapport Terrasse… Il faut toujours attendre ! …, dont le débouché légitime était le projet de loi sur les nouvelles opportunités économiques.
 Or nous savons depuis peu que ce projet de loi ne sera pas débattu.
@@ -874,10 +875,10 @@ Tous ces éléments constituent un début de réponse, certainement pas une rép
 Je puis vous assurer que la réflexion au sein du Gouvernement est avancée.
 Comme de très nombreux ministères sont concernés, des réunions interministérielles se tiennent régulièrement à Matignon.
 Nous attendons avec impatience les conclusions du rapport Terrasse pour décider définitivement du régime fiscal qu’il conviendra d’adopter afin de répondre aux préoccupations que vous soulevez, madame Mazetier.
-Bien entendu, nous pensons à la location occasionnelle de logements, notamment à Paris où le taux de fraude par non-déclaration est de l’ordre de cinq à six %.
+Bien entendu, nous pensons à la location occasionnelle de logements, notamment à Paris où le taux de fraude par non-déclaration est de l’ordre de cinq à six pourcent.
 La parole est à Madame Sandrine Mazetier.
 Madame la secrétaire d’État a répondu par anticipation à l’amendement numéro trois cent soixante-dix-huit.
-L’amendement numéro trois cent soixante-seize, lui, vise simplement à obliger le bailleur qui met son logement en location sur une plateforme d’intermédiation – car je ne sais si l’on peut parler de plateforme «collaborative» – justifie de sa qualité de propriétaire.
+L’amendement numéro trois cent soixante-seize lui, vise simplement à obliger le bailleur qui met son logement en location sur une plateforme d’intermédiation – car je ne sais si l’on peut parler de plateforme «collaborative» – justifie de sa qualité de propriétaire.
 On imagine mal une personne mettre en vente une œuvre d’art sans justifier de sa qualité de propriétaire de l’œuvre en question ! Or, à Paris, même des occupants de logements sociaux sous-louent leur logement.
 La parole est à Monsieur Philippe Gosselin.
 Il ne s’agit nullement de rejeter l’économie collaborative.
@@ -886,7 +887,7 @@ J’entends bien que des rapports sont en cours d’élaboration et que, sur ce 
 Mais honnêtement, quelles que soient les conclusions à venir, je ne vois aucun malaise à considérer que la personne qui met un bien à disposition doit en être le propriétaire.
 C’est la moindre des choses ! Sinon, on laisse la porte ouverte à tous les abus.
 Je soutiens l’amendement de Madame Mazetier.
-Nous en venons à votre amendement numéro trois cent soixante-dix-huit, madame Mazetier.
+Nous en venons à votre amendement numéro trois cent soixante-dix-huit madame Mazetier.
 Si je vous entends bien, Madame la secrétaire d’État y a déjà répondu.
 Oui, sachant que cet amendement vise à ce que les plateformes communiquent à l’administration les revenus perçus par les loueurs via le service qu’elles proposent.
 Je ne voudrais pas que l’on considère les plateformes comme des adversaires.
@@ -921,7 +922,7 @@ Il faut le rappeler avec insistance, d’où cette proposition d’instaurer un 
 Le sujet est grave car ce sont des centaines de milliers d’emplois détruits en Europe chaque année et des dizaines de milliards d’euros, ce qui impacte fortement notre économie.
 La relation entre internet et la contrefaçon est pourtant un problème réel.
 J’aurais aimé recevoir quelques signaux de la part du Gouvernement sur ce sujet consensuel.
-Je rappelle que la loi de deux mille huit sur la contrefaçon, dont j’étais le rapporteur, a été adoptée à l’unanimité, tout comme la loi de deux mille quatorze, dont le rapporteur appartenait à la majorité.
+Je rappelle que la loi de deux mille huit sur la contrefaçon, dont j’étais le rapporteur, a été adoptée à l’unanimité, tout comme la loi de deux mille quatorze dont le rapporteur appartenait à la majorité.
 Je pense que sur de tels sujets, nous devons jouer collectif.
 Quel est l’avis de la commission ? Avis défavorable.
 Quel est l’avis du Gouvernement ? Je ne voudrais pas donner l’impression que le Gouvernement ne s’intéresse pas à ces questions, mais si mes réponses sont parfois lacunaires, c’est uniquement parce que, dans l’intérêt commun, j’aimerais que le débat avance.
@@ -968,14 +969,14 @@ Quel est l’avis de la commission ? Adopter cet amendement aurait pour effet d�
 Pour ces raisons, avis défavorable.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro sept cent quatre-vingt-huit.
 J’ai maintenu cet amendement car je ne vois pas pourquoi, alors que vous avez fixé un seuil de connexions dans tous les articles portant sur les plateformes, aucun seuil n’est prévu à l’article vingt-quatre.
-Je suis saisi de l’amendement rédactionnel, numéro deux cent cinquante-sept, de Monsieur Luc Belot, rapporteur.
+Je suis saisi de l’amendement rédactionnel, numéro deux cent cinquante-sept de Monsieur Luc Belot, rapporteur.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro sept cent quatre-vingt-neuf.
 Même si cet article est moins contraignant que les autres, il aurait été préférable de passer par le droit souple s’agissant des avis en ligne.
 Il aurait également été préférable de retenir une approche européenne, et c’est ce à quoi vous invite cet amendement.
 Je rappelle que de nouvelles obligations ont été ajoutées en commission, comme le signalement des avis des voyageurs sur les hôtels.
 Quel est l’intérêt d’une telle disposition si elle n’existe qu’en France, sachant que les avis peuvent être consultés à l’extérieur de nos frontières par les voyageurs internationaux ? On voit tout l’intérêt d’une approche par autorégulation et surtout européenne.
 La parole est à Monsieur André Chassaigne, pour soutenir l’amendement numéro quatre cent soixante-cinq portant article additionnel après l’article vingt-quatre.
-Si vous le permettez, monsieur le président, je défendrai en même temps les amendements suivants, numéros quatre cent deux et quatre cent trois, car ces trois amendements posent la question de la confiance dans le numérique.
+Si vous le permettez, monsieur le président, je défendrai en même temps les amendements suivants, numéros quatre cent deux et quatre cent trois car ces trois amendements posent la question de la confiance dans le numérique.
 L’amendement numéro quatre cent soixante-cinq entend interdire les outils de géolocalisation ayant pour but de proposer une publicité ciblée grâce à la localisation de l’internaute déduite par l’IP tracking.
 L’amendement numéro quatre cent deux vise la suppression de l’IP tracking.
 Enfin, l’amendement numéro quatre cent trois tend à interdire la pratique commerciale consistant à varier les tarifs en fonction des heures de réservation.
@@ -998,7 +999,7 @@ Il a raison, c’est un vrai problème ! Quel est l’avis de la commission ? Av
 Tout le monde a été confronté à ce type de pratique.
 Je suis par ailleurs ravie de voir, monsieur Chassaigne, que vous êtes devenu un grand libéral puisque vous recherchez l’adéquation entre l’offre et la demande.
 (Sourires.) Il a tout de même cité Karl Marx ! Toujours est-il que cet amendement est satisfait parce que l’article L.
-121-1 du code de la consommation établit la liste des pratiques commerciales trompeuses, en incluant l’omission trompeuse.
+cent vingt et un-un du code de la consommation établit la liste des pratiques commerciales trompeuses, en incluant l’omission trompeuse.
 Je vous demande pardon pour le jargon, mais il se trouve que la DGCCRF mène des enquêtes sur cette base juridique qui suffit pleinement à appréhender les phénomènes que vous avez décrits.
 La loi ne doit pas être bavarde, et c’est la raison pour laquelle je demande le retrait de cet amendement que je considère satisfait.
 Monsieur Chassaigne a déjà défendu l’amendement numéro quatre cent deux.
@@ -1045,7 +1046,7 @@ Je suis saisi de deux amendements identiques, numéros deux cent dix-sept rectif
 La parole est à Monsieur André Chassaigne, pour soutenir l’amendement numéro deux cent dix-sept rectifié.
 Il s’agit de compléter, dans le code de la consommation, la liste des informations devant figurer sur le contrat souscrit par un consommateur particulier ou professionnel auprès d’un fournisseur de service de communications électroniques.
 Actuellement, l’article L.
-121-83 prévoit que sont présentées «sous une forme claire, détaillée et aisément accessible» des informations sur les services offerts, leur niveau de qualité et le délai nécessaire pour en assurer la prestation.
+cent vingt et un-quatre-vingt-trois prévoit que sont présentées «sous une forme claire, détaillée et aisément accessible» des informations sur les services offerts, leur niveau de qualité et le délai nécessaire pour en assurer la prestation.
 Cela reste très incomplet.
 Nous proposons donc que le fournisseur informe plus précisément le consommateur sur les débits minimums, moyens et maximums, montants et descendants, tant en matière d’internet fixe que mobile.
 Doivent également être précisées les compensations et formules de remboursement applicables non seulement lorsque le niveau de qualité des services prévu n’est pas atteint, mais aussi lorsque les débits réellement constatés sont en décalage manifeste avec ceux annoncés, notamment dans les documents publicitaires.
@@ -1065,7 +1066,7 @@ Les fournisseurs de service de communications électroniques font souvent appel 
 «Ce que l’on conçoit bien s’énonce clairement, et les mots pour le dire arrivent aisément…» Quel est l’avis de la commission ? Ce débat dure depuis un petit moment, notamment sur l’emploi du terme «fibre» dans les publicités.
 Je vous invite à retirer cet amendement au profit des amendements numéros cent trois rectifié, cinq cent soixante et onze rectifié et cent deux rectifié auxquels je vais donner un avis favorable.
 La parole est à Monsieur Philippe Gosselin.
-Si vous êtes dans de bonnes dispositions, monsieur le rapporteur, je le retire ! Je suis saisi de deux amendements, numéros sept cent quatre-vingt-dix et sept cent quatre-vingt-onze, qui peuvent faire l’objet d’une présentation groupée.
+Si vous êtes dans de bonnes dispositions, monsieur le rapporteur, je le retire ! Je suis saisi de deux amendements, numéros sept cent quatre-vingt-dix et sept cent quatre-vingt-onze qui peuvent faire l’objet d’une présentation groupée.
 La parole est à Monsieur Lionel Tardy, pour les soutenir.
 Ce n’est pas nous pourtant qui sommes revenus dessus quelques mois plus tard, mais le Gouvernement dans le cadre de la loi Macron, après s’être rendu compte que certaines dispositions et certains décrets d’application étaient intenables.
 Aujourd’hui, ce texte continue de poser des problèmes.
@@ -1080,7 +1081,7 @@ On comprend mieux pourquoi cette loi n’est pas appliquée.
 Il est donc temps de la rectifier en votant ces deux amendements.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro sept cent quatre-vingt-douze.
 Il n’y a dans ce projet de loi aucune disposition en faveur du numérique éducatif.
-En revanche, la loi Abeille a prévu, dans son article sept, des dispositions qui tendent à s’y opposer.
+En revanche, la loi Abeille a prévu, dans son article sept des dispositions qui tendent à s’y opposer.
 Ainsi, l’interdiction du wifi dans les établissements accueillant des enfants de moins de trois ans, qui n’a aucune justification sanitaire, prive les crèches du développement d’outils numériques.
 Dans les établissements les plus petits, où les salles ont plusieurs usages, cette interdiction pénaliserait d’ailleurs d’autres classes d’âge.
 Enfin, l’obligation d’informer le conseil d’école est une autre mesure anxiogène et inutile.
@@ -1107,9 +1108,9 @@ J’ai cru comprendre que c’était le cas.
 Madame Berger, l’amendement est-il retiré ou maintenu ? Je vais le retirer en remerciant le Gouvernement car c’est la première fois, sauf erreur de ma part, qu’il est clairement indiqué que le prélèvement doit avoir lieu là où l’utilisation a eu lieu.
 En fiscalité, cela se traduit par le chiffre d’affaires.
 Exactement ! La parole est à Madame Delphine Batho, pour soutenir l’amendement numéro cinq cent soixante-deux.
-Monsieur le président, je propose de défendre en même temps l’amendement numéro cinq cent soixante-quatre à l’article vingt-six, qui en est le complément.
+Monsieur le président, je propose de défendre en même temps l’amendement numéro cinq cent soixante-quatre à l’article vingt-six qui en est le complément.
 Je vous en prie.
-L’article vingt-six, et c’est une avancée considérable, consacre le droit de toute personne à contrôler l’usage des données personnelles qui la concernent.
+L’article vingt-six et c’est une avancée considérable, consacre le droit de toute personne à contrôler l’usage des données personnelles qui la concernent.
 Les deux amendements peuvent paraître avant-gardistes à cet égard, mais sont en réalité très réalistes.
 En effet, on se heurte aujourd’hui à une définition en droit de la donnée à caractère personnel qui repose sur une conception individuelle et qui donc ignore la dimension collective de la protection des données.
 L’amendement numéro cinq cent soixante-deux propose une définition juridique très précise du réseau indivisible de données, et l’amendement numéro cinq cent soixante-quatre fait de ce réseau un bien commun.
@@ -1184,7 +1185,7 @@ Le quatre° de l’article onze dispose que la CNIL joue un rôle d’informatio
 La rédaction de l’article deux9 présente à ce titre une certaine ambiguïté puisque, au titre du f), la CNIL «promeut, dans le cadre de ses missions, l’utilisation des technologies protectrices de la vie privée, notamment les technologies de chiffrement des données».
 S’agit-il de toutes les missions de l’article onze ou des seules missions figurant au quatre° de l’article onze ? Toutes les missions sont concernées.
 Je retire cependant cet amendement, la discussion pouvant se prolonger au Sénat.
-Je suis saisi de deux amendements, numéros sept cent quatre-vingt-quinze et sept cent quatre-vingt-seize, pouvant être soumis à une discussion commune.
+Je suis saisi de deux amendements, numéros sept cent quatre-vingt-quinze et sept cent quatre-vingt-seize pouvant être soumis à une discussion commune.
 La parole est à Monsieur Lionel Tardy, pour les soutenir.
 Les cas de saisine de la CNIL posent un problème de rédaction.
 Une telle distinction n’est pas souhaitable car, comme nous l’avons observé, il serait nécessaire de recueillir l’avis de la commission même sur des textes dont un seul article touche au numérique.
@@ -1236,14 +1237,14 @@ Pour toutes ces raisons, et parce que vous êtes entendue sur le fond, je vous p
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Madame Marie-Anne Chapdelaine.
 Je le retire.
-Je suis saisi de deux amendements, numéros quatre cent six et cinq cent trente-huit, tendant à supprimer l’article vingt-neuf bis.
+Je suis saisi de deux amendements, numéros quatre cent six et cinq cent trente-huit tendant à supprimer l’article vingt-neuf bis.
 La parole est à Monsieur Luc Belot pour soutenir l’amendement numéro quatre cent six.
 Il s’agit d’un amendement de cohérence : les dispositions de l’article vingt-neuf bis ont vocation à figurer à l’article vingt-neuf.
 La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro cinq cent trente-huit.
 Il est défendu.
 Quel est l’avis du Gouvernement ? Avis favorable.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro huit cent un.
-La CNIL aurait trouvé plus logique que les dispositions sur le droit à l’oubli des mineurs figurent dans l’article trente-huit, relatif au droit à rectification, plutôt que dans l’article quarante qui vise le droit d’opposition.
+La CNIL aurait trouvé plus logique que les dispositions sur le droit à l’oubli des mineurs figurent dans l’article trente-huit relatif au droit à rectification, plutôt que dans l’article quarante qui vise le droit d’opposition.
 Cet amendement ne remet pas en cause ce choix, mais a simplement pour objet d’articuler les deux articles.
 Quel est l’avis de la commission ? Avis défavorable.
 Le choix du Gouvernement me paraît plus conforme à nos engagements européens, notamment à l’article dix-sept de la proposition de règlement communautaire.
@@ -1278,7 +1279,7 @@ La parole est à Monsieur Luc Belot, pour soutenir l’amendement numéro quatre
 Il s’agit d’un amendement de précision.
 La parole est à Monsieur Luc Belot, pour soutenir l’amendement numéro quatre cent neuf.
 Il est rédactionnel.
-En est-il de même pour l’amendement numéro quatre cent dix, monsieur Belot ? Oui, monsieur le président.
+En est-il de même pour l’amendement numéro quatre cent dix monsieur Belot ? Oui, monsieur le président.
 Je suis saisi de deux amendements identiques, numéros trois cent quarante et un et quatre cent onze.
 La parole est à Monsieur Philippe Gosselin, pour soutenir l’amendement numéro trois cent quarante et un.
 Il s’agit d’harmoniser l’article trente-deux du présent projet de loi avec l’article 7trente-deux du code civil pour la définition du conjoint successible.
@@ -1294,7 +1295,7 @@ Je serai favorable à ce dernier amendement sous réserve de l’adoption du sou
 Je pense que cela vous satisfera sur le fond.
 Je remercie Lionel Tardy pour la rédaction retenue.
 Que décidez-vous, madame Karamanli ? Je retire mon amendement.
-Je suis saisi d’un amendement numéro huit cent quatre-vingt-six, qui fait l’objet d’un sous-amendement numéro huit cent quatre-vingt-sept.
+Je suis saisi d’un amendement numéro huit cent quatre-vingt-six qui fait l’objet d’un sous-amendement numéro huit cent quatre-vingt-sept.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement.
 Il est défendu, monsieur le président.
 La parole est à Monsieur Luc Belot, pour soutenir le sous-amendement numéro huit cent quatre-vingt-sept.
@@ -1339,7 +1340,7 @@ L’amendement numéro deux cent quatre-vingt-cinq est ainsi rectifié.
 La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro sept rectifié.
 Cet amendement a le même objet que celui de Madame Chapdelaine.
 Cependant, aux termes de notre amendement, les associations devront être déclarées depuis deux ans pour exercer l’action de groupe.
-Je suis saisi de plusieurs amendements, numéros deux cent soixante-neuf rectifié, cent quatre-vingt-trois, trente-neuf, quatre-vingt-dix, trois cent quarante-deux et cinq cent quatre-vingt-quinze, pouvant être soumis à une discussion commune.
+Je suis saisi de plusieurs amendements, numéros deux cent soixante-neuf rectifié, cent quatre-vingt-trois trente-neuf quatre-vingt-dix trois cent quarante-deux et cinq cent quatre-vingt-quinze pouvant être soumis à une discussion commune.
 La parole est à Madame Karine Berger, pour soutenir l’amendement numéro deux cent soixante-neuf rectifié, qui fait l’objet d’un sous-amendement numéro huit cent soixante-sept du Gouvernement.
 Nous avons commencé à travailler sur cet amendement en commission des lois.
 Il est cosigné par l’ensemble des membres du groupe socialiste, républicain et citoyen.
@@ -1347,7 +1348,7 @@ Il vise à donner à la CNIL les moyens de lutter véritablement contre les manq
 Dans la situation actuelle, les sanctions que peut infliger la CNIL sont très faibles au regard des moyens dont disposent les acteurs qui lui font face.
 La Commission européenne réfléchit actuellement à autoriser, dans les mois qui viennent, la CNIL et ses homologues des autres pays de l’Union européenne à prononcer des sanctions pécuniaires beaucoup plus élevées.
 Aux termes de cet amendement, le contrevenant pourra être sanctionné à hauteur de vingt millions d’euros – montant beaucoup plus élevé qu’à l’heure actuelle.
-Le montant maximum de la sanction pour les entreprises pourra atteindre quatre % de leur chiffre d’affaires.
+Le montant maximum de la sanction pour les entreprises pourra atteindre quatre pourcent de leur chiffre d’affaires.
 Je rappelle que les entreprises à qui l’on a affaire sont du genre de celles que l’on regroupe sous le nom de GAFA – Google, Amazon, Facebook, Apple –, dont la capitalisation boursière peut atteindre six cents milliards de dollars.
 La parole est à Madame la secrétaire d’État, pour soutenir le sous-amendement numéro huit cent soixante-sept.
 Il s’agit des sanctions qui peuvent être prononcées par la CNIL en cas de manquement à la réglementation relative aux données personnelles.
@@ -1382,12 +1383,12 @@ Condamner des entreprises telles que les GAFA à des amendes de cent cinquante 0
 Mais qui peut le plus peut le moins : il me semble donc très pertinent de relever le niveau maximum des sanctions.
 J’avais moi aussi proposé, en commission, d’élever ces montants jusqu’à plusieurs dizaines de millions d’euros.
 On nous avait demandé de retirer ces amendements, ce qui m’a conduit à proposer de multiplier par dix les montants actuels, au moins pendant la période transitoire.
-Ce qu’il faut à tout prix éviter, c’est que la période 2016-2018 soit une «période grise».
+Ce qu’il faut à tout prix éviter, c’est que la période deux mille seize-deux mille dix-huit soit une «période grise».
 De ce point de vue, la proposition du Gouvernement me paraît aller dans le bon sens ; je retire donc mon amendement.
 La parole est à Monsieur Christian Paul, pour soutenir l’amendement numéro cinq cent quatre-vingt-quinze.
 Nous serons unanimes, je pense, à soutenir la diplomatie numérique de la France, en tout cas celle de Madame la secrétaire d’État – ce qui revient au même.
-Aux termes du compromis européen, le plafond de l’amende s’établit à quatre % du chiffre d’affaires et vingt millions d’euros ; c’est en tout cas ainsi que je l’ai présenté dans l’exposé sommaire de mon amendement.
-Toutefois, un taux de deux % du chiffre d’affaires et un montant de dix millions d’euros représentent déjà une avancée considérable, qui donnera à la CNIL des moyens de pression.
+Aux termes du compromis européen, le plafond de l’amende s’établit à quatre pourcent du chiffre d’affaires et vingt millions d’euros ; c’est en tout cas ainsi que je l’ai présenté dans l’exposé sommaire de mon amendement.
+Toutefois, un taux de deux pourcent du chiffre d’affaires et un montant de dix millions d’euros représentent déjà une avancée considérable, qui donnera à la CNIL des moyens de pression.
 À en juger par l’expression des collaborateurs de Madame la secrétaire d’État, mes informations étaient sans doute erronées ; quoi qu’il en soit, nous pouvons nous accorder sur les chiffres que je viens de rappeler.
 En effet, la sanction commence à devenir sérieuse.
 Tout ayant été dit sur le fond, je n’en rajoute pas.

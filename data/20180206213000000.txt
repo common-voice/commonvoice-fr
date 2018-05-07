@@ -1,5 +1,5 @@
 La séance est ouverte.
-L’ordre du jour appelle la suite de la discussion du projet de loi relatif à la protection des données personnelles (numéros quatre cent quatre-vingt-dix, cinq cent quatre-vingt-douze, cinq cent soixante-dix-neuf).
+L’ordre du jour appelle la suite de la discussion du projet de loi relatif à la protection des données personnelles (numéros quatre cent quatre-vingt-dix cinq cent quatre-vingt-douze cinq cent soixante-dix-neuf).
 Cet après-midi, l’Assemblée a entendu tous les orateurs inscrits dans la discussion générale.
 La parole est à Madame la garde des sceaux, ministre de la justice.
 Peut-être commencerai-je par reconnaître un désaccord substantiel avec Monsieur Prud’homme sur les modalités même du règlement général sur la protection des données – RGPD.
@@ -17,19 +17,19 @@ La rapporteure formulera en ce sens une proposition que nous examinerons avec la
 Nous convenons qu’il s’agit d’un point nodal, mais, entre les propositions du RGPD et les évolutions suggérées par la rapporteure, nous devrions trouver une solution satisfaisante.
 Monsieur Rebeyrotte, vous êtes revenu sur plusieurs sujets que nous avions abordés en commission et c’est à peine si, à la tribune, vous avez eu le temps de poser quatre questions.
 Vous demandez en premier lieu quels seront les nouveaux moyens de la Commission nationale de l’informatique et des libertés – CNIL.
-La CNIL a vu son plafond d’emplois s’élever, entre deux mille dix et deux mille dix-sept, de cent quarante à cent quatre-vingt-dix-huit emplois, de même qu’elle s’est vu attribuer des crédits supplémentaires.
+La CNIL a vu son plafond d’emplois s’élever, entre deux mille dix et deux mille dix-sept de cent quarante à cent quatre-vingt-dix-huit emplois, de même qu’elle s’est vu attribuer des crédits supplémentaires.
 Mais peut-être n’est-ce pas ici le lieu d’en discuter : cela devra être débattu lors de l’examen du projet de loi de finances.
 Vous posez aussi la question essentielle de l’accompagnement des entreprises.
 Comme vous le savez, différents dispositifs ont été prévus par le texte.
 Par ailleurs, la chancellerie comme la CNIL ont d’ores et déjà adopté une série de dispositions très concrètes pour communiquer avec les entreprises sur les nouvelles obligations qui leur seraient imposées.
 Nous espérons que l’ensemble de ces dispositifs constituera un accompagnement suffisant.
 En troisième lieu, vous vous êtes interrogé sur le droit à l’oubli post mortem.
-L’article 40-1 prévoit ainsi que «Les droits ouverts à la présente section s’éteignent au décès de leur titulaire».
+L’article quarante-un prévoit ainsi que «Les droits ouverts à la présente section s’éteignent au décès de leur titulaire».
 Nous espérons que ces dispositifs – mais il en existe d’autres – répondront à vos interrogations.
 J’en viens à votre quatrième question – pardonnez-moi de répondre brièvement, je ne voudrais pas être trop longue.
 Il s’agissait des délais pour l’ordonnance.
-Celle-ci sera prise d’ici à la fin du mois d’octobre deux mille dix-huit.
-Comme je l’ai dit à l’instant, son seul objet est de clarifier la rédaction de la loi de mille neuf cent soixante-dix-huit, sans modifier le fond du texte que vous allez voter.
+Celle-ci sera prise d’ici à la fin du mois d’octobre 20un8.
+Comme je l’ai dit à l’instant, son seul objet est de clarifier la rédaction de la loi de un978, sans modifier le fond du texte que vous allez voter.
 Il s’agit d’une simple réécriture.
 Monsieur Gosselin, vous avez eu une très belle expression, en disant qu’après de longues années de travail, «le fruit est plutôt beau».
 Sans verser dans la satisfaction abusive, j’avoue que l’enfant qui nous est présenté est ma foi plutôt bien tourné.
@@ -161,7 +161,7 @@ Je vous demande donc de retirer votre amendement.
 Quel est l’avis du Gouvernement ? Même avis.
 Madame Valetta Ardisson, retirez-vous votre amendement ? Oui, madame la présidente.
 La parole est à Madame Danièle Obono, pour soutenir l’amendement numéro trente-neuf.
-Dans son avis du trente novembre deux mille dix-sept, la CNIL regrette que l’objet des règlements types prévus à l’article 1ierdu projet de loi soit limité à la seule sécurité des systèmes.
+Dans son avis du trente novembre deux mille dix-sept la CNIL regrette que l’objet des règlements types prévus à l’article unierdu projet de loi soit limité à la seule sécurité des systèmes.
 En effet, d’autres dimensions de la protection des données, notamment en matière de finalité, de minimisation des données ou de respect des droits, devraient faire l’objet d’un encadrement par des règles de fond et pas uniquement des règles de sécurité.
 Le quatre.
 de l’article neuf du règlement prévoit une telle marge de manœuvre.
@@ -193,7 +193,7 @@ Ainsi, celle-ci sera saisie pour avis avant toute mise en œuvre d’un tel trai
 Il n’est donc pas exact de soutenir que des fichiers tels que le fichier national automatisé des empreintes génétiques – FNAEG – ou le fichier des titres électroniques sécurisés – TES – pourraient désormais être créés sans cadrage de la CNIL.
 Le Gouvernement est donc défavorable à l’amendement numéro trente-huit.
 La parole est à Monsieur Jean-Paul Dufrègne, pour soutenir l’amendement identique numéro cent onze.
-À ce titre, elle peut prescrire des mesures techniques et organisationnelles supplémentaires pour le traitement des données biométriques, génétiques et de santé, conformément à l’article neuf du règlement européen, et des données relatives aux infractions pénales, conformément à l’article dix du même règlement.
+À ce titre, elle peut prescrire des mesures techniques et organisationnelles supplémentaires pour le traitement des données biométriques, génétiques et de santé, conformément à l’article neuf du règlement européen, et des données relatives aux infractions pénales, conformément à l’article un0 du même règlement.
 L’alinéa onze exclut ces mesures supplémentaires pour les traitements mis en œuvre pour le compte de l’État agissant dans l’exercice de ses prérogatives de puissance publique.
 Le présent amendement vise à supprimer cette exception, compte tenu de la nécessité d’encadrer strictement le traitement des données sensibles.
 Et quelle est la question ? Quel est l’avis de la commission ? Avis défavorable.
@@ -206,17 +206,17 @@ Le contrôle a posteriori qui est envisagé n’est clairement pas satisfaisant.
 Nous pensons qu’il faut observer un principe de précaution dans ce domaine.
 La CNIL doit pouvoir se saisir du sujet sans que les prérogatives de puissance publique ne fassent l’objet d’une exception.
 La parole est à Madame Christine Hennion au nom de la commission des affaires européennes, pour soutenir l’amendement n° cent quatre-vingt-un.
-Avant de le soutenir, j’évoquerai brièvement l’amendement numéro cent soixante-dix-neuf, tombé en raison de la nouvelle rédaction de l’alinéa six qui vient d’être adoptée.
+Avant de le soutenir, j’évoquerai brièvement l’amendement numéro cent soixante-dix-neuf tombé en raison de la nouvelle rédaction de l’alinéa six qui vient d’être adoptée.
 Il visait à favoriser l’innovation et rassurer les dirigeants de start-up et de petites entreprises innovantes, qui s’inquiètent de ne pas disposer d’un cadre d’expérimentation.
 La CNIL doit se concentrer sur ces petites entreprises et en faire sa priorité.
 Il importe qu’elle le fasse et qu’elle le fasse savoir.
-L’amendement numéro cent quatre-vingt-un, comme plusieurs autres que j’ai déposés, porte sur la médiation.
+L’amendement numéro cent quatre-vingt-un comme plusieurs autres que j’ai déposés, porte sur la médiation.
 La CNIL a reçu l’an dernier sept 000 plaintes et n’a adressé que vingt-cinq mises en demeure.
 Elle a donc un exercice du droit assez souple, mais il serait bon d’écrire dans la loi que la CNIL met en œuvre une certaine médiation.
 C’est l’objet de cet amendement, qui sera complété par deux autres que je présenterai ultérieurement.
 Quel est l’avis de la commission ? S’agissant de l’expérimentation, je partage votre préoccupation, mais le règlement européen ne nous laisse pas cette latitude.
 Nous avons néanmoins prévu des garanties pour les PME, qui peut-être seront applicables à ces start-up innovantes qui vous tiennent à cœur.
-S’agissant de l’amendement numéro cent quatre-vingt-un, faire jouer à la CNIL un rôle de médiation pose problème.
+S’agissant de l’amendement numéro cent quatre-vingt-un faire jouer à la CNIL un rôle de médiation pose problème.
 En effet, un tel rôle doit être exercé par un tiers ; or la CNIL participe à l’instruction de la plainte.
 Mener conjointement l’instruction et la médiation la placerait en situation d’être à la fois juge et partie.
 Nous ne pouvons donc pas être favorables à cet amendement, mais le serons peut-être à d’autres, relatifs à la sensibilisation à la médiation, que nous examinerons plus tard.
@@ -250,7 +250,7 @@ Dans la même logique, nous proposons d’élargir aux présidents de groupes pa
 Le pluralisme des débats, et donc la démocratie, en seront renforcés.
 En revanche, un élargissement nous paraît judicieux.
 En commission, nous avions d’ailleurs déjà ouvert cette possibilité aux présidents de commission.
-Nous sommes donc défavorables à l’amendement numéro quarante, mais favorables au numéro cent quatre rectifié, qui a l’avantage d’ouvrir la possibilité de saisine à l’opposition.
+Nous sommes donc défavorables à l’amendement numéro quarante mais favorables au numéro cent quatre rectifié, qui a l’avantage d’ouvrir la possibilité de saisine à l’opposition.
 Très bien ! Quel est l’avis du Gouvernement ? En effet, les possibilités de saisine de la CNIL ont déjà été élargies en commission.
 Je suis favorable à l’amendement numéro cent quatre rectifié de Monsieur Peu, parce que l’élargissement de la saisine aux présidents de groupes parlementaires est envisageable.
 En revanche, l’autre amendement est trop large : comme l’a expliqué Madame la rapporteure, la CNIL risquerait d’être noyée sous des saisines multiples.
@@ -289,8 +289,8 @@ Or, le Conseil national du numérique, indépendamment de ses soucis actuels, n�
 Vous avez donc raison, mais partiellement.
 J’aimerais que puisse être actée la capacité, somme toute raisonnable, de la CNIL à saisir d’autres instances.
 Monsieur Gosselin, Madame Le Grip, maintenez-vous vos amendements ? Oui.
-Nous en venons aux amendements portant articles additionnels après l’article 1ier.
-La parole est à Madame Danièle Obono, pour soutenir l’amendement numéro quarante et un.
+Nous en venons aux amendements portant articles additionnels après l’article unier.
+La parole est à Madame Danièle Obono, pour soutenir l’amendement numéro 4un.
 Au-delà de la fracture numérique qui a été dénoncée par le Défenseur des droits, la connaissance par chaque citoyen et citoyenne de ses droits et libertés en matière d’informatique et de numérique nous paraît indispensable aujourd’hui.
 La loi actuelle reste en effet trop vague.
 L’article onze de la loi de mille neuf cent soixante-dix-huit dispose seulement que la CNIL «informe toutes les personnes concernées».
@@ -326,7 +326,7 @@ Il s’agit pour nous d’un sujet très fort.
 En effet, dès lors que nous voulons dématérialiser davantage de procédures, il convient d’en assurer les conditions de fiabilité, pour l’État, pour nos concitoyens et pour les entreprises.
 Sur le second point qui concerne les sociétés commerciales, le RGPD et la directive que nous transposons viennent, je crois, répondre à vos préoccupations.
 À travers les dispositions de ce projet de loi, le Gouvernement entend encadrer le traitement de données biométriques par les entreprises privées.
-L’article 1ier que votre assemblée a déjà adopté précise que la CNIL peut prescrire des mesures techniques et organisationnelles supplémentaires pour le traitement des données biométriques, génétiques et de santé.
+L’article unier que votre assemblée a déjà adopté précise que la CNIL peut prescrire des mesures techniques et organisationnelles supplémentaires pour le traitement des données biométriques, génétiques et de santé.
 Il s’agit là d’autant d’informations que nos smartphones ou nos montres connectées récoltent quotidiennement.
 Le RGPD lui-même impose la réalisation d’une analyse d’impact ou une consultation de la CNIL préalablement au traitement de ces données dont je mesure pleinement la sensibilité.
 Pour l’ensemble de ces raisons, j’émets un avis défavorable sur votre amendement.
@@ -438,7 +438,7 @@ La parole est à Madame Danièle Obono.
 Si nous déplorons les avis défavorables sur cet amendement, nous nous félicitons cependant qu’il ait au moins pu permettre que d’autres amendements favorisant la transparence soient déposés.
 La séance est suspendue.
 La séance est reprise.
-Je suis saisie d’un amendement, numéro cinquante-quatre, portant article additionnel après l’article deux.
+Je suis saisie d’un amendement, numéro cinquante-quatre portant article additionnel après l’article deux.
 La parole est à Monsieur Loïc Prud’homme, pour le soutenir.
 Les données classifiées comme sensibles ou personnelles le sont pour des raisons de confidentialité d’une part, et de lutte contre les discriminations d’autre part, les deux impératifs ne s’excluant pas l’un l’autre.
 Or de nombreuses données sensibles sont ainsi classifiées car elles sont habitées de significations sociales particulières et qu’elles peuvent entraîner un traitement différencié défavorable.
@@ -498,7 +498,7 @@ Elle ne nous semble donc rien moins qu’impérieuse.
 Avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 Outre les arguments que vient de développer Madame la rapporteure, l’amendement subordonnerait les pouvoirs de contrôle de la CNIL à la possibilité d’informer réellement la personne concernée, une possibilité qui peut dans certains cas se révéler irréalisable.
-En témoigne l’article quatorze, paragraphe cinq, du règlement, relatif aux dérogations aux informations à fournir lorsque les données à caractère personnel n’ont pas été collectées auprès de la personne concernée.
+En témoigne l’article quatorze paragraphe cinq du règlement, relatif aux dérogations aux informations à fournir lorsque les données à caractère personnel n’ont pas été collectées auprès de la personne concernée.
 En outre, l’amendement donnerait lieu, en pratique, à l’information des personnes concernées sur les contrôles effectués par la CNIL, alors même que de nombreuses organisations et entreprises souhaitent que soit préservée la confidentialité des contrôles avant qu’une sanction ne soit prise.
 La parole est à Monsieur Jean-Louis Masson, pour soutenir l’amendement numéro soixante-seize.
 L’article quatre-vingt-dix du RGPD permet de ne plus rendre le secret professionnel opposable aux agents des autorités de contrôle nationales.
@@ -516,7 +516,7 @@ Avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 La possibilité de lever le secret médical nous semble très importante afin d’assurer l’effectivité des contrôles de la CNIL.
 La CNIL pourra par conséquent, me semble-t-il, s’assurer du respect de la loi et du règlement lorsque les traitements contiennent des données de santé.
-Je suis saisie de deux amendements, numéros vingt-quatre et cent soixante-deux, pouvant être soumis à une discussion commune.
+Je suis saisie de deux amendements, numéros vingt-quatre et cent soixante-deux pouvant être soumis à une discussion commune.
 La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro vingt-quatre.
 Cet amendement s’inscrit dans le droit-fil de celui que je viens de défendre.
 Je ne m’attends donc pas à ce qu’il reçoive un avis favorable, mais je vais tout de même le présenter.
@@ -593,7 +593,7 @@ Il est défendu.
 Par ailleurs, la révélation d’une information est punie d’un an d’emprisonnement de quinze 000 euros d’amende, conformément aux dispositions du code pénal.
 Avis défavorable.
 La parole est à Madame Paula Forteza, pour soutenir l’amendement numéro cent vingt-quatre.
-Avec cet amendement, je souhaite évoquer la question des modalités de contrôle a posteriori des fichiers de sûreté qui, bien que soumis aux dispositions de la loi de mille neuf cent soixante-dix-huit, ne relèvent pas du contrôle de la CNIL.
+Avec cet amendement, je souhaite évoquer la question des modalités de contrôle a posteriori des fichiers de sûreté qui, bien que soumis aux dispositions de la loi de mille neuf cent soixante-dix-huit ne relèvent pas du contrôle de la CNIL.
 Il me semble que la règle du tiers service qui nous avait été opposée en commission n’est pas suffisante, puisque la CNIL peut d’ores et déjà accéder au contenu de ces fichiers par le biais de l’exercice du droit d’accès indirect.
 Il ne me semble pas que cette possibilité nuise à la coopération internationale ni à nos services de renseignement.
 Cet amendement vient combler un vide, que le contrôle a priori opéré par la Commission nationale de contrôle des techniques de renseignement – CNCTR – au moment de la mise en œuvre des techniques de renseignement ne suffit pas à combler.
@@ -658,7 +658,7 @@ La CNCTR s’occupe des techniques par le biais desquelles les fichiers sont ali
 Le président de la CNCTR lui-même nous a dit ne pas avoir les compétences pour juger du respect de la protection des données personnelles dans ce champ.
 Je voudrais remercier tous mes collègues d’avoir nourri ce débat ; c’est exactement ce genre de discussion que je voulais provoquer.
 J’invite à poursuivre la réflexion.
-C’est la rapporteure qui a raison ! La parole est à Monsieur Loïc Prud’homme, pour soutenir l’amendement numéro quarante-neuf, portant article additionnel après l’article quatre.
+C’est la rapporteure qui a raison ! La parole est à Monsieur Loïc Prud’homme, pour soutenir l’amendement numéro quarante-neuf portant article additionnel après l’article quatre.
 Avec cet amendement, la France insoumise se veut une nouvelle fois force de proposition.
 Nous désirons créer un système de contrôle social et citoyen de l’effectivité des missions d’inspection et de contrôle réalisées par la CNIL.
 La commission que nous proposons de mettre en place sera non permanente, composée de dix députés, dix sénateurs, dix experts et dix citoyens tirés au sort sur la base du volontariat.
@@ -684,8 +684,8 @@ La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro
 L’alinéa sept de cet article dispose que la CNIL sera amenée à coopérer avec les autorités de contrôle des autres États membres de l’Union européenne.
 Ce sera l’assurance, pour les utilisateurs européens, que leurs données seront protégées en Europe et dans le monde, car les règles de protection des données s’appliqueront à tous, entreprises comme particuliers.
 Dans un monde où les frontières s’atténuent, où la guerre économique est une réalité, où les données personnelles représentent une manne financière, il est important de s’armer.
-Vous me direz que l’article 1cinq en traite déjà puisque les données qui représentent un risque pour la sécurité nationale, la défense nationale ou la sécurité publique ne seront pas divulguées.
-Certes, mais je voudrais ajouter ce principe de précaution dans l’article cinq, particulièrement depuis que j’ai lu l’intervention de Monsieur Alexandre Laurent à l’occasion du premier forum parlementaire de l’intelligence artificielle.
+Vous me direz que l’article quinze en traite déjà puisque les données qui représentent un risque pour la sécurité nationale, la défense nationale ou la sécurité publique ne seront pas divulguées.
+Certes, mais je voudrais ajouter ce principe de précaution dans l’article cinq particulièrement depuis que j’ai lu l’intervention de Monsieur Alexandre Laurent à l’occasion du premier forum parlementaire de l’intelligence artificielle.
 Il disait : «Il faut faire attention quand nous légiférons.
 Le règlement [sur la protection des données] et les règlements européens qui arrivent sont en réalité un Munich numérique.
 Nous donnons un monopole pour très longtemps aux géants californiens et chinois.
@@ -706,7 +706,7 @@ Ce n’est pas en restant seul que l’on se protège.
 Tous les mécanismes de coopération, encadrés bien entendu, sont à privilégier.
 La parole est à Monsieur Ugo Bernalicis, pour soutenir l’amendement numéro quarante-cinq.
 Quel est l’avis de la commission ? Nous en avons déjà discuté en commission, laquelle a rejeté cet amendement.
-Ces opérations devant être mises en place très rapidement et la CNIL ayant déjà indiqué qu’elle participerait régulièrement à ce genre d’activités du fait de son leadership dans le groupe G vingt-neuf, l’avis est défavorable.
+Ces opérations devant être mises en place très rapidement et la CNIL ayant déjà indiqué qu’elle participerait régulièrement à ce genre d’activités du fait de son leadership dans le groupe G vingt-neuf l’avis est défavorable.
 Quel est l’avis du Gouvernement ? Le fait que le président de la CNIL habilite les agents des autorités de contrôle étrangères dans le cadre de la procédure de coopération apparaît suffisant.
 Il convient de souligner que, dans le cadre de la procédure de coopération instituée par le règlement, c’est l’autorité de contrôle étrangère qui propose les agents pouvant être habilités à assister les membres et les agents de la CNIL.
 Par conséquent, mobiliser l’ensemble de la formation plénière est inutile pour cette habilitation.
@@ -745,7 +745,7 @@ La parole est à Monsieur Thibault Bazin, pour soutenir l’amendement numéro s
 L’article six du présent projet de loi énonce les sanctions prises par la CNIL en cas de méconnaissance par le responsable de traitement ou le sous-traitant de ses obligations découlant du règlement ou de la loi.
 Il prévoit notamment une injonction, éventuellement assortie d’une astreinte pouvant atteindre cent 000 euros par jour.
 Or, si le règlement européen prévoit bien une injonction, il ne prévoit pas d’astreinte.
-Par ailleurs, le seuil des sanctions pécuniaires pouvant être prononcées par la CNIL a été considérablement relevé, puisqu’il peut atteindre vingt millions d’euros ou quatre % du chiffre d’affaires annuel mondial d’une entreprise.
+Par ailleurs, le seuil des sanctions pécuniaires pouvant être prononcées par la CNIL a été considérablement relevé, puisqu’il peut atteindre vingt millions d’euros ou quatre pourcent du chiffre d’affaires annuel mondial d’une entreprise.
 Dès lors, l’ajout d’une sanction pécuniaire supplémentaire sous forme d’astreinte paraît excessif ; elle constituerait une spécificité française pouvant nuire à l’attractivité de la France et dissuader les entreprises de s’y installer.
 Tel est le sens de cet amendement.
 Quel est l’avis de la commission ? L’astreinte constitue un pouvoir de dissuasion important face à des manquements susceptibles de porter atteinte aux droits des personnes concernées ; nous souhaitons donc la maintenir.
@@ -758,7 +758,7 @@ Nous pensons donc qu’il faut la supprimer et, par conséquent, supprimer l’a
 Quel est l’avis de la commission ? Nous avons déjà eu cette discussion il y a quelques instants ; avis défavorable.
 Quel est l’avis du Gouvernement ? Avis défavorable également.
 La parole est à Monsieur Philippe Gosselin.
-Le RGPD prévoit en effet des sanctions pouvant s’élever de dix 000 à vingt 000 euros ou, dans le cas d’une entreprise, jusqu’à deux % à quatre % du chiffre d’affaires annuel mondial total de l’exercice précédent.
+Le RGPD prévoit en effet des sanctions pouvant s’élever de dix 000 à vingt 000 euros ou, dans le cas d’une entreprise, jusqu’à deux pourcent à quatre pourcent du chiffre d’affaires annuel mondial total de l’exercice précédent.
 Nous nous appuyons sur ces chiffres pour l’échelle de la récidive.
 C’est l’une des compétences dont l’organe législatif européen ne s’est pas saisi, et donc une possibilité pour notre Assemblée de rendre ces sanctions réellement dissuasives.
 Le principe est clair : peu importe la taille de l’entreprise, en cas de récidive, la sanction doit être doublée.

@@ -1,5 +1,5 @@
 La séance est ouverte.
-L’ordre du jour appelle la suite de la discussion du projet de loi relatif à la protection des données personnelles (numéros quatre cent quatre-vingt-dix, cinq cent quatre-vingt-douze, cinq cent soixante-dix-neuf).
+L’ordre du jour appelle la suite de la discussion du projet de loi relatif à la protection des données personnelles (numéros quatre cent quatre-vingt-dix cinq cent quatre-vingt-douze cinq cent soixante-dix-neuf).
 Cet après-midi, l’Assemblée a poursuivi la discussion des articles, s’arrêtant à l’amendement numéro cent trente-quatre portant article additionnel après l’article treize.
 La parole est à Madame Paula Forteza, rapporteure de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, pour soutenir l’amendement numéro cent trente-quatre.
 Nous avons réfléchi à la façon de mieux protéger les données scolaires.
@@ -36,7 +36,7 @@ Si les données personnelles récoltées dans le cadre scolaire ne sont pas des 
 Il s’agit d’un investissement à très long terme.
 La parole est à Monsieur Rémy Rebeyrotte, pour soutenir l’amendement numéro cent soixante-sept rectifié.
 Il est défendu.
-Je suis saisie de deux amendements, numéros soixante-deux et soixante-quinze, pouvant être soumis à une discussion commune.
+Je suis saisie de deux amendements, numéros soixante-deux et soixante-quinze pouvant être soumis à une discussion commune.
 La parole est à Monsieur Loïc Prud’homme, pour soutenir l’amendement numéro soixante-deux.
 Le Gouvernement ne semble pas décidé à utiliser tous les outils que lui procure la réglementation européenne, en particulier le règlement général de protection des données, qu’il s’agit pourtant ici de transposer dans le droit national.
 Se profile donc un risque important d’ouverture sauvage des données, sans même que la CNIL n’ait son mot à dire.
@@ -59,11 +59,11 @@ Avis défavorable aux deux amendements.
 Quel est l’avis du Gouvernement ? Avis défavorable, pour les raisons exposées précédemment.
 La parole est à Madame Sarah El Haïry.
 Pour éviter le rejet de cet amendement, et en cohérence avec les positions de mon collègue, Monsieur Latombe, qui en est l’auteur, je le retire.
-Je suis saisie de quatre amendements, numéros quatre-vingt-six, quatre-vingt-onze, quatre-vingt-douze et cent quatre-vingt-quatre, pouvant être soumis à une discussion commune.
+Je suis saisie de quatre amendements, numéros quatre-vingt-six quatre-vingt-onze quatre-vingt-douze et cent quatre-vingt-quatre pouvant être soumis à une discussion commune.
 La parole est à Monsieur Erwan Balanant, pour soutenir l’amendement numéro quatre-vingt-six.
 Cet amendement vise à intégrer la définition du consentement donnée par la CNIL et le groupe de travail de l’article vingt-neuf sur la protection des données – Gvingt-neuf.
 Il vise à définir les qualités essentielles que doit revêtir le consentement au traitement des données personnelles : la loyauté, le caractère volontaire, libre, spécifique et informé.
-Le consentement doit être délivré de manière libre et spécifique, comme le réaffirme la CNIL dans l’article six de la norme simplifiée NS-48.
+Le consentement doit être délivré de manière libre et spécifique, comme le réaffirme la CNIL dans l’article six de la norme simplifiée NS-quarante-huit.
 Cet amendement vise également à renforcer l’information donnée aux consommateurs, en reprenant cette norme simplifiée.
 Pour cela, l’accent doit notamment être mis sur l’utilisation que le site internet fera des données personnelles, plus particulièrement lorsque le site a pour ambition de vendre les données récoltées.
 Il s’agit de mettre en place une information claire, compréhensible et visible pour l’utilisateur, grâce à laquelle il aura connaissance de la finalité du traitement.
@@ -85,7 +85,7 @@ Le consentement ne doit pas être extorqué par un artifice.
 Au titre du RGPD, le consentement est donné par un acte positif clair.
 Nous souhaitons que celui-ci ne génère aucune autre action, et qu’une case cochée puisse être décochée avant de passer à autre chose.
 J’en viens à l’amendement numéro quatre-vingt-douze.
-En deux mille quatre, la loi pour la confiance dans l’économie numérique donnait déjà une définition similaire : on entend par consentement «toute manifestation de volonté libre, spécifique et informée».
+En deux mille quatre la loi pour la confiance dans l’économie numérique donnait déjà une définition similaire : on entend par consentement «toute manifestation de volonté libre, spécifique et informée».
 Ces formulations ne sont que des bases de travail, tant pour les opérateurs que pour la CNIL.
 La parole est à Madame la rapporteure, pour soutenir l’amendement numéro cent quatre-vingt-quatre de la commission et donner l’avis de la commission sur les autres amendements en discussion commune.
 Cet amendement propose d’inscrire dans la loi de mille neuf cent soixante-dix-huit un renvoi à la définition du consentement figurant dans le RGPD.
@@ -137,7 +137,7 @@ La réalité, qu’il nous est impossible de combattre, est que beaucoup de jeun
 Nous devrons, en revanche, nous donner les moyens d’une vraie politique éducative et de sensibilisation des jeunes aux risques qu’ils encourent à livrer leurs données personnelles à des opérateurs publics ou privés.
 Si tous les jeunes de quinze ans n’entrent pas au lycée, la sortie du collège permet de franchir un cap symbolique, qui se traduit par une rupture éducative et l’acquisition progressive de responsabilités sociales et sociétales.
 C’est un âge cohérent et responsable.
-Je suis saisie d’un amendement, numéro trente-cinq, de suppression de l’article quatorze A.
+Je suis saisie d’un amendement, numéro trente-cinq de suppression de l’article quatorze A.
 La parole est à Madame Emmanuelle Ménard, pour le soutenir.
 L’article quatorze A doit être supprimé car il me semble dangereux pour nos enfants.
 J’ignore si tous les députés présents dans cet hémicycle ont des enfants adolescents.
@@ -171,7 +171,7 @@ J’aimerais commencer mon intervention par un petit clin d’œil.
 Cela fait de nombreuses années que l’Europe se préoccupe de l’éducation de nos jeunes à internet.
 Pour ma part, je préconise également de fixer la majorité numérique à treize ans.
 J’ai déjà expliqué hier, lors de la présentation du projet de loi, les raisons de mon choix.
-Aujourd’hui, en effet, soixante-quinze % des enfants de onze à quatorze ans ont déjà accès à internet via un téléphone mobile : l’âge auquel cette question se pose correspond donc davantage à l’entrée en classe de sixième qu’à l’entrée au lycée.
+Aujourd’hui, en effet, soixante-quinze pourcent des enfants de onze à quatorze ans ont déjà accès à internet via un téléphone mobile : l’âge auquel cette question se pose correspond donc davantage à l’entrée en classe de sixième qu’à l’entrée au lycée.
 À partir du moment où les enfants sont en possession de leur téléphone mobile, il est très difficile, voire quasiment impossible de contrôler les réseaux sur lesquels ils s’inscrivent.
 Par conséquent, il sera quasi impossible de vérifier l’âge des enfants utilisant internet entre treize et seize ans.
 Puisque j’ai étudié ce texte sous l’angle européen, j’ai essayé de comprendre comment cela se passait dans les autres pays.
@@ -187,7 +187,7 @@ Pour eux, l’âge de dix-huit ans pourrait constituer un gage de sécurité.
 Madame Obono, votre position manque d’homogénéité.
 Pour le reste, je maintiens ma position : l’âge de quinze ans résulte d’un consensus qui a émergé depuis quelques semaines.
 Avis défavorable.
-Votre avis concerne-t-il aussi les amendements numéros vingt et un et dix, madame la rapporteure ? Oui, madame la présidente : la commission est défavorable aux trois amendements.
+Votre avis concerne-t-il aussi les amendements numéros vingt et un et dix madame la rapporteure ? Oui, madame la présidente : la commission est défavorable aux trois amendements.
 Quel est l’avis du Gouvernement ? Même position.
 La parole est à Madame Christine Hennion.
 Je veux répondre à l’argument tenant à la protection des jeunes.
@@ -229,7 +229,7 @@ Ce sont l’éducation nationale, les parents et les familles – en un mot : la
 Là encore, les réseaux, le numérique et toute l’économie digitale sont à la fois la pire et la meilleure des choses : à nous de les apprivoiser dans le meilleur des mondes possibles.
 La parole est à Monsieur Rémy Rebeyrotte.
 Comme Monsieur Gosselin, je considère que la CNIL aura un rôle particulier à jouer.
-Nous avons du reste renforcé l’article 1ier pour bien insister sur l’importance du travail à accomplir à destination des mineurs.
+Nous avons du reste renforcé l’article unier pour bien insister sur l’importance du travail à accomplir à destination des mineurs.
 Nous souhaitons également que, pour ce qui est du consentement commun du jeune et des parents, on explicite vraiment les choses, ce qui n’est pas toujours le cas aujourd’hui pour l’ensemble des opérateurs.
 Je suis saisie d’un amendement numéro cent trois qui fait l’objet d’un sous-amendement numéro cent quatre-vingt-deux.
 La parole est à Madame Paula Forteza, rapporteure, pour soutenir l’amendement.
@@ -242,11 +242,11 @@ Avis favorable.
 Quel est l’avis du Gouvernement sur le sous-amendement et sur l’amendement ? Favorable.
 Juridiquement, ça ne tient pas la route ! En effet ! La parole est à Madame Paula Forteza, rapporteure, pour soutenir l’amendement numéro douze.
 Il est rédactionnel.
-La parole est à Madame Marietta Karamanli, pour soutenir l’amendement numéro dix-neuf, portant article additionnel après l’article quatorze A.
+La parole est à Madame Marietta Karamanli, pour soutenir l’amendement numéro dix-neuf portant article additionnel après l’article quatorze A.
 Sur cet amendement, je suis saisie par le groupe Nouvelle Gauche d’une demande de scrutin public.
 Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.
 L’amendement concerne l’utilisation des algorithmes.
-C’est un point sur lequel je tiens à insister car, si un peu plus de quatre-vingts % des Français ont déjà entendu ce terme, à peine un peu plus de la moitié d’entre eux savent ce dont il s’agit.
+C’est un point sur lequel je tiens à insister car, si un peu plus de quatre-vingts pourcent des Français ont déjà entendu ce terme, à peine un peu plus de la moitié d’entre eux savent ce dont il s’agit.
 Selon un scientifique interrogé récemment dans la presse dans une perspective de vulgarisation, un algorithme est une séquence d’instructions utilisée pour résoudre un problème.
 Ce phénomène suscite des inquiétudes légitimes, car l’utilisation et la manipulation des algorithmes peuvent également avoir des répercussions sur la liberté de choix, voire sur l’égalité des personnes.
 Cet amendement vise donc à faire connaître systématiquement cette utilisation dans le cadre d’une administration que nous voulons plus transparente et d’orientations que nous voulons plus équilibrées.
@@ -272,8 +272,8 @@ Je rappellerai néanmoins dans le détail, sur le plan opérationnel, comment le
 L’article L.
 Les services de la direction interministérielle du numérique et du système d’information et de communication de l’État – DINSIC – sont mobilisés à cette fin.
 Vous avez également rappelé que, pour les algorithmes qui ont des conséquences sociales, sanitaires ou économiques, les articles L.
-300-2 et L.
-312-1-2 prévoient une redevabilité complète de l’intégralité du code source, qui sera fourni afin que l’on puisse l’analyser en détail, voire rejouer des scénarios individuels, et vérifier que la procédure s’est déroulée correctement.
+trois00-deux et L.
+trois cent douze-un-deux prévoient une redevabilité complète de l’intégralité du code source, qui sera fourni afin que l’on puisse l’analyser en détail, voire rejouer des scénarios individuels, et vérifier que la procédure s’est déroulée correctement.
 Cela ne concernera cependant que des utilisateurs très avertis – dont vous faites et dont j’ai fait partie –, qui sont aussi ceux qui permettent d’éclairer le monde en disant qu’ils ont pu tester et pousser jusqu’au bout l’analyse de cette transparence.
 Vous avez enfin rappelé quelles seront les informations qui seront systématiquement données au public.
 Une information systématiquement fournie avec le document signalant un traitement par algorithme vous indiquera à chaque fois, sous la forme d’une mention bien visible dans la décision, les droits de communication dont vous disposez.
@@ -403,7 +403,6 @@ Je pense à certain algorithme : j’ignore s’il s’agissait d’un algorithm
 Il s’agit de l’algorithme qui a fait APB («Ah !» sur les bancs du groupe FI.).
 Cela mérite qu’on prenne le temps de la réflexion avant d’étendre ce type d’administration à de nombreux autres domaines.
 (Applaudissements sur les bancs des groupes GDR et FI.) La parole est à Monsieur le secrétaire d’État.
-Les treize millions de Français, soit vingt % d’entre eux, qui ne savent pas utiliser une interface numérique sont une priorité de ce gouvernement, et ce depuis le premier jour – quarante-cinq % des Français disent qu’ils trouvent plus difficile de passer par une interface numérique.
 Il s’agit de voir, dans chaque département, comment on peut les accompagner et les former en maintenant toujours l’accès à quelqu’un susceptible de les aider à traiter leurs problèmes administratifs.
 Ce n’est pas le cas ! L’apport de la numérisation, c’est qu’elle libère du temps qui pourra être consacré par les agents à ceux qui en ont le plus besoin et au traitement des demandes les plus complexes.
 C’est du pipeau, ça ! APB est un algorithme qui a été mis en place avant l’ère de la transparence.
@@ -486,7 +485,7 @@ Et cela a été entendu.
 Je suis saisie de trois amendements identiques, numéros soixante-quatorze rectifié, cent quarante-neuf rectifié et cent soixante rectifié.
 La parole est à Madame Sarah El Haïry, pour soutenir l’amendement numéro soixante-quatorze rectifié.
 Dans la continuité de l’intervention de Monsieur Furst, l’amendement numéro soixante-quatorze rectifié vise à anticiper certaines situations.
-La médiation se déroulera suivant les dispositions de la section I du chapitre Iième du titre II de la loi numéro 95-125 du huit février mille neuf cent quatre-vingt-quinze relative à l’organisation des juridictions et à la procédure civile, pénale et administrative.
+La médiation se déroulera suivant les dispositions de la section I du chapitre Iième du titre II de la loi numéro quatre-vingt-quinze-cent vingt-cinq du huit février 19quatre-vingt-quinze relative à l’organisation des juridictions et à la procédure civile, pénale et administrative.
 En cas d’échec de cette médiation, la personne concernée pourra toujours saisir la CNIL.
 Nous insistons sur la lourdeur actuelle des démarches.
 Le recours à une médiation permettra de soulager les services de la CNIL et résoudra une réelle difficulté du quotidien.
@@ -520,7 +519,7 @@ Cela peut se justifier par des raisons importantes liées à la défense ou à l
 Néanmoins, nous ne voudrions pas que ces raisons justifient, par principe, l’absence de communication des données, quand bien même elles ne présenteraient pas de caractère sensible et déterminant.
 Aussi vous proposons-nous de faire intervenir dans la procédure le juge des libertés et de la détention – JLD –, seul garant des libertés individuelles, conformément à l’article soixante-six de la Constitution, pour valider cette absence de communication.
 À défaut, «la porte serait ouverte à toutes les fenêtres».
-Sur l’amendement numéro soixante et onze rectifié, portant article additionnel après l’article quinze, je suis saisie par le groupe La France insoumise d’une demande de scrutin public.
+Sur l’amendement numéro soixante et onze rectifié, portant article additionnel après l’article quinze je suis saisie par le groupe La France insoumise d’une demande de scrutin public.
 Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.
 Quel est l’avis de la commission sur l’amendement numéro cinquante-six ? Il serait compliqué de faire intervenir le JLD dans un cadre administratif.
 Avis défavorable.
@@ -595,7 +594,7 @@ En matière de traitement des données à caractère personnel, elle procède d�
 Elle vise ici non plus la réparation matérielle du préjudice subi, mais la seule cessation des manquements à la loi par leur auteur.
 Elle perd donc sa vocation initiale, pourtant confirmée en deux mille seize par le législateur.
 Tel est l’objectif visé par l’article seize A : permettre l’action en réparation matérielle, y compris en matière de données à caractère personnel, auparavant exclues du champ de l’action de groupe, et rendre à celle-ci toute son efficacité et son fondement.
-La parole est à Monsieur Thibault Bazin, pour soutenir l’amendement numéro quatre-vingt-deux, tendant à supprimer l’article seize A.
+La parole est à Monsieur Thibault Bazin, pour soutenir l’amendement numéro quatre-vingt-deux tendant à supprimer l’article seize A.
 Même si l’on peut en comprendre l’intérêt, le dispositif s’apparente à une surenchère législative par rapport aux normes européennes.
 C’est pourquoi Jean-Louis Masson et moi-même proposons de circonscrire l’action de groupe à la seule cessation du manquement, comme le prévoit la loi Informatique et libertés, et non de l’étendre à la réparation du préjudice, comme le suggère l’étude d’impact.
 Quel est l’avis de la commission ? L’article seize A, qui est issu d’un consensus, représente l’une des grandes avancées obtenues par la commission, car il permet de mettre en œuvre efficacement les dispositions du RGPD.
@@ -610,7 +609,7 @@ Quant au régime de l’action de groupe en matière de données personnelles, i
 L’article seize A du présent texte, introduit en commission, vise à rapprocher les deux régimes en ouvrant le droit à la réparation du préjudice.
 L’amendement numéro seize4 s’inscrit dans ce cadre.
 Il reprend la rédaction du régime général.
-Le premier alinéa de l’article soixante-deux de la loi numéro 20seize-1547 du dix-huit novembre 20seize de modernisation de la justice du XXIième siècle, droit commun en la matière, procède à une telle précision, qu’il semble utile de rappeler.
+Le premier alinéa de l’article soixante-deux de la loi numéro 20seize-mille cinq cent quarante-sept du dix-huit novembre 20seize de modernisation de la justice du XXIième siècle, droit commun en la matière, procède à une telle précision, qu’il semble utile de rappeler.
 Concrètement, un juge ayant à statuer sur la recevabilité d’une action de groupe est tenu d’examiner les cas individuels des personnes lésées, même si elles sont représentées par une association agréée.
 Il examine donc le problème globalement, mais aussi en fonction de chaque cas individuel.
 Quel est l’avis de la commission ? Il s’agit d’une harmonisation rédactionnelle tout à fait bienvenue entre le présent projet de loi et la loi de modernisation de la justice du XXIième siècle à laquelle la commission est favorable.
@@ -622,7 +621,7 @@ Il s’agit de donner une base légale claire à la procédure suivie par le jug
 La rédaction de l’article seize A retenue par la commission des lois prévoit le recours à la procédure de réparation individuelle en cas d’action de groupe visant à la réparation du préjudice.
 Seule la base légale de droit privé a été insérée, privant le juge administratif de toute possibilité d’action.
 L’amendement rétablit une base légale de droit public et corrige cette erreur, ce qui permettra au juge administratif d’agir.
-Je suis saisie de quatre amendements identiques, numéros soixante-dix, soixante-treize, cent neuf et cent cinquante.
+Je suis saisie de quatre amendements identiques, numéros soixante-dix soixante-treize cent neuf et cent cinquante.
 La parole est à Madame Danièle Obono, pour soutenir l’amendement numéro soixante-dix.
 Cet amendement porte sur le recours collectif, qui nous semble particulièrement pertinent pour agir contre les acteurs d’internet dès lors que des collectes de données sont en jeu.
 Un tel recours permet de mettre à jour, de façon probante, le caractère massif et la dimension systémique de la pratique ainsi dénoncée.
@@ -640,7 +639,7 @@ De surcroît, l’article quatre-vingts du RGPD comporte une définition restric
 L’avis de la commission est donc défavorable.
 La parole est à Madame la rapporteure, pour soutenir l’amendement numéro quatre-vingt-huit.
 C’est un amendement rédactionnel.
-Je suis saisie de deux amendements, numéros cent dix et cent cinquante et un, pouvant être soumis à une discussion commune.
+Je suis saisie de deux amendements, numéros cent dix et cent cinquante et un pouvant être soumis à une discussion commune.
 La parole est à Monsieur Stéphane Peu, pour soutenir l’amendement numéro cent dix.
 Il s’agit de permettre aux associations et organismes mandatés de mener efficacement une action de groupe, dont l’avance des frais peut s’avérer dissuasive faute de mesures d’accompagnement appropriées.
 Sur ce sujet, la législation québécoise fournit un excellent exemple.
@@ -688,7 +687,7 @@ Nous avions décidé de retravailler l’amendement ; il me semble que la rédac
 Remettons l’ouvrage sur le métier.
 Quel est l’avis du Gouvernement ? Avis défavorable.
 Nous avons examiné votre amendement de façon approfondie, mais il nous semble que le RGPD satisfait une partie de vos demandes.
-Le considérant soixante-dix-huit du règlement, ainsi que son article vingt-cinq, impose déjà aux responsables de traitement de proposer des biens ou services qui offrent par défaut ou dès leur conception le plus haut niveau de protection des données personnelles.
+Le considérant soixante-dix-huit du règlement, ainsi que son article vingt-cinq impose déjà aux responsables de traitement de proposer des biens ou services qui offrent par défaut ou dès leur conception le plus haut niveau de protection des données personnelles.
 Seules les données nécessaires pour chaque finalité spécifique de traitement doivent être traitées.
 De plus, le considérant trente-deux du RGPD donne une définition du consentement qui implique que l’utilisateur d’un smartphone ne pourra pas se voir imposer l’utilisation, par défaut, d’un navigateur donné.
 Dans votre exposé des motifs, vous constatez que «la quasi-totalité des smartphones commercialisés en France […] sont équipés d’un système d’exploitation […] qui impose par défaut le même moteur de recherche à leurs utilisateurs».
@@ -750,7 +749,7 @@ La parole est à Madame la rapporteure, pour soutenir l’amendement numéro dix
 Amendement de précision.
 La parole est à Madame la rapporteure, pour soutenir l’amendement numéro dix-huit.
 Amendement de clarification.
-Je suis saisie de quatre amendements identiques, numéros trente et un, cinquante-huit, cent vingt et cent vingt-neuf.
+Je suis saisie de quatre amendements identiques, numéros trente et un cinquante-huit cent vingt et cent vingt-neuf.
 La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro trente et un.
 Je ne comprends pourquoi il faut ici recourir aux ordonnances.
 Vous faites valoir que celles-ci serviront uniquement à apporter les corrections formelles et les adaptations nécessaires à la simplification et à la cohérence du droit national par rapport au droit européen.
@@ -805,10 +804,10 @@ Un tel régime de double sanction serait contraire à la jurisprudence de la Cou
 Nous vous proposons donc de supprimer les sanctions pénales prévues dans la loi de mille neuf cent soixante-dix-huit.
 Quel est l’avis de la commission ? Pour certaines irrégularités, il est préférable de maintenir une voie judiciaire distincte de la voie administrative.
 Avis défavorable.
-La parole est à Madame Danièle Obono, pour soutenir l’amendement numéro soixante, portant article additionnel après l’article vingt-trois.
+La parole est à Madame Danièle Obono, pour soutenir l’amendement numéro soixante portant article additionnel après l’article vingt-trois.
 Cet amendement précise le concept de neutralité du net qui fait l’objet d’un consensus transpartisan.
 Il propose une définition s’appuyant sur des amendements présentés lors de la précédente législature.
-La parole est à Monsieur Bruno Bonnell, pour soutenir l’amendement numéro vingt, portant article additionnel après l’article vingt-quatre.
+La parole est à Monsieur Bruno Bonnell, pour soutenir l’amendement numéro vingt portant article additionnel après l’article vingt-quatre.
 Si le RGPD constitue une avancée au regard de l’opacité actuelle du traitement de notre vie numérique, il n’est qu’une étape.
 Il permet à chaque individu de repérer et de piloter le flux de ses données numériques, mais il est muet sur la valeur patrimoniale et morale de ces dernières.
 S’il existe un droit des brevets ou des droits d’auteur, il n’y a aucun droit attaché aux données numériques personnelles.
