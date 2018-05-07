@@ -7,6 +7,7 @@ import argparse
 import networkx as nx
 import networkx.drawing.nx_pydot as nx_pydot
 import datetime
+from num2words import num2words
 
 from xml.dom.pulldom import START_ELEMENT, CHARACTERS, END_ELEMENT, parse
 from xml.dom.minidom import Element, Text
@@ -20,7 +21,7 @@ parser.add_argument('--tree-output', type=argparse.FileType('w'), help='Where to
 parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
 
 parser.add_argument('--min-words', type=int, default=2, help='Minimum number of words to accept a sentence')
-parser.add_argument('--max-words', type=int, default=40, help='Maximum number of words to accept a sentence')
+parser.add_argument('--max-words', type=int, default=45, help='Maximum number of words to accept a sentence')
 
 parser.add_argument('file', type=str, help='Source XML file')
 parser.add_argument('output', type=str, help='Output directory')
@@ -188,6 +189,15 @@ for event, node in doc:
   if node.nodeName == 'texte':
     doc.expandNode(node)
 
+    def filter_numbers(inp):
+      for e in splitIntoWords(inp):
+        try:
+          if int(e) > 0:
+            inp = inp.replace(e, num2words(int(e), lang='fr'))
+        except ValueError:
+          pass
+      return inp
+
     def maybe_normalize(value):
       for norm in mapping_normalization:
         value = value.replace(norm[0], norm[1])
@@ -215,13 +225,13 @@ for event, node in doc:
             elif root.nodeName == 'indice':
               finaltext += maybe_translate(c, subscript_chars_mapping)
             else:
-              finaltext +=maybe_normalize(c.nodeValue)
+              finaltext += maybe_normalize(c.nodeValue)
           if c.nodeType == c.ELEMENT_NODE:
             finaltext += recursive_text(c)
       return finaltext
 
     if visited[-2].attributes and 'code_style' in visited[-2].attributes and visited[-2].attributes['code_style'].value == 'NORMAL':
-      fullText = recursive_text(node)
+      fullText = filter_numbers(recursive_text(node))
       try:
         seance_context[node.nodeName].append(fullText)
       except KeyError:
