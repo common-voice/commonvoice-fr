@@ -19,6 +19,9 @@ parser.add_argument('--tree-output', type=argparse.FileType('w'), help='Where to
 
 parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
 
+parser.add_argument('--min-words', type=int, default=2, help='Minimum number of words to accept a sentence')
+parser.add_argument('--max-words', type=int, default=40, help='Maximum number of words to accept a sentence')
+
 parser.add_argument('file', type=str, help='Source XML file')
 parser.add_argument('output', type=str, help='Output directory')
 
@@ -127,6 +130,10 @@ subscript_chars_mapping = {
   ' ': '',
 }
 
+WORD_REGEX = re.compile("[^\w\d\'\-]+")
+def splitIntoWords(text):
+    return WORD_REGEX.split(text)
+
 if not os.path.isdir(args.output):
   print('Directory does not exists', args.output, file=sys.stderr)
   sys.exit(1)
@@ -149,7 +156,7 @@ for event, node in doc:
         structure.add_edge(visited[-1].tagName, node.tagName)
 
       visited.append(node)
-      
+
       if node.tagName == "DateSeance":
         if seance_context is not None and 'texte' in seance_context:
           output_seance_name = os.path.join(args.output, seance_context['DateSeance'])
@@ -158,11 +165,13 @@ for event, node in doc:
 
           output_seance_name += '.txt'
           print('output_seance_name', output_seance_name)
+          raw_sentences = (' '.join(seance_context['texte'])).split('. ')
+          sentences = filter(lambda x: len(splitIntoWords(x)) >= args.min_words and len(splitIntoWords(x)) <= args.max_words, raw_sentences)
           if not args.dry:
             with open(output_seance_name, 'w') as output_seance:
-              output_seance.write('.\n'.join((' '.join(seance_context['texte'])).split('. ')))
+              output_seance.write('.\n'.join(sentences))
           else:
-            print('.\n'.join((' '.join(seance_context['texte'])).split('. ')))
+            print('.\n'.join(sentences))
 
           if args.one:
             break
