@@ -58,6 +58,7 @@ mapping_normalization = [
   [ u'Mme ' , u'Madame ' ],
   [ u'Mlle ' , u'Mademoiselle ' ],
   [ u'Mlles ', u'Mademoiselles ' ],
+  [ u'%', u'pourcent' ],
 ]
 
 superscript_chars_mapping = {
@@ -135,6 +136,10 @@ WORD_REGEX = re.compile("[^\w\d\'\-]+")
 def splitIntoWords(text):
     return WORD_REGEX.split(text)
 
+NUMS_REGEX = re.compile("(\d+,?\d?)*")
+def getNumbers(text):
+    return NUMS_REGEX.split(text)
+
 if not os.path.isdir(args.output):
   print('Directory does not exists', args.output, file=sys.stderr)
   sys.exit(1)
@@ -190,12 +195,17 @@ for event, node in doc:
     doc.expandNode(node)
 
     def filter_numbers(inp):
-      for e in splitIntoWords(inp):
+      for e in getNumbers(inp):
         try:
           if int(e) > 0:
             inp = inp.replace(e, num2words(int(e), lang='fr'))
         except ValueError:
-          pass
+          try:
+            ee = e.replace(',', '.')
+            if float(ee) > 0:
+              inp = inp.replace(e, num2words(float(ee), lang='fr'))
+          except ValueError:
+            pass
       return inp
 
     def maybe_normalize(value):
