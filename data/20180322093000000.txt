@@ -1,17 +1,12 @@
 La séance est ouverte.
-L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, du projet de loi ratifiant l’ordonnance numéro 2016-131 du 10 février 2016 portant réforme du droit des contrats, du régime général et de la preuve des obligations (numéros 315, 766).
 La parole est à Monsieur Sacha Houlié, rapporteur de la commission mixte paritaire.
 Madame la présidente, madame la garde des sceaux, ministre de la justice, mes chers collègues, je souhaite tout d’abord saluer la qualité des travaux menés avec le rapporteur du Sénat, François Pillet.
 L’état d’esprit positif dans lequel ils se sont déroulés nous permet aujourd’hui de vous proposer un texte équilibré.
-La commission mixte paritaire est en effet parvenue à une solution de compromis sur les trois points – en dehors des aspects rédactionnels – qui restaient en discussion : la caducité de l’offre à la suite du décès de son destinataire, la définition des clauses abusives dans un contrat d’adhésion, et, enfin, l’une des dispositions les plus emblématiques du projet de loi dont nous avons débattu, à savoir la révision judiciaire en cas d’imprévision.
 Sur la caducité de l’offre, tout d’abord, un accord a été trouvé entre les deux chambres – vous le savez déjà, puisque la commission mixte paritaire a été un succès.
 À l’article 4, le Sénat souhaitait rendre l’offre caduque en cas de décès de son destinataire, tandis que l’Assemblée nationale préférait limiter la caducité au décès de son auteur.
-Considérant que le maintien de l’offre pourrait porter préjudice à son auteur, qui ne l’aurait pas forcément maintenue dans les mêmes conditions pour les héritiers que pour le destinataire initial, et que les parties seraient obligées de s’en remettre aux tribunaux en cas de litige ; compte tenu par ailleurs de l’incertitude entourant le statut juridique de l’offre, nous vous proposons, chers collègues, par souci de parvenir à un compromis et suivant ainsi l’appréciation de nos collègues sénateurs, de prévoir également la caducité de l’offre en cas de décès de son destinataire.
 S’agissant, ensuite, des contrats d’adhésion, le Sénat souhaitait, à l’article 7, limiter l’application du dispositif des clauses abusives aux seules clauses non négociables.
 Pour sa part, l’Assemblée nationale, désireuse de protéger les parties les plus faibles, proposait, en première comme en deuxième lecture, d’étendre cette possibilité à toutes les clauses du contrat.
-Toutefois, dans la mesure où l’article 2 – sur lequel les deux chambres étaient parvenues à un vote conforme dès la première lecture – fait de l’absence de négociabilité le critère essentiel de la définition du contrat d’adhésion, il nous apparaît possible de limiter l’application du dispositif des clauses abusives aux seules clauses non négociables.
 On peut d’ailleurs anticiper que les juges en auraient ainsi décidé, ce qui est un argument supplémentaire pour que l’Assemblée nationale, par pragmatisme, consente à ce nouveau compromis.
-En revanche, c’est le texte de l’Assemblée qui a été retenu pour l’article 8, relatif au régime de l’imprévision, l’une des trois difficultés majeures que posait initialement l’ordonnance, avec l’abus de dépendance – qu’il ne fallait pas limiter à la seule dépendance économique – et le champ de l’obligation d’information précontractuelle.
 L’introduction de l’imprévision dans notre droit est en effet un gros morceau, une véritable novation désormais inscrite à l’article 1195 de notre code civil.
 Or sur l’opportunité de conférer au juge le pouvoir de révision du contrat à la demande d’une ou de deux des parties, le désaccord a été – pourquoi le cacher ? – majeur.
 Nous avons négocié des versions successives sans parvenir immédiatement à trouver un compromis avec le Sénat.
@@ -28,12 +23,9 @@ Par ailleurs, conditionner la révision judiciaire à l’accord des deux partie
 Au vu des difficultés à conduire de façon loyale, et dans des conditions incontestables, la négociation préalable, nous avons donc jugé préférable qu’une seule des parties puisse saisir le juge.
 C’est même la seule sanction de l’incitation à la négociation posée à l’article 1195.
 La rédaction retenue pour l’article 8 est donc celle que l’Assemblée nationale avait adoptée en deuxième lecture.
-Au total, le texte issu de la commission mixte paritaire a permis de confirmer les objectifs de l’Assemblée nationale : défendre les parties les plus faibles et affermir la justice contractuelle, tout en garantissant l’attractivité du droit des contrats, ce qui faisait partie des intentions initiales du projet de loi.
 Vous l’aurez donc compris : en tant que rapporteur, les conclusions de la commission mixte paritaire me satisfont pleinement, et c’est la raison pour laquelle je vous invite à voter ce texte.
 La parole est à Madame la garde des sceaux, ministre de la justice.
-Madame la présidente, monsieur le rapporteur – cher Sacha Houlié –, mesdames et messieurs les députés, c’est avec un très grand plaisir que je reviens devant vous aujourd’hui, au terme du processus de ratification de l’ordonnance réformant le droit des contrats, de la preuve et le régime général des obligations.
 Cette réforme, longtemps annoncée, sans cesse repoussée, est, aujourd’hui enfin, sur le point de trouver son terme législatif.
-C’est un succès, puisque la commission mixte paritaire est parvenue à un accord – ce dont évidemment je ne peux que me réjouir – et surtout parce que cet accord illustre parfaitement l’esprit constructif qui a animé chacune des assemblées parlementaires, et ce, à chaque étape de la discussion.
 En effet, et sans même attendre la commission mixte paritaire, chacune de ces assemblées a fait un pas vers l’autre.
 Il me faut dire que la qualité de ce travail parlementaire vous doit beaucoup, monsieur le rapporteur : je tiens à le souligner ici.
 Le texte qui vous a été soumis est exceptionnel à plusieurs égards : parce qu’il est d’une ampleur rare – plus de 300 articles – mais aussi parce qu’il est d’une technicité toute particulière.
@@ -56,28 +48,20 @@ Pour n’en citer que certains, j’évoquerai la définition du contrat d’adh
 Le sort des sûretés en cas de cession de contrat ou de dette a lui aussi été précisé tandis que le mécanisme de la réduction du prix a été rendu plus lisible.
 Sur d’autres points, les modifications apportées ont permis de compléter utilement le texte de l’ordonnance.
 Ainsi en est-il, par exemple, de la disposition relative à la réticence dolosive.
-Elle a été mise en cohérence avec la solution retenue en matière de devoir général d’information, de sorte que l’estimation de la valeur de la prestation est désormais exclue du champ de la réticence dolosive, afin d’inscrire dans la loi la jurisprudence Baldus.
 Les points les plus débattus furent, sans surprise, liés à deux des innovations majeures de l’ordonnance : la prohibition des clauses abusives et la révision pour imprévision.
 Le texte qui vous est aujourd’hui soumis définit clairement le champ de la prohibition des clauses abusives.
 C’est important.
 Un débat a en effet eu lieu sur l’étendue de ce champ qui, aux termes de vos travaux, recouvre les clauses non négociables au sein des contrats d’adhésion.
-Cette modification, dont l’impact sera en pratique limité – je le souligne –, a le mérite de la cohérence avec les critères dégagés au cours de la navette pour définir contrat d’adhésion : l’atteinte portée à la force obligatoire du contrat est précisément justifiée par la soustraction à la négociation des clauses en question.
 Cette modification ne remet pas en cause le caractère protecteur de cette disposition, à laquelle le Gouvernement est, tout comme vous, monsieur le rapporteur, très attaché.
 L’autre débat, qui a encore davantage cristallisé les oppositions – comme vous le rappeliez, monsieur Houlié – est celui relatif aux pouvoirs du juge en matière de révision pour imprévision.
-Le principe même de la révision pour imprévision n’a pas été remis en cause, démontrant ainsi le consensus existant sur l’utilité de cette innovation majeure de l’ordonnance pour prendre en compte et adapter notre droit des contrats aux bouleversements économiques qui peuvent affecter leur exécution.
 Le seul point de désaccord résidait dans la faculté pour le juge de réviser le contrat à la demande d’une seule des parties.
 Le Gouvernement en était persuadé : il était nécessaire de prévoir cette option sans laquelle l’efficacité du dispositif risquait de se voir, en cas de mauvaise foi de l’un des contractants, absolument compromise.
 Convaincu de cette nécessité, vous l’étiez vous aussi, monsieur le rapporteur, et vous avez patiemment, à chaque lecture, soutenu ce dispositif avec conviction et pédagogie, et cela jusque devant la commission mixte paritaire.
-Cette disposition restera, c’est certain, critiquée par certains commentateurs, mais je suis persuadée que les débats parlementaires auront permis de souligner le caractère supplétif de la disposition et, surtout, d’en démontrer l’utilité, la rupture du contrat n’étant pas toujours la solution économiquement la plus adaptée.
-Ainsi, au-delà de la confrontation des points de vue, nécessaire s’agissant de dispositions aussi importantes, les objectifs assignés par le Gouvernement à cette réforme sont pleinement atteints à l’issue des débats ; il s’agissait de redonner au droit des obligations l’intelligibilité et l’accessibilité qu’il requiert, de le rendre plus efficace, donc plus attractif, tout en renforçant – et cela n’est pas contradictoire – la justice contractuelle.
 Le dialogue des chambres aura permis d’aboutir à un texte cohérent, équilibré et amélioré, ce dont je vous remercie très sincèrement, au nom du Gouvernement.
 Je forme le vœu que le même esprit de compromis et de responsabilité nous permette, le moment venu, de poursuivre ensemble la modernisation du droit des obligations par la nécessaire refondation du droit de la responsabilité civile.
 (Applaudissements sur les bancs du groupe LaREM.) Dans la discussion générale, la parole est à Madame Nicole Sanquer.
-Madame la présidente, madame la ministre, monsieur le rapporteur, chers collègues, je tiens tout d’abord à saluer le travail de la commission mixte paritaire, qui, en étant parvenue à un accord sur les derniers points du projet de loi restant en discussion, permet la mise en œuvre d’une réforme inédite du droit des contrats et des obligations, plus de deux siècles après la création du code civil.
-Je crois, sans revenir sur les débats qui ont animé les chambres au cours des deux lectures, que nous pouvons tous nous féliciter du travail parlementaire, qui a démontré que la portée juridique de ce texte dépassait sa portée politique, transcendant les clivages pour apporter une modification attendue de nos relations contractuelles.
 Cette réforme était en effet attendue par tous : non seulement par les acteurs du droit, mais aussi par ceux du monde économique.
 Notre code civil, qui a longtemps inspiré le monde, a en effet perdu de sa superbe.
-Le législateur n’ayant jusqu’à présent pas pris le soin de l’adapter aux évolutions de la société et à la mondialisation, les acteurs s’en étaient remis à la sagesse des juges et aux décisions de la Cour de cassation pour combler ses lacunes et remédier à l’obsolescence de nombreuses de ses dispositions.
 Grâce à cette ordonnance et à ce projet de loi, nous allons renforcer l’intelligibilité, la lisibilité, la prévisibilité et l’attractivité de notre droit.
 Par l’emploi d’un vocabulaire modernisé et intelligible par tous, le droit des contrats renoue ainsi avec sa tradition civiliste.
 Et si l’on élargit la perspective, cette réforme s’inscrit dans une nécessaire harmonisation avec les législations de nos voisins européens, qu’il conviendra de poursuivre dans les années à venir.
@@ -87,14 +71,10 @@ Les principes généraux de liberté contractuelle, de force obligatoire et de b
 S’agissant de la caducité de l’offre de contrat, la commission mixte paritaire a retenu la position du Sénat, qui souhaitait établir la caducité en cas de décès de son destinataire.
 S’agissant de la définition des clauses abusives dans un contrat d’adhésion, elle a là aussi retenu la position du Sénat, qui souhaitait limiter l’application du dispositif aux seules clauses non négociables.
 Cette définition, lisible et claire, permettra de lutter contre les clauses provoquant un déséquilibre significatif, ce qui n’existait jusqu’alors qu’en droit de la consommation.
-S’agissant de la révision judiciaire du contrat en cas de changement de circonstances imprévisible, la commission mixte paritaire a en revanche retenu la position de notre assemblée, qui souhaitait qu’une seule des parties puisse saisir le juge, ce qui ne manquera pas d’encourager les renégociations amiables.
-Concernant l’application du projet de loi, nous encourageons l’exécutif à faire preuve de pédagogie pour informer et former dès à présent les acteurs du monde économique sur les effets de la réforme, en particulier les petites et moyennes entreprises, qui sont moins armées pour faire face aux évolutions juridiques.
 Mes chers collègues, vous l’aurez compris, le groupe UDI, Agir et indépendants soutient le projet de loi dans la version proposée par la commission mixte paritaire.
-Bien que nous regrettions, en notre qualité de parlementaires, l’usage des ordonnances, nous appelons de nos vœux l’adoption d’un texte qui constitue un acte fondateur pour rendre notre droit des contrats et des obligations plus accessible et attractif.
 La parole est à Monsieur Bastien Lachaud.
 Madame la présidente, madame la garde des sceaux, chers collègues, il faut le dire, cette réforme du droit des contrats était attendue depuis longtemps, tant par les professionnels que par les étudiants.
 En effet, la matière était devenue, en raison d’une jurisprudence foisonnante, inutilement complexe.
-L’enjeu politique de la réforme du droit des contrats réside dans l’équilibre à trouver entre l’impératif de justice du contrat, qui, nous le pensons, implique une plus grande intervention du juge, et l’autonomie contractuelle, qui justifierait le maintien de situations injustes au nom de la sécurité juridique.
 Nous déplorons que la réforme d’une matière aussi importante ait été opérée par ordonnance et qu’elle n’ait pas été soumise au débat devant la représentation nationale avant son entrée en vigueur.
 L’ordonnance a toutefois le mérite de clarifier l’état du droit existant par une recodification plus cohérente et une codification de jurisprudences installées.
 Par exemple, le devoir de bonne foi de la négociation à l’exécution du contrat est désormais reconnu dans la loi.
@@ -104,14 +84,11 @@ Dans sa rédaction initiale, l’ordonnance rompt, s’agissant de la révision 
 Ainsi, lorsqu’un changement de circonstances rend l’exécution du contrat trop onéreuse pour l’une des parties, le juge peut réviser le contrat.
 De la même manière, le droit commun consacre la catégorie des contrats d’adhésion et les assortit d’une protection de la partie faible au contrat.
 Toutefois, le texte, dans sa forme actuelle, comporte aussi des reculs ou des prises de risque auxquels nous nous opposons.
-Le Sénat a ainsi lancé sur l’imprévision, notamment sur les actions interrogatoires, une véritable offensive libérale, au sens du droit – selon cette conception, qui n’est pas la nôtre, les gens seraient libres d’établir des contrats, le rapport social ne devant pas être pris en compte et le juge ne devant pas intervenir sur le fond lorsqu’il statue sur le respect du contrat.
 Mais si le Sénat a fait le choix politique de réduire le droit des contrats à un banal instrument au service de la compétitivité des droits, la commission mixte paritaire a globalement su résister à l’offensive libérale.
 Au cours de la discussion du projet de loi, nous vous avions proposé d’innover et de renforcer la justice dans les relations contractuelles.
 Première innovation : introduire une liste non limitative de dispositions qui relèveraient du domaine de l’ordre public, préservant ainsi les pouvoirs du juge.
 Les rédacteurs de l’ordonnance se sont posé la question, mais ils ont finalement renoncé à cette réforme, ce qui est bien dommage.
 Renforcer et consolider l’ordre public tout en laissant au juge un pouvoir d’appréciation nous paraît toujours aussi nécessaire.
-La deuxième innovation – vous reconnaîtrez là une des batailles que nous menons dans le cadre du projet de loi de finances et du projet de loi de finances rectificative – serait d’armer notre droit, dans tous les domaines, contre l’évasion fiscale, la fraude fiscale et l’optimisation fiscale abusive, en introduisant la notion d’abus de droit fiscal dans le droit commun.
-Concrètement, quand le non-paiement de l’impôt atteint des montants aussi considérables que ceux révélés par les Panama papers, les Paradise papers ou les LuxLeaks, cela veut dire que notre droit n’est pas assez armé pour faire respecter la règle républicaine fondamentale qu’est la contribution à l’effort commun, le consentement à l’impôt.
 Jusqu’au rétablissement de l’ordre fiscal républicain, il faut sans relâche légiférer partout où cela peut être utile.
 Il faut agir.
 Cela aussi, vous l’avez refusé.
@@ -122,7 +99,6 @@ Le droit des contrats se trouve confronté à des situations qui évoluent en m�
 Le texte de la commission mixte paritaire, en dépit du fait qu’il n’ait pas retenu nos propositions, va toutefois dans le bon sens.
 Nous voterons donc en sa faveur.
 La parole est à Monsieur Gabriel Serville.
-Madame la présidente, madame la ministre, chers collègues, la réforme du droit des contrats, du régime des obligations et de la preuve, sur laquelle nous sommes amenés à nous exprimer une nouvelle fois, est l’aboutissement d’une longue décennie de travaux préparatoires.
 Lors du bicentenaire du code civil, en 2004, les professionnels du droit s’entendaient déjà sur l’urgence qu’il y avait à réformer un droit que deux cents années de pratique et de jurisprudence avaient naturellement vieilli.
 Les profondes modifications apportées par l’ordonnance du 10 février 2016 du précédent Gouvernement visaient à rendre plus lisible et plus accessible le droit des obligations, afin que le code civil puisse refléter l’état réel du droit positif.
 D’une manière générale, la réforme qui nous est proposée est empreinte d’une volonté de pédagogie bienvenue.
@@ -131,14 +107,12 @@ La réforme a le mérite de renforcer les parties faibles et de rééquilibrer l
 Elle met en place un devoir général d’information pour chaque cocontractant et affirme le principe de bonne foi dans toutes les étapes de la vie du contrat.
 Elle admet la violence pour abus de dépendance dans laquelle peut se trouver le cocontractant, faisant directement écho à la jurisprudence relative à la violence économique.
 Elle vient aussi utilement préciser le régime de l’erreur de droit, sur le même régime que l’erreur de fait.
-S’agissant maintenant de la façon dont cette réforme s’est opérée, je vous rappelle que nous nous étions déjà opposés, en 2014 et en 2015, à une réforme par ordonnance de ce droit, qui concerne au plus près le quotidien de tous les Français.
 Loin d’être purement technique, une telle réforme soulève des questions politiques très importantes, qui auraient dû être versées au débat parlementaire.
 La méthode choisie nous enlève cette possibilité.
 L’engagement de cette réforme par voie d’ordonnance soulève également des risques juridiques importants pour la pratique, puisque l’ordonnance est déjà en vigueur depuis le 1ier octobre, alors que la représentation nationale ne l’a pas encore ratifiée.
 La réforme est donc d’ores et déjà enseignée aux étudiants, assimilée et pratiquée par les professionnels du droit et par les acteurs économiques.
 L’un des objectifs de la réforme était de rendre notre droit civil plus attractif et plus efficace.
 C’est dans cette optique que l’ordonnance consacre et organise certains mécanismes juridiques, comme la cession de contrat et la cession de dette.
-Elle simplifie aussi la cession de créance ou d’offres réelles, et introduit des solutions innovantes, à l’instar des actions interrogatoires, qui permettent à une partie de mettre fin à une situation d’incertitude quant à la validité juridique d’un contrat déjà conclu ou en voie de conclusion.
 Il est certain que toutes ces modifications contribuent à l’atteinte de l’objectif.
 Toutefois, l’attractivité économique de notre droit ne repose pas uniquement sur le droit français des contrats.
 L’efficacité des règles de procédure et, plus largement, l’efficacité de la justice sont tout aussi importantes.
@@ -152,10 +126,8 @@ Nous ne parviendrons pas à rendre attractif le droit français si notre systèm
 Étant donné que ce texte propose de réelles avancées, en particulier pour les parties faibles, les députés de la Gauche démocrate et républicaine ne s’y opposeront cependant pas.
 En revanche, nous ne pouvons que déplorer qu’une réforme d’une telle ampleur ait été réalisée par voie d’ordonnance, et c’est la raison pour laquelle nous nous abstiendrons.
 La parole est à Monsieur Raphaël Gauvain.
-Madame la présidente, madame la garde des sceaux, mes chers collègues, nous y sommes : nous, députés, sénateurs, magistrats, professeurs de droits, ministres, hauts fonctionnaires du ministère de la justice, praticiens, avocats et notaires ; nous tous, qui avons participé depuis plus de dix ans à ce long, très long, processus de réforme du droit des contrats, du régime général et de la preuve des obligations.
 Nous y sommes.
 L’objectif de cette réforme était de moderniser notre code civil, de le simplifier, d’améliorer sa lisibilité, de renforcer son accessibilité et de garantir la sécurité juridique et l’efficacité de la norme.
-Le vocabulaire est aujourd’hui simplifié, la notion de «cause» supprimée et les solutions jurisprudentielles consacrées : ainsi de la période précontractuelle, de la généralisation du concept de bonne foi de l’obligation d’information, de l’enrichissement sans cause, du pacte de préférence, de la réticence dolosive ou encore de l’exception d’inexécution.
 Il ne s’agit pas, ici, de procéder à une présentation détaillée des près de 300 nouveaux articles du code civil, ni de rouvrir les nombreux et interminables débats qui secouent la doctrine depuis plus de dix ans.
 Je veux simplement saluer le travail de notre rapporteur à l’issue de cette CMP.
 L’essentiel a été préservé, à savoir la révision judiciaire du contrat à la demande d’une seule des parties en cas de changement de circonstances imprévisible.
@@ -170,28 +142,20 @@ Mais le travail, notre travail, n’est pas fini.
 Il nous faut maintenant, mes chers collègues, madame la garde des sceaux, nous attaquer au deuxième étage de la fusée : la réforme de la responsabilité.
 Eh oui, je suis d’accord.
 Le droit de la responsabilité civile a plus de deux siècles, puisque la plupart des règles datent du code Napoléon.
-Si la jurisprudence a su faire preuve d’une remarquable capacité d’adaptation, rappelez-vous les arrêts «Montagnier», «Teffaine», «Clément-Bayard», «Jand’heur» ou «Franck» – ce dernier, majeur, ayant été rendu toutes chambres réunies le 2 décembre 1941 : le gardien est celui qui a l’usage, le contrôle et la direction de la chose.
 Après une large consultation publique, depuis un an maintenant, un projet de réforme est sur la table, sur votre table, madame la garde des sceaux, comme vous venez de l’indiquer.
-Pourriez-vous nous en dire un peu plus sur le calendrier et sur le véhicule ? Comptez-vous procéder par un projet de loi ou par une directive, et, dans la seconde hypothèse, comptez-vous nous associer ? En tout cas, vous l’aurez compris, nous, Assemblée nationale, nous sommes prêts.
 Très bien ! La parole est à Monsieur Sébastien Huyghe.
 Madame la présidente, madame la garde des sceaux, ministre de la justice, monsieur le rapporteur, mes chers collègues, cette réforme, on l’a dit bien avant moi, était indispensable.
 Il était nécessaire, pour la compétitivité de notre droit, de mettre la jurisprudence en adéquation avec des textes qui ont bien vieilli et, finalement, avec notre pratique.
 Il y allait de la défense de notre système de droit continental, plus protecteur que les autres systèmes, notamment celui du droit anglo-saxon.
 Pour ma part, je regrette que le texte accorde une place trop grande à la jurisprudence, et nous aurions préféré qu’un certain nombre de dispositions soient plus précises.
-Le droit continental repose en effet sur trois piliers : la loi, démocratiquement votée par le Parlement ; le juge, qui tranche les conflits entre les parties – et il me semble très important de limiter son rôle à cette tâche – ; l’acte authentique, enfin, qui scelle l’accord entre les parties par l’apposition du sceau de l’État.
 Le projet de loi nous inspire plusieurs regrets.
 Le premier, évoqué par certains orateurs avant moi, concerne le recours aux ordonnances.
-Comme vous l’avez dit, madame la garde des sceaux, les dispositions de ce texte sont déjà appliquées depuis un an et demi, ce qui laisse très peu de marges de manœuvre au Parlement : comment modifier des dispositions déjà appliquées depuis quelque temps ? Les professionnels du droit, notamment les magistrats, s’en sont emparés, et elles sont enseignées dans nos universités.
 Dans ces conditions, le Parlement n’a pu modifier le texte qu’à la marge.
 Cela me permet de vous faire part, madame la garde des sceaux, de notre inquiétude quant au recours fréquent du Gouvernement aux ordonnances.
-On nous annonce que le droit des transports sera lui aussi modifié par ordonnances, et une habilitation à légiférer par cette voie a été donnée au Gouvernement pour réformer un droit fondamental, celui de l’informatique et des libertés, lequel nécessitait à mon sens, compte tenu de l’importance qu’il revêt pour les libertés individuelles, un débat parlementaire.
 Malheureusement, nous n’aurons que le droit de ratifier des ordonnances qui, lorsque nous aurons à le faire, seront déjà appliquées depuis un certain temps.
 Ces choix participent aussi de l’affaiblissement du Parlement, et vos déclarations hier, lors des questions au Gouvernement, ne sont pas de nature à nous rassurer quant au respect que vous avez pour lui.
 Vous avez en effet distingué entre les amendements de qualité et ceux qui, à vos yeux, ne le seraient pas.
 C’est, là aussi, un motif d’inquiétude pour nous, relativement à la considération et à la place reconnue au Parlement démocratiquement élu.
-Sur le fond du présent texte, nous nous réjouissons de l’accord trouvé en commission mixte paritaire, notamment sur notre proposition de rendre caduque l’offre contractuelle en cas de décès de son destinataire ; mais, comme dans toute négociation, il faut faire des compromis.
-Ce compromis a été fait, puisqu’il était nécessaire pour aboutir à un accord, mais nous regrettons qu’il soit intervenu sur le maintien du pouvoir de révision du contrat confié au juge dans le cadre du nouveau régime de l’imprévision.
-Cette disposition constitue, à nos yeux, une atteinte trop importante au principe de force obligatoire des contrats ainsi qu’à celui de la liberté contractuelle ; elle donne trop de pouvoir au juge au sein d’une relation strictement contractuelle entre les parties.
 De ce fait, elle constitue une concession bien trop importante au droit anglo-saxon, puisque trop de latitude sera laissée au magistrat, donc à la jurisprudence, laquelle prendra le pas sur le droit positif.
 Nous regrettons donc ce choix, mais comme le présent texte est, dans sa quasi-globalité, nécessaire et indispensable pour le fonctionnement juridique des obligations, nous le voterons bien évidemment avec enthousiasme,… Merci, mon cher collègue.
 …d’autant que l’ordonnance, je le répète, est déjà en application depuis plus d’un an et demi.
@@ -202,16 +166,12 @@ Longtemps attendue et réclamée par les praticiens du droit, elle a permis nota
 Il était nécessaire de faire évoluer notre droit des contrats afin de l’adapter aux besoins d’aujourd’hui et de renforcer l’attractivité du droit français.
 Cette réforme permet de rapprocher notre législation de celle d’autres États membres de l’Union européenne, et nous sommes, au groupe MODEM et apparentés, très favorables aux initiatives d’harmonisation au niveau européen.
 Bien que le Sénat se soit opposé à ce que la réforme du droit des contrats intervienne par voie d’ordonnance, nous sommes heureux de constater l’efficacité de la navette parlementaire sur le texte de ratification.
-En effet, au terme des deux lectures dans les deux chambres, des points d’accord ont pu être trouvés, et cet état d’esprit partagé entre sénateurs et députés aura permis d’aboutir, en commission mixte paritaire, à un texte de compromis satisfaisant pour tous, que nous nous apprêtons à voter.
 Il est vrai que certaines dispositions de l’ordonnance ont été contestées et pouvaient poser des difficultés aux praticiens du droit.
 La plupart de ces difficultés ont été identifiées, abondamment commentées et corrigées par le travail parlementaire.
 Je tiens d’ailleurs à remercier les deux rapporteurs, Sacha Houlié à l’Assemblée et Philippe Bas au Sénat, pour l’important travail qu’ils ont effectué.
-Je rappelle que la loi du 16 février 2015 avait pour objet de moderniser, d’améliorer la lisibilité, de renforcer l’accessibilité du droit commun des contrats, du régime des obligations et du droit de la preuve et de garantir la sécurité juridique et l’efficacité de la norme.
 Il était nécessaire de renforcer l’attractivité du droit français en avançant vers l’harmonisation de notre législation avec d’autres droits internationaux.
 Il ne s’agit pas seulement, en effet, de mettre en conformité notre code civil avec le droit positif, mais aussi d’améliorer la compétitivité de notre système juridique, au service de notre territoire.
 L’ordonnance améliore l’efficacité économique de notre droit civil.
-Les articles 2,3 et 4 du titre Iier, par exemple, qui portent sur les sources des obligations, introduisent des solutions innovantes, telles que les actions interrogatoires ou la possibilité, en cas d’inexécution de son cocontractant, de solliciter une réduction de prix.
-Par ailleurs, diverses dispositions – relayant des demandes directes des acteurs concernés – précisent les rôles et les pouvoirs de chacun, en particulier du juge, à l’article 1195 du code civil, écartant ainsi les éventuels préjudices aux entreprises que les diverses interprétations possibles des dispositions du texte faisaient courir.
 Le texte que nous allons adopter est une bonne synthèse entre les points de divergence qui demeuraient entre le Sénat et l’Assemblée.
 Nous nous réjouissons d’avoir pu aboutir à une rédaction qui apporte des modifications suffisamment limitées pour ne pas créer d’instabilité juridique, mais également nécessaires pour combler quelques difficultés pratiques.
 Pour l’ensemble de ces raisons, le groupe MODEM et apparentés se réjouit de l’adoption imminente de ce projet de loi.
@@ -234,7 +194,6 @@ Il est rédactionnel.
 Je suis saisie de deux amendements, numéros 217 et 338, pouvant être soumis à une discussion commune.
 La parole est à Madame Laetitia Saint-Paul, rapporteure pour avis de la commission des affaires étrangères pour soutenir l’amendement numéro 217.
 Cet amendement vise à mettre en valeur les coopérations avec nos alliés allemands, britanniques et américains.
-Je tenais à ce que figure dans le texte la feuille de route résultant du conseil des ministres franco-allemand du 13 juillet 2017 et à rappeler notre attachement au traité de Lancaster House, en dépit du choix des Britanniques d’opter pour le Brexit.
 La parole est à Madame Nicole Trisse, pour soutenir l’amendement numéro 338.
 La coopération permet de générer des marges d’action supplémentaires et de démultiplier les efforts.
 Cet amendement, proche de celui que Laetitia Saint-Paul vient de défendre, vise à clarifier l’alinéa 363 en mettant en valeur les coopérations avec nos amis britanniques, américains et allemands.
@@ -269,7 +228,6 @@ En raison de la forte demande, il est proposé de les renforcer afin de doubler 
 Actuellement, le nombre d’opérations de formation effectuées par les EFS s’élève actuellement à 250 par an – comme j’ai pu le constater sur place, car ces unités relèvent de ma circonscription.
 Une augmentation très légère de leurs capacités permettrait de doubler leur potentiel de formation.
 Quel est l’avis de la commission ? Je suis très embêté, monsieur le député.
-Sur le fond, je suis tout à fait en accord avec cette demande, que les éléments français au Sénégal avaient d’ailleurs déjà exprimée, je m’en rappelle, à l’occasion d’une visite que nous leur avions faite avec Madame la ministre.
 Du reste, le projet de loi de programmation militaire va dans ce sens, puisque le rapport annexé spécifie que nos efforts de formation en direction des différents partenaires africains passeront de 20 000 à 30 000 hommes.
 Une telle évolution représente sinon un doublement, du moins une augmentation de 50 %.
 Cependant, vous ne citez que les EFS à propos de notre dispositif de formation, alors que celui-ci s’étend à toute la région.
@@ -277,21 +235,16 @@ Je songe par exemple à celui qui est basé à Abidjan.
 Votre amendement est donc trop réducteur : s’il est certes nécessaire de mentionner la situation au Sénégal et notre présence sur place, il ne faut pas, ce faisant, limiter cette présence aux EFS.
 Je suis donc, je le répète, tout à fait d’accord avec vous – nous en avions d’ailleurs parlé – mais, ainsi rédigé, votre amendement ne peut être accepté.
 Je ne peux donc, à regret, qu’émettre un avis défavorable.
-Quel est l’avis du Gouvernement ? Je comprends parfaitement la portée de votre amendement, monsieur le député, mais il me semble que le rapport annexé répond à votre interpellation : son paragraphe 74, qui fait partie de la rubrique intitulée «La prévention», rappelle la configuration du réseau de bases opérationnelles avancées et de pôles opérationnels de coopération, citant le Sénégal, et se conclut ainsi : «Les capacités à former et entraîner sur place des militaires de nations partenaires et alliées (passage de 20 000 à 30 000 stagiaires formés par an) sont accrues.» En outre, comme l’a dit Monsieur le rapporteur, la rédaction de votre amendement risque de laisser penser que seules les forces françaises basées au Sénégal contribuent au dispositif alors que, comme l’indique le paragraphe que je viens de résumer, c’est évidemment l’ensemble du dispositif des bases opérationnelles avancées et des pôles opérationnels de coopération qui est visé.
 Pour ces raisons, je vous demande de bien vouloir retirer votre amendement.
 La parole est à Monsieur M’jid El Guerrab.
 Madame la ministre, monsieur le président de la commission, je vous ai bien entendus.
 Je vous remercie de vos propos, monsieur le président.
 Mon amendement était un amendement d’appel ou, si l’on veut, de mise en lumière.
-Dans le cadre de notre politique stratégique de défense, il faut vraiment penser la coopération militaire et les actions de ce type qui accompagnent les armées, notamment dans la zone en question, où nous sommes très impliqués et qui fait partie de ma circonscription.
 Ces opérations très appréciées doivent être développées.
 Je retire mon amendement.
 La parole est à Madame Laetitia Saint-Paul, rapporteure pour avis, pour soutenir l’amendement numéro 182.
 Vous le savez tous, les conflits se complexifient ; nous avons longuement parlé ici même des questions de guerre hybride – qui sont l’essence même de la guerre.
-Désormais, les solutions simples ou compartimentées ne suffiront plus, car enfermer chaque fonction dans une case du damier conduit à des effets pervers : il faut aujourd’hui penser le damier dans son ensemble, c’est-à-dire penser ensemble les questions de culture, d’éducation, de défense et de développement, et renforcer l’approche globale.
-Cet amendement a donc pour but de mettre fin aux clivages dans le processus de conduite de la paix, mais aussi, au-delà de la prévention des crises, de permettre d’envisager le déploiement de projets selon une approche globale dans les zones déstabilisées.
 Quel est l’avis de la commission ? Je l’ai expliqué en commission, je ne suis pas favorable à cet amendement, non parce que j’en désapprouverais l’intention, mais parce que tout est déjà dit dans le texte.
-Voyez la dernière phrase de l’alinéa 368, qui fait suite à l’énoncé et à la description de la fonction stratégique de prévention : «Cet effort s’inscrira dans le cadre d’une approche globale consolidée» – ou renforcée, si l’on veut – «alliant sécurité, développement et diplomatie, au service de la paix».
 Je vous demande donc de bien vouloir retirer votre amendement, madame la députée, car il me paraît largement satisfait.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Philippe Chalumeau.
@@ -306,7 +259,6 @@ La parole est à Madame la rapporteure pour avis.
 Je retire mon amendement.
 Merci ! C’est dommage ! La parole est à Madame Nicole Trisse, pour soutenir l’amendement numéro 307.
 Le maintien et la compétitivité de la base industrielle et technologique de défense, nationale et européenne, constituent un objectif prioritaire pour assurer l’autonomie stratégique nationale et européenne et la préservation des emplois et compétences.
-L’ordonnance du 23 juillet 2015 relative aux marchés publics met en œuvre le principe de préférence européenne dans les marchés publics de défense ou de sécurité en excluant de la procédure les opérateurs économiques qui ne viennent pas d’États membres de l’Union européenne ou de l’espace économique européen.
 Il importe de rappeler ici la force de ce principe et d’en assurer la mise en œuvre effective.
 Quel est l’avis de la commission ? Avis très favorable.
 Cet amendement est bienvenu au moment où nous parlons de la nécessité de créer une base industrielle et technologique de défense au niveau européen pour faire naître une forme d’autonomie stratégique européenne.
@@ -314,21 +266,16 @@ La parole est à Monsieur Bastien Lachaud, pour soutenir l’amendement numéro 
 La pertinence du choix du développement d’une industrie européenne de défense nous laisse dubitatifs, pour deux raisons principales.
 Premièrement, l’expérience des précédents partenariats européens, qui ont systématiquement échoué.
 Prenons l’exemple de l’A400M : certes, il vole, mais à quel prix, et moyennant quels délais ? Le problème est que, dans ces partenariats, chaque pays veut construire ce qu’il ne sait pas faire, pour réaliser une progression technologique.
-La France, l’un des rares pays au monde à savoir construire tout seul un avion, a-t-elle véritablement besoin de tels partenariats ? N’en est-elle pas plutôt la dupe ? Pour expliquer la seconde raison de nos doutes, je citerai cette fois l’exemple de Nexter, qui a créé une joint venture avec l’Allemand KMW.
 On a une société française qui fabrique des blindés, une société allemande qui fabrique des blindés : faisons donc une société européenne qui fabrique des blindés.
-Très bien, mais où est situé le siège social de la joint venture, KNDS ? À Amsterdam, c’est-à-dire ni en France, ni en Allemagne, mais aux Pays-Bas, qui ont été qualifiés par Monsieur Moscovici lui-même d’«agressifs» en matière de fiscalité, c’est-à-dire, sans euphémisme, de paradis fiscal.
-Nous allons donc créer des sociétés d’armement européennes qui ne vivront que de fonds publics et s’installeront dans des pays européens qui sont des paradis fiscaux, privant ainsi la France – nous sommes des députés français – des justes recettes fiscales qu’elles devraient lui verser.
 Nous ne sommes pas d’accord.
 Voilà pourquoi nous demandons la suppression de l’alinéa 373.
 Quel est l’avis de la commission ? Pardonnez-moi de faire un peu d’humour.
 Qui veut noyer son chien l’accuse de la rage… (Sourires sur plusieurs bancs du groupe LaREM.) Certains partenariats européens ne fonctionnent effectivement pas très bien, mais vous auriez pu en citer d’autres qui sont une réussite.
 Lesquels ? Eh bien, par exemple, en matière missilaire, MBDA, issu d’un partenariat franco-britannico-italien.
 Nous envisageons aujourd’hui le remplacement de nos équipements majeurs dans le cadre d’un partenariat européen.
-Après la feuille de route franco-allemande pour le système de combat aérien futur, le fameux SCAF, un partenariat se noue entre deux États, mais aussi entre des industriels : deux grands groupes qui y travaillent ensemble, dont un franco-français, Dassault, et un franco-européen, Airbus.
 On pourrait multiplier les exemples.
 Vous avez parlé de Nexter et de KMW : c’est le char du futur qui est concerné, ce pourrait être aussi l’artillerie du futur.
 On peut encore citer, en matière maritime, les patrouilleurs et ravitailleurs qui seront certainement construits en coopération avec les Italiens.
-Ne jetons donc pas le bébé avec l’eau du bain, mais prenons appui sur la volonté des États et sur le savoir-faire et l’expertise de nos groupes industriels européens pour créer une véritable coopération industrielle au niveau européen, qui permette de réaliser des projets efficaces, car répondant aux besoins de nos armées, et compétitifs pour nous comme à l’extérieur, c’est-à-dire exportables.
 Nous avons foi dans cette ambition européenne.
 C’est un point de désaccord entre nous.
 Voilà pourquoi je suis défavorable à votre amendement.
@@ -341,18 +288,13 @@ Non, pas du tout.
 Et aujourd’hui, vous nous dites qu’il faut abandonner les coopérations industrielles européennes dans le domaine de la défense, qui sont la première pierre à poser pour bâtir cette défense européenne.
 Votre stratégie consiste donc, en définitive, à laisser l’Europe aussi démunie que le banc de poissons face au chalutier ! C’est bien cela ? (Applaudissements sur les bancs du groupe LaREM.) La parole est à Monsieur Bastien Lachaud.
 Monsieur Becht, vous nous avez mal écoutés.
-Nous avons toujours dit que la défense européenne était aujourd’hui, du fait même des traités, soumise à l’OTAN, ce qui la rend impensable – d’autant plus qu’une défense commune implique un peuple souverain, qui n’existe pas au niveau de l’Europe.
 Monsieur le président et rapporteur, vous avez cité MBDA : c’est un cas très particulier, où plusieurs entreprises coexistent au sein d’un même groupe et où le partage des compétences n’est pas évident.
 Quant au SCAF, l’exemple est très intéressant : il n’existera que si les Allemands sont d’accord.
-Nous saurons très vite si ces derniers sont un partenaire potentiel, puisqu’ils doivent remplacer une partie de leur flotte ; or – nous le savons tous, nous vous l’avons dit en commission, madame la ministre, et vous êtes d’accord – s’ils font le choix du F-35 américain, nous ne nouerons pas de partenariat avec eux concernant le SCAF.
-Les Allemands n’ont même pas considéré l’achat d’un Rafale ; ils envisagent potentiellement d’acheter un Eurofighter, mais comme je vous le disais mardi, les pressions américaines se font tous les jours plus importantes pour faire pencher les autorités allemandes vers le F-35, seul avion capable aujourd’hui de transporter les bombes nucléaires américaines.
 Ce choix soumettrait les Allemands aux normes OTAN et interdirait toute possibilité de développer une défense européenne – cela devrait vous intéresser, monsieur Becht.
 La semaine dernière, Washington a réaffirmé sa position avec force et conviction aux Allemands ; nous verrons très vite ce que ceux-ci vont faire, mais en tout état de cause, le doute est aujourd’hui permis.
 La parole est à Monsieur Jean-Jacques Bridey, rapporteur, pour soutenir l’amendement numéro 367.
 C’est un amendement rédactionnel.
 La parole est à Monsieur Thomas Gassilloud, pour soutenir l’amendement numéro 80.
-Madame la présidente, madame la ministre, madame la secrétaire d’État auprès de la ministre des armées, madame et messieurs les rapporteurs, avec mon collègue Olivier Becht, nous menons depuis fin 2017 une mission d’information sur les enjeux de la numérisation dans les armées – sujet important puisque, comme il a déjà été souligné de nombreuses fois, notre supériorité opérationnelle repose de plus en plus sur notre capacité à innover, notamment grâce au numérique.
-Pour innover, il faut modifier certaines de nos procédures, peut-être certains de nos statuts, changer le regard que nous portons sur le droit à l’erreur ; mais il faut également atteindre une masse critique comparable à celle de nos compétiteurs technologiques tels que les États-Unis ou la Chine.
 L’échelle européenne, que le rapport annexé présente très justement comme pertinente pour bon nombre de développements capacitaires, l’est également pour conduire certains projets de recherche et développement à long terme.
 Cet amendement propose donc, chers collègues, d’en faire état dans le rapport annexé.
 Quel est l’avis de la commission ? Avis très favorable à cet amendement déposé par nos deux collègues qui s’occupent de la mission d’information sur la numérisation.
@@ -369,10 +311,8 @@ N’ayant aucune opposition de fond, seulement un problème de forme, je m’en 
 La parole est à Monsieur Bastien Lachaud, pour soutenir l’amendement numéro 22.
 Cet amendement concerne les liens entre nos armées et les industries de défense.
 Celles-ci sont au service de celles-là ; cela devrait être la règle, et pourtant au fil de ce rapport annexé on se demande régulièrement si ce n’est pas l’inverse.
-On y lit ainsi que le recrutement de 400 personnes doit favoriser l’export ; on y trouve des allusions au fait qu’il est bon d’envoyer des forces au combat car cela permet de montrer la qualité des armes françaises.
 En définitive, on se demande si nos armées ne se transforment pas en VRP de nos industriels.
 C’est scandaleux ! Non, c’est ce qui est écrit.
-N’importe quoi ! Cet amendement vise à s’assurer que nous avons mal compris et qu’il n’est pas dans l’intention du Gouvernement de laisser penser que l’usage de nos armes pourrait doper les ventes de nos industriels.
 Quel est l’avis de la commission ? Avis défavorable.
 D’abord, les industries de défense n’ont pas le droit d’exporter ; c’est par dérogation gouvernementale qu’elles exportent.
 Ensuite, si nous voulons maintenir une base industrielle et technologique de défense française, voire européenne, nous devons être en mesure de répondre aux besoins de nos armées, mais également d’exporter des équipements.
@@ -383,13 +323,11 @@ C’est donc un lien à double sens entre les besoins de notre nation et notre b
 La parole est à Madame Nicole Trisse, pour soutenir l’amendement numéro 308.
 Pour avancer de manière efficace en matière de coopération industrielle et technologique, il importe de ménager les capacités d’exportation des États et industriels concernés.
 Il s’agit de s’assurer que le modèle économique de ces coopérations est solide et durable pour l’ensemble des acteurs.
-La formulation de cet amendement – «exporter ou laisser exporter des matériels d’armement issus de développement ou de production menés en coopération» – vient des accords Debré-Schmidt de 1972 et a déjà été approuvée par la France dans le cadre d’une relation bilatérale.
 Quel est l’avis de la commission ? Avis favorable.
 Pour moi, la France fait exactement ce qu’il faut faire : nous respectons scrupuleusement les procédures définies collectivement, au sein de l’Union européenne, au travers de la position commune 2008/944/PESC.
 Les blocages relèvent sûrement de différends politiques entre gouvernements, et c’est au niveau politique qu’il faut les lever.
 Nous estimons pour notre part que du moment où certaines règles sont respectées, nos industriels doivent pouvoir exporter ; votre amendement reprécise cette position.
 La parole est à Monsieur Jean-Jacques Ferrara, pour soutenir l’amendement numéro 101.
-Madame la présidente, madame la ministre, madame la secrétaire d’État, madame et messieurs les rapporteurs, cet amendement concerne le recrutement de personnel dédié au soutien à l’exportation – une des missions cruciales confiées à nos armées, qui s’en acquittent avec sérieux et dévouement.
 Je n’ai pas besoin de vous rappeler l’importance de cette tâche, que mon collègue avait pourtant l’air de remettre en cause.
 Elle incombe à toutes les directions et à tous les services du ministère des armées.
 Par conséquent, il me semble juste de préciser que les 400 nouveaux postes bénéficieront à toutes ces entités.
@@ -397,16 +335,10 @@ Quel est l’avis de la commission ? Monsieur Ferrara, je vous avais demandé de
 Cette précision est utile et je suis tout à fait d’accord avec la nouvelle rédaction que vous nous proposez.
 («Ah !» sur les bancs du groupe LR.) Avis favorable à cet amendement dont j’espère qu’il sera adopté à l’unanimité.
 La parole est à Madame Aude Bono-Vandorme, pour soutenir l’amendement numéro 309.
-Madame la présidente, mesdames les ministres, madame et messieurs les rapporteurs, chers collègues, le présent amendement propose d’ajouter un alinéa après l’alinéa 388 afin de reconnaître les nouvelles ambitions européennes en matière de défense et de prendre en compte les opportunités de coopération au niveau européen.
 Certaines existent d’ores et déjà.
-Pour ne citer que quelques moyens mis en œuvre par le commandement interarmées de l’espace, le système Helios est notamment employé par le centre satellitaire de l’Union européenne ; s’y substituera, dans la période couverte par la LPM, la composante spatiale optique, avec le projet MUSIS – Système multinational d’imagerie spatiale pour la surveillance, la reconnaissance et l’observation – réalisé avec la participation de cinq autres États membres de l’Union européenne.
 Nous bénéficions également de la coopération de l’Allemagne et de l’Italie dans le domaine de l’imagerie radar et plus spécialement de celle de l’Italie en matière de télécommunications militaires.
 Au-delà des coopérations bi- ou multilatérales traditionnelles, il s’agit également de reconnaître les nouvelles ambitions de l’Union européenne en matière de défense et dans le domaine spatial.
 Comme le rappelle le rapport annexé à son alinéa 361, nous devons avoir un «réflexe européen dans la conduite de notre politique industrielle de défense».
-Ce réflexe doit se traduire non seulement par la recherche de partenariats, mais aussi par l’usage des instruments juridiques et financiers mis en place dans le cadre de l’Union européenne, ce qui justifie la référence au Fonds européen de défense.
-Alors que nous partageons avec nos partenaires européens le constat d’un accroissement des risques stratégiques et que l’Union européenne a cette année pour la première fois formulé une politique en matière spatiale, il apparaît important d’affirmer la volonté de la France de contribuer par ses efforts dans le domaine spatial à la construction de «l’autonomie stratégique européenne», objectif rappelé dès les premières lignes du rapport annexé au projet de LPM, alinéa 6.
-Quel est l’avis de la commission ? C’est un avis favorable très enthousiaste que moi-même et l’ensemble des membres de la commission de la défense donnons à cette proposition, et je veux vous remercier et vous féliciter pour tous les cinq amendements que vous présentez, qui feront l’objet du même avis.
-Vous avez fait un gros travail sur la question de l’espace exo-atmosphérique, l’une de nos priorités et l’un des enjeux de cette LPM ; si nous ne nous en saisissons pas, nous serons dépassés et perdrons la bataille de l’espace.
 Vos amendements apportent des précisions bienvenues au texte.
 Encore une fois, félicitations et merci pour cette présentation ! (Applaudissements sur les bancs des groupes LaREM et MODEM.) Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Bastien Lachaud.
@@ -415,12 +347,10 @@ Quel rabat-joie ! (Sourires sur les bancs du groupe LaREM.) Eh oui, que voulez-v
 En effet, les accords de Schwerin, qui représentent une sorte de «Yalta de l’espace» entre la France et l’Allemagne, réservent à la première les satellites d’observation et à la seconde les satellites radar.
 Or les Allemands les ont, de fait, déchirés en décembre dernier en se lançant dans la fabrication de satellites optiques.
 L’Allemagne développe ainsi ses capacités en matière de satellites optiques, tandis que la France n’en fait pas autant pour les satellites radar.
-Une fois de plus, nous sommes les dupes de ces accords ! (Exclamations sur plusieurs bancs du groupe LaREM.) En contrepartie de ces accords, qui ont été renouvelés en 2015, nous avons pourtant donné à l’Allemagne la partie industrielle principale du futur drone de moyenne altitude et à longue endurance – MALE – au point que les équipes de Dassault aviations ont été rapatriées en France.
 Cela montre bien que, tandis que la France respecte ses engagements européens, ses partenaires, eux, ne respectent pas les leurs : la France est bel et bien dupée.
 C’est pourquoi nous voterons contre cet amendement.
 La parole est à Madame la rapporteure pour avis.
 Je crois qu’il ne faut pas jeter le bébé avec l’eau du bain.
-Le programme Galileo nous permet, à nous Européens, d’être indépendants par rapport au système américain GPS… Nous pouvons parler de Galileo si vous voulez ! …sachant que nous utilisons tous un système de positionnement par satellite au moins quatre fois par jour.
 Seule l’Europe nous permettra d’atteindre une autonomie stratégique dans ce nouvel espace.
 La parole est à Monsieur Joaquim Pueyo.
 Je ne suis pas tout à fait d’accord avec Monsieur Lachaud, car l’Europe spatiale me semble justement un bon exemple de coopération réussie.
@@ -437,8 +367,6 @@ Je précise qu’elle n’est pas le fruit d’une coopération de l’Union eur
 La France en est une pièce maîtresse.
 Vous avez parlé du programme Galileo, madame la rapporteure pour avis.
 Mais ce programme ne dépend pas de l’ESA : c’est une mission spatiale développée par le biais de l’Union européenne.
-Et c’est précisément à cause de la décision, prise par la Commission européenne, de confier la construction des composants du système non pas aux pays qui savaient le faire, mais à ceux qui voulaient apprendre le faire, que ce programme a connu énormément de retards.
-Vous allez dire que je suis obsessionnel, et que je devrais aller chez le psychiatre,… (Exclamations sur les bancs du groupe LaREM.) Quand même ! Permettez-moi cette pointe d’humour ! Ils n’en ont pas, d’humour ! …mais c’est parce que la construction de certains composants a été confiée à l’Allemagne que le programme Galileo a connu des retards.
 À l’inverse, l’ESA fonctionne bien parce qu’elle ne rassemble que des pays qui savent faire, et font bien.
 Lorsqu’un programme est rattaché à l’Union européenne, lorsque c’est la Commission qui décide quels pays seront chargés de quelles composants, cela ne fonctionne pas.
 Voilà pourquoi, madame la rapporteure pour avis, nous ne voulons pas jeter l’ESA avec l’eau du bain ; nous voulons examiner tous les partenariats, les uns après les autres.
@@ -448,7 +376,6 @@ Toute coopération industrielle est le fruit d’une volonté politique : c’es
 Or les projets politiques peuvent aussi bien réussir que connaître des retards, voire des échecs.
 Faisons donc très attention.
 Concernant Galileo, monsieur Lachaud, ce programme a certes pris du retard, mais la France seule n’aurait jamais pu développer un système de positionnement par satellite.
-Même si elle en avait eu les moyens et l’ambition, c’eût été dommage : chaque pays ne va pas développer son propre système de positionnement par satellite ! Arrêtons de nous plaindre : certes, le projet européen a pris du retard, mais il fonctionne aujourd’hui, et nous ne sommes plus dépendants des États-Unis – ce qui devrait vous satisfaire.
 Je maintiens donc l’avis favorable, et même enthousiaste, que j’ai donné à cet amendement.
 La parole est à Madame Aude Bono-Vandorme, pour soutenir l’amendement numéro 288.
 La banalisation de l’accès à l’espace, rappelée à l’alinéa 388 du rapport annexé, entraîne des conséquences de deux ordres.
@@ -462,7 +389,6 @@ Elles nous ont permis de développer notre collaboration avec nos alliés sur un
 À l’heure actuelle, néanmoins, nos capacités ne sont pas complètes, et reposent en partie sur le réseau SSN des États-Unis.
 Or les capacités de ce réseau pourraient être privatisées, ce qui limiterait encore davantage notre accès à ces services.
 Comme le rappelle le rapport annexé, il est indispensable pour la France et l’Union européenne d’acquérir en propre ces capacités afin de garantir leur autonomie stratégique, ambition énoncée dès l’alinéa 5.
-Certes, la France peut renforcer seule ses capacités, mais compte tenu de l’importance des investissements nécessaires, et des défis technologiques à relever pour parvenir à une capacité complète de connaissance de la situation dans l’espace, il apparaît que le niveau européen est le plus approprié, en raison de l’ampleur des moyens qui peuvent y être mobilisés et de la complémentarité technologique et industrielle des différents États.
 La parole est à Monsieur Thomas Gassilloud.
 À ce stade de la discussion, compte tenu de ce que j’entends, j’aimerais appeler à Monsieur Lachaud à plus de pragmatisme.
 Depuis hier, nous avons entendu beaucoup de critiques vis-à-vis de l’OTAN : mais l’OTAN, c’est ce qui nous permet de normaliser beaucoup de matériels, et ainsi d’être plus efficaces sur le champ de bataille.
@@ -475,7 +401,6 @@ J’appelle également à méditer l’adage suivant : seul, on va plus vite, ma
 Il s’agit d’un amendement de précision.
 L’une des lignes de force de ce projet de loi de programmation militaire est d’inscrire nos efforts de défense dans le cadre européen et de soutenir le développement effectif de la nouvelle ambition européenne en la matière.
 Le rapport annexé cite, à l’alinéa 388, les quatre dimensions les plus importantes du domaine spatial militaire : les télécommunications, la navigation, la surveillance et l’écoute spatiales.
-Des initiatives européennes correspondent à trois de ces domaines, qu’elles soient déjà opérationnelles, comme le service Galileo PRS en matière de navigation ou le programme SSA de surveillance de l’espace, ou à l’état de projet, comme le programme GovSatCom.
 Nous nous félicitons de l’existence de ces projets européens.
 Conformément aux orientations de la Revue stratégique et du rapport annexé, il nous semble nécessaire de confirmer, dans le projet de loi de programmation militaire, que la France s’engage à mener à bien ces initiatives.
 La parole est à Madame Aude Bono-Vandorme, pour soutenir l’amendement numéro 311.
@@ -491,7 +416,6 @@ La parole est à Madame Aude Bono-Vandorme, pour soutenir l’amendement numéro
 La conception et la réalisation d’un satellite requièrent une dizaine d’années pour un équipement ayant une durée de vie équivalente.
 Au vu de l’accélération des progrès techniques, il devient extrêmement hasardeux de garantir pour vingt ans la supériorité opérationnelle d’un matériel.
 En matière spatiale, une solution consisterait à détenir une capacité de mise à jour et d’amélioration des équipements en orbite.
-À l’heure actuelle, la maintenance en orbite se limite aux activités humaines en orbite basse, mais à l’avenir la durée de vie des satellites pourrait être allongée grâce à des opérations de maintenance en orbite par des véhicules automatisés.
 Une telle capacité serait réellement disruptive.
 Certes cette technologie n’en est qu’à ses prémisses, mais certains de nos alliés investissent massivement dans ce domaine.
 Par ailleurs, il apparaît opportun de laisser ouverte l’énumération de l’alinéa 404.
@@ -516,7 +440,6 @@ La souveraineté de la France en mer s’en trouve alors évidemment affaiblie.
 Or notre pays doit maintenir des capacités d’intervention aéronavale sur l’ensemble des océans, être capable de défendre nos possessions ultramarines mais également de veiller sur de nouveaux enjeux tels que les câbles sous-marins.
 La LPM prévoit d’engager des études pour le renouvellement d’un porte-avions.
 Nous, au groupe UDI-Agir, proposons que soit mentionnée la possibilité de plusieurs porte-avions.
-Bien que sachant que ce n’est pas cette LPM qui va trancher et que ce n’est pas même dans le cadre de ce quinquennat que sera décidé leur nombre à venir, nous pensons néanmoins nécessaire de maintenir la porte ouverte.
 Chacun sait comment les choses se passent : lorsqu’il s’est agi de remplacer le Foch et le Clemenceau, il avait d’abord été prévu de construire trois porte-avions, puis deux et, in fine, ce fut un.
 Afficher dans cette LPM l’ambition de n’avoir qu’un seul porte-aéronefs alors même qu’est envisagée la possibilité de remplacer le Charles de Gaulle par deux bâtiments nous paraît délicat.
 Nous proposons de ne pas insulter l’avenir en inscrivant dans le texte la possibilité de disposer d’un nouveau ou de plusieurs porte-avions».
@@ -527,10 +450,8 @@ Nous ne savons pas avec précision quand ce porte-avions sera retiré puisque la
 On ne sait donc pas si ce sera en 2040, 2041 ou même 2039.
 Aujourd’hui, par exemple, parmi nos sous-marins nucléaires d’attaque en service actuellement, l’un peut être prolongé et pas l’autre, alors qu’ils ont été construits et utilisés de la même manière.
 Nous ne saurons donc qu’en 2037, mais il faut s’y préparer en lançant les études dès maintenant.
-La seconde raison scelle notre désaccord, monsieur Becht : les contrats opérationnels définis par la Revue stratégique – à laquelle je me réfère, ne vous en déplaise – et inscrits de ce fait dans le rapport annexé, prévoient un seul groupe aéronaval, et par conséquent un seul porte-avions.
 La doctrine française est aujourd’hui basée sur ce chiffre.
 Que cette doctrine évolue dans les années à venir, nous verrons, mais ce sera une décision purement stratégique et prise, à ce titre, par le Président de la République alors en place.
-En tout cas, il faut lancer les études puis voir, en fonction du contexte géopolitique et du degré d’avancement de la coopération avec nos alliés occidentaux les plus techniquement capables, comment mettre en place cette permanence à la mer que vous appelez de vos vœux.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Laurent Furst.
 Avant d’en venir à l’amendement de notre collègue, je note que les Alsaciens, pourtant si loin de la mer, défendent en permanence la marine.
@@ -545,11 +466,9 @@ Voilà la réalité.
 On est très fiers du porte-avions, du groupe aéronaval, mais c’est tout de même un handicap terrible de n’en avoir qu’un.
 Les études préparatoires sont certes excessivement chères, mais on sait que construire un deuxième porte-avions dans la foulée du premier revient à peu près à 30 % moins cher.
 Il y a toute une réflexion à mener en globalité sur un porte-avions.
-Bien des éléments sont à prendre compte, comme le mode propulsion ou la chaufferie – nos turbines sont-elles encore des turbines d’avenir ou bien faut-il les moderniser, en fabriquer de plus puissantes ? Quel avion poser sur ce porte-avions ? Il y a certes beaucoup de questions à se poser, mais si l’on y répond pour le premier, il faut aussi se poser la question de la permanence à la mer.
 La parole est à Madame la ministre.
 Le porte-avions est un sujet qui soulève des questions très légitimes.
 Je rappelle que la priorité, c’est de lancer les études dans les temps pour que, le moment venu, c’est-à-dire hors du champ temporel de cette loi de programmation militaire, des décisions puissent être prises.
-Le rapport annexé prend parfaitement en compte la question posée par les uns et les autres : lorsque la décision de remplacer le Charles de Gaulle devra être prise, portera-t-elle sur la construction d’un seul porte-avions ou de deux ? Relisons l’alinéa 411 : les études permettront «de lancer une éventuelle commande anticipée d’un nouveau porte-avions.» Cette phrase ouvre la possibilité qu’il y ait à ce moment-là deux porte-avions en fonctionnement et non pas un.
 S’il nous faut admettre que nous ne sommes pas encore arrivés à cette échéance, rien n’empêche dans ce texte, si la décision était prise, d’en construire deux.
 La parole est à Monsieur Bastien Lachaud.
 La question du deuxième porte-avions est importante pour plusieurs raisons.
@@ -568,9 +487,7 @@ La parole est à Monsieur Olivier Becht.
 Je remercie Madame la ministre de son ouverture sur le sujet.
 Je suis d’accord que la LPM maintient l’ambition d’un deuxième porte-avions, mais je pense qu’il serait bon de la réaffirmer, et pas exclusivement par rapport à nos possessions ultramarines.
 Je rappelle que 90 % du commerce mondial passe encore par la mer, que notre pays doit donc maintenir sa souveraineté et son rang sur les mers.
-Je souhaite que nos enfants n’aient pas un jour à prononcer à leur tour cette phrase du cardinal de Richelieu : «Les larmes de nos souverains ont le goût salé de la mer qu’ils ont ignorée.» La parole est à Monsieur Charles de la Verpillière.
 Je crois que la formulation de cet alinéa 411 nous place malgré tout dans un entonnoir, madame la ministre.
-Vous nous dites qu’on va conduire des études et qu’on prendra après la décision, soit d’attendre le retrait du porte-avions Charles de Gaulle pour en mettre un nouveau en service, soit de l’anticiper pour produire pendant un certain temps un effet de tuilage, faisant coexister provisoirement deux porte-avions.
 L’ennui, c’est qu’il sera un peu tard, car quand on va faire les études, on ne cherchera pas les mêmes choses selon l’option en vue.
 S’il l’on n’envisage qu’un seul porte-avions après le retrait du Charles de Gaulle, on voit grand, on fait un gros porte-avions, puissant et de grande capacité.
 Si l’on se dit que l’on en commandera peut-être deux, comme le Foch et le Clemenceau dans les années 1960, on peut voir plus petit et l’on n’étudie pas, alors, le même type de porte-avions.
@@ -585,19 +502,16 @@ On l’a connu meilleur ! Je vais être très clair, et ma réponse vaudra pour 
 Vous vous interrogez sur le rôle du Parlement dans les années à venir, mais on peut aussi s’interroger sur le rôle du Gouvernement.
 Pour ma part, je ne souhaite pas que l’essentiel de son action consiste à rédiger des rapports.
 J’émettrai donc un avis défavorable, et même extrêmement défavorable, à tous les amendements demandant un rapport au Gouvernement.
-En outre, le rapport que vous demandez ici porte sur des études : après les études et le rapport, vous voudrez encore faire un bilan, et une étude de ce bilan ? Des études vont être réalisées, qui répondront à un cahier des charges précis, comme cela est indiqué dans le rapport annexé.
 Bornons-nous à lancer ces études et attendons leurs conclusions.
 Je suis certain que le Gouvernement nous les communiquera, à tout le moins qu’il en informera la commission de la défense et des forces armées.
 Avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Laurent Furst.
-Monsieur le rapporteur, je comprends le sens de votre réponse, mais si les parlementaires demandent un certain nombre d’informations et de précisions, et donc de rapports, c’est parce qu’ils ressentent le besoin d’être plus et mieux informés.
 Il me semble qu’on ne peut pas, comme vous le faites, fermer la porte à toute communication d’information au Parlement.
 Nous avons besoin de communication, nous avons besoin d’en savoir plus, nous avons besoin de savoir mieux, nous avons besoin de bases de travail et de bases de discussion.
 Nous ne demandons pas l’équivalent de l’Encyclopédie Universalis, ni une communication de l’Académie française.
 Nous demandons simplement des éléments d’information.
 Je peux comprendre votre réponse, en un sens.
-Si vous ne voulez pas entendre parler de rapport, parlons au moins de communication : le canal de la communication doit être maintenu, et les parlementaires doivent pouvoir demander au Gouvernement des informations complètes et détaillées sur un certain nombre de thématiques.
 Je trouve votre réponse, monsieur le rapporteur, trop ferme, trop forte et trop facile.
 La parole est à Monsieur Thibault Bazin.
 La question est importante.
@@ -608,17 +522,13 @@ Or chacun sait l’importance de ce porte-avions dans notre doctrine militaire.
 La parole est à Monsieur le rapporteur.
 J’aimerais faire deux remarques.
 Tout d’abord, monsieur Furst, monsieur Bazin, vous êtes tous deux des membres très assidus de la commission de la défense nationale et des forces armées, ce dont je me réjouis, car nous avons un débat de qualité.
-Vous pouvez témoigner de ce que toutes les questions que nous avons posées au Gouvernement et aux responsables militaires, industriels et administratifs qui composent la communauté de la défense ont reçu des réponses très détaillées et très précises, sans langue de bois, sans quelque recours que ce soit au secret défense ou autre.
 On ne peut pas dire qu’il n’existe pas un lien direct entre l’exécutif et le législatif, en tout cas au niveau de notre commission.
 Je ne vois donc pas très bien ce qu’apporterait un rapport de plus.
 Vous seriez probablement les deux seuls à le lire et je doute qu’il touche un cercle bien large.
-Nous le lirions aussi ! Deuxièmement, sans vouloir énerver mon excellent collègue Charles de la Verpillière, quand nous arriverons enfin à l’article 6, je pourrai vous présenter l’amendement numéro 281, qui prévoit que le Gouvernement nous présente régulièrement un bilan détaillé de toutes les actions contenues dans cette loi de programmation militaire, y compris la livraison des commandes de gros équipements.
 Un peu de patience, chers collègues ! Quand nous en arriverons à l’article 6, vous aurez des réponses à toutes vos questions.
 Nous sommes parfaitement zen ! La parole est à Monsieur Fabien Lainé, pour soutenir l’amendement numéro 240.
 Bonne nouvelle, je ne vous demanderai pas de rapport ! Pas avec cet amendement, en tout cas… Celui-ci concerne la direction générale de l’armement – DGA –, dont nous avons parlé longuement hier.
-Après l’alinéa 412, nous proposons d’insérer la phrase suivante : «Dans la perspective des programmes ambitieux évoqués précédemment, la direction générale de l’armement se verra affecter les ressources humaines nécessaires à leur bonne exécution.» Cette direction a connu une importante réduction d’effectifs au cours des dernières années, et on lui demande aujourd’hui de mettre en œuvre des programmes extrêmement ambitieux.
 Je songe au système de combat aérien futur – SCAF –, au nouveau format du missile M 51 ou encore au nouveau standard du Rafale.
-Afin de nous rassurer et de rassurer les personnels de la DGA, pouvez-vous nous indiquer, madame la ministre, les moyens supplémentaires que vous comptez consacrer à la DGA dans le cadre de cette loi de programmation militaire ? Quel est l’avis de la commission ? Votre question est certainement légitime, mais vous trouverez la réponse dans le texte même.
 Il y est indiqué que la direction générale de l’armement verra, pour le suivi des commandes et des contrats à l’exportation, ses effectifs augmenter.
 Ce sont 400 postes supplémentaires qui vont être créés, et Madame la ministre des armées les répartira entre les différentes directions du ministère qui suivent ces commandes et ces contrats.
 Cet amendement est donc satisfait, et les dispositions dont j’ai parlé sont détaillées dans le texte.
@@ -632,7 +542,6 @@ Je vous invite donc à retirer cet amendement.
 Quel est l’avis du Gouvernement ? Même avis.
 Je vous renvoie à l’excellent rapport de la commission de la défense.
 Il est spécifié, à la page 33, que sur les 6 000 créations de postes prévues dans le cadre de cette loi de programmation militaire, 892 seront affectés à la DGA.
-Je tiens, par ailleurs, à souligner, comme l’a fait Monsieur le rapporteur, que la DGA n’est pas la seule direction à bénéficier de ces créations de postes : le tableau qui figure à la page 33 récapitule l’ensemble des services qui vont en bénéficier.
 Nous n’avons donc pas de désaccord de fond, mais un petit désaccord sur la forme.
 Je ne voudrais pas que votre amendement minimise l’ampleur de l’effort que nous réalisons en matière de création d’effectifs dans le cadre de cette loi de programmation militaire.
 La parole est à Monsieur Fabien Lainé.
@@ -647,11 +556,8 @@ Le savoir-faire national ainsi qu’un investissement constant en recherche et d
 Ce secteur représente 5 000 entreprises de toutes tailles et plus de 165 000 emplois dans des centaines de métiers.
 Mais, au-delà des succès commerciaux à l’étranger, l’équipement des forces armées françaises est et doit rester le premier souci de cette industrie de la défense.
 C’est pourquoi il convient de lui donner les moyens de répondre aux besoins de nos forces, afin que la défense de la France soit autonome et ses matériels performants.
-Le programme AIF – arme individuelle future – qui est évoqué dans ce rapport, et qui prévoit la livraison de 93 340 fusils d’assaut de type HK416 d’ici à la fin de l’année 2025, est un exemple type d’abandon de la filière nationale, qui a conduit l’armée française à se fournir auprès d’un fabricant allemand.
-Dans le secteur aéronautique, la coopération européenne montre ses limites, lorsqu’il s’agit de concevoir un chasseur comme l’Eurofighter Typhoon ou un avion de transport comme l’A400Monsieur Les divergences en matière de cahier des charges et de savoir-faire pénalisent l’ensemble des pays participant à ces programmes.
 Loin de remettre en cause la coopération européenne en matière d’armement, je souhaite rappeler que la France a ses besoins propres et que son autonomie dans ce domaine relève de l’intérêt stratégique.
 Quel est l’avis de la commission ? Madame Ménard, je ne sais pas ce que vous entendez par «industrie indépendante».
-On peut parler d’État indépendant ou d’autonomie stratégique, mais qu’est-ce qu’une industrie indépendante, surtout à l’heure où nos industries, pour exister, doivent avoir une dimension internationale ? Tous les groupements français ou franco-européens qui travaillent dans le domaine de la défense ont une stratégie internationale de développement, ce qui ne les empêche pas d’être indépendants.
 Et indépendants par rapport à quoi, exactement ? Je ne comprends pas très bien le sens de votre amendement.
 Je m’en tiendrai, pour ma part, à la rédaction du texte, qui dit que l’industrie de défense française est une composante essentielle de l’autonomie stratégique de la France.
 Il me semble que cette phrase répond à votre préoccupation d’indépendance – même si je n’ai pas très bien compris si vous parlez d’indépendance vis-à-vis de capitaux étrangers ou si vous songez à un risque d’attaque étrangère.
@@ -664,7 +570,6 @@ Il est retiré.
 La parole est à Monsieur Philippe Chalumeau, pour soutenir l’amendement numéro 316.
 Il n’existe pas de souveraineté ni d’autonomie stratégique sans autonomie industrielle, ni d’armée qui vaille sans une base industrielle et technologique de défense forte.
 Ajoutons qu’il n’y a pas d’industrie de défense sans pilotage industriel stratégique de l’État, tant en matière de commande et d’allotissement que d’investissement, de recherche et de défense.
-L’amendement vise à renforcer les outils de connaissance de la base industrielle et technologique de défense – BITD –, en particulier le tissu des PME défense, notamment par la création d’indicateurs systématiques, pour une meilleure coordination entre les services du ministère des armées et un soutien accru à la recherche en matière d’économie de la défense.
 Quel est l’avis de la commission ? Pardonnez-moi, cher collègue, mais je vais devoir émettre un avis défavorable pour deux raisons.
 L’une est que le suivi de la BITD fait déjà partie intégrante des missions de la direction générale de l’armement.
 L’autre est que la ministre a demandé à celle-ci de proposer des réformes en profondeur pour améliorer ce suivi.
@@ -683,8 +588,6 @@ Il s’agit de mettre un focus sur le soutien aux entreprises innovantes, facteu
 La parole est à Madame Émilie Guerel, pour soutenir l’amendement numéro 314.
 Dès 2019, le soutien annuel du ministère des armées à l’innovation passera de 730 millions d’euros en moyenne dans la précédente loi de programmation militaire à 1 milliard d’euros.
 Cette hausse budgétaire de 270 millions d’euros comporte plusieurs objectifs clés.
-Parmi ceux-ci, la volonté de capter davantage l’innovation issue du marché civil, de continuer à soutenir la maturation des technologies spécifiques au domaine de la défense, de mieux investir dans l’innovation de rupture, enfin de renforcer le tissu actif des PME et ETI innovantes, qui contribuent activement à la compétitivité technologique de la France.
-Le dispositif RAPID – régime d’appui pour l’innovation duale –, qui vise à subventionner des projets d’innovation double usage, civil et défense, portés par des entreprises indépendantes de moins de 2 000 salariés, répond précisément à l’ensemble des objectifs.
 En effet, ce programme est dédié uniquement aux PME et ETI qui participent justement à un haut niveau d’innovation en maintenant des compétences clés pour la maturation des technologies de défense et en concevant des innovations de rupture.
 Le dispositif est orienté spécifiquement vers les technologies duales et joue donc un rôle primordial pour capter l’innovation issue des marchés civils, ce qui est effectivement essentiel, car, depuis une vingtaine d’années, le paradigme semble avoir changé.
 Dans de multiples domaines, c’est bien le civil qui marche en tête dans la course de l’innovation, notamment grâce au nombre de développements menés par un tissu actif de PME et ETI.
@@ -692,7 +595,6 @@ Ce programme bénéficie d’un retour d’expérience extrêmement positif de l
 C’est pourquoi le dispositif RAPID, répondant par nature aux objectifs d’accroissement du soutien à l’innovation, gagnerait à être davantage soutenu par la hausse budgétaire.
 Une partie substantielle des 270 millions d’euros supplémentaires pourrait ainsi lui être allouée.
 Quel est l’avis de la commission ? Je comprends votre intention, mais l’amendement me semble largement satisfait.
-Je vous invite à relire la deuxième phrase de l’alinéa 417 : l’effort de 270 millions «profitera à l’ensemble de la BITD et plus particulièrement aux start-up et PME du secteur, ou celles susceptibles d’apporter des innovations de rupture.» Il est ensuite précisé que les dispositifs de soutien industriel en place – dont RAPID, qui, de l’avis de tous, joue son rôle, et le fonds d’investissement Definvest, lancé par Madame la ministre fin 2017 – seront éventuellement complétés.
 L’amendement ne me semble rien proposer de plus.
 Je vous suggère par conséquent de le retirer.
 À défaut, j’émettrai un avis défavorable.
@@ -701,8 +603,6 @@ La parole est à Madame Émilie Guerel.
 Si les dispositifs de soutien industriel en place sont complétés, je retire l’amendement.
 La parole est à Monsieur Philippe Chalumeau, pour soutenir l’amendement numéro 315.
 Le présent amendement vise à favoriser, à travers une logique d’évolution du processus d’achat du ministère des armées, l’achat courant de produits innovants sans passer par des programmes d’armement auprès de grands maîtres d’œuvre.
-Afin de dispenser les entreprises innovantes de la mise en concurrence par défaut imposée par le code des marchés publics, l’amendement vient directement encourager la prise en compte d’approches innovantes comme premier critère, lors d’appels d’offres par le ministère des armées auprès des PME et ETI du secteur.
-Quel est l’avis de la commission ? Monsieur Chalumeau, les dispositions que vous souhaitez insérer à la fin de l’alinéa 417 sont déjà largement satisfaites, puisqu’il existe depuis quelques années un dispositif interministériel qui, à l’instar de celui consacré au financement des OPEX, comprend le ministère des armées.
 L’État, ses opérateurs et les établissements publics hospitaliers s’engagent à réaliser en 2020 – quasiment demain – 2 % d’achats publics innovants.
 Cela correspond, pour la commande publique citée, à près de 60 milliards par an.
 Ces 2 % – chiffre global concernant l’ensemble des ministères – incluent, par définition, les achats du ministère des armées.
@@ -721,11 +621,8 @@ Je suis saisie de deux amendements, numéros 236 et 237, qui peuvent faire l’o
 La parole est à Madame Frédérique Lardet, pour les soutenir.
 Madame la ministre, nous connaissons l’importance de votre attachement au développement des PME de la défense.
 L’amendement numéro 236 vise à appeler une nouvelle fois votre attention sur les difficultés grandissantes que rencontrent nos PME et ETI de l’industrie de l’armement pour obtenir des financements auprès des établissements bancaires français.
-La complexité à l’export, le déficit d’image, les restrictions posées au-delà des cadres juridiques nationaux et internationaux sont autant de freins qui conduisent certaines banques à se désengager de manière croissante du secteur de l’industrie de la défense.
 Les conséquences économiques de ces désengagements, vous l’imaginez, peuvent être lourdes : disparition d’emplois, mais aussi rachat par des investisseurs étrangers.
-Pour pallier cette situation, et en complément du dispositif Definvest – fonds d’investissement spécialisé dans le soutien des PME à potentiel stratégique du secteur de la défense –, qui concernera une trentaine de PME par an, et qui est un élément de sécurisation de haut de bilan, cet amendement vise à lancer une réflexion sur la création d’une certification nationale, d’un label «défense».
 Cette certification permettrait d’asseoir l’image des PME positionnées dans le domaine de la défense et, partant, de leur procurer une plus grande sécurisation vis-à-vis du secteur bancaire pour l’obtention de financements.
-L’amendement numéro 237 a pour objet d’insérer, après l’alinéa 418, l’alinéa suivant : «Une concertation sera lancée avec les banques en vue d’améliorer la transparence et l’harmonisation de leurs critères de due diligence.» Quel est l’avis de la commission ? Merci pour vos amendements, madame Lardet.
 Vous mettez en évidence un problème qui, malheureusement, n’est pas spécifique au ministère des armées, mais s’explique par la frilosité des banques concernant le financement de tous les projets, principalement de ceux tournés vers l’innovation.
 Le sort de l’innovation de rupture est encore plus défavorable.
 C’est pourquoi le Gouvernement a créé, au sein du ministère des armées, un fonds d’investissement pour pallier cette difficulté rencontrée par les entreprises, singulièrement les start-up.
@@ -740,7 +637,6 @@ Quel est l’avis du Gouvernement ? Défavorable.
 La parole est à Monsieur Loïc Kervran.
 S’agissant de l’amendement numéro 236, la question du de-risking des portefeuilles bancaires concerne un domaine bien plus large que celui de la défense.
 Il est dû tant à des facteurs liés au crédit qu’à des enjeux de conformité.
-S’agissant de l’amendement numéro 237, la concertation, si elle devait avoir lieu, ne devrait pas se faire uniquement avec les banques mais aussi, par exemple, avec le Groupe d’action financière internationale – GAFI – ou l’Autorité de contrôle prudentiel et de résolution – ACPR –, qui sont des acteurs clés sur ces sujets.
 La parole est à Monsieur Bastien Lachaud.
 Deux raisons expliquent notre opposition à ces amendements.
 Premièrement, nous considérons que les banques, aujourd’hui, n’investissent pas dans la production réelle, alors qu’elles sont arrosées de centaines de milliards par la Banque centrale européenne pour favoriser l’activité économique.
@@ -792,7 +688,6 @@ Quel est l’avis de la commission ? Monsieur Becht, à mon sens, votre amendeme
 En effet, celle-ci a créé une mission relative à l’innovation participative, qui mène un travail important de soutien aux innovations portées par les personnels des armées.
 Il faudra examiner les conclusions – je l’espère positives – que la DGA a tirées de ces travaux.
 En tout état de cause, votre amendement étant satisfait, je vous demande de le retirer.
-Quel est l’avis du Gouvernement ? Je suis pleinement en accord avec l’intention exprimée par cet amendement puisque l’innovation, la capacité à mobiliser les forces vives du ministère constituent l’un des chantiers prioritaires de modernisation que j’ai engagés depuis quelques mois.
 Le seul point qui me gêne dans votre amendement est qu’il se fonde sur l’état actuel d’organisation de notre ministère, que je ne peux pas m’engager à maintenir en l’état.
 Je suis mille fois d’accord avec l’objectif que vous poursuivez mais, comme l’a dit le rapporteur, votre amendement est largement satisfait.
 Aussi, je préférerais que vous le retiriez.
@@ -834,7 +729,6 @@ Aussi, nous proposons, à l’alinéa 447 du rapport annexé, de remplacer l’e
 Quel est l’avis de la commission ? Nous avons débattu de ce sujet hier soir.
 Je suis désolé, mais nous ne sommes pas d’accord sur ce point.
 Avis défavorable.
-Quel est l’avis du Gouvernement ? Nous n’allons pas recommencer les débats de la nuit, mais je ne peux pas laisser passer cet amendement sans rappeler que la perspective de porter l’effort de défense à 2 % du PIB d’ici à 2025 constitue la colonne vertébrale de cette loi de programmation militaire.
 Vous comprendrez que, par esprit de cohérence, je ne puisse pas être favorable à cet amendement.
 La parole est à Madame Laetitia Saint-Paul, rapporteure pour avis.
 Pour illustrer les propos qui viennent d’être tenus, je citerai Sénèque : «Il n’est pas de vent favorable pour celui qui ne sait pas où il va.» La parole est à Monsieur Philippe Folliot.
@@ -856,7 +750,6 @@ La parole est à Monsieur Bastien Lachaud.
 À ce stade de notre discussion, je ne souhaite pas qu’on relance le débat sur l’OTAN.
 Merci ! Je suis d’accord avec Sénèque : il faut un cap.
 Je suis d’accord aussi avec Madame la ministre : nous sommes des vertébrés et il nous faut une colonne vertébrale.
-Pour autant, l’objectif de 2 % constitue-t-il vraiment notre cap et notre colonne vertébrale ? Une loi de programmation militaire doit fixer un objectif, mais atteindre un taux de 2 % n’en est pas un ! L’objectif devrait être de donner à nos armées les moyens d’accomplir les missions que les politiques leur confient.
 C’est ce qu’on dit ! Que ce taux soit de 2 %, 1,8 % ou 2,3 % importe peu.
 Vous vous répétez ! J’ai bien le droit de donner ma position sur un amendement.
 D’autres se répètent également, quand ils disent «Halte à l’OTANphobie !» et «Vive l’OTAN !», mais cela ne vous dérange pas ! Le cap, disais-je, c’est de donner à nos armées les moyens d’accomplir leurs missions.
@@ -864,7 +757,6 @@ Ce n’est pas le taux de 2 %.
 La parole est à Monsieur Gabriel Serville.
 Je ne souhaite pas recommencer le débat d’hier soir, auquel je n’ai pas pu participer, mais je tiens à vous rassurer : les membres du groupe GDR ne souffrent pas d’OTANphobie, mais ils veulent simplement être pragmatiques.
 C’est pourquoi j’ai expliqué que ce taux de 2 % pourrait se révéler, en définitive, surévalué ou sous-évalué.
-S’il est nécessaire de dépasser 2 %, pourra-t-on le faire ? Le débat ne porte pas tant sur ce taux de 2 % que sur la question, comme l’a dit à l’instant Monsieur Lachaud, des moyens que nous voulons mettre à la disposition de nos armées pour qu’elles soient en mesure d’assurer correctement les missions qui leur sont dévolues.
 Exactement ! C’est la raison pour laquelle je maintiens cet amendement et défendrai les amendements suivants, qui s’inscrivent dans la même logique.
 La parole est à Monsieur Gabriel Serville, pour soutenir l’amendement numéro 200.
 Par cohérence, cet amendement est défendu.
@@ -892,7 +784,6 @@ La parole est à Monsieur Laurent Furst, pour soutenir l’amendement numéro 11
 Cet amendement a été déposé par mon collègue et ami Patrick Hetzel.
 Nous avons auditionné le Comité Richelieu et savons que l’armée est un donneur d’ordres important.
 La France dispose de sept grands groupes industriels, mais aussi d’un tissu de PME, qui ont des relations avec l’armée et qui ont beaucoup d’attentes en matière de commandes publiques.
-Notre pays doit se doter d’une véritable stratégie industrielle, et celle-ci doit s’appuyer sur une réflexion spécifique sur les relations entre les grands groupes et le tissu de PME, qui est une véritable richesse et un potentiel d’avenir considérable.
 Patrick Hetzel, dont les compétences en matière économique sont très pointues, propose, par le biais de cet amendement, la remise d’un rapport au Parlement.
 Je sais, monsieur le rapporteur, que vous avez fermement exprimé votre opposition à toute demande de rapport.
 Celui-ci me semble néanmoins de bon sens, car il construit l’avenir.
@@ -909,7 +800,6 @@ L’association Pacte PME créée en 2010 a permis d’obtenir des résultats ta
 Pour autant, nous ne nous en satisfaisons pas.
 C’est pourquoi nous avons entamé une nouvelle démarche visant à l’actualiser, afin que le ministère des armées joue davantage encore un rôle moteur dans le développement des PME et des ETI.
 Nous serons évidemment à votre disposition, mesdames, messieurs les députés, pour rendre compte autant que nécessaire, comme c’est la règle, des activités du Gouvernement au Parlement.
-Si j’approuve l’orientation dont procède l’amendement, il ne me semble pas nécessaire de mentionner dans le texte de la loi que le Gouvernement est à la disposition du Parlement pour lui rendre compte et l’informer autant qu’il le souhaitera.
 Cela va de soi ! La parole est à Monsieur Olivier Becht.
 Je partage les préoccupations de notre collègue Furst.
 Je pense néanmoins avec le président Bridey que les missions d’information que nous menons au sein de la commission permettent de recueillir davantage d’informations et de données.
@@ -926,16 +816,12 @@ En revanche, avec une politique intelligente d’allotissement, des PME françai
 Tout l’enjeu est de définir une forme de commande publique intelligente permettant à la fois de satisfaire des besoins importants pour la défense et de maintenir notre tissu industriel en soutenant les activités implantées dans nos territoires.
 La parole est à Monsieur Jean-Jacques Bridey, pour soutenir l’amendement numéro 368.
 C’est un amendement rédactionnel.
-La parole est à Monsieur Olivier Gaillard, rapporteur pour avis de la commission des finances, de l’économie générale et du contrôle budgétaire de la commission des finances, de l’économie générale et du contrôle budgétaire, pour soutenir l’amendement numéro 140.
 Notre collègue Cornut-Gentille avait déposé un amendement identique, numéro 77 rectifié, que nous avons examiné en commission des finances.
-Il visait, comme le présent amendement numéro 140, à préciser les modalités pratiques du dialogue entre le ministère des armées et le Parlement, s’inscrivant pleinement dans la modernisation en cours du Parlement en vue de renforcer ses pouvoirs de contrôle et d’évaluation.
-Il ne s’agit nullement de revenir sur l’exception prévue par l’article 57 de la loi organique relative aux lois de finances, mais simplement de faire en sorte que le ministre en charge des armées soit en mesure de motiver la non-transmission de certains documents classifiés.
 Ces deux amendements ont reçu un avis favorable de la commission des finances.
 Quel est l’avis de la commission ? Je formulerai deux remarques, sans vouloir m’immiscer dans les débats de la commission des finances, dont je respecte la légitimité.
 La première est d’ordre sémantique.
 Je ne vois pas comment on peut demander au Gouvernement de motiver la classification d’une information.
 Ce qui est classifié ne peut pas être divulgué.
-Dès lors, comment motiver la classification d’une information ? Par ailleurs, je comprends la nécessité d’un dialogue en toute transparence entre les commissions permanentes de l’Assemblée nationale et le Gouvernement, mais je doute qu’il relève du domaine de la loi.
 S’il faut y inscrire les modalités des relations entre le Parlement et le Gouvernement, la loi sera plus que bavarde ! Je vous propose donc de retirer l’amendement, monsieur le rapporteur pour avis.
 À défaut, j’émettrai un avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
@@ -944,8 +830,6 @@ Il s’agit simplement de motiver la non-transmission de certains documents.
 Je maintiens l’amendement.
 La parole est à Monsieur Bastien Lachaud.
 J’avoue ne pas comprendre les raisons de votre avis négatif sur l’amendement, monsieur le rapporteur.
-Il vise uniquement à garantir que le Parlement reçoive du ministère des armées les informations qu’il lui demande tout en s’assurant que celui-ci classifie ce qui doit l’être, ce qui ne pose pas de problème particulier, me semble-t-il.
-Mais ne relève pas non plus du domaine de la loi ! À l’aune de l’argumentaire que vous venez de développer, l’article 6 ter, dont vous avez fait adopter la création en commission, relève-t-il de la loi ? Il porte, en effet, sur les relations entre certaines commissions parlementaires et le Gouvernement en matière d’exécution de la loi de programmation militaire.
 Ce qui est vrai dans un cas l’est dans l’autre.
 L’amendement me semble tout à fait justifié.
 La parole est à Monsieur François André.
@@ -956,11 +840,9 @@ En adoptant l’article 6 ter en commission, nous avons accompli une avancée.
 Celui-ci encadre correctement la mission de contrôle qui incombe aux parlementaires s’agissant de l’application de la loi de programmation militaire.
 Il rend donc caduc l’amendement dont nous débattons ici.
 La parole est à Monsieur Olivier Gaillard, rapporteur pour avis, pour soutenir l’amendement numéro 141.
-Je ne désespère pas de bénéficier de la bienveillance de Monsieur le rapporteur ! (Sourires.) Cet amendement, accepté par la commission des finances, a pour objet d’assurer une exécution budgétaire de la loi de programmation militaire fidèle à la trajectoire prévue.
 Toutefois, le président Bridey a déposé un amendement portant création d’un article additionnel après l’article 6 ter et prévoyant un dispositif d’information du Parlement sur ce point.
 J’ai, pour ma part, déposé un sous-amendement à cet amendement précisant que les commissions des finances de l’Assemblée nationale et du Sénat sont également destinataires du bilan semestriel prévu par l’amendement.
 Dès lors, je suis disposé à retirer le présent amendement sous réserve de l’adoption du sous-amendement numéro 375 à l’amendement numéro 281.
-Quel est l’avis de la commission ? Un petit trait d’humour, monsieur le rapporteur pour avis : si je comprends bien, vous êtes disposé à retirer votre amendement à condition que j’émette un avis favorable à votre sous-amendement portant sur un amendement dont nous ne débattrons qu’ultérieurement ! Nous n’en sommes pas là.
 Pour l’heure, nous achevons l’examen de l’article 2, ce qui est déjà une bonne nouvelle.
 Je vous propose donc de retirer votre amendement et émets à défaut un avis défavorable.
 Tel sera également le cas s’agissant de l’amendement suivant, que défendra Monsieur Fesneau.
@@ -968,7 +850,6 @@ Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Marc Fesneau, pour soutenir l’amendement numéro 321 rectifié.
 Je tâcherai de vous convaincre, monsieur le rapporteur, même si, manifestement, vous avez déjà un sentiment arrêté sur l’amendement numéro 321.
 Celui-ci vise à renforcer le contrôle parlementaire de l’exécution de la loi de programmation militaire en prévoyant la communication par le Gouvernement au Parlement d’un bilan semestriel détaillé et d’un rapport annuel sur l’exécution des crédits.
-Il s’agit de rétablir deux dispositions de la précédente loi de programmation militaire, qui porte sur la période 2014-2019, et d’affirmer par anticipation la cohérence entre le chapitre du rapport annexé consacré au contrôle parlementaire et le chapitre II du titre Iierdu projet de loi, créé par un amendement de notre rapporteur adopté en commission.
 Consacré lui aussi au contrôle parlementaire, il devrait selon nous intégrer à terme les deux obligations du bilan semestriel et du rapport annuel.
 La première a été proposée par notre rapporteur en commission sous forme d’un amendement, retiré pour être réécrit et examiné ultérieurement.
 La seconde a fait l’objet d’un amendement de notre groupe examiné en commission, que nous avons déposé à nouveau en vue de son examen en séance publique.
@@ -989,17 +870,12 @@ Nous vous faisons confiance, monsieur le rapporteur, et retirons donc l’amende
 Merci ! Vous ne serez pas déçus ! La parole est à Monsieur Charles de la Verpillière, pour soutenir l’amendement numéro 44.
 Il s’inscrit, lui aussi, dans le débat très important sur le contrôle parlementaire de l’exécution de la loi de programmation militaire que nous examinons.
 La précédente, promulguée le 18 décembre 2013, prévoyait au chapitre II un dispositif très complet de contrôle parlementaire de son exécution.
-Ainsi, l’article 7 porte sur le pouvoir de contrôle des commissions, l’article 8 prévoit un bilan financier semestriel, l’article 9 la communication des rapports de la Cour des comptes, l’article 10 un rapport d’exécution annuel et l’article 11 un compte rendu annuel des exportations d’armement.
 Il s’agit donc d’un dispositif très complet.
 Nous proposons, par le biais de cet amendement, de faire référence au dispositif prévu au chapitre II de la loi du 18 décembre 2013.
 Certes, il peut sembler curieux, dans le cadre du contrôle de l’exécution de la loi de programmation militaire actuelle, de faire référence à la précédente.
-C’est qu’il s’agit tout simplement d’un amendement d’appel : nous voulons avoir la certitude que, toutes choses égales par ailleurs, la présente loi de programmation militaire instaure un dispositif de contrôle parlementaire aussi complet qu’il l’était dans la précédente.
-Nous allons y arriver, je crois, puisque le rapporteur a fait adopter en commission un article 6 ter qui traite du contrôle des commissions, et en particulier du contrôle sur pièces et sur place, et qu’il a déposé un amendement, numéro 281, qui balaiera les autres sujets.
 Monsieur le président de la commission de la défense, si vous confirmez cette analyse, je retirerai cet amendement.
 Quel est l’avis de la commission ? Je confirme votre analyse.
 Nous avons adopté en commission, à l’unanimité, différents amendements, notamment grâce au travail de François André.
-Nous débattrons tout à l’heure de l’amendement portant article additionnel après l’article 6 ter que j’ai déposé après l’avoir travaillé avec le cabinet de Madame la ministre des armées, pour que nous arrivions à un consensus.
-Il permet d’améliorer le suivi de l’exécution de la programmation militaire, avec notamment un recensement des commandes et livraisons pour les «programmes à effet majeur», mais aussi pour les «petits» programmes de la DGA et les grands programmes d’infrastructure.
 Nous en reparlerons après le déjeuner, je crois.
 (Sourires.) Je vous propose donc de retirer l’amendement.
 Quel est l’avis du Gouvernement ? Même avis.
@@ -1009,7 +885,6 @@ Et même un meilleur contrôle ! Je retire donc mon amendement.
 La parole est à Monsieur Jean-Jacques Bridey, pour soutenir l’amendement numéro 369.
 Amendement rédactionnel.
 La parole est à Monsieur Laurent Furst, pour soutenir l’amendement numéro 230.
-Monsieur le président et rapporteur, vous vous dites opposé à tout nouveau rapport ; mais vous ne nous avez pas encore dit votre opposition à l’extension de rapports existants ! (Sourires.) Vous ne sauriez donc, je crois, qu’être favorable à notre demande de compléter un rapport qui existe déjà par la liste des produits des cessions d’armes et d’équipements des armées elles-mêmes – ce que l’armée vend d’occasion – ainsi que des produits des cessions immobilières du ministère des armées.
 Quel est l’avis de la commission ? Votre amendement est satisfait ! Voilà la réponse que je craignais.
 (Sourires.) Nul besoin d’étendre le rapport, remis tous les ans par le Gouvernement, qui porte sur les exportations d’armement.
 L’annexe numéro 10 y est consacrée aux cessions, onéreuses et gratuites, réalisées chaque année par le ministère ; elle dresse la liste de ces ventes par pays bénéficiaire et par nature des équipements.
@@ -1018,7 +893,6 @@ S’agissant des cessions immobilières, il ne me semble pas qu’elles puissent
 Avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Laurent Furst.
-Le président de la commission méconnaît la terreur qu’il inspire aux députés, qui n’osent plus demander de rapports supplémentaires ! (Sourires.) C’est la raison pour laquelle nous essayons parfois, lorsque nous souhaitons des informations complémentaires, nous raccrocher aux rapports déjà existants… Plus sérieusement, je comprends la réponse et je retire l’amendement.
 La parole est à Monsieur Marc Fesneau, pour soutenir l’amendement numéro 322.
 Je vais retirer cet amendement, qui sera, je crois, satisfait par d’autres qui viendront plus tard.
 En revanche, notre amendement précédent, numéro 321, ne l’est pas tout à fait, puisque nous demandions aussi un débat annuel.
@@ -1031,7 +905,6 @@ Cette absence de prolongement jusqu’en 2025 confirme notre sentiment d’impr�
 Les crédits budgétaires auraient dû être affichés aussi pour les deux dernières années couvertes par la programmation.
 Nous nous interrogeons donc sur la réalité des ambitions affichées.
 La parole est à Monsieur Philippe Folliot.
-Mon cher collègue, je ne peux pas être d’accord avec cette présentation ! Cette loi de programmation militaire diffère profondément de celles qui l’ont précédée, et notamment de la plus récente : elle met fin aux baisses de crédits, elle les augmente même, et nous pourrions tous nous en féliciter.
 Bien sûr, il y a des similarités entre cette loi de programmation et les autres, mais ne nous racontons pas d’histoires, c’est toujours le cas : on prévoit pour la fin de la période un cadre plus ambitieux.
 Et nous espérons que la politique courageuse menée par le Président de la République et le Gouvernement portera ses fruits et nous permettra de disposer des ressources suffisantes pour atteindre l’objectif fixé.
 Faisons crédit au Gouvernement et à la majorité, et reconnaissons que la tendance négative a été inversée.
@@ -1044,7 +917,6 @@ La parole est à Monsieur Philippe Chalumeau.
 L’article 3 définit la trajectoire d’évolution des crédits de paiement de la mission «Défense» au cours des années 2019 à 2023.
 De 2019 à 2022, 1,7 milliard supplémentaire sera alloué chaque année à la politique de défense ; en 2023, ce ne sont pas moins de 3 milliards supplémentaires qui lui seront consacrés.
 Les années 2024 et 2025 feront l’objet d’arbitrages avant la fin de l’année 2021, et ces arbitrages seront probablement inscrits dans la loi.
-Mais le Gouvernement a choisi de définir, dans un premier temps, une trajectoire raisonnablement circonscrite dans le temps : d’une part, il doit se conformer à la loi de programmation des finances publiques pour les années 2018 à 2022, qui fixe l’augmentation des plafonds de crédits alloués à la mission «Défense» ; d’autre part, il faut tenir compte du délai nécessaire aux investissements.
 Ainsi, une frégate commandée en 2019 sera livrée en 2023.
 Il en va de même pour les infrastructures : toute construction nécessite des appels d’offres et des procédures longues.
 Ce sont là les raisons pour lesquelles l’évolution au-delà de 2023 ne figure pas dans le projet de loi.

@@ -1,27 +1,16 @@
 La séance est ouverte.
-L’ordre du jour appelle la discussion, en deuxième lecture, de la proposition de loi, modifiée par le Sénat, relative à la sobriété, à la transparence, à l’information et à la concertation en matière d’exposition aux ondes électromagnétiques (numéros 2065, 2502, 2501).
 La parole est à Madame la secrétaire d’État chargée du numérique.
-Monsieur le président, monsieur le président de la commission des affaires économiques, mesdames les rapporteures, mesdames et messieurs les députés, le numérique est devenu un levier essentiel de transformation de notre économie et de notre société, les quelques mois de concertation qui viennent de se dérouler à la demande du Premier ministre n’ont fait que le confirmer.
 Dans cette transformation, le numérique est un moyen, pas une fin : un moyen de promouvoir une société plus inclusive, d’ouvrir de nouvelles solidarités et de nouvelles formes d’échanges et de partage.
-C’est le sens de la République numérique que j’appelle de mes vœux et dont j’ai pu détailler les principaux piliers devant vous à l’occasion du débat d’orientation qui s’est tenu il y a quelques jours à l’Assemblée nationale.
-Ces nouveaux outils nécessitent, pour être compris et se diffuser, la confiance de nos concitoyens : confiance dans les usages du quotidien, quand vous achetez en ligne, que vous consultez une source d’information ou que vous fournissez des données personnelles mais aussi confiance dans les technologies qui permettent au numérique de se diffuser, pour tous et partout.
 Cette confiance, elle se construit, et cette construction est d’autant plus nécessaire que l’environnement numérique avance très vite.
-La transparence et le débat public sont indispensables pour accompagner chaque évolution technologique, non pas parce qu’un risque est prouvé – en l’occurrence, il ne l’est pas – mais, au contraire, pour éviter d’entretenir des craintes qui, faute d’information, se sont progressivement ancrées dans la population et pourraient nuire à l’innovation.
-Il ressort ainsi de la dernière édition de l’enquête menée par le centre de recherche pour l’étude et l’observation des conditions de vie sur la diffusion des technologies de l’information que 74 % des Français interrogés jugent peu sûres les antennes de téléphonie, 73 % les terminaux et 66 % les appareils électriques domestiques, quels qu’ils soient.
 Je vois dans ces résultats la conséquence d’une demande continue de débat public sur les ondes électromagnétiques, débat qui a peut-être été insuffisant jusqu’à présent.
 Le premier mérite de cette proposition de loi est de permettre qu’un tel débat ait lieu et de créer les conditions pour qu’il se tienne plus régulièrement à l’avenir.
 Nous devons améliorer l’ingénierie sociale dans notre pays.
-Ainsi, agir pour une plus grande sobriété dans les émissions d’ondes électromagnétiques, organiser les conditions de la concertation au niveau local, fournir l’information nécessaire au public, ce n’est pas freiner le progrès technologique ou l’investissement, c’est lui donner toutes les chances d’être accepté par la population et de se diffuser à toute la société.
 Nous devons créer cette confiance par la transparence.
 Ce texte marque une étape nécessaire dans l’acceptation sociale des technologies sans fil et leur diffusion.
-Avant d’entrer plus profondément dans le sujet, je voudrais revenir sur la genèse de ce texte, en rappelant l’important travail engagé il y a plusieurs années par le président François Brottes, dans le cadre des travaux issus du Grenelle des ondes, et par Madame la députée Laurence Abeille.
 Ce travail s’est concrétisé il y a presque deux ans à l’Assemblée nationale par une proposition de loi déposée par Laurence Abeille.
-C’est grâce à ces travaux, menés dans le cadre du comité opérationnel d’expérimentation – appelé successivement COMOP puis COPIC pour Comité opérationnel sur les ondes de téléphonie mobile –, qu’ont pu s’exprimer les vues de l’ensemble des parties prenantes, aux positions parfois totalement opposées.
 Je tiens aussi à saluer la capacité du président François Brottes à faire converger ces acteurs autour de propositions consensuelles que nous retrouvons très largement dans le texte dont nous avons à débattre.
 Une mission a également été confiée par le Premier ministre Jean-Marc Ayrault à Jean-François Girard, conseiller d’État, et Philippe Tourtelier, ancien député, sur le sujet de la sobriété en matière d’ondes.
-Leur travail, dont la qualité a été unanimement saluée, a permis d’éclairer les travaux législatifs de manière très positive, notamment dans la manière d’inscrire dans la loi l’objectif porté par la député Laurence Abeille d’une plus grande sobriété en matière d’ondes électromagnétiques.
 Enfin, des travaux indépendants ont complété le volet sanitaire.
-Ainsi, les conclusions de l’Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail – ANSES –, qui a publié une première étude sur le sujet en 2009, actualisée en 2013, sont claires : l’exposition aux ondes électromagnétiques n’a aucun effet sanitaire avéré.
 L’agence indique ainsi que l’actualisation de l’étude de 2009 «ne met pas en évidence d’effet sanitaire avéré et ne conduit pas à proposer de nouvelles valeurs limites d’exposition de la population».
 L’ANSES appelle néanmoins à une certaine vigilance dans l’utilisation des téléphones portables par les utilisateurs intensifs ainsi que les enfants.
 C’est une dimension que l’on oublie parfois car, en matière d’ondes, le bon sens ne suffit pas toujours.
@@ -30,27 +19,19 @@ Le besoin de pédagogie et d’information est réel, de concertation parfois, e
 Le texte sur lequel nous allons nous pencher aujourd’hui a fait l’objet d’un travail important en commission à l’Assemblée et en première lecture au Sénat, il y a quelques mois.
 Il a su conserver l’esprit de la proposition de loi déposée par Madame Abeille, qui s’appuyait sur les rapports précités.
 Le titre 1ier vise à instaurer une plus grande transparence dans l’installation des antennes, à améliorer la concertation avec les riverains, à identifier et traiter certaines installations – les points atypiques.
-Le cœur de ce titre 1ier est l’inscription dans la loi et le règlement des travaux du COMOP et du COPIC, au regard des préconisations du rapport Girard et Tourtelier et des meilleures pratiques mises en œuvre par les opérateurs et les collectivités dans des lieux d’expérimentation, comme Nantes, Paris ou Strasbourg pour n’en citer que quelques-unes.
-Il ne s’agit pas de ralentir ou de rendre plus difficile l’installation des antennes pour des services qui nous sont demandés par tous, de manière de plus en plus pressante, mais de veiller à ce que ces déploiements se fassent en toute confiance avec la population locale.
 Le titre II tend à améliorer l’information quant aux conditions d’utilisation des terminaux mobiles et champs associés, comme l’installation d’équipements émettant des ondes.
 Le rapport de l’ANSES d’octobre 2013, dont les préconisations sont reprises, est au cœur de ce titre.
 Les travaux législatifs au Sénat ont permis de faire évoluer le texte initial pour trouver des rédactions plus précises, plus concises et plus sécurisées d’un point de vue juridique.
 C’est une garantie que ce texte sera mieux compris et mieux appliqué, sans trahir son ambition originelle.
 Le texte qui se présente devant nous aujourd’hui est désormais globalement équilibré.
-Il se nourrit toujours de la même ambition, celle de définir pour la première fois un cadre complet afin d’accompagner le déploiement des antennes de téléphonie mobile et d’améliorer l’information et la pédagogie en direction du public dans l’utilisation des téléphones portables.
 Ce cadre répondra à l’attente de nos concitoyens d’une meilleure régulation du déploiement des antennes, en s’appuyant sur les meilleures pratiques connues.
 Il rappelle également que les antennes ne sont qu’un aspect des enjeux et que nous devons mieux prendre en considération les inquiétudes de nos concitoyens en gardant à l’esprit l’effet prépondérant des terminaux mobiles.
-Là est l’enjeu politique de ce sujet, que l’ANSES nous rappelle dans son avis : la question des antennes est une question d’acceptabilité sociétale, alors qu’il conviendrait de mieux accompagner l’éducation à l’usage des téléphones portables.
-Notre devoir est de faire en sorte que les nouveaux usages du numérique soient compris par nos concitoyens et non pas subis au point de devenir, en particulier pour les parents, une source de préoccupation, d’inquiétude, voire, dans certains cas, de souffrance, comme c’est le cas pour les personnes souffrant d’électro-hypersensibilité.
 Il fallait un cadre législatif, que cette proposition apporte, après plus de deux ans de travaux dont vous connaissez tous l’historique.
 C’est la raison pour laquelle le Gouvernement juge qu’il est désormais temps que ces dispositions deviennent effectives.
-Mais je vous le dis clairement : si la transparence est utile et nécessaire, si l’information est souhaitable et que ce besoin a guidé la position du Gouvernement sur ce texte, nous devons aussi veiller, collectivement, à ne pas freiner, par des messages contradictoires ou des mesures excessives, l’innovation et le développement du numérique, leviers de transformation individuelle et collective, de désenclavement de certains territoires reculés, sources de croissance et de création d’emplois, pour aujourd’hui et sans doute plus encore pour demain.
 (Applaudissements sur les bancs des groupes SRC, écologiste et GDR.) La parole est à Madame Laurence Abeille, rapporteure de la commission des affaires économiques.
-Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission, chers collègues, nous voilà au terme, je le crois, de l’examen parlementaire de cette proposition de loi relative aux ondes électromagnétiques, travail entamé il y a désormais plus de deux ans.
 Vous le savez, ma volonté, partagée avec les parlementaires de la majorité, est que ce texte soit adopté conforme, dans sa version votée au Sénat en juin dernier.
 Nous sommes en effet parvenus à un compromis et à une version équilibrée.
 Par ailleurs, la demande est forte pour qu’une procédure transparente de concertation lors de l’implantation d’antennes-relais se mette enfin en place et que le principe de sobriété appliqué aux ondes électromagnétiques soit enfin effectif.
-Le parcours de cette proposition de loi a été long, mais les échanges et le travail collaboratif accompli ont permis d’aboutir à un résultat qui, s’il n’est pas le texte idéal pour les écologistes, est un compromis dont je me satisfais et qui constitue une première étape essentielle dans la prise en compte de ce qui est considéré comme un risque sanitaire.
 Rappelons ici la genèse de ce texte.
 En janvier 2013, le groupe écologiste a inscrit dans sa journée d’initiative une proposition de loi «relative à l’application du principe de précaution défini par la Charte de l’environnement aux risques résultant des ondes électromagnétiques».
 Ce texte ambitieux a malheureusement fait l’objet d’un renvoi en commission.
@@ -63,19 +44,16 @@ Cet engagement a été tenu, et je tiens à en remercier vivement Monsieur le pr
 À son initiative, un groupe de contact parlementaire a en effet été créé, composé d’un député de chaque groupe.
 Il s’est réuni plusieurs fois en 2013, notamment pour suivre l’évolution du rapport sur le principe de sobriété.
 Je tiens aussi à remercier la rapporteure pour avis, Madame Suzanne Tallard, dont la ténacité et l’engagement depuis deux ans ont également contribué à ce que ce renvoi en commission aboutisse à un compromis.
-À la suite de ce premier examen tronqué et au travail mené en 2013, le groupe écologiste a déposé une nouvelle proposition de loi «relative à la sobriété, à la transparence et à la concertation en matière d’exposition aux ondes électromagnétiques», proposition examinée et adoptée par l’Assemblée nationale lors de la journée d’initiative réservée au groupe écologiste en janvier 2014, puis par le Sénat en juin dernier – même si je regrette qu’il ait atténué la portée de plusieurs de ses dispositions.
 Nous voilà donc aujourd’hui en deuxième lecture de ce texte, qui a été adopté conforme la semaine dernière par la commission des affaires économiques et par la commission du développement durable, saisie pour avis.
 Je tiens ici à rappeler les motivations qui ont amené le groupe écologiste à vouloir légiférer sur ce problème de santé environnementale.
 Nous légiférons – et c’est rare – dans le doute scientifique, mais ce doute ne doit pas nous inciter à ne rien faire ; au contraire, il doit nous pousser à agir.
 Les doutes existent, et c’est parce que doute il y a que le principe de précaution doit s’appliquer.
 Pour ma part, je ne doute plus de la nocivité des ondes : j’en suis désormais persuadée, et plusieurs rapports m’en convainquent.
-Je ne parle pas des études scientifiques très nombreuses sur le sujet… Qui prouvent le contraire ! …puisque dès qu’une étude est évoquée, une autre apparaît pour l’infirmer, les industriels étant passés maître dans l’art d’instiller le doute scientifique.
 Et vous donc ! Ma conviction qu’il faut agir se fonde sur les conclusions de trois agences publiques.
 L’Organisation mondiale de la santé, tout d’abord, a classé en 2011 les ondes électromagnétiques comme «potentiellement cancérigènes».
 Cette classification par l’agence sanitaire mondiale de référence devait faire réagir le législateur.
 Ensuite, l’ANSES, a recommandé dès 2009 de réduire les expositions du public en indiquant que «dès lors qu’une exposition peut être réduite, elle doit être envisagée».
 Dans sa dernière actualisation en 2013, l’ANSES a réaffirmé la nécessité de réduire les expositions aux ondes, notamment parmi les plus jeunes.
-Enfin, dans une étude rendue publique en 2013, l’Agence européenne de l’environnement a retracé les scandales sanitaires qui ont émaillé notre histoire et signalé quatre risques pour lesquels le principe de précaution devrait s’appliquer ; y figure le risque lié aux ondes électromagnétiques du téléphone portable.
 Ce rapport souligne les tergiversations constantes et la frilosité du monde politique, qui préfère parfois attendre que le risque soit avéré et que la catastrophe soit inéluctable plutôt qu’agir préventivement.
 Hélas ! Les alertes émises par ces trois agences suffisent à fonder l’opinion du législateur et à adopter une législation qui protège efficacement nos concitoyens de ce bain d’ondes électromagnétiques.
 Quels sont donc les objectifs de cette proposition de loi ? Le premier consiste à inscrire dans notre corpus législatif un principe nouveau, celui de la sobriété en matière d’exposition aux ondes.
@@ -85,7 +63,6 @@ Le second objectif vise à instaurer une procédure transparente et concertée p
 Cette procédure simple s’inspire largement des travaux menés par l’ancien COMOP devenu le COPIC – je félicite à nouveau Monsieur Brottes, président du COPIC, pour la qualité de ces travaux.
 Cette procédure a pour but d’obliger les opérateurs à communiquer, à informer et à se concerter, afin de diminuer les contentieux.
 Elle reposera en partie sur le maire qui, d’une certaine manière, est «remis dans la boucle».
-Les instances de conciliation départementales seront réactivées et un comité de dialogue sera créé au niveau de l’Agence nationale des fréquences, l’ANFR, afin de prolonger la concertation menée entre associations, opérateurs et services de l’État dans le cadre du Grenelle des ondes et du COMOP-COPIC.
 Ce texte prévoit également une définition et une procédure de traitement des points atypiques.
 Les dispositions de cette proposition de loi permettront, grâce à des calculs basés sur une moyenne nationale – qui, rappelons-le, s’élève aujourd’hui à un volt par mètre – d’identifier les points qui dépassent substantiellement cette moyenne.
 À cet égard, il est évident que les normes actuelles – qui vont de 41 à 61 volts par mètre – sont tout à fait obsolètes.
@@ -109,19 +86,11 @@ N’importe quoi ! C’est pourquoi le texte restreint plus strictement la publi
 Enfin, la proposition de loi aborde la question de l’électro-hypersensibilité.
 Nous attendons avec impatience le rapport de l’ANSES sur ce sujet, et peut-être Madame la ministre pourra-t-elle nous préciser le calendrier de cette publication.
 Dans ce domaine, je regrette que la proposition de loi n’aille pas assez loin.
-Si ce texte ne comporte qu’un seul article spécifique à ce sujet, il faut cependant tenir compte du fait qu’il vise dans son ensemble à réduire l’exposition aux ondes, et qu’il permet ainsi d’apporter un début de solution aux personnes électro-hypersensibles.
 D’autres solutions doivent pourtant être trouvées rapidement, comme la création de zones à rayonnement électromagnétique limité, en milieu urbain et professionnel notamment, ou l’homologation de dispositifs efficaces de protection aux ondes.
 Les associations déplorent notre manque d’ambition pour apporter des réponses aux personnes électro-hypersensibles.
 C’est pourquoi je formulerai à nouveau des propositions sur ce sujet dans le cadre du projet de loi santé qui viendra en discussion dans les prochaines semaines.
-Pour conclure, puisqu’il s’agit d’une proposition de loi équilibrée qui est le fruit d’un long travail collaboratif mené depuis deux ans, je vous propose de l’adopter conforme afin qu’elle entre en vigueur le plus rapidement possible.
 (Applaudissements sur les bancs des groupes écologiste, SRC, RRDP et GDR.) La parole est à Madame Suzanne Tallard, rapporteure pour avis de la commission du développement durable et de l’aménagement du territoire.
-Monsieur le président, madame la secrétaire d’État, messieurs les présidents de la commission des affaires économiques et de la commission du développement durable et de l’aménagement du territoire, madame la rapporteure, chers collègues, l’initiative de Madame Laurence Abeille, avec qui j’ai eu plaisir à travailler, a connu un parcours «atypique» sur lequel je ne reviendrai pas, puisqu’elle vient de vous l’exposer.
-Le texte adopté en première lecture par notre Assemblée, le 23 janvier 2014, reprenait les conclusions des rapports du COMOP-COPIC, du rapport de suivi et de mise à jour de l’ANSES, publié en octobre 2013, et de la mission sur le principe de sobriété de MMonsieur Girard, Tourtelier et Le Bouler.
-La proposition de loi issue du Sénat en juin dernier conserve un double objectif : d’une part, le contrôle des niveaux d’émission et d’exposition aux ondes électromagnétiques, l’organisation d’une concertation au niveau local, associée si nécessaire à une médiation au niveau départemental, et la résorption des points atypiques dans un délai raisonnable ; d’autre part, l’incitation à une utilisation plus responsable des équipements terminaux et des installations permettant un accès sans fil à internet.
 Disposition phare de la proposition de loi, l’article 1ier a été substantiellement modifié par le Sénat.
-Partageant pleinement l’objectif du Sénat d’instaurer un dispositif défini le plus clairement possible dans le texte législatif, je ne peux qu’approuver dans son principe la réécriture de cet article en ce qui concerne la procédure de concertation locale et de médiation départementale.
-Certes, je regrette certains assouplissements, concernant les éléments d’information transmis au public ou l’absence de mesures de contrôle a posteriori de la cohérence des estimations, par exemple, mais je les crois plus formels que réels, et ce pour deux raisons.
-Tout d’abord, les attentes fortes exprimées par les administrés conduiront les élus locaux à mettre en place une procédure d’information et de concertation qui sera la plus large possible : c’est le moyen le plus sûr de lever les craintes et les oppositions à toute nouvelle installation.
 D’autre part, depuis le 1ier janvier 2014, toute personne peut faire mesurer gratuitement l’exposition aux ondes électromagnétiques aussi bien dans les locaux d’habitation que dans des lieux accessibles au public.
 Il suffira de faire usage de cette faculté pour assurer la vérification a posteriori que j’évoquais plus haut.
 Le choix fait par l’Assemblée nationale de retenir la notion de «modération», issue des conclusions du rapport de MMonsieur Tourtelier, Girard et Le Bouler, me paraissait plus dynamique.
@@ -136,7 +105,6 @@ La remise d’un rapport au Parlement sur l’électro-hypersensibilité doit, �
 La Chambre haute a cependant supprimé les normes techniques de désactivation des équipements radioélectriques eux-mêmes, et je le regrette.
 Deux principes ont guidé mon action au fil du long parcours législatif de ce texte.
 Le premier est celui de l’inscription dans la loi elle-même des conclusions auxquelles est parvenu le COPIC, afin que toutes les communes et tous nos concitoyens disposent des mêmes garanties d’information, de concertation et de transparence.
-Le texte qui vous est présenté a le mérite de fixer des règles communes qui conjuguent, sur l’ensemble de notre territoire, les avancées des technologies, les nécessités du développement économique qui passe par la révolution numérique et le principe de précaution.
 L’équilibre atteint aujourd’hui semblera à certains en deçà de ce que permettent déjà certaines chartes, mais rien n’interdit d’être plus ambitieux que la loi.
 Le second principe consiste à soutenir les différents dispositifs d’information, de recommandations d’usage et de normes techniques qui permettent une utilisation plus responsable des téléphones mobiles et autres équipements radioélectriques.
 Cette proposition de loi est attendue avec impatience par nombre de parties prenantes.
@@ -147,33 +115,25 @@ La parole est à Monsieur le président de la commission des affaires économiqu
 Je vous remercie, monsieur le président, de bien vouloir me donner la parole, ce qui me donne l’occasion de saluer le président de la commission du développement durable et madame la secrétaire d’État.
 Je voudrais tout d’abord remercier la rapporteure, Laurence Abeille, ainsi que Suzanne Tallard, rapporteure pour avis, pour leur implication sans faille dans ce dossier.
 Si elles ont parfois douté de notre capacité de parvenir à un texte sur un sujet aussi difficile, ce doute s’est estompé depuis.
-Je remercie Madame la secrétaire d’État Axelle Lemaire pour son écoute et enfin nos collègues de la commission des affaires économiques qui ont participé à un groupe de travail, en particulier Jeanine Dubié, André Chassaigne, Franck Reynier et Lionel Tardy.
 Ce texte, fruit d’un long travail, est la preuve qu’avec plus de concertation et de transparence, il est possible de dépasser les polémiques.
 Ces questions feront toujours l’objet de débats car la science évolue, les études épidémiologiques prennent du temps, les technologies changent, et elles donneront toujours lieu à une confrontation entre les uns et les autres.
 Ce texte constitue donc une avancée significative.
 Il fait plus que définir des principes, il établit un cadre qui nous permet d’envisager le développement des infrastructures avec objectivité, ce qui est très important.
 Je voudrais aussi rendre hommage, une fois n’est pas coutume, à Chantal Jouanno et Nathalie Kosciusko-Moriset.
-Alors que j’étais dans l’opposition, j’avais accepté de présider le COMOP et, avec près d’un million d’euros, nous avons réalisé un travail significatif, notamment en mettant en place un système logiciel destiné à assimiler la projection des ondes dans le paysage.
 De ce point de vue, la France, grâce à un certain nombre de laboratoires publics qui ont travaillé sur ce dossier, dispose désormais d’un outil qui ne demande qu’à être utilisé.
 Il s’agit d’un dispositif très perfectionné qui nous évite de nous rendre systématiquement sur le terrain, ce que nous avons pu vérifier en comparant des mesures sur le terrain et les données issues de ce logiciel.
 Ce dispositif permet de localiser d’éventuels «points atypiques» qui sont l’un des éléments importants de ce texte.
 Nous aurons d’ailleurs, madame la secrétaire d’État, à en préciser ultérieurement le contour car il ne peut y avoir un «point atypique» pour chacun.
-La définition du point atypique doit faire l’objet sinon d’un consensus en tout cas d’une décision objective à partir de laquelle des dispositions peuvent être prises, soit pour azimuter différemment les antennes, soit pour en abaisser la puissance.
 Cet élément ne figure pas dans le texte de loi que nous examinons, mais je pense que nous pourrons ultérieurement faire en sorte que cette disposition trouve sa place dans la loi.
 Madame la secrétaire d’État, il me paraîtrait judicieux de maintenir le groupe qui constituait le COMOP, puis le COPIC, dont la présidence serait plus politique que technique.
 Car nous avons besoin de maintenir le dialogue entre les différents acteurs de ce secteurs, en particulier les opérateurs des télécommunications – qui d’ailleurs ne sont plus que deux et pourraient ne plus être rassemblés au sein d’une fédération.
 Il serait bon de conserver un espace qui nous permette d’entendre tous les acteurs – usagers, collectivités, associations environnementales.
-C’est une charrue parfois difficile à tirer et j’ai moi-même consacré beaucoup de temps à essayer d’éviter des échanges de coups de poing, mais je suis convaincu que des personnes qui se parlent et se connaissent peuvent mettre à plat les problèmes et les considérer avec objectivité.
-Je ne sais pas dans quelle mesure nous pourrons maintenir cette institution mais je pense qu’un lieu permanent de dialogue dans le cadre législatif, qui a le mérite d’exister, permettra de redonner à l’objectivité et à la rationalité la place qu’elles méritent dans un dossier qui en manque souvent.
 Quoi qu’il en soit, ce n’est pas en fuyant le débat que nous y arriverons.
-Ma proposition est la suivante : il convient de mesurer précisément la manière de définir les points atypiques, pourquoi pas dans la loi numérique, et de maintenir une instance permanente de dialogue pour éviter des mouvements d’humeur qui portent préjudice à la fois au déploiement des réseaux – les Français ont besoin d’accéder à ces services – et à la sérénité des maires qui sont toujours en première ligne sont très démunis dans un débat qui se situe à la fois sur le plan technique, dans la mesure où ils ne sont responsables ni de la signature des licences ni des technologies, et sur le plan social.
 C’est pourquoi nous devons nous doter d’un véritable dispositif de concertation.
 (Applaudissements sur les bancs du groupe SRC et du groupe écologiste.) Dans la discussion générale, la parole est à Monsieur François-Michel Lambert.
-Monsieur le président, madame la secrétaire d’État, mesdames les rapporteures, mes chers collègues, nul besoin de revenir sur la longue procédure législative si ce n’est pour féliciter et remercier, au nom du groupe écologiste, notre collègue Laurence Abeille, rapporteure et initiatrice de cette proposition de loi, qui a su faire preuve de constance, d’écoute et de talent pour mener à bien ce texte.
 Je remercie également notre collègue Suzanne Tallard, rapporteure pour avis, qui, dans le même esprit, a permis que nous nous retrouvions aujourd’hui autour de ce texte pour parcourir la dernière ligne droite.
 Plus largement, nous devons nous réjouir de ce travail collaboratif, constructif et rigoureux réalisé par les parlementaires de la majorité, les groupes politiques et le Gouvernement.
 Nous n’oublions pas que c’est le Gouvernement qui, en «rattrapant» ce texte dans le cadre de la dernière niche du groupe écologiste au Sénat, a permis son examen ici même aujourd’hui.
-Nous n’oublions pas non plus le président Brottes, qui par sa constance, sa volonté et son abnégation… N’exagérons pas ! Soyez respectueux, monsieur Accoyer ! Vous n’êtes pas obligé d’intervenir dès que nous disons des choses positives ! Ma remarque était affectueuse… Une certaine forme d’affection… Nous n’oublions pas non plus le président Chanteguet, toujours au rendez-vous.
 Tous deux ont permis que le sujet des ondes électromagnétiques ne soit pas délaissé en commission.
 Au-delà de nos quelques divergences, nous avons su nous rassembler – eh oui, monsieur Accoyer – pour répondre à l’attente réelle des Français sur cet épineux sujet de l’exposition aux ondes électromagnétiques.
 Nous devons tous privilégier cette méthode de travail, entre partenaires de la majorité mais aussi plus largement.
@@ -183,16 +143,12 @@ Ils ont toutefois permis d’améliorer la précision de certaines dispositions 
 Il est vrai que nous ne nous satisfaisons pas entièrement des modifications apportées par le Sénat, mais nous ne reviendrons pas dessus car il est temps désormais d’aller de l’avant afin que ces dispositions entrent en application.
 Si la loi est mauvaise, ce n’est pas grave, pourvu que vous alliez de l’avant ! Ce texte est très attendu, tant par les citoyens que par les élus locaux dont en premier lieu les maires, je le rappelle.
 Pas du tout ! Bien qu’étant le fruit d’un compromis, cette proposition de loi n’abandonne rien de l’essentiel, à savoir tout d’abord le respect du principe de sobriété en matière d’exposition aux ondes.
-Qu’est-ce que la sobriété ? Nous en reparlerons, monsieur Accoyer ! L’autorisation de nouvelles installations d’antenne relais ou la modification des installations existantes feront désormais l’objet d’une concertation accrue, sous l’égide des maires ; les utilisateurs de téléphones mobiles et autres équipements radioélectriques seront mieux informés ; enfin, les personnes fragiles, dites électro-sensibles, seront prises en considération.
 Ces personnes existent et c’est le rôle de la Nation que de les protéger.
-Ce texte a donc le mérite de fixer des règles communes qui permettent de concilier et d’articuler le nécessaire progrès technologique, qui passe par la révolution numérique, et le principe de précaution qui nous protège des risques liés à ce progrès, notamment sanitaires, mais sans le freiner.
 C’est bien là le fond du sujet et il est passionnant.
 La révolution numérique qui arrive va permettre le traitement d’un nombre phénoménal de données issues d’un nombre croissant d’objets interconnectées, générateurs d’ondes électromagnétiques.
 Cette révolution arrive au moment même où nous faisons face au plus grand défi de notre histoire : la lutte contre le réchauffement climatique et, surtout, l’indispensable transition écologique.
 Je vous ai interpellée à ce sujet la semaine dernière, madame la secrétaire d’État : la révolution numérique doit être au rendez-vous face aux enjeux de la transition écologique et du réchauffement climatique.
 Le développement du numérique doit être l’outil de cette transition qui nécessite le traitement d’informations denses et complexes.
-Je pense au secteur de l’énergie, avec les réseaux intelligents ; à la mobilité et au transport, avec l’optimisation des trajets et des flux de biens et de marchandises ; à la connaissance des impacts environnementaux et sanitaires, de la complexité de la biodiversité et de la nature qui doit permettre aux responsables politiques de mieux évaluer leurs décisions ; je pense enfin et surtout à la lutte contre le gaspillage et à la mise en place d’une gestion efficiente de nos ressources dans une approche d’économie circulaire.
-Ce chantier, pour enthousiasmant qu’il soit, ne doit pas nous faire perdre de vue l’essentiel, qui se joue aujourd’hui dans cet hémicycle : le progrès technologique doit être au service de l’humain, de son environnement, de sa santé et de son bien-être.
 Ayons à l’esprit ces mots de Rabelais : «Science sans conscience n’est que ruine de l’âme».
 Où est la science dans ce que vous proposez ? Tel est aussi notre rôle de législateur : tenir le progrès par la main pour l’emmener dans la bonne direction.
 Cette proposition de loi du groupe écologiste est une étape essentielle sur ce chemin.
@@ -208,36 +164,27 @@ Plusieurs études menées sur les impacts sanitaires des expositions aux champs 
 Voilà ! Exactement ! Néanmoins aucune étude n’affirme que les installations radioélectriques ne génèrent aucun impact sur la santé.
 Aussi nous devons-nous d’être vigilants.
 Il ne s’agit pas, bien évidemment, de créer un climat de peur incontrôlée.
-Je ne rejette pas le progrès, mais ne l’accepte pas à n’importe quel prix, surtout pas celui de la santé ! On a vu trop souvent des catastrophes humaines liées à des pratiques industrielles, agricoles ou sanitaires peu respectueuses de l’environnement – je pense au scandale de l’amiante et, surtout, à ses victimes.
 Pourtant, là aussi, on avait tiré des sonnettes d’alarme et là aussi, les industriels s’étaient montrés rassurants.
 Las, tant hier qu’aujourd’hui, la course au profit fait souvent fi de la valeur humaine...
 Cette part douloureuse de notre histoire industrielle doit nous alerter sur les dégâts que nos activités peuvent provoquer tant au niveau sanitaire qu’au niveau environnemental, les deux étant intimement liés.
-Aussi, en l’état actuel des connaissances techniques et médicales, suis-je favorable à l’instauration d’un plafond d’exposition du public et des salariés aux hyperfréquences de 0,6 volt par mètre, seuil préconisé par le Conseil de l’Europe.
-Il figurait également dans une proposition de loi déposée par notre ancien collègue Jean-Pierre Brard sous la douzième législature et cosignée par des représentants de tous les groupes parlementaires dont, chers collègues de l’UMP, une future ministre de l’environnement, Nathalie Kociusko-Morizet.
-En effet, le nombre de personnes souffrant d’hyper électrosensibilité augmente de façon importante, c’est une réalité constatée ! Ah bon ? Combien sont-elles ? Ces femmes et ces hommes sont confrontés à de très grandes difficultés pour faire reconnaître leur situation de handicap.
-Si beaucoup de médecins ne peuvent que reconnaître la souffrance des malades, la reconnaissance de la maladie quant à elle ne fait pas l’unanimité, ce qui n’a rien de surprenant car cette pathologie, dont les cas se multiplient de façon très préoccupante et qui affecte de manière très invalidante le quotidien des malades, était complètement méconnue il n’y a pas si longtemps.
 Certains malades ont dû interrompre leur activité professionnelle et n’ont plus accès aux services publics sans un préjudice certain.
 Quant aux enfants, ils ne sont pas épargnés.
 Leur scolarité s’en trouve bouleversée.
 Même s’ils bénéficient de cours par correspondance, l’accès aux salles d’examen est complexe voire complètement inadapté pour les enfants aux symptômes les plus affirmés.
 Que dire également de l’accès aux soins en milieu hospitalier ! Beaucoup de personnes hyper-électrosensibles disent ne pouvoir s’y rendre en raison de la présence massive d’ondes.
 La maladie est donc réellement invalidante, c’est un fait incontestable ! Il faut néanmoins reconnaître que certaines administrations font des efforts pour accueillir les malades dans les conditions les plus acceptables possibles.
-Par exemple, un service d’insertion et de probation a permis à une personne hyper-électrosensible de bénéficier, dans le cadre d’un suivi judiciaire, d’une rencontre décentralisée dans une salle vierge d’ondes électromagnétiques située dans un secteur géographique qui en est relativement exempt.
 C’est n’importe quoi ! Le conseil général de l’Essonne a accordé une aide matérielle à une personne électrosensible afin que la maladie soit moins prégnante.
 Plusieurs personnes ont également bénéficié de la reconnaissance du statut de travailleur handicapé en raison des symptômes de la pathologie.
 Je salue ces avancées et ces prises en compte mais elles sont insuffisantes.
 Une réflexion nationale aux conséquences applicables sur l’ensemble du territoire français doit être menée au plus vite.
 Si la maladie cause des handicaps, leur prise en compte doit être officialisée et les aménagements subséquents impérativement préconisés, dans le milieu professionnel comme dans le milieu de vie.
-Il n’incombe pas aux personnes en situation de handicap de s’adapter à une société génératrice de maladie environnementale mais bien à la société de s’adapter à la situation de handicap qu’elle a créée ! Le syndrome d’hyper-électrosensibilité aux ondes électromagnétiques fait partie intégrante des maladies environnementales émergentes plus communément appelées M2E.
 À titre d’information, l’OMS estime que treize millions de décès sont dus chaque année à des maladies environnementales.
 Cela nous oblige à adopter une attitude responsable face aux syndromes qui altèrent de façon notoire et durable la qualité de vie des personnes concernées.
 Aucune maladie émergente ne doit être ignorée ni minimisée par les pouvoirs publics.
 La politique de l’autruche, trop souvent de mise en matière de nouvelles pathologies, est cause de désastres humains comme sociétaux et d’importants retards des réponses techniques et médicales.
-Le ministère de la santé doit formuler des préconisations environnementales impératives dans le cadre de plans de prévention afin d’enrayer la propagation de la maladie, ce qui suppose en premier lieu de mieux en connaître les origines et les conséquences.
 Il s’agit d’un travail souvent complexe car multifactoriel.
 Seul le soutien public à la recherche dans les différents domaines en rapport avec la génération et la propagation d’ondes peut produire les outils nécessaires à la compréhension et la prévention.
 L’indispensable plan de recherche public sur l’hyper-électrosensibilité aux ondes électromagnétiques doit être cofinancé par les industriels dont les activités polluent l’environnement et sont susceptibles d’engendrer des maladies environnementales émergentes.
-Nous ne pouvons laisser les multinationales engranger les bénéfices des nouvelles technologies et se désintéresser totalement des séquelles de chaque nouvelle installation ! J’espère aussi très sincèrement que la recherche médicale apportera au moins un mieux-être aux patients touchés à défaut de les guérir, ce qui suppose une reconnaissance de la maladie réelle et générale et non cantonnée à quelques érudits ou quelques malades.
 De même, avant chaque nouvelle implantation de structure susceptible de modifier l’environnement, de réelles concertations doivent être engagées.
 Associer à la vigilance les pouvoirs publics, les riverains et les associations de malades est dorénavant incontournable, ce qui constitue une avancée.
 Nous ne pouvons plus laisser notre environnement se détériorer en nous disant «On verra plus tard les conséquences, laissons cette charge aux générations futures !».
@@ -247,26 +194,20 @@ En outre, le domaine des communications est en perpétuelle évolution et consti
 Il en résulte une multitude d’installations toujours placées dans des secteurs géographiques dits rentables au détriment des milieux ruraux produisant une masse d’ondes réparties sur plusieurs fréquences.
 Ce n’est pas vrai ! Cet amas finit en outre par parasiter les installations existantes, comme le montrent les interférences suscitées par la mise en place de la 4G.
 Ainsi, des utilisateurs captant la télévision par des antennes «râteau» ont dû faire installer des filtres 4G afin de maintenir la qualité de réception des programmes de la télévision numérique terrestre.
-Il faut au moins mener une réflexion sur une mutualisation améliorée de l’utilisation des infrastructures radioélectriques et je ne vous surprendrai pas, mes chers collègues, en particulier ceux qui étaient là la nuit dernière, en disant qu’un réel service public de la communication constitue encore la meilleure solution garantissant à la fois l’égalité territoriale et la réduction du nombre de fréquences utilisées sans dégrader le service rendu à la population.
 En conclusion, si prévenir n’est pas guérir, il n’en faut pas moins nourrir une volonté politique globale afin de tout mettre en œuvre pour prendre en compte concrètement le bien-être de nos concitoyens.
 Des politiques publiques visant à réduire le nombre de maladies environnementales sont nécessaires.
-Rendons les activités industrielles, les activités humaines et les pratiques agricoles bien plus respectueuses de l’environnement et de nombreuses maladies environnementales seront évitées ! Mais ce n’est pas en libéralisant l’ensemble des activités de ce pays ni en déréglementant les activités encadrées que l’on ira dans ce sens ! Compte tenu de ce que j’ai dit, même si la proposition de loi ne résoudra pas tous les problèmes des personnes hyper-électrosensibles et a perdu dans les méandres de l’activité parlementaire une partie de son ambition initiale, je pense très sincèrement qu’elle constituera le socle du travail qui nous attend demain.
 Je remercie Laurence Abeille et le groupe écologiste de la pugnacité dont ils ont fait preuve en vue de faire adopter la proposition de loi.
 Je remercie également la commission concernée, son président, Madame la secrétaire d’État, Mmes les rapporteures et tous ceux qui ont véritablement pris la question à bras-le-corps.
 Il s’agit d’une question nouvelle qui exige de la hauteur et non des petites polémiques, ce qui est bien le cas de l’échange que nous avons aujourd’hui.
 (Applaudissements sur les bancs du groupe écologiste.) Très bien ! La parole est à Monsieur Yves Blein.
-Monsieur le président, madame la secrétaire d’État, madame la rapporteure, madame la rapporteure pour avis, messieurs les présidents de commission, mes chers collègues, nous nous retrouvons un an après le vote en première lecture de la proposition de loi relative à la sobriété, à la transparence et à la concertation en matière d’exposition aux ondes électromagnétiques en vue de son examen en seconde lecture.
 Après un parcours qu’il faut bien qualifier de délicat, nous en venons donc à la dernière ligne droite.
 Je rappellerai après Madame la rapporteure l’historique du texte.
-En janvier 2013, une première mouture de la proposition de loi déposée par le groupe écologiste a été examinée et renvoyée en commission afin d’être retravaillée et d’attendre les résultats d’études plus approfondies en vue de son adoption.
 Il s’agissait, à propos d’un sujet aussi important, de prendre le temps de bien légiférer, ce qui peut se comprendre.
 Le président Brottes, dont je salue l’opiniâtreté, avait d’ailleurs pris à ce sujet des engagements forts, qui sont aujourd’hui tenus.
 En effet, un an plus tard, au mois de janvier 2014, les députés écologistes ont déposé une proposition de loi tenant compte des difficultés techniques, juridiques et financières du texte initial, proposition qui a été adoptée.
 Elle a ensuite été examinée au Sénat, c’est donc un texte modifié qui nous revient en seconde lecture à l’Assemblée.
-Je salue ici le travail accompli au cours de l’ensemble du processus parlementaire, en particulier par notre collègue rapporteure Laurence Abeille qui, aidée de Suzanne Tallard, a su faire preuve de persévérance et de conviction pour aboutir à un bon résultat.
 J’en viens maintenant à l’objectif même du texte.
 Le développement exponentiel des technologies sans fil soulève de nombreuses interrogations relatives en particulier à l’absence d’encadrement législatif et aux possibles effets sanitaires sur le public via les antennes relais, le wifi ou l’utilisation de téléphones portables.
-Ce n’est pas vrai ! Le texte que nous examinons aujourd’hui vise à encadrer l’exposition du public aux ondes électromagnétiques en insistant sur les principes de sobriété, de concertation et d’information sans pour autant porter atteinte aux objectifs ambitieux fixés par le Gouvernement dans le domaine du numérique, en particulier le très haut débit pour tous d’ici 2020 largement évoqué par Madame la secrétaire d’État.
 Concrètement, l’une des mesures phares du texte est l’introduction du principe de sobriété en matière d’exposition aux ondes.
 C’est-à-dire ? La sobriété vaut surtout pour les points atypiques dont le recensement devra être effectué tous les ans par l’Agence nationale des fréquences.
 Celle-ci devra d’ailleurs mettre à la disposition des communes une carte recensant les antennes relais, ce qui n’est pas sans importance.
@@ -275,13 +216,11 @@ Il donne ainsi la possibilité aux maires d’exiger des opérateurs projetant l
 Il met également à la disposition des citoyens une information claire et transparente sur les lieux d’implantation des antennes et sur les champs électromagnétiques auxquels ils sont exposés.
 Si une médiation est nécessaire, le texte prévoit l’intervention d’une instance départementale de concertation dont la composition reste à déterminer.
 Les questions relatives à la protection des établissements accueillant des personnes vulnérables et à la mutualisation des installations lors du déploiement de nouvelles technologies sont quant à elles renvoyées à des décrets.
-Par ailleurs, la proposition de loi contient un certain nombre de mesures dont je dresserai rapidement la liste car elles me semblent caractéristiques de la démarche ayant présidé à l’élaboration du texte : obligation faite au fabricant d’équipement radioélectrique d’afficher le débit d’absorption spécifique, interdiction de toute publicité pour téléphone mobile sans kit mains libres, obligation de fournir sur demande de l’acheteur des oreillettes adaptées aux enfants de moins de quatorze ans, mise en place d’une politique de sensibilisation et d’information concernant l’usage responsable des terminaux mobiles, interdiction d’installer des boîtiers wifi dans les lieux dédiés aux activités des enfants de moins de trois ans, obligation faite aux écoles primaires de désactiver les accès sans fil des équipements s’ils ne sont pas utilisés pour les activités pédagogiques, voilà des dispositions qui me semblent importantes ! En conclusion, le sujet que nous abordons est sensible, soit dit avec humour.
 Nos concitoyens s’inquiètent en nombre de l’impact sanitaire et environnemental des ondes électromagnétiques et il faut les entendre.
 Le texte que nous examinons est le fruit d’un long travail qui était nécessaire afin d’aboutir à un bon compromis.
 En effet, il ne s’agissait pas de remettre en cause les objectifs ambitieux d’aménagement du territoire, de qualité de service et de développement de l’innovation en matière de numérique.
 Le texte parvient à un équilibre satisfaisant et constitue sans doute, comme l’a dit précédemment notre collègue André Chassaigne, la première étape d’une réflexion importante sur le sujet.
 C’est pourquoi le groupe socialiste, républicain et citoyen votera le texte avec conviction ! (Applaudissements sur les bancs du groupe SRC.) Très bien ! La parole est à Monsieur Lionel Tardy.
-Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission des affaires économiques, monsieur le président de la commission du développement durable et de l’aménagement du territoire, madame la rapporteure, madame la rapporteure pour avis, mes chers collègues, qu’est-ce qu’une loi ? Est-ce la transposition d’une idéologie indifférente à la façon dont elle est écrite juridiquement ? Non ! Est-ce la transposition de dispositions dénuées de tout fondement scientifique ? Non plus ! Est-ce la traduction d’un accord tacite entre une majorité délitée et des alliés qu’il faut flatter de temps en temps ? Encore moins ! Ça commence mal ! Est-ce un texte qui, sous prétexte qu’il est débattu dans le cadre d’une niche parlementaire, est complètement déconnecté de toutes les orientations affichées par le Gouvernement au mépris de la cohérence ? Toujours pas ! Voilà, mes chers collègues, ce qu’une loi ne devrait pas être.
 Et ce qu’elle n’est pas ! Voilà pourtant ce que va devenir cette proposition de loi si nous l’adoptons aujourd’hui en l’état, ce qui n’est pas envisageable.
 Il y a maintenant deux ans, le groupe écologiste nous a présenté une proposition de loi relative au principe de précaution en matière d’ondes électromagnétiques.
 Ce texte n’était ni fait ni à faire, tout simplement parce que le principe de précaution ne peut pas s’appliquer à la légère.
@@ -291,7 +230,6 @@ Le président Brottes a alors mis en place un groupe de travail afin de travaill
 J’y ai participé et j’ai suivi la préparation de la première lecture de ce texte.
 À l’époque, le climat était constructif et la rapporteure a fait preuve d’une ouverture que je tiens à saluer.
 Mais la nouvelle proposition de loi va à l’encontre de tout ce que j’ai pu entendre dans ce groupe de travail, comme si les conclusions des experts avaient été balayées d’un revers de main.
-C’est lors de l’examen en commission, il y a un an, que tout a basculé : nous avons alors compris que ce texte, réécrit par la rapporteure pour avis, était en fait le cadeau des socialistes à leurs amis écologistes d’alors, juste avant les municipales.
 En revanche, pour notre pays, notre économie et le numérique, c’est plutôt un cadeau empoisonné.
 Sur bien des points cependant, le passage au Sénat a été salutaire et a permis de supprimer plusieurs mesures absurdes.
 Sur le plan de la procédure, plusieurs de nos demandes, que vous refusiez d’entendre à l’Assemblée, ont été satisfaites, y compris en matière rédactionnelle.
@@ -313,15 +251,12 @@ Or, les seuils réglementaires actuels s’appliquent à ces chartes ; vous avez
 Nous parlons là d’installations nécessaires à la couverture du territoire.
 Or, cette couverture, exigée par l’ARCEP, qui impose des obligations aux opérateurs, est nécessaire au développement des technologies numériques, au sens large, et à l’attractivité des territoires.
 Elle est réclamée par nos concitoyens.
-À cet égard, madame la secrétaire d’État, un beau conflit s’annonce dans le cadre du développement du numérique, que le Gouvernement affiche comme priorité pour 2015, et à l’heure où va s’engager la vente des fréquences de la bande de 700 mégahertz.
 Si je ne mets pas en question la sincérité des intentions gouvernementales sur ce point, je doute en revanche sincèrement que faire passer ici le message selon lequel «le wifi est dangereux» y contribue.
 Comme si cela ne suffisait pas, ce texte introduit également beaucoup de complexification, car l’apaisement des écologistes mérite sans doute qu’on lui sacrifie un peu du choc de simplification.
 Les propriétaires ou fournisseurs vont sans doute être ravis d’apprendre qu’ils devront informer de façon claire et lisible les occupants d’un appartement, à la suite, par exemple, de l’installation d’un four.
-Car, oui – et c’est assez comique au regard de l’objet de cette proposition de loi, qui mélange tout – les ondes d’un four sont des milliers de fois plus puissantes que celles d’une borne wifi ou d’un portable.
 Je pense qu’il est bon de le rappeler pour mettre en lumière toute la fragilité du raisonnement qui a conduit à cette proposition de loi.
 Le tout donne un sentiment étrange.
 Appliquer une sorte de principe de précaution – qui n’en est pas un, faute de fondement scientifique –, voilà qui est parfaitement anxiogène.
-Je vous conseille à cet égard la lecture d’un article très révélateur de la revue Que Choisir, démontrant que les personnes pourfendant les ondes électromagnétiques sont parfois en situation de conflit d’intérêts… Tout à fait ! …et rappelant aussi que la seule précaution d’usage, sur le plan scientifique, concerne l’usage du téléphone porté près de la tête.
 Sur le reste : rien.
 Madame la rapporteure, je sais que vous avez désespérément cherché, mais la nocivité des ondes n’est prouvée ni par le COPIC, ni par le rapport du Gouvernement, ni par l’ANSES, ni, enfin, par l’OMS.
 Ce n’est pas une raison pour que ceux qui le souhaitent ne puissent pas s’en protéger, mais ce n’est pas une raison non plus pour imposer des barrières anxiogènes.
@@ -335,8 +270,6 @@ Comment pouvez-vous décemment demander un vote conforme, compte tenu de toutes 
 Même sur le plan rédactionnel, il y aurait des corrections à faire pour l’intelligibilité de la loi, nous l’avons démontré en commission, mais je ne vois aucun amendement de la rapporteure pour cela.
 D’après ce que j’ai compris, vous préférez laisser passer les imperfections, quitte à les rectifier ensuite, avez-vous dit, dans le projet de loi santé ou ailleurs.
 Quand on sait que l’Assemblée mène une réflexion sur la qualité de la loi et lorsqu’on entend, en parallèle, ce genre de propos, il y a de quoi tomber des nues.
-Tout cela pour préserver le compromis bancal entre deux groupes politiques… À quel prix pour le pays ! …c’est assez surréaliste ! Alors, comme nous le faisons depuis le début au groupe UMP, notamment avec mes collègues Laure de La Raudière et Patrice Martin-Lalande, nous allons proposer des améliorations.
-Nos amendements visent à pointer du doigt les nombreux problèmes qui ne devraient pas subsister dans une loi, et dont voici une liste non exhaustive, mais malheureusement assez longue : les délais d’information, dans le cadre de la procédure de concertation, sont insuffisamment bordés ; la définition des points atypiques est insuffisamment précise ; la notion de seuil pour les équipements installés dans les habitations est douteuse – quel seuil définir et quelle est sa justification ? – ; des décrets, tel celui relatif aux «établissements accueillant des personnes vulnérables» viennent ajouter de la confusion, alors qu’il faudrait plutôt chercher à améliorer le cadre juridique existant ; enfin, que dire de l’application sans discernement à tous les «appareils utilisant des radiofréquences» – ce qui inclut les récepteurs –, alors que, comme je le répète encore et toujours, les précautions recommandées aux niveaux français et international n’existent que pour l’usage en mode conversation, contre la tête ? Oui, notre objectif est de corriger ce qui peut encore l’être, mais j’ai bien l’impression que nous sommes les seuls à le poursuivre, malheureusement pour le travail législatif.
 Vous constaterez qu’aucun de nos dix-neuf amendements ne procède à un rejet en bloc ; ils cherchent toujours à proposer des solutions constructives.
 De fait, parce que certains de nos concitoyens sont inquiets, nous voulons traiter sérieusement ce sujet.
 Nous sommes restés dans l’esprit de concertation dont vous vous targuez, mais qui a totalement implosé en première lecture, victime de considérations partisanes.
@@ -347,7 +280,6 @@ Encore une fois, il aurait été bien plus raisonnable d’attendre un peu.
 Quelles que soient les contraintes du calendrier parlementaire, nous sommes ici pour faire la loi, non pour laisser passer certaines dispositions floues, irréalistes et qui ne seront jamais appliquées.
 En tout cas, le groupe UMP ne peut certainement pas s’y résoudre.
 (Applaudissements sur les bancs du groupe UMP.) La parole est à Monsieur Bertrand Pancher.
-Monsieur le président, madame la secrétaire d’État, madame la rapporteure, chers collègues, les textes que nous allons examiner aujourd’hui dans le cadre de la niche du groupe écologiste ont soit une portée très réduite, auquel cas ils seront adoptés, soit sont provocateurs, et ne le seront pas.
 L’appartenance des Verts à la majorité demeure pour moi un profond mystère : cette journée l’illustre d’ailleurs à merveille.
 La présente proposition de loi s’inscrit dans la première de ces deux catégories.
 Après un parcours parlementaire pour le moins chaotique, et un an après son adoption par notre assemblée, en janvier 2013, elle revient enfin dans notre hémicycle, pour ce qui devrait être sa dernière lecture.
@@ -357,8 +289,6 @@ Je reste néanmoins convaincu que certains ajustements auraient été nécessair
 Ce sujet, à la fois très médiatique et pourtant encore mal connu, doit être traité avec la plus grande des précautions, pour éviter d’alimenter des craintes inutiles.
 La volonté d’un vote conforme par notre assemblée ne nous permet donc pas d’améliorer cette proposition de loi, qui aurait certainement gagné à être débattue au Sénat en deuxième lecture, pour connaître l’avis de la nouvelle majorité.
 Il est vrai que le fameux poulet aurait peut-être ressemblé à tout sauf à l’espèce galliforme que nous connaissons tous.
-Cela étant, le groupe UDI comme, je l’imagine, la majorité, ne peut que se féliciter de la trajectoire nouvelle prise par ce texte, dont la première version me paraissait particulièrement hostile au déploiement des antennes, mais aussi, plus généralement, au développement d’innovations technologiques, telles que les téléphones portables ou encore le wifi.
-Si l’arrivée massive des technologies recourant aux radiofréquences doit être maîtrisée avec justesse et qu’il convient d’être attentif aux risques – dans la mesure où ces derniers seraient avérés, ce qui n’est encore pas démontré –, il ne faut pas tomber dans l’excès inverse, qui consisterait à tout interdire, alors même que nous n’avons aucun résultat précis sur les conséquences des ondes émises par les antennes – au contraire des téléphones portables.
 Cependant, nous souhaitons tous la tenue de débats équilibrés et préconisons des solutions partagées qui préserveraient la santé des Français.
 Ce débat n’est évidemment pas nouveau : vous savez, chers collègues, que l’on discute de ce sujet depuis des années et que des centaines, pour ne pas dire des milliers de rapports ont été commis.
 Un comité opérationnel du Grenelle des ondes avait été mis en place, sous l’impulsion de Jean-Louis Borloo… Et de Nathalie Kosciusko-Morizet ! …et sous la présidence de François Brottes.
@@ -368,25 +298,19 @@ Le fruit de la concertation comprenait tout cela.
 On ne peut pas dire que l’on concerte, puis juger que les résultats de la concertation ne servent à rien et ne pas en tenir compte.
 La proposition de loi que nous étudions aujourd’hui reprend en partie les premières conclusions du Grenelle des ondes, ce dont nous nous réjouissons.
 Ces préconisations paraissent d’autant plus importantes aujourd’hui que le développement impressionnant de la 4G sur notre territoire risque d’amplifier nos expositions.
-Alors que les travaux du Grenelle des ondes avaient montré que le niveau d’exposition aux ondes magnétiques émises par les antennes des relais de téléphonie mobile était largement inférieur à celui établi par la réglementation française et internationale, il est désormais nécessaire de prendre en compte le développement de la 4G et de s’interroger sur ses conséquences : quid de l’augmentation des expositions ? Si l’augmentation des expositions aux ondes magnétiques est avérée, il nous manque évidemment une base scientifique permettant de déterminer si, oui ou non, ces expositions présentent une dangerosité potentielle.
-Est-on avec ou contre la science, avec ou contre les experts, avec ou contre la concertation avec celles et ceux qui sont concernés, notamment dans le cadre de l’expertise d’usage ? Si l’augmentation du niveau d’exposition aux ondes électromagnétiques est avérée, interrogeons-nous sur une éventuelle dangerosité potentielle de celle-ci.
 Dans les conclusions de son rapport d’octobre 2013 sur les radiofréquences et la santé, l’ANSES est d’ailleurs restée très prudente, affirmant que l’actualisation des données scientifiques «ne met pas en évidence d’effet sanitaire avéré».
 Qu’en est-il de la convergence de toutes les études dans ce domaine ? La recherche doit donc continuer, car nous ne pouvons pas nous satisfaire de telles conclusions.
 L’ANSES rappelait d’ailleurs que plusieurs publications évoquaient une possible augmentation du risque de tumeur cérébrale pour les utilisateurs intensifs de téléphone portable.
-Au lieu de prévoir la généralisation d’interdictions en tout genre, qui était tout de même la trame du texte initial, vous vous êtes donc repliés astucieusement sur une généralisation de l’information, de la concertation et de la médiation, ce qui ne peut pas faire de mal.
 Nous ne pouvons que nous en satisfaire.
 L’information du maire ou du président de l’intercommunalité par les exploitants d’installations radioélectriques inscrite à l’article 1ier est importante.
 Reconnaissons néanmoins ensemble que tout cela n’est vraiment pas révolutionnaire, et qu’il ne s’agit que d’une toute petite proposition de loi.
 Pour autant, je me permets de souligner les difficultés de mise en œuvre de certaines mesures.
-Je pense notamment à l’instauration d’un recensement des points atypiques, chaque année, par l’Agence nationale des fréquences, qui me paraît très compliqué à réaliser, ainsi qu’à l’élaboration d’une carte à l’échelle communale des antennes-relais existantes d’ici à un an, délai qui me semble un peu court.
 Si ces dispositions me paraissent souhaitables, sommes-nous néanmoins en mesure d’en assurer l’application ? Il ne faut pas non plus que les modalités d’information allongent les délais.
 C’est la vraie critique de fond que l’on peut formuler au sujet de ce texte.
-Cette mesure sera un prétexte supplémentaire pour engager des contentieux et causer des retards ; moi qui suis issu d’une région où le téléphone portable ne passe pas dans tous les villages… Une région protégée ! …et où l’on attend que l’équipement nécessaire pour cela soit installé rapidement, il me faudra expliquer à mes concitoyens pourquoi cela n’arrivera jamais.
 La couverture mobile et numérique de notre territoire ne doit pas pâtir d’un excès de normes.
 Le développement du numérique reste un enjeu important pour l’avenir de nos territoires, madame la secrétaire d’État, et vous le savez bien.
 Les enjeux sont autant économiques que démocratiques.
 Les Français ne sont pas égaux devant l’accès aux technologies modernes de l’information et de la communication.
-Les services de l’État s’évertuent avec frénésie à tout dématérialiser, mais quel intérêt cela présente-t-il quand on habite dans un village de cinquante habitants de ma circonscription, où, comme le dit le maire lui-même, «il n’y a rien qui passe» ? Comment expliquer tout cela à nos concitoyens de la France profonde ? Afin que la fracture numérique ne s’accroisse pas davantage, il est donc important de trouver un juste équilibre.
 L’aménagement numérique du territoire doit en effet être une priorité, car il représente aujourd’hui une condition nécessaire au désenclavement des parties encore isolées de notre pays.
 Le Gouvernement a affiché des objectifs ambitieux en matière de numérique, mais nous savons tous qu’il y a loin de la coupe aux lèvres, et que parfois, plus c’est ambitieux, moins il y a de moyens.
 Il faudra réfléchir à une stratégie qui allie à la fois responsabilité et progrès et, surtout, au moyen de tracer tout cela.
@@ -398,32 +322,26 @@ Cette notion ouvre un large éventail d’interprétations qui risque de nuire a
 Le terme «sobre» est difficilement quantifiable et risque donc de provoquer des contentieux juridiques susceptibles de desservir l’intérêt premier de ce texte.
 En outre, il ne faudrait pas que ce terme soit un prétexte au ralentissement de notre innovation.
 Par ailleurs, nous maintenons que le texte comporte encore des incertitudes, des disproportions rendant sa mise en œuvre difficile.
-Pour limiter l’exposition de la tête des enfants de moins de quatorze ans aux émissions radioélectriques, je présume que vous placerez des caméras au-dessus des oreillers dans les chambres de nos enfants ? Mais ils continueront malgré tout d’utiliser le téléphone portable comme auparavant ! Non ! Un casque anti-ondes ! Bertrand, tu exagères ! Si ce texte a le mérite d’avoir ouvert à nouveau un débat essentiel pour notre avenir, il ne saurait pour autant constituer une fin en soi.
 Nous devons engager une réflexion plus large qui pourrait se faire soit lors du projet de loi santé, soit lors de l’éventuel projet de loi sur le numérique.
 Les nombreuses améliorations qui ont été apportées tout au long de nos débats parlementaires ayant rendu cette proposition de loi beaucoup plus raisonnable, je voterai en sa faveur.
 Quant à mes collègues du groupe UDI, ils devraient, dans leur grande majorité, s’abstenir avec bienveillance.
 C’est une belle conclusion ! N’oublions pas que ce texte a été écrit à plusieurs mains ! La parole est à Madame Jeanine Dubié.
-Monsieur le président, madame la secrétaire d’État, monsieur le président de la commission du développement durable, madame la rapporteure, madame la rapporteure pour avis, chers collègues, la révolution numérique transforme notre économie comme notre société, elle se développe sans cesse et s’immisce partout.
 Cette révolution possède un potentiel incroyable pour améliorer la vie quotidienne de nos concitoyens, pour renouveler et enrichir notre vivre ensemble.
 Il est de notre devoir de ne laisser personne sur le bord de la route en luttant contre toutes les formes que prend la fracture numérique ; territoriale, générationnelle, sociale.
 C’est tout le sens des efforts constants du gouvernement, que nous soutenons, que nous saluons et que nous encourageons à se préoccuper avec une attention particulière du déploiement du très haut débit dans les territoires ruraux et montagnards.
 Pour autant, cette révolution numérique inquiète légitimement, et ce pour de nombreuses raisons.
-Si la première grande loi fondatrice et régulatrice du droit de l’internet porte le nom de loi pour la confiance dans l’économie numérique – la fameuse LCEN de 2004 –, c’est que le législateur avait déjà l’intuition, voilà plus de dix ans, que la révolution numérique ne pourrait pas réussir sans que soit instauré un climat de confiance pour nos concitoyens.
 Concernant les ondes électromagnétiques, de nombreuses peurs se sont manifestées très tôt et les pouvoirs publics n’ont pas pris les mesures nécessaires pour mettre en place un climat de confiance ; c’est le moins qu’on puisse dire.
 La transparence d’une information fiable, intelligible et accessible n’a pas été la règle habituelle pour les technologies sans fil.
 Autant le dire clairement : cela n’a pas favorisé la confiance de nos concitoyens.
 Si nous sommes réunis aujourd’hui pour examiner ensemble une proposition de loi de nos collègues écologistes au sujet des ondes électromagnétiques, c’est pour combler ce manque.
 À cet égard, je tiens, au nom des députés du groupe radical, républicain, démocrate et progressiste, à saluer la persévérance, la détermination de notre collègue Laurence Abeille.
 Le texte de la proposition de loi que nous allons examiner est l’aboutissement d’un excellent travail parlementaire qu’elle a mené de main de maître avec lucidité et clairvoyance.
-Quelles que soient nos convictions sur les dispositions de ce texte, madame la rapporteure, permettez-moi de vous dire que j’ai apprécié votre capacité d’écoute, votre volonté d’encourager le dialogue et votre souci permanent de nous associer à l’avancée des travaux.
 Nous connaissons le chemin parcouru par cette initiative, dont le premier examen dans notre hémicycle remonte à plus de deux ans.
-Nous avions alors – et je le répète aujourd’hui – manifesté notre opposition à la méthode peu élégante utilisée par la majorité pour éviter les débats dans l’hémicycle par le dépôt au dernier moment d’une motion de renvoi en commission.
 Avec la transformation d’une proposition de loi en demande de rapport, ce procédé est le moyen classique pour organiser ce qu’il est convenu d’appeler un enterrement de première classe.
 Pour nous prouver le contraire, le président de la commission des affaires économiques, François Brottes, s’était engagé à réexaminer dans l’année la proposition de loi en commission.
 Il a tenu parole et nous l’en remercions.
 Après un premier examen il y a plus d’un an ici même et il y a quelques mois au Sénat, la procédure parlementaire arrivera à son terme si nous adoptons cette proposition sans modification.
 C’est ce que nous souhaitons pour répondre sans attendre aux demandes exprimées par nos concitoyens.
-En effet, après une démarche de concertation et la prise en compte des travaux effectués pendant un an, notamment le rapport de MMonsieur Jean-François Girard, Philippe Tourtelier et Stéphane Le Bouler sur le développement des usages mobiles et le principe de sobriété, après les retouches des sénateurs, nous considérons que l’ouvrage a été suffisamment remis sur le métier.
 Il serait regrettable de repousser une fois encore l’entrée dans le droit positif des dispositions inscrites dans cette proposition de loi.
 Nous en sommes convaincus, car il s’agit d’un sujet qui préoccupe une bonne partie de nos concitoyens.
 Nombreux sont les élus qui reçoivent régulièrement des personnes angoissées, des associations inquiètes, ou des riverains d’antennes-relais en colère.
@@ -444,13 +362,11 @@ Le pouvoir du maire ou du président de l’établissement public de coopératio
 Dans la rédaction adoptée au Sénat, l’exécutif local se voit attribuer un rôle pivot, ses responsabilités s’articulent avec celles de l’État.
 En commission, les sénateurs ont en effet adopté un amendement confiant au maire ou au président de l’EPCI l’initiative de la procédure de concertation et d’information préalable du public.
 Ce rôle a été encore renforcé en séance publique, les informations relatives aux installations couvertes par la procédure d’information et de concertation étant mises à la disposition du public par les moyens qu’ils jugeront appropriés.
-Sur ces sujets, il y a eu quelques reculs malheureux au cours de l’examen au Sénat, puisque désormais, le public n’a la possibilité de formuler des observations que si le maire ou le président de l’EPCI le décident.
 Enfin, le maire ou le président de l’établissement public de coopération intercommunale partagent avec le représentant de l’État dans le département l’initiative de la médiation départementale.
 En ce qui concerne les points atypiques, chers à notre président de commission François Brottes, la définition a été clarifiée, tout comme la responsabilité des exploitants des installations radioélectriques en matière de résorption de ces points.
 C’est un sujet important pour atteindre l’objectif de sobriété de l’exposition du public aux ondes électromagnétiques.
 La résorption des points atypiques fait l’objet d’intenses débats, qui ont animé le COPIC, anciennement COMOP, puis le Sénat.
 C’est d’ailleurs un des rares sujets sur lequel tous les acteurs s’accordent pour reconnaître un risque particulier.
-En commission, les sénateurs ont adopté une position plutôt restrictive en matière de définition – lieux de vie fermés, mesures en valeur absolue – et de résorption ; conditions de faisabilité technique, de garantie de couverture et de qualité des services rendus, suppression du délai de six mois après identification des points en cause et de la possibilité de mise en demeure par l’ANFR.
 En séance, l’adoption d’un amendement du Gouvernement – je vous en remercie, madame la secrétaire d’État – a permis, grâce à une définition plus précise, une meilleure prise en compte de ces points.
 Cette définition laisse une marge d’appréciation à l’ANFR, chargée de déterminer et de réviser régulièrement les critères pertinents ; niveaux d’exposition, types de lieux, présence du public, contraintes techniques ou économiques.
 Le Sénat a ensuite rétabli le délai de six mois que nous avions adopté en première lecture, tout en conservant les conditions suspensives de faisabilité et de qualité de service.
@@ -464,12 +380,9 @@ Au final, la proposition de loi dans sa rédaction actuelle contient de bonnes d
 C’est un texte qui met l’accent sur l’obligation de concertation au niveau local et une information transparente sur les lieux de présence des antennes.
 Dans ces conditions, le groupe RRDP votera cette proposition de loi.
 (Applaudissements sur les bancs des groupes RRDP, SRC et écologiste.) La parole est à Monsieur Jean Launay.
-Monsieur le président, madame la ministre, messieurs les présidents des commissions, mesdames les rapporteures, mes chers collègues, c’est avec ma casquette de président de la commission supérieure du service public des postes et des communications électroniques que je m’exprime ce matin.
-Cette commission est composée de sept députés – je salue Jeanine Dubié, André Chassaigne, Lionel Tardy – et de sept sénateurs ; elle formule des avis qui lui sont demandés sur les projets de décrets du secteur mais a aussi une capacité d’autosaisine.
 Les épisodes douloureux que nous venons de vivre montrent bien qu’il existe dans notre République des sujets techniques ou de société, qui doivent être traités de façon transpartisane.
 C’est, me semble-t-il le cas de la proposition de loi de Laurence Abeille, qui revient en discussion aujourd’hui.
 Les ondes électromagnétiques n’ont pas de couleur politique, les smartphones, les antennes relais, les fréquences utilisées, les technologies pas davantage.
-La question qui se pose à nous est : y a-t-il un risque sanitaire ? Existe-t-il une démonstration scientifique de suspicion de risque lié aux ondes des antennes relais sous les seuils réglementaires ? Parce que ce sujet concerne tous les citoyens, notre assemblée en discute à nouveau, un an après l’examen en première lecture d’une proposition de loi, qui avait souligné un certain nombre de difficultés techniques, juridiques et financières contenues dans ce texte, initialement proposé par nos collègues écologistes.
 Les interrogations sont grandes pour nos concitoyens.
 La technologie et le marketing ont pris un peu d’avance.
 Le temps est venu pour le législateur de cadrer le développement d’un marché prometteur, bien que chahuté, en cohérence avec les craintes de nos concitoyens pour leur santé.
@@ -478,11 +391,9 @@ Nous devons reconnaître que nous n’avons pas aujourd’hui tout le recul suff
 Si le principe de précaution reste central, ceux de sobriété, de transparence et de concertation doivent également s’imposer.
 Je partage l’orientation de la proposition de loi de notre collègue sur ce sujet.
 Comme élus, nous sommes souvent confrontés aux questions des parents d’élèves sur les ouvertures ou les fermetures de classes dans les établissements scolaires.
-Il nous faut reconnaître que la question de l’implantation d’antennes relais vient immédiatement après… Si les interrogations des parents d’élèves et des riverains sont grandes, les interrogations des opérateurs téléphoniques et de l’Autorité de régulation des communications électroniques et des postes le sont également.
 Je les ai consultés et j’ai entendu leurs inquiétudes quant aux risques qu’il y aurait à brider le développement d’un secteur où le marché français est déjà si complexe.
 Les salariés de ces entreprises n’attendent pas de nous des réglementations supplémentaires, à l’heure où le secteur est déjà en restructuration.
 Très bien ! Chacun sait que l’emploi est la priorité majeure du Gouvernement.
-Le ministre Emmanuel Macron ne déclarait-il pas à cette tribune, lors de la présentation du projet de loi pour la croissance, l’activité et l’égalité des chances économiques, qu’il fallait investir dans le numérique, parce que : «la fracture numérique est d’abord une fracture économique.
 La réduire, c’est créer de l’activité» ? Si le principe de précaution doit s’imposer, le principe de concertation également.
 La fracture numérique territoriale existe.
 Si nous, élus nationaux, ne prenons pas soin de l’équilibre du secteur, d’un point de vue économique mais aussi territorial, alors, nous laisserons des territoires évoluer à plusieurs vitesses numériques, en aggravant les difficultés sociales.
@@ -497,20 +408,17 @@ Avec l’entrée dans l’ère numérique, c’est un nouveau paradigme qui est 
 Dans cet esprit, j’ai récemment déposé, devant la commission des finances, un rapport sur la modernisation de nos services publics en territoires, en m’appuyant sur La Poste et la force de son réseau.
 J’y propose notamment d’élargir le champ de compétences d’instances qui ont fait leurs preuves dans les départements : les commissions départementales de présence postale territoriale.
 Elles ont permis la transformation, négociée, de 7 500 bureaux.
-Il me semble que l’on pourrait utiliser utilement ces instances pour les antennes relais, afin d’aboutir à un grand nombre de chartes négociées, adossées à de bonnes pratiques en matière d’information et de concertation, ce qui permettrait à chacun de travailler à des implantations maîtrisées.
 Il n’y a pas d’antagonisme entre le développement des technologies et la santé de nos concitoyens.
 Si le principe de précaution doit s’imposer, le principe de concertation est une nécessité.
 Il revient aux élus compétents d’arbitrer, en lien avec les opérateurs, les utilisateurs et les différentes parties prenantes, l’installation d’antennes relais, en fonction des souhaits des citoyens.
 Alors que nous avons débattu, le 14 janvier, de la stratégie numérique, et avant l’examen de votre projet de loi sur le numérique, madame la ministre, une position très équilibrée est à l’ordre du jour.
 N’oublions pas que le très haut débit est l’ossature de notre future économie ! (Applaudissements sur les bancs des groupes SRC, écologiste, RRDP et sur plusieurs bancs du groupe UMP.) La parole est à Monsieur Bernard Accoyer.
 Monsieur le président, madame la ministre, cette proposition de loi est davantage un texte idéologique et politicien qu’un texte sanitaire.
-Qui est politicien ? En remettant en cause des données scientifiques avérées, en accréditant des risques purement hypothétiques, qu’aucune étude scientifique sérieuse n’a validés, cette proposition de loi constitue, en réalité, un vrai danger pour la santé publique, l’économie nationale, et la nécessité de son aménagement numérique.
 Véritable déni scientifique, les mesures proposées par ce texte ne manqueront pas d’être interprétées comme une confirmation de la dangerosité, totalement hypothétique, dans leur cadre réglementaire, des radiofréquences.
 Elles risquent de justifier sans raison la demande de mesures encore plus restrictives, qui s’avéreront contre-productives pour notre pays dans la compétition internationale.
 C’est grave ! Soyons clairs : la diminution de puissance des antennes de radiofréquence implique nécessairement l’augmentation de la puissance des terminaux, afin qu’ils créent la connexion.
 C’est justement au niveau de ces terminaux, et en particulier des téléphones portables, que réside ce qui peut être identifié comme un problème de sécurité sanitaire, dans des cadres bien définis.
 C’est en ce sens que ce texte est paradoxal.
-À plusieurs reprises, l’académie de médecine a tenu à mettre en garde l’opinion publique et les pouvoirs publics contre ce «lobby de la peur», selon la formule de Laure de La Raudière, députée dont je salue le travail lucide et réaliste au cours de la navette de ce texte, adopté par le Sénat lorsque la majorité de la chambre haute dépendait du groupe écologiste.
 Aucun risque des radiofréquences n’a jamais été avéré en dessous des limites fixées par voie réglementaire.
 Jamais il n’a été mis en évidence de mécanisme pouvant entraîner l’apparition d’une quelconque maladie.
 Telle est la conclusion de l’ensemble des rapports d’expertises collectives internationaux, dont plus d’une trentaine depuis cinq ans, fondés sur des milliers d’études scientifiques, tant sur l’animal que sur l’homme.
@@ -519,111 +427,76 @@ Plus de 40 études en double aveugle dans le monde ont démontré que les person
 Il s’agit donc bien d’un trouble anxieux, qui certes peut être somatisé à des niveaux parfois invalidants.
 Mais ça n’est pas en supprimant la cause anxieuse que l’on résoudra le problème de cette psychopathologie.
 Malgré cela, par des arguments détournés, par de pseudo-articles de vulgarisation, toute une mouvance continue à entretenir la croyance dans l’effet dangereux des ondes, dans leur cadre réglementaire, sur l’organisme.
-Je pense particulièrement à Monsieur Belpomme, qui propose de faire reconnaître les ondes électromagnétiques comme «crime contre l’humanité» ! Je demande ici à ce que ces allégations sans fondement soient évaluées par la communauté scientifique et que des sanctions éventuelles contre ce médecin soient examinées.
-Cette proposition de loi s’inscrit clairement dans le sens de cette entreprise de désinformation, destinée à alimenter toutes les peurs, avec pour principal effet d’accentuer, sur la foi de fausses allégations et de références pseudo-scientifiques, le trouble et la souffrance de personnes fragiles.
 La somatisation en présence d’émetteurs de champs électromagnétiques peut se traduire effectivement par des troubles bien réels pouvant s’aggraver jusqu’à constituer un handicap familial, professionnel et social, nécessitant une prise en charge adaptée.
 On ne peut que déplorer que ces troubles soient utilisés à des fins contestables, notamment idéologiques ou même lucratives, au détriment des intéressés.
 Le business autour de cette hypothétique hypersensibilité aux ondes est en effet florissant.
-Rideaux censés bloquer les ondes provenant de l’extérieur à la peinture murale anti-wifi, lits à baldaquin, costumes aux poches blindées, CD musicaux anti-ondes et cactus neutralisateurs : autant de produits vendus à des personnes fragiles, abusées pour des sommes souvent considérables.
 Ce business pose également la question de relations financières par le biais de subventions votées dans certaines collectivités.
 Merci de conclure, monsieur Accoyer ! Monsieur le président, je revendique le droit de terminer mon intervention.
 Vous avez déjà dépassé d’une minute le temps qui vous a été accordé par la conférence des présidents.
-J’ai souvent été témoin de vos propres débordements, dans nombre de commissions, où l’idéologie était votre moteur ! (Protestations sur les bancs du groupe écologiste.) Je ne vous permets pas de remettre en cause la présidence, monsieur Accoyer, vous qui avez été président de l’Assemblée nationale.
 Vos propos sont insupportables.
 C’est indécent ! Une proposition de loi, telle que celle que nous discutons aujourd’hui, ne peut qu’alimenter un climat favorable à ce business.
 Vous faites tout pour créer un tel climat ! Merci de conclure, monsieur Accoyer.
 Je vais conclure, monsieur le président.
-C’est inadmissible ! De la même façon, apparaît éminemment contestable la décision prise au printemps dernier par le conseil général de l’Essonne d’accorder une aide financière à une personne dite électro-hypersensible, à qui le statut de maladie professionnelle avait été refusé, pour lui permettre d’acquérir des dispositifs anti-ondes – dont je viens de vous donner quelques illustrations – supposés l’aider à surmonter son «handicap».
 Ce texte, en réalité… Monsieur Accoyer, comme vous ne souhaitez pas terminer, je vais être obligé de couper votre micro.
 …n’est fait que pour créer une accroche pour les recours contre les implantations d’antenne.
 Aussi, j’invite l’Assemblée à le rejeter.
 (Applaudissements sur les bancs du groupe UMP.) Monsieur Accoyer, je vous rappelle que le président de séance anime les débats, fait respecter les temps de parole et le règlement de l’Assemblée nationale.
 Je pensais qu’en tant qu’ancien président de cette assemblée, vous connaissiez ses obligations.
 La parole est à Madame Viviane Le Dissez.
-Monsieur le président, madame la secrétaire d’État,  mesdames les rapporteures, chers collègues, nous arrivons ce matin au terme de l’examen de la proposition de loi relative à la sobriété, à la transparence et à la concertation en matière d’exposition aux ondes électromagnétiques.
 Cette discussion a commencé il y a déjà deux ans.
 Elle a permis de faire évoluer la proposition de loi initialement présentée, pour parvenir à un texte de compromis que nous nous apprêtons, je l’espère, à adopter.
 Ce compromis permet – c’était le défi auquel nous étions confrontés – de concilier les enjeux environnementaux, industriels et économiques liés à l’aménagement numérique du territoire.
-Aussi, je tiens à saluer l’implication de mesdames les rapporteures ainsi que de toutes celles et ceux – parlementaires, élus locaux, associations, professionnels du secteur, représentants de la communauté scientifique et des agences de l’État – qui ont permis d’approfondir durant ces deux années le travail de réflexion et de concertation.
-Nous pouvons faire référence à ce titre aux rapports du COPIC et de l’ANSES, aux travaux de la mission confiée par le Premier ministre à MMonsieur Jean-François Girard, Philippe Tourtelier et Stéphane Le Bouler sur le développement des usages mobiles et le principe de sobriété, à l’origine de nombreuses dispositions de ce texte, ainsi qu’à ceux du groupe de travail constitué après le renvoi en commission de la première version de la proposition de loi.
 Par ce texte, le Parlement a su prouver qu’il est une force de proposition et de rassemblement.
 L’introduction dans notre droit de la notion de sobriété est le résultat de la capacité de notre institution à travailler en bonne intelligence sur des sujets aussi sensibles que celui de l’exposition aux ondes électromagnétiques.
 L’attente en la matière est forte.
 Ce texte a su y répondre, même si des modifications pourront encore être apportées, notamment dans le cadre de l’examen du projet de loi sur le numérique, qui permettra d’adapter ses dispositions au développement des nouvelles technologies.
 En encadrant et en régulant le déploiement des antennes relais, le législateur apporte tout d’abord une réponse aux difficultés auxquelles les élus peuvent être confrontés dans les territoires.
-Les débats ont permis de parvenir à un équilibre conciliant les ambitions du Gouvernement en matière de déploiement de très haut débit, fixe et mobile, pour tous et partout, à l’horizon 2022, avec la nécessité de garantir une information suffisante des élus et des citoyens.
-La procédure communale ou intercommunale de concertation et d’information du public, associée à la possibilité de recourir à une médiation au niveau départemental représente, me semble-t-il, une véritable avancée pour les élus, qui seront en mesure d’engager plus clairement le débat avec les exploitants.
 L’introduction de cette procédure pour les projets d’implantation ou de modification d’installation radioélectrique permettra, par ailleurs, de répondre aux inquiétudes qui peuvent être exprimées par la population.
-La mise en place, au sein de l’Agence nationale des fréquences, d’un comité national de dialogue relatif aux niveaux d’exposition du public aux champs électromagnétiques contribuera également à répondre à l’objectif de transparence voulu par ce texte.
-Mais la force de cette proposition de loi consiste en ce qu’elle concerne toutes les parties prenantes – élus, exploitants, citoyens – car elle prévoit non seulement de présenter un rapport sur l’électro-hypersensibilité, mais également d’instaurer une série de mesures visant à sensibiliser la population et à encourager une utilisation plus responsable des téléphones mobiles et autres équipements radioélectriques.
-L’obligation faite aux fabricants d’équipements radio-électriques d’afficher le débit d’absorption spécifique, comme c’est déjà le cas pour le téléphone mobile, permettra au consommateur de prendre en compte cette information dans ses choix et dans ses usages au quotidien.
-L’obligation de fournir des oreillettes adaptées aux enfants de moins de quatorze ans, la présence de kit mains libres dans les publicités, la mention de recommandations d’usage, par exemple en faveur de l’utilisation du kit mains libres pour les téléphones, ou la présence d’instructions claires permettant d’activer ou désactiver l’accès sans fil à Internet, représentent autant de mesures simples qui peuvent être mises en œuvre afin de limiter l’exposition individuelle aux ondes.
 La réflexion, la négociation, la concertation ont permis d’élaborer un texte complet, un texte d’équilibre, qui constitue, je l’ai dit, une solution de compromis.
 Mais cette étape de construction doit désormais laisser la place à l’action.
 C’est pourquoi, tout en continuant de travailler sur ces questions, nous avons la responsabilité d’adopter ce texte en l’état, pour permettre aux différents acteurs de bénéficier du cadre législatif qu’ils demandent depuis trop longtemps.
 (Applaudissements sur les bancs des groupes SRC et écologiste.) La parole est à Monsieur Patrice Martin-Lalande.
-Monsieur le président, madame la secrétaire d’État, chers collègues, si l’examen de la proposition de loi relative à la sobriété, à la transparence, à l’information et à la concertation en matière d’exposition aux ondes électromagnétiques se limitait à ce seul titre, elle recueillerait ici, je n’en doute pas, une très belle unanimité ! Ayant proposé dans notre débat du 5 février 2009 de réunir un «Grenelle des antennes», je me réjouis du travail accompli par le COPIC, sous l’autorité notamment du président François Brottes.
 Comme le rappelait le Conseil économique, social et environnemental, dans un récent rapport sur le principe de précaution, «un constat s’impose : le principe de précaution est souvent évoqué à tout propos et hors de propos.
 […] Il ne s’agit pas d’un principe d’abstention exigeant la preuve de l’innocuité comme préalable à toute autorisation.
 Il se distingue des principes de prévention et de prudence qui portent uniquement sur les risques avérés».
 En l’état actuel des connaissances scientifiques, le seul effet connu est le réchauffement par absorption : il n’y a pas de risque avéré des radiofréquences en dessous des seuils réglementaires.
 Les antennes-relais émettent des radiofréquences 10 000 à 100 000 fois moins élevées que celles engendrées par le téléphone portable lui-même pendant une conversation.
 Les principales mesures à prendre concernent donc les téléphones portables.
-Dans son édition de janvier dernier, l’excellente revue Que Choisir ? considère que la disposition de la présente proposition de loi qui vise, entre autres, à proscrire le wifi dans les crèches et garderies, voire les écoles maternelles, est, «dépourvue de base scientifique» et juge que «cette mesure de " précaution " est redoutable.
 D’une part, elle aura un coût pour la collectivité.
 Même s’il est faible unitairement, il faut le multiplier par quelque 50 000 établissements concernés.
 D’autre part, l’interdiction du wifi dans les structures d’accueil de la petite enfance peut générer la psychose.
 Pourquoi une protection s’il n’y a aucun risque ?» Évidemment ! On ne peut qu’être d’accord avec la généralisation de certaines bonnes pratiques, même si la loi n’était nullement nécessaire à celle-ci.
 En revanche, ce qui est grave et inacceptable, comme le rappelaient d’autres orateurs, en particulier Bernard Accoyer récemment, c’est la fausse motivation de cette généralisation.
-Dès lors, la meilleure manière d’accroître l’acceptabilité des antennes-relais n’est-elle pas d’arrêter de répandre des informations erronées et des peurs irrationnelles au sujet des ondes électromagnétiques ? Bien sûr ! Je partage ainsi la mise en garde prononcée l’an dernier, ici même, par notre collègue Jean-Yves Le Déaut, vice-président de l’Office parlementaire d’évaluation des choix scientifiques et technologiques : «accréditer des risques purement hypothétiques ne peut qu’affaiblir les campagnes contre les risques avérés, discréditer la démarche scientifique, encourager la défiance, provoquer plus de confusion, de rumeurs et d’inquiétude».
 Mon inquiétude porte sur trois principaux points.
-Premièrement, si l’on veut continuer de bien desservir la population en respectant les normes actuelles, l’affaiblissement de la puissance d’émission ne peut être compensé, chacun le comprendra, que par la multiplication du nombre d’émetteurs ou par l’augmentation de la puissance de réception des terminaux de téléphonie mobile.
 Évidemment ! Or c’est sur ce dernier point qu’il y a lieu d’être vigilant, au-delà de l’obligation de fournir un kit mains libres avec tout téléphone portable, que nous avons votée il y a quelques années.
-Deuxièmement, rendre plus difficile et donc plus coûteux – sans justification sanitaire scientifiquement établie – l’accès à la 4G, au wifi et aux autres technologies radio pénalisera les zones les moins denses de notre territoire pour l’accès au très haut débit, et remettra en cause la feuille de route numérique pourtant définie par le Gouvernement en février 2013.
 Qui croire ? Il ne faut pas encore alourdir les charges de nos opérateurs, qui doivent investir pour construire la France numérique de demain, malgré un contexte économique très défavorable.
-Troisièmement, veillons à ne pas envoyer – c’est le cas de le dire – des signaux contradictoires, sans fondement scientifique, en stigmatisant les technologies radio, au moment même où la France veut être en pointe au plan international, pour l’informatique dans le nuage, pour l’internet des objets ou pour le développement de la ville intelligente, dont la maîtrise nécessite des liaisons par ondes radio.
-Pour éviter ces différents écueils et dépolitiser l’élaboration de la norme sur les antennes-relais de téléphonie mobile, je propose au Gouvernement et au Parlement que nous réfléchissions à inscrire dans une prochaine loi le principe suivant lequel toute évolution des dispositions réglementaires ou législatives motivée par la dangerosité sanitaire soit dorénavant subordonnée à une évolution objective des connaissances scientifiques dans ce sens.
 Plus largement, l’application, justifiée ou non, du principe de précaution dans la législation française mériterait aussi une évaluation, au bout de dix ans.
 (Applaudissements sur les bancs du groupe UMP.) La discussion générale est close.
 J’appelle maintenant dans le texte de la commission les articles de la proposition de loi sur lesquels les deux assemblées n’ont pu parvenir à un texte identique.
 La parole est à Monsieur Yannick Favennec.
-Monsieur le président, madame la secrétaire d’État, chers collègues, le débat sur la maîtrise des ondes électromagnétiques étant un sujet quelque peu anxiogène, il ne faut pas donner le sentiment que les antennes relais posent un problème sanitaire, puisqu’aucun élément scientifique ne permet aujourd’hui de l’attester.
 Traiter de la seule question des antennes relais ne suffit pas.
 Il convient aussi d’évaluer le cumul des radiofréquences, d’où l’intérêt des dispositions adoptées, notamment au Sénat, concernant les points atypiques.
 L’effort d’abaissement des puissances des antennes relais de la téléphonie mobile doit donc continuer à peser sur les points dits atypiques, soumis à une exposition anormalement élevée.
 Cela doit se faire à travers une concertation approfondie entre les opérateurs, les élus et les riverains.
 Cette proposition de loi contient des dispositions intéressantes dans ce domaine.
-Toutefois, à l’heure où nous cherchons tous à promouvoir l’aménagement numérique de nos territoires, il ne faut pas faire peser des contraintes injustifiées sur les professionnels et les collectivités territoriales : la couverture numérique de notre territoire ne doit pas souffrir d’un excès de normes.
 Je tiens d’ailleurs à réaffirmer mon attachement à la lutte contre la fracture numérique, qui est une condition nécessaire du désenclavement de nombreux territoires.
 La résorption de la fracture numérique constitue donc un véritable enjeu d’égalité territoriale, d’aménagement du territoire, mais aussi d’attractivité et de développement économiques.
 Les habitants de ma circonscription, en Mayenne, ne me semblent pas craindre les ondes électromagnétiques.
 En revanche, certains attendent toujours une couverture de qualité et, demain, une couverture de quatrième génération.
 C’est, là aussi, une question d’équité territoriale.
 La parole est à Monsieur Guillaume Chevrollier.
-Monsieur le président, madame la secrétaire d’État, mes chers collègues, les hasards du calendrier législatif nous conduisent à examiner au cours de la même semaine le projet de loi Macron, censé apporter croissance et activité, et cette proposition de loi relative aux ondes électromagnétiques.
 Eh oui ! Pourquoi souligner cette coïncidence ? Car le texte que nous examinons aujourd’hui, s’il est adopté, freinera la croissance, la compétitivité, l’attractivité et l’emploi.
-C’est paradoxal ! Cette proposition a, heureusement, beaucoup évolué depuis sa première version, en 2012, mais il continue de donner un bien mauvais signal à l’heure où nous réclamons davantage de numérique, alors que nous, élus des territoires ruraux, nous battons pour l’égalité en ce domaine et contre les trop nombreuses zones blanches, qui existent encore dans notre pays.
 Voilà donc l’exemple type d’une mauvaise application du principe de précaution.
-Pourquoi intervenir, alors que la dangerosité n’est pas prouvée ? Au contraire, Monsieur Le Déaut, vice-président de l’Office parlementaire d’évaluation des choix scientifiques et technologiques, affirme que «l’ensemble des rapports d’expertise internationaux, fondés sur des milliers d’études, conclut qu’il n’y a pas de risque avéré des radiofréquences en-dessous des limites réglementaires».
 Il n’est pas question pour moi de nier l’existence des personnes hypersensibles aux ondes électromagnétiques, mais il convient de souligner que ce texte ne leur apporte aucune solution.
 C’est donc un texte inopportun, qui sera, de plus, facteur d’insécurité juridique pour les élus locaux.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 1.
-Cet amendement vise à maîtriser la durée du processus de concertation et d’information des habitants par le maire ou le président de l’intercommunalité, en cohérence avec le délai accordé par l’opérateur en amont du dépôt de la déclaration d’urbanisme ou du début des travaux.
 Un projet d’antenne relais mettant deux ans en moyenne à se réaliser, il convient en effet d’éviter une rédaction qui pourrait induire des dérives.
 La proposition de loi devrait s’attacher à améliorer la situation plutôt qu’à la dégrader davantage.
 Il faut donc encadrer le processus d’information et de concertation avec le maire, et fixer des délais courts afin de ne pas faire obstacle au déploiement des réseaux et au respect par les opérateurs de leurs obligations de couverture.
 Quel est l’avis de la commission ? Cher collègue, un mot d’abord pour constater que l’immense majorité des amendements déposés ont déjà été examinés et rejetés en commission.
-On a bien le droit de les déposer à nouveau en séance ! J’avais longuement répondu à cette occasion et chacun comprendra que je me montrerai moins diserte ce matin car nous avons d’autres textes à examiner dans la journée.
-On ne peut plus débattre en séance ? Déjà que vous voulez nous couper le téléphone ! La parole est à Madame la rapporteure et à elle seule ! Comme vous le savez, nous souhaitons une adoption conforme de cette proposition de loi : j’émettrai donc un avis défavorable sur les amendements.
-Cela étant, juste un mot sur l’amendement que vous venez de présenter sur la question des délais : il est évident que les délais durant lesquels cette participation pourra avoir lieu feront partie des conditions qu’il appartiendra au pouvoir réglementaire de préciser.
 Avis défavorable.
-Quel est l’avis du Gouvernement ? L’avis du Gouvernement ne peut être que favorable ! Je note que les opinions exprimées sur ces bancs sont très contrastées : cela me renforce dans le sentiment qu’il s’agit d’un texte raisonnable, d’un texte de compromis.
-Ah ça ! Quel compromis ! J’entends le droit le débattre que vous revendiquez, messieurs les députés siégeant sur les bancs de la droite ; mais alors, pourquoi nier ce droit à nos concitoyens ? Vous avez également expliqué que cette proposition de loi était une entreprise de désinformation.
-C’est tout l’inverse ! Ce texte doit justement permettre d’apporter un meilleur éclairage sur des questions qui, aujourd’hui, font l’objet parfois de certains raisonnements irrationnels, car une information plus éclairée permettra de diffuser les usages numériques et les technologies dans un environnement plus apaisé.
 Il n’y a pas besoin d’une loi pour ça ! Vous avez bien compris que le Gouvernement ne partage pas l’idée selon laquelle les ondes électromagnétiques présentent à l’heure actuelle un danger sanitaire pour la population.
-C’est la réponse à la discussion générale ! On veut la réponse à l’amendement ! En revanche, ce texte introduit une méthodologie qui sera très utile, en particulier pour les maires des petites communes, qui font face à un double défi : satisfaire les demandes de leurs concitoyens lorsqu’il s’agit d’apporter une meilleure couverture mobile sur leur territoire, mais aussi répondre aux angoisses exprimées par parfois d’autres habitants qui s’inquiètent de voir le déploiement de ces infrastructures dans leur environnement proche.
 C’est pour répondre à cette demande de débat et d’information que nous avons mis en place un dispositif législatif visant à accompagner les élus locaux dans des choix complexes.
-Nous n’avons pas de problème avec cela : nous sommes pour ! C’est votre motivation qui est mauvaise ! Sur l’amendement que vous proposez, monsieur le député Tardy, je vais vous répondre avec le même désir de compromis et d’objectivité.
 Vous posez la question du délai d’encadrement pour la concertation avant l’implantation des antennes relais.
 C’est une question légitime et je souhaite que la concertation qui, désormais, pourra avoir lieu, ne soit pas prétexte à un ralentissement du déploiement des infrastructures.
 Alors vous devriez donner un avis favorable à cet amendement ! S’il n’appartient pas forcément à la loi de définir précisément ces délais, le décret d’application du texte législatif viendra donc apporter toutes les précisions nécessaires.
@@ -631,12 +504,9 @@ Il y a beaucoup de choses dans la loi qui ne devraient pas y figurer ! Le Gouver
 Tout cela parce que vous voulez un vote conforme ! C’est pourtant le rôle de la loi ! La parole est à Monsieur Bernard Accoyer.
 Madame la secrétaire d’État, j’ai cru comprendre que vous étiez en charge du développement du numérique ; nous ne pouvons que vous soutenir dans cet objectif.
 Vous vous opposez à cet amendement alors que vous savez très bien que l’objet principal de ce texte est de faciliter les recours, ou du moins de créer une accroche pour les recours.
-Cela va aboutir à des parcours juridiques interminables pour ces dossiers d’autorisation – c’est d’ailleurs déjà le cas pour beaucoup de permis de construire et d’autorisations d’urbanisme –, entraînant un surcoût, des problèmes et même une mise en danger de la santé de nos compatriotes.
 En effet, le manque d’antennes émettrices, comme vous le savez, entraîne en retour une augmentation de la puissance du terminal, à savoir le téléphone portable.
-Or, s’il y a un problème, c’est au niveau des portables eux-mêmes ! Je trouve donc que votre réponse est simplement politicienne,… Oh là là ! …destinée à vous arranger avec une partie de la majorité, dont vous avez besoin pour les échéances à venir, pour les débats ici à l’Assemblée, majorité que vous avez perdue au Sénat – le Sénat dans sa majorité actuelle n’aurait jamais voté le texte tel qu’il nous est soumis aujourd’hui ! Vous refusez donc d’assumer vos responsabilités, et notamment la plus belle d’entre elles : la responsabilité de l’intérêt national, de l’intérêt du pays, dont on avait pourtant pu croire, en entendant les discours de Monsieur Macron, qu’elle était devenue la priorité gouvernementale.
 Madame la secrétaire d’État, nous ne pouvons comprendre ni accepter que vous émettiez un avis négatif sur cet amendement.
 (Applaudissements sur les bancs du groupe UMP.) Excellent ! La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 3.
-Il s’agit d’un amendement de cohérence – il en faudrait bien d’autres pour rendre un peu de cohérence à ce texte ! – destiné à mettre en accord le périmètre d’activité de l’instance départementale de concertation avec les installations radioélectriques visées quelques alinéas plus haut.
 Les dispositions des paragraphes A et B du III du texte proposé pour l’article L.
 34-9-1 du code des postes et des communications électroniques ne concernent en effet que les nouvelles installations radioélectriques et les modifications substantielles d’installations radioélectriques.
 Afin de respecter le principe de non-rétroactivité, le présent amendement précise que les installations existantes ne faisant l’objet d’aucune modification substantielle ne font pas partie du périmètre d’activité des instances départementales de concertation.
@@ -648,7 +518,6 @@ La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 2.
 L’objet de cet amendement est de faire en sorte que les délais ne dérapent pas, ce qui serait préjudiciable à tous.
 Le décret qui précisera les modalités de fonctionnement de l’instance de concertation devrait donc également préciser les délais dans lesquels elle devrait se réunir.
 D’ailleurs, les travaux du COMOC-COPIC en matière d’information et de concertation ont mis l’accent sur ce problème.
-Ils ont en effet établi que «Le retard apporté à l’ouverture de nouveaux services est pénalisant dans le cas d’une politique de concertation ayant pour effet d’allonger les délais d’installation, car ces nouveaux services sont facteurs de progrès pour l’économie en général.
 Il est également pénalisant pour un opérateur devant répondre à ses obligations réglementaires» – ce que, monsieur le président Brottes, nous ne manquons jamais de signaler à chaque fois que nous recevons ces opérateurs en commission des affaires économiques.
 Tel est le sens de cet amendement numéro 2.
 Quel est l’avis de la commission ? Cet amendement est tout à fait superfétatoire puisque le décret en question déterminera les délais dans lesquels ces instances sont réunies.
@@ -658,38 +527,27 @@ C’est certain ! La composition et les modalités de fonctionnement de l’inst
 La question plus précise que vous soulevez est donc incluse dans le contenu du futur texte d’application.
 Avis défavorable.
 La parole est à Monsieur Bernard Accoyer.
-Madame la secrétaire d’État, au moment où nous débattons de la loi Macron, qui doit faire à peu près 350 pages, au moment où nous sommes en train de débattre d’un texte dont chacun reconnaît qu’il est purement politique, qu’il compliquera le fonctionnement et fragilisera le développement de la numérisation du pays, votre réponse est non seulement indigente, mais elle est même complètement irrationnelle compte tenu de ce qu’affirme le Premier ministre lui-même et pose réellement le problème de savoir si l’intérêt général du pays est votre priorité ! (Exclamations sur les bancs du groupe SRC.) La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 19.
 J’ai dit dans la discussion générale qu’il y avait un problème avec la définition des points atypiques.
 Pour faire simple, ce sont des points où le niveau des champs électromagnétiques est supérieur à la moyenne.
-Quelle est la définition proposée ? Les points atypiques sont des lieux où les niveaux d’exposition du public aux champs électromagnétiques dépassent substantiellement ceux généralement observés à l’échelle nationale, conformément aux critères déterminés par l’Agence nationale des fréquences, et révisés régulièrement en fonction des résultats des mesures qui lui sont communiquées.
 Je suis parfaitement d’accord avec cela, mais je pense que c’est un peu léger et expéditif, et que nous devons préciser cette définition.
 En effet, il faut ensuite prévoir le cadre dans lequel les opérateurs vont devoir traiter ces points.
 J’admets tout à fait que la réduction du niveau des champs électromagnétiques puisse être dans certain cas nécessaire, à condition que leur caractère éventuellement excessif soit évalué selon des critères objectifs.
 Mais il faut aussi vérifier s’il est techniquement possible de réduire ces niveaux et s’il est vraiment nécessaire de le faire, compte tenu de la densité de la population.
 De même, il faut éviter qu’une telle exigence n’entre en contradiction avec les autres objectifs assignés aux opérateurs, à savoir la mutualisation et la couverture du territoire.
-C’est pourquoi je pense qu’il faut préciser que ces points atypiques sont situés dans des lieux où des populations séjournent pour des périodes longues et régulières dans le temps et où il est techniquement possible, pour un coût économiquement acceptable, de réduire le niveau d’exposition tout en maintenant la couverture et la qualité des services rendus, conformément aux critères de l’ANFR.
 Quel est l’avis de la commission ? Nous avons débattu assez longuement en commission sur ce point.
 Comme exemple de «présence longue et régulière dans le temps», j’avais déjà cité la fréquentation d’une salle de cinéma, mais on pourrait également songer à celle d’une chambre d’hôtel ou à de nombreux autres lieux.
 Ce que vous proposez est tout à fait imprécis.
-Vous n’êtes pas plus précise ! Par ailleurs, pourquoi restreindre la définition de ces points atypiques aux seuls lieux fermés, alors même que le Gouvernement a rappelé au Sénat que ce critère était jugé trop restrictif par l’Agence nationale des fréquences elle-même ? Avis défavorable.
-Vous, vous ne prévoyez rien : ce n’est pas mieux ! Quel est l’avis du Gouvernement ? Le dispositif sur les points atypiques n’est pas destiné à remettre en cause les niveaux d’exposition du public aux champs électromagnétiques, tels qu’ils ont été définis par le décret qui s’applique, mais bien d’identifier en vue de leur résorption les points qui présenteraient des caractéristiques spécifiques.
 Votre amendement propose de donner à l’Agence nationale des fréquences plus de marge de manœuvre dans la définition de ces points atypiques.
 Il est vrai que cette agence joue un rôle essentiel dans la mise en œuvre du dispositif créé : c’est en effet la seule agence capable d’apprécier les différents critères techniques à prendre en compte.
 Ne faites pas confiance à une agence d’État ! J’en donne quelques exemples : les contraintes liées à la configuration d’un site particulier, à une technologie, à l’état de l’art ou encore à la fréquentation des lieux.
 Il convient donc d’assurer le caractère proportionné et efficace du dispositif en laissant à l’ANFR une marge d’appréciation suffisante.
-Cette marge laissée à l’Agence pour appréhender la localisation et la définition des points atypiques sera définie dans le décret d’application ou par renvoi à un futur texte de loi, ainsi que le président Brottes l’a déjà indiqué.
 Soyons très clairs quant aux objectifs poursuivis par le Gouvernement, qui ne sont aucunement politiciens : il s’agit d’écouter et d’entendre les appréhensions exprimées par une partie de la population.
-Selon une enquête récente du Centre de recherche pour l’étude et l’observation des conditions de vie, le CREDOC, portant sur un échantillon très représentatif de la population française, plus de 65 % de nos concitoyens pensent que l’équipement électrique du foyer – on ne parle même pas des ondes électromagnétiques – est un risque pour leur santé.
-Faut-il ignorer cette réalité ? Vous l’amplifiez ! Avec ce texte, vous en rajoutez ! La mission de l’État n’est-elle pas au contraire d’apporter plus d’informations objectives à la population, surtout lorsque celle-ci les demande ? Tel est l’objet de ce texte.
 Et c’est parce que le Gouvernement croit au débat public qu’il est défavorable à l’amendement que vous proposez.
 Très bien ! La parole est à Monsieur le président de la commission des affaires économiques.
-Cher monsieur Accoyer, je me souviens que vous faisiez preuve de la même humeur avant d’être président de notre assemblée, et c’est pourquoi, contrairement à d’autres de mes collègues qui semblent choqués, les propos que vous venez de tenir ne sont pas de nature à modifier en quoi que ce soit le souvenir que vous m’avez laissé.
 Au moins cela prouve que le passage à la présidence n’a pas calmé votre verve, et cela est tout à l’honneur de votre énergie sans pareille.
 J’ai été stimulé par des ondes ! En ce qui concerne les points atypiques, je vois dans vos propos une contradiction, monsieur Tardy.
 En proposant un tel amendement, vous reconnaissez que l’exposition aux ondes électromagnétiques est un véritable problème, au rebours de votre argumentation précédente.
 Je prônerais pour ma part une approche plus sereine.
-Au cours de ses travaux, le COMOP consacré aux antennes relais, que j’avais l’honneur de présider, a constaté dans certains territoires un degré d’exposition aux ondes dix fois plus élevé sur un certain nombre de points «chauds», pour reprendre la terminologie originelle, ou «atypiques», terme finalement retenu pour des raisons de contexte social, et cela que la zone en cause soit ou non fréquentée.
-Il n’y a pas de raison d’accepter une valeur d’exposition de 15 sur certains points d’un territoire où elle est en moyenne de 0,1 et les décisions visant à lutter contre une telle sur-concentration d’ondes sont justifiées.
 Si on commence à distinguer selon qu’il s’agit de tel ou de tel lieu, ou selon qu’il fait l’objet d’une fréquentation partielle, ponctuelle ou régulière, on ne s’en sortira pas.
 En revanche, un degré d’exposition dépassant largement la moyenne, cela est clair et net et se mesure sans peine, et cela n’a rien à voir avec le niveau de fréquentation, me semble-t-il.
 Bien sûr que si ! La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 4.
@@ -697,8 +555,6 @@ Sans vouloir recommencer ce débat, monsieur le président Brottes, il va de soi
 Le présent amendement a pour objectif de préciser la procédure de traitement des points atypiques.
 D’une part, il précise que c’est l’ANFR qui demande explicitement aux exploitants de traiter ces points, dans un souci, une nouvelle fois, de clarté et de cohérence.
 D’autre part, il porte le délai de traitement de six à douze mois, délai plus raisonnable compte tenu des démarches administratives et juridiques souvent longues qui peuvent être nécessaires.
-Quel est l’avis de la commission ? Votre amendement vise, d’une part à préciser que l’ANFR demande explicitement aux exploitants des installations radioélectriques de procéder à la résorption des points atypiques, et d’autre part à porter le délai de traitement de six à douze mois.
-Sur le premier point, je tiens à vous rassurer : le Gouvernement avait indiqué que l’Agence nationale des fréquences étant chargée de veiller au respect des valeurs limites d’exposition du public aux champs électromagnétiques, il n’était pas nécessaire de préciser à nouveau qu’elle était tenue d’avertir les exploitants de installations radioélectriques sources de points atypiques qu’ils devaient les résorber.
 Quant au délai de six mois, il me paraît, comme au Gouvernement, tenable par les opérateurs, d’autant plus que la proposition de loi permet d’y déroger pour des questions de faisabilité technique.
 Mon avis est donc défavorable.
 Quel est l’avis du Gouvernement ? Défavorable.
@@ -712,25 +568,18 @@ La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 6.
 Le flou de l’alinéa 21 justifie sa suppression.
 Tout y est mélangé et renvoyé à un décret sans que l’on sache réellement de quoi il s’agit.
 On ignore, par exemple, qui sont les « personnes vulnérables ».
-Si le but est de tenir compte des interrogations que suscite dans l’opinion publique l’installation d’antennes à moins de cent mètres d’un établissement particulier, il est déjà atteint par l’article 5 du décret relatif à l’exposition du public.
 Celui-ci qualifie de manière précise ces établissements particuliers : établissements scolaires, crèches, établissements de soins, et préconise déjà de faire preuve de vigilance pour parer aux inquiétudes que ces antennes pourraient générer chez certaines personnes.
 Le décret prévu par le texte est tellement fourre-tout et déconnecté de la réalité que, très sincèrement, je doute de sa parution.
 Quel est l’avis de la commission ? Je pense au contraire que ce décret sera rédigé et publié.
-Vous critiquez cette mesure au motif que son objectif serait déjà satisfait par plusieurs dispositions réglementaires, mais la disposition que vous entendez supprimer est avant tout un signal politique fort, engageant le Gouvernement à réviser l’article 5 du décret du 3 mai 2002, qui prévoit l’édiction de mesures spécifiques pour les établissements scolaires, les crèches ou les établissements de soins.
 Les établissements accueillant des personnes vulnérables sont donc les établissements dits sensibles, dont j’ai donné la définition en commission, et les établissements de soins.
-S’agissant de la mutualisation, il est vrai que des dispositions ont été prises dans le cadre du projet de loi pour la croissance et l’activité afin de mieux l’encadrer, conformément aux avis émis en 2013 par l’ARCEP et l’Autorité de la concurrence.
-Néanmoins, il s’agit là d’inviter le Gouvernement à renforcer les dispositions de l’article 1ier du décret du 7 mars 2006 relatif aux conditions d’établissement et d’exploitation des réseaux et à la fourniture de services de radiocommunications mobiles.
 L’avis est donc défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 7.
 Avec cet alinéa, nous atteignons un sommet d’absurdité, et j’espère que ceux qui suivent nos débats comprendront à quel point il est burlesque.
-Il prévoit en effet que l’ANFR «met à disposition des communes de France à l’échelle communale des antennes relais existantes.» Si l’objectif de cette disposition, introduite à l’initiative du groupe GDR, est compréhensible – il s’agit d’assurer l’information des communes –, il est plus que satisfait, une carte des antennes relais, accompagnée d’une vue par satellite, étant déjà mise en ligne par les soins de l’ANFR, et accessible à tous à l’adresse www.cartoradio.fr.
 Le site est très bien fait, puisqu’il suffit de zoomer pour obtenir l’échelle communale.
-Je pense qu’on peut s’en tenir là, et qu’il n’est nul besoin de materner les communes en envoyant à chacune d’elle une carte des antennes relais installées sur leur territoire – soit 36 000 exemplaires papier, ce qui n’est pas très écologique.
 Les communes sont assez grandes pour consulter elles-mêmes ce site.
 On atteint là des sommets de complexification.
 En commission, le président Brottes a avancé l’argument selon lequel l’inscription de cet outil dans la loi garantira sa pérennité.
-Comme si on ne pouvait pas faire confiance à l’ANFR, établissement public relevant de la tutelle de l’État, pour se conformer aux exigences d’information du public et des collectivités, alors que c’est le cœur même de sa mission.
 Ce n’est pas contradictoire.
 Quel est l’avis de la commission ? Je reprends à mon compte l’argument avancé par le président Brottes en commission : l’inscription de cette obligation dans la loi garantira la pérennité de cet outil.
 En outre l’échelle communale permettra aux communes, qui ne connaissent pas nécessairement le site que vous évoquez, de disposer d’une information spécifique.
@@ -739,22 +588,17 @@ Cette disposition permettra de mettre en valeur, voire de préserver l’existen
 Par ailleurs, le texte ne prévoit pas qu’une carte à l’échelle locale sera envoyée aux communes.
 Cela ne relève pas de la loi ! Ce n’est plus de la loi bavarde, c’est de la loi incontinente ! La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 8.
 L’alinéa 8 pose de nombreux problèmes.
-D’une part, prévoir un seuil d’émission des champs électromagnétiques déclenchant l’obligation d’information pose question : sur quelle base ce seuil va-t-il être défini ? Je rappelle une nouvelle fois que les ondes émises par un four sont des milliers de fois plus puissantes que celles d’une borne wifi ou d’un portable.
 D’autre part, en souhaitant étendre l’obligation de recommandations d’usage, qui n’existe à l’heure actuelle que pour les téléphones mobiles, vous visez clairement le déploiement des compteurs électriques intelligents, en contradiction avec vos positions écologiques.
 Vous allez ainsi nourrir un climat anxiogène et compliquer l’installation de ces équipements, ce qui est assez dramatique.
 Quel est l’avis de la commission ? Il est défavorable.
 La rédaction actuelle de la proposition de loi me paraît suffisamment claire.
-La référence à un seuil, introduite par Monsieur Daniel Raoul, rapporteur du texte au Sénat, a justement pour but de fixer un critère objectif alors que la rédaction de l’Assemblée nationale renvoyait la détermination des équipements concernés à un décret.
 Le renforcement de l’information est toujours bénéfique.
 Vous allez torpiller le développement des objets connectés ! Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Madame Laure de La Raudière.
-Je prends ici le pari que d’ici un an, dans le cadre de l’examen d’un futur projet ou proposition de loi, le Gouvernement ou le groupe socialiste nous proposera de supprimer cette mesure, qui va complètement à l’encontre du développement des objets connectés et du déploiement des compteurs électriques.
-Je m’engage à offrir le champagne si ce n’est pas le cas ! (Exclamations sur les bancs des groupes SRC et écologiste.) Nous serons là ! C’est comme cela que ça se passe depuis un moment et il n’y a pas de raison que ce texte fasse exception.
 Quelle perfidie ! La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 9.
 Prévoir une telle obligation d’information lorsque l’installation de l’équipement est indépendante de la volonté de l’occupant du local en cause pourrait à la rigueur se comprendre dans votre logique.
 En revanche, il est absurde de prévoir une telle obligation lorsque les personnes concernées sont à l’initiative de l’installation, à moins qu’il ne s’agisse, encore une fois, de susciter un climat anxiogène.
 C’est là que nous sommes fondamentalement en désaccord, madame la rapporteure.
-Outre le fait que vous inventez des recommandations d’usage qui n’ont de valeur scientifique que dans le cas du téléphone portable, vous considérez les Français comme de grands enfants incapables de s’informer eux-mêmes et qu’il faut materner en les instruisant de risques qui ne sont même pas avérés.
 Quel est l’avis de la commission ? Monsieur Tardy, connaissez-vous le DAS de votre téléphone ? Je le dis en plaisantant, mais très sincèrement, la question de l’information reste essentielle.
 Il en a été question en discussion générale : le renforcement de l’information est une excellente chose.
 Avis défavorable.
@@ -768,14 +612,11 @@ Cela change beaucoup de chose.
 Le caractère direct permettrait de cibler les publicités concernées : celles dans lesquelles on voit un téléphone utilisé à l’oreille.
 En visant toutes les publicités, on ajoute des mentions inutiles et on complexifie la loi, une fois de plus.
 Cette cohérence est nécessaire dans le code de la santé publique.
-Quel est l’avis de la commission ? Monsieur Tardy, faut-il vraiment autoriser les publicitaires souhaitant promouvoir indirectement la vente d’un téléphone portable à se soustraire aux obligations d’information, s’agissant des recommandations d’usage ? Naturellement, j’émets un avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Bernard Accoyer.
 Cet amendement appelle notre attention sur les conséquences sanitaires de ce texte.
 Je le répète : les conséquences sanitaires de ce texte, et je me limite à celles-ci, seront négatives.
 D’abord, parce qu’on a besoin d’un bon réseau numérique pour appeler les secours.
-Demain, dans la maison connectée, il permettra de transmettre des informations sur la santé, sur des interventions à domicile depuis un centre de décision, par exemple pour un trouble dans le rythme cardiaque – et je ne sais quoi d’autre, puisque tout cela n’est pas encore complètement inventé de nos jours.
-Ce texte est un texte obscurantiste, qui bouche complètement les perspectives qui s’ouvrent à notre pays, dont on connaît la créativité, l’inventivité, la faculté à créer des start-up que vous étouffez dans l’œuf en même temps que vous mettez en jeu la santé publique.
 Au-delà de cette observation, en réduisant la puissance disponible des antennes sur le terrain, vous allez rendre plus importante la puissance dégagée dans des millions de téléphones portables, au détriment des enfants et de tout le monde.
 Madame la secrétaire d’État, je vous demande juste une réponse : où est la logique sanitaire de votre texte ? (Applaudissements sur les bancs du groupe UMP.) La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 11.
 Là encore, le texte n’est pas assez clair.
@@ -801,7 +642,6 @@ Prenons l’exemple de l’article L 5232-1 du code de la santé publique : pour
 Eh bien, les modalités ont été précisées par arrêté.
 Cela devrait être aussi le cas pour le présent article et c’est le sens de mon amendement.
 Quel est l’avis de la commission ? C’est un amendement qui apporte une précision superfétatoire.
-(Protestations sur les bancs du groupe UMP.) Hormis lorsqu’il s’agit d’un renvoi à un décret en Conseil d’État, il n’est nul besoin de préciser dans la loi que le Gouvernement peut prendre des mesures d’application de niveau réglementaire.
 Avis défavorable.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 13.
 Encore un problème de cohérence : il y a une incohérence à l’intérieur même du texte.
@@ -821,11 +661,7 @@ Il ne faut pas être hypocrite : il suffira de faire mention, en bas de la publi
 Avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Bernard Accoyer.
-Madame la secrétaire d’État, tout à l’heure vous vous plaigniez de la loi bavarde, mais les travaux parlementaires ont mis en évidence la nécessité d’une mise en cohérence et vous entérinez l’absence de celle-ci : où est l’honnêteté dans la rédaction du texte législatif ? Nous écrivons la loi, ici : nous ne sommes pas dans de petites combinaisons politicardes.
-En refusant, sans même le justifier d’ailleurs, qu’on adopte cet amendement de cohérence, vous signez en quelque sorte l’abandon de l’objectif d’intérêt général qui va de pair avec la construction d’une loi de qualité, au profit de je ne sais quelle facilité politicienne.
 Madame la secrétaire d’État, ce matin, le président de la commission, que je connais bien et dont je connais les qualités, était mal à l’aise au sujet de cette défaillance du travail législatif.
-Le Gouvernement décide d’abandonner en pleine nature le chemin qu’il prétend suivre : celui de l’intérêt général, dans l’adoption d’un certain nombre de textes permettant à la France de relever le défi terrible qui lui est lancé.
-Franchement, ne croyez-vous pas qu’en cette période particulièrement troublée, dans ces difficultés économiques et sociales majeures que nous traversons, nous ayons autre chose à faire ici, à l’Assemblée nationale ? (Applaudissements sur les bancs du groupe UMP.) La parole est à Monsieur le président de la commission spéciale.
 Je ne vais pas rappeler ses devoirs à Monsieur Accoyer ; mais vous mettez en cause la qualité du travail du Sénat.
 Là n’est pas la question ! Ce n’est pas bien de faire ça, dans la mesure où le Sénat a fait sur ce texte un travail conséquent, comme c’est souvent le cas.
 (Interruptions sur les bancs du groupe UMP.) Sa rigueur, que nous connaissons et que nous apprécions, fait montre d’un travail que nous reconnaissons, à l’Assemblée nationale.
@@ -835,7 +671,6 @@ Monsieur le président Brottes, nous ne mettons pas en cause le travail du Séna
 On l’a bien compris depuis le début : tout ce qui pourrait corriger, aller dans le bon sens, rétablir la cohérence, vous n’en voulez pas, quitte à nuire à l’intelligibilité de la loi.
 C’est un choix.
 Mon amendement porte sur la disposition visant à introduire la notion d’oreillettes adaptées à la taille des oreilles, qui paraît incongrue et disproportionnée.
-Qu’est-ce que cela vient faire dans la loi ? Pourquoi seule la France aurait-elle un tel besoin ? Si on adopte cet alinéa, il faudra créer des oreillettes spécialement adaptées à tous les enfants de moins de quatorze ans, dont la morphologie est très évolutive.
 En imposant encore une fois des contraintes franco-françaises, ce dont vous êtes franchement les spécialistes, nous n’aidons absolument pas notre économie.
 Cela montre la faible préparation de cette disposition.
 Il convient donc de supprimer cet alinéa, qui n’a rien à faire dans la loi.
@@ -849,7 +684,6 @@ C’est réglementaire, tout cela ! Dans le dialogue avec le Gouvernement, le te
 Les amendements que vous proposez apportent des précisions qui ne sont absolument pas nécessaires et qui sèmeraient la confusion.
 Il vaut parfois mieux que la loi reste générale : il reviendra aux décrets d’application, comme c’est toujours le cas, d’apporter les précisions nécessaires.
 Vous allez sans doute déterminer la couleur des oreillettes ! La parole est à Madame Laure de La Raudière.
-Je voudrais dire à Madame la secrétaire d’État que le problème n’est pas la volonté d’adopter le texte conforme, mais le fait que le Gouvernement soutienne ce texte, en complète contradiction avec sa volonté de développer le numérique.
 Vous avez accompagné à Las Vegas le ministre de l’économie, de l’industrie et du numérique, Monsieur Macron, pour soutenir le génie français dans le domaine des objets connectés.
 Vous êtes en train de faire un grand écart entre votre position à l’égard de ces entreprises qui développent des objets connectés, qui utilisent les ondes, le wifi, les GSM, et ce texte de loi.
 Non dans les mesures qui y figurent, ligne à ligne, mais dans sa philosophie même.
@@ -860,14 +694,10 @@ Il faut donner des signes simples aux entreprises : «Allez-y, foncez !» Là, v
 C’est scandaleux.
 La parole est à Madame la secrétaire d’État.
 Je suis désolée d’apprendre, madame de la Raudière, que vous prenez les entrepreneurs pour des idiots.
-Ce n’est pas ce qu’elle a dit ! C’est même tout le contraire ! C’est vous qui les prenez pour des idiots ! Ce texte, comme je l’ai expliqué lors de la présentation – à laquelle vous n’avez pas assisté et que vous n’avez donc pas entendue – n’est pas une manière pour le Gouvernement de considérer que les ondes électromagnétiques sont dangereuses… Si ! C’est toute sa logique ! …et que donc leur production, leur installation ou leur consommation devraient être freinées.
 J’ai été très claire sur ce point.
 En aucun cas ce texte ne freinera l’utilisation d’objets connectés… Allons ! Il n’est fait que pour cela ! …en particulier, dans les secteurs en pleine expansion comme la e-éducation ou la e-santé.
-Il s’agit d’un texte de méthode qui vise à une chose, qui n’a qu’un objectif : crever l’abcès… C’est la France que vous allez faire crever ! …des anxiétés irrationnelles véhiculées actuellement dans le débat public… Par qui, par quoi ? Votre texte ! …en raison de l’absence de mécanismes permettant de consulter efficacement la population au moment de l’installation d’antennes relais.
 C’est du bla-bla ! Vous prêtez à cette proposition de loi des effets économiques complètement disproportionnés.
-C’est vous qui le dites ! Elle en aura plus que la loi Macron, en tout cas ! L’ambition économique de soutien aux start-up du numérique n’est pas en cause : leur développement ne sera en rien freiné en raison de la demande tout à fait légitime des Français de pouvoir acheter et consommer dans des conditions d’information les plus optimales possibles.
 Un point c’est tout ! Si les terminaux sont inaccessibles, cela va bien fonctionner ! La parole est à Madame Isabelle Attard.
-Je ne vois pas où est la contradiction entre la défense ou la promotion de la technologie française et des objets connectés – nous sommes nombreux à en avoir sur nous et nous serons encore plus nombreux demain – et notre rôle de représentants de la nation qui est d’essayer de protéger les plus faibles dans notre société.
 Les protéger de quoi ? Honnêtement, je ne comprends pas le débat.
 Monsieur Tardy, vous avez rappelé les dégâts causés par les ondes des fours à micro-ondes mais je ne pense pas que vous passiez votre journée et votre vie devant un four.
 De ce point de vue-là, il me semble qu’il n’y a pas de problème.
@@ -875,9 +705,6 @@ Je ne passe pas non plus ma vie face à des terminaux.
 Vous avez parlé des compteurs Linky.
 Personnellement, je me suis opposée à leur installation systématique connaissant leur danger pour la population et, surtout, parce qu’ils sont imposés dans les foyers sans que quiconque ait la possibilité de choisir.
 C’est une chose.
-Les masques tombent ! On y vient ! Ce raisonnement ne tient pas debout ! Je vais terminer… Ce n’est pas grave, vous pouvez continuer à parler dans votre coin… Depuis le début de notre discussion en séance publique, nous opposons des choses qui n’ont pas à l’être.
-Ce n’est pas parce que nous défendons la technologie et l’utilisation des téléphones portables que nous ne pouvons pas en même temps, en tant que représentants de la nation, défendre en conscience les enfants – ils sont les plus sensibles aux ondes –, les femmes enceintes, les personnes âgées… Justement ! …et celles qui sont électro-hypersensibles… Les dispositifs pour ce faire existent déjà ! …dont vous niez l’existence, que vous rayez de la carte, ce qui est insultant.
-Vous rayez en effet de la carte une partie de la population… On croirait entendre Belpomme ! …certes minime, oui, parce que seules quelques personnes sont concernées mais si notre rôle de député ne consiste pas aussi à penser à celles qui sont les plus faibles, alors, je ne vois pas ce que nous faisons dans cet hémicycle.
 Ce sont des propos honteux et caricaturaux ! La parole est à Monsieur le président de la commission des affaires économiques.
 Je m’exprimerai dans le prolongement des propos de Madame la secrétaire d’État.
 J’apprécie le travail de Madame Laure de La Raudière sur ces questions mais je suis toujours désolé de la voir s’emporter.
@@ -885,7 +712,6 @@ Ni vous, madame, ni Monsieur Tardy ne pouvez oublier à quel point, dans notre p
 Par des idées fausses ! Vous ne pouvez pas l’oublier ! À la demande de Madame Chantal Jouanno, j’ai accepté – quoiqu’alors membre de l’opposition – d’organiser une concertation sur ces questions.
 La transparence, l’objectivité, la rationalité, la concertation doivent s’accroître.
 Or, comme le disait Madame la secrétaire d’État, ce texte permet aux collectivités et à l’ensemble des acteurs de dédramatiser les situations.
-Vous envoyez un signal inverse ! C’est l’irrationnel, l’absence de dialogue, la volonté d’engager des contentieux qui entravent le déploiement des technologies ! Les contentieux, les recours successifs, les manœuvres dilatoires, c’est tout cela qui freine le développement des technologies, c’est tout cela qui empêche l’épanouissement d’un certain nombre d’entreprises ! Précisément, vous vous apprêtez à ouvrir des voies de contentieux ! Poser un cadre un peu différent, proposer des méthodes au titre de la prévention dans un certain nombre de domaines afin de favoriser un meilleur dialogue, cela permet plutôt d’être à l’écoute de nos entreprises alors qu’avant, nous étions de part et d’autre d’un grand mur.
 J’essaie de plaider pour vous dire que nous avions besoin de dédramatiser la situation.
 Je demande la parole pour un fait personnel.
 En l’occurrence il n’y en a pas, madame de La Raudière.
@@ -903,20 +729,15 @@ Le dispositif de la proposition de loi prévoit que la remise d’une oreillette
 Or, l’immense majorité des acquisitions de terminaux a lieu auprès d’un opérateur.
 Il appartient donc au vendeur – en l’espèce, l’opérateur – de fournir un tel accessoire.
 Avis défavorable.
-Pitoyable ! Quel est l’avis du Gouvernement ? La disposition prévoit déjà que la fourniture de l’équipement s’effectue à la demande de l’acheteur, dans le cadre de l’acte d’achat, ce qui n’implique pas directement le fabricant.
 Je crains donc que votre amendement n’ait des conséquences qui iraient bien au-delà des objectifs que vous recherchez.
 Pas du tout ! Le Gouvernement y est défavorable.
 La parole est à Madame Laure de La Raudière.
 Madame la secrétaire d’État et Monsieur le président de la commission m’ayant citée deux fois, je souhaite intervenir.
 Monsieur le président de la commission, ce texte de loi ouvre une nouvelle voie de recours.
-Et en plus, il est rétroactif ! Vous pensez qu’il sécurisera la situation et qu’il apaisera les discussions mais je gage au contraire que vous ouvrez aux associations opposées aux antennes et à leur installation une nouvelle voie de recours.
 C’est un piège à contentieux ! En effet.
-Et le texte est rétroactif, je le répète ! Elles avaient épuisé toutes les voies de recours et elles ne pouvaient plus en déposer car déboutées pour faits déjà jugés et vous, avec la notion de sobriété, vous ouvrez une nouvelle voie de recours ! Bien sûr ! Je ne suis donc pas du tout sûre que les débats seront apaisés.
-En outre, madame la secrétaire d’État, je vous rassure : j’ai beaucoup de respect pour les chefs d’entreprise, gens extrêmement intelligents, mais je doute qu’ils parviennent à comprendre une position aussi ambiguë que la vôtre s’agissant du développement de l’économie numérique et de propos qui peuvent être considérés comme contradictoires.
 Mais rassurez-vous ! Je suis certaine que nos chefs d’entreprise sont suffisamment intelligents pour faire gagner la France dans ce domaine-là.
 Je souhaiterais simplement que le Gouvernement ne défende pas des propositions aussi contradictoires.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement de suppression numéro 16.
-Niveau absurdité, cet article est également pas mal ! Fort heureusement, sa version initiale a été réduite mais son premier alinéa, dans le texte du Sénat, dispose que dans un délai d’un an à compter de la publication de la présente loi, il est mis en place une politique de sensibilisation et d’information concernant l’usage responsable et raisonnée des terminaux mobiles ainsi que les précautions d’utilisation des appareils utilisant des radiofréquences.
 La loi, c’est sidérant, prévoit donc une campagne de sensibilisation.
 Encore une fois, nous sommes là pour écrire la loi, tout le monde en conviendra, et ce n’est pas en l’occurrence son rôle.
 Je sais, monsieur le président de la commission des affaires économiques, que vous aviez aussi «tiqué» sur cet article en première lecture.
@@ -929,10 +750,8 @@ Nous avons tenu et nous tenons encore à ce que cela figure dans ce texte.
 Avis défavorable.
 La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro 17.
 Il s’agit d’un amendement de repli, monsieur le président.
-Je ne sais pas trop comment l’Institut national de prévention et d’éducation pour la santé et le ministère de la santé s’en sortiront pour faire une campagne de prévention sur les précautions d’utilisation des appareils utilisant des radiofréquences sachant qu’aucune précaution n’est recommandée scientifiquement.
 Personnellement, je n’aimerais pas être à leur place.
 Ceci dit, s’ils nous lisent, je les assure que nous sommes très peu à penser que cet article relève de la loi, même s’il va en faire partie.
-À la limite, on pourrait leur simplifier la tâche et, surtout, remettre rigueur et exactitude dans le texte en limitant cette campagne de sensibilisation à ce qui existe déjà, soit, au rappel des bonnes pratiques d’utilisation du téléphone portable, lequel doit être autant que possible éloigné de l’oreille lorsque l’on passe un appel.
 Voilà ce à quoi il faudrait s’en tenir dans la loi.
 Pour être en effet scientifiquement correct.
 Quel est l’avis de la commission ? Avis défavorable.
@@ -958,7 +777,6 @@ Dans les explications de vote, la parole est à Monsieur Lionel Tardy, pour le g
 Quelques mots, donc, pour expliquer le vote du groupe UMP.
 Nous avons déposé une vingtaine d’amendements pour essayer d’améliorer le texte.
 Au nom de considérations partisanes, bien évidemment, aucun n’a été adopté pour que le vote soit conforme.
-Le groupe écologiste sera ravi qu’une de ses propositions de loi soit adoptée, et tant pis pour l’expertise scientifique, pour l’intelligibilité de la loi et pour sa qualité ! Je souhaite bon courage aux acteurs économiques, qui devront appliquer ce texte.
 Je souhaite bon courage aux acteurs du numérique, qui auront du mal à s’y retrouver lorsqu’ils mettront en parallèle les annonces gouvernementales.
 Je souhaite bon courage à ceux qui écriront les décrets d’application, s’ils sont écrits.
 Je souhaite bon courage à ceux qui vont découvrir le caractère excessivement anxiogène de cette proposition de loi.
@@ -967,39 +785,30 @@ Puisque nous avons beaucoup parlé de seuils, je crois que le seuil de ce qui es
 Le groupe UMP votera donc contre cette proposition de loi.
 La parole est à Monsieur François de Rugy, pour le groupe écologiste.
 À quelques minutes du vote, je me félicite que nous arrivions enfin à l’adoption définitive de cette proposition de loi.
-Qui n’a plus rien à voir avec le texte initial ! Nous avons entamé ce travail avec Laurence Abeille il y a déjà plus de deux ans, et cela montre concrètement que les propositions de loi présentées par les groupes dans le cadre des niches parlementaires, lorsqu’elles sont enrichies et modifiées par la navette parlementaire, peuvent aboutir.
-Nous avons adopté une démarche pragmatique et concrète, afin de répondre aux questions que se posent nos concitoyens sur les ondes électromagnétiques, sur l’utilisation des téléphones portables et sur les nouvelles technologies, questions que l’on ne peut pas balayer d’un revers de la main.
 Le développement de ces nouvelles technologies doit être encadré.
 Tel est précisément le but de cette proposition de loi, qui va dans le sens de la transparence et du principe de précaution.
-Cela n’a rien à voir avec le principe de précaution ! Je salue, par anticipation, le vote de ce texte, fruit d’une parfaite coopération avec le président de la commission des affaires économiques, François Brottes, et avec le Gouvernement, que nous remercions à cette occasion.
 Nous n’avons pas besoin d’une loi pour généraliser les bonnes pratiques ! La parole est à Monsieur François Pupponi, pour le groupe socialiste, républicain et citoyen.
 Je tiens, moi aussi, à saluer le travail qui a été fait par l’ensemble des groupes, y compris ceux qui ont proposé aujourd’hui des amendements.
 Tout cela va dans le bon sens.
-Je veux saluer Laurence Abeille, qui a fait un long et difficile travail pour convaincre l’ensemble des groupes de l’Assemblée nationale, ainsi que le président Brottes, car ce texte a fait l’objet d’un renvoi en commission, ce qui n’est pas commun dans notre assemblée.
 Il s’est agi d’un vrai renvoi en commission, et non d’une manœuvre dilatoire, puisque nous avons vraiment retravaillé ce texte.
 Ce texte devra naturellement évoluer… Et comment ! …car les techniques évoluent, elles aussi, mais il s’agit en tout cas d’un premier pas qu’il faut saluer.
 Nous voterons donc ce texte avec beaucoup de conviction.
 La parole est à Madame Jeanine Dubié, pour le groupe radical, républicain, démocrate et progressiste.
-Comme j’ai déjà eu l’occasion de le dire tout à l’heure, le groupe RRDP votera cette proposition de loi, qui constitue un bon compromis, puisqu’il prend en compte la nécessité de la concertation et de la transparence sur les territoires, qu’il va obliger les opérateurs à être beaucoup plus transparents dans l’installation de leurs antennes, et surtout à travailler davantage en coopération avec les élus locaux et la population.
 Ce texte n’entravera pas, selon moi, le déploiement du très haut débit, ni dans nos zones rurales, ni dans nos zones de montagne, au contraire.
 Vous verrez bien ! Ce déploiement se fera seulement d’une façon un peu plus encadrée, avec le souci d’une transparence accrue.
 Pour toutes ces raisons, nous voterons ce texte.
 Je tiens à saluer de nouveau notre collègue Laurence Abeille pour son travail, ainsi que le président Brottes pour son action.
-Il a été un facilitateur dans ce travail, et il a démontré que, lorsque tout le monde fait preuve de bonne volonté et de conviction, il est possible de faire aboutir une proposition de loi, même lorsque celle-ci était mal emmanchée au départ.
 La parole est à Monsieur Bertrand Pancher, pour le groupe de l’Union des démocrates et indépendants.
 Cette proposition de loi est une toute petite proposition de loi.
 Vous étiez partis très haut, par la face nord de la montagne, en voulant réglementer tous azimuts et limiter la puissance des antennes, et vous finissez par un texte de loi qui essaie de systématiser l’information.
 Ce n’est évidemment pas le texte du siècle, ni même de l’année.
 Nous ne sommes pas contre l’information, au contraire, et c’est la raison pour laquelle, à titre personnel, je voterai cette proposition de loi.
-Il me semble néanmoins que nous devrions veiller à ne pas multiplier ce genre de textes, qui renforcent la réglementation, alors que l’information et le bon sens auraient pu avancer par la seule action des acteurs, qui sont déjà engagés dans la vulgarisation des bonnes pratiques.
 Veillons à ce que tout cela ne donne pas lieu à de nouveaux contentieux, au prétexte que les informations données ne seraient pas assez précises.
 Ce sera évidemment le cas ! Le groupe UDI, dans sa majorité, s’abstiendra avec bienveillance.
 Pour ma part, je voterai en faveur de ce texte.
 Je mets aux voix l’ensemble de la proposition de loi.
 L’ordre du jour appelle la discussion de la proposition de loi de Madame Véronique Massonneau visant à assurer aux patients le respect de leur choix de fin de vie (numéros 2435, 2506).
 La parole est à Madame Véronique Massonneau, rapporteure de la commission des affaires sociales.
-Monsieur le président, madame la ministre des affaires sociales, de la santé et des droits des femmes, mes chers collègues, permettez-moi tout d’abord de vous faire part de l’émotion qui est la mienne, au moment de vous présenter ce texte.
-Au-delà de mon engagement personnel pour la liberté de choisir, il s’agit de répondre aux attentes de nombreuses personnes, hommes et femmes, que je rencontre et avec qui j’échange depuis des mois, et qui attendent depuis trop longtemps que notre assemblée reconnaisse enfin tous les choix de fin de vie.
 Je pense aussi à tous nos collègues parlementaires qui ont déjà déposé, et parfois défendu, un texte similaire, à l’Assemblée nationale ou au Sénat.
 Ces tentatives ont été soutenues par certains d’entre vous, mes chers collègues, que je tiens à saluer particulièrement.
 Le texte examiné aujourd’hui a la particularité de rencontrer une autre initiative parlementaire sur le même sujet, issue d’un rapport commandé par le Président de la République.
@@ -1012,7 +821,6 @@ Ce n’est pas parce que cette loi est mal connue qu’elle est mal appliquée, 
 Elle admet qu’un traitement puisse avoir pour effet secondaire d’abréger la vie, sans accepter qu’il puisse provoquer la mort.
 On a voulu fermer la porte à l’intention du médecin de provoquer le décès du patient, sans fermer la porte au fait de provoquer ce décès.
 Mes auditions ont bien fait ressortir le dilemme auquel fait face le monde médical.
-Est-ce qu’un médecin doit pouvoir aider son patient à mourir ? Tant que nous enfermerons la douloureuse question de la fin de vie dans cette seule approche dogmatique, les médecins continueront effectivement d’être soupçonnés d’aider à mourir des patients, et les patients, comme leurs proches, continueront quant à eux à craindre que leur vie ne soit écourtée contre leur gré.
 Mes chers collègues, ce n’est pas l’intention du médecin qui doit compter.
 Ce qui compte uniquement, c’est de savoir quelle est, ou était, la volonté du patient.
 Seule la garantie de tous les choix permet d’échapper au doute ; seule, elle protège patients et médecins.
@@ -1025,11 +833,7 @@ Quand une loi est efficace et répond à une attente, les Français s’en empar
 Tel fut le cas de la loi de 2002 sur le traitement de la douleur, ou de celle relative à l’information médicale obligatoire.
 La remise en cause de l’acharnement thérapeutique a été la seule partie de la loi de 2005 à trouver un véritable écho, car elle était la seule à être claire, la seule à concéder un réel droit au patient.
 En revanche, les dispositions introduites sur la fin de vie, notamment pour ce qui concerne les directives anticipées, n’ont aucune valeur exécutive.
-À quoi bon mettre par écrit ses dernières volontés, si celui qui les lit n’a d’autre obligation que de les consulter ? Ce constat réunit désormais aussi bien les auteurs de cette proposition de loi que nos collègues Jean Leonetti et Alain Claeys.
 Ces points de convergence ne peuvent que me réjouir.
-Que ces directives deviennent enfin opposables, sans délai de validité, et qu’elles soient mentionnées sur la carte vitale ! Mais quelle réponse apportons-nous à ceux de nos concitoyens en état d’exprimer leur volonté, et qui demandent qu’on les aide à mourir ? Rien n’a changé, à cet égard, entre la première loi Leonetti et sa nouvelle mouture à venir.
-Voilà pourquoi, mes chers collègues, je tiens à ce que vous prêtiez une attention particulière à une proposition de loi qui tente d’apporter de vraies réponses à toutes ces questions ! Précisément, ce texte prévoit tout d’abord d’institutionnaliser l’égal accès de tous aux soins palliatifs, sur tout le territoire, en proportion du nombre d’habitants.
-Très bien ! Le manque de lits affectés aux soins palliatifs ne doit en aucun cas être le motif d’un choix de fin de vie alternatif ! Si un rappel législatif de ce principe n’est pas de trop, il dépend davantage aujourd’hui d’un arbitrage économique courageux.
 En un mot, refusons d’opposer les soins palliatifs à l’aide active à mourir.
 Ce texte propose ensuite la légalisation de l’euthanasie et du suicide médicalement assisté.
 J’ai du reste déposé un amendement tendant à réunir ces deux actes médicalisés sous le vocable d’ «aide active à mourir».
@@ -1050,10 +854,8 @@ Vient enfin la clause de conscience du médecin, qui existe également pour la p
 Tels sont, mes chers collègues, les deux autres possibilités que doivent pouvoir choisir nos concitoyens, deux choix complémentaires aux aménagements, par ailleurs utiles, que proposent de faire nos collègues Claeys et Leonetti à la loi de 2005.
 Il n’est pas question ici de savoir si nous serions prêts à accepter l’un de ces choix pour nous-mêmes ou pour l’un de nos proches.
 Il s’agit aujourd’hui de savoir si nous sommes prêts à accepter que certaines Françaises, que certains Français, réclament en toute conscience ces possibilités-là, et si nous sommes prêts à leur répondre favorablement.
-Refusons d’infantiliser ces personnes, ne commettons pas un péché d’orgueil de bien portant, en affirmant doctement qu’elles seraient fragiles, faibles ou vulnérables, et que, pour ces raisons, elles ne sauraient décider en pleine conscience de ce qui est mieux pour elles-mêmes.
 Si la dignité est toujours difficile à définir, elle commence par le respect.
 Refusons d’infantiliser la personne malade, ou en fin de vie, et reconnaissons-lui cette capacité à choisir pour elle-même le moment et la manière.
-Mercredi dernier, j’ai entendu plusieurs d’entre nous, lors du débat sur la fin de vie, appeler à une véritable avancée en la matière, à l’instar de notre président Bartolone qui s’est prononcé clairement en faveur de la légalisation du suicide médicalement assisté et de l’euthanasie dans des cas précis.
 J’ai entendu certains d’entre nous se dire favorables à une forme d’aide active à mourir.
 J’ai entendu certains d’entre nous prêts à discuter sur cette nouvelle base législative proposée par les écologistes.
 J’ai entendu certains d’entre vous souligner les manques de la proposition de loi Claeys-Leonetti.
@@ -1061,7 +863,6 @@ Je vous appelle à en discuter, et à faire évoluer la loi afin que la liberté
 Le débat et le vote, aujourd’hui, sur le texte dont je suis la rapporteure, permettraient de fixer la juste dimension qu’il faudra donner à la proposition de nos collègues que nous débattrons en mars.
 Gardons à l’esprit que si l’apaisement est nécessairement un objectif, le consensus ne peut être l’alpha et l’oméga d’une réforme de société.
 Tout à fait ! Les réformes se heurtent souvent aux convictions intimes, profondes et légitimes, des uns et des autres.
-Mais ces convictions doivent pouvoir être dépassées : les seules convictions qui vaillent tiennent dans notre devise, qui doit assurer la liberté, l’égalité d’accès à l’exercice de cette liberté, et enfin la fraternité qui passe par l’écoute de ceux qui souffrent et nous demandent de légiférer.
 En débutant cette intervention, j’évoquais celles et ceux qui ici même, à cette tribune, ont déjà travaillé sur ce sujet.
 Chacun de nous sait que l’exercice législatif est une école de patience et d’humilité, surtout lorsqu’il s’agit des libertés individuelles.
 Même si mon rôle de rapporteure impose que je vous appelle à voter cette proposition, je suis lucide sur l’issue de notre débat.
@@ -1070,33 +871,26 @@ Mais je ne doute pas que nous, ou nos successeurs, y reviendrons.
 Dans quelques semaines peut-être, même si le doute est là, dans quelques mois plus probablement, de cette tribune, un ou une ministre, un ou une rapporteure, un ou une intervenante proposeront cette loi.
 À celui-là, à celle-là, qui est peut-être parmi nous aujourd’hui, ou qui suit peut-être nos débats, je veux dire, par avance, avec celles et ceux qui se battent pour l’ultime liberté, ma reconnaissance et mes encouragements.
 Et croyez-moi… Courage ! …pour ce qui me concerne, je serai là.
-Merci.
 (Vifs applaudissements sur les bancs des groupes écologiste, SRC, GDR et RRDP.) La parole est à Madame la ministre des affaires sociales, de la santé et des droits des femmes.
 Monsieur le président, madame la rapporteure, mesdames et messieurs les députés, à l’évidence, ce sujet n’est pas un sujet comme un autre.
-L’émotion qui s’empare de cet hémicycle au terme de votre intervention, madame la rapporteure, montre bien que nous touchons là à des sujets qui ne portent pas simplement sur des questions de droit, ils sont liés à notre intimité profonde et renvoient à notre vie, à ce que nous avons vécu, à ce que beaucoup d’entre nous vivront, par nous-même ou par nos proches.
 Nous avons à faire preuve, non seulement de compassion, mais d’attention et d’imagination.
 Nous avons à faire preuve de beaucoup d’humilité, comme vous l’avez fait vous-même.
 Vous avez d’ailleurs indiqué que votre propre position avait changé au fur et à mesure des auditions.
-En écrivant : «Avant le jour de sa mort, personne ne sait exactement son courage», Jean Anouilh illustrait ce qui est sans doute l’une des plus anciennes appréhensions à laquelle nous soyons confrontés, celle de la mort, celle du moment où la vie s’arrête.
 Ces dernières années, la fin de la vie, tout comme le rapport que nous entretenons avec elle, ont profondément évolué.
-On n’appréhende plus la fin de vie comme on le faisait hier : aujourd’hui, ce n’est pas tant le jour de sa mort que l’on redoute que les jours de sa mort, ce moment qui peut être assez long et qui précède la fin de la vie.
 Nous vivons en moyenne plus longtemps et en meilleure santé.
 La prise en charge de la souffrance et de la douleur a fait l’objet d’importantes avancées.
 Dans le même temps, les progrès scientifiques de la médecine génèrent des situations parfois plus longues et plus complexes à assumer.
 Les aspirations de tous nos concitoyens ont elles aussi évolué au fur et à mesure que le regard sur la mort s’est transformé.
 Nous avons tous à l’esprit des situations individuelles fortement médiatisées qui ont interpellé l’opinion.
 Si importantes que soient les questions soulevées par ces situations, elles ne peuvent résumer les cas auxquels nous avons à répondre.
-Comment s’étonner que le rapport à la fin de vie ait évolué alors que notre société tout entière s’est profondément transformée au cours des dernières décennies ? Nous devons constater qu’en quelques années, le rapport à la fin de la vie a profondément bougé, probablement plus qu’au cours des siècles passés.
 C’est à cette attente, à ces préoccupations et à ces interrogations que vous voulez répondre, madame la rapporteure, par votre proposition de loi.
 Sur cette question sans doute plus que sur toute autre, personne ne peut prétendre détenir la vérité et le regard de chacun d’entre nous doit pouvoir être exprimé.
-Le débat que nous avons eu dans cet hémicycle la semaine dernière a été un moment important, celui que nous avons aujourd’hui sur votre texte l’est tout autant, et celui que nous aurons sur d’autres textes à l’avenir le sera aussi.
 Vous soutenez vos propositions de manière forte et constante, mais aussi avec beaucoup de sobriété et beaucoup d’émotion.
 Je veux saluer votre position et votre engagement, dans lesquels se reconnaît une grande partie de nos concitoyens.
 La société, aujourd’hui, nous demande de considérer deux valeurs fortes : la dignité, puisque chacun entend mourir dans la dignité, selon la définition qu’il donne lui-même de ce terme ; et le respect de l’autonomie de chacun.
 C’est le droit auquel nous pouvons aspirer d’être respectés dans nos choix, dans nos volontés, tout au long de notre vie et particulièrement à la fin de celle-ci.
 Les rapports comme les enquêtes le montrent : au moment de leur fin de vie, les Français veulent pouvoir choisir.
 Choisir les conditions de sa fin de vie, c’est notre ultime liberté.
-Choisir de ne pas souffrir, cela devrait être une évidence ; choisir de mettre un terme aux traitements lorsque son pronostic vital est engagé, si on le souhaite ; choisir au contraire de les poursuivre ; choisir en amont, afin de ne pas laisser à d’autres le soin de le faire à sa place.
 En 2005, la loi Leonetti, votée à l’unanimité par l’Assemblée nationale, a constitué une avancée importante.
 Droit à disposer d’une information transparente, droit au consentement, droit d’accès au dossier, droit au traitement de la douleur.
 C’est un tournant dans la relation qui existe entre le soignant et le soigné.
@@ -1106,7 +900,6 @@ En encadrant l’arrêt des traitements, cette loi fut une étape décisive dans
 Elle s’est accompagnée d’un développement des unités de soins palliatifs puisque le nombre de lits a été multiplié par vingt en dix ans, et c’est évidemment un élément important.
 Ces progrès ne sont nullement contestés.
 Pour autant, de fortes aspirations demeurent et s’expriment dans la société pour faire évoluer ce droit.
-C’est à ces aspirations que le Président de la République a choisi de répondre, par son vingt et unième engagement lors de la campagne présidentielle, et en demandant à plusieurs personnalités, au Comité consultatif national d’éthique et à des citoyens, de s’exprimer et d’identifier les évolutions possibles de la législation actuelle.
 Proposer des évolutions de la loi dans un esprit de rassemblement, c’est le sens de la mission confiée par le Premier ministre en juin dernier à Alain Claeys et Jean Leonetti, parlementaires reconnus, de sensibilités politiques différentes.
 L’ambition de ce travail a été clairement affirmée : parvenir à trouver un consensus aussi large que possible afin d’aborder ce débat de manière dépassionnée.
 Les travaux de cette mission ont été remis au Président de la République en décembre dernier.
@@ -1123,13 +916,11 @@ Votre proposition de loi prévoit, comme celle d’Alain Claeys et Jean Leonetti
 Le deuxième constat que vous partagez, c’est que la législation en vigueur est mal connue.
 Ainsi, seulement 2,5 % de nos concitoyens ont rédigé des directives anticipées, qui étaient un des points forts de la loi de 2005.
 Sans doute cette méconnaissance fait-elle écho au fait que la loi de 2005 est d’abord et avant tout perçue pour ce qu’elle est, c’est-à-dire une loi à destination des professionnels plus qu’à destination des patients.
-Alors que les directives anticipées ne constituent aujourd’hui que l’un des éléments à prendre en compte dans la décision médicale, votre proposition de loi prévoit, comme la mission parlementaire, de les rendre contraignantes pour les médecins et de supprimer leur durée de validité, c’est une convergence importante.
 Le troisième constat, c’est qu’il faut faire évoluer la loi dans le sens d’une plus grande autonomie des personnes.
 Ce constat, là aussi, est partagé, mais nous savons que la réponse qu’il est proposé d’y apporter diffère entre la proposition issue de la mission d’Alain Claeys et Jean Leonetti et votre proposition de loi.
 Alain Claeys et Jean Leonetti proposent d’instaurer un droit à bénéficier d’une sédation continue en phase terminale, lorsque le pronostic vital est engagé.
 C’est une avancée importante, c’est un droit nouveau qui est proposé à la suite d’un long processus de concertation, et dans un esprit de rassemblement.
 Votre proposition de loi va plus loin, en ouvrant le droit à l’euthanasie et au suicide médicalement assisté.
-Concrètement, vous proposez de donner la possibilité à une personne majeure et capable, en phrase avancée ou terminale d’une affection grave et incurable, quelle qu’en soit la cause, infligeant une souffrance physique ou psychique inapaisable, de demander à son médecin le bénéfice d’une euthanasie ou d’un suicide médicalement assisté.
 Une procédure très encadrée est proposée.
 Le médecin doit faire appel à un autre praticien de son choix pour l’éclairer.
 Le caractère libre, éclairé, réfléchi et explicite de la demande présentée doit être vérifié.
@@ -1145,7 +936,6 @@ C’est bien dommage ! Mais je veux le dire solennellement : il ne s’agit en a
 Il ne s’agit en aucun cas de considérer que votre position ne porterait pas les espoirs d’une partie de vos collègues députés et d’acteurs de la société civile.
 Que d’ambiguïtés ! Elle ne saurait être réduite à une posture politique, ni à l’expression d’un dogme.
 Elle doit être regardée comme ce qu’elle est : le fruit d’une volonté d’avancer.
-Que de contorsions ! Encore une fois, cependant, le Gouvernement considère aujourd’hui qu’il convient d’avancer dans le sens proposé par la mission parlementaire : réaliser une avancée majeure, un renversement complet de paradigme qui place le patient au centre de la décision, et permettre le rassemblement, le consensus, autour d’un point d’équilibre.
 La proposition de loi Claeys-Leonetti sera examinée en mars prochain.
 Rapidement, en tant que parlementaires, vous pourrez en apprécier les conséquences et juger de son application.
 Avant cela, bien sûr, vous pourrez participer aux débats parlementaires.
@@ -1154,5 +944,4 @@ Personne ne peut imaginer qu’un débat comme celui sur la fin de vie puisse ê
 Les questions que vous soulevez sont aujourd’hui portées au débat, et la fin d’examen de ce texte ne saurait sans doute les éteindre.
 Je vous remercie en tout cas, madame la rapporteure, de votre engagement, de votre émotion et de votre investissement, auxquels le Gouvernement a été très sensible, même s’il ne peut pas leur apporter une réponse favorable.
 (Applaudissements sur les bancs du groupe SRC et sur quelques bancs du groupe écologiste.) La suite de la discussion est renvoyée à la prochaine séance.
-Prochaine séance, cet après-midi, à quinze heures : Suite de la discussion de la proposition de loi visant à assurer aux patients le respect de leur choix de fin de vie ; Proposition de loi relative au devoir de vigilance des sociétés mères et des entreprises donneuses d’ordre ; Proposition de loi visant à la prise en compte des nouveaux indicateurs de richesse dans la définition des politiques publiques.
 La séance est levée.

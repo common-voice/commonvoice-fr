@@ -5,7 +5,6 @@ En votre nom à tous, j’adresse à sa famille, à ses proches et à ses camara
 Le Président invitera l’Assemblée à lui rendre hommage lors d’une prochaine séance.
 L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, du projet de loi renforçant les dispositions relatives à la lutte contre le terrorisme.
 La parole est à Monsieur Sébastien Pietrasanta, rapporteur de la commission mixte paritaire.
-Madame la présidente, monsieur le secrétaire d’État chargé des relations avec le Parlement, mes chers collègues, notre assemblée est aujourd’hui saisie des conclusions de la commission mixte paritaire, qui s’est réunie le 21 octobre dernier, sur le projet de loi renforçant les dispositions relatives à la lutte contre le terrorisme.
 Le contexte national et international justifie malheureusement quotidiennement ce projet de loi.
 La menace terroriste a évolué et le passage à l’acte individuel est de plus en plus fréquent, comme on a pu le voir encore récemment au Canada et aux États-Unis.
 Aujourd’hui, mille quatre-vingt-neuf ressortissants français ou étrangers vivant sur notre territoire sont impliqués dans les filières djihadistes en Syrie et en Irak.
@@ -15,40 +14,26 @@ On compte actuellement quatre-vingt-quatre femmes en Syrie et quarante-neuf sont
 Enfin, dix mineurs se trouvent en Syrie et cinq en Turquie.
 Ce projet de loi a pour objectif d’endiguer, d’entraver et de lutter contre ces départs ainsi que cette mutation de la menace terroriste.
 À l’issue de la première lecture au Sénat, cinq articles avaient été votés conformes et vingt-sept demeuraient en discussion.
-Les échanges constructifs qui ont eu lieu au sein de la commission mixte paritaire, notamment avec les deux rapporteurs du Sénat, Jean-Jacques Hyest et Alain Richard, que je tiens à saluer, ont permis d’aboutir au texte équilibré soumis ce soir à votre vote.
 Je présenterai brièvement les principales évolutions apportées au texte par la CMP.
 À l’article 1ier, qui crée une interdiction de sortie de territoire, la commission mixte paritaire a retenu un délai de huit jours pour permettre à la personne concernée de faire valoir ses observations.
-La CMP a souhaité qu’il soit fait mention de l’existence du recours au référé-liberté au sein de l’alinéa, introduit par le Sénat, qui prévoit que le juge administratif doit se prononcer dans un délai de quatre mois dans le cadre d’un recours pour excès de pouvoir.
-À l’article 4, relatif au régime des délits de provocation au terrorisme et d’apologie du terrorisme, la CMP est revenue au texte initial du projet de loi en transférant de la loi du 29 juillet 1881 relative à la liberté de la presse vers le code pénal l’ensemble des délits de provocation au terrorisme ou d’apologie du terrorisme, quel que soit le média utilisé et en prévoyant une circonstance aggravante lorsque les faits sont commis sur Internet.
-Il ne nous est apparu ni possible, ni souhaitable de distinguer le régime procédural de ces délits en fonction du moyen utilisé : si on appliquait le régime libéral de la loi de 1881 à un message de provocation commis par voie de presse classique et le régime strict des infractions terroristes au même message commis sur Internet, cela créerait une différence de traitement injustifiée au regard de la différence de gravité des faits.
 Une circonstance aggravante en cas de commission sur Internet permet de marquer cette différence, mais appliquer deux régimes procéduraux totalement différents n’aurait pas été justifié et aurait pu soulever une difficulté de constitutionnalité.
-En outre, la CMP a conservé l’une des modifications apportées par l’Assemblée nationale, en incriminant la provocation au terrorisme qu’elle soit commise de façon publique ou de façon privée : cela permettra de poursuivre les faits commis sur des forums Internet privés ou lors de prêches clandestins.
 À l’article 5, la CMP a modifié la présentation formelle de la définition du délit d’entreprise terroriste individuelle, afin d’en rendre la lecture plus claire.
 Sur le fond, le texte qu’a adopté la CMP fait la synthèse entre les débats de l’Assemblée nationale et ceux du Sénat.
-Ainsi, la CMP n’a pas repris l’alinéa introduit par le Sénat concernant l’élément matériel de «préparatifs logistiques» tels que l’achat d’un box ou d’un véhicule, car cela aurait pu conduire à incriminer des comportements ne caractérisant pas suffisamment un projet terroriste, et ce malgré le garde-fou que constitue l’exigence d’une intention terroriste caractérisée.
-En revanche, la CMP a conservé les autres modifications apportées par le Sénat : précisions sur l’élément matériel de «repérage», ajout de la formation à la conduite de navires, suppression de l’exemption des journalistes et des chercheurs qui consultent des sites de propagande terroriste – qui, après examen des motifs avancés par le Sénat pour la supprimer, ne paraissait pas indispensable – et suppression de la mention du séjour dans une zone où sont commis des crimes de guerre ou contre l’humanité.
 J’en viens à l’article 9, relatif au blocage des sites Internet de provocation au terrorisme ou d’apologie du terrorisme.
 L’actualité récente a encore montré l’influence d’Internet dans les processus de radicalisation, prouvant la nécessité de doter l’État d’une capacité d’action pour lutter contre ces contenus.
 L’Assemblée nationale et le Sénat ont partagé ce constat et adopté cet article dans des termes très proches, seuls trois points techniques ayant donné lieu à des discussions.
-Ainsi, sur la question du délai à respecter entre la demande de retrait adressée à l’hébergeur ou à l’éditeur et la demande de blocage adressée au fournisseur d’accès à Internet, l’Assemblée nationale avait prévu un délai de vingt-quatre heures, le Sénat un délai de quarante-huit heures.
-La CMP a adopté la version de l’Assemblée nationale et prévu un délai de vingt-quatre heures : un délai plus long aurait fortement limité l’efficacité du dispositif en laissant le temps que les contenus devant être bloqués soient dupliqués et largement visionnés.
 La CMP a également adopté la formulation de l’Assemblée nationale s’agissant de l’obligation mise à la charge des fournisseurs d’accès à Internet.
 Ceux-ci devront «empêcher l’accès sans délai» aux sites concernés, et non pas seulement «procéder sans délai aux opérations empêchant cet accès».
 Cette formulation était trop vague, et surtout elle n’était pas justifiée car les FAI auront été avisés de la demande de blocage susceptible de leur être adressée vingt-quatre heures à l’avance.
-Le dernier point de discussion concernait la désignation de la personnalité qualifiée chargée d’exercer un contrôle sur la liste des sites bloqués et, le cas échéant, de contester devant le juge administratif la validité de l’inscription d’un site sur cette liste.
-Le Sénat avait accepté le principe que cette personnalité soit désignée par la Commission nationale de l’informatique et des libertés – principe qui avait été adopté par l’Assemblée nationale sur mon initiative – mais ajouté le fait que cette personnalité devait être désignée parmi les membres de la CNIL.
-La CMP a conservé cette désignation parmi les membres de la CNIL, prévue par le Sénat, mais en apportant deux précisions : le mandat de la personnalité qualifiée expirera en même temps que celui de son mandat de membre de la CNIL ; la désignation de parlementaires a été expressément exclue.
 Enfin, l’article 15 prévoyait d’allonger de dix à trente jours la durée de conservation des enregistrements des interceptions de sécurité.
 La CMP n’a jugé satisfaisante ni la rédaction adoptée par le Sénat, ni celle de l’Assemblée nationale.
 C’est pourquoi, sur proposition conjointe des rapporteurs, elle a supprimé cet article.
 Voilà très brièvement présenté le projet de loi tel qu’il a été adopté par la CMP et qu’il est aujourd’hui soumis au vote de notre assemblée.
 Permettez-moi pour conclure de saluer le travail remarquable accompli par les trois administrateurs Bertrand Vial, Stéphane Decubber et Alban Genais, mais également par Floran Vadillo, précieux collaborateur du président Jean-Jacques Urvoas.
-Très bien ! Je voudrais aussi saluer l’engagement de notre ministre Bernard Cazeneuve et lui dire ici – même s’il n’est pas parmi nous ce soir, je sais qu’il m’entendra – mon profond respect et mon soutien dans ces moments si particuliers.
 En sus de ces remerciements personnels, je salue le travail exemplaire de nos services de renseignements, du parquet antiterroriste et de nos soldats engagés en France comme en zone de guerre dans la défense de l’intégrité de notre République.
 Ce texte équilibré et respectueux des libertés publiques répond à la nécessité de renforcer la protection de notre pays contre une menace terroriste élevée.
 Je ne peux donc, chers collègues, que vous inviter au nom de la CMP à adopter le projet de loi.
 (Applaudissements sur les bancs des groupe SRC et RRDP.) Très bien ! La parole est à Monsieur le secrétaire d’État chargé des relations avec le Parlement.
-Madame la présidente, monsieur le rapporteur Sébastien Pietrasanta, mesdames et messieurs les députés, vous connaissez la menace terroriste à laquelle nous sommes confrontés et que l’hommage rendu en début de séance à l’un de nos soldats engagé au Mali contre le terrorisme a, hélas, rappelée.
 Le terrorisme se trouve à l’intérieur comme à l’extérieur de nos frontières.
 Tout en s’efforçant d’imposer par la terreur un pseudo-califat en Syrie et en Irak, l’organisation criminelle Daech recrute en France par le biais d’Internet.
 En dépit de ses crimes, la force d’attraction de l’organisation terroriste n’a pas cessé de croître, hélas, au cours des dernières semaines auprès de ceux que fascinent la violence et les discours de haine.
@@ -60,8 +45,6 @@ Aujourd’hui, trois cent soixante jeunes Français ou étrangers résidant habi
 Le nombre d’individus impliqués dans les filières djihadistes est passé d’environ cinq cents à plus de mille entre le 1ier janvier et le 9 octobre de cette année.
 Une réponse ferme et adaptée est donc nécessaire pour éviter que certains jeunes Français ne succombent à la tentation du martyre et à la fascination du meurtre.
 Face à de telles menaces et afin de garantir la sécurité de nos concitoyens, le Gouvernement a réagi sans tarder, avec fermeté et vigilance.
-Dans le droit fil du plan adopté dès le mois d’avril dernier, nous avons jugé indispensable le renforcement de notre législation afin d’entraver l’action et la propagande des filières djihadistes et de contrarier les projets de ceux qui seraient tentés de les rejoindre.
-Un débat riche et dépourvu de querelles politiciennes a eu lieu dans les deux assemblées, en séance comme en commission des lois, qui, loin des querelles politiciennes, nous a rassemblés et a permis d’aboutir au texte efficace qui vous est soumis ce soir, mesdames et messieurs les députés.
 Je remercie vivement le rapporteur du texte à l’Assemblée Nationale, Monsieur Sébastien Pietrasanta, ainsi que l’ensemble des parlementaires qui ont contribué à l’améliorer.
 Quand il s’agit de la protection de la France et des Français, le consensus républicain est une nécessité.
 Le projet de loi renforçant les dispositions relatives à la lutte contre le terrorisme transcende les clivages partisans, ce dont nous nous réjouissons tous.
@@ -70,18 +53,15 @@ Notre objectif consistait à retenir la version la plus ambitieuse du texte, inc
 Je crois que nous y sommes parvenus.
 En effet, le texte élaboré par la commission mixte paritaire garantit à la fois l’efficacité des mesures et la sécurité juridique des dispositifs.
 Je rappelle que la loi repose sur quatre innovations majeures, toutes respectueuses de l’État de droit et soumises à un contrôle étroit du juge.
-Tout d’abord, l’interdiction de sortie du territoire, prévue par l’article 1ier, permettra aux autorités de s’opposer au départ de nos ressortissants hors de France dès lors qu’il existe des raisons sérieuses de croire que leur déplacement a une finalité terroriste ou que leur retour porterait atteinte à la sécurité publique.
 La mesure est rigoureusement encadrée dans ses motifs et dans sa durée, dont le maximum est fixé à deux ans, et pourra faire l’objet d’un recours devant le juge administratif susceptible d’agir en référé.
 Elle sera rendue pleinement effective, sans même attendre la mise en œuvre du système européen PNR – Passenger Name Record –, grâce au retrait du passeport et de la carte nationale d’identité contre récépissé.
 Des précautions supplémentaires ont été prises pour éviter que celui-ci ne présente un caractère stigmatisant pour l’individu concerné.
 Je remercie à ce sujet les députés comme les sénateurs qui ont apporté une contribution précieuse au texte du Gouvernement.
-Par ailleurs, afin de compléter ce dispositif nouveau, l’interdiction d’entrée et de séjour sur le territoire national pour les étrangers ne résidant pas en France a été adoptée à la suite d’échanges denses à l’Assemblée nationale et sur la base d’un amendement du Gouvernement au Sénat.
 Très bien ! La deuxième innovation est la création, à l’article 5 du texte, du délit d’entreprise individuelle terroriste.
 Ce nouveau délit adapte notre législation aux spécificités du terrorisme contemporain sans pour autant mettre en cause le principe de légalité des délits et des peines.
 Il permettra surtout d’appréhender, avant le passage à l’acte, un individu isolé résolu à commettre un acte terroriste dès lors qu’il est détecté.
 En revanche, l’élément matériel constitutif de la nouvelle infraction qu’était l’acquisition de moyens logistiques a finalement été supprimé.
 Quant à la possibilité ménagée aux enquêteurs et magistrats de saisir directement le centre technique d’assistance à des fins de décryptage, elle a été maintenue.
-Par ailleurs, la commission mixte paritaire a rétabli l’article 5 bis créant, à l’initiative de Marie-Françoise Bechtel, un délit d’exposition des mineurs à un message à caractère terroriste ainsi que l’article 11 relatif au vol de données informatiques.
 La troisième innovation vise à entraver la diffusion de messages de haine et de propagande terroriste sur Internet.
 À cette fin, l’article 9 autorise le blocage administratif des sites.
 L’autorité administrative pourra désormais demander aux éditeurs et hébergeurs de site, lorsqu’ils sont identifiés, de procéder au retrait de contenus qui appellent au terrorisme ou en font l’apologie.
@@ -93,118 +73,77 @@ Par ailleurs, le Sénat a introduit une disposition autorisant l’administratio
 Ce dispositif complétera utilement la palette d’outils de lutte contre l’apologie des crimes terroristes sur Internet.
 À ce propos, le Gouvernement a tout mis en œuvre pour parer au risque de sur-blocage et donner un maximum d’effectivité à la mesure.
 Le dispositif a été largement revu dès l’examen du texte en commission des lois à l’Assemblée nationale puis tout au long de la discussion parlementaire dans le cadre d’un débat fécond.
-La quatrième et dernière innovation consiste à faire en sorte que l’apologie du terrorisme et la provocation au terrorisme ne relèvent plus du délit d’opinion, donc de la loi de 1881 relative à la liberté de la presse, mais du droit commun.
 Certaines techniques spéciales d’enquête en matière de terrorisme leur seront donc également applicables sous le contrôle de l’autorité judiciaire.
 En revanche, le champ des incriminations d’apologie du terrorisme et de provocation au terrorisme n’est pas modifié.
 Outre les innovations majeures que je viens d’évoquer, d’autres éléments doivent être rappelés.
-Tout d’abord, la possibilité donnée à l’agence de gestion et de recouvrement des avoirs criminels de concourir au financement de la lutte contre la criminalité permettra dans l’immédiat de financer le dispositif des repentis et, à terme, d’intéresser les forces de sécurité aux saisies opérées.
 Beaucoup d’entre vous étaient attachés de longue date à un tel dispositif : il figure dans le texte.
 Deuxièmement, des mesures exceptionnelles de sûreté aéroportuaire pourront être adoptées, telles qu’un dispositif Vigipirate en milieu aérien.
 Troisièmement, les ordonnances relatives à la partie législative du code de la sécurité intérieure ont été ratifiées et un code de déontologie commun à la police et à la gendarmerie nationales ainsi créé.
-Quatrièmement, les dispositions permettant aux services d’avoir accès aux fichiers dans le cadre de la lutte antiterroriste et d’effectuer des contrôles dans les trains transnationaux, prorogées sans discontinuer depuis 2006 et dernièrement par l’article 1ier de la loi antiterroriste du 21 décembre 2012, ont été pérennisées par voie d’amendement gouvernemental au Sénat.
 En revanche, l’article 15 allongeant la durée de conservation des enregistrements des interceptions de sécurité a finalement été supprimé.
 C’est dommage ! En conclusion, je tiens à réaffirmer la conviction du Gouvernement selon laquelle la loi dont nous discutons est nécessaire à la sécurité de notre pays.
 Certes, en matière de lutte contre le terrorisme, le risque zéro n’existe pas, mais ce n’est pas une raison pour demeurer inactif.
 Grâce aux dispositifs nouveaux créés par la loi, l’entreprise criminelle des terroristes ou de ceux qui veulent les rejoindre sera entravée.
 Des internautes, souvent jeunes, échapperont à leur action de propagande.
 La justice et, sous son contrôle, les services de police auront à leur disposition des moyens d’action et d’investigation plus efficaces et plus protecteurs de nos concitoyens.
-La calme résolution qui anime le texte, fruit d’un consensus dont nous pouvons être fiers, est à la fois sa grande force et l’honneur même de notre République ! (Applaudissements sur les bancs des groupes SRC et RRDP.) Très bien ! Dans la discussion générale, la parole est à Monsieur Philippe Goujon.
-Madame la présidente, monsieur le secrétaire d’État, mes chers collègues, nous venons d’apprendre que l’un de nos soldats, un de plus, est tombé dans le combat antiterroriste au Mali, une semaine à peine après de sanglants attentats et une attaque du Parlement canadien perpétrés par des «loups solitaires» connus des services de renseignements.
 L’urgence sécuritaire nous commande donc d’adopter sans délai le projet de loi.
 Si le Canada ne compte qu’une trentaine de ressortissants partis rejoindre le djihad, plus d’un millier de Français ont été recensés au sein des djihadistes européens, soit le tiers d’entre eux.
 C’est dire l’ampleur de la menace qui pèse dès aujourd’hui sur notre sécurité ! Selon le juge antiterroriste Trévidic, un tiers de ceux qui reviennent nourrissent un projet terroriste.
-Quant au directeur de l’unité de coordination de la lutte antiterroriste, l’UCLAT, il considère que la question n’est même plus de savoir s’il y aura un attentat en France mais quand il aura lieu ! Il s’agit bien d’une véritable guerre contre le terrorisme dans laquelle vous savez pouvoir compter, monsieur le secrétaire d’État, sur l’esprit de responsabilité du groupe UMP, qui l’avait déjà prouvé en votant la loi du 21 décembre 2012.
-Nous en ferons de nouveau preuve aujourd’hui, en dépit des insuffisances du texte et du rejet de la quasi-totalité de nos amendements, alors que le groupe socialiste, lui, vous vous en souvenez sûrement, avait voté contre la loi antiterroriste du 23 janvier 2006 et que notre proposition de loi contre le cyberdjihadisme présentée avant l’été par Guillaume Larrivé et Éric Ciotti a été rejetée.
 Elle aurait pourtant pu faire gagner quelques mois dans une guerre où chaque jour compte.
-Eh oui ! Notre action doit d’abord être menée sur le terrain virtuel en responsabilisant les hébergeurs et éditeurs de sites Internet afin qu’ils retirent les contenus terroristes prosélytes et en surveillant la consultation des sites comme des forums privés.
-Chacun sait qu’Internet est devenu le premier canal de radicalisation et de recrutement, quand il ne comporte pas carrément des formations à distance pour devenir terroriste ou des manuels de fabrication artisanale de bombes ! À ce titre, l’article 4, qui retire les délits de provocation au terrorisme et d’apologie du terrorisme de la loi sur la presse pour l’inscrire dans le code pénal, est particulièrement opportun, de même que les articles 7 et 9 renforçant les obligations de signalement des hébergeurs et autorisant le blocage et le déréférencement des sites incriminés, voire leur arrêt sur décision du juge.
 En revanche, le Gouvernement a reculé devant le délit de consultation de sites Internet faisant l’apologie ou provoquant au terrorisme.
 Une telle mesure aurait permis d’identifier et d’évaluer au plus tôt la dangerosité des internautes concernés et de leur proposer, notamment pour les mineurs qui sont les plus réceptifs, un stage de désendoctrinement.
 Mohamed Merah consultait de tels sites sur un téléphone clandestin en prison ! Les ennemis des démocraties tentent d’exploiter les libertés qui y prévalent pour leur nuire.
-Mais comment admettre la réduction de la liberté d’expression à la diffusion de scènes de décapitation, de violences et de brutalités extrêmes sans qu’aucun garde-fou ne contienne la médiatisation de l’idéologie de la haine ? La sociologue Dounia Bouzar, dont il faut saluer le travail sur le numéro vert permettant aux parents de signaler leurs enfants en perte de repères, cible plutôt des dérives sectaires liées à l’islam, tant les procédés utilisés – lavage de cerveau, isolement social, ponction financière de leurs proies – sont caractéristiques des sectes.
-L’autorisation de l’enquête sous pseudonyme pour les services de renseignement, permise par l’article 13, est complémentaire de ce numéro vert, tout comme l’incrimination des messages à caractère terroriste par l’article 5 bis, heureusement rétabli, ou encore l’article 11 bis, donnant les moyens aux officiers de police judiciaire de mettre au clair les données chiffrées.
 Le renforcement des sanctions et le régime de la procédure applicable à la délinquance spécialisée en matière d’atteintes aux fichiers de l’État, prévue par les articles 12 et 12 bis, complètent le dispositif.
-Vous avez tort, cependant, de réduire de trente à dix jours le délai de conservation des enregistrements, alors que trente jours étaient déjà jugés insuffisants par les services, compte tenu de l’augmentation continue du volume à traiter et de la nécessité de réaliser des traductions, voire des décodages.
 Vous avez tort, encore, de retarder de quatre mois l’entrée en vigueur de l’article 15 ter, permettant le gel des avoirs criminels terroristes.
 Parallèlement à ces mesures de prévention, il faut nous donner les moyens d’empêcher le départ effectif des candidats au djihad.
-Si l’on ne peut qu’approuver – sauf peut-être notre collègue Alain Marsaud … En effet, oui ! …la possibilité de retrait du passeport et de la carte d’identité donnée par l’article 1ier, ainsi que l’interdiction de territoire pour les ressortissants étrangers présentant une menace grave… Comme au Canada ! …introduite par l’article 1ier bis, il n’en demeure pas moins que ce texte fait – malheureusement – l’impasse sur la difficulté posée par les binationaux.
 Selon la DCRI, la moitié des Français partis au djihad ont la double nationalité.
-En outre, on ignore quelle part des 2 500 Tunisiens recensés dans les rangs des djihadistes possèdent également la nationalité française… C’est pourquoi je ne peux que vous appeler à reprendre la réforme de la protection de l’identité initiée par le précédent gouvernement, dont j’étais le rapporteur, en corrélant données biométriques et identité, ce qui permettrait de déjouer les stratégies des binationaux mal intentionnés.
 Il aurait été légitime, une fois ces personnes identifiées, d’appliquer une réponse ferme, comme le fait le Royaume-Uni, avec vingt-deux cas recensés, en procédant à la déchéance de nationalité française des intéressés.
-Sur cette question, il ne peut y avoir de tabou, pour reprendre les mots mêmes du Premier ministre, tant on ne peut concevoir d’être en guerre contre la France et d’en conserver en même temps la nationalité, voire les avantages sociaux.
 L’extrême porosité de nos frontières pose par ailleurs la question de la totale inadaptation du système Schengen aux impératifs de lutte contre le terrorisme.
-Ainsi, la police aux frontières n’a pas le droit de contrôler l’ensemble des données passager, car cela constituerait un rétablissement illégal des contrôles migratoires, lesquels ne peuvent être que provisoires et dus à des raisons impérieuses de sécurité publique.
 De facto, seuls 10 à 20 % des passagers communautaires sont contrôlés, ce qui est très peu.
-De surcroît, les pannes récurrentes du logiciel CHEOPS, utilisé pour confronter le nom des passagers aux fichiers des personnes recherchées, et qui ne permet d’ailleurs toujours pas le rapprochement avec les fichiers de la gendarmerie, posent un très grave problème de sécurité publique.
 L’absence d’identification récente des trois djihadistes qui a ridiculisé notre pays en atteste.
 Pas moins de cent quarante-quatre vols en provenance de Turquie atterrissent chaque semaine sur notre territoire.
-Pouvez-vous nous dire, monsieur le secrétaire d’État, quelles mesures ont été prises par la Turquie pour renforcer le contrôle de ses frontières terrestres ? Afin de se donner les moyens de mettre hors d’état de nuire les djihadistes à leur retour en France, et alors que sur le millier d’apprentis djihadistes partis en Syrie, cent vingt sont déjà revenus et cinquante-trois ont été incarcérés, le danger représenté par le prosélytisme des détenus terroristes doit être pleinement pris en compte, comme l’expose parfaitement le rapport de notre collègue Guillaume Larrivé, surtout quand on sait que ces détenus ne font l’objet d’aucune prise en charge spécifique d’isolement, d’aucune mesure pour éviter leur essaimage sur le territoire, ni d’aucun programme de dé-radicalisation.
 Le renseignement pénitentiaire, avec treize personnes au plan national, ne saurait surveiller efficacement cent quatre-vingt-neuf établissements pénitentiaires, d’autant que depuis peu, les processus de radicalisation se font beaucoup plus discrets, donc difficiles à repérer.
 Depuis l’abandon des fouilles collectives et à la sortie des parloirs, les saisies de téléphones clandestins ont explosé, passant de moins de 5 000 en 2007 à près de 23 500 en 2013.
 La surveillance des données qui transitent par ce biais est indispensable, de même que l’affirmation de leur prohibition dans la loi.
-À ce titre, je regrette que vous n’ayez pas bien pris la mesure de la situation, en rejetant les amendements de l’UMP permettant le placement à l’isolement des détenus islamistes prosélytes, interdisant explicitement la possession de téléphones portables en prison et rétablissant les fouilles à la sortie des parloirs.
-Pis encore, je regrette que l’article 15 bis, pourtant adopté par la commission des lois avec le soutien de son président et du rapporteur, et qui permettait la captation des données clandestines, ait été supprimé à l’initiative du Gouvernement en première lecture, décision d’autant plus incompréhensible et incohérente que l’article 2 interdit aux étrangers assignés à résidence d’entrer en contact avec la nébuleuse terroriste.
-On n’y comprend plus rien ! De même, il est incompréhensible que l’article 15 quater, qui autorisait l’administration pénitentiaire à prendre des mesures pour lutter contre les détenus s’adonnant au prosélytisme terroriste, comme le refus de délivrance, voire le retrait d’un permis de visite ou le contrôle du courrier, ait été supprimé par le Sénat.
 En revanche, la création du nouveau délit d’entreprise terroriste individuelle pour combattre les «loups solitaires», comme nous le réclamions depuis l’affaire Merah, permet de reconnaître enfin ce phénomène, que vient d’ailleurs de vivre le Canada.
 Je crains néanmoins que vous ne compliquiez la définition de ce délit en exigeant deux éléments matériels pour qu’il soit constitué, au lieu de laisser au juge une possibilité d’appréciation.
-Alors que la France est en guerre contre Daech, qui est en passe de déstabiliser tout le Moyen-Orient, nous n’avons pas le droit de négliger les moyens de protection de notre territoire contre ces ennemis implacables des démocraties et des droits de l’homme ; ils ne visent en réalité qu’à détruire le monde civilisé.
-C’est pourquoi le groupe UMP votera ce projet de loi qui renforce notre arsenal juridique, non sans vous avoir avertis dès aujourd’hui de ses nombreuses failles, sur lesquelles, nous en sommes convaincus, vous serez très vite contraints de revenir.
 (Applaudissements sur les bancs du groupe UMP.) Le groupe UMP, moins une voix ! La parole est à Monsieur Meyer Habib.
-Madame la présidente, monsieur le secrétaire d’État, monsieur le rapporteur, mes chers collègues, la progression terrifiante et constante des départs de djihadistes vers la Syrie, et le retour de ces terroristes potentiels, font peser sur notre pays des menaces que nous ne pouvons plus sous-estimer.
 Mille quatre-vingt-neuf Français répertoriés – vous l’avez rappelé, monsieur le rapporteur – sont impliqués dans le djihad.
-Combien d’entre eux envisagent de passer à l’acte ? 10 % ? 5 % ? Ne serait-ce que 1 %, imaginez le désastre, si dix Mohammed Merah venaient à commettre des actes terroristes sur notre sol ! Par ailleurs, combien de Français partis au djihad ne sont pas répertoriés par nos services ? Le 15 septembre dernier, lors de la première lecture de ce projet de loi, je rappelais que le terrorisme était à nos portes.
 Depuis, force est de constater qu’il n’a fait que frapper plus haut, plus fort, sans limite dans l’horreur.
 En effet, quelques jours plus tard, l’un de nos compatriotes, un paisible guide de haute montagne, Hervé Gourdel, a été massacré sauvagement.
 On a exhibé sa tête, sur une vidéo de près d’un quart d’heure, insoutenable.
 Je tenais à lui rendre hommage aujourd’hui.
-Cet assassinat, mais aussi les attaques de « loups solitaires » à Ottawa, à New-York et à Jérusalem, nous montrent avec effroi que la question, hélas, n’est pas de savoir si un prochain Toulouse aura lieu, mais plutôt quand il aura lieu.
-De grâce, arrêtons de nous voiler la face ! Ouvrons les yeux ! Nous sommes dans une situation d’urgence et de crise mondiale face à une vague de violence aveugle et sans pitié, peut-être la plus grave depuis la Seconde guerre mondiale.
 Nous sommes revenus à des guerres de religion pires qu’au Moyen-Âge – ou plus exactement, nous sommes revenus aux guerres d’une religion.
 Dans une telle situation, la France se devait de réagir.
-Le Gouvernement l’a fait, monsieur le secrétaire d’État, en adaptant l’arsenal juridique de notre pays aux nouvelles réalités du terrorisme, afin qu’aucun outil, aucun moyen de détection, d’identification et de répression ne manque à celles et ceux qui le combattent.
 Monsieur le secrétaire d’État, le groupe UDI a déjà, en première lecture, salué certaines mesures de ce projet de loi.
 Je pense en particulier à la transformation des délits de provocation à la commission d’actes terroristes et d’apologie du terrorisme en délits terroristes.
 Le groupe UDI avait d’ailleurs proposé cette réforme en 2012, laquelle devrait améliorer la répression de la propagande terroriste.
 Notre groupe salue également les dispositions de l’article 9, qui prennent en compte les conséquences d’une utilisation intensive d’internet comme moyen de propagande et de recrutement.
 Ce texte a également le mérite de créer un délit d’entreprise individuelle terroriste qui permet de poursuivre les personnes isolées qui commettent ou préparent des actes de nature terroriste.
-Enfin, l’une des dispositions essentielles de ce texte est bien la création d’un dispositif d’interdiction de sortie du territoire, indispensable si nous voulons faire face à la recrudescence de départs de jeunes Français vers des zones où l’apprentissage de la lutte armée se double d’un embrigadement idéologique.
 Pour autant, le groupe UDI reste bien conscient des limites de ces dispositions.
-À titre personnel, je regrette que sur certains points, le texte n’ait pas été plus loin, et qu’aucune des propositions constructives de l’opposition n’ait été adoptée, comme le rappelait à l’instant Monsieur Goujon, ne serait-ce que les plus évidentes.
 La lutte contre le terrorisme n’est pourtant ni de droite, ni de gauche : c’est une cause nationale.
 Je reste convaincu que des mesures plus directes pouvaient être intégrées au texte.
-J’ai ainsi proposé un amendement pour sanctionner lourdement le fait d’exhiber des drapeaux terroristes, ces drapeaux de la haine, ceux de Daech, du Hezbollah, du djihad islamique, qui ont été brandis pendant des heures, de façon impunie et scandaleuse, en juillet dernier en plein Paris.
 Je regrette que cet amendement n’ait pas été retenu au motif que l’exhibition de drapeaux accompagnée de messages explicites tombe sous le coup de l’article 4.
-En matière de terrorisme, mieux vaut légiférer deux fois qu’une ! Je regrette également que des mesures fortes n’aient pas été adoptées pour priver de prestations sociales les individus engagés aux côtés des djihadistes, ou encore en priver leurs familles, lorsqu’ils sont mineurs.
-La création d’une commission sur les abus de versements de prestations aux Français ayant quitté le territoire dans le but de participer au djihad, à laquelle œuvrent mes collègues Thierry Mariani et Alain Marsaud, permettra, je l’espère, de remédier à certaines insuffisances du texte.
 Pour ce qui est des binationaux impliqués directement dans le terrorisme, nous n’aurons pas le choix.
 Il nous faudra un jour ou l’autre envisager une déchéance de la nationalité.
 Il nous faudra également envisager l’interdiction du retour avec un autre passeport, et une interpellation immédiate, le cas échéant, dès le premier pas sur le territoire français, cela quitte à devoir apporter quelques modifications à notre Constitution.
 L’exercice est difficile.
 Car, contrairement aux terroristes, nous avons, nous, des considérations de respect de l’autre, des considérations humanistes, qui limitent notre capacité d’action.
 Et c’est bien normal.
-Or, la morale est totalement absente de l’idéologie terroriste, et cet ennemi profite du fait que nous en ayons une ! Par ailleurs, le projet de loi, dans sa version finale, ne mentionne plus de mesures spécifiques au milieu carcéral, alors que l’on sait pertinemment que les prisons sont un terreau propice au dévoiement de l’islam, une fourmilière du recrutement djihadiste.
 Je n’ai absolument pas été convaincu, monsieur le secrétaire d’État, par la réponse de Madame la garde des Sceaux à mon collègue Guillaume Larrivé, lors de la séance des questions au Gouvernement de ce jour.
 La garde des Sceaux n’a qu’un seul mot à la bouche : «ne pas stigmatiser».
 Or, il ne s’agit pas de stigmatisation : il s’agit de réalisme, il s’agit de pragmatisme.
 Enfin, le point crucial pour lutter contre le terrorisme en amont reste la dimension géopolitique.
 Le terrorisme ne naît pas du néant ! Or cette dimension essentielle de notre combat n’est pas abordée dans le texte.
 Il est pourtant impératif de lutter de façon plus systématique, sans distinction aucune, contre les États qui soutiennent et abritent les organisations terroristes.
-On ne peut voter une loi visant à combattre activement le terrorisme, et entretenir en même temps des relations, quelles qu’elles soient, avec de tels États ! Le terrorisme ne peut se développer que parce que des pays lui apportent leur concours logistique, financier, idéologique ou militaire.
 Or ces pays, nous les connaissons et, hélas, nous les fréquentons.
 L’Iran, tout d’abord, État terroriste, qui appuie et finance des organisations djihadistes.
 L’Iran, dont les dirigeants actuels ont été impliqués directement – huit mandats d’arrêt délivrés par Interpol ! – dans des actions comme les attentats de Buenos Aires, qui ont coûté la vie à une centaine de personnes en 1994.
 Ce même Iran, qui trompe l’ONU depuis plus d’une décennie et cherche à obtenir la bombe nucléaire à tout prix.
-On se demande bien pourquoi ! Monsieur le secrétaire d’État, ne soyons pas dupes ! Si l’Iran de Rohani fait mine de s’asseoir à la table des négociations, c’est uniquement pour obtenir la levée des embargos et pour gagner du temps dans la constitution d’un arsenal nucléaire militaire.
-Qu’arriverait-il aujourd’hui si des groupes djihadistes, qu’ils soient chiites ou sunnites, ou encore un État comme l’Iran ou comme l’État islamique en Irak et au Levant, avaient entre leurs mains des armes de destruction massive ? Ils s’en serviraient immédiatement, ou à moyen terme, comme en Syrie, sans la moindre hésitation.
-Ils feraient preuve d’un zèle idéologique sans égal, au moyen de ces armes ! Monsieur le secrétaire d’État, si l’Iran de Rohani se présente aujourd’hui sous un jour plus engageant que celui d’Ahmadinejad, ce n’est qu’une tactique qui ne l’a pas empêché d’exécuter 852 de ses citoyens au cours des quinze derniers mois ! Nous étions hier plusieurs dizaines de parlementaires de tous les bancs de l’Assemblée nationale – communistes, écologistes, socialistes, centristes, UMP – réunis au sein d’une conférence du Comité parlementaire pour un Iran démocratique, en présence d’un ancien Premier ministre de Monsieur Mitterrand – Madame Édith Cresson, pour ne pas la citer.
 Nous avons visionné des images glaçantes d’agressions à l’acide de femmes jugées insuffisamment couvertes.
 Il faut agir vite : la France ne peut pas rester silencieuse ! Samedi dernier, Reyhaneh Jabbari, âgée de vingt-six ans, a été pendue publiquement pour s’être légitimement défendue et avoir tué l’homme qui la violait.
-Malgré cela, il y a quelques semaines, une grande chaîne de télévision, à Paris, organisait un débat, auquel j’étais invité, en présence de l’ancien ambassadeur de France en Iran, sur le thème : «La communauté internationale doit-elle, oui ou non, s’allier avec l’Iran pour lutter contre les djihadistes ?» Mais dans quel pays vivons-nous ? Un pays où, comme je le disais au ministre de l’intérieur le 8 octobre dernier, la manifestation œcuménique – les trois religions du Livre étaient représentées – tenue au lendemain de la décapitation d’Hervé Gourdel, n’a rassemblé, je vous le rappelle, que cinq cents personnes – je dis bien cinq cents –, alors qu’elle aurait dû en réunir cinq cent mille.
 À côté de cela, des manifestations l’été dernier en faveur du mouvement terroriste et djihadiste du Hamas, au cours desquelles on a entendu clamer «Mort aux Juifs», ont réuni près de trente mille personnes à Paris.
-Nous marchons sur la tête ! L’Iran donc, mais aussi la Syrie, qui a abrité pendant des années les antennes terroristes les plus variées et qui est aujourd’hui le théâtre de massacres et de gazages, commis de part et d’autre.
 Deux cent mille civils massacrés ! Et ce, dans un silence assourdissant.
 Faut-il rappeler que Bachar el-Assad pavoisait il y a peu encore sur les Champs-Élysées, aux côtés du Président de la République.
-Lequel ? N’oublions pas le martyre des Palestiniens ! Le Hezbollah, bras armé de l’Iran, mouvement terroriste responsable, entre autres, de la mort de cinquante-huit Français lors de l’attentat du Drakkar, ainsi que de notre ambassadeur Louis Delamare, détient huit portefeuilles gouvernementaux au Liban et il a été reçu il y a peu de temps à l’Assemblée nationale.
 Le Qatar, avec qui nous sommes en plein flirt depuis des années, finance de nombreux mouvements djihadistes, ainsi qu’une partie des mouvances islamistes en France.
 Et en Libye, les milices islamistes remplacent un dictateur sanguinaire, lui aussi reçu à Paris.
 Grâce à qui, tout cela ? La lutte contre le terrorisme doit être absolue, totale.
@@ -219,17 +158,14 @@ Lorsque l’on combat le terrorisme, il n’y a pas de proportion ! Sans le «D�
 Ce n’est pas le sujet ! La réaction d’Israël aurait-elle alors été jugée plus proportionnée ? Encore une fois, monsieur le secrétaire d’État, il n’y a pas de bons ni de mauvais terroristes.
 Veuillez conclure, monsieur Habib ! Je vous demande une minute supplémentaire, madame la présidente.
 Ça va comme ça ! Daech, Al-Qaeda, le Hamas, le Hezbollah, Boko Haram, sont autant de ramifications du terrorisme, du djihadisme et de l’obscurantisme.
-Et l’armée israélienne ? Ne l’oublions pas ! Ces dernières années, certains ont cherché à leur trouver une légitimité intellectuelle ou philosophique, là où il aurait fallu les décapiter – c’est le cas de le dire – pour utiliser un langage qu’ils aiment tant.
 C’est une condamnation morale implacable du terrorisme qui doit constituer notre première ligne de défense.
 Enfin, ne nous cantonnons pas à la sanction.
 Beaucoup reste à faire également dans le domaine de l’éducation et de la prévention.
 Je rappellerai ainsi mes propos du 15 septembre dernier : un homme, quel qu’il soit, ne naît pas terroriste, non plus qu’il ne naît raciste ou antisémite.
 C’est un point dont nous parlons peu mais dont il nous faudra traiter ensemble très prochainement.
-Mes chers collègues, malgré ces bémols, le groupe UDI considère que, pris dans son ensemble, le projet de loi que nous avons entre les mains, à condition d’être accompagné d’une nécessaire dimension européenne et internationale, va dans le bon sens et devrait renforcer utilement l’arsenal préventif de la France.
 C’est pourquoi il le votera.
 Je vous remercie, madame la présidente, de m’avoir accordé deux minutes supplémentaires.
 Un tel discours est indécent ! La parole est à Monsieur François de Rugy.
-Madame la présidente, monsieur le secrétaire d’État – que nous accueillons avec plaisir dans ce débat, et dont nous apprécions le ton, qui tranche quelque peu avec celui auquel nous avions eu droit en première lecture –, monsieur le rapporteur, chers collègues, il y a un peu plus d’un mois, dans un contexte d’extrême tension, marqué notamment par les premières exécutions d’otages de la part de ceux qui prétendent constituer un État islamique, l’Assemblée nationale était saisie du projet de loi renforçant les dispositions relatives à la lutte contre le terrorisme.
 Le contexte est à nouveau lourd et tendu.
 Il y a quelques heures, a été annoncée la mort du sergent-chef Thomas Dupuy dans les combats au Mali.
 Nous présentons évidemment nos plus sincères condoléances à sa famille et à ses proches.
@@ -239,16 +175,12 @@ En première lecture, nous avions unanimement reconnu que les évolutions de la 
 Aujourd’hui, nous examinons un texte qui a été, si je ne me trompe, adopté à l’unanimité par les membres titulaires de la commission mixte paritaire.
 On pourrait d’ailleurs s’en féliciter : cela témoigne en tout état de cause de la façon dont nous pouvons aborder des sujets graves, comme nous le vivons d’ailleurs en ce moment en France dans un tout autre domaine.
 Dans de tels cas, il est évidemment utile que nous puissions nous rassembler.
-Nous avions d’ailleurs insisté en première lecture sur la nécessité de légiférer avec sang-froid, dans un souci d’abord et avant tout d’efficacité – parce que la menace terroriste est un sujet grave –, et en se gardant de tout risque d’affichage.
 C’est dans le même état d’esprit que nous abordons le débat ce soir.
-Soucieux d’apporter notre contribution au débat, avec mes collègues du groupe écologiste, nous avions déposé vingt-six amendements ayant notamment pour objet de renforcer le contrôle judiciaire sur les décisions administratives, de supprimer le caractère de circonstance aggravante conféré systématiquement à internet – j’y reviendrai – ou encore de préserver la loi de 1881, qui doit demeurer le cadre des délits de presse et d’apologie.
 Malheureusement, dans leur grande majorité, ces propositions n’ont pas été retenues et le projet de loi ne fut que très marginalement amendé.
 Heureusement ! Le texte qui nous est présenté aujourd’hui à l’issue de la commission mixte paritaire s’inscrit dans la droite ligne du projet gouvernemental.
-Il en reprend d’ailleurs les quatre mesures principales : la mise en place d’une interdiction administrative de sortie du territoire, la création d’un délit d’entreprise terroriste individuelle, l’entrée des délits d’apologie du terrorisme et de provocation au terrorisme dans le code pénal et la possibilité de bloquer des sites internet par la voie administrative.
 L’analyse que nous faisions il y a un mois à l’Assemblée nationale conserve ainsi toute sa pertinence.
 Le recours à des moyens exceptionnels, y compris des restrictions à la liberté individuelle – comme en emporte en particulier à la mise en place d’une interdiction administrative de sortie du territoire – peut être justifié par des situations d’urgence.
 C’est possible dans notre esprit sous la réserve expresse d’une motivation explicite et du contrôle in fine de l’autorité judiciaire.
-Dans le cas d’une interdiction administrative de sortie du territoire assortie d’un retrait des documents d’identité – mesure qui peut se justifier mais qui est, de fait, attentatoire aux libertés –, un contrôle par le juge des libertés et de la détention nous semblait s’imposer.
 Cette option n’a pas été retenue, même si le Sénat a accru les garanties dont bénéficiera la personne mise en cause.
 S’agissant de la caractérisation de l’acte terroriste individuel, une définition plus précise, distinguant les délits d’apologie et les délits de provocation, nous paraissait indispensable.
 Cette option n’a pas non plus été retenue.
@@ -256,13 +188,11 @@ Enfin, pour ce qui est du blocage administratif des sites internet, la recherche
 Cette option n’a pas davantage recueilli les suffrages.
 À notre sens, comme aux yeux de beaucoup de spécialistes du sujet, les dispositions de ce texte relatives à internet apparaissent très décalées.
 De fait, lors du débat en première lecture, un certain nombre de nos collègues parlementaires qui étudient plus particulièrement ces questions avaient souligné combien elles traduisaient une certaine méconnaissance du fonctionnement réel d’internet aujourd’hui.
-Ainsi le texte, dans sa rédaction, n’encadre pas suffisamment les pouvoirs nouveaux qu’il confère à l’administration et les techniques qu’il met à sa disposition, ce qui fait courir des risques juridiques mais aussi potentiellement – disons-le – des risques politiques dans un autre contexte.
 En effet, n’oublions pas que nous ne légiférons pas uniquement pour faire face à la situation actuelle.
 La notion de terrorisme n’est pas toujours facile à définir : il y a des contestations, – disons-le sereinement – s’agissant de la qualification d’«organisation terroriste», et soyons attentifs aux mots que nous utilisons.
 Je pense à un cas précis : celui du Parti des travailleurs du Kurdistan, qui figure sur une liste d’organisations terroristes que tout le monde ne reconnaît pas de la même façon.
 On peut imaginer que, dans certains États, la qualification de «terroriste» soit employée à d’autres fins que celle que nous poursuivons aujourd’hui dans ce texte et dans le contexte actuel.
 Lors de leurs débats, nos collègues sénateurs ont par ailleurs introduit de nouvelles dispositions dans le texte.
-Reconnaissons que certaines d’entre elles vont dans le sens d’une meilleure garantie des libertés individuelles, comme la tenue d’une audition, dans un délai de huit jours, de la personne faisant l’objet d’une interdiction administrative de sortie du territoire, ce que nous avions d’ailleurs demandé en vain, ici, en première lecture ; citons également la précision des voies de recours pour les individus frappés par ces dispositifs ou encore la suppression de l’extension à trente jours du délai d’effacement en matière d’interceptions de sécurité.
 D’autres mesures, au contraire, nous semblent mettre en péril l’équilibre déjà fragile du texte.
 Je pense notamment à l’article 1 bis, qui crée un dispositif d’interdiction administrative du territoire pour un étranger qui constituerait une menace pour un intérêt fondamental de la société.
 Certes, nous sommes tout à fait d’accord pour prendre en considération la question des étrangers, de même que nous l’avons fait pour les nationaux.
@@ -270,10 +200,7 @@ Mais cette mesure dépasse largement le cadre de la lutte contre le terrorisme, 
 Par ailleurs, elle pose une question de conventionnalité, puisqu’elle contrevient largement au principe de libre circulation, qui est au cœur du droit communautaire, auquel la France souscrit.
 De surcroît, la notion d’«intérêt fondamental de la société» nous semble au minimum poser question.
 Si un jour, des juges ou des magistrats prennent des décisions en vertu de ces dispositions, ils doivent savoir que, lors du débat parlementaire, ces questions ont été soulevées.
-Je crains, monsieur le secrétaire d’État, qu’à trop vouloir renforcer notre législation antiterroriste dans toutes ses composantes, nous ne prenions le risque de perdre en cohérence et en crédibilité par des mesures fragiles dans leur principe – je viens d’en donner quelques exemples –, délicates dans leur application – je pense encore une fois à internet – ou même carrément inefficaces – c’est encore le cas d’internet.
 On pourrait d’ailleurs également se poser la question de la constitutionnalité de certaines dispositions.
-Il y a fort à parier que le texte ne sera pas soumis au Conseil constitutionnel, du moins a priori, puisque, s’il est voté par les principaux groupes des deux assemblées, il n’y aura sans doute pas soixante parlementaires pour le déférer à son examen.
-Peut-être ce contrôle aura-t-il lieu, un jour, par la voie de questions prioritaires de constitutionnalité, ce qui serait regrettable, car cela témoignerait, a posteriori, d’une certaine fragilité de dispositions qui, encore une fois, visent à traiter un problème bien réel, la menace terroriste, qu’il faut prendre très au sérieux et face auquel il faut être intraitable.
 Pour toutes ces raisons – en particulier celles tenant à la fragilité des dispositions et à l’équilibre du texte –, le groupe écologiste confirmera l’abstention qui avait été la sienne en première lecture.
 Très bien ! La parole est à Monsieur Alain Tourret.
 Madame la présidente, monsieur le secrétaire d’État, monsieur le rapporteur, le terrorisme a frappé de nouveau à plusieurs reprises depuis la première lecture de ce texte, notamment chez nos amis canadiens.
@@ -283,10 +210,7 @@ Il ne s’agit plus de petits groupes identifiés armés par des pays étrangers
 Nous sommes désormais confrontés à des individus isolés, des «loups solitaires».
 Ce qui vient de se passer au Canada confirme cette analyse.
 Dans ce contexte, un dispositif de contrôle préventif s’impose.
-Celui-ci ne porte certainement pas une atteinte insupportable aux libertés – et je regrette, monsieur de Rugy, qu’il n’ait pas fait l’unanimité sur ces bancs – puisqu’il y a à l’évidence proportionnalité : il y a pire sanction que de se voir retirer ses documents d’identité et d’être contraint de rester en France.
-La France n’est pas le château d’If où Edmond Dantès se retrouve enfermé, à pourrir dans un cachot aux côtés de l’abbé Faria ! La France a le devoir de protéger les Français, même ceux qui envisagent de partir pour le djihad.
 Car que faisons-nous d’autre que protéger ces jeunes exaltés quand nous faisons obstacle à leur marche inexorable vers la mort ? En les empêchant de partir, nous les sauvons d’eux-mêmes.
-Où y a-t-il atteinte aux libertés ? Il est donc normal de permettre la saisie préventive de documents d’identité dès lors qu’il existe des raisons sérieuses de croire qu’un individu souhaite se rendre à l’étranger à des fins terroristes.
 L’exercice de cette faculté est encadré des garanties qui sont celles d’un État de droit.
 Il est limité dans le temps.
 L’individu pourra saisir le juge administratif dans le cadre du référé-liberté, qui assure souvent aux libertés fondamentales une protection plus forte que celle que peut apporter une juridiction de droit commun.
@@ -297,74 +221,53 @@ La CNCDH a soutenu qu’en conséquence il n’y avait pas atteinte aux principe
 Elle a rappelé que le Conseil constitutionnel avait coutume de souligner que la sécurité est la première des libertés.
 Encore faudrait-il pour être efficace s’attaquer aux causes qui amènent ces jeunes au djihad.
 Au nombre de celles-ci, eux-mêmes évoquent bien souvent la situation en Palestine.
-En effet ! Si la France ne prend pas un certain nombre d’initiatives pour que la paix soit demain une réalité dans cette partie du monde où tant de sang est versé… Ça n’a rien à voir ! C’est une réalité, cher Meyer Habib.
 Il y a un certain nombre de jeunes qui regardent cela et se persuadent qu’ils sont là pour rendre ce qu’ils estiment être la justice, ce en quoi ils se trompent.
 La France doit assurer la sécurité des siens ; la France doit rester un État de droit.
 Ce texte permet un équilibre délicat, et il appartient au Parlement d’exercer pleinement sa mission de contrôle.
 Les radicaux voteront donc ce texte, qui a su obtenir l’appui de la quasi-totalité des parlementaires.
 (Applaudissements sur les bancs des groupes RRDP et SRC.) La parole est à Monsieur Marc Dolez.
-Madame la présidente, monsieur le secrétaire d’État, monsieur le vice-président de la commission des lois, monsieur le rapporteur, mes chers collègues, face à une menace croissante et d’une ampleur inédite, nul ne peut contester la nécessité absolue pour la République de se donner les moyens de lutter contre le terrorisme.
 Les enjeux de ce combat sont tels que la question ne saurait évidemment être appréhendée à travers le seul prisme sécuritaire, comme le soulignait récemment la Commission nationale consultative des droits de l’homme.
-Si, comme nous l’avons indiqué en première lecture, nous sommes favorables à la mise en œuvre d’une politique ambitieuse de lutte contre le terrorisme, on peut cependant s’interroger sur l’efficacité d’un nouveau durcissement de l’arsenal répressif et administratif, le développement de procédures dérogatoires appelant, chacun en conviendra, une vigilance toute particulière.
 Les moyens employés pour lutter contre le terrorisme doivent toujours préserver l’équilibre entre efficacité et respect des libertés fondamentales et de l’État de droit.
 C’est sous cet angle que notre groupe avait examiné le dispositif proposé en première lecture, ce qui l’avait amené, malgré un certain nombre de réserves, à émettre un vote positif.
 C’est toujours à l’aune de cette nécessité que nous apprécions aujourd’hui le texte adopté par la commission mixte paritaire.
-Dans son avis du 25 septembre dernier, la Commission nationale consultative des droits de l’homme a estimé que l’interdiction de sortie du territoire prévue à l’article 1ier était justifiée au regard de l’article 2, alinéa 3, du protocole numéro 4 de la convention européenne des droits de l’homme, même si elle exprime d’importantes réserves quant à la procédure retenue.
 Il convient de souligner que le texte de la CMP renforce les droits de la personne faisant l’objet d’une interdiction de sortie du territoire.
 Celle-ci sera en effet invitée à présenter ses observations à l’administration dans un délai de huit jours et non plus de quinze jours, comme le prévoyait le texte initial.
 La décision de renouveler l’interdiction de sortie du territoire devra être motivée.
 La non-restitution à l’administration de la carte nationale d’identité et du passeport constituera un délit puni d’une peine d’emprisonnement de deux ans et non de trois, comme initialement prévu.
-Constitue également une garantie procédurale supplémentaire la mention explicite, introduite par le Sénat, selon laquelle le tribunal administratif peut être saisi et dispose d’un délai maximal pour se prononcer, mention complétée par la référence à la possibilité d’engager une procédure de référé-liberté.
-Cet article 1ier a été complété par un article 1ier bis, qui vise à renforcer les dispositions permettant de refuser l’entrée sur notre territoire à des ressortissants étrangers dont la présence sur le territoire national représenterait une menace grave pour l’ordre public, notamment en raison de leur participation aux activités de groupes terroristes.
 En effet, certains ressortissants étrangers qui ne résident pas habituellement sur le territoire français peuvent constituer une menace réelle, en particulier lorsqu’ils bénéficient du droit de circuler librement au sein de l’espace Schengen.
 Cette interdiction administrative du territoire est elle aussi entourée de garanties procédurales.
 Elle fera l’objet d’une décision écrite et motivée.
 Elle devra reposer sur des éléments suffisamment graves et solides, précis et circonstanciés permettant d’établir que la présence en France de l’étranger représenterait une menace grave pour l’ordre et la sécurité publics.
 Elle sera soumise au contrôle du juge administratif.
-S’agissant de l’article 4, le texte adopté par la CMP revient au texte initial en transférant de la loi du 29 juillet 1881 vers le code pénal l’ensemble des délits de provocation au terrorisme ou d’apologie du terrorisme, quel que soit le média utilisé, la commission de tels faits via des sites en ligne constituant une circonstance aggravante.
 Nous regrettons que les peines d’emprisonnement aient été alourdies par rapport au texte adopté par notre assemblée en première lecture.
-Quant à l’article 5, qui renforce l’arsenal pénal en créant un délit d’entreprise terroriste individuelle, le texte de la commission mixte paritaire apparaît comme une synthèse du texte de l’Assemblée nationale et celui du Sénat puisqu’il ne reprend pas la référence aux préparatifs logistiques que ce dernier avait introduite, les différents éléments matériels énumérés dans l’article paraissant suffisants pour caractériser un projet terroriste.
 L’article 9 confirme le dispositif de blocage administratif des sites de propagande terroriste adopté par notre assemblée en première lecture, tout en renforçant les garanties entourant la décision de l’autorité administrative.
 Une personnalité qualifiée, désignée parmi les membres de la CNIL, aura la charge, pour la durée de son mandat dans cette commission, de s’assurer de la régularité des demandes de retrait.
 Dotée d’un pouvoir de recommandation vis-à-vis de l’autorité administrative, elle pourra, si celle-ci ne suit pas sa recommandation, saisir la juridiction administrative.
 Comme en première lecture, nous restons cependant dubitatifs quant à l’efficacité de ce dispositif.
 Nous approuvons la suppression des articles 15 et 15 quater.
-D’une part, l’extension de la durée de conservation des enregistrements des interceptions de sécurité de dix à trente jours comportait un risque important de déperdition, voire de divulgation des enregistrements et aurait rendu pratiquement inefficace le contrôle de la Commission nationale de contrôle des interceptions de sécurité.
-D’autre part, les mesures qui visaient à permettre à l’administration pénitentiaire de refuser ou de retirer un permis de visite ainsi que de contrôler et retenir le courrier d’un détenu paraissaient contraires à l’article 8 de la convention européenne des droits de l’homme.
 Cet article 15 quater ne comportait d’ailleurs aucune innovation par rapport aux dispositions de la loi pénitentiaire de 2009 permettant de lutter contre les phénomènes visés.
-En définitive, si le texte de la CMP suscite toujours des interrogations, des réserves ou des critiques qui, je ne vous le cache pas, peuvent faire débat au sein de notre groupe, il apporte aussi des améliorations, notamment en renforçant certaines garanties procédurales.
 Pour la majorité de notre groupe, ce texte est parvenu à réaliser le difficile équilibre entre efficacité de la législation antiterroriste et respect des libertés fondamentales.
 C’est pourquoi, comme en première lecture, nous voterons pour ce projet de loi.
 (Applaudissements sur les bancs des groupes GDR et SRC.) La parole est à Madame Marie-Françoise Bechtel.
-Madame la présidente, monsieur le secrétaire d’État, monsieur le rapporteur, chers collègues, le texte issu de la commission mixte paritaire qui vous est ici présenté, en partie conforme à votre vote en première lecture, est, je le crois, un reflet fidèle de nos débats et des solutions qui, nécessairement, ont dû les conclure.
 Je note d’abord avec satisfaction que le climat plutôt constructif dans lequel nous avions débattu le mois dernier s’est retrouvé – mais faut-il s’en étonner ? – au Sénat.
 La commission mixte paritaire a donc acté l’accord qui, par l’entremise des rapporteurs dont je salue le travail, s’est dessiné entre les projets votés.
 Cet accord mérite de recevoir ce soir une sanction positive et le groupe majoritaire vous invite à la donner.
-À travers cet accord, nous pouvons nous féliciter de ce que la représentation nationale se soit retrouvée unie autour d’un objectif : celui de pallier certains défauts de notre système juridique, lorsqu’il s’agit de traquer des ennemis dont le visage est aujourd’hui celui du djihadisme.
 Mais il ne suffit pas d’être unis dans la détermination.
 Encore fallait-il s’entendre sur les moyens.
-Là encore, je me félicite que le texte final ait écarté des tentations mal adaptées au but recherché, en privilégiant au contraire les instruments dont nul n’a finalement mis en doute la pertinence, comme nous l’avons d’ailleurs abondamment entendu ce soir même.
-Le texte adopté par la CMP continue donc d’inclure les nouveautés principales que le Gouvernement avait souhaité inscrire dans la loi : interdiction de sortie du territoire ou d’entrée sur le territoire, nouvelle incrimination d’entreprise terroriste individuelle, possibilité de bloquer des sites ou des contenus illicites.
-Quelles objections pourraient subsister à l’encontre de ce dispositif législatif ? J’entends bien et j’ai bien entendu ce soir qu’il peut répondre à deux soucis opposés : les uns dénonçant le risque d’aller trop loin dans le sens d’un certain déséquilibre au détriment des libertés, les autres au contraire regrettant qu’on n’aille pas assez loin, au risque de se condamner à des réactualisations à court terme.
 Je voudrais répondre ici à ces deux objections de nature opposée, sans céder à la facilité de dire que, les objections étant opposées, la loi exprime certainement un équilibre.
 En effet.
 Non, mes chers collègues, cette loi réfléchie n’est pas une loi de circonstance et encore moins d’exception.
 La preuve en est facile à faire sur chacune des nouveautés introduites dans le texte.
-L’interdiction de quitter le territoire ou d’y entrer n’est pas excessive, eu égard aux compensations que nous avons introduites – je pense, en ce qui concerne la sortie, à l’attestation d’identité –, ainsi qu’aux garanties apportées par un juge de longue date habitué à surveiller et à encadrer les pouvoirs de police administrative, ce qui, soit dit en passant, nous distingue, en bien, d’autres pays démocratiques, comme l’a très bien souligné notre collègue Tourret.
-S’agissant de la nouvelle incrimination qui individualise la préparation de l’acte terroriste, je rappelle les multiples précautions prises pour que ce soit un faisceau de critères, allant de l’élément intentionnel à un ensemble d’éléments matériels soigneusement pesés tout au long des débats et hiérarchisés, qui rende possible une incrimination.
-La pénalisation de la provocation au terrorisme ou de l’apologie du terrorisme a fait également l’objet de débats serrés et même approfondis, et le texte adopté en CMP, s’il maintient le transfert de ces délits de la loi de 1881 au code pénal, a le mérite de ne pas distinguer selon le média qui en est le vecteur.
 Le contraire, qu’on le veuille ou non, aurait obscurci la portée réelle de la loi de 1881.
 Enfin, s’agissant du blocage de sites ou de contenus sur internet, le dispositif, d’ailleurs amélioré par le Sénat, a maintenant été assez débattu pour que chacun voie clairement ce dont il est réellement question.
 Je me bornerai à souligner qu’il n’y a pas de censure lorsque les responsables d’un contenu diffusé par les voies puissantes du numérique peuvent immédiatement saisir un juge qui statue dans un délai très bref.
 Pour autant, le texte que nous adopterons n’est pas marqué par la timidité ni ne traduit quelque réticence devant les moyens nécessaires, comme je l’ai entendu ici ou là ce soir encore.
 Les nouveaux instruments dont nous nous dotons sont opérationnels.
 C’est là un choix que je crois préférable à je ne sais quelle mesure symbolique et discriminatoire, portant en particulier sur les cas juridiquement mythiques des binationaux.
-Parmi les mesures concrètes, citons le renforcement des conditions de l’assignation à résidence, l’adaptation des procédures de perquisition dans le cas de données stockées par les moyens nouveaux que procure la gestion massive, ou encore le renforcement du cyberpatrouillage pour les agents de police judiciaire dans le cadre des enquêtes qu’ils diligentent.
 Certes, nous savons tous que les progrès du numérique imposeront un jour des ajustements et des dispositifs nouveaux.
 Mais bien malin celui qui peut dire quand ! Je pense notamment à la cryptologie qui, aujourd’hui, lance un défi techniquement difficile à relever.
 Mais dans ces défis nouveaux, mes chers collègues, tout ne relève pas de la loi.
 Deux exemples, au cœur de la lutte contre le terrorisme, le montrent.
-S’agissant des sites dont la localisation à l’étranger rend souvent difficile l’obligation de mise en conformité avec nos lois, il est nécessaire qu’une concertation s’instaure entre les pays qui ont un intérêt commun à la lutte contre le cyberdjihadisme.
 Et cela ne relève pas de la loi, mais de la négociation et de la concertation.
 Le ministre de l’intérieur a rappelé, en première lecture, qu’il avait engagé des démarches auprès d’autres États européens.
 Il a expliqué, aussi, avoir l’espoir que les États-Unis prennent une conscience suffisante des risques pour cesser de créer des entraves à un échange équilibré.
@@ -378,14 +281,12 @@ Je crois plus simplement, mes chers collègues, que ce projet de loi nous invite
 Mais son utilité précisément est là.
 Nous luttons contre un ennemi qui sait à la fois se cacher et se dévoiler, qui puise son inspiration dans une sorte de millénarisme de la destruction, tout en sachant utiliser les ressources les plus performantes des technologies modernes.
 Pour cela, il faut du pragmatisme et, comme j’ai essayé de le montrer, je crois que ce texte n’en manque pas.
-Je voudrais pour finir rendre hommage à ceux qui luttent quotidiennement contre cet ennemi à la fois caché et dévoilé : d’abord la chaîne entière des services de sécurité dont le travail est difficile, que ce soit à l’intérieur ou à l’extérieur, comme l’a malheureusement montré la tragique actualité de ce jour au Mali ; mais aussi les associations de victimes du terrorisme, qui ne baissent pas les bras, mais au contraire sont à l’origine de méthodes innovantes pour tenter de faire barrage à cette source d’inspiration souvent fatale qu’est l’image romancée du combat djihadiste.
 La lutte contre le terrorisme est l’affaire de tous, sans qu’il y ait lieu de céder à la panique, ni à la surenchère.
 Je salue donc aussi l’effort accompli par les autorités et personnalités représentant l’islam de France, qui ont su se mobiliser pour délivrer un message clair.
 Tu parles ! Deux cents personnes, alors qu’il aurait dû y en avoir cinq cent mille ! L’islam et les citoyens qui le pratiquent sont les premiers otages de la guerre sainte.
 Il serait souhaitable que notre diplomatie prenne d’ailleurs la pleine mesure de tout cela.
 La loi, les pratiques utiles, la mobilisation citoyenne, c’est ensemble que ces réponses complémentaires doivent être données au terrorisme, quelle que soit la forme historique qu’il revête.
 (Applaudissements sur les bancs des groupes SRC et RRDP.) La parole est à Monsieur Pascal Popelin.
-Madame la présidente, monsieur le secrétaire d’État, monsieur le vice-président de la commission des lois, monsieur le rapporteur, mes chers collègues, aucune loi ne peut prétendre prémunir totalement notre société contre les projets destructeurs de groupes fanatisés, dénués de scrupules et motivés par une idéologie de haine qui érige en méthode les pires abjections.
 Le croire serait une illusion.
 Aucune société démocratique ne peut, pour autant, s’abstenir de se doter de tous les moyens possibles pour combattre la menace terroriste.
 La lutte contre le terrorisme, cela a été dit, n’est ni de gauche, ni de droite : elle est l’affaire de la République et de la nation.
@@ -393,7 +294,6 @@ Elle est l’affaire de tous, parce que le danger n’épargne personne.
 Il se manifeste à l’extérieur de nos frontières.
 L’actualité récente nous a douloureusement rappelé le risque que peuvent encourir nos compatriotes dans certaines zones du monde.
 Chaque Français a ressenti le même effroi, à l’annonce de l’odieux assassinat dont a été victime Hervé Gourdel.
-Il se développe aussi plus près de nous, sur le territoire national, partout où la propagande extrémiste est parvenue à s’infiltrer, en s’appuyant notamment sur les technologies de l’information et de la communication, en abusant de la perte de repères qui touche certains habitants de notre pays.
 Les événements tragiques de Montauban et de Toulouse ont marqué à jamais notre mémoire collective.
 Ils ont mis à jour l’un des nouveaux visages de la menace : celui du processus de radicalisation dans lequel se laissent happer certains, jusqu’à commettre l’indicible.
 Dans ce contexte aux contours évolutifs, la responsabilité du législateur est de bâtir, en temps voulu, des outils légaux qui soient à la fois efficaces, opérationnels et respectueux des principes de notre État de droit.
@@ -402,28 +302,21 @@ Ces dispositions interviennent moins de deux ans après que nous avons déjà re
 L’exigence d’efficacité du Gouvernement justifie pleinement cet approfondissement.
 Je me réjouis que sur un sujet aussi sérieux, qui touche à l’intérêt supérieur des Français, nous ayons pu conduire ce débat à son terme, dans un esprit de cohésion et de rassemblement.
 Cette approche a permis à la commission mixte paritaire, réunie le 21 octobre dernier, d’aboutir à un accord entre notre Assemblée et le Sénat.
-La qualité de nos échanges a également permis que ce projet de loi trouve le juste équilibre entre la nécessité d’aller plus loin dans les moyens dont nous nous dotons pour lutter contre le terrorisme, sans négliger l’impératif de protection des libertés individuelles, qui est la marque de notre droit.
 La lutte contre le terrorisme n’autorise pas tout, j’en conviens : ni l’excès, ni le toujours plus, pas davantage la naïveté, pas davantage la ratiocination.
-Je veux donc saluer le caractère complet de ce projet de loi, qui ne saurait se résumer aux trois dispositifs, déjà amplement commentés, que sont l’interdiction de sortie de territoire, introduite par l’article 1ier, le délit d’entreprise terroriste individuelle, créé à l’article 5, et le blocage des contenus internet faisant l’apologie du terrorisme, dont les modalités sont définies à l’article 9.
 Le texte donne d’autres outils utiles et, s’ils sont quelque peu passés inaperçus, leur importance ne doit pas être négligée.
 Elle a d’ailleurs été rappelée par un certain nombre d’orateurs et par vous-même, monsieur le rapporteur.
 Je pense notamment aux deux mesures introduites par la voie d’amendements d’initiative gouvernementale lors des débats au Sénat.
-L’article 1ier bis crée un dispositif d’interdiction administrative du territoire à l’encontre des ressortissants étrangers ne se trouvant pas en France et n’y résidant pas régulièrement, dès lors que leur comportement est de nature à représenter une menace pour l’ordre public : on règle ainsi le problème de l’entrée au même titre que celui de la sortie.
 Et l’article 15 quinquies A autorise la mise en place de mesures de sûreté aérienne sur certains vols, comblant ainsi un vide juridique.
 Voilà quelques-unes des raisons pour lesquelles ce texte nécessaire et utile mérite le large soutien dont je ne doute pas qu’il va bénéficier, dans quelques instants, au sein de cet hémicycle.
 (Applaudissements sur les bancs des groupes SRC.
 et RRDP) La parole est à Madame Marion Maréchal-Le Pen.
-Madame la présidente, monsieur le secrétaire d’État, chers collègues, ce texte est le bienvenu, alors que nous sommes confrontés à une menace inédite : celle d’un terrorisme en pleine mutation, avec l’apparition d’un cyberdjihad offensif et la multiplication d’ennemis intérieurs, des compatriotes hostiles à la civilisation qui les a vus grandir.
 Mille quatre-vingt-neuf Français sont impliqués dans le djihad selon les derniers chiffres officiels, vraisemblablement plusieurs milliers d’après différents spécialistes, dont des anciens de la DCRI.
 Ces chiffres font de la France le premier foyer de recrutement djihadiste.
-L’incohérence de la politique étrangère, de droite comme de gauche, ces dernières décennies, la faiblesse de nos gouvernants pour imposer les valeurs républicaines et françaises sur notre territoire, font de la France la complice malgré elle de la création et de l’extension du califat mondial impulsé par l’État islamique.
 Monsieur Fabius n’a-t-il pas déclaré, il y a quelques mois : «Bachar-al-Assad ne mérite pas d’être sur terre» ? Son message a visiblement été entendu par les sujets de Daech.
 Il n’est pas évident pour un pays d’anticiper des événements auxquels il n’a plus été confronté depuis plusieurs décennies, la vague terroriste d’attentats majeurs datant de 1995-1996 en France.
 Si l’on ajoute à cela votre crainte pathologique de la stigmatisation, je comprends aujourd’hui pourquoi votre grille de lecture est dépassée.
 En effet, votre réponse politique est manifestement insuffisante et partielle, bien que quelques avancées doivent être saluées.
-Je pense à l’interdiction de sortie du territoire, mesure minimale quand des personnalités comme Loïc Garnier – directeur de l’unité de coordination de la lutte anti-terroriste – nous explique qu’il ne s’agit pas de savoir s’il y aura une attaque terroriste mais quand elle aura lieu.
 La gravité de la menace justifiait plutôt une suspension de l’espace Schengen, sans quoi la maîtrise de nos frontières demeure impossible.
-La création du délit d’entreprise individuelle terroriste est indispensable afin d’appréhender ces nouveaux «loups solitaires», comme la presse aime à les définir, surtout qu’à l’heure actuelle, sur cent dix-huit djihadistes interpellés à leur retour, seuls cinquante-trois ont été incarcérés.
 Dommage que votre récente réforme pénale rende sa sanction tout à fait inopérante.
 Vous prévoyez trois ans d’emprisonnement pour l’individu qui aura violé une interdiction judiciaire de sortie du territoire en vue de faire le djihad.
 Or, la contrainte pénale applicable à ce type de délit réduit la sanction à une peine hors les murs et à un accompagnement socio-éducatif.
@@ -436,7 +329,6 @@ Sans parler du problème de sous-effectifs, il est grand temps de former le pers
 L’interdiction imposée par l’Union européenne d’opérer des fouilles systématiques à la sortie des parloirs facilite les trafics d’armes et de téléphones portables au sein des établissements.
 Lorsque l’on sait que la radicalisation s’effectue principalement par Internet, il est urgent d’entraver un accès que permettent des téléphones détenus illégalement.
 L’administration doit pouvoir accéder à leurs données numériques et restreindre l’accès au réseau si nécessaire.
-En matière de prévention, la question des effectifs se pose, une fois de plus : une soixantaine de personnes au département judiciaire de la direction générale de la sécurité extérieure, la DGSE, une trentaine à la sous-direction de la lutte antiterroriste, pas de quoi affronter un phénomène d’une telle ampleur ! Il serait temps de durcir la politique d’expulsion des imams prêchant l’islamisme radical ainsi que le contrôle des financements de mosquées venus de l’étranger, dont on sait que beaucoup proviennent de pays acoquinés avec les mouvements islamistes.
 En aval, que fait-on de ces soldats formatés et formés au combat qui reviennent chez nous ? Il est grand temps d’envoyer un message de fermeté qui doit être entendu jusque dans nos banlieues.
 Il faut réformer les dispositions relatives à la déchéance de la nationalité française afin d’en assouplir l’application et de l’étendre, comme les Britanniques l’ont fait avec leurs binationaux.
 Il n’y a pas de scrupules à avoir : ces individus n’ont rien de français ; ils combattent nos valeurs et notre République.
@@ -445,15 +337,12 @@ Il est en effet impensable de bénéficier de la solidarité nationale lorsque l
 Les étrangers susceptibles d’être condamnés à une peine d’interdiction de sortie du territoire pour des actes de terrorisme devraient être immédiatement exclus et non assignés à résidence, comme en dispose l’article 2.
 Les Français n’ont pas à supporter les coûts de prise en charge de terroristes étrangers.
 Peut-être un jour finirez-vous par ouvrir les yeux sur le lien de cause à effet entre l’apparition de ces individus hybrides franco-terroristes et une politique migratoire incontrôlée qui conduit au communautarisme et à la désassimilation.
-Ajoutez à cela votre complicité face aux pressions politico-religieuses qui transforment les défenseurs de la laïcité en sectaires islamophobes ! «Si vous pouvez tuer un incroyant américain ou européen, en particulier les méchants et sales Français, alors, comptez sur Allah et tuez-le de n’importe quelle manière» : tel est le message de l’Internationale djihadiste diffusé le 22 septembre.
 L’ampleur du risque pesant sur nos concitoyens ne peut pas laisser de place à la candeur ou à la timidité.
 C’est pourquoi je m’abstiendrai sur ce texte, que j’estime insuffisant.
 La discussion générale est close.
 J’appelle maintenant le texte de la commission mixte paritaire.
 Conformément à l’article 113, alinéa 3, du règlement, je vais d’abord appeler l’Assemblée à statuer sur l’amendement dont je suis saisie.
 Il s’agit tout simplement d’un amendement qui répare une omission de coordination.
-Juste une remarque sur l’exposé sommaire, si vous le permettez : l’article 24 en question est celui de la loi de 1881 sur la liberté de la presse et non sur la confiance dans l’économie numérique, comme indiqué par erreur.
 Je mets aux voix l’ensemble du projet de loi, compte tenu du texte de la commission mixte paritaire, modifié par l’amendement adopté par l’Assemblée.
-Le secrétaire d’État chargé des relations avec le Parlement a informé le président que la mission «Administration générale et territoriale de l’État» serait examinée avant la mission «Action extérieure de l’État» à l’ouverture de la première séance du lundi 3 novembre 2014, à seize heures.
 Prochaine séance, demain, à neuf heures trente : Suite de la discussion de la seconde partie du projet de loi de finances pour 2015 : Crédits de la mission «Anciens combattants, mémoire et liens avec la Nation».
 La séance est levée.

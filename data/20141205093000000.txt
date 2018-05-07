@@ -2,9 +2,7 @@ La séance est ouverte.
 L’ordre du jour appelle la suite de la discussion du projet de loi de finances rectificative pour 2014 (numéros 2353, 2408).
 Mercredi soir, l’Assemblée a poursuivi la discussion des articles de la seconde partie du projet de loi, s’arrêtant à l’article 25.
 La parole est à Monsieur Christophe Caresche, pour soutenir l’amendement numéro 556.
-Monsieur le président, monsieur le secrétaire d’État chargé du budget, madame la rapporteure générale, mes chers collègues, cet amendement était en réalité lié à un autre amendement que j’avais déposé portant article additionnel après l’article 13 et qui visait à améliorer le dispositif de lutte contre la fraude à la TVA.
 Le Gouvernement a proposé un certain nombre de dispositions en ce sens et plusieurs autres amendements ont été adoptés.
-Le dispositif proposé par cet amendement, que j’ai cosigné avec René Dosière, allait plus loin encore, puisqu’il prévoyait une déclaration auprès de l’administration, en temps réel, des achats réalisés par les assujettis à la TVA, du moins à partir d’un certain montant d’achat.
 Cela permettrait de lutter de manière très efficace contre les fraudes à la TVA, notamment la fraude carrousel.
 En outre, avec les moyens informatiques d’aujourd’hui, il serait possible de mettre en place un tel dispositif, même si je sais qu’il peut y avoir ici ou là des réserves à son sujet.
 Surtout, ce dispositif permettrait, ce qui est en partie l’objet de l’article 25, d’aligner le traitement fiscal des importations sur celui qui est appliqué depuis 1993 aux échanges dans l’Union européenne.
@@ -13,11 +11,9 @@ J’aimerais souligner enfin que l’Espagne a adopté un dispositif de déclara
 La parole est à Madame Valérie Rabault, rapporteure générale de la commission des finances, de l’économie générale et du contrôle budgétaire, pour donner l’avis de la commission.
 L’avis de la commission est défavorable à cet amendement qui est la suite de l’amendement numéro 415 que vous aviez déposé plus tôt dans le texte.
 Votre intention est louable, puisqu’elle va dans le sens d’une simplification importante ; vous citez notamment le cas de l’Espagne.
-Cependant, l’amendement permettrait à n’importe quelle entreprise de l’Union européenne de bénéficier du système d’auto-liquidation de la TVA à l’importation en supprimant la nécessité d’avoir au préalable obtenu un agrément pour bénéficier de la procédure de dédouanement unique.
 Par conséquent, même si l’amendement est très ambitieux au regard de l’objectif de simplification, nous souhaiterions qu’il soit un peu plus sécurisé sur le plan juridique.
 La parole est à Monsieur le secrétaire d’État chargé du budget, pour donner l’avis du Gouvernement.
 L’avis du Gouvernement est le même que celui de la commission.
-Le dispositif proposé par l’article 25 permet de passer d’un système où les opérations de paiement et de déduction de la TVA sont séparées entre deux administrations distinctes à un système d’auto-liquidation, qui nécessite de ce fait un échange d’informations entre les administrations.
 C’est la raison pour laquelle, comme l’a indiqué la rapporteure générale, il convient dans un premier temps de limiter la portée de la mesure à des opérateurs de confiance habitués à manipuler des flux complexes.
 Je souhaite par ailleurs établir un bilan de ce dispositif dès l’été 2015.
 Dans l’attente, il paraît préférable de conserver une durée de trois ans pour l’option d’auto-liquidation de la TVA qui soit renouvelable par tacite reconduction.
@@ -29,7 +25,6 @@ Il est rédactionnel.
 La parole est à Madame Marie-Christine Dalloz, pour soutenir l’amendement numéro 289.
 Nous proposons par cet amendement d’étendre le principe de l’auto-liquidation de la TVA à l’importation aux opérateurs titulaires d’un certificat d’opérateur agréé.
 En effet, la France est en retard sur ce sujet par rapport à des pays membres tels que l’Allemagne ou les Pays-Bas.
-Il serait assez judicieux que l’on puisse accroître le nombre d’opérateurs économiques agréés pour réaliser un objectif ambitieux, d’autant plus que la DGDDI, la direction générale des douanes et droits indirects, est favorable à l’auto-liquidation de la TVA par le biais d’un OEA.
 Quel est l’avis de la commission ? L’avis de la commission est défavorable, madame Dalloz.
 Il est proposé dans l’article de tester dans un premier temps la réforme de l’auto-liquidation de la TVA à l’importation pour les seules entreprises importatrices qui ont été agréées pour bénéficier d’une procédure de dédouanement unique.
 Celles-ci disposent en effet de capacités logistiques spécifiques qui facilitent aussi les contrôles douaniers sur un plan matériel.
@@ -77,9 +72,7 @@ En effet, nous défendons l’éligibilité des textes dématérialisés au taux
 Par ailleurs, vous soulevez un second point, l’interopérabilité des livres numériques, qui mérite d’être approfondi et d’être traité, notamment en lien avec le ministère de la culture.
 Mais l’interopérabilité ne relève pas directement de la fiscalité, dans la mesure où elle n’est pas directement liée au taux réduit de TVA à 5,5 %.
 Quel est l’avis du Gouvernement ? Le Gouvernement reprend à son compte les arguments évoqués par Madame la rapporteure générale.
-Nous sommes en procédure d’infraction devant l’Union européenne puisque nous avons décidé, en nous appuyant sur le principe de neutralité fiscale, qui consiste à considérer que le livre papier et le livre numérique sont de même nature, d’appliquer le taux réduit de 5,5 % aux livres numériques.
 La Commission conteste cette position.
-Si nous restreignions le bénéfice du taux réduit aux seuls livres numériques libres de DRM, comme vous le suggérez, nous fragiliserions notre position par rapport à la Commission puisque nous nous appuierions alors sur un argument différent de celui que nous mettons en avant aujourd’hui et qui nous semble plus solide.
 Par ailleurs, comme l’a parfaitement exposé la rapporteure générale, l’outil fiscal ne nous semble pas approprié pour régler la question de l’interopérabilité, qui est un vrai sujet.
 Nous ne rendrions donc pas service à la cause défendue en adoptant cet amendement.
 Si vous le maintenez, le Gouvernement y sera défavorable.
@@ -90,13 +83,11 @@ On nous concède chaque fois que la proposition est intéressante mais qu’il c
 J’ose espérer qu’il faut moins d’un an pour discuter d’un seul amendement avec un autre ministère.
 Cette condition que vous m’opposez ne me satisfait pas.
 Un délai d’un an pour aborder la question me paraît raisonnablement suffisant.
-Ensuite, vous nous dites que cet amendement affaiblirait la position de la France face à la Commission européenne, mais nous devons déjà provisionner pour tous les jours où nous enfreignons les règles selon lesquelles un taux de 20 % doit être appliqué sur les livres numériques, avec verrou ou sans verrou, avec DRM ou sans DRMonsieur Il y a donc déjà un conflit.
 Et, selon nous, lorsque deux parties en conflit sont dans l’erreur, chacune ayant en partie raison et en partie tort, la première à le reconnaître et à proposer une solution mutuellement avantageuse est forcément en position de supériorité.
 Effectivement, la Commission a raison, un livre numérique est un service.
 Nous proposons de dire la même chose, plus intelligemment : c’est lorsque ce livre numérique comporte un verrou qu’il est un service ; sans verrou, c’est un vrai livre.
 Vous défendez l’exception culturelle face aux GAFA depuis deux ans et demi, et je suis tout à fait d’accord.
 Contre Google, Amazon et Apple, vous avez raison : ils sont en position de monopole et censurent les éditeurs qui oseraient proposer des livres qui ne correspondent pas à leur éthique.
-Censurer un livre, c’est totalement incroyable, une telle pratique n’existe pas sur le marché du livre papier ! Pour régler ce problème le mieux possible, et alors que nous allons commencer à devoir provisionner des sommes pour chaque jour en infraction, cela nous paraît une solution extrêmement raisonnable que de faire la distinction entre un vrai livre numérique et un faux livre numérique.
 La parole est à Monsieur le secrétaire d’État.
 J’entends bien votre argumentation, madame la députée.
 Premièrement, en ce qui me concerne, à titre personnel, je n’ai jamais été favorable à ce que nous nous mettions en infraction par rapport à la réglementation européenne.
@@ -110,11 +101,9 @@ Nous arrivons à une série d’amendements de mon collègue Marc Le Fur, que j�
 Ils ont pour objet la distorsion de traitement dont souffrent certains secteurs.
 Si vous admettez que le logement, notamment le logement social, doit bénéficier d’un taux de TVA réduit, on ne comprend pas que le bois de chauffage, notamment, le bois énergie, soit soumis au taux intermédiaire de 10 %.
 Je le dis régulièrement, je le dis chaque année : le problème, c’est que ce secteur-là souffre d’une grande part de travail parallèle – je n’aime pas l’expression «travail au noir».
-Si on veut vraiment des taux de TVA pertinents, il faudrait essayer d’appliquer pendant un an un taux réduit au bois énergie ; le calcul de l’impact d’une telle mesure sur les recette de l’État n’a jamais été fait, mais cela semble intéressant.
 En France, dans certains territoires, cela marquerait vraiment un progrès, et les sommes en question ne sont pas négligeables pour nos concitoyens.
 Quel est l’avis de la commission ? Avis défavorable, monsieur le président.
 Cet amendement représente un coût d’environ 22 millions d’euros.
-Ce qui nous est apparu, notamment lorsque nous l’avons examiné en commission des finances, c’est qu’il offrirait à cette énergie un avantage disproportionné par rapport aux autres, dont la consommation est, elle, taxée au taux normal, puisque seul l’abonnement est à 5,5 %.
 Dernier point, cet amendement nous exposerait à un risque au regard du droit communautaire, car le bois de chauffage ne figure pas sur la liste des produits que la directive TVA nous autorise explicitement à soumettre au taux réduit.
 Pour ces raisons, la commission est défavorable à votre amendement.
 Quel est l’avis du Gouvernement ? Nous abordons là, vous l’avez dit, une série d’amendements sur les taux de TVA.
@@ -128,13 +117,10 @@ Bien sûr, je ne conteste pas la possibilité que vous avez de renouveler cette 
 Je serai donc beaucoup plus lapidaire sur les autres amendements de ce type, parce que je crois les connaître.
 Il s’agit de ce que l’on appelle des marronniers – ça tombe bien, en l’occurrence, même si les marronniers ne sont pas forcément le meilleur bois de chauffage, on préfère généralement le chêne ou le hêtre.
 Le Gouvernement n’est pas favorable à ces amendements.
-Je connais aussi le débat sur le bois de chauffage, et je ne veux pas m’y lancer : les particules fines, la région parisienne, les inserts, les foyers ouverts, le rendement… De grâce, non ! (Sourires.) Le débat sur le bois de chauffage a encore prospéré ces derniers jours, avec la question, en région parisienne, d’une interdiction, en raison des particules fines.
 Je ne veux pas entrer dans ce débat.
 En l’occurrence, c’est un débat fiscal qui nous occupe.
 Il a eu lieu, et il est parfaitement légitime, mais le Gouvernement est défavorable à cet amendement, et il sera défavorable à la plupart des marronniers qui jalonnent le chemin que nous parcourons ensemble aujourd’hui.
 La parole est à Monsieur Jean-Louis Dumont.
-Je voulais remercier notre collègue Madame Dalloz pour avoir fait référence au logement social, mais je voudrais lui indiquer que, maintenant, quand la haute technocratie parisienne se penche sur des milieux ruraux, elle interdit tout conduit de fumée sur les permis de construire, c’est-à-dire qu’on ne peut plus, aujourd’hui, mettre un petit fourneau pour son abattage de bois.
-Il y a des jours où je ne comprends pas ! J’ai quand même des ancêtres en milieu rural qui ont survécu au seul et unique chauffage de l’époque, c’est-à-dire le bois et, aujourd’hui, cela devient un danger public ! Vous venez, madame la rapporteure générale, de citer ce que cela représente en termes économiques.
 Eh bien, c’est encore un pan de notre économie qui va disparaître ! Exactement ! Je laisse cela à votre sagacité.
 Et merci, monsieur le secrétaire d’État, de vous souvenir de ce que cela peut représenter comme plaisir, comme nécessité de chauffage et en termes économiques.
 Je suis saisi de trois amendements, numéros 40, 267 et 39, pouvant être soumis à une discussion commune.
@@ -142,8 +128,6 @@ La parole est à Madame Marie-Christine Dalloz, pour soutenir l’amendement num
 Il est défendu, monsieur le président.
 La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro 267.
 Dans sa lettre datée du 7 juillet dernier, adressée à Monsieur Huchon, le commissaire européen Šemeta indique clairement que la France est autorisée à appliquer le taux de TVA de 5,5 % à des services de transport de personnes.
-Le présent amendement vise donc à réduire la TVA sur des services de transport spécifiques, des services de transport collectif du quotidien, en ciblant particulièrement certains types de transport empruntés tous les jours par des millions de nos concitoyens : bus, métro, tramway, etc.
-Les transports urbains réguliers de voyageurs permettent tous les jours à ces millions de Françaises et de Français de se rendre au travail, à l’université, de chercher un emploi, un stage, une activité ou, tout simplement, d’aller chercher leurs enfants à l’école.
 Ces transports constituent véritablement un service de première nécessité dans une société où les déplacements du quotidien sont souvent le principal facteur d’intégration, le principal facteur qui favorise l’activité et les relations sociales.
 Nous vous proposons donc de baisser la TVA sur ces transports du quotidien.
 La parole est à Madame Marie-Christine Dalloz, pour soutenir l’amendement numéro 39.
@@ -167,17 +151,13 @@ Troisièmement, madame la députée, un certain nombre d’amendements ont réce
 C’est très bien.
 Sauf que le poids politique de l’augmentation de certaines contributions, qui est nécessaire pour permettre la mise en place de cette tarification, est porté par le Parlement et, aux yeux des Français, très souvent par le Gouvernement.
 Je soumets cela à votre réflexion.
-On nous dit : «Vous ne cessez de taxer !» Que ce reproche nous soit fait lorsqu’il s’agit pour nous de financer la dépense de l’État, soit, mais quand il s’agit simplement d’autoriser des augmentations de contribution à caractère local pour permettre la mise en place d’une tarification… Certes, celle-ci est tout à fait respectable, c’est très bien, mais il y a quand même un poids politique qui est parfois porté par les uns au bénéfice des autres.
 Le tout, c’est que ce soit au bénéfice des Français.
 La parole est à Madame Marie-Christine Dalloz.
 Je voudrais simplement signaler que l’amendement n° 39 ne portait pas sur les «transports du quotidien».
 Il y est spécifiquement question des transports scolaires.
 Ensuite, je note qu’entre Madame la rapporteure générale et Monsieur le secrétaire d’État il y a une réelle inflation.
-En quelques minutes, nous sommes passés de 500 millions d’euros à 1 milliard : 100 % d’inflation en quelques minutes ! Il faudra un jour qu’il y ait une cohérence dans vos estimations de ce que coûterait une mesure proposée dans un amendement, parce qu’il est difficile de se prononcer quand il y a une telle distorsion.
 La parole est à Monsieur Razzy Hammadi.
 Je rebondis très brièvement sur les propos de Monsieur le secrétaire d’État.
-Je le rejoins complètement lorsqu’il souligne qu’il y a une certaine forme d’hypocrisie à déplorer un certain nombre de baisses de dotations et à vouloir plus d’investissement, sans jamais indiquer quelles sont les ressources disponibles et en en faisant porter la responsabilité au Parlement.
-Cependant, en ce qui concerne le tarif unique des transports en Île-de-France, je tiens juste à rappeler, c’est important pour nos débats, que l’évolution de la fiscalité se fait en accord avec les entreprises d’Île-de-France, notamment grâce à un accord avec la chambre de commerce.
 La parole est à Madame Isabelle Attard.
 Les transports du quotidien, ce sont les services de transport urbains et réguliers : c’est la définition acceptée par la Commission européenne, et c’est celle que nous vous soumettons aujourd’hui.
 Les transports en commun du quotidien sont utilisés par une catégorie bien particulière de nos concitoyens – pour ne pas dire par les plus démunis.
@@ -186,8 +166,6 @@ Cette discussion se tient depuis déjà fort longtemps.
 Dans l’amendement précédent, j’ai proposé de récupérer plusieurs millions d’euros sur les multinationales : un rééquilibrage s’impose, me semble-t-il.
 Je suis saisi de deux amendements, numéros 309 et 38, pouvant être soumis à une discussion commune.
 La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro 309.
-Cet amendement vise à introduire un taux de TVA réduit pour la gestion des déchets qui s’inscrivent dans le cadre d’activités d’économie circulaire – prévention des déchets, collecte et tri des conteneurs de déchets recyclables, compostage et gestion des déchets recyclables en déchèterie.
-Le coût de cette mesure, qui s’élèverait à 80 millions d’euros, serait financé par une partie de la recette, estimée à 200 millions d’euros, de la taxe générale sur les activités polluantes, la TGAP, qui serait instaurée par un prochain amendement sur les déchets non soumis à la responsabilité élargie du producteur – REP.
 Une telle politique serait doublement vertueuse : sur un marché de produits fortement générateurs de déchets, elle inciterait l’émetteur à diminuer la quantité de déchets produits, d’une part, et favoriserait le recyclage et le réemploi, d’autre part.
 La parole est à Madame Marie-Christine Dalloz, pour soutenir l’amendement numéro 38.
 Le Conseil national des déchets a proposé, à l’unanimité de ses membres, d’appliquer à la gestion des déchets un taux de TVA réduit.
@@ -219,7 +197,6 @@ Peut-être pourrez-vous, monsieur le secrétaire d’État, en fournir un ordre 
 De plus, cet amendement semble, sous réserve d’expertise, ne pas limiter ses dispositions aux seules zones tendues.
 En outre, la superficie des bureaux concernés n’étant pas connue, la mesure n’est pas chiffrée.
 Nous aurons l’occasion, dans les premiers mois de l’année 2015, de faire un point sur l’ensemble des dispositifs publics d’aide au logement.
-Je rappelle que la France consacre environ 2 % de son produit intérieur brut, soit 45 milliards d’euros, à ces différentes aides, qu’il s’agisse de crédits d’impôt, de réductions d’impôt, de taux de TVA réduit ou d’allocations.
 Aussi, je vous proposerai, monsieur le député, de retirer votre amendement.
 A défaut, le Gouvernement émettra un avis défavorable.
 La parole est à Monsieur le président de la commission des finances, de l’économie générale et du contrôle budgétaire.
@@ -258,14 +235,12 @@ Mais, comme Gilles Carrez le notait, ces mesures ne sont pas toujours assez pré
 La situation de la construction de logements neufs, par exemple, est fortement dégradée.
 La commission des finances semble s’être engagée à mener un travail sur cette question.
 Quelle procédure devons-nous suivre pour avancer sur ce dossier ? La parole est à Monsieur le secrétaire d’État.
-Une certaine schizophrénie semble caractériser les positions exprimées dans cet hémicycle depuis plusieurs semaines : alors que certains députés sont prêts à accepter une réglementation ciblée et adaptée, plus proche des territoires et des besoins – cela les honore –, d’autres, sur tous les bancs, demandent une généralisation des dispositifs incitatifs à l’ensemble des territoires.
 Les dispositifs Pinel, les taux réduits de TVA, par exemple pour la rénovation, ou les mesures de zonage font ainsi l’objet de contestations.
 Dans ce débat, il faudrait trancher, en précisant les dispositifs généraux, visant l’ensemble du territoire, et ceux qui s’appliquent de façon très ciblée, pour tenir compte des situations particulières.
 En effet, la situation de l’Île-de-France ou des départements périphériques diffère de celle des départements ruraux ou post-industriels, par exemple.
 Le Gouvernement entend conduire ce travail de révision de ses politiques publiques dans les premiers mois de l’année 2015, tout en restant à la disposition de tous ceux qui veulent s’y associer.
 Il prendra en considération le fait que 2 % du PIB est consacré, sous diverses formes, à l’aide au logement.
 L’efficacité n’est pas toujours avérée.
-Sans tomber dans l’excès – nous ne sommes d’ailleurs pas si mauvais que cela –, il est évident qu’en France, où la population augmente, la question ne se pose pas dans les mêmes termes que dans d’autres pays, souvent cités en exemple, où elle a fortement diminué et n’est pas en phase d’augmentation.
 Tous ces éléments font que je suis parfois un peu mal à l’aise, car certains me demandent de généraliser les dispositifs, quand d’autres veulent les renforcer et les cibler sur certaines zones.
 Moralité, cela entraîne en définitive une inflation de la dépense.
 Monsieur Caresche, retirez-vous l’amendement ? Je le retire.
@@ -276,7 +251,6 @@ Nous avons évoqué deux points lors de la discussion : la conformité de cette 
 En tout état de cause, la commission a souhaité que les modalités de calcul puissent être assouplies pour favoriser le logement intermédiaire, dans un souci de relance du logement.
 Quel est l’avis du Gouvernement ? Je ne sais pas si c’est un marronnier, mais c’est en tout cas un amendement dont on a souvent débattu, sous diverses formes.
 Pour éviter d’être trop long, j’informe le Parlement qu’une instruction fiscale a été publiée le 8 octobre.
-Un certain nombre d’opérateurs – il n’y en a pas énormément sur ce créneau – ont fait savoir au Gouvernement que cette instruction les satisfaisait et permettait de débloquer la plupart des opérations qu’une application trop stricte des dispositions de la loi pouvait bloquer.
 Je pense que les spécialistes du secteur auront compris.
 Il semblerait qu’il n’y ait donc pas lieu de légiférer sur ce sujet et que la situation, grâce à l’instruction du 8 octobre, permette une application satisfaisante de ces dispositifs.
 Avis défavorable, donc.
@@ -285,29 +259,23 @@ Ces amendements ont l’objectif pragmatique et précis de permettre à ces opé
 Vous nous dites, monsieur le secrétaire d’État, qu’une instruction permettra de débloquer les opérations.
 Dont acte.
 Mais un autre exemple me permettra d’appeler votre attention sur la construction de logements en zones tendues, qui est devenue un véritable parcours d’obstacles, si ce n’est un chemin de croix.
-J’ai découvert que, en vertu de la loi Duflot de février 2013, lorsqu’une commune a une carence en logements sociaux, il faut, tenez-vous bien, pour chacune des opérations comprenant au moins douze logements, qu’une fraction des logements sociaux d’au moins un tiers soit exclusivement en PLA, PLAI ou en PLUS.
 On a bloqué la construction ! Résultat, comme les opérations sont impossibles à monter, elles ne se font pas.
 Il faut donc vraiment que vous nous aidiez, monsieur le secrétaire d’État.
 Je partage complètement l’analyse que vous avez faite il y a un instant : on souffre du caractère général des politiques ; toutes les mesures de généralisation en matière de logement n’ont aucun sens.
-Cela ne fonctionne pas, c’est clair ! Si on veut faire des économies sur les 2 points de PIB – 40 milliards d’euros – consacrés au logement et cibler de façon efficace les dispositifs, il faut s’obliger à réfléchir à des mesures spécifiques aux caractéristiques des marchés locaux.
 La parole est à Monsieur Christophe Caresche, pour soutenir l’amendement numéro 414.
 C’est un amendement identique au précédent, mais je le maintiens.
 Quel est l’avis de la commission ? Favorable.
-Quel est l’avis du Gouvernement ? Vous souhaitez modifier les types de logement pris en compte pour l’appréciation des 25 % de logement sociaux – le président Carrez y a fait référence à l’instant –, dont la construction conditionne le bénéfice du taux de 10 %, d’une part pour inclure les logements locatifs sociaux dont la propriété est démembrée, d’autre part pour exclure les logements locatifs intermédiaires cédés à l’Association foncière logement ou à un tiers reprenant ses engagements.
 L’impact ne sera pas énorme, mais cela peut être utile.
 Le Gouvernement est donc favorable à cet amendement.
 J’imagine qu’il ne s’agissait donc pas d’un amendement identique au précédent ! Oui, je me suis trompé en présentant l’amendement ! La parole est à Monsieur Razzy Hammadi, pour soutenir l’amendement numéro 501.
 Cet amendement reprend un amendement défendu lors de l’examen du projet de loi de finances.
 Le secrétaire d’État s’était engagé à travailler avec les parlementaires sur la question de la TVA dont bénéficient les fournisseurs d’accès à internet – les FAI.
-Jusqu’à une période récente, on pouvait distinguer ceux qui fournissaient une offre de service appelée triple play de ceux qui se limitaient à la distribution de services de télévision, qui pouvaient bénéficier d’un taux de TVA réduit à 10 %.
-Aujourd’hui, tous les opérateurs fournissent les mêmes offres triple play, c’est-à-dire le téléphone, la télévision et internet, ce qui crée une sorte de distorsion d’équité fiscale entre la fibre, le câble, et les autres outils de ce type.
 L’objectif du présent amendement est de soumettre toutes les offres au taux de TVA de 20 %.
 Le travail que nous avons conduit avec les opérateurs a montré la difficulté d’augmenter ce taux en une seule fois.
 Aussi, Monsieur Dominique Lefebvre a, me semble-t-il, déposé un sous-amendement visant à n’appliquer le taux de 10 % qu’à la part de la facture payée par les consommateurs correspondant aux services concernés.
 Quel est l’avis de la commission ? Je précise qu’aucun sous-amendement n’a été déposé.
 En présentant cet amendement dans sa rédaction actuelle, et sans le sous-amendement évoqué, vous avez parfaitement exposé, monsieur Hammadi, les différentes problématiques concernant les offres triple play.
 Pour l’heure, les opérateurs participent au financement de la création audiovisuelle, en fonction de la nature des offres de services et des produits vendus.
-Puisqu’il est notamment fait référence à Numericable, j’indique que ce groupe participe à hauteur de 100 euros par abonné au financement de la création audiovisuelle, contre moins de 10 euros par abonné pour des fournisseurs d’accès à internet ne proposant que des offres triple play – la télévision, la téléphonie et internet.
 Cette différence s’explique par le soutien au financement de la création audiovisuelle.
 À ce stade, je n’ai pas vu le sous-amendement proposé.
 La commission a émis un avis défavorable à cet amendement, sans le sous-amendement.
@@ -329,7 +297,6 @@ Je souhaite préciser la position du groupe SRC, dont je suis ici le porte-parol
 Comme le secrétaire d’État au budget l’a indiqué, l’actuel système ne permet pas d’assurer une telle égalité.
 L’amendement numéro 501 de notre collègue Razzy Hammadi ne le permet pas plus, mais pour des raisons inverses.
 Le sous-amendement que j’avais rédigé visait à établir une stricte égalité entre opérateurs, en instaurant des taux de TVA différents en fonction des services qu’ils proposent dans le cadre des offres multiples.
-Compte tenu du problème de procédure que je viens d’évoquer, ce que je propose à mes collègues, dans la mesure où il m’est impossible de procéder par voie de sous-amendement, est d’adopter l’amendement numéro 501 tel quel, avec l’engagement de revenir, effectivement, en seconde lecture, sur les dispositions en question.
 Nous pourrons alors déposer un nouvel amendement, dont la rédaction serait plus satisfaisante.
 Très bien ! La parole est à Monsieur le secrétaire d’État.
 Comme il l’a indiqué auparavant, le Gouvernement n’est pas favorable à l’amendement tel qu’il est rédigé.
@@ -341,9 +308,7 @@ La parole est à Monsieur Christophe Caresche, pour soutenir l’amendement num�
 Il s’agit d’un amendement de simplification.
 Je pense que le Gouvernement y sera sensible.
 Son objet est de simplifier l’assiette des droits d’enregistrement dus lors de la cession de participations dans des personnes morales à prépondérance immobilière.
-Depuis le 1ier janvier 2012, l’assiette de ce droit est limitée, à concurrence de la fraction des titres cédés, à la valeur réelle des biens et droits immobiliers détenus, directement ou indirectement, au travers d’autres personnes morales à prépondérance immobilière, après déduction du seul passif afférent à l’acquisition desdits biens et droits immobiliers, ainsi que la valeur réelle des autres éléments d’actifs bruts.
 Je pense que tout le monde a compris de quoi il s’agissait.
-(Sourires.)  Toutefois, la mise en œuvre de cette règle d’assiette s’est avérée particulièrement complexe, comme les propos que je viens de tenir, dans la mesure où la définition du seul passif afférent à l’acquisition des biens et droits immobiliers soulève, pour les opérateurs, des difficultés techniques.
 Elle aboutit, in fine, à créer une insécurité juridique de nature à bloquer les opérations.
 Dans ces conditions, il est proposé de rétablir les règles d’assiette antérieures au 1ier janvier 2012.
 Quel est l’avis de la commission ? Il est favorable.
@@ -353,15 +318,12 @@ Quel est l’avis du Gouvernement ? Le Gouvernement est favorable à cet amendem
 L’auteur de l’amendement, comme la rapporteure générale, l’ont bien décrit : le dispositif qui avait été adopté ne fonctionne pas.
 Il y a lieu de le simplifier : le Gouvernement est donc favorable à l’amendement de Monsieur Caresche.
 La parole est à Monsieur Christophe Léonard, pour soutenir l’amendement numéro 372.
-Cet amendement a pour objet la mise en conformité avec le droit européen de la législation française, c’est-à-dire de l’article 302 D bis du code général des impôts relatif à l’exonération des droits d’accises sur la vente d’alcool utilisé à des fins médicales en pharmacie.
 Je me réjouis de cette mise en conformité.
 L’amendement que j’ai déposé vise à préciser la situation juridique antérieure à celle-ci.
 La représentation nationale, dans sa grande sagesse, avait déjà eu l’occasion d’en débattre lors de l’examen de la loi de finances rectificative pour 2012.
-Le III de l’article 27 de cette loi dispose que «sous réserve des décisions de justice passées en force de chose jugée, l’alcool pur acquis par les pharmaciens d’officine entre le 31 mars 2002 et le 12 mai 2011, dans la limite d’un contingent annuel fixé par l’administration au titre du g du II de l’article 302 D bis du code général des impôts, est exonéré des droits mentionnés aux articles 302 B et suivants du même code.» Or, depuis deux ans, monsieur le secrétaire d’État, l’administration dont vous assurez la direction n’a pas cru bon de fixer ledit contingent.
 Elle se retourne contre les pharmacies d’officine pour opérer des redressements, qui vont de 25 000 à 150 000 euros.
 La question posée par cet amendement est une question simple.
 C’est celle du respect de la souveraineté nationale comme de la représentation nationale.
-En conclusion, je veux citer l’article 14 de la Déclaration des droits de l’homme et du citoyen de 1789 : «Tous les citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d’en suivre l’emploi, et d’en déterminer la quotité, l’assiette, le recouvrement et la durée.» L’amendement que j’ai l’honneur de soumettre à la représentation nationale vise simplement à faire en sorte que, s’agissant de la période allant du 31 mars 2002 à la date de promulgation de la loi de finances rectificative pour 2014 que nous examinons aujourd’hui, le silence ou le manquement de l’administration n’ait pas pour conséquence que celle-ci se retourne contre les contribuables pharmaciens en leur imposant des redressements relatifs à la vente d’alcool.
 Quel est l’avis de la commission ? La commission a rejeté cet amendement.
 Vous proposez en effet, monsieur Léonard, d’exonérer rétroactivement toutes les ventes d’alcool pur réalisées depuis 2002 en infraction avec la réglementation.
 Or, avant l’entrée en vigueur de l’article 27 de la loi de finances rectificative pour 2012 du 14 mars 2012, notre droit ne prévoyait aucune exonération de taxes, même contingentée, pour ces ventes d’alcool pur.
@@ -378,11 +340,9 @@ Je ne stigmatise personne, mais les officines n’attendent pas pour vivre et fo
 Le Gouvernement ne peut pas laisser subsister ce contentieux alors que nous sommes sûrs de perdre, et s’est engagé à se mettre en conformité avec le droit européen.
 Il ne peut donc être favorable à cet amendement.
 Je le dis un peu à regret, mais un tel précédent serait inconcevable.
-Cela dit, je prends l’engagement de regarder la situation avec attention avec nos services au cas où cela poserait un problème pour l’équilibre de certaines officines, dans le respect du droit, bien entendu, mais en examinant avec ouverture les modalités de recouvrement des indus ou la façon dont on réclame des sommes parfois élevées.
 Vous comprendrez que le Gouvernement ne peut pas valider de façon rétroactive des situations dont l’illégalité était connue des acteurs, même si, la plupart du temps, leur bonne foi est évidente.
 Il est donc, je le regrette, défavorable à cet amendement mais prend l’engagement de regarder toutes les situations qui pourraient justifier une application proportionnée des sanctions prévues par les textes.
 La parole est à Monsieur Christophe Léonard.
-Les pharmaciens concernés seraient hors la loi si j’ose dire, mais la loi de la République, c’est-à-dire la nôtre, imposait à l’administration de fixer un contingent, et c’est donc elle qui, à certains égards, n’a pas respecté la loi puisqu’elle ne l’a pas fait.
 C’est en se fondant sur l’absence de contingent que cette même administration va dans les officines redresser les pharmaciens.
 Il y a là une contradiction.
 Cela dit, j’entends vos arguments, monsieur le secrétaire d’État, et je prends acte de votre réponse.
@@ -392,7 +352,6 @@ Cet amendement tend à supprimer l’exonération de TICPP dont bénéficient ju
 Une telle exonération était justifiée en 1928.
 Dans le contexte économique que nous connaissons aujourd’hui, ce n’est plus le cas.
 Quel est l’avis de la commission ? Défavorable.
-Quand nous proposons des recettes supplémentaires, vous n’en voulez pas ! Quel est l’avis du Gouvernement ? Vous qui êtes prompte à stigmatiser ce gouvernement lorsqu’il propose des recettes supplémentaires, vous en proposez une de 2,8 milliards d’euros, vous battez tous les records.
 Et alors ? C’est très bien, non ? Vous allez largement au-delà de ce que le Gouvernement vous propose depuis quelques mois.
 Tel qu’il est rédigé, votre amendement supprime l’exonération à la fois pour les vols intérieurs et pour les vols internationaux.
 Or la suppression progressive de l’exonération pour la navigation aérienne internationale et intracommunautaire est prohibée par le droit communautaire.
@@ -400,16 +359,13 @@ Votre amendement représente une taxe supplémentaire, un impôt supplémentaire
 Le Gouvernement y est évidemment défavorable.
 La parole est à Madame la rapporteure générale, pour soutenir l’amendement numéro 388.
 Par cet amendement, nous proposons que le taux de la TIC ne soit pas relevé après 2014 pour les PMI énergo-intensives.
-Dans la loi de finances rectificative du 29 décembre 2013, les grandes installations énergo-intensives, c’est-à-dire celles qui ont une consommation énergétique particulièrement forte en raison de la nature de leur activité, sont exemptées des hausses de la taxe intérieure de consommation, la TIC, prévues en 2014, 2015 et 2016 au titre de la contribution climat-énergie.
 Le tarif qui leur sera applicable restera celui qui est en vigueur au 31 décembre 2013.
 Ce n’était pas le cas pour les PMI notamment.
 Cet amendement tend à faire aussi bénéficier de ce gel tarifaire décidé pour les installations énergo-intensives les installations les plus petites, mais uniquement pour les hausses prévues pour 2015 et 2016.
 Cela permettrait d’éviter que certaines PMI, notamment dans la chimie et le papier, ne soient fiscalement désavantagées par rapport aux plus grandes industries ayant le même type d’activité.
-La démarche nous paraît donc économiquement intéressante, sous réserve, bien entendu, que le Gouvernement puisse nous confirmer que la minoration de recettes qui en découlerait par rapport à ce qui était prévu avec les hausses envisagées pour 2015 et 2016 ne dépasserait pas 10 millions d’euros en année pleine.
 Quel est l’avis du Gouvernement ? Les énergo-intensifs doivent, au-delà d’un certain seuil, être soumis au régime des quotas sur les émissions de carbone.
 Au-dessous de ce seuil, ils peuvent s’y astreindre.
 Ils paient alors 7 euros la tonne de carbone et, en contrepartie, bénéficient de réductions de TIC.
-Si les organismes que vous visez par votre amendement souhaitent bénéficier du régime des quotas, ils le peuvent donc, avec une certaine procédure, évidemment, et je ne vois pas pourquoi il faudrait adopter cet amendement, qui, par ailleurs, a un coût de 10 à 20 millions d’euros.
 Le Gouvernement n’y est donc pas favorable.
 Encore une fois, être soumis au régime des quotas est possible, y compris pour les «petits», si j’ose dire.
 Il faut suivre une procédure, je le reconnais, mais cela permet d’avoir une réduction de TIC.
@@ -417,11 +373,9 @@ L’amendement ne me paraît donc pas opportun.
 La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro 236.
 La contribution climat-énergie vise les énergies fossiles, et donc le carbone minéral.
 Pourtant, dans sa version actuelle, elle pèse également sur le carbone organique du biométhane et du biogaz, qui s’inscrit dans un cycle naturel extrêmement court du carbone comme le bois.
-Puisqu’il est aujourd’hui possible de distinguer le biométhane à l’entrée et à la sortie du réseau de gaz naturel grâce au système des garanties d’origine, il n’est pas cohérent que le carbone organique soit soumis à la contribution climat-énergie.
 Cet amendement tend donc à exonérer le biométhane de la TIC, déterminée à partir du seul contenu carbone du gaz naturel.
 Quel est l’avis de la commission ? Défavorable.
 Quel est l’avis du Gouvernement ? C’est un amendement bien connu.
-Le biométhane est déjà exonéré lorsqu’il est identifié dans un réseau mais, lorsqu’il est mélangé à du gaz naturel, on ne peut en connaître la proportion qu’à l’entrée, le mélange étant variable par nature en fonction de la production.
 Je ne vois donc pas comment il est possible de pratiquer une telle exonération.
 Nous avons eu ce débat longuement avec l’un de vos collègues à plusieurs reprises, cet amendement est inapplicable même si on comprend le principe, et je ne pourrais qu’y être défavorable s’il était maintenu.
 La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro 312.
@@ -435,13 +389,10 @@ C’est un amendement de précision.
 La parole est à Monsieur le secrétaire d’État.
 Je vous demande une suspension de séance de quelques minutes, monsieur le président.
 La parole est à Monsieur Frédéric Lefebvre, pour soutenir l’amendement numéro 15.
-Le secrétaire d’État était inquiet de ne pas me voir aujourd’hui, le voilà rassuré ! Notre amendement est, me semble-t-il, parfaitement opportun vu la situation économique de notre pays, avec un pouvoir d’achat en berne, une consommation qui souffre et des taux d’épargne records, puisque, comme vous le savez, le taux d’épargne des ménages français est parmi les plus élevés du monde.
 L’amendement vise, d’une part, à harmoniser le régime fiscal applicable aux contrats d’assurance vie, en supprimant la distinction faite entre les contrats souscrits entre le 1ierjanvier 1983 et le 31 décembre 1989 et les autres.
 Il vise, d’autre part, à raccourcir, en la faisant passer de huit ans à six ans, la durée minimale ouvrant droit au régime fiscal le plus avantageux.
-L’objectif est parfaitement cohérent avec le souhait formulé à plusieurs reprises par le Gouvernement et avec ce que souhaitent également la plupart des économistes : il serait sain qu’une partie de l’épargne de précaution puisse enfin alimenter une consommation qui serait de nature à relancer la croissance.
 Quel est l’avis de la commission ? Défavorable.
 Quel est l’avis du Gouvernement ? Une réforme de l’assurance vie a déjà été conduite et il n’y a pas lieu d’en changer les dispositions : nous souhaitons la stabilité sur ces contrats.
-Des produits nouveaux ont été créés, ils sont en train de se développer, permettant de remettre dans l’économie réelle, comme on dit, ou en tout cas dans le financement des entreprises et de l’économie, un certain nombre de fonds sur l’assurance vie.
 Ce travail a été achevé et il n’y a pas lieu d’y revenir.
 C’est pourquoi le Gouvernement est défavorable à l’amendement.
 La parole est à Madame Marie-Christine Dalloz, pour soutenir l’amendement numéro 97.
@@ -457,8 +408,6 @@ Nous avons déjà débattu de cet amendement, que je défendais, il y a quelques
 Il avait été voté à l’époque ; mais, malheureusement, il avait vu son parcours législatif interrompu au Sénat.
 Il vise à participer au développement et à la création d’emplois dans les pays en voie de développement, plus particulièrement en Afrique.
 L’idée est de développer un outil pour faire bénéficier aux étrangers qui sont sur notre sol d’un produit qui leur permette d’investir ensuite dans leur pays d’origine.
-Afin d’inciter les particuliers et les entreprises à souscrire au capital des sociétés de financement du développement, un avantage fiscal est proposé sur le modèle de ce qui existe actuellement pour les sociétés de financement en capital d’œuvres cinématographiques ou audiovisuelles – les SOFICA.
-La logique voudrait que ce dispositif auquel je crois particulièrement, fondé sur la nécessité d’inciter directement les citoyens à investir dans leur pays d’origine, soit financé par une baisse à due concurrence des aides versées aux différents gouvernements et aux différents États concernés.
 Toutefois, ce n’est pas le gage que j’ai retenu, pour des raisons évidentes, car il relève d’un choix politique et stratégique du Gouvernement.
 Si nous voulons rendre plus efficace l’effet levier de l’argent public français, pour permettre de créer de véritables entreprises et de véritables emplois dans les pays en voie de développement, c’est cette orientation que nous devons retenir.
 Certes, ce sujet arrive de manière abrupte dans le débat, mais je vous demande, monsieur le secrétaire d’État, de pouvoir travailler sur cette question, qui a déjà été longuement débattue.
@@ -473,7 +422,6 @@ Quel est l’avis de la commission ? Vous proposez d’exonérer de PVI les soci
 Celle-ci promeut des sociétés d’habitat coopératif sous forme de sociétés à capital variable qui ne sont pas concernées par les PVI des personnes physiques.
 C’est pour cette raison que la commission a émis un avis défavorable.
 Cependant, on peut continuer à examiner le dispositif afin qu’il porte véritablement sur l’impôt sur les sociétés et non pas sur les PVI que les sociétés d’habitat participatif ne paieront pas.
-Quel est l’avis du Gouvernement ? Il serait prématuré d’adopter un dispositif d’exonération pour des opérations dont les modalités de réalisation demandent encore à être précisées, puisque les décrets permettant à ce type de produits d’être opérationnels ne sont pas encore parus.
 De plus, le Gouvernement confirme que l’exonération des plus-values est de droit pour les résidences principales.
 S’il y avait le moindre doute, ce que je viens de dire doit permettre de clarifier la situation, s’agissant de sociétés fiscalement transparentes.
 Et si vous n’étiez pas complètement rassurée, madame Sas, par ces paroles exprimées au nom du Gouvernement, les instructions découlant de la mise en œuvre de ces outils lèveront toute ambiguïté qui pourrait subsister.
@@ -506,13 +454,8 @@ Si la commission en était d’accord, il serait peut-être bon de retirer les d
 En définitive, que fait-on, madame la rapporteure générale ? L’amendement numéro 405 supprime toutes les conditions existantes et étend la problématique du crowdfunding, qui, à ce stade, n’est pas totalement encadré.
 C’est pourquoi la commission soutient l’amendement numéro 402.
 La parole est à Madame Marie-Christine Dalloz.
-Puis-je suggérer à la majorité de demander une nouvelle suspension de séance afin qu’elle puisse se mettre d’accord ? Ce ne sera guère que la troisième depuis le début de la matinée ! (Exclamations sur les bancs du groupe SRC.) Très bien ! La parole est à Monsieur le secrétaire d’État.
 Vous êtes bien aimable, madame Dalloz, mais ce que vous dites ne correspond pas à la réalité : il n’existe aucun désaccord à l’intérieur de la majorité.
-Il s’agit d’un problème technique, lié aux divergences de rédaction de deux amendements proches, l’un prévoyant de ne supprimer qu’une seule condition, celle des deux salariés, l’autre y ajoutant une deuxième condition, celle des cinquante actionnaires.
-Pour tout vous dire, un autre amendement avait été proposé par une de vos collègues, mais comme il avait le défaut de ne pas être gagé, il a été – avec raison – déclaré irrecevable par le président de la commission des finances.
 Il peut arriver qu’il existe des désaccords politiques au sein de la majorité – comme dans toute majorité –,… De plus en plus ! …mais en l’occurrence, ce n’est pas le cas.
-La procédure parlementaire comporte des aspects extrêmement techniques, qui peuvent susciter des hésitations : un de mes conseillers me dit que c’est l’amendement numéro 402 qui correspond le mieux à ce que nous souhaitons, l’autre que c’est le numéro 405.
-Il y avait 600 amendements déposés sur ce texte : vous comprendrez bien que je ne peux pas avoir en tête le numéro de chacun d’eux ! Libre à vous de considérer qu’il vient de se produire un incident majeur au sein de la majorité, mais, franchement, votre intervention me paraît quelque peu déplacée.
 Très bien ! Le Gouvernement rappelle donc sa position : il est favorable à l’amendement numéro 405, tout en précisant que, pour des raisons rédactionnelles, le texte devra être retravaillé dans le cadre de la navette.
 De son côté, le président de la commission des finances a eu raison de refuser un amendement qui n’était pas gagé.
 La parole est à Monsieur Christophe Caresche.
@@ -523,11 +466,7 @@ C’était quand même simple ! (Sourires.) Ah oui, très simple… La parole es
 Je le retire, monsieur le président.
 Je suis saisi d’un amendement numéro 3 rectifié, qui fait l’objet d’un sous-amendement numéro 580.
 La parole est à Monsieur Frédéric Lefebvre, pour soutenir l’amendement.
-Il s’agit d’une question qui a été fréquemment évoquée dans cet hémicycle, puisque j’ai appelé depuis longtemps l’attention du Gouvernement sur le caractère inéquitable du dispositif fiscal appliqué aux Français domiciliés hors de France, lequel comporte deux taux différents : un taux de 19 % pour les Français vivant dans l’Union européenne et un taux de 33,33 % pour les autres.
 Je précise que des collègues socialistes ont déposé un amendement identique.
-Bien qu’ils ne soient pas présents dans l’hémicycle, je veux les associer à ma démarche ; l’union faisant la force, nous avons en effet tous ensemble défendu l’opinion que le Gouvernement devait revenir sur ce dispositif et appliquer le taux de 19 % à l’ensemble de nos compatriotes vivant à l’étranger, quel que soit leur lieu de résidence.
-Cet amendement fait l’objet d’un sous-amendement, qui sera défendu par ma collègue Dalloz et qui est le fruit de discussions avec le Gouvernement : Matignon ayant souhaité que l’amendement soit sous-amendé, je me suis tourné vers mon groupe, qui a accepté de répondre à cette demande.
-Dans ces conditions, je crois, monsieur le secrétaire d’État, que vous êtes en situation de respecter l’engagement que vous aviez pris à mon endroit – ce dont je vous donne acte –, à plusieurs reprises, notamment lors de l’examen du projet de loi de finances ; vous m’aviez alors donné rendez-vous au projet de loi de finances rectificative : nous y sommes.
 Cet engagement, nous l’avons également évoqué dans le cadre du groupe de travail que vous avez accepté de constituer, à ma demande, il y a plusieurs mois – ce dont je donne également acte.
 Il s’agit donc de l’aboutissement d’un processus, qui fait que nous pouvons maintenant, tous ensemble, acter le fait que l’équité s’applique à tous les Français, où qu’ils vivent.
 La parole est à Madame Marie-Christine Dalloz, pour soutenir le sous-amendement numéro 580.
@@ -543,24 +482,16 @@ L’amendement numéro 512 pourra donc être présenté.
 Dans ces conditions, je souhaiterais une suspension de séance, monsieur le président.
 Je vous propose, monsieur Lefebvre, que le Gouvernement donne son avis avant.
 La parole est à donc Monsieur le secrétaire d’État.
-Il ne faudrait pas que des tests de paternité soient préjudiciables à nos concitoyens… Qui a eu l’initiative de la réunion, qui a eu l’initiative de l’amendement, qui a eu l’initiative du sous-amendement ? Je ne suis pas naïf au point de ne pas voir que tout cela est cousu de fil blanc ! Je suis bien d’accord ! Vous m’avez donné acte, monsieur Lefebvre, qu’à votre demande – quoique ce ne fût pas la seule –, j’ai accepté la création d’un groupe de travail.
 Ce dernier s’est réuni, et j’ai moi-même participé une fois à ses travaux, même si je suis parti rapidement, en raison d’un agenda chargé.
-J’avais pris l’engagement de tirer les leçons d’un jugement de la Cour de justice de l’Union européenne et du fait que le Conseil d’État en avait tenu compte, de manière à supprimer cette source de contentieux – on peut utiliser le terme d’injustice si vous le souhaitez, dans la mesure où la justice a donné tort au Gouvernement et à la France.
 Et raison à l’opposition ! Venons-en maintenant au détail.
 Votre amendement n’est pas satisfaisant, puisqu’il s’applique à la fois aux personnes physiques – ce qui est la volonté du Gouvernement – et aux personnes morales – ce qui n’est pas la volonté du Gouvernement.
 Vous avez demandé à vos collègues de le sous-amender, de façon à ce que les personnes morales soient exclues du nouveau dispositif.
 Le problème – surtout, n’en faites pas un problème politique ! – est que la rédaction proposée conduirait à appliquer systématiquement le taux de 33,1/3 % aux personnes morales ; or, actuellement, un certain nombre d’entre elles y échappent.
-Votre amendement, même sous-amendé, n’est donc pas identique à l’amendement numéro 512, bien qu’il en soit proche : il a l’inconvénient de ne pas prendre en considération quelques cas de figure très spécifiques et de pénaliser les personnes morales qui bénéficient actuellement d’un taux inférieur à 33,1/3 %.
-Il ne s’agit donc pas d’une «entourloupe» – passez-moi le terme – consistant à faire adopter de préférence un amendement présenté par la rapporteure générale ; c’est plutôt que le vôtre, fût-il sous-amendé, n’est pas, faute d’une rédaction suffisamment précise, conforme à la volonté du Gouvernement.
-Je propose donc que, dans un bel élan d’unanimité, nous nous rallions tous – Monsieur Lefebvre, les autres députés des Français de l’étranger, le reste du Parlement et le Gouvernement – à l’amendement numéro 512, qui répond aux exigences requises pour aboutir à une situation dont chacun appréciera l’équité et qui, en outre, permettra à la France de se mettre en conformité avec le jugement rendu par la Cour de justice de l’Union européenne.
-Voilà l’état de la réflexion du Gouvernement, qui, je le crois, a montré, sous l’impulsion d’un certain nombre de parlementaires – dont Monsieur Lefebvre –, son intérêt pour le sujet et sa volonté de se mettre en conformité avec les décisions de justice, au bénéfice de nos compatriotes résidant à l’étranger.
 Le Gouvernement est donc favorable à l’amendement numéro 512, qui sera présenté par la commission – puisque celle-ci l’avait adopté – et défavorable à l’amendement numéro 3 rectifié et au sous-amendement numéro 580, s’ils étaient maintenus.
 La parole est à Monsieur le président de la commission des finances.
 Je voudrais saluer la méthode et me réjouir de son aboutissement.
-Je rappelle que c’est notre collègue Frédéric Lefebvre qui avait pris l’initiative d’aborder le sujet, il y a maintenant un an et demi : du fait d’une décision de justice prévisible, il était en effet nécessaire de bouger.
 Monsieur Lefebvre a donc pris l’initiative de constituer un groupe de travail avec ses collègues parlementaires représentants des Français établis hors de France.
 Plus exactement, il a demandé au Gouvernement d’en accepter la création.
-C’est précisément ce que j’allais dire, monsieur le secrétaire d’État ! Tout cela n’aurait pas pu aboutir – comme l’a d’ailleurs souligné Monsieur Lefebvre – si le Gouvernement n’avait en effet fait preuve d’un esprit constructif, que j’ai moi-même pu constater, puisque j’ai signé l’un des courriers permettant la mise en place du groupe de travail.
 Je salue la manière dont le Gouvernement a travaillé avec ce groupe de députés… Et de sénateurs ! …sur l’initiative de Monsieur Lefebvre.
 Tout ce travail a été très bien mené.
 Je viens de faire des vérifications : je confirme que l’amendement de Monsieur Lefebvre, même sous-amendé, pose un problème technique de rédaction.
@@ -571,11 +502,8 @@ Monsieur le président de la commission a rappelé que nous discutons de ce suje
 Nous y avons travaillé ensemble, députés et sénateurs, de droite comme de gauche.
 Conformément à ce que m’avait dit Monsieur le secrétaire d’État au cours des débats sur le projet de loi de finances, j’ai déposé un amendement.
 Il porte le numéro 3 : vous voyez qu’il a été déposé parmi les tout premiers ! Je veux bien reconnaître l’esprit constructif du Gouvernement, mais je rappelle qu’il a fallu, pour cela, un petit aiguillon.
-Il en faut toujours un ! Soyons honnêtes, monsieur le secrétaire d’État ! Tout à l’heure, nous aborderons un amendement touchant à un autre sujet ; je crains que sur ce point aussi, il faille attendre que l’aiguillon se fasse plus pressant pour que le Gouvernement accepte de revenir à la raison.
 Cet aiguillon, c’est la justice.
-En l’occurrence, monsieur le secrétaire d’État, si vous avez accepté ce que je demande depuis un an et demi, c’est d’abord parce que la justice européenne et le Conseil d’État vous ont donné tort ; il faut le reconnaître.
 Je me réjouis que nous ayons réussi à travailler la main dans la main, députés et sénateurs, de droite comme de gauche, comme je le réclame depuis des mois sur tous les sujets.
-Vous aurez remarqué, tout à l’heure, que j’ai tenu à citer mes collègues députés des Français de l’étranger appartenant au groupe socialiste, alors même qu’ils ne sont pas présents dans l’hémicycle, et avant que Monsieur le secrétaire d’État ou Madame la rapporteure générale ne prennent la parole.
 Je sais combien le travail que nous avons accompli est collectif.
 Je sais bien comment les choses se passent : la grande différence avec beaucoup de mes collègues, c’est que j’ai appartenu à un gouvernement.
 Je connais les méthodes de l’exécutif vis-à-vis du Parlement : quand un amendement est déposé par un député, y compris de la majorité, on préfère ne surtout pas négocier avec lui… Veuillez conclure, monsieur le député.
@@ -589,13 +517,11 @@ Pourquoi cela ? Parce je trouve stupide le petit jeu consistant à faire dépose
 Le président Carrez a fait état d’une difficulté d’ordre technique concernant mon amendement.
 Peu importe, en réalité, que nous adoptions l’amendement numéro 3 rectifié ou l’amendement numéro 512, puisque globalement, ils sont tous deux issus de notre travail collectif.
 Je soutiens donc l’amendement numéro 512, et voterai pour.
-Je jouerai tout à l’heure à nouveau mon rôle d’aiguillon, notamment à l’occasion d’un amendement portant sur la CSG : j’espère qu’à cette occasion, le Gouvernement saura se montrer aussi constructif qu’il l’a été sur cette question… La parole est à Monsieur le président de la commission des finances.
 En vous écoutant, monsieur Lefebvre, me vient la réflexion que vous feriez un excellent membre de la commission des finances.
 C’est une question interne à l’UMP ! L’amendement numéro 3 rectifié et le sous-amendement numéro 580 sont-ils maintenus ? Nous n’allons pas jouer les jusqu’au-boutistes ! L’essentiel, c’est de faire avancer ce dossier.
 Je demande cependant, au nom du groupe UMP, que Monsieur Lefebvre soit inscrit comme cosignataire de l’amendement numéro 512.
 Sous cette condition, nous retirons l’amendement numéro 3 rectifié et le sous-amendement numéro 580.
 L’important est que le principe soit décidé, avec la signature de Frédéric Lefebvre sur l’amendement numéro 512.
-Madame la rapporteure générale, est-il possible d’élargir la liste des cosignataires de l’amendement numéro 512, qui a été repris par la commission des finances ? La liste de ses signataires est élargie à l’ensemble des membres de la commission des finances,… (Sourires.) Justement, je n’en suis pas membre ! Selon Monsieur Carrez, vous mériteriez de l’être ! De toute façon, le compte rendu fait foi, et témoigne de l’implication de Monsieur Lefebvre ! …mais admettons ! Je suis donc saisi d’un amendement numéro 512, rectifié, qui fait l’objet d’un sous-amendement numéro 569 rectifié.
 Je rappelle que l’amendement numéro 512 rectifié a été repris par la commission des finances.
 Il est donc défendu, monsieur le président.
 Il en va donc de même pour le sous-amendement numéro 569 rectifié, je suppose ? Tout à fait.
@@ -609,14 +535,12 @@ Je pense notamment à Christophe-André Frassa, mais aussi à des sénateurs de 
 Monsieur Richard Yung, par exemple ! Ce genre de travail, dans le consensus, est rare dans notre vie politique.
 Nous avons voulu mener ce travail dans ce sens.
 J’y insiste : c’est parce que la droite et la gauche, aidées par la décision de justice ayant donné tort au Gouvernement, ont travaillé ensemble, que nous aboutissons à cette solution.
-C’est une solution d’équité pour nos compatriotes, que nous partageons avec l’ensemble des élus, y compris les conseillers de l’Assemblée des Français de l’étranger et les conseillers consulaires, qui se sont mobilisés partout dans le monde contre cette injustice profonde.
 Voilà ce que je voulais dire au moment où nous allons adopter cet amendement, qui est donc le fruit d’un travail de coalition sur une thématique.
 Je ne parle pas de coalition gouvernementale… Franchement, ça devient lourd ! …mais de coalition pour répondre à un problème donné.
 Il faut savoir travailler ensemble, ce n’est pas absurde ! Ils sont adoptés à l’unanimité ! La parole est à Monsieur Frédéric Lefebvre, pour soutenir l’amendement numéro 8.
 Cet amendement, pour le coup, fera sans doute l’unanimité contre lui.
 (Sourires.) J’ai un peu de mémoire, vous savez, je me rappelle donc comment est né, dans notre pays, le dispositif de l’exit tax.
 Vous n’étiez pas au pouvoir à cette époque, monsieur le secrétaire d’État, tandis que j’étais, pour ma part, au gouvernement.
-Nostalgie, quand tu nous tiens ! La commission des finances, de manière assez unanime, avait adopté le système de l’exit tax, conçu pour empêcher nos compatriotes de réaliser des plus-values dans les pays voisins de la France ; l’objectif était donc d’éviter une forme d’évasion fiscale.
 J’avais, à l’époque, combattu cette idée de l’intérieur du gouvernement, car ce dispositif ne pouvait aboutir qu’à un résultat : faire fuir les start-up qui construisent leur activité et créent des emplois en France.
 Certes, nombre d’entre elles réalisent leurs plus-values à l’étranger, mais c’est parce que la fiscalité française sur les plus-values est beaucoup trop lourde.
 Au total, selon moi, l’exit tax décourage donc en réalité les start-up d’implanter leur activité en France.
@@ -665,18 +589,15 @@ Lorsque l’on sait que l’on va être condamné, il est plus sain, pour notre 
 J’aborderai une nouvelle fois ce sujet tout à l’heure, mais globalement, ces deux amendements montrent à quel point la taxation des plus-values réalisées par les résidents français à l’étranger est confiscatoire et inéquitable.
 Quel est l’avis de la commission sur les amendements numéro 6, 4 et 5 ? La commission a émis un avis défavorable à l’amendement numéro 6.
 L’article 28 de la loi de finances initiale a prévu une exonération sur la plus-value immobilière, plafonnée à 150 000 euros.
-Mais surtout, nous avons introduit une nouvelle disposition qui permet de faire bénéficier de cette exonération, dans un délai de cinq ans suivant l’expatriation, les cédants qui avaient loué leur bien, alors qu’auparavant, il existait une condition de libre disposition de l’habitation.
 Nous avons cherché à prendre en compte la réalité de la situation de nos compatriotes amenés à s’exiler.
 S’il est vrai que nous ne disposons pas de données assez fines sur les 2 millions de non-résidents, notamment sur les raisons qui les ont poussés à s’expatrier, cette amélioration existe bel et bien dans notre droit.
 Sur les amendements numéro 4 et 5, l’avis est également défavorable.
-Quel est l’avis du Gouvernement ? Je n’ai pas très bien compris les explications de Monsieur Lefebvre, qui nous parle d’un amendement auquel il reviendra plus tard, qui aborde la question de la CSG… Lorsque l’on ne veut pas comprendre, on ne comprend pas ! Monsieur Lefebvre, au lieu de défendre ces trois amendements, vous avez parlé d’un amendement ultérieur.
 Vous avez parlé de la CSG, quand ces amendements portaient sur l’imposition de la plus-value.
 Vous avez évoqué un jugement à venir, qui n’a rien à voir avec le contenu de ces amendements ! Vous avez tort de vous énerver.
 Je ne m’énerve pas.
 Nous sommes un certain nombre, sur tous les bancs de cette assemblée, à commencer à trouver votre attitude un peu lourde.
 Beaucoup d’ambition, c’est bien, un peu d’humilité, c’est bien aussi.
 L’un sans l’autre, c’est de la prétention ! Le Gouvernement est défavorable à ces amendements.
-Comme Madame la rapporteure générale l’a parfaitement expliqué, le régime qui a été mis en place est plus favorable que le précédent, dans la mesure où il a étendu les possibilités, créé un abattement de 150 000 euros – ce qui n’est pas rien –, sur une assiette plus large.
 Vous souhaitez le supprimer.
 L’Assemblée pourrait vous rendre un mauvais service en adoptant vos amendements, car vous y perdriez en popularité auprès de vos électeurs.
 Mais là n’est pas mon problème : je tente d’être juste, et la justice commande que ce dispositif, plus favorable, soit maintenu.
@@ -686,7 +607,6 @@ On a compris ! Il s’agit bien du même sujet, monsieur le secrétaire d’Éta
 Vous mettez en place des dispositifs dont je dénonce l’incohérence et le défaut d’équité depuis des mois.
 Je vois bien que cela vous énerve… C’est votre attitude qui m’énerve.
 …parce que, finalement, c’est la justice qui donne raison à la position que je défends.
-Si, invité par Monsieur le président à défendre ces amendements de manière conjointe, j’ai élargi le sujet, c’est qu’il ne servait à rien de répéter dans le détail la défense de l’amendement précédent, mais qu’il fallait plutôt poser les vraies questions : comprendra-t-on qu’il faut traiter de manière équitable nos compatriotes à l’étranger ? Comprendra-t-on qu’il faut respecter la justice et l’équité ? Dans ses conclusions, l’avocate générale ne dit pas autre chose que ce que je répète depuis des mois.
 Vous ne parlez pas de la même chose.
 Vous allez être contraints d’abroger cette mesure – j’y reviendrai tout à l’heure ! Et moi, je n’y reviendrai pas ! C’est pourtant bien sur ce sujet que je vous interrogerai.
 Cela permettra à vos conseillers de se préparer sur la question de la prescription.
@@ -696,7 +616,6 @@ Il est méprisant d’asséner autant de généralités.
 La question de la prescription est importante car elle ne sera pas applicable au 31 décembre de cette année – là est la problème.
 Je veux que nos compatriotes aient une réponse claire.
 Le Gouvernement sait qu’il y aura une condamnation : ne peut-il pas anticiper ? Veuillez conclure.
-Je souhaite savoir si nos compatriotes pourront être remboursés de ce qui leur a été pris de manière indue pendant tous ces mois ? À l’article 28, je suis saisi d’un amendement rédactionnel, numéro 354, de Madame la rapporteure générale.
 Je suis saisi de plusieurs amendements portant article additionnel après l’article 28.
 La parole est à Monsieur Camille de Rocca Serra, pour soutenir l’amendement numéro 149.
 La loi du 22 janvier 2002 relative à la Corse a permis de prolonger temporairement l’exonération des droits de succession, exonération désormais partielle jusqu’en 2017.
@@ -705,14 +624,12 @@ Cette mesure permet d’inciter aux partages et de sortir de ce fléau qu’est 
 Il convient donc de la maintenir jusqu’au 31 décembre 2017, avant que ne s’opère le retour de la Corse au droit commun.
 Quel est l’avis de la commission ? Toutes ces dispositions ont été censurées de manière très explicite par le Conseil constitutionnel.
 Par conséquent, la commission a émis un avis défavorable.
-Quel est l’avis du Gouvernement ? Dans sa décision du 29 décembre 2012, le Conseil constitutionnel a censuré ces dispositions, au motif que le maintien d’un régime dérogatoire applicable aux successions sur les immeubles situés en Corse méconnaît le principe d’égalité devant la loi et les charges publiques.
 Votre amendement, qui vise à proroger le régime dérogatoire, méconnaît la chose jugée et s’expose à une censure très probable du Conseil constitutionnel.
 Le Gouvernement est donc très défavorable à cet amendement.
 La parole est à Monsieur Camille de Rocca Serra.
 Il s’agit non pas des droits de succession, mais des droits de partage, de 2,5 %, qui portent sur les actes authentiques qui permettent de sortir de l’indivision.
 Leur exonération a été prorogée jusqu’au 31 décembre 2014, avant que la Corse n’entre dans un statut nouveau, et rejoigne définitivement, le 1ier janvier 2018, le droit commun.
 La parole est à Monsieur le secrétaire d’État.
-En toute humilité, je me permets de vous signaler que, dans sa décision du 29 décembre 2012, le Conseil constitutionnel évoque explicitement, à l’alinéa 130, l’exonération du droit de 2,5 % sur les actes de partage de succession et les licitations de biens héréditaires.
 Je vous suggère donc de retirer votre amendement.
 La parole est à Monsieur Camille de Rocca Serra.
 Je ne me souvenais plus que la décision du Conseil constitutionnel portait aussi sur l’exonération du droit de partage.
@@ -721,31 +638,24 @@ La parole est à Monsieur Camille de Rocca Serra, pour soutenir l’amendement n
 Sur l’ensemble du territoire national, on recense 343 700 biens non délimités.
 Dépourvus de titres de propriété, ils participent au désordre de la propriété et ne permettent pas aux services fiscaux de procéder de manière optimale au recouvrement de l’impôt auxquels lesdits biens sont soumis.
 Il s’agit par cet amendement d’inciter fiscalement les propriétaires à reconstituer les titres de propriété, ce qui permettra du même coup d’améliorer la perception de l’impôt.
-Ce dispositif est complémentaire à l’amendement numéro 147, qui vise à introduire une exonération de 30 % des droits de mutation à titre gratuit, lors de la première mutation d’un bien qui serait titré pour la première fois entre le 1ieroctobre 2014 et le 31 décembre 2017.
 Quel est l’avis de la commission ? Avis défavorable.
 Une disposition du projet de loi de finances pour 2015 prévoit un abattement de 30 % sur la reconstitution des titres de propriété.
 Quel est l’avis du Gouvernement ? Vous souhaitez, monsieur le député, réduire encore davantage les abattements de droit commun accordés aux héritiers réservataires de biens titrés pour la première fois entre 2014 et 2017.
 Ces biens, répartis sur l’ensemble du territoire national, sont parfois concentrés dans un certain nombre de territoires en France métropolitaine ou en outre-mer, en zone insulaire ou pas.
-Les dispositions adoptées en projet de loi de finances rectificative ou en projet de loi de finances se rapportent à des sujets que l’on travaille depuis de nombreuses années et ont fait l’objet de nombreuses annulations par le Conseil constitutionnel.
 Nous avons réussi à bâtir avec vous, parlementaires, pierre après pierre, un dispositif équilibré qui satisfait les personnes concernées et qu’il serait risqué de fragiliser en l’exposant à de nouvelles annulations par le Conseil constitutionnel.
 Avis clairement défavorable.
 La parole est à Monsieur Camille de Rocca Serra.
 Je me suis bien placé dans le cadre national.
 J’ai bien compris ! Il ne s’agit pas de demander une dérogation particulière car, en effet, ces biens non titrés sont répartis sur l’ensemble du territoire, principalement en outre-mer.
 Par principe, nous nous devons de prendre toutes les mesures nécessaires pour sortir du désordre.
-Or, la reconstitution des titres de propriété est une opération si complexe et longue, comme l’a attesté le groupement d’intérêt public pour la reconstitution des titres de propriété, qu’il nous a paru souhaitable d’en réduire les délais.
-Par ailleurs, madame la rapporteure générale, cet amendement n’est pas tout à fait le même que celui adopté par l’Assemblée nationale en projet de loi de finances pour 2015 et qui est repris en partie par l’amendement numéro 147, sachant que les dispositions votées en projet de loi de finances pour 2015 étaient elles-mêmes la conséquence de mesures proposées par le Gouvernement en loi de finances précédente et retoquées par le Conseil constitutionnel pour des raisons de forme.
 Le Gouvernement a choisi de revenir par un autre moyen sur l’ensemble de ces biens non titrés et non délimités.
 L’amendement numéro 147 reprend donc celui adopté par l’Assemblée nationale en première lecture du projet de loi de finances pour 2015.
-Il le modifie cependant en ce qu’il a prévu que «sauf dispositions contraires, cette exonération est exclusive de l’application au même bien, au titre de la même mutation ou d’une mutation antérieure, de toute autre exonération de droits de mutation à titre gratuit».
 Or, cette disposition pose problème et suscite au moins trois interrogations.
-Comment et dans quelles conditions peut-elle être exclusive de l’application à la transmission du même bien d’autres exonérations des droits de mutation à titre gratuit qui peuvent être plus favorables ? Comment, dans ces conditions, pourrait-elle conserver son caractère incitatif ? Comment, enfin, peut-elle faire référence à une mutation antérieure du même bien alors que celui-ci était dépourvu de titre ? Aussi est-il proposé de rendre l’exonération prévue cumulable avec toute autre exonération de droit de mutation à titre gratuit au titre de la première transmission du même bien, ne serait-ce que pour lui conserver son caractère incitatif.
 Monsieur de Rocca Serra, vous venez donc de soutenir l’amendement numéro 147.
 En effet, monsieur le président.
 Quel est l’avis de la commission ? Avis défavorable.
 Quel est l’avis du Gouvernement ? Je voudrais rassurer Monsieur de Rocca Serra car il n’est pas impossible de choisir le régime le plus favorable.
 Vous proposez de cumuler deux dispositifs, ce qui nous paraît excessif et que j’écarte d’emblée.
-Je vous précise cependant que le caractère exclusif du bénéfice de l’exonération de 30 % actuellement prévu par l’article 6 sexies du projet de loi de finances pour 2015, s’il écarte toute possibilité de cumul de cette mesure avec d’autres exonérations de droits de mutation à titre gratuit, ne fait pas obstacle à l’application alternative d’une autre mesure d’exonération susceptible de bénéficier au même bien pour la même mutation et qui se révélerait plus favorable au redevable.
 S’il ne peut y avoir de cumul, ce qui serait inacceptable, il n’en demeure pas moins que le redevable peut choisir le régime le plus favorable.
 Avis défavorable.
 À l’article 29, je suis saisi de plusieurs amendements.
@@ -753,7 +663,6 @@ L’amendement numéro 358 de Madame la rapporteure générale est rédactionnel
 La parole est à Monsieur Frédéric Lefebvre, pour soutenir l’amendement numéro 46.
 La Commission européenne a mis en demeure notre pays de supprimer le dispositif de représentation fiscale au sein de l’Espace économique européen.
 Il convient donc, non seulement de le faire, mais de traiter de la même façon les Français vivant en dehors de l’Union européenne.
-J’en profite pour présenter l’amendement numéro 13, relatif au même sujet, qui tend à ce que le Gouvernement remette au Parlement un rapport sur le fonctionnement des représentants fiscaux accrédités pour remplir les déclarations de plus-values des Français établis hors de France.
 On nous avait promis que des dispositions seraient prises en ce sens, mais ce n’est toujours pas le cas.
 Ces préoccupations sont partagées par tous les représentants des Français de l’étranger, quelle que soit leur famille politique.
 Quel est l’avis de la commission ? Avis défavorable.
@@ -771,7 +680,6 @@ La France a déjà été condamnée en 2011 pour avoir toléré le régime du r�
 L’obligation de représentation fiscale doit être maintenue, y compris pour les résidents du Liechtenstein car ce pays ne dispose pas d’instrument de coopération administrative.
 J’ai bien noté la remarque de Madame la rapporteure générale sur la nécessité de disposer de données sur les plus-values perçues au titre de ces opérations.
 Nous ferons les efforts nécessaires pour vous donner satisfaction.
-L’obligation de représentation fiscale a un coût, de l’ordre de 0,65 % du prix de vente, qui peut d’ailleurs se retrouver à la charge de l’État car il est déductible, le cas échéant, de l’impôt sur la plus-value.
 Avis défavorable.
 La parole est à Monsieur Frédéric Lefebvre.
 Je précise que le coût de l’obligation de représentation fiscale varie entre 0,5 % et 1 % suivant le type de négociation.
@@ -781,13 +689,11 @@ Je souhaitais simplement que ces dispositions soient étendues à nos compatriot
 C’est aussi en raison du coût que cette mesure peut représenter pour les contribuables ou l’État que je proposais qu’un rapport soit remis au Parlement à ce sujet, afin que nous réfléchissions à des améliorations.
 J’évoquerai de nouveau cette question à l’occasion du projet de loi que Monsieur Macron nous présentera dans quelques semaines.
 Parce que la France a été condamnée, vous prenez des dispositions à l’article 29.
-Pourquoi ne pas en profiter pour les étendre aux Français établis hors de France, sans attendre le prochain jugement de la Cour de justice de l’Union européenne ? Je suis saisi d’un amendement rédactionnel numéro 360 de Madame la rapporteure générale.
 La parole est à Monsieur Christophe Léonard, pour soutenir l’amendement numéro 316.
 J’associerai à mes propos mon collègue Yann Galut, qui ne peut être présent ce matin.
 L’article 29 comporte quatre mesures de mise en conformité avec le droit européen.
 Trois d’entre elles sont nécessaires mais la quatrième me semble prématurée.
 Cet amendement tend par conséquent à ce que ne soit pas supprimée l’obligation de représentation fiscale pour les ventes immobilières réalisées par des résidents de l’Espace économique européen.
-En effet, le représentant fiscal «caution» qu’exige la France pour garantir le paiement sur la plus-value est un mécanisme distinct du représentant fiscal «boîte aux lettres» dont le principe a été condamné par la Cour de justice de l’Union européenne le 5 mai 2011.
 Une chose est certaine : à travers mon amendement, les 400 millions d’euros de recettes attendues sont préservés, ce qui n’est pas négligeable à l’heure où la réduction du déficit en France est surveillée de près par Bruxelles.
 Force est de constater, monsieur le secrétaire d’État, que vos services ont fait preuve d’excès de zèle en rédigeant cet article, d’autant plus qu’il n’est assorti d’aucune étude d’impact.
 Respecter le droit européen ne veut pas dire anticiper sur ce qui n’a pas encore été jugé.
@@ -810,14 +716,11 @@ En effet, le maintien pour les résidents des autres États membres de l’Union
 Je ne souhaite donc pas faire courir à la France un risque de contentieux dont l’issue défavorable serait certaine.
 Enfin, je profite de cette intervention pour vous dire, monsieur Lefebvre, que vous avez parfois des formules qui me heurtent.
 Vous nous dites que la condamnation de la France devient une habitude.
-Ce n’est pas ce que j’ai dit ! Les conséquences financières de plusieurs contentieux que la France a perdus sous certains gouvernements auxquels vous avez appartenu mériteraient – je vous le dis pour la deuxième fois – davantage d’humilité de votre part.
 La parole est à Monsieur Frédéric Lefebvre.
 Il me semble que Monsieur le secrétaire d’État ne m’a pas bien écouté.
 Si, je vous ai parfaitement écouté ! J’ai en effet rappelé que le gouvernement auquel j’appartenais vient hélas d’être désavoué – employons ce terme – par le Conseil constitutionnel.
-Vous vous sentez visé, monsieur le secrétaire d’État, mais je dénonce en fait l’attitude constante de notre administration qui consiste à attendre jusqu’au dernier moment la fin des procédures, en dépit du fait qu’elle sait qu’elle a tort et qu’elle sera désavouée par la justice.
 L’alignement du taux d’imposition des plus-values immobilières des non-résidents de 33 % à 19 % que nous avons évoqué tout à l’heure nous en a fourni une illustration.
 Certes, vous avez accepté la création d’un groupe de travail, ce qui témoigne du caractère constructif de votre démarche.
-Cependant, si vous avez fini par accepter cet amendement, c’est bien parce que la France a été condamnée ! La même chose se reproduira tout à l’heure lorsque nous aborderons la question de la CSG : une fois de plus, vous me répondrez qu’il faut attendre la condamnation, alors même que l’avocate générale près la Cour de justice dit aujourd’hui la même chose que ce que je dis depuis des mois et, surtout, que la jurisprudence de la Cour est constante.
 Le présent article, comme l’a très bien dit Madame la rapporteure générale, a pour seul objet de mettre notre droit en conformité avec le droit européen.
 C’est bien pour cela que Monsieur Léonard vient de défendre un amendement visant à ne pas adopter un dispositif au sujet duquel la France a déjà été condamnée.
 Il n’y a pas d’autre choix que de l’adopter.
@@ -829,9 +732,6 @@ La parole est à Monsieur Christophe Léonard.
 La réponse de Monsieur le secrétaire d’État me laisse quelque peu circonspect car, sauf erreur de ma part, l’amendement que j’ai défendu et celui de Monsieur Lefebvre ne sont pas les mêmes.
 Et comment ! Ils sont même opposés ! En effet.
 Or, Monsieur le secrétaire d’État m’a à peine répondu et s’est plutôt adressé à Monsieur Lefebvre.
-J’insiste donc une nouvelle fois sur le fait qu’à mon sens, le A et le B du I de l’article 29 dans la rédaction du projet de loi de finances rectificative pour 2014 satisfont au jugement rendu par la Cour de justice européenne à l’endroit du Portugal, mais c’est du C qu’il est question.
-Puisque ce texte doit revenir devant notre assemblée, je souhaite que le Gouvernement, avec l’appui de Madame la rapporteure générale, puisse affiner le C du I de cet article, car j’estime qu’il ne sera pas sans conséquences pour les recettes de l’État.
-De ce point de vue, l’amendement numéro 316 que j’ai eu l’honneur de défendre permet un juste compromis entre les demandes de la Commission européenne et la nécessité de garantir l’entrée des recettes publiques, avec la suppression de la représentation fiscale dans les cas prévus aux A et B du I de l’article 29 et le maintien de la garantie de paiement de l’impôt sur les plus-values.
 La parole est à Madame la rapporteure générale, pour soutenir l’amendement numéro 361.
 Il est rédactionnel.
 Je suis saisi d’un amendement numéro 13, que Monsieur Frédéric Lefebvre a déjà défendu.
@@ -841,11 +741,8 @@ Je suis saisi de plusieurs amendements portant article additionnel après l’ar
 La parole est à Monsieur Frédéric Lefebvre, pour soutenir l’amendement numéro 14.
 À ce stade de notre discussion, j’irai assez vite pour présenter cet amendement – même s’il mériterait à lui seul tout un débat, puisqu’il s’agit du pacte de responsabilité.
 Pour moi, l’honneur en politique consiste à voter selon ses convictions sincères.
-C’est d’ailleurs ce que j’ai fait en votant en faveur du plan Valls – je fus alors le seul député du groupe UMP à le faire, parce que j’essaie de mettre mes propos en cohérence avec mes actes.
 Lorsque l’on siège à droite, il ne faut pas hésiter, sur un certain de nombre de sujets, à voter en faveur de dispositifs proposés par la gauche parce qu’on les juge bons.
 J’aimerais – j’essaie de le réclamer – que l’inverse soit aussi vrai.
-Hélas, vos amendements sont moins souvent bons… Il est nécessaire de soutenir l’augmentation du salaire direct de nos compatriotes : sur cette question, je retrouve en quelque sorte les frondeurs du Parti socialiste, et d’autres aussi, comme Monsieur Mario Draghi ou encore la directrice générale du FMI.
-Plusieurs dispositifs très complexes ont été adoptés, et ce n’est pas moi qui parle d’échec à leur sujet, mais le Gouvernement lui-même, qu’il s’agisse du CICE… Dites plutôt le MEDEF… …ou du RSA activité, créé en 2008 sous la majorité à laquelle j’appartenais.
 En bref, nous assistons à l’accumulation de dispositifs extrêmement complexes qui, aujourd’hui, ne sont pas assez efficaces alors même qu’il faut garantir la lisibilité du système et baisser les charges qui pèsent sur les salaires directs.
 C’est tout l’objet de cet amendement dont, parce qu’il ouvre un vaste débat de fond, je me doute qu’il ne sera pas adopté aujourd’hui dans l’hémicycle.
 Je souhaite néanmoins que nous puissions, les uns et les autres, réfléchir ensemble à ce dispositif, qui serait lisible pour les Français et beaucoup plus efficace du point de vue de l’argent public.
@@ -854,29 +751,19 @@ La parole est à Madame Marie-Christine Dalloz, pour soutenir l’amendement num
 Il est défendu.
 La parole est à Madame la rapporteure générale, pour soutenir l’amendement numéro 387.
 Cet amendement a été déposé sur l’initiative de Monsieur Beffara.
-L’article 39 bis A du code général des impôts autorise les sociétés de presse à constituer une provision pour investissement déductible de l’impôt sur les sociétés, le montant de ladite provision étant limité à 30 % du bénéfice de l’exercice concerné pour l’ensemble des publications, et à 60 % pour les quotidiens, ce dernier taux étant même porté à 80 % pour les quotidiens dont le chiffre d’affaires est inférieur à 7,6 millions d’euros.
 Le présent amendement vise à proroger ce dispositif de 2014 à 2017, pour un coût budgétaire de 2 millions d’euros par an.
 Je suis saisi de quatre amendements, numéros 436, 135 deuxième rectification, 491 et 565, pouvant être soumis à une discussion commune.
 La parole est à Monsieur Christophe Léonard, pour soutenir l’amendement numéro 436.
 Cet amendement est à relier aux amendements numéros 485, 499 et 491.
 Leur objectif est de donner davantage de lisibilité aux acteurs économiques en prolongeant la durée du dispositif de bassin d’emploi à redynamiser, le BER.
-L’amendement numéro 436 vise donc à proroger la période d’application du BER jusqu’au 31 décembre 2020, à l’identique de la nouvelle période applicable aux dispositifs des zones d’aide à finalité régionale et des zones d’aide à l’investissement des petites et moyennes entreprises, adoptés par la Commission européenne et – pour mémoire – validés par un décret de juillet 2014.
-Je rappelle d’ailleurs à Monsieur le secrétaire d’État, qui était rapporteur général du budget à l’époque, les termes de la discussion que nous avions eue les 4 et 17 décembre 2013 sur ce dispositif : nous nous étions quittés en étant convenus qu’au terme de la renégociation des aides européennes, nous élargirions le BER à cette même période.
 Voilà donc pour le premier amendement, qui porte sur l’extension de la durée du dispositif.
-Par souci d’efficacité de la gestion des deniers publics, je propose également de concentrer sur la création d’emplois les effets fiscaux et sociaux du BER, mais aussi d’éviter les effets d’aubaine comme les distorsions de concurrence entre les acteurs d’un même territoire.
 C’est pourquoi j’ai souhaité que cet effort de pérennisation s’accompagne d’un élargissement des bénéficiaires aux établissements déjà présents sur le territoire qui souhaitent étendre leur activité et, par conséquent, créer des emplois.
-En effet, le BER peut aujourd’hui produire une distorsion de concurrence, puisqu’une personne qui s’installerait pourrait bénéficier du BER et, ainsi, adopter une politique de prix très compétitive au détriment d’une entreprise déjà installée sur le trottoir d’en face, dont l’implantation antérieure l’empêche de bénéficier du BER bien qu’elle soit susceptible de vouloir investir et de créer des emplois.
-En clair, pour garantir une meilleure lisibilité, je souhaite proroger ce dispositif jusqu’au 31 décembre 2020 comme nous en étions convenus en décembre 2013 dans cet hémicycle, concentrer les effets fiscaux et sociaux du BER sur les emplois à durée indéterminée, notamment les CDI de plus de six mois, et… Il faut conclure, cher collègue.
-…favoriser l’apprentissage, les contrats de génération et les emplois d’avenir, tous dispositifs que nous avons adoptés ici même, de façon à réduire les distorsions de concurrence et à élargir le BER aux entreprises déjà existantes qui souhaitent investir et créer des emplois.
 Par cette présentation commune de mes amendements, monsieur le président, je crois vous avoir fait gagner du temps ! La parole est à Monsieur Jean-Luc Warsmann, pour soutenir l’amendement numéro 135 deuxième rectification.
 Dans la loi de finances rectificative pour 2006, j’avais en effet fait adopter le dispositif des bassins d’emploi à redynamiser.
 De quoi s’agissait-il au juste ? D’offrir un outil de redynamisation aux parties du territoire français qui étaient les plus en difficulté.
 À l’époque, la loi a défini trois critères d’éligibilité des territoires : perte de population, diminution du nombre d’emplois et taux de chômage supérieur de trois points au taux national.
-En vertu de ces critères et en descendant au niveau géographique le plus petit, c’est-à-dire celui des bassins d’emploi, il a été constaté par un arrêté du 20 février 2007 que deux bassins remplissaient ces conditions : celui de Lavelanet dans l’Ariège et le bassin dit de la Vallée de la Meuse, qui couvre environ les trois quarts du département des Ardennes.
 Pour votre information, mes chers collègues, dans le département des Ardennes, où l’on compte environ 59 000 salariés, le dispositif du BER a permis de créer 3 860 emplois salariés dans plus de 900 entreprises.
 C’est donc une bouffée d’oxygène pour ce territoire.
-Le dispositif fonctionne de la manière suivante : une entreprise créée sur le territoire bénéficie d’une exonération d’impôt sur les sociétés, d’une exonération, pendant cinq ans, des cotisations sociales patronales au titre de l’URSSAF correspondant au nombre d’emplois créés, ainsi qu’une exonération de la fiscalité locale à la charge, elle, des collectivités locales.
-C’est un dispositif qui ne coûte pas très cher au budget national puisqu’il concerne non pas les stocks mais uniquement les flux et les créations d’entreprise ; par ailleurs, ce n’est pas de l’assistanat pour ces territoires, puisque les collectivités locales font elles-mêmes un effort.
 Cet amendement, que le président de la commission des finances a accepté de cosigner, a pour objectif d’obtenir une prolongation du dispositif.
 Si j’ai bien compris, la rapporteure générale va nous proposer une prolongation de trois ans.
 Je tiens avant tout, pour ma part, à privilégier la lisibilité.
@@ -889,7 +776,6 @@ Monsieur le secrétaire d’État, madame la rapporteure générale, nous pourri
 Une telle mesure irait, me semble-t-il, dans le sens de l’intérêt général.
 L’amendement numéro 491 a déjà été défendu.
 La parole est à Madame la rapporteure générale, pour soutenir l’amendement numéro 565 et donner l’avis de la commission sur les autres amendements en discussion commune.
-L’amendement numéro 436 de Monsieur Léonard vise à étendre à six ans le dispositif, moyennant des restrictions ; celui de Monsieur Warsmann, le numéro 135 deuxième rectification, propose de l’étendre à cinq ans, mais sans restrictions, et celui de la commission des finances, qui a été adopté, vise à étendre le dispositif à trois ans, ce qui devrait satisfaire un certain nombre des préoccupations qui ont été mentionnées.
 En bref, la commission émet un avis défavorable aux amendements numéros 436, 135 deuxième rectification et 491, et elle est naturellement favorable à l’amendement numéro 565.
 Quel est l’avis du Gouvernement sur ces quatre amendements ? Le Gouvernement est favorable à l’amendement numéro 565 de la commission des finances qui prolonge le dispositif de trois ans et devrait donc recueillir un consensus.
 Qui peut le plus peut le moins : à cet égard, une prorogation de trois ans me semble une durée convenable, de nature à assurer une bonne lisibilité du dispositif.
@@ -897,7 +783,6 @@ Cela étant, je ne suis pas totalement insensible aux arguments de Monsieur Léo
 S’il convient, naturellement, de ne pas jeter le bébé avec l’eau du bain, nous devons veiller tout de même veiller à mettre en place des dispositifs efficaces et bien centrés.
 Nous avons souvent débattu de cette question, notamment à propos des ZFU – j’avoue, d’ailleurs, que je ne suis pas sorti totalement satisfait de celui que nous avons eu mercredi soir.
 Nous devons veiller à ce que les dispositifs que nous créons pour encourager les créations d’emplois soient effectivement appliqués, tout en évitant autant que possible qu’ils produisent des effets d’aubaine.
-Vous qui êtes des parlementaires expérimentés, vous connaissez les difficultés que rencontre le législateur pour créer des dispositifs à la fois simples et de nature à éviter les effets d’aubaine, car si nous voulons corriger les effets d’aubaine, il nous faut rendre les dispositifs plus complexes.
 Je vous livre les états d’âme d’un secrétaire d’État qui, s’ils sont partagés par beaucoup d’entre vous, sont assez mal compris par nos concitoyens.
 J’émets donc un avis défavorable à tous les amendements, excepté le numéro 565, mais je souhaite que les remarques et les suggestions de Monsieur Léonard restent présentes dans nos esprits.
 Vous me reprochez de remettre systématiquement à plus tard l’évolution du dispositif.
@@ -905,7 +790,6 @@ Nous pouvons en parler tranquillement, puisque cette discussion se déroule dans
 J’ai également entendu l’argument de Monsieur Warsmann en faveur de la stabilité.
 Bref, le Gouvernement souhaite que soit adopté l’amendement numéro 565.
 La parole est à Monsieur le président de la commission des finances.
-Je n’ai pas souhaité intervenir avant-hier, monsieur le secrétaire d’État, sur la question des ZFU, mais je partage les préoccupations de Monsieur Léonard et les vôtres, tout en plaidant pour la reconduction du dispositif mis en place en 2006.
 Dès la création des zones franches urbaines, en 1995, l’une des premières a été implantée dans ma circonscription, à Champigny.
 J’avais, à l’époque, appelé l’attention des uns et des autres sur l’impact des exonérations car le dispositif s’appliquait à toutes les entreprises implantées dans la zone.
 Or à Champigny, au beau milieu de la cité déclarée zone franche urbaine, il existe deux pharmacies, qui réalisent naturellement d’importants chiffres d’affaires.
@@ -919,7 +803,6 @@ Lorsque nous avons mis en place le dispositif en 2006, nous avons essayé d’ê
 Tout d’abord, il ne s’applique qu’à des entreprises nouvellement créées.
 Concernant la fiscalité locale, si ma mémoire est bonne, aucune compensation n’a été prévue initialement, la faculté étant laissée à la seule collectivité locale.
 Le dispositif porte sur les cotisations sociales, mais dans une limite légèrement supérieure à un SMIC, et sur l’impôt sur les sociétés.
-En outre, nous avons essayé de le cibler autant que possible ; c’est pourquoi il s’applique seulement dans deux bassins d’emploi, à Lavelanet, en Ariège, et dans les Ardennes, territoires qui avaient subi des pertes énormes de population et se trouvaient en très grande difficulté.
 J’espère que Monsieur Warsmann m’excusera d’avoir signé son amendement mais de me rallier à celui de la commission des finances, qui me paraît un bon compromis eu égard à nos différentes préoccupations.
 La parole est à Monsieur Christophe Léonard.
 L’amendement de la commission des finances me convient mais je ne voudrais pas que l’on dénature mes propos, ou plus exactement que l’on altère le sens de mes amendements.
@@ -927,12 +810,10 @@ Je ne suis pas en compétition avec Jean-Luc Warsmann ; je crois d’ailleurs qu
 Nous sommes tous les deux issus du même territoire, les Ardennes.
 Or le département des Ardennes, ce sont 12 % de chômeurs, 20 % de taux de précarité, 30 % des 18-25 ans sans emploi ni formation et une baisse démographique annuelle de 1 %.
 C’est cette situation qui a motivé la création de ce dispositif.
-Les amendements dont nous débattons, indépendamment de celui qui porte sur la prorogation de la durée du dispositif, ont pour objectif l’enrichissement d’un territoire en créations d’emplois, ce qui est au centre de la politique de tout gouvernement, a fortiori du Gouvernement en place aujourd’hui.
 Favoriser la création d’emplois dans les territoires passe par les contrats d’apprentissage, les contrats de génération, les emplois d’avenir et par la création de CDD de plus de six mois et de CDI.
 Voilà ce qu’est une politique économique efficace dans ce domaine.
 Cette politique est également efficace sur le plan économique, et je me tourne maintenant vers mon collègue des Ardennes.
 Il faut permettre l’élargissement, puisque c’est de cela dont il s’agit, ce qui implique de réduire les critères.
-Pour enrichir un territoire en termes d’emploi, il convient d’élargir le dispositif des BER aux entreprises déjà installées sur le territoire pour éviter la distorsion de concurrence qui se produirait si un concurrent, venu s’installer sur le trottoir d’en face, bénéficiait du dispositif alors qu’elles-mêmes, dont la présence sur le territoire est antérieure, n’en bénéficient pas.
 Je plaide donc pour que nous essayions, à coût constant, d’être efficaces, tant en matière de création d’emplois que sur le plan économique.
 Enfin, nous en sommes à la première lecture de ce projet de loi de finances rectificative, nous pouvons donc envisager de le faire évoluer au cours de la navette.
 Cela me semble d’autant plus important que nous ne nous pencherons plus sur ce dispositif au cours de la législature, puisque nous avons fixé la limite de l’élargissement au 31 décembre 2017.
@@ -951,10 +832,7 @@ Au-delà, la sagesse consiste à privilégier la lisibilité et à nous en tenir
 Les exonérations de charges patronales URSSAF ne sont accordées que s’il y a embauche : pas d’embauche, pas d’exonération.
 Le dispositif est vissé.
 Quant à l’effet d’aubaine dont parlait Gilles Carrez s’agissant du stock d’entreprises présentes dans le bassin, il n’existe pas puisque le dispositif ne s’applique qu’aux flux.
-Cela dit, dans le même état d’esprit constructif qui semble être celui du Gouvernement et de la rapporteure générale, j’accepte de retirer mon amendement pour me rallier à celui de la rapporteure générale, ce qui nous offre une solution autour de laquelle nous pouvons tous nous retrouver.
 Très bien ! Bravo ! La parole est à Monsieur Christophe Léonard.
-Je salue à mon tour l’ouverture d’esprit, tout au moins la capacité de dialoguer de la rapporteure générale du budget et du secrétaire d’État Christian Eckert, avec qui nous avons échangé à plusieurs reprises sur cette question, conformément aux engagements qui avaient été pris dans cet hémicycle en décembre 2013.
-Je retire moi aussi mes amendements pour voter celui de Valérie Rabault, mais je souhaiterais entendre le Gouvernement sur la possibilité pour ses services d’avancer, avant la prochaine lecture, au service de l’emploi et de l’économie de notre pays… C’est bon ! …en particulier dans les Ardennes, dans le sens des préoccupations que j’ai exprimées et dont j’ai cru comprendre qu’elles étaient partagées par Monsieur Eckert.
 Monsieur Léonard, retirez-vous également l’amendement numéro 485 ? N’ayant pas reçu de réponse de la part du Gouvernement, je le maintiens.
 La parole est à Monsieur Christophe Léonard, pour soutenir l’amendement numéro 499.
 Je l’ai défendu tout à l’heure.
