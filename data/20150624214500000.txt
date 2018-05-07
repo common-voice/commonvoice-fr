@@ -1,6 +1,7 @@
 La séance est ouverte.
-L’ordre du jour appelle la discussion, après engagement de la procédure accélérée, du projet de loi, adopté par le Sénat, portant adaptation de la procédure pénale au droit de l’Union européenne (numéros 2341, 2763).
 La parole est à Madame la garde des sceaux, ministre de la justice.
+À cet égard, les instruments déjà transposés dans notre droit interne facilitent, tant sur le plan des enquêtes que sur celui des décisions de justice, la reconnaissance mutuelle des décisions prises dans n’importe quel État membre de l’Union européenne.
+Ainsi, nous avons ensemble créé le mandat d’arrêt européen, établi la reconnaissance mutuelle du gel des biens, facilité l’accès aux casiers judiciaires et rendu possible, par exemple, le transfèrement à un autre État membre de l’exécution des décisions d’incarcération.
 Même en ayant anticipé cette échéance – nous avons en effet commencé à discuter de ce texte il y a presque un an –, nous ne serons donc que légèrement en avance.
 L’une des trois décisions-cadres porte sur la prévention et la compétence des juridictions en cas de procédure pénale dans deux ou plusieurs États membre.
 La décision-cadre prévoit donc une obligation de consultation et d’échange d’informations.
@@ -8,6 +9,7 @@ Cependant, nous pouvons considérer que son ambition est modeste car elle n’a 
 Par conséquent, faute de consensus sur la désignation de l’État membre compétent, aucun dessaisissement n’est possible.
 On suppose que les juridictions seront suffisamment raisonnables pour éviter les procédures parallèles mais aucune garantie n’est apportée.
 Telle a été la logique des discussions ayant conduit à l’adoption de cette décision-cadre.
+Les deux autres décisions-cadres concernent la reconnaissance mutuelle, d’une part, des mesures de contrôle judiciaire, par exemple en alternative d’une détention provisoire, de l’autre, des décisions de probation, c’est-à-dire d’exécution d’une peine en milieu ouvert.
 Enfin, elles visent à mieux réinsérer les personnes condamnées, car nous savons combien l’exécution d’une peine dans un environnement social familier contribue à une meilleure réinsertion sociale.
 J’en viens aux deux directives également transposées par ce texte.
 L’une d’entre elles porte sur l’application, dans n’importe quel État, et donc dans l’État de résidence, d’une décision de protection des victimes.
@@ -22,6 +24,7 @@ Les éléments que l’expérimentation nous a permis de recueillir à l’éche
 Pour les victimes d’infractions particulières telles que les violences conjugales, la généralisation du téléphone «grand danger» permet également ce suivi très personnalisé.
 Nous avons surtout prévu un suivi pluridisciplinaire – les associations de victimes le font très bien – ainsi que des consultations de juristes destinées à apporter les réponses les plus précises possibles aux attentes des victimes.
 Telles sont les principales dispositions du projet de loi en matière de transposition des textes européens.
+Nous en avons profité pour vous proposer de modifier le régime du huis-clos dans les audiences pénales afin de protéger les témoins, notamment en cas d’infractions graves telles que les crimes contre l’humanité, les crimes de guerre, la criminalité ou la délinquance organisées.
 En effet, dans ces procédures très fortement médiatisées, qui frappent directement les consciences et suscitent une vive émotion, les témoins sont souvent fortement exposés.
 Le procès pénal de l’année dernière relatif au génocide au Rwanda en offre d’ailleurs un exemple.
 Or, dans notre procédure pénale, le huis-clos a été pensé d’une part pour assurer la sérénité des débats, et d’autre part pour protéger les parties ; il n’a pas été conçu pour protéger les témoins ou leurs proches.
@@ -29,12 +32,15 @@ Enfin, le Gouvernement a déposé un amendement sur lequel nous reviendrons ult�
 Il tire enseignement d’événements extrêmement douloureux que nous avons vécus il y a quelques mois, à Villefontaine et à Rennes, lorsque des enfants placés sous l’autorité d’enseignants, ont subi des agressions sexuelles.
 Lorsque nous avons eu connaissance de ces événements tragiques, la ministre de l’éducation nationale et moi-même avons immédiatement diligenté une double inspection de nos administrations respectives.
 Nous avons également réuni les recteurs et les procureurs généraux au sein d’un groupe de travail placé sous l’autorité de la direction des affaires criminelles et des grâces.
+L’objectif est de veiller à ce que les administrations de tutelle soient informées à temps, et avec la précision suffisante, pour prendre, dans un premier temps, les mesures conservatoires nécessaires, et dans un second temps, les sanctions qu’appellent une éventuelle décision de justice.
+Nous avons déjà diffusé, auprès de parquets généraux et des parquets, des circulaires visant à leur demander d’effectuer ce travail de transmission, mais il s’est avéré que ces consignes – qui avaient bien entendu un caractère général – ont été inégalement appliquées.
 À y regarder de plus près, il paraissait nécessaire d’introduire des modifications législatives pour donner plus de force juridique à la consigne donnée à l’autorité judiciaire d’informer les administrations.
 Nous vous proposerons donc un amendement tendant à modifier ces dispositions.
 Or des dispositions vous seront proposées, sous forme d’obligations ou de facultés, dont l’application concerne chacune de ces étapes.
 Concernant le champ infractionnel, il est constitué, bien entendu, de toutes les violences sexuelles perpétrées à l’encontre de mineurs, mais aussi d’autres infractions dont ils peuvent être victimes : la liste vous en sera communiquée.
 Les parquets pourront, s’agissant d’autres infractions, apprécier les faits et estimer s’il y a également lieu d’effectuer une transmission.
 Quant aux personnes concernées, il s’agit évidemment de celles qui, dans le cadre de leur profession ou de leurs activités, ont un contact habituel avec des mineurs.
+Nous introduisons – il s’agit d’un travail qui débuté il y a trois mois maintenant – dans le logiciel pénal de l’autorité judiciaire, Cassiopée, une alerte informatique qui permettra d’indiquer, en réduisant les risques d’erreurs humaines, les signalements à effectuer.
 Tel est, pour l’essentiel, le contenu de ce projet de loi, même si d’autres amendements sont destinés à préciser certains termes et à renforcer la qualité de la transposition des décisions-cadres et des directives.
 Je sais, par ailleurs, que l’amendement extrêmement important dont je viens sommairement de présenter le contenu doit encore faire l’objet d’ajustements.
 Nous prendrons tout à l’heure le temps nécessaire pour rédiger le plus précisément possible, et dans le respect des principes fondamentaux de notre droit, les dispositions concernées.
@@ -42,26 +48,32 @@ Nous le ferons dans le souci de protéger les enfants et de prendre toutes les p
 Nous devons en effet aux enfants la première des sécurités : celle dont ils doivent bénéficier lorsque leurs parents nous les confie.
 Une telle circonstance est exceptionnelle, vous en conviendrez, et nous souhaitons tous qu’elle le demeure.
 À ce jour, dans cette affaire, soixante-et-une victimes potentielles se sont fait connaître.
+Il n’est pas utile que je m’attarde sur les faits sur lesquels portent les accusations : imaginer un enfant abusé sexuellement, qui plus est au sein de ce qui ne devrait jamais cesser d’être un sanctuaire, l’école, est tout bonnement insoutenable.
 Le jour même de l’interpellation du directeur d’école de Villefontaine, la décision de le suspendre à titre conservatoire a été prise.
 J’ai moi-même signé, quelques jours plus tard, au début du mois d’avril, sa révocation définitive.
 Sur place, un plan d’accompagnement médico-psychologique – toujours appliqué aujourd’hui – a été déployé pour soutenir les enfants, les familles et les professionnels.
 Les frais de consultation psychologique ont été pris en charge par nos soins.
 Encore aujourd’hui, le rectorat de Grenoble, dont je veux saluer la réactivité exemplaire, accompagne les familles et les professionnels de l’école qui ont tous été terriblement affectés par ces faits.
 Avec la garde des sceaux, nous avons pu constater sur place l’émotion puisque nous sommes allées à la rencontre de ces familles et de ces personnels.
+Bien sûr, et je n’ai de cesse de le répéter, car il le faut, l’ignominie de quelques-uns ne doit pas jeter l’opprobre sur nos personnels en qui nous avons confiance et qui effectuent chaque jour auprès des élèves un travail essentiel.
 Les cas dont nous parlons aujourd’hui sont fort heureusement rares, mais déjà trop nombreux pour ne pas appeler de notre part la plus énergique des réponses.
 C’est l’objet des dispositions qui vous sont proposées.
+Il s’agira de modifier la loi pour imposer la transmission effective d’informations lorsqu’un agent est mis en cause pour des faits graves, mais, au-delà, de faire changer les pratiques et les procédures pour garantir la sécurité des enfants.
 La nécessité de modifier la loi ressort clairement des conclusions provisoires de la mission d’inspection dont nous avons rendu publique la synthèse début mai.
 De simples circulaires, fussent-elles répétées, n’ont pas suffi à imposer ce principe de transmission systématique des informations graves de l’autorité judiciaire à l’employeur de l’agent condamné.
+Il y a eu des dysfonctionnements systémiques et organisationnels et il faut en passer par la loi pour fixer des règles claires et précises, qui peuvent se résumer ainsi : aucun adulte pouvant représenter un danger pour nos enfants ne doit pouvoir exercer auprès d’eux.
+Nous vous proposons donc d’adopter des mesures qui concerneront tous les agents publics et privés en contact avec des mineurs, quel que soit l’employeur, et quel que soit le cadre d’intervention : activités scolaires, périscolaires, activités d’accueil de très jeunes enfants.
 Une partie des amendements que nous avons proposés permettent d’ailleurs de garantir la cohérence du cadre global et de réparer des omissions, parfois du législateur lui-même.
 Par exemple, aucune procédure d’interdiction d’exercice temporaire n’était prévue pour les chefs d’établissement du premier degré de l’enseignement privé condamnés alors qu’il y en avait une pour les autres catégories de personnels.
 Nous profitons de ce texte pour réparer cette omission.
 Ce que nous ont appris les événements de Villefontaine, c’est la nécessité d’avoir une approche globale, qui faisait défaut, dans laquelle les règles sont connues de tous et transparentes.
 Ces mesures sont indispensables pour qu’en aval, les procédures administratives soient engagées, mesures conservatoires, bien sûr, mais aussi procédures disciplinaires.
-Nous avons souhaité également que le contrôle des bulletins numéro 2 des casiers judiciaires puisse intervenir non plus uniquement lors du recrutement des fonctionnaires mais dans le cours de leur carrière.
-À ce jour, le contrôle n’était autorisé que pour le seul fichier judiciaire automatisé des auteurs d’infractions sexuelles ou violentes, le FIJAISV, il ne l’était pas pour les B2.
+Nous avons souhaité également que le contrôle des bulletins numéro deux des casiers judiciaires puisse intervenir non plus uniquement lors du recrutement des fonctionnaires mais dans le cours de leur carrière.
+À ce jour, le contrôle n’était autorisé que pour le seul fichier judiciaire automatisé des auteurs d’infractions sexuelles ou violentes, le FIJAISV, il ne l’était pas pour les Bdeux.
 Pour que les pratiques changent réellement, il faudra faire en sorte que, si vous en acceptez le principe, cette loi soit incarnée et appliquée au plus vite.
-Pour ce qui concerne mon ministère, je présenterai dès le 6 juillet aux recteurs le travail réalisé avec les services de la garde des sceaux, et nous arrêterons les modalités opérationnelles à mettre en place pour la rentrée.
-Ainsi, dès septembre 2015, dans chaque académie, un référent justice placé auprès de chaque recteur sera formé et assermenté pour pouvoir recevoir l’ensemble des informations que les services judiciaires lui transmettront.
+Pour ce qui concerne mon ministère, je présenterai dès le six juillet aux recteurs le travail réalisé avec les services de la garde des sceaux, et nous arrêterons les modalités opérationnelles à mettre en place pour la rentrée.
+Ainsi, dès septembre deux015, dans chaque académie, un référent justice placé auprès de chaque recteur sera formé et assermenté pour pouvoir recevoir l’ensemble des informations que les services judiciaires lui transmettront.
+Parce qu’il faut des procédures efficaces mais aussi connues de tous, nous envisageons, si vous adoptez ce projet de loi, qu’un guide complet sur les procédures d’échanges d’informations soit diffusé à nos services chargés de traiter ces situations.
 J’ai toute confiance dans les équipes de l’éducation nationale car elles ont démontré ces dernières semaines leur réactivité et leur capacité à collaborer avec les services de l’intérieur et de la justice pour protéger les enfants.
 Elles ont su aussi, sur des affaires délicates où, malheureusement, certains ont pu instrumentaliser des accusations graves de nature sexuelle sur mineurs, soutenir les personnels injustement incriminés.
 Ce discernement et cette fermeté conjugués sont indispensables pour que chacun soit protégé.
@@ -104,31 +116,33 @@ Le dispositif vous a été explicité par Madame la ministre.
 Elle vous en a dit toute la nécessité et combien nous sommes responsables de la protection de ces enfants.
 Dans les lieux où l’on dispense l’éducation, qu’elle soit nationale, sportive, religieuse ou laïque, dans tous ces endroits, les enfants doivent être en sécurité et à l’abri de prédateurs.
 Je pense que nos débats nous permettront de trouver cette ligne de crête si difficile à suivre.
+(Applaudissements sur les bancs du groupe socialiste, républicain et citoyen, du groupe écologiste, du groupe de la Gauche démocrate et républicaine et du groupe radical, républicain, démocrate et progressiste.) Dans la discussion générale, la parole est à Monsieur Stéphane Claireaux.
 Monsieur le président, mesdames les ministres, monsieur le rapporteur, mes chers collègues, nous sommes réunis aujourd’hui pour l’examen du projet de loi portant adaptation de la procédure pénale au droit de l’Union européenne.
 Le texte, déjà examiné par nos collègues sénateurs, vise à transposer trois décisions-cadres et deux directives européennes, chacune relative à la procédure pénale à l’échelon européen.
 Il s’inscrit donc tout à fait dans le cadre de la thématique européenne qui est la nôtre aujourd’hui.
 Ce projet de loi contient trois grands objectifs.
-Le premier correspond à la décision-cadre du 30 novembre 2009.
+Le premier correspond à la décision-cadre du trente novembre deux mille neuf.
 Cette décision permettrait d’éviter que des poursuites parallèles soient menées dans des États membres au sujet des mêmes faits et des mêmes personnes.
 Cet objectif s’inscrit dans le respect du principe juridique «non bis in idem » qui veut que nul ne soit jugé deux fois pour les mêmes crimes.
-On retrouve notamment ce principe à l’article 50 de la Charte des droits fondamentaux.
+On retrouve notamment ce principe à l’article cinquante de la Charte des droits fondamentaux.
 Pour prévenir ces doublons juridiques, le projet de loi prévoit dans son article 1ier des mesures d’échange d’informations entre les autorités poursuivantes des différents États.
-Le deuxième objectif correspond aux décisions-cadres du 27 novembre 2008 et du 23 octobre 2009.
+Le deuxième objectif correspond aux décisions-cadres du vingt-sept novembre deux mille huit et du vingt-trois octobre deux mille neuf.
 L’idée est d’appliquer en France et dans les autres pays membres le principe de la reconnaissance mutuelle des décisions de contrôle judiciaire, ainsi que des mesures probatoires prononcées dans un pays donné, mais exécutées dans un autre pays.
-Le projet de loi transpose dans son article 2 la décision-cadre relative aux décisions de contrôle judiciaire et dans son article 3 la décision-cadre relative aux mesures probatoires.
-Enfin, le troisième objectif correspond aux directives du 13 décembre 2011 et du 25 novembre 2013.
+Le projet de loi transpose dans son article deux la décision-cadre relative aux décisions de contrôle judiciaire et dans son article trois la décision-cadre relative aux mesures probatoires.
+Enfin, le troisième objectif correspond aux directives du 1trois décembre deux011 et du deux5 novembre deux01trois.
 Le but recherché ici est de mettre en place une reconnaissance mutuelle des décisions de protection européenne des victimes.
 Cette mesure particulière permettrait aux victimes de certaines violences de pouvoir bénéficier des mesures de protection mises en place par leur pays, y compris lors de leurs déplacements.
 Des normes minimales relatives au respect du droit des victimes en matière de procédure pénale seraient également mises en œuvre.
-Ainsi, l’article 4 bis transpose la directive relative aux décisions de protection européenne et l’article 4 ter transpose la directive établissant des normes minimales concernant les droits, le soutien et la protection des victimes.
-Le taux de cette contribution est fixé à 10 % des sanctions pécuniaires prononcées.
+Ainsi, l’article quatre bis transpose la directive relative aux décisions de protection européenne et l’article quatre ter transpose la directive établissant des normes minimales concernant les droits, le soutien et la protection des victimes.
+Afin d’assurer le financement d’une telle protection des victimes, notre commission des lois a adopté un nouvel article quatre quater qui vise à reprendre la loi du quinze août deux01quatre, en instaurant une amende au profit des associations de victimes.
+Le taux de cette contribution est fixé à dix % des sanctions pécuniaires prononcées.
 Toutefois, au nom du principe de l’individualisation des peines, le juge reste libre de modifier cette amende au cas par cas ou, le cas échéant, d’y déroger.
 Nous sommes conscients de la double nécessité d’adopter ce projet de loi.
 Tout d’abord, il est urgent que nous transposions dans notre droit national l’ensemble des décisions européennes dont il est question ici.
-En effet, les trois décisions-cadres visées auraient dû être respectivement transposées avant le 6 décembre 2011, le 15 juin 2012 et le 1ierdécembre 2012.
-Nous avons également dépassé le délai pour l’une des directives qui aurait dû être transposée au plus tard le 21 décembre 2013.
+En effet, les trois décisions-cadres visées auraient dû être respectivement transposées avant le six décembre deux011, le quinze juin deux01deux et le 1ierdécembre deux01deux.
+Nous avons également dépassé le délai pour l’une des directives qui aurait dû être transposée au plus tard le deux1 décembre deux01trois.
 Je regrette d’autant plus ce retard que, sous le gouvernement actuel, la France a accompli de notables progrès en matière de transposition.
-En effet, nous avons su passer de cinquante-six directives non transposées en 2002 à seulement sept en octobre 2014.
+En effet, nous avons su passer de cinquante-six directives non transposées en deux00deux à seulement sept en octobre deux01quatre.
 Nous sommes satisfaits de constater que plus aucune directive n’est transposée avec un retard de plus de deux ans.
 Pour cette raison, nous nous devons d’adopter ce projet de loi dans les plus brefs délais.
 Toutefois, il n’y a pas que nos engagements internationaux qui me poussent à voter ce texte.
@@ -139,16 +153,16 @@ Dès lors, il est indispensable qu’il y ait de la part des États membres une 
 Il faut que cette compréhension repose sur des valeurs qui sont les nôtres, c’est-à-dire les principes de liberté, de démocratie, de respect des droits de l’homme et des libertés fondamentales, ainsi que de l’État de droit.
 Le projet de loi dont il est question aujourd’hui procède de cet objectif puisque son principal but est le maintien et le développement d’un véritable espace pénal européen.
 Bien sûr, ce ne sont pas les premières démarches visant à créer cet espace pénal européen.
-Par exemple, dès 1998, le principe de reconnaissance mutuelle en matière pénale avait été évoqué lors du Conseil européen de Cardiff.
-Ce principe avait ensuite été repris dans les conclusions du traité de Tampere en 1999.
+Par exemple, dès mille neuf cent quatre-vingt-dix-huit, le principe de reconnaissance mutuelle en matière pénale avait été évoqué lors du Conseil européen de Cardiff.
+Ce principe avait ensuite été repris dans les conclusions du traité de Tampere en mille neuf cent quatre-vingt-dix-neuf.
 Toutefois, c’est pour la première fois lors de la signature du traité de Lisbonne que cet espace pénal européen a réellement vu le jour.
-Ce traité a été ratifié en 2007 et est entré en vigueur en 2009 : il est plus que temps de renforcer les dispositions et dispositifs que cet espace comporte.
+Ce traité a été ratifié en deux007 et est entré en vigueur en deux mille neuf : il est plus que temps de renforcer les dispositions et dispositifs que cet espace comporte.
 De plus, la coopération policière et pénale européenne, qui résultera de l’application des dispositions du projet de loi, assurera à nos concitoyens un maximum de sécurité.
 Je pense que, dans le climat actuel, cela est loin d’être négligeable.
 En ce qui concerne le sort des victimes de violences, le programme de Stockholm invitait les États membres à créer un espace de sûreté pour l’ensemble des citoyens européens.
 Le principe de reconnaissance mutuelle ne doit pas s’appliquer seulement aux peines et aux décisions de sanction, mais également aux mesures de protection et d’aide qui peuvent, et qui doivent être apportées aux victimes.
 Je pense, par exemple, aux femmes victimes de violences.
-L’Union européenne avait, en 2009, enjoint les États membres à renforcer leur législation en matière de lutte contre toutes les violences faites aux femmes et à mener des actions pour s’attaquer à la cause de ces violences.
+L’Union européenne avait, en deux mille neuf, enjoint les États membres à renforcer leur législation en matière de lutte contre toutes les violences faites aux femmes et à mener des actions pour s’attaquer à la cause de ces violences.
 Harmoniser ces législations et ces politiques pour la défense des droits de chacun et pour la protection des victimes est donc l’une des pierres angulaires d’un espace de sécurité et de justice commun.
 Comme vous le savez, les radicaux de gauche ont toujours été profondément attachés à l’Union européenne et à la mise en place de dispositions communes entre les États membres.
 Rappeler notre attachement à l’Europe et à la solidarité entre ses États n’est pas superfétatoire ces temps-ci.
@@ -164,6 +178,7 @@ Le projet de loi organise ainsi la reconnaissance mutuelle des décisions de pro
 En outre, il prévoit des mesures de contrôle judiciaire en tant qu’alternatives à la détention provisoire.
 Depuis le début de son examen au Sénat, le projet de loi a été enrichi de manière significative.
 Nous soutenons les différents articles insérés à l’initiative de notre rapporteur, Dominique Raimbourg, car ils tendent à assurer la mise en œuvre de l’encellulement individuel, à favoriser les alternatives à l’emprisonnement ou encore la personnalisation des peines.
+Nous soutenons également le principe d’une majoration des amendes au profit de l’aide aux victimes – il s’agit de la réécriture d’une disposition de la réforme pénale de deux mille quatorze, censurée par le Conseil constitutionnel en raison de son caractère automatique.
 Enfin, comme tous les groupes de notre Assemblée, nous sommes favorables au renforcement de la protection des enfants et à l’interdiction pour les auteurs d’agression sexuelle d’exercer une profession en lien avec des mineurs.
 Comme cela a été souligné lors de l’examen du texte en commission, chacun reconnaît que la protection des enfants vis-à-vis des prédateurs sexuels a un champ très large, qui va de la détention d’images pédopornographiques jusqu’au viol.
 Les personnels de l’éducation nationale ne sont pas les seuls concernés : toutes les personnes qui, dans l’exercice de leur profession, dans un cadre associatif, sportif ou autre, sont en lien avec des mineurs le sont aussi.
@@ -171,11 +186,12 @@ Toutes ces raisons amèneront les députés du Front de gauche à voter ce proje
 La parole est à Madame Colette Capdevielle.
 Monsieur le président, mesdames les ministres, monsieur le rapporteur, monsieur le président de la commission des lois, chers collègues, ce texte porte «adaptation de la procédure pénale au droit de l’Union européenne».
 Nous avons eu déjà l’occasion d’examiner diverses dispositions d’adaptation.
-Dans le domaine de la justice, je pense à une loi du 5 août 2013, ainsi qu’à une loi du 27 mai 2014 relative à l’information dans le cadre des procédures pénales.
+Dans le domaine de la justice, je pense à une loi du cinq août deux mille treize, ainsi qu’à une loi du vingt-sept mai deux mille quatorze relative à l’information dans le cadre des procédures pénales.
 Il s’agit aujourd’hui de la même démarche.
 Nous avons mis du temps, mais ce n’est pas notre faute si le retard est conséquent.
 Nous nous y attaquons ce soir, et c’est là l’essentiel.
 Pas à pas, nous construisons l’espace pénal européen, mettant à la fois notre législation en conformité avec nos engagements européens tout en écrivant une procédure pénale beaucoup conforme aux standards européens.
+À cet effet, nous transcrivons dans le code de procédure pénale trois décisions-cadres et une directive du treize décembre deux mille onze qui concerne les normes relatives aux conditions applicables aux ressortissants des pays tiers ou aux apatrides pour pouvoir bénéficier d’une protection internationale.
 Cent vingt et un articles du code de procédure seront modifiés au terme du vote de ce projet de loi.
 C’est un texte urgent, nous l’avons tous rappelé.
 Mais je tiens à redire que nous avons rattrapé notre retard en termes de transposition : il est inférieur à six mois en France, soit deux mois de moins que la moyenne dans l’Union européenne.
@@ -188,17 +204,22 @@ C’est le cas, par exemple, du mandat d’arrêt européen : il repose exclusiv
 Sa mise à exécution peut, dans certains cas, avoir des conséquences dramatiques car les autorités judiciaires françaises n’ont aucun pouvoir de contrôle sur son application.
 Mais nous franchissons cette fois-ci un pas important puisque nous étendons à notre législation pénale nationale de véritables principes en matière d’aide judiciaire et de reconnaissance mutuelle des décisions de justice.
 Sur ce dernier point, nous consacrons sur le plan européen le respect du principe Non bis in idem, c’est-à-dire qu’aucun individu ne peut être jugé deux fois pour les mêmes faits.
+Nous consacrons aussi la possibilité d’exécuter les mesures de contrôle judiciaire et les condamnations et décisions probatoires dans un autre pays de l’Union, avec toutes les adaptations nécessaires, notamment pour les mineurs, ainsi que le recours au suivi par la visio-conférence.
 En première lecture, le Sénat a reconnu que ce projet de loi était nécessaire et utile.
 Nous sommes satisfaits que le souci d’une peine personnalisée, c’est-à-dire d’une peine utile, soit aussi partagé au plan européen.
-La commission des lois, réunie le 13 mai 2015, a enrichi le texte.
-Cette disposition complétera utilement l’article 18 de la loi du 17 août 2014 qui a instauré dans notre droit, pour la première fois en France, la justice restaurative, une mesure très directement inspirée du droit canadien.
+La commission des lois, réunie le treize mai deux mille quinze, a enrichi le texte.
+J’évoquerai en premier lieu un amendement très intéressant de Monsieur Paul Molac, qui vise à préciser que la réparation du préjudice pourrait se faire par l’indemnisation mais aussi par tout autre moyen adapté, y compris par une mesure de justice restaurative.
+Cette disposition complétera utilement l’article dix-huit de la loi du dix-sept août deux mille quatorze qui a instauré dans notre droit, pour la première fois en France, la justice restaurative, une mesure très directement inspirée du droit canadien.
 Il s’agit d’une conception nouvelle, une conception participative de la justice associant la personne condamnée et la victime dans un processus social de réparation, voire de conciliation, afin de rétablir la paix sociale.
 Nous avons aussi réintroduit la contribution destinée à améliorer l’aide aux victimes.
 Je salue d’ailleurs le travail de Nathalie Nieson à ce sujet.
 Le dispositif sera donc totalement conforme à la décision du Conseil constitutionnel.
 De même, nous avons limité à deux mois les délais d’appel d’examen des pourvois en cassation, et les délais d’appel à l’encontre des ordonnances de renvoi devant le tribunal correctionnel à trois mois.
+J’ajoute que notre rapporteur a fait voter un amendement visant à faire obligation désormais à la chambre de l’instruction de mentionner l’ensemble des éléments, à charge et à décharge, lorsqu’elle ordonne le renvoi d’une personne devant la cour d’assises.
 Un amendement de ce type participe au rééquilibrage entre l’accusation et la défense.
+Toujours dans l’esprit de la loi d’août deux mille quatorze, notre rapporteur a fait aussi voter un amendement prévoyant que le juge d’application des peines devra prendre en compte la surpopulation carcérale dans ses décisions d’octroi de réduction supplémentaire de peine.
 Nous examinerons avec beaucoup de bienveillance la plupart des amendements déposés par le Gouvernement car ils visent à une meilleure prise en compte des victimes et à une amélioration du suivi des personnes prises en charge par les SPIP.
+S’agissant de l’amendement visant à renforcer le contrôle des antécédents judiciaires des personnes exerçant des activités ou une profession qui implique un contact avec les mineurs, nous partageons à cent % son analyse sur la nécessité bien sûr de mieux les protéger.
 Nous pensons que cette mesure de protection pourrait être étendue aux incapables majeurs.
 Nous devons en tout cas veiller, même si la loi ne peut pas tout, à mieux faire circuler les informations afin d’éviter les drames qui ont été évoqués ce soir par Madame Najat Vallaud-Belkacem.
 Le moment de l’information, vous l’avez dit, madame la garde des sceaux, est important, mais la manière d’informer l’est également pour assurer un suivi effectif.
@@ -209,24 +230,25 @@ Nombre d’entre nous sont bien placés pour savoir quelles peuvent être les li
 Nous devons écrire des textes destinés à durer, dont certains pour protéger les plus fragiles, il ne faut pas jamais l’oublier, et toujours dans le respect des principes fondateurs et cardinaux de notre droit pénal.
 C’est donc dans un état d’esprit à la fois constructif, collaboratif et responsable que le groupe SRC votera ce texte.
 (Applaudissements sur les sur les bancs du groupe socialiste, républicain et citoyen, du groupe écologiste et du groupe de la Gauche démocrate et républicaine.) La parole est à Monsieur Guy Geoffroy.
+À cet égard, qu’il me soit permis d’inviter le Gouvernement et la majorité à aller jusqu’au bout de leur logique car ce texte ne porte pas exclusivement sur l’ «adaptation de la procédure pénale au droit de l’Union européenne».
 Mais vous avez pris l’initiative d’ajouter un certain nombre de dispositions, certaines pouvant paraître intéressantes, d’autres plus surprenantes, voire – passez-moi l’expression – baroques.
 Comme l’a souligné la précédente oratrice, vous utilisez ce véhicule législatif pour traiter des questions importantes, sur lesquelles – en particulier celle concernant la protection de nos enfants – nous sommes bien évidemment d’accord.
 Procédure accélérée signifie en effet une seule lecture devant chaque assemblée.
 Le projet de loi visait initialement à transposer des décisions-cadres et des directives de l’Union européenne.
 En la matière, nous sommes tous d’accord, nous sommes en retard, même si des efforts ont été faits – qui ne datent pas d’hier : une accélération avait été tentée et partiellement réussie au cours de la précédente législature.
 D’autant que la question dont il s’agit est importante, et tient au cœur de nombreux parlementaires, sur tous les bancs.
-La dynamique engagée lors du Conseil européen de Tampere en 1999 répondait à une belle idée : celle d’instituer un espace de liberté, de sécurité et de justice au sein de l’Union européenne.
+La dynamique engagée lors du Conseil européen de Tampere en mille neuf cent quatre-vingt-dix-neuf répondait à une belle idée : celle d’instituer un espace de liberté, de sécurité et de justice au sein de l’Union européenne.
 Comme nombre de mes collègues, j’ai été particulièrement attentif aux premières étapes : la création d’Eurojust, puis les dispositions tendant à rendre plus cohérentes, plus efficaces et mieux structurées les actions menées par Europol et Eurojust.
 Tous ces sujets sont importants.
 Nous avançons : raison de plus pour ne pas prendre du retard.
 Je ne reviendrai pas sur le contenu des trois décisions-cadres qui devaient, initialement, être l’objet exclusif du projet de loi.
-Le Sénat a accepté d’introduire dans le texte des dispositions figurant dans deux autres directives européennes, qui auraient dû être transposées au plus tard fin 2015.
+Le Sénat a accepté d’introduire dans le texte des dispositions figurant dans deux autres directives européennes, qui auraient dû être transposées au plus tard fin deux mille quinze.
 Nous sommes donc dans les clous, et nous ne pouvons que vous en donner acte.
 Jusque-là, tout va bien : il y a un sujet, des textes à transposer, et cela est plutôt bien fait.
 On aurait pu s’arrêter là.
 Mais il y eut aussi quelques bizarreries.
 La première concernait les modifications que vous souhaitiez apporter au code de l’entrée et du séjour des étrangers et du droit d’asile.
-Que cela venait-il faire dans ce texte ? Il s’agissait d’une directive communautaire qui aurait dû être transposée au mois de décembre 2013.
+Que cela venait-il faire dans ce texte ? Il s’agissait d’une directive communautaire qui aurait dû être transposée au mois de décembre deux mille treize.
 La commission des lois s’est montrée fort sage – et j’en remercie son président et le rapporteur –, puisqu’elle a opportunément estimé qu’il fallait supprimer ces dispositions, qui n’avaient pas leur place dans le texte.
 Et puis, il y a ce que vous avez fait au Sénat, et qui n’était pas anodin.
 Vous avez en effet voulu introduire deux dispositions par voie d’amendements – lesquels, fort heureusement, n’ont pas été adoptés.
@@ -237,18 +259,21 @@ Nous sommes clairement en désaccord sur ce point ; vous l’assumez, et nous au
 Il est regrettable que ce véhicule législatif serve de cheval de Troie pour introduire de telles dispositions.
 Le présent texte ne posait pas de difficulté particulière dans sa version initiale, mais cela a changé au fur et à mesure des ajouts que vous avez faits.
 Pour conclure – il est dommage que le président de la commission des lois ne soit pas là pour l’entendre, mais le vice-président et rapporteur le lui transmettra probablement –,… Bien sûr.
+…il convient que nous prenions garde à ne pas recourir trop fréquemment à de tels détournements de procédure : accumulation de dispositions n’ayant pas grand-chose à voir avec le texte initial, utilisation de la procédure accélérée dans des conditions surprenantes.
 Voilà qui pose problème ! Et ce serait la même chose si la première lecture avait eu lieu à l’Assemblée.
 Nous regrettons donc ce qui s’est passé et les ajouts auxquels vous avez procédé.
 Nous restons toutefois à l’écoute et attendons de connaître la position du Gouvernement sur les amendements que nous avons déposés ; l’un d’entre eux a d’ailleurs eu l’heur de plaire au rapporteur.
 Nous nous prononcerons donc à la fin de l’examen du texte, avec l’espoir que nos alertes et nos souhaits n’auront pas été ignorés.
 (Applaudissements sur les bancs du groupe Les Républicains.) La parole est à Monsieur Yannick Favennec.
 Monsieur le président, mesdames les ministres, monsieur le rapporteur, mes chers collègues, nous sommes invités, pour la troisième fois au cours de cette législature, à examiner un projet de loi visant à transposer des textes européens dans notre législation pénale.
+Comme l’a indiqué notre collègue sénateur et rapporteur François Zocchetto, on ne peut que regretter l’inscription tardive de ce texte à l’ordre du jour, alors même qu’il avait été déposé au Sénat dès le mois d’avril deux mille quatorze.
 Cette situation nous oblige, une fois encore, à examiner un projet de loi de transposition dans une certaine précipitation.
 Nous sommes en effet sous la menace d’actions en manquement engagées devant la Cour de justice de l’Union européenne par la Commission européenne.
-Ces textes européens auraient dû être transposés depuis longtemps dans notre droit, avant 2011 pour certains, avant 2012 pour d’autres, et avant décembre 2013 s’agissant de la directive.
+Ces textes européens auraient dû être transposés depuis longtemps dans notre droit, avant deux mille onze pour certains, avant deux mille douze pour d’autres, et avant décembre deux mille treize s’agissant de la directive.
 Souvenons-nous qu’il y a un an, lors de l’examen du projet de loi relatif au droit à l’information dans le cadre des procédures pénales, cette même urgence nous avait contraints à légiférer dans la précipitation.
 Malgré une amélioration dans la transposition des textes européens, le nombre de procédures d’infractions qui touchent la France demeure élevé.
 En la matière, des progrès sont encore à faire.
+Quoi qu’il en soit, en transposant en droit interne trois décisions-cadres et une directive, le présent projet de loi constitue une étape indispensable si l’on veut construire un véritable espace européen et mettre notre législation pénale en conformité avec nos engagements européens.
 En faisant en sorte que les mêmes règles de procédure s’appliquent aux nationaux des différents États de l’Union, il contribuera à construire un espace juridique pénal européen et donnera une consistance à la construction européenne.
 Ces objectifs sont tout à fait louables.
 Cependant, l’enjeu d’un tel texte est aussi de procéder à une transposition suffisamment fidèle au droit européen, tout en l’adaptant à notre droit national et sans céder à la tentation de la «surtransposition».
@@ -259,14 +284,14 @@ Une telle disposition paraît nécessaire car il n’existe pas, au sein de l’
 Certaines affaires ont ainsi révélé qu’il pouvait y avoir des confusions lorsque deux juridictions dans deux pays s’intéressaient au même dossier.
 Il s’agit donc d’apporter une réponse, à l’échelle européenne, à une question qui est résolue, dans notre système judiciaire national, par le mécanisme du dessaisissement d’un juge au profit d’un autre.
 Le ressort de la procédure proposée est l’échange d’informations, dont on espère qu’il conduira l’un des magistrats enquêteurs à suspendre ses investigations dans l’attente des conclusions de son homologue européen.
-Les articles 2 et 3 renforcent la coordination entre les magistrats des différents États membres de l’Union.
+Les articles deux et trois renforcent la coordination entre les magistrats des différents États membres de l’Union.
 Ils étendent ainsi le champ des décisions pénales susceptibles d’être exécutées dans un autre État que celui qui les a initialement prononcées.
-Le Gouvernement a fait adopter au Sénat deux articles supplémentaires, les articles 4 bis et 4 ter, afin de procéder à la transposition de deux autres directives dont le délai de transposition arrivait à échéance en 2015.
+Le Gouvernement a fait adopter au Sénat deux articles supplémentaires, les articles quatre bis et quatre ter, afin de procéder à la transposition de deux autres directives dont le délai de transposition arrivait à échéance en deux01cinq.
 La première définit la procédure de reconnaissance, au sein de l’Union européenne, de la décision de protection européenne dont peut bénéficier une victime.
 La seconde a pour objet d’établir des normes minimales, dans le droit de chaque État membre, pour la protection des victimes d’infractions pénales.
 Ajouter ainsi deux dispositions supplémentaires nous semble, sur la forme, contestable ; toutefois, il est vrai qu’il s’agit d’améliorer le droit des victimes.
-Le Sénat a également introduit les articles 5 bis et 5 ter afin de garantir une sécurité maximale aux procédures judiciaires en cours.
-En effet, il transposait la directive du 13 décembre 2011 sur l’asile.
+Le Sénat a également introduit les articles cinq bis et cinq ter afin de garantir une sécurité maximale aux procédures judiciaires en cours.
+En effet, il transposait la directive du 1trois décembre deux mille onze sur l’asile.
 Notre commission des lois a opportunément supprimé cet article dont les dispositions figurent désormais dans le projet de loi relatif à la réforme de l’asile, en cours d’examen.
 Enfin, pas moins de douze nouveaux articles ont été introduits en commission des lois, à l’initiative de Monsieur le rapporteur.
 Monsieur le rapporteur, vous avez d’ailleurs vous-même reconnu en commission utiliser ce véhicule législatif pour introduire des réformes qui dépassent de loin la simple transposition des directives qui sont l’objet de nos débats d’aujourd’hui.
@@ -280,32 +305,38 @@ La deuxième vise à permettre d’exécuter une alternative à la détention pr
 La troisième a pour objectif de permettre l’exécution d’une alternative à la prison dans un pays tiers.
 Ces directives permettront ainsi à un Français d’être sous bracelet électronique sur notre territoire, alors qu’il a été condamné dans un autre pays.
 Au Sénat, en commission des lois, ont également été introduites diverses dispositions pour corriger des erreurs dans notre droit.
-Ainsi, l’article 5 bis modifie les règles de garde à vue pour l’escroquerie en bande organisée et le travail dissimulé, suite à une censure du Conseil constitutionnel.
+Ainsi, l’article cinq bis modifie les règles de garde à vue pour l’escroquerie en bande organisée et le travail dissimulé, suite à une censure du Conseil constitutionnel.
+D’autres améliorations concernent la gestion des scellés, les délais d’examen des appels et pourvois en cassation et le fait que la chambre de l’instruction devra mentionner les éléments à charge et à décharge lors de la mise en accusation.
 La correction de ces erreurs, si elle est indispensable, doit nous interroger sur la rapidité avec laquelle nous légiférons.
 Il semble illusoire de faire la loi à la fois vite et bien, d’accumuler des normes tout en voulant un droit plus simple.
-Nous nous félicitons de l’adoption au Sénat de l’article 4 bis, lui aussi fruit de la transposition d’une directive européenne, et qui permettra une meilleure reconnaissance de la protection des victimes.
-(Sourires.) C’est vraiment un sujet que vous servez à toutes les sauces ! Il faut se féliciter de l’action du Gouvernement qui, depuis 2012, a une action volontariste en faveur des victimes.
+Nous nous félicitons de l’adoption au Sénat de l’article quatre bis, lui aussi fruit de la transposition d’une directive européenne, et qui permettra une meilleure reconnaissance de la protection des victimes.
+De même, l’article quatre ter transpose une directive sur le droit des victimes, ce qu’il faut ici saluer, même si, les nouveaux droits accordés sont limités, la France étant souvent en avance sur la majorité des pays européens dans le domaine.
+Ce n’est pas toujours le cas, mais il semble que nous rattrapions certains retards, n’est-ce pas, monsieur le président de la commission des lois ? Nous pourrions même nous mettre aux standards européens pour ce qui concerne les langues régionales, pardonnez-moi cet aparté.
+(Sourires.) C’est vraiment un sujet que vous servez à toutes les sauces ! Il faut se féliciter de l’action du Gouvernement qui, depuis deux mille douze, a une action volontariste en faveur des victimes.
 En témoigne par exemple la centaine de bureaux d’aide ouverts aux victimes.
-En témoigne également l’augmentation régulière du budget de l’aide aux victimes depuis trois ans, alors qu’il avait souffert une baisse de 7,2 % entre 2009 et 2012.
-La réforme pénale de 2014 a également permis une reconnaissance de la justice restaurative, qui permet une meilleure satisfaction des victimes.
+En témoigne également l’augmentation régulière du budget de l’aide aux victimes depuis trois ans, alors qu’il avait souffert une baisse de sept,deux % entre deux00neuf et deux mille douze.
+La réforme pénale de deux014 a également permis une reconnaissance de la justice restaurative, qui permet une meilleure satisfaction des victimes.
 De son côté, notre commission a adopté une suramende pour garantir le financement des associations d’aide aux victimes.
 Dans la continuité de cette politique, je présenterai des amendements pour étendre encore le droit des victimes.
-Les amendements numéros 23 et 24 visent ainsi à permettre la domiciliation d’une personne déposant plainte chez son avocat, un tiers ou une association.
+Les amendements numéros deux3 et deux4 visent ainsi à permettre la domiciliation d’une personne déposant plainte chez son avocat, un tiers ou une association.
 On sait en effet que certaines personnes hésitent à déposer plainte de peur de révéler leur adresse à la personne mise en cause.
 Des dispositifs existaient, mais ne couvraient pas toutes les situations.
 Nous répondons ainsi à une revendication légitime.
+Nous regrettons toutefois que le président de la commission des finances ait jugé irrecevable l’amendement permettant à une victime, dans le cas où le condamné demeurerait introuvable, de saisir le Fonds de garantie des victimes des actes de terrorisme et d’autres infractions.
 D’autres dispositions visent, dans le droit fil de la réforme pénale, à favoriser l’aménagement des peines.
 Nous ne pouvons à cet égard que saluer l’action du rapporteur pour lever les verrous absurdes qui limitaient un tel aménagement.
-Ainsi l’article 5 ter améliore la contrainte pénale sur un détail procédural.
+Ainsi l’article cinq ter améliore la contrainte pénale sur un détail procédural.
 Nous présenterons deux autres amendements visant à favoriser le prononcé de cette nouvelle peine.
+Nous souhaiterions également que la durée d’exécution de la contrainte pénale soit suspendue pendant la durée d’incarcération du condamné, comme c’est le cas pour la peine de travail d’intérêt général ou les sursis avec mise à l’épreuve.
 Sur la question des aménagements, nous aimerions que soit levée l’interdiction de prononcer, selon les cas, un second ou un troisième sursis de mise à l’épreuve.
 Il s’agit de conforter le rôle du juge et de garantir l’individualisation des peines en supprimant ce caractère automatique.
 Enfin, j’évoquerai la question de l’amendement du rapporteur qui, en fin de texte, vient corriger les lois de financement public des partis politiques.
-Toutefois, suite à une mauvaise réécriture de l’article 11-5 de la loi de 1988, le financement illégal des partis n’est plus pénalisé.
+Toutefois, suite à une mauvaise réécriture de l’article 11-cinq de la loi de mille neuf cent quatre-vingt-huit, le financement illégal des partis n’est plus pénalisé.
 J’ai déjà souligné combien les conditions d’élaboration de la loi rendent de telles erreurs inévitables.
 Cette erreur regrettable a permis au Front national d’échapper à une mise en examen pour financement illégal, malgré des moyens de financement qui relèvent davantage de l’escroquerie en bande organisée que du financement de la vie démocratique.
 Ainsi Jeanne, le microparti de Marine Le Pen, est-il plus riche que le Front national.
 Ce micro-parti a imposé aux candidats FN-Rassemblement bleu Marine d’emprunter de l’argent à des taux prohibitifs, tout en leur fournissant des prestations parfois fantaisistes via une société amie, Riwal.
+Aux dernières municipales à Lille, le candidat FN a acheté deux sites Internet, l’un à un prestataire du Nord pour huit deuxcinq0 euros, l’autre à Jeanne pour neuf 000 euros, dont personne n’a trouvé la trace, en dépit des sommes conséquentes dépenser.
 J’espère que la justice pourra résoudre ce mystère.
 Cette affaire, tout comme l’affaire Bygmalion, a révélé des failles importantes dans notre droit, qui vont bien au-delà du simple bug législatif que nous devons bien sûr corriger.
 Le secret professionnel des commissaires aux comptes ne doit ainsi pas pouvoir être opposé à la Commission nationale des comptes de campagne et des financements politiques.
@@ -331,16 +362,16 @@ L’intégration de ces directives permettra ainsi d’éviter qu’une personne
 Elle permettra également d’appliquer le principe de reconnaissance mutuelle des décisions de justice.
 Le projet de loi répond aussi à une autre préoccupation majeure – je veux parler des deux directives relatives au droit, au soutien et à la protection des victimes.
 Madame la garde des sceaux, vous le savez, c’est un sujet sur lequel je me suis particulièrement investie depuis le début de mon mandat.
-Je vous ai d’ailleurs rendu en juillet 2013 un rapport sur le financement des associations d’aide aux victimes.
+Je vous ai d’ailleurs rendu en juillet deux mille treize un rapport sur le financement des associations d’aide aux victimes.
 Je peux aussi témoigner de votre engagement sur ce sujet.
 En effet, vous n’avez cessé d’améliorer la politique d’aide aux victimes depuis que vous êtes ministre de la justice.
 Cet effort financier arrive après plusieurs années consécutives de diminution budgétaire décidée par le gouvernement alors de droite au détriment des victimes.
 C’est vrai.
-C’est pourquoi, le réseau INAVEM – Institut national d’aide aux victimes et de médiation – qui comprend 132 associations et touche plus de 300 000 victimes par an, reste dans une situation financière précaire.
+C’est pourquoi, le réseau INAVEM – Institut national d’aide aux victimes et de médiation – qui comprend cent trente-deux associations et touche plus de trois cents 000 victimes par an, reste dans une situation financière précaire.
 C’est avec cette préoccupation que l’an dernier, dans le cadre du projet de loi relatif à l’individualisation des peines, j’avais déposé un amendement destiné à pérenniser le financement de la politique d’aide aux victimes.
 J’avais alors proposé une «contribution victimes» pour les amendes pénales, douanières et les sanctions pécuniaires.
 Cette disposition avait été votée à l’unanimité.
-Cependant, le 7 août dernier, le Conseil constitutionnel l’a censurée, considérant qu’elle était contraire au principe d’individualisation des peines.
+Cependant, le sept août dernier, le Conseil constitutionnel l’a censurée, considérant qu’elle était contraire au principe d’individualisation des peines.
 Je vous l’avoue, ce fut une très mauvaise nouvelle pour ceux qui fondaient beaucoup d’espoir dans l’utilisation de cette manne financière.
 C’est pour cette raison que j’ai souhaité, avec mes collègues, présenter un nouvel amendement qui garde le principe de la «contribution victimes», mais qui prend en compte l’individualisation des peines.
 Ce dernier laisse la possibilité au juge de moduler le montant de la suramende en fonction des circonstances de l’infraction, de la personnalité de son auteur ainsi que de sa situation matérielle, familiale et sociale.
@@ -356,11 +387,11 @@ Je peux vous assurer que cette nouvelle disposition est attendue avec grande imp
 (Applaudissements sur les bancs du groupe socialiste, républicain et citoyen.) La parole est à Madame Cécile Untermaier.
 Monsieur le président, mesdames les ministres, mes chers collègues, nous examinons ce soir le troisième texte soumis aux parlementaires, dans le cadre de la présente législature, en vue d’adapter la procédure pénale au droit de l’Union européenne.
 Le premier, dont Madame Karamanli était rapporteure au nom de cette même commission des lois, portait diverses dispositions d’adaptation dans le domaine de la justice.
-Le deuxième transposait une directive du Parlement et du Conseil du 22 mai 2012, relative au droit de l’information dans le cadre des procédures pénales.
+Le deuxième transposait une directive du Parlement et du Conseil du vingt-deux mai deux mille douze, relative au droit de l’information dans le cadre des procédures pénales.
 Le présent projet de loi s’inscrit dans cette démarche indispensable tendant à construire un véritable espace pénal européen.
 Je salue l’important et fastidieux travail de transposition des trois décisions-cadres mené, au service de ce projet de loi, par le rapporteur Dominique Raimbourg, Je salue aussi mes collègues Jean-Yves Le Bouillonnec et Colette Capdevielle.
 Dans le même esprit, je citerai également Monsieur Guy Geoffroy.
-Ces textes auraient dû être transposés depuis de nombreuses années et avant les dates ultimes de décembre 2011, juin 2012 et décembre 2013.
+Ces textes auraient dû être transposés depuis de nombreuses années et avant les dates ultimes de décembre deux mille onze, juin deux mille douze et décembre deux mille treize.
 Il s’agit donc d’une action législative urgente, afin de satisfaire à l’obligation faite à la France de respecter ses engagements et d’éviter une procédure d’infraction coûteuse qu’engagerait la Commission européenne.
 La procédure pénale est ainsi révisée régulièrement, au rythme des transpositions des directives.
 Il s’agit de la construction de l’Europe pénale que facilite le traité de Lisbonne.
@@ -372,8 +403,8 @@ Je ne reviendrai pas sur les dispositions du texte, abondamment citées par les 
 La présente séance nous permettra de nous exprimer sur ce projet de texte.
 Des protocoles à revisiter et une déontologie à promouvoir, afin que la communauté concernée soit en mesure d’apporter une réponse collective, cohérente et concrète, sont autant d’éléments qui ne doivent pas être négligés.
 Sans eux, cette loi résonnera dans le vide.
-En 1979, le doyen Carbonnier s’exprimait ainsi : «À peine apercevons-nous le mal que nous exigeons le remède.
-Qu’un scandale éclate, qu’un accident survienne, la faute en est aux lacunes de la législation.» En 2012, nous avons décidé de ne pas soumettre le temps législatif au temps médiatique.
+En mille neuf cent soixante-dix-neuf, le doyen Carbonnier s’exprimait ainsi : «À peine apercevons-nous le mal que nous exigeons le remède.
+Qu’un scandale éclate, qu’un accident survienne, la faute en est aux lacunes de la législation.» En deux mille douze, nous avons décidé de ne pas soumettre le temps législatif au temps médiatique.
 Nous le faisons dans une approche globale, après un diagnostic de défaillances anciennes et récurrentes.
 Pour conclure, je considère que ce projet de loi comporte des avancées indéniables, en particulier, bien sûr, celles qui ont fait l’objet d’une concertation avec les États membres de l’Union européenne.
 En conséquence, je voterai ce texte et vous invite à faire de même.
@@ -383,7 +414,7 @@ Monsieur le président, je demande une suspension de séance de dix minutes.
 La séance est suspendue.
 La séance est reprise.
 J’appelle maintenant, dans le texte de la commission, les articles du projet de loi.
-La parole est à Monsieur Stéphane Claireaux, pour soutenir l’amendement numéro 29 rectifié, visant à insérer un article additionnel après l’article 3.
+La parole est à Monsieur Stéphane Claireaux, pour soutenir l’amendement numéro vingt-neuf rectifié, visant à insérer un article additionnel après l’article trois.
 Il convient ainsi de supprimer le régime dérogatoire au droit commun, instauré il y a quelques années pour pallier l’absence de conseiller.
 Cela lèvera un certain nombre de difficultés organisationnelles et permettra au service pénitentiaire d’insertion et de probation – SPIP – de Saint-Pierre-et-Miquelon de fonctionner – au moins sur le plan législatif – selon le droit commun.
 La problématique législative étant résolue, reste à clarifier la situation administrative.
@@ -392,15 +423,15 @@ Un travail de qualité, de même ordre que celui qui a abouti à la rédaction d
 En effet, celles-ci perdureront, même après que cet amendement aura résolu les problématiques d’ordre législatif.
 Quel est l’avis de la commission ? Avis favorable.
 Quant au rattachement du SPIP, l’entité la plus proche est celle de Saint-Denis de la Réunion.
-Encore faut-il examiner la pertinence d’une telle proximité, de 2 000 kilomètres tout de même ! Avis favorable.
-La parole est à Monsieur Paul Molac, pour soutenir l’amendement numéro 17.
+Encore faut-il examiner la pertinence d’une telle proximité, de deux 000 kilomètres tout de même ! Avis favorable.
+La parole est à Monsieur Paul Molac, pour soutenir l’amendement numéro dix-sept.
 Il s’agit de substituer au mot «interdictions» celui de «mesures», car les mesures prévues ne sont pas toutes des interdictions.
 Quel est l’avis de la commission ? Dans cette portion du texte, les mesures qui sont prévues sont toutes des interdictions.
 Nous préférons la rédaction actuelle.
 Avis défavorable.
 La parole est à Monsieur Paul Molac.
 Je retire l’amendement.
-La parole est à Monsieur Paul Molac, pour soutenir l’amendement numéro 18.
+La parole est à Monsieur Paul Molac, pour soutenir l’amendement numéro dix-huit.
 Le texte ne prévoit pas de donner au juge des libertés et de la détention qui serait saisi d’une demande de reconnaissance de protection européenne les pouvoirs d’investigation qu’il donne au procureur.
 Cela pourrait être préjudiciable, car, en cas en doute, le juge des libertés et de la détention ne pourra que refuser la mesure, sans pouvoir demander des vérifications, même très limitées.
 Cet amendement prévoit donc que le juge des libertés et de la détention peut procéder ou faire procéder à tout complément d’enquête qu’il estime utile.
@@ -412,36 +443,36 @@ Il peut toujours, afin de prendre cette décision, demander que le nécessaire s
 Je vous propose de retirer cet amendement, monsieur Molac.
 La parole est à Monsieur Molac.
 Je retire l’amendement.
-Je suis saisi d’un amendement numéro 23, qui fait l’objet d’un sous-amendement numéro 34.
+Je suis saisi d’un amendement numéro vingt-trois, qui fait l’objet d’un sous-amendement numéro trente-quatre.
 La parole est à Monsieur Paul Molac, pour soutenir l’amendement.
-Si vous le permettez, je défendrai également l’amendement numéro 24, que nous examinerons dans un instant.
+Si vous le permettez, je défendrai également l’amendement numéro vingt-quatre, que nous examinerons dans un instant.
 Tous deux visent à permettre à la victime de se domicilier à l’adresse d’un tiers au moment du dépôt de la plainte.
 Le code de procédure pénale permet déjà à un témoin de déclarer comme adresse le commissariat ou la brigade de gendarmerie, sur autorisation du procureur de la République ou du juge d’instruction.
-L’article 89 de ce même code permet à la partie civile au cours de l’information judiciaire de se domicilier chez un tiers.
+L’article quatre-vingt-neuf de ce même code permet à la partie civile au cours de l’information judiciaire de se domicilier chez un tiers.
 Mais rien n’est prévu dans le cas d’une enquête préliminaire ne donnant pas lieu à une information judiciaire.
 De nombreuses personnes hésitent à dénoncer des faits dont elles sont victimes, de peur de devoir révéler leur adresse personnelle, à laquelle l’accusé pourrait avoir accès lors de la phase du jugement de l’affaire.
 Nous proposons que l’adresse soit celle d’un tiers, d’une association ou de l’avocat, avec leur accord bien sûr.
 Cela améliorerait concrètement la situation de certaines victimes.
 Il s’agit d’ailleurs d’une proposition formulée par l’INAVEM – Institut national d’aide aux victimes et de médiation – dans son excellent rapport sur le droit des victimes.
-La parole est à Monsieur Dominique Raimbourg, rapporteur, pour donner l’avis de la commission et soutenir le sous-amendement numéro 34.
+La parole est à Monsieur Dominique Raimbourg, rapporteur, pour donner l’avis de la commission et soutenir le sous-amendement numéro trente-quatre.
 Ce sous-amendement vise à préciser que la déclaration de l’adresse d’un tiers ne peut être effectuée qu’avec l’accord exprès de l’intéressé.
-Sous réserve de l’adoption de ce sous-amendement, avis favorable à l’amendement numéro 23.
+Sous réserve de l’adoption de ce sous-amendement, avis favorable à l’amendement numéro vingt-trois.
 Quel est l’avis du Gouvernement ? Avis favorable à l’amendement, sous réserve de l’adoption du sous-amendement du rapporteur.
 Il s’agit d’un alignement bienvenu, puisque la proposition de loi renforçant la lutte contre le système prostitutionnel, qui vient d’être examinée en deuxième lecture, permet aux victimes de proxénétisme de procéder ainsi.
 Il est souhaitable que cette possibilité soit généralisée à l’ensemble des victimes.
 La parole est à Monsieur Paul Molac.
 J’ai précisé, lors de la défense de mon amendement, que l’accord de l’intéressé était nécessaire : je suis évidemment favorable au sous-amendement.
-La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro 2.
+La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro deux.
 Amendement de cohérence.
-La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro 39.
-Cet amendement vise à rédiger l’alinéa 19 comme suit : «L’autorité qui procède à l’audition de la victime recueille les premiers éléments permettant cette évaluation.
-Au vu de ces éléments, l’évaluation peut être approfondie, avec l’accord de l’autorité judiciaire compétente.» La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro 3.
+La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro trente-neuf.
+Cet amendement vise à rédiger l’alinéa dix-neuf comme suit : «L’autorité qui procède à l’audition de la victime recueille les premiers éléments permettant cette évaluation.
+Au vu de ces éléments, l’évaluation peut être approfondie, avec l’accord de l’autorité judiciaire compétente.» La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro trois.
 Amendement de cohérence.
-La parole est à Monsieur Paul Molac, pour soutenir l’amendement numéro 24.
+La parole est à Monsieur Paul Molac, pour soutenir l’amendement numéro vingt-quatre.
 Je l’ai déjà présenté.
-Je suis saisi d’un amendement numéro 25 portant article additionnel après l’article 4 ter.
+Je suis saisi d’un amendement numéro vingt-cinq portant article additionnel après l’article quatre ter.
 La parole est à Monsieur Paul Molac pour le soutenir.
-Cet amendement vise, en continuité de l’article 4 ter, à améliorer la situation des victimes.
+Cet amendement vise, en continuité de l’article quatre ter, à améliorer la situation des victimes.
 Actuellement, la possibilité de saisir la commission d’indemnisation des victimes d’infractions doit être notifiée à la victime, faute de quoi le délai pour la saisir ne court pas.
 Ce n’est pas le cas pour le service d’aide au recouvrement des victimes d’infractions, géré par le fonds de garantie des victimes des actes de terrorisme et d’autres infractions.
 Cet amendement harmonise la notification de ces deux possibilités.
@@ -452,8 +483,9 @@ Pour six cents maires de France, ce n’était pas bien.
 Je voulais donc vous dire, au nom de tous ici je pense, que ce fut un bon moment.
 Il me semble qu’un jour ou un autre, il faudra éclaircir cette situation.
 Je voulais profiter de ce texte qui n’a pas d’enjeu pour rappeler un problème qui soulève beaucoup de questions, dans notre pays comme dans d’autres.
-La parole est à Madame Nathalie Nieson, pour soutenir l’amendement numéro 31.
+La parole est à Madame Nathalie Nieson, pour soutenir l’amendement numéro trente et un.
 Il porte sur la fameuse contribution en faveur des victimes dont j’ai parlé tout à l’heure.
+Il s’agit de majorer les amendes pénales pour financer l’aide aux victimes, dans la limite de dix %, en fonction des circonstances de l’infraction, de la personnalité de son auteur ainsi que de sa situation matérielle, familiale et sociale.
 Nous sommes dans une démarche de justice restaurative, associant les auteurs d’infractions à la prise de conscience de l’aide aux victimes et à la réparation du préjudice subi par celles-ci.
 Quel est l’avis de la commission ? Avis favorable.
 Quel est l’avis du Gouvernement ? Avis favorable également, en remerciant Madame la députée Nieson pour sa fidélité et sa constance sur ce sujet.
@@ -462,40 +494,41 @@ Je me souviens d’avoir alerté l’Assemblée sur une disposition qui présent
 Nous avons tous le souci de disposer de cette ressource nouvelle, de la consolider, de la sécuriser, de la pérenniser.
 Ce que nous avions adopté à l’issue de la lecture au Sénat a été modifié par vos soins au sein de la commission.
 Cet amendement neutralise le risque introduit par un mécanisme potentiellement automatique.
-Cette subtilité qui consiste à considérer que les 10 % constituent un plafond, ce qui laisse une marge de décision aux magistrats, me paraît de nature à rassurer.
+Cette subtilité qui consiste à considérer que les dix % constituent un plafond, ce qui laisse une marge de décision aux magistrats, me paraît de nature à rassurer.
 Cela dit, cette disposition introduit un risque nouveau, à savoir que la décision ne soit pas suffisamment fréquente.
 J’envisage donc une circulaire de sensibilisation des parquets, afin qu’ils perçoivent bien l’intérêt de l’instrument, l’usage qui peut en être fait et l’abondement apporté au budget de l’aide aux victimes.
+Les associations d’aide aux victimes qui font un travail considérable, en particulier à travers le réseau de l’Institut national d’aide aux victimes et de médiation, disposeront de cette ressource supplémentaire, qui leur permettra de prendre en charge davantage de victimes.
 Malgré les efforts que nous faisons, il faut aller vers des victimes qui ne viennent pas vers les associations ni vers les bureaux d’aide aux victimes.
 Il faut des ressources supplémentaires pour permettre à ces associations de toucher encore plus de victimes.
 Je le disais tout à l’heure, nous travaillons sur une base pluridisciplinaire, c’est-à-dire que nous travaillons à faire prendre en charge la victime dans les dimensions diverses du préjudice qu’elle a subi.
 Nous les aiderons aussi à créer un réseau de référents qui stabilise la relation avec les victimes.
 J’émets donc un avis favorable, en saluant la qualité du travail fourni.
-Je suis saisi d’un amendement numéro 35 qui vise à insérer un article additionnel après l’article 5.
-Il fait l’objet de deux sous-amendements, numéros 44 et 45.
+Je suis saisi d’un amendement numéro trente-cinq qui vise à insérer un article additionnel après l’article cinq.
+Il fait l’objet de deux sous-amendements, numéros quarante-quatre et 4cinq.
 La parole est à Madame la garde des sceaux, pour soutenir l’amendement.
 Il vise, comme je l’ai annoncé tout à l’heure, à protéger les témoins dans un certain nombre de procédures médiatisées qui les exposent.
 Notre souci est de faire en sorte que des personnes ne soient pas dissuadées d’enrichir les procédures de leur témoignage, compte tenu du risque qui pèserait sur elles-mêmes ou sur leurs proches.
-Je suis saisi de deux sous-amendements, numéros 44 et 45, pouvant faire l’objet d’une présentation groupée.
+Je suis saisi de deux sous-amendements, numéros quarante-quatre et quarante-cinq, pouvant faire l’objet d’une présentation groupée.
 La parole est à Monsieur Paul Molac, pour les soutenir.
-Mon sous-amendement numéro 44 vise à adapter la disposition pénalisant la révélation de l’identité d’un témoin, prévue au dernier alinéa de l’article, par deux moyens.
-D’une part, il prévoit que ce délit soit inscrit dans la loi de 1881 en son paragraphe sur les publications interdites et les immunités de la défense, comme les autres délits portant sur la révélation des faits de justice.
+Mon sous-amendement numéro quarante-quatre vise à adapter la disposition pénalisant la révélation de l’identité d’un témoin, prévue au dernier alinéa de l’article, par deux moyens.
+D’une part, il prévoit que ce délit soit inscrit dans la loi de mille huit cent quatre-vingt-un en son paragraphe sur les publications interdites et les immunités de la défense, comme les autres délits portant sur la révélation des faits de justice.
 Il me semble important que l’ensemble des délits liant presse et justice soient inscrits dans cette loi.
 D’autre part, il prévoit une exception quand le témoin accepté de révéler lui-même son identité.
-Une telle disposition est prévue par le délit inscrit à l’article 39 quinquies de la loi de 1881.
-Mon sous-amendement numéros 45 a un objet similaire.
+Une telle disposition est prévue par le délit inscrit à l’article trente-neuf quinquies de la loi de mille huit cent quatre-vingt-un.
+Mon sous-amendement numéros quarante-cinq a un objet similaire.
 Quel est l’avis de la commission ? Avis favorable à l’amendement du Gouvernement.
 Je donnerai un avis personnel sur les deux sous-amendements, qui n’ont pas été soumis à la commission.
-Que des sous-amendements non examinés en commission viennent modifier la loi de 1881 me semble hasardeux : il s’agit d’un monument auquel on ne peut pas toucher aussi facilement.
+Que des sous-amendements non examinés en commission viennent modifier la loi de mille huit cent quatre-vingt-un me semble hasardeux : il s’agit d’un monument auquel on ne peut pas toucher aussi facilement.
 Vous connaissez toutes les métaphores sur la «main tremblante»… Avis défavorable à titre personnel.
 (Sourires.) Mon avis sur les deux sous-amendements est défavorable, parce que je n’ai pas bien compris les raisons pour lesquelles vous tenez à inscrire ces dispositions dans la loi sur la presse.
 Est-ce parce que vous pensez que seuls des journalistes pourraient révéler l’identité des témoins ? Ou est-ce que vous voulez des garanties procédurales particulières protégeant ce délit ? La parole est à Monsieur Paul Molac.
-Mon idée est de compléter la loi de 1881 de façon à ce qu’il n’y ait pas de régime dérogatoire, dans une logique de simplification.
+Mon idée est de compléter la loi de mille huit cent quatre-vingt-un de façon à ce qu’il n’y ait pas de régime dérogatoire, dans une logique de simplification.
 La parole est à Madame la garde des sceaux.
 Dans ce cas, l’avis du Gouvernement est bien défavorable.
 Je suis désolée et ne veux pas être désagréable, mais ce serait plutôt une complication qu’une simplification.
 La parole est à Monsieur Paul Molac.
 Les sous-amendements sont retirés.
-La parole est à Monsieur Guy Geoffroy, pour soutenir l’amendement numéro 21.
+La parole est à Monsieur Guy Geoffroy, pour soutenir l’amendement numéro vingt et un.
 Il vise à supprimer le troisième alinéa de cet article, issu d’un amendement du Gouvernement adopté en commission des lois.
 Cet alinéa introduit – et ce n’est pas rien – un délai d’examen de l’appel du condamné à une mesure d’exécution provisoire.
 Prenons un exemple qui marque une différence entre nous, monsieur le rapporteur : l’appel du condamné contre la décision ordonnant la mise à exécution de l’emprisonnement.
@@ -510,41 +543,43 @@ Il faut nécessairement des dates-butoir sur des questions de détention proviso
 Quel est l’avis du Gouvernement ? Même avis, monsieur le député Geoffroy.
 Ce sont des dispositions qui figurent déjà dans le code de procédure pénale.
 Cette précision est absolument nécessaire et d’ailleurs elle complète une disposition adoptée par le Sénat.
-La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro 5.
+La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro cinq.
 Il est rédactionnel.
-Je suis saisi de deux amendements, numéros 30 et 28, qui peuvent faire l’objet d’une présentation groupée.
+Je suis saisi de deux amendements, numéros trente et vingt-huit, qui peuvent faire l’objet d’une présentation groupée.
 La parole est à Monsieur Paul Molac, pour les soutenir.
-Ces deux amendements, comme l’article 5 ter, reviennent sur des difficultés posées par la contrainte pénale, qui avaient été soulevés l’an dernier par mon collègue Sergio Coronado lors de l’examen du projet de loi.
+Ces deux amendements, comme l’article cinq ter, reviennent sur des difficultés posées par la contrainte pénale, qui avaient été soulevés l’an dernier par mon collègue Sergio Coronado lors de l’examen du projet de loi.
 Le caractère exécutoire de la contrainte pénale, s’il est légitime, pose un certain nombre de problèmes quand la personne condamnée est absente à l’audience.
 La contrainte pénale est donc exécutoire pour des personnes qui ne savent pas qu’elles sont condamnées.
-C’est pourquoi mon amendement numéro 28 vise à ce que cette peine ne démarre qu’à compter de sa notification.
-Quant à l’amendement numéro 30, il vise à suspendre l’exécution de la contrainte pénale en cas d’incarcération.
+C’est pourquoi mon amendement numéro vingt-huit vise à ce que cette peine ne démarre qu’à compter de sa notification.
+Quant à l’amendement numéro trente, il vise à suspendre l’exécution de la contrainte pénale en cas d’incarcération.
 Une telle disposition est prévue dans le code pénal pour le sursis avec mise à l’épreuve et la peine de travail d’intérêt général.
-Quel est l’avis de la commission ? Avis défavorable à l’adoption de l’amendement numéro 30.
+Quel est l’avis de la commission ? Avis défavorable à l’adoption de l’amendement numéro trente.
 Nous préférons laisser au juge d’application des peines la possibilité d’apprécier si la contrainte doit être ou non suspendue.
-En revanche, avis favorable à l’adoption de l’amendement numéro 28.
+En revanche, avis favorable à l’adoption de l’amendement numéro vingt-huit.
 Quel est l’avis du Gouvernement ? Mêmes avis.
-Avis favorable à l’adoption de l’amendement numéro 28 car il est logique que la contrainte pénale ne devienne exécutoire qu’à partir du moment où la personne condamnée en a connaissance.
-Avis défavorable à l’adoption de l’amendement numéro 30 car, en fait, ce n’est pas la contrainte pénale en elle-même qui serait suspendue mais son délai d’exécution – il me semble donc que cela relève d’un malentendu.
+Avis favorable à l’adoption de l’amendement numéro vingt-huit car il est logique que la contrainte pénale ne devienne exécutoire qu’à partir du moment où la personne condamnée en a connaissance.
+Avis défavorable à l’adoption de l’amendement numéro trente car, en fait, ce n’est pas la contrainte pénale en elle-même qui serait suspendue mais son délai d’exécution – il me semble donc que cela relève d’un malentendu.
 Si cette explication éclaire la question que vous vous posiez, je vous propose de bien vouloir retirer cet amendement.
 La parole est à Monsieur Paul Molac.
-Je retire l’amendement numéro 30.
-Je suis saisi de plusieurs amendements portant article additionnel après l’article 5 sexies.
-La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro 6.
+Je retire l’amendement numéro trente.
+Je suis saisi de plusieurs amendements portant article additionnel après l’article cinq sexies.
+La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro six.
 Cet amendement vise à indiquer la durée maximale du stage auquel un certain nombre de condamnés sont condamnés, précisément, ainsi que le coût maximal.
 Il s’agit d’une précision utile car la peine doit être effectivement expliquée, détaillée et prévue, ce que permet cet amendement.
-La parole est à Monsieur Paul Molac, pour soutenir l’amendement numéro 27.
+La parole est à Monsieur Paul Molac, pour soutenir l’amendement numéro vingt-sept.
+Le troisième alinéa de l’article 132-19 du code pénal prévoit que lorsque le tribunal correctionnel prononce une peine d’emprisonnement sans sursis «ou» ne faisant pas l’objet d’une des mesures d’aménagement, il doit spécialement motiver sa décision.
 Ce «ou» nous paraît problématique, le terme «et» semblant plus cohérent : il s’agit en effet de devoir motiver les peines sans sursis «et» sans aménagement.
 Quel est l’avis de la commission ? Avis favorable.
 Quel est l’avis du Gouvernement ? C’est en effet une précision qui clarifie les choses.
 Avis favorable.
-La parole est à Monsieur Paul Molac, pour soutenir l’amendement numéro 32.
+La parole est à Monsieur Paul Molac, pour soutenir l’amendement numéro trente-deux.
 Le troisième alinéa de l’article 132-41 du code pénal interdit de prononcer, selon les cas, un second ou un troisième sursis avec mise à l’épreuve pour les personnes en état de récidive légale.
+Il s’agit de garantir le rôle du juge et l’individualisation des peines en supprimant cet automatisme qui ne nous semble pas justifié, d’autant moins d’ailleurs que la contrainte pénale et d’autres peines alternatives ne sont pas soumises aux mêmes limitations.
 Quel est l’avis de la commission ? Avis favorable.
 Nous avons choisi à la fois de privilégier l’individualisation des peines et de faire confiance aux magistrats pour décider de la sanction adéquate.
 Les automatismes limitatifs vont à l’encontre de la politique pénale que nous essayons d’appliquer.
 Quel est l’avis du Gouvernement ? Sagesse.
-La parole est à Monsieur Guy Geoffroy, pour soutenir l’amendement numéro 19 visant à supprimer cet article.
+La parole est à Monsieur Guy Geoffroy, pour soutenir l’amendement numéro dix-neuf visant à supprimer cet article.
 J’ai évoqué tout à l’heure à la tribune le travail de notre rapporteur qui, en commission, a créé pas moins de quatorze nouveaux articles.
 En voici un.
 Deux séries de raisons font que la sagesse impliquerait de le supprimer.
@@ -562,7 +597,7 @@ Je vous rappelle qu’une telle conversion en travail d’intérêt général ou
 En effet.
 C’est donc une possibilité qui demeure dans la logique de la loi actuelle.
 Mais vous l’étendez.
-Nous n’étendons rien du tout, monsieur Lellouche ! Peut-être faudrait-il relire la loi pénitentiaire de 2009… Nous la connaissons.
+Nous n’étendons rien du tout, monsieur Lellouche ! Peut-être faudrait-il relire la loi pénitentiaire de deux mille neuf… Nous la connaissons.
 …de même que les conditions d’aménagement des peines.
 Ces dispositions existent donc déjà et sont en vigueur.
 J’ai entendu une saillie un peu ironique, monsieur le député Guy Geoffroy… Jamais ! (Sourires) …sur la contrainte pénale.
@@ -582,23 +617,26 @@ Dans ce domaine, je vous invite vraiment à réfléchir parce qu’à vouloir tr
 Il ne faut plus que nos concitoyens aient le sentiment que c’est le juge d’application des peines qui fixe ces dernières : ce n’est pas lui ; lui est chargé de les appliquer.
 La parole est à Madame Colette Capdevielle.
 Au nom du groupe socialiste, républicain et citoyen, je tiens à rassurer Monsieur Geoffroy : le «bijou» qu’est la contrainte pénale constitue une véritable innovation dans notre droit et s’installe doucement dans nos juridictions.
-Un article paru hier dans Le Monde révélait que 610 mesures de contrainte pénale ont été prononcées… Il y en a eu 767.
+Un article paru hier dans Le Monde révélait que six cent dix mesures de contrainte pénale ont été prononcées… Il y en a eu sept cent soixante-sept.
 …ce qui signifie que l’on progresse de jour en jour et que le suivi renforcé implique un travail très important d’accompagnement puisqu’il s’agit d’un sursis avec mise à l’épreuve renforcée.
 Les services pénitentiaires d’insertion et de probation s’adaptent tranquillement.
 Une montée en puissance est nécessaire, qui est d’ailleurs prévue.
 Finalement, le dispositif fonctionne.
+Nous voterons bien entendu contre l’amendement présenté par la droite parce que nous, membres du groupe socialiste, républicain et citoyen, ne comprenons toujours pas pourquoi elle fait preuve d’une telle défiance à l’endroit du juge au lieu de lui faire confiance.
 Ce n’est pas de la défiance.
 Pourquoi ne pas faire tout simplement confiance à un magistrat qui suit la personne condamnée, donc l’exécution de la peine ? C’est lui qui, au cas par cas, sait quelle est la bonne mesure à appliquer.
 Il n’est pas question de systématiser les conversions mais, parfois, celles-ci sont absolument indispensables afin de favoriser une meilleure réinsertion et un meilleur traitement pénal à travers l’accompagnement de la personne condamnée.
 La parole est à Monsieur Dominique Raimbourg, rapporteur.
 Rapidement, monsieur Geoffroy : la contrainte pénale n’est pas un bijou ; c’est une bijouterie ! Avec du toc ! Outre la contrainte pénale, elle compte la suppression automatique de la révocation et du sursis simple, la libération sous contrainte.
 Tout un ensemble de dispositions a été voté qui, me semble-t-il, fait progresser notre procédure pénale.
+Où vous avez raison, c’est que l’encombrement des juridictions est tel – c’est une vraie difficulté – que, finalement, nous sommes confrontés à un déport de l’application de la peine qui, pour nos concitoyens, rend la situation moins lisible.
 Cela est une vraie difficulté, je le répète, car il n’y a pas de vraie justice sans que le peuple y adhère.
 Nous travaillons à résoudre ce problème.
 Nous allons essayer de lutter contre cet encombrement pour faire en sorte aussi que des aménagements soient prononcés à l’audience et qu’ils soient compréhensibles – peut-être une publicité sera-t-elle également réservée aux décisions du juge d’application des peines.
 Ce n’est pas toutefois forcément en bloquant une mesure de conversion rendue possible au profit de condamnés qui ont la malchance d’être handicapés que la situation s’améliorera.
 Je crois qu’il ne faut pas revenir sur cette question à cette occasion-là.
 La parole est à Madame la garde des sceaux.
+Pardonnez-moi de prolonger un peu le débat, mais je voudrais rebondir sur une remarque du rapporteur que vous avez bruyamment approuvée, monsieur le député Geoffroy, à savoir qu’il n’y a pas de justice sans adhésion de la société aux dispositions de justice.
 Absolument ! L’adhésion de la société ne peut se faire qu’avec discernement – puisque vous êtes très attaché à ce mot… Tout à fait ! …mais le discernement a besoin d’être nourri de l’information la plus précise possible.
 Or l’idée, que vous faites circuler collectivement depuis plusieurs mois, selon laquelle le juge d’application des peines deviendrait le juge de la décision, est absolument fausse.
 C’est absolument faux ! Mais c’est ce que ressentent les gens.
@@ -613,40 +651,43 @@ Lorsqu’on procède, comme c’était le cas jusqu’à présent, à des sortie
 Vous le savez parfaitement.
 Avec ces dispositions, nous entendons lutter contre la récidive et faire en sorte que l’exécution de la peine soit réelle.
 Quant aux délais d’exécution de la peine, ils ne sont pas scandaleux.
-En moyenne, la moitié des peines sont exécutées dans les six mois qui suivent le prononcé de la peine, et 98 % dans un délai de dix-huit mois.
+En moyenne, la moitié des peines sont exécutées dans les six mois qui suivent le prononcé de la peine, et quatre-vingt-dix-huit % dans un délai de dix-huit mois.
 Un raisonnement simpliste consiste à ne prendre en compte que le nombre des peines non exécutées et à en déplorer le grand nombre.
 Mais il s’agit là du flux des peines prononcées chaque jour par les juridictions.
 L’exécution des peines, je le répète, se fait de manière satisfaisante dans ce pays, mais il se trouve que, tous les jours, les juridictions prononcent des peines.
 Les autres peines sont exécutées au fur et à mesure : la moitié au bout de six mois et la quasi-totalité au bout de dix-huit.
 Telle est la réalité, et c’est à partir de cela que l’opinion publique peut se prononcer sur une politique pénale.
 Elle peut la contester, mais à bon droit, en toute clairvoyance, à partir d’éléments objectifs et non de raisonnements simplistes.
-La parole est à Monsieur Guy Geoffroy, pour soutenir l’amendement numéro 20, qui vise à supprimer l’’article.
+La parole est à Monsieur Guy Geoffroy, pour soutenir l’amendement numéro vingt, qui vise à supprimer l’’article.
 Nos débats sont intéressants, et ils mériteraient probablement d’être plus approfondis.
 Il est bien évident que la position des uns et des autres se trouve à une certaine distance de ces deux extrêmes.
 Malgré tout, d’une manière générale, vous avez la volonté de privilégier tout ce qui n’est pas enfermement, par rapport à ce qui est enfermement.
 Pour notre part, nous ne sommes pas favorables a priori à tout ce qui est enfermement par rapport à ce qui n’est pas enfermement.
 Vous voyez donc bien que nous sommes loin de l’idée du tout carcéral.
+Mais là, vous allez beaucoup trop loin ! En effet, grâce à cet article, un condamné pourra, du simple fait de la surpopulation de l’établissement dans lequel le hasard l’aura placé, bénéficier de l’octroi de réductions supplémentaires de peine.
 Merci de conclure, cher collègue.
 Ce n’est vraiment pas sérieux.
 Il ne faut pas accepter que cette disposition figure dans le texte.
-C’est pourquoi je vous invite à voter l’amendement numéro 20.
+C’est pourquoi je vous invite à voter l’amendement numéro vingt.
 Quel est l’avis de la commission ? Monsieur Geoffroy, il ne me paraît pas anormal que les conditions d’incarcération soient prises en compte au moment de l’examen d’un aménagement de peine.
+Nos voisins italiens ont prévu un système qui accorde un certain nombre de jours supplémentaires de réduction de peine en fonction de la surpopulation carcérale, et je dois dire que j’ai été tenté d’introduire ce dispositif dans le texte.
 Cela montre bien que l’idée n’est pas absolument aberrante.
 Notre outil carcéral est en état de surpopulation chronique depuis de nombreuses années.
-Nous avons une surpopulation permanente de l’ordre de 135 %, et elle frôle les 160 % dans la région parisienne.
-Je suis voisin d’un département, la Vendée, qui compte deux maisons d’arrêt dépassant les 200 % de surpopulation carcérale.
+Nous avons une surpopulation permanente de l’ordre de cent trente-cinq %, et elle frôle les cent soixante % dans la région parisienne.
+Je suis voisin d’un département, la Vendée, qui compte deux maisons d’arrêt dépassant les deux cents % de surpopulation carcérale.
 Accepter une telle surpopulation, ce n’est pas seulement porter atteinte à la dignité des gens qui sont détenus ; c’est aussi se priver de cet outil qu’est la prison.
 On retire tout rôle de réinsertion à la prison, en y détenant les gens dans de telles conditions, puisqu’il est impossible d’y effectuer un travail de préparation à la sortie.
 Il importe donc de trouver des solutions.
 Pas celle-ci ! N’opposons pas ces solutions à la construction de places de prison.
-Nous en construisons, mais je vous rappelle que chacune d’entre elle coûte entre 130 000 et 250 000 euros, et parfois même davantage, en fonction de la taille de l’établissement.
+Nous en construisons, mais je vous rappelle que chacune d’entre elle coûte entre cent trente 000 et deux cent cinquante 000 euros, et parfois même davantage, en fonction de la taille de l’établissement.
 Nous en construisons, à la hauteur des moyens dont nous disposons.
 Le dispositif que nous proposons est un moyen parmi d’autres de lutter contre la surpopulation carcérale, et il semble assez raisonnable.
 Du reste, ici encore, il ne s’agit nullement d’une mesure automatique : cette décision est, elle aussi, soumise à l’appréciation du juge d’application des peines.
 Quel est l’avis du Gouvernement ? Avis défavorable.
-Je suis saisi de plusieurs amendements tendant à insérer un article additionnel après l’article 5 sexdecies.
-Les amendements, numéros 42 et 43 rectifié, peuvent être soumis à une discussion commune.
-La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro 42.
+Je suis saisi de plusieurs amendements tendant à insérer un article additionnel après l’article cinq sexdecies.
+Les amendements, numéros quarante-deux et quarante-trois rectifié, peuvent être soumis à une discussion commune.
+La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro quarante-deux.
+Nous avons déjà évoqué cet amendement et Madame la ministre de l’éducation nationale en a très largement exposé l’historique, le contexte et les dispositions pratiques prises dans l’immédiat, ainsi que les raisons pour lesquelles il nous faut prendre des dispositions pérennes.
 Et nous avons dit, au titre du ministère de la justice, combien il est nécessaire de légiférer sur cette question.
 Tout le monde aura compris que je parle de l’amendement qui donne aux parquets la consigne de communiquer les informations relatives aux personnes mises en cause pour agression sexuelle et qui exercent leur activité auprès de mineurs.
 Notre code oblige déjà les juges d’instruction à transmettre de telles informations, dans le cadre de dispositions parfaitement précisées, mais cette obligation ne s’applique pas aux parquets.
@@ -662,6 +703,7 @@ Le rapporteur parlait de ligne de crête, et il est vrai que la difficulté cons
 Des questions demeurent, s’agissant des personnes qui interviennent dans un cadre privé et dont l’activité concerne des mineurs.
 Il faut savoir qu’il peut y avoir, y compris à la périphérie des administrations, des personnes qui travaillent dans un cadre privé.
 On peut tout simplement imaginer le cas d’associations en partenariat avec l’éducation nationale ou de collectivités qui, dans le cadre des activités périscolaires, emploient du personnel avec des contrats de droit privé pour intervenir auprès des enfants.
+Il est évident qu’en l’occurrence, l’autorité de tutelle ne dispose pas de la même marge qu’une administration pour prendre des mesures conservatoires qui ne seraient pas démesurées par rapport au niveau d’information communiqué par l’autorité judiciaire.
 Nous entendons donc toutes ces inquiétudes.
 Néanmoins, le Gouvernement a considéré qu’il était important de rédiger cet amendement de telle façon qu’au niveau de l’enquête, la possibilité soit donnée au procureur de décider, avec discernement, à quel moment il communique une information.
 Au moment de la poursuite, dès lors qu’il y a un renvoi devant le tribunal, ou mise en examen, l’information sera communiquée à l’administration de tutelle.
@@ -669,15 +711,18 @@ Et bien entendu, les choses sont faciles au stade du jugement et de la condamnat
 Nous avons bien entendu les interrogations des parlementaires, il est normal que les législateurs aient la préoccupation d’appliquer le plus rigoureusement possible les principes sur lesquels repose notre droit.
 Parmi ces principes, je le rappelle, figurent le secret de l’enquête, le secret de l’instruction, le secret du délibéré et, bien entendu, la présomption d’innocence.
 Nous vous proposons d’adopter l’amendement du Gouvernement, puisque par ma voix, il souhaite vous faire savoir que nous entendons ces préoccupations – qui nous ont travaillées nous-mêmes.
+C’est bien pour cela que nous avons envisagé la possibilité de la communication, le moment de la communication et l’obligation de cette communication à partir du moment où des actes de poursuites nominatifs sont décidés, et au moment de la condamnation.
 Nous aurons quelques jours pour effectuer ce travail ensemble et, bien entendu, au stade de la commission mixte paritaire, c’est à vous qu’il reviendra de prendre la décision définitive.
 Je demande donc à l’Assemblée de bien vouloir accepter cet amendement du Gouvernement.
-La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro 43 rectifié et donner l’avis de la commission sur l’amendement numéro 42 du Gouvernement.
+La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro quarante-trois rectifié et donner l’avis de la commission sur l’amendement numéro quarante-deux du Gouvernement.
 J’ai parlé tout à l’heure de la nécessité de trouver la ligne de crête qui permette de protéger le plus efficacement possible les enfants sans déboucher sur des mises en causes injustifiées.
 La difficulté de ce texte est qu’il prévoit une possibilité de transmission de l’information au moment de l’enquête, sans qu’il y ait aucune appréciation du sérieux de la plainte.
+Une enquête commence simplement par le dépôt d’une plainte, et nous savons que, parfois, notamment à l’occasion des procédures de divorce, des plaintes sont déposées qui s’avèrent peu fondées, ou au moins qui ne permettent pas de déboucher sur une condamnation.
 Mais le texte a une portée beaucoup plus large que la simple fonction publique.
 Il vise l’ensemble des administrations, des associations, des institutions qui travaillent avec des mineurs.
 Cela inclut les associations d’éducation populaire, la fédération Léo Lagrange, la fédération des amicales laïques, les associations religieuses, le catéchisme pour les enfants.
 Toutes ces institutions sont visées.
+Lorsque nous aurons affaire à des institutions privées, la conséquence – il n’y en aura pas d’autre possible – sera que l’employeur privé licenciera l’intéressé au motif qu’il a reçu l’information qu’une plainte avait été déposée.
 Ce contrôle judiciaire est ouvert au procureur qui peut le demander au juge des libertés, et il est possible pour le juge d’instruction de le prononcer lui-même.
 J’ai pensé que cela offrait la protection nécessaire.
 Je vois que nous sommes en opposition sur cette disposition et j’entends vos explications.
@@ -689,6 +734,7 @@ La situation est très compliquée, elle se prête en plus à une émotion, parc
 Mais, dans le même temps, il ne faut pas se laisser trop emporter par l’émotion, parce que, demain, nous aurons des victimes d’un autre type : des gens qui auront été accusés à tort, qui auront perdu leur travail.
 Et si nous avons à déplorer des suicides, nous regretterons d’avoir été aussi peu précautionneux avec cette partie des travailleurs qui s’occupe des enfants mais qui n’est pas dans la fonction publique.
 Voilà ce que je voulais dire, je voulais vous faire part de mes hésitations, de mes craintes, et je souhaite que le texte s’améliore.
+Je retire mon amendement si vous le souhaitez, j’adhérerai à votre texte, mais avec ces réserves qui ne sont pas proprio motu mais qui sont partagées par beaucoup de mes collègues de la commission des lois qui ont examiné cet amendement.
 La parole est à Madame Colette Capdevielle.
 En qualité de responsable pour le groupe SRC, je tiens à exprimer des réserves sérieuses sur cet amendement.
 Nous en comprenons parfaitement la philosophie et l’esprit, et il est évident qu’il convient de protéger les enfants.
@@ -716,6 +762,7 @@ Il m’est difficile de vous retirer la parole, madame Capdevielle ! Vous l’av
 Je voulais simplement appuyer les propos tenus par Monsieur le rapporteur et Madame Capdevielle en disant que la procédure pénale, c’est la protection de l’innocence, qu’elle se trouve du côté des victimes ou des personnes injustement soupçonnées.
 Alors, soyons concrets.
 Nous ne devons pas faire un texte trop étroit qui ne réponde qu’à une seule affaire, celle que tout le monde a en tête.
+N’ouvrons pas non plus le texte à n’importe quelle plainte injustifiée, aux ragots, aux rumeurs de village ou de quartiers concernant des faits prêtés à des personnes salariées ou bénévoles qui ont la tâche majeure et difficile de prendre en charge nos enfants.
 Or, sans certitude, peut-on engager des mesures qui peuvent être extrêmement préjudiciables pour les intéressés ? La parole est à Monsieur Pierre Lellouche.
 En ces matières, nul ne peut prétendre détenir la vérité.
 Toutes ces questions sont extraordinairement sensibles, difficiles.
@@ -724,7 +771,7 @@ Nous sommes ici des responsables politiques et, au fil de notre expérience d’
 Si vous me le permettez, je ferai plusieurs remarques.
 Ce débat est très important, très attendu dans notre pays depuis les événements du mois de mars dernier qui ont secoué la France.
 Quiconque a des enfants connaît et craint les dommages irréversibles que leur causent les violences sexuelles, pendant toute leur vie.
-Je reçois des lettres de personnes de plus de 60 ans qui me parlent, bien après que les infractions sont prescrites, des violences qu’elles ont subies.
+Je reçois des lettres de personnes de plus de soixante ans qui me parlent, bien après que les infractions sont prescrites, des violences qu’elles ont subies.
 Je regrette donc qu’un débat sur un sujet aussi grave se déroule à une heure du matin, dans un hémicycle à peu près vide, à l’occasion de la transcription de textes européens.
 Honnêtement, ce débat méritait mieux ! Vous me connaissez, madame Taubira : comme vous, je suis un tout petit peu tenace.
 (Sourires.) Depuis le mois de mars, j’ai essayé d’ouvrir ce débat.
@@ -736,12 +783,14 @@ Je vous l’ai dit à plusieurs reprises, madame la garde des sceaux, je ne pens
 Je ne pense pas qu’il faille que l’information soit transmise au moment de l’enquête.
 Ce genre d’affaires est très difficile à gérer : il est très compliqué de déterminer à quel moment l’information doit être transmise, qui doit le faire et à partir de quand les informations sont suffisamment crédibles.
 Aussi, après avoir beaucoup réfléchi, je vous ai proposé une autre approche, qui a été retoquée – j’espère qu’elle ne le sera pas cette nuit et que nous aurons au moins l’occasion d’y réfléchir ensemble.
+Dans des affaires aussi graves, je pense que le bon moment pour intervenir est après la condamnation,… Eh oui ! …quand il est clair pour tout le monde que la personne concernée est vraiment dangereuse, qu’elle a commis un crime contre des enfants.
 Il faut alors que l’interdiction d’exercer soit immédiate et automatique : il ne doit plus être question d’information, mais d’interdiction d’exercer.
 Je vous propose donc d’agir un peu plus tard, madame la garde des sceaux, non pas que je sois particulièrement tendre à l’égard des prédateurs, mais je ne sais pas où se situe la ligne jaune.
 C’est très compliqué.
 En d’autres termes, je vous propose de réunir les preuves et d’attendre la condamnation : dès que cette dernière aura été prononcée, il conviendra de bloquer irrémédiablement tout contact ultérieur du prédateur avec la communauté éducative et les enfants.
 Voilà le sens des amendements que j’ai déposés.
 Je ne sais pas si je détiens la vérité, mais je pense qu’ils sont plus respectueux des libertés de tous que l’approche que vous proposez.
+Je respecte ce que vous essayez de faire, parce que je sais que votre action est mue par l’intérêt de l’enfant, mais je pense que votre proposition est risquée et que le débat n’est pas mûr, en tout cas pas ce soir.
 J’ai laissé du temps aux uns et aux autres, ce qui est normal sur un sujet aussi important.
 Je ferai de même avec Monsieur Molac, qui sera le dernier orateur sur l’amendement du Gouvernement.
 Mais je souhaiterais que pour les amendements suivants – y compris les vôtres, monsieur Lellouche –, nous puissions respecter les temps de parole fixés par le règlement.
@@ -752,6 +801,7 @@ Nous savons très bien que la pédophilie ne date pas d’aujourd’hui : nous n
 Aujourd’hui, je vois bien que la situation n’est pas tout à fait mûre.
 L’accouchement ne se fera peut-être pas au forceps, mais il sera difficile.
 Pour autant, je voterai l’amendement du Gouvernement, parce qu’il faut absolument régler le problème sur le fond.
+Nous le ferons peut-être d’une manière maladroite, mais la commission mixte paritaire permettra d’y revenir – en tout cas, j’ai bien entendu la garde des sceaux nous assurer qu’elle travaillerait à une réécriture des dispositions relatives au moment auquel il faut intervenir.
 J’entends bien les arguments de notre collègue Lellouche, mais la condamnation est parfois trop lointaine.
 Même après la condamnation, il y a eu des trous dans la raquette : certains individus ont été condamnés sans que personne n’en ait été informé.
 C’est vrai ! Après la condamnation, la transmission de l’information paraît évidemment absolument nécessaire.
@@ -767,7 +817,7 @@ Vous savez bien que ce n’est pas un cavalier parlementaire : nous introduisons
 Il se trouve que ce véhicule avait déjà commencé son parcours parlementaire.
 Monsieur Geoffroy regrettait la longueur du temps entre la première lecture de ce texte au Sénat et notre débat aujourd’hui dans votre assemblée, malgré l’engagement de la procédure accélérée.
 Or cette dernière avait justement été motivée par la nécessité de transposer en urgence une décision cadre, depuis lors transférée dans le projet de loi relatif à la réforme de l’asile.
-Puisque les dispositions en question ont été sorties du présent projet de loi, l’urgence est moindre, car les directives restantes peuvent être transposées jusqu’à la fin de cette année 2015.
+Puisque les dispositions en question ont été sorties du présent projet de loi, l’urgence est moindre, car les directives restantes peuvent être transposées jusqu’à la fin de cette année deux mille quinze.
 Voilà pourquoi ce projet de loi arrive aujourd’hui devant votre assemblée.
 Pour nous, ce n’est pas trop tôt.
 Au contraire, c’est un peu tard ! Nous le savons, et vous l’avez tous dit, il est difficile de trouver le bon moment et de concilier la protection des enfants avec le respect de la présomption d’innocence.
@@ -776,6 +826,7 @@ Lorsque je disais tout à l’heure qu’il valait mieux transmettre l’informa
 Tout en veillant à la préservation du principe de présomption d’innocence, il faut faire preuve de prudence en faisant le signalement qui pourra entraîner une décision qui éloignera la personne suspecte des enfants.
 J’en viens à un autre point extrêmement important.
 Quelqu’un a parlé de la «parole sacrée» des enfants.
+Par le passé, on a connu des périodes très longues pendant lesquelles on n’a tenu aucun compte de la parole des enfants, puis une période relativement courte où on a peut-être porté un crédit exagéré à la parole de ces mêmes enfants.
 Ce n’est jamais de la faute des enfants : les enfants sont des enfants, et la répétition des auditions peut les amener à dire en toute sincérité des choses qui ne sont pas absolument vraies.
 Eh oui ! Le danger, après cela, c’est qu’on décrédibilise généralement la parole des enfants.
 Voulons-nous prendre le risque d’ouvrir une nouvelle longue période de méfiance à l’égard de la parole des enfants ? Il faut éviter cela ! Il faut effectivement trouver la bonne mesure.
@@ -789,9 +840,10 @@ C’est vrai ! Comme nous nous y sommes engagés, nous allons travailler ensembl
 Il faudra étudier l’opportunité de permettre un signalement au stade de l’enquête – c’est parce que nous avons conscience de la nécessité de protéger les enfants que nous avions prévu cette possibilité.
 Je rappelle simplement que le signalement n’interviendrait pas de façon fantaisiste, mais dès lors qu’un certain nombre d’indices graves et concordants seraient réunis et démontreraient la nécessité de prendre quelques précautions.
 Mais j’entends bien qu’au stade de l’enquête, bien en amont de l’établissement formel de la culpabilité, donc du prononcé du jugement, il faille prendre toutes les précautions nécessaires.
-Je renouvelle mon appel à voter l’amendement numéro 42, avec l’engagement du Gouvernement de travailler avec les parlementaires.
+Je renouvelle mon appel à voter l’amendement numéro quarante-deux, avec l’engagement du Gouvernement de travailler avec les parlementaires.
 La parole est à Madame la ministre de l’éducation nationale.
 Je ne répéterai pas ce que vient de dire la garde des sceaux.
+Je veux simplement vous assurer – vous en particulier, monsieur le rapporteur – que nous sommes bien évidemment à l’écoute et que nous ne souhaitons qu’une chose : trouver le juste équilibre d’un texte qui, par définition, n’a pas été simple à élaborer.
 Nous pouvons déjà nous réjouir d’avoir tranché certains points.
 Visiblement, personne ne conteste ici le fait d’inscrire dans la loi l’obligation faite au juge de transmettre aux employeurs – à l’éducation nationale, pour ce qui me concerne – les condamnations une fois qu’elles ont été prononcées.
 De même, nous sommes tous d’accord pour que cette information se fasse également au stade des poursuites.
@@ -799,18 +851,20 @@ Nous pouvons déjà nous réjouir d’avoir trouvé un accord sur ce sujet.
 Il reste à trancher la question de la transmission de l’information au stade de l’enquête.
 Sur ce sujet, je suis tout à fait disposée à ce que nous échangions entre nous au cours de la semaine prochaine, afin de mieux préciser les conditions dans lesquelles cette transmission d’information pourra s’effectuer.
 Il faut aussi repartir de la situation actuelle.
+Jusqu’à présent, lorsque le juge voulait transmettre cette information au stade de l’enquête, il ne pouvait pas le faire : il s’y prenait donc de façon extrêmement détournée, d’autant que les textes l’auraient plutôt découragé à prendre cette initiative.
 Or il y a des situations où, lorsqu’une enquête est ouverte, lorsqu’un certain nombre de faits suffisamment graves sont établis, il est bon que cette information soit transmise, en particulier à notre ministère.
 Nous ne prétendons pas, nous non plus, être omniscients sur ce sujet.
 Là encore, nous cherchons un équilibre qui est fragile : j’accepte que nous y travaillions ensemble.
-Pour les principaux concernés, cela veut dire beaucoup de choses ! Monsieur le rapporteur ayant retiré son amendement numéro 43 rectifié, je vais maintenant mettre aux voix le seul amendement numéro 42 présenté par Madame la garde des sceaux.
+Pour les principaux concernés, cela veut dire beaucoup de choses ! Monsieur le rapporteur ayant retiré son amendement numéro quarante-trois rectifié, je vais maintenant mettre aux voix le seul amendement numéro quarante-deux présenté par Madame la garde des sceaux.
 Chacun a bien compris que Monsieur le rapporteur adhérait à la proposition, qui lui a été faite par Madame la garde des sceaux, d’un travail en commun avant l’examen du projet de loi par une commission mixte paritaire.
-La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro 38.
+La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro trente-huit.
 C’est un amendement équivalent.
 Il procède de la nécessité de transposer dans le code du sport les mêmes dispositions que dans le code de procédure pénale.
-La parole est à Madame la ministre de l’éducation nationale, de l’enseignement supérieur et de la recherche, pour soutenir l’amendement n° 41.
+La parole est à Madame la ministre de l’éducation nationale, de l’enseignement supérieur et de la recherche, pour soutenir l’amendement n° quarante et un.
 Il s’agit simplement, j’en ai parlé tout à l’heure lors de la présentation du texte, de réparer une omission.
-La parole est à Monsieur Guy Geoffroy, pour soutenir l’amendement numéro 1 rectifié.
+La parole est à Monsieur Guy Geoffroy, pour soutenir l’amendement numéro un rectifié.
 Portant sur le même sujet, cet amendement concerne, pour sa part, le code de l’action sociale et des familles.
+Je tiens à dire qu’il n’est nullement contradictoire, bien au contraire, avec la série d’amendements que mon collègue Pierre Lellouche présentera ensuite, qui concernent un autre code – c’est un ensemble de dispositions qui me semblent tout à fait nécessaires.
 Cet amendement a comme objectif de réparer une faille très importante de notre code de l’action sociale et des familles.
 Ainsi, des individus reconnus coupables de délits sexuels envers des mineurs et qui n’ont été condamnés qu’à des peines de prison avec sursis ne sont pas systématiquement évincés des emplois impliquant une responsabilité envers des enfants.
 Je forme le vœu que le Gouvernement aura la sagesse de suivre cet avis favorable.
@@ -819,7 +873,7 @@ Quel est l’avis du Gouvernement ? Je vais prendre le temps d’une phrase, pui
 Indépendamment de l’avis du rapporteur, monsieur le député, le Gouvernement est favorable à cet amendement, compte tenu de l’intention dont il procède, compte tenu de son contenu, compte tenu des motifs pour lesquels vous l’avez présenté.
 J’émets donc un avis favorable sans réserve.
 Les précautions que vous proposez de prendre vis-à-vis des enfants relèvent de l’éthique et aussi de la bonne gestion de ces établissements.
-Je suis saisi de quatre amendements, numéros 11, 8, 9 et 10, qui peuvent faire l’objet d’une présentation groupée.
+Je suis saisi de quatre amendements, numéros onze, huit, neuf et dix, qui peuvent faire l’objet d’une présentation groupée.
 La parole est à Monsieur Pierre Lellouche, pour les soutenir.
 Permettez-moi d’abord de remercier le Gouvernement d’avoir soutenu l’amendement de mon collègue de Ganay, défendu il y a un instant par mon ami Guy Geoffroy.
 Aujourd’hui, ils sont exposés, ne serait-ce que par le changement des rythmes scolaires, à toutes sortes d’éducateurs dont on sait qu’il est parfois compliqué de les recruter, surtout dans les grandes villes.
@@ -831,11 +885,11 @@ Prévue par le code pénal aujourd’hui, elle n’est que facultative et peut n
 Le problème n’est plus un problème d’information, c’est un problème de sanction pénale immédiate.
 Et, le principe d’individualisation de la peine étant maintenu, si le juge décide de ne pas appliquer cette peine complémentaire, alors il doit expliquer pourquoi à ses yeux la personne condamnée ne représente plus un danger pour les enfants.
 Voilà ce que, pour ma part, je vous ai proposé modestement.
-Quel est l’avis de la commission ? L’amendement numéro 11 prévoit un dispositif particulier, mais il est satisfait par la loi.
+Quel est l’avis de la commission ? L’amendement numéro onze prévoit un dispositif particulier, mais il est satisfait par la loi.
 J’ai fait une présentation groupée de tous mes amendements, monsieur le rapporteur ! En effet, Monsieur Lellouche a défendu l’ensemble de ses amendements.
 C’est pour cela que je lui ai laissé le double du temps normalement imparti.
 Je vous propose donc, monsieur le rapporteur, de vous prononcer sur tous ses amendements.
-Je sollicite donc le retrait de l’amendement numéro 11 parce que les articles D.
+Je sollicite donc le retrait de l’amendement numéro onze parce que les articles D.
 412-4 et D.
 421-20 du code de l’action sociale et des familles satisfont la demande formulée.
 Je ne vais pas entrer dans les détails techniques mais le renouvellement de l’agrément est soumis aux mêmes conditions que l’agrément initial, c’est-à-dire qu’il y a aussi une enquête auprès des proches.
@@ -843,7 +897,7 @@ La disposition que tend à introduire cet amendement serait donc superflue ou su
 En ce qui concerne les autres amendements, nous avons du mal à entrer dans ces logiques d’automatisme.
 Pour l’instant, nous préférons faire confiance au juge, qui peut prononcer l’interdiction, quitte à ce que des instructions soient données au parquet pour que soit rappelée la possibilité de prononcer cette interdiction.
 J’émets donc un avis défavorable sur l’ensemble de ces amendements.
-Quel est l’avis du Gouvernement ? Je crois que le rapporteur a raison lorsqu’il évoque la redondance de la disposition que tend à introduire l’amendement numéro 11.
+Quel est l’avis du Gouvernement ? Je crois que le rapporteur a raison lorsqu’il évoque la redondance de la disposition que tend à introduire l’amendement numéro onze.
 Le Gouvernement était disposé, en fait, à donner un avis favorable, mais il a été démontré que ce serait redondant.
 Pour vous être agréable, monsieur Lellouche, j’aurais donné un avis favorable, sauf que je connais votre exigence et votre rigueur en matière de légistique.
 Vous ne voulez pas qu’on abîme l’écriture de la loi avec une disposition qui ne serait pas indispensable.
@@ -852,9 +906,11 @@ Quant aux autres dispositions, monsieur le député, vous venez de m’interpell
 Nous avons eu un échange un peu informel, effectivement, il y a quelques semaines, sur votre proposition de loi et sur votre désir que nous fassions les choses ensemble.
 Et puis, cet après-midi, nous en avons reparlé.
 Je vous ai dit – et je le redis ici à haute voix – que je regrette de n’avoir pas su que vous souhaitiez me rencontrer très directement : je l’aurais fait très volontiers.
+Simplement, comme vous venez de dire que vous auriez aimé travailler avec mon cabinet, je vous rappelle simplement qu’il y a bien eu une séance travail avec mon cabinet, sur votre proposition de loi et celle de Madame Troendlé, du Sénat.
 Je crois que vous y étiez représenté par votre assistant.
 Absolument ! Cette séance a donc eu lieu, et vous n’avez pas été snobé.
 Je ne prétendais pas l’avoir été.
+Et, si vous avez souhaité me voir, vous savez le respect que j’ai pour les parlementaires : le respect dû par l’exécutif aux parlementaires m’aurait conduite à vous recevoir si j’avais su que vous souhaitiez me voir, moi.
 Cela étant, il y a bien eu une séance de travail avec mon cabinet.
 Pour le reste, nous sommes défavorables aux dispositions que vous proposez, parce que ce que vous souhaitez est déjà possible, à l’appréciation de la juridiction.
 Vous souhaitez rendre obligatoire cette peine complémentaire ; vous en avez le droit.
@@ -867,29 +923,31 @@ Nous prenons donc, à juste titre, des précautions, et à juste titre, vous pos
 Nous l’entendons parfaitement, mais le risque nous paraît encore plus grand pour la peine d’interdiction définitive obligatoire.
 En tout état de cause, c’est un avis défavorable que nous émettons, sur l’ensemble des amendements.
 La parole est à Monsieur Guy Geoffroy.
-Mais ce que vous avez dit à propos de l’amendement numéro 42 du Gouvernement, et ce que vous dites à présent que nous examinons ces amendements de Pierre Lellouche, est bien paradoxal.
+Je voudrais très simplement dire au Gouvernement et au rapporteur que nous ne mettons pas du tout en doute leur volonté profonde et sincère d’apporter une réponse à nos concitoyens, bouleversés par des faits qui ne doivent pas se reproduire.
+Mais ce que vous avez dit à propos de l’amendement numéro quarante-deux du Gouvernement, et ce que vous dites à présent que nous examinons ces amendements de Pierre Lellouche, est bien paradoxal.
 Tout à fait ! Vous êtes prêts à laisser condamner par l’opinion, par mégarde – car ce n’est pas votre intention –, quelqu’un qui n’aurait rien fait.
+Dans le même temps, vous voulez laisser au juge le soin d’apprécier si une personne condamnée pour des agissements sexuels à l’encontre de mineurs doit ou non être privée pour un temps indéterminé de la capacité d’exercer auprès des mineurs.
 Là est votre contradiction ! Après l’avis que vous venez de donner, votre message perd de la puissance.
-Monsieur Lellouche, retirez-vous l’amendement numéro 11 ? Si cela peut faire plaisir à Madame la garde des sceaux : je lui donne toujours ma préférence.
+Monsieur Lellouche, retirez-vous l’amendement numéro onze ? Si cela peut faire plaisir à Madame la garde des sceaux : je lui donne toujours ma préférence.
 Sentez-vous libre, monsieur Lellouche, ce n’est pas moi qui ai demandé le retrait de cet amendement.
-Je prends note du retrait de l’amendement numéro 11.
-La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro 36.
-Cet amendement vise à permettre aux services pénitentiaires d’insertion et de probation d’avoir accès directement au bulletin numéro 1 du casier judiciaire des condamnés.
+Je prends note du retrait de l’amendement numéro onze.
+La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro trente-six.
+Cet amendement vise à permettre aux services pénitentiaires d’insertion et de probation d’avoir accès directement au bulletin numéro un du casier judiciaire des condamnés.
 Il faut savoir que les conseillers d’insertion et de probation ont, dans l’état actuel du droit, accès à ces bulletins, mais pas directement : ils doivent en faire la demande aux magistrats ou aux greffiers des établissements pénitentiaires.
 Simplement, cela prend du temps – comme toute procédure, toute formalité : nous le savons bien.
 Pour ces raisons, étant donné que de toute façon ils ont accès à ces données, nous vous proposons qu’ils puissent en faire la demande plus directement.
 Les informations contenues dans ce bulletin peuvent concerner des tiers, détenus ou condamnés.
 En contrepartie, les mêmes obligations qui pèsent sur les magistrats et les greffiers des établissements pénitentiaires – qui peuvent, eux, demander directement ces bulletins – pèseront sur les conseillers d’insertion et de probation qui pourront demander directement ces bulletins.
-La commission a supprimé l’article 6.
-La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro 22, qui vise à insérer un article additionnel après l’article 6.
+La commission a supprimé l’article six.
+La parole est à Monsieur Dominique Raimbourg, rapporteur, pour soutenir l’amendement numéro vingt-deux, qui vise à insérer un article additionnel après l’article six.
 Cet amendement vise à combler une lacune de la loi.
 La législation interdit en effet les dons de personnes morales en matière de financement de la vie publique mais, à cause d’une erreur, elle n’interdit pas aux partis de recevoir de tels dons.
 De ce fait, le donateur est puni, mais pas le donataire.
 C’est un oubli pur et simple, qui a résulté involontairement d’une manipulation très compliquée, et qui est donc absolument contraire à la volonté du législateur.
 Il découle d’un amendement du Sénat : c’est une erreur sénatoriale.
-Je pense qu’il faut rattraper cette erreur ! La parole est à Monsieur le rapporteur, pour soutenir l’amendement numéro 7.
+Je pense qu’il faut rattraper cette erreur ! La parole est à Monsieur le rapporteur, pour soutenir l’amendement numéro sept.
 C’est un amendement de coordination, afin d’appliquer ce texte outre-mer.
-La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro 37, qui vise à insérer un article additionnel après l’article 7.
+La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro trente-sept, qui vise à insérer un article additionnel après l’article sept.
 Cet amendement vise à différer l’entrée en vigueur des dispositions qui ont été prévues dans le cadre de la transposition de la directive sur les victimes.
 La parole est à Monsieur Guy Geoffroy, pour une explication de vote au nom du groupe Les Républicains.
 Je donnerai brièvement connaissance au Gouvernement et à Monsieur le rapporteur du vote du groupe que je représente.

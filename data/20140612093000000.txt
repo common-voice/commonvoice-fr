@@ -1,5 +1,5 @@
 La séance est ouverte.
-L’ordre du jour appelle la discussion de la proposition de loi renforçant la lutte contre l’apologie du terrorisme sur internet (numéros 1907, 2000).
+L’ordre du jour appelle la discussion de la proposition de loi renforçant la lutte contre l’apologie du terrorisme sur internet (numéros mille neuf cent sept, deux mille).
 La parole est à Monsieur Guillaume Larrivé, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République.
 Nous savons que le premier danger vient, aujourd’hui, des divers avatars de l’islamisme radical armé, ce qu’il est convenu d’appeler le djihadisme.
 Il a frappé la France au cœur il y a deux ans, à Toulouse et à Montauban.
@@ -13,6 +13,7 @@ Nous savons aussi que chaque jour, chaque nuit, des esprits faibles sont manipul
 Il est malheureusement très facile de trouver sur internet, par exemple, une revue en ligne diffusée par l’une des métastases d’Al Qaïda.
 Chacun peut y trouver un mode d’emploi très précis de fabrication de bombe et des conseils pratiques pour frapper la France.
 Il est également très aisé d’accéder, en quelques secondes, à des vidéos présentant, pour les glorifier, des scènes de décapitation par des djihadistes, d’ores et déjà visionnées par des dizaines de milliers d’internautes.
+Il y a aujourd’hui urgence à réagir : sur internet, nos ennemis terroristes ont su investir un champ de bataille virtuel et psychologique, dont les conséquences sont, hélas, bien réelles et physiques, et sur lequel les démocraties ne sont pas suffisamment entrées.
 Face à la menace, notre devoir collectif est d’apporter des réponses opérationnelles et juridiques solides, aussi solides et efficaces que possible.
 Première mesure : nous voulons renforcer les obligations de signalement qui pèsent sur les fournisseurs d’accès et les hébergeurs de sites internet.
 Depuis dix ans, comme je l’ai rappelé devant la commission des lois, il existe un double dispositif de signalement d’un certain nombre de contenus illicites, de l’internaute à l’opérateur et de celui-ci aux autorités publiques.
@@ -20,6 +21,7 @@ Nous proposons que ce dispositif de vigilance soit explicitement étendu aux con
 Il faut que, demain, les fournisseurs d’accès à internet et les hébergeurs de sites aient l’obligation de signaler aux autorités les sites faisant l’apologie du terrorisme.
 C’est le minimum minimorum que l’on puisse exiger d’eux.
 Deuxième mesure : nous voulons donner la faculté, aux services du ministère de l’intérieur, d’obtenir le blocage, en France, de l’accès aux sites de propagande terroriste.
+Nous proposons un dispositif qui s’applique, aussi largement que possible, aux contenus à caractère public, qu’il s’agisse de sites internet classiques, de blogs, de forums de discussion, de plates-formes vidéo ou de pages de réseaux sociaux comme Facebook ou Twitter.
 Le blocage de l’accès est une mesure de police administrative, prise pour la sauvegarde de l’ordre public, ayant un caractère aussi opérationnel que possible : le site resterait actif, mais les internautes français n’y auraient plus accès.
 Quand ils chercheraient à se connecter, les utilisateurs seraient renvoyés à une page internet leur indiquant que le site qu’ils veulent consulter n’est pas accessible, car tombant sous le coup de la loi.
 Concrètement, les fournisseurs d’accès à internet – Orange, Free, SFR, Bouygues, etc.
@@ -30,13 +32,14 @@ Dans certains cas, les services auront intérêt à laisser perdurer l’accès 
 Mais dans d’autres cas, comme l’a explicitement reconnu le ministre de l’intérieur, Bernard Cazeneuve, devant la commission des lois, il faut «couper le signal», afin d’éviter que la haine ne se propage massivement sur les réseaux.
 Troisième mesure : nous proposons de créer un nouveau délit réprimant la consultation habituelle de sites internet incitant au terrorisme.
 Cette mesure est juridiquement solide : elle respecte, en effet, l’équilibre nécessaire entre les exigences de la sauvegarde de l’ordre public et celles de la protection des libertés.
+J’ai rappelé devant la commission des lois que la Cour de cassation, saisie d’une disposition pénale très voisine, avait estimé en juin deux mille douze qu’il n’était pas nécessaire de saisir le Conseil constitutionnel d’une question prioritaire de constitutionnalité.
 Cette incrimination nouvelle nous paraît indispensable pour mieux repérer et sanctionner les individus en voie de radicalisation et de basculement dans la violence terroriste.
 Cela serait très utile, en effet, face à des individus qui, parce qu’ils sont isolés, n’entrent pas, à ce stade, dans le champ du délit d’association de malfaiteurs en lien avec une entreprise terroriste.
 Cette incrimination permettrait, en outre, de mieux protéger les mineurs, qui sont les plus vulnérables aux stratégies d’endoctrinement.
 Ainsi un individu qui inciterait un mineur à se livrer à une telle consultation pourrait-il être poursuivi pour corruption de mineur.
 Quant au jeune mineur lui-même, une peine alternative pourrait lui être réservée, telle qu’un stage de prévention adapté permettant, face aux prêcheurs de haine, de développer un contre-discours.
 Quatrième mesure : nous proposons de renforcer les possibilités de «cyber-patrouilles» pour lutter contre le terrorisme.
-De tels moyens d’investigation ont été rendus possibles pour la lutte antiterroriste dès 2011, grâce à la LOPPSI 2.
+De tels moyens d’investigation ont été rendus possibles pour la lutte antiterroriste dès deux mille onze, grâce à la LOPPSI deux.
 Ils permettent aujourd’hui, sous un régime de police judiciaire, de constater et de réprimer les infractions de provocation ou d’apologie du terrorisme.
 Nous souhaitons étendre cette possibilité à la répression du nouveau délit de consultation habituelle des sites internet faisant l’apologie du terrorisme.
 Nous proposons, en outre, un amendement autorisant de telles cyber-patrouilles antiterroristes à des fins de police administrative, c’est-à-dire dans une optique préventive, afin de donner une base juridique plus solide à certaines pratiques et d’en améliorer le contrôle.
@@ -54,7 +57,7 @@ Mes chers collègues, monsieur le ministre, chacun doit prendre ses responsabili
 (Applaudissements sur les bancs des groupes UMP et UDI.)  La parole est à Monsieur le secrétaire d’État chargé des relations avec le Parlement.
 Madame la présidente, monsieur le rapporteur, mesdames, messieurs les députés, je souhaite tout d’abord excuser Bernard Cazeneuve, ministre de l’intérieur, retenu pour un déplacement prévu de longue date en Corse.
 Il y sera très bien accueilli ! Vous avez l’air, monsieur Ciotti, de vous réjouir des événements… C’était une simple remarque de la part de notre collègue.
-Le ministre de l’intérieur a souhaité manifester tout l’intérêt qu’il porte à cette proposition de loi en se rendant devant la commission des lois, mercredi 4 juin.
+Le ministre de l’intérieur a souhaité manifester tout l’intérêt qu’il porte à cette proposition de loi en se rendant devant la commission des lois, mercredi quatre juin.
 Le Gouvernement est attaché à ce que, en matière de lutte contre le terrorisme, l’on transcende les clivages partisans.
 Ces sujets sensibles doivent être traités hors de tout esprit polémique, en mobilisant tous les talents pour parvenir aux meilleures solutions dans l’intérêt de la sécurité de notre pays.
 Le Gouvernement est aux côtés de toutes celles et tous ceux qui se préoccupent de l’augmentation du nombre de recruteurs et de prêcheurs de haine.
@@ -63,15 +66,17 @@ Le ministère de l’intérieur est d’ailleurs déterminé à ce que tout soit
 Nous partageons donc le constat et sommes très largement animés de la même volonté.
 La proposition de loi dont Guillaume Larrivé est l’auteur et le rapporteur est l’expression d’une initiative républicaine forte.
 Le Gouvernement partage les préoccupations qui ont inspiré ces travaux.
+Les sites internet qui font l’apologie du terrorisme, bien davantage qu’une simple menace, constituent un vecteur essentiel de l’endoctrinement qui mène à une radicalisation violente, au nom d’objectifs prétendument humanitaires ou d’une pensée religieuse totalement dévoyée.
 Le Gouvernement tient donc à saluer l’initiative de Guillaume Larrivé, qui a pris la mesure des défis auxquels notre pays est confronté.
 Néanmoins, le contenu de ce texte de loi soulève des interrogations.
 (Exclamations sur les bancs du groupe UMP.) Dans sa proposition de loi, Guillaume Larrivé recommande la création d’un délit pénal en cas de consultation habituelle de sites aux contenus terroristes.
 Cette préoccupation est louable.
-Cependant, on sait que le Conseil d’État, depuis l’examen de la loi antiterroriste de décembre 2012, estime que cette incrimination constituerait une violation disproportionnée de la liberté d’opinion et de communication garantie par la Constitution.
-Marie-Françoise Bechtel, qui avait été la rapporteure de la loi de 2012, le sait mieux que quiconque.
+Cependant, on sait que le Conseil d’État, depuis l’examen de la loi antiterroriste de décembre deux mille douze, estime que cette incrimination constituerait une violation disproportionnée de la liberté d’opinion et de communication garantie par la Constitution.
+Marie-Françoise Bechtel, qui avait été la rapporteure de la loi de deux mille douze, le sait mieux que quiconque.
+De plus, si ces dispositions étaient adoptées, les pouvoirs publics seraient confrontés à un risque très sérieux : au-delà d’une censure a priori par le Conseil constitutionnel, ce nouveau délit pourrait être invalidé à l’issue de l’examen d’une question prioritaire de constitutionnalité.
 Ce serait là le pire scénario pour la sécurité de notre pays et la stabilité de notre action publique.
 Sur une question aussi essentielle et aussi complexe, la loi doit être juridiquement incontestable.
-C’est la raison pour laquelle le Gouvernement vous demande de ne pas adopter les articles 2, 3 et 4 de la présente proposition de loi.
+C’est la raison pour laquelle le Gouvernement vous demande de ne pas adopter les articles deux, trois et quatre de la présente proposition de loi.
 En d’autres termes, il s’agirait de permettre aux utilisateurs de signaler ces sites aux fournisseurs d’accès, à charge pour ces derniers de transmettre ce signalement aux autorités publiques.
 Le Gouvernement est, sur le fond, favorable à cette disposition.
 En revanche, le même article 1ier vise à interdire l’accès aux sites faisant l’apologie du terrorisme.
@@ -108,16 +113,18 @@ Ce qui est en jeu ici – j’y insiste –, c’est le terrorisme, autrement di
 Aussi adoptons, à tout le moins, cette partie du texte, pour pallier dès à présent un vide juridique qui, demain, pourrait être fatal à notre sécurité nationale.
 Rien ne serait pire, en effet, que de négliger la puissance d’endoctrinement des sites djihadistes, comparable aux méthodes sectaires.
 Je sais bien que tel n’est pas votre cas, monsieur le secrétaire d’État, mais il faut les contrer sans perdre un instant.
-On recense 850 djihadistes potentiels – un nombre en hausse de 75 % depuis six mois – qui forment le premier contingent des combattants européens du djihad en Syrie.
+On recense huit cent cinquante djihadistes potentiels – un nombre en hausse de soixante-quinze % depuis six mois – qui forment le premier contingent des combattants européens du djihad en Syrie.
 Nombre d’entre eux constitueront une menace latente dès leur retour ; plusieurs sont déjà revenus.
+Le patron de l’Unité de coordination de la lutte antiterroriste nous a révélé qu’Al Qaïda a installé ses camps d’entraînement en Syrie pour frapper, demain, l’Europe, dont la France, qui constitue pour elle – nous le savons – une cible privilégiée.
 On ignore si Nemmouche était le premier d’entre eux, mais ces centaines de soldats d’Al Qaïda rejoindront bientôt, en Europe, les centaines de jeunes revenus du djihad.
 Ce délit placerait d’ailleurs notre législation en conformité avec le mémorandum de Rabat, cosigné par les membres du Forum mondial contre le terrorisme, auquel la France appartient, et qui préconise la criminalisation des actes préparatoires.
 L’inscription de ce délit au casier judiciaire permettrait un meilleur signalement de l’intéressé – nous savons combien notre système présente de failles à cet égard – afin, notamment, d’éviter son départ vers le front syrien.
+Il permettrait, enfin, d’incriminer les majeurs qui incitent des mineurs à la consultation de ces sites, sur le fondement du délit de corruption de mineurs, et de proposer à ces derniers un stage de désendoctrinement, comme le suggère très justement notre rapporteur.
 Nous avons entendu votre argument relatif au risque juridique encouru par la notion de «consultation habituelle» : Madame Bechtel, comme vous-même, monsieur le secrétaire d’État, y avez eu recours.
 De notre point de vue, cet argument n’est pas totalement fondé, et vous ne pouvez pas aujourd’hui, du moins dans cet hémicycle, vous ériger en juge constitutionnel.
 Elle répondrait donc – selon nous, en tout cas – aux exigences du Conseil constitutionnel.
 Aussi, adoptons cette proposition de loi : nous verrons bien ce qu’en dira le juge constitutionnel.
-Un amendement d’Éric Ciotti, adopté ce matin par la commission,… Belle avancée ! …vise à inscrire d’ores et déjà ce principe à l’article 25 du code civil, pour les personnes ayant une double nationalité.
+Un amendement d’Éric Ciotti, adopté ce matin par la commission,… Belle avancée ! …vise à inscrire d’ores et déjà ce principe à l’article vingt-cinq du code civil, pour les personnes ayant une double nationalité.
 Il faudra rendre plus performante la lutte contre les départs à l’étranger, notamment via la Turquie, et veiller à ce que vos homologues européens, notamment l’Allemagne, s’engagent à appliquer le mandat d’arrêt européen.
 On pourrait même s’inspirer de la Grande Bretagne pour pénaliser, voire empêcher, le retour de personnes parties faire le djihad à l’étranger.
 Internet ne doit pas demeurer un refuge, voire une arme entre les mains des ennemis des démocraties.
@@ -136,7 +143,7 @@ De nombreuses photos ou vidéos faisant la propagande du terrorisme, voire montr
 Aussi, nous saluons l’initiative du rapporteur Guillaume Larrivé et de ses collègues de déposer une proposition de loi qui renforce l’arsenal de prévention et de répression, tout en adaptant les instruments juridiques à notre disposition.
 Certes, des dispositifs ont déjà été mis en place pour lutter contre l’apologie du terrorisme sur internet.
 Je pense notamment à l’Office central de lutte contre la criminalité liée aux technologies de l’information et de la communication, l’OCLCTIC.
-En 2013, l’Office recevait près d’un signalement de site de propagande terroriste par jour.
+En deux mille treize, l’Office recevait près d’un signalement de site de propagande terroriste par jour.
 Un autre acteur dans la lutte contre l’endoctrinement est la Mission interministérielle de vigilance et de lutte contre les dérives sectaires, la MIVILUDES.
 L’action de ces organismes ne suffit cependant pas à faire face à l’ampleur qu’a prise le phénomène de propagande ces derniers temps.
 Mener une action à la fois répressive, curative et surtout préventive est devenu une urgence.
@@ -149,6 +156,7 @@ Enfin, nous approuvons la proposition d’élargir les moyens de «cyber-patroui
 Ce plan est bien évidemment nécessaire et nous l’approuvons dans son principe.
 Nous notons en outre que certaines mesures rejoignent celles de la présente proposition de loi.
 Je pense notamment à la généralisation de l’enquête sous pseudonyme et aux mesures favorisant la suppression rapide des contenus illicites et des sites de recrutement.
+Pour autant, en adoptant cette proposition de loi, nous pourrions aller plus loin,… Bien sûr ! …et doter dès maintenant les enquêteurs et les différents services impliqués dans la prévention du terrorisme d’instruments législatifs supplémentaires leur permettant de faire face au développement du cyberdjihadisme.
 La lutte contre le terrorisme et le djihadisme ne peut pas attendre.
 Nous avons l’occasion, dès aujourd’hui, d’améliorer notre dispositif législatif.
 Saisissons-la dans l’intérêt de nos concitoyens.
@@ -156,23 +164,26 @@ Mes chers collègues, le groupe UDI votera cette proposition de loi qui vise à 
 (Applaudissements sur les bancs du groupe UMP.) La parole est à Madame Marie-Françoise Bechtel.
 Cette proposition procède tout d’abord d’une actualité incontournable.
 À vrai dire, ce n’est pas seulement ni même principalement la vitesse de propagation de ces nouvelles formes de communication qui est en cause, c’est aussi leur nature même.
-Et si l’on dépasse le cadre de la lutte préventive, le dispositif judiciaire antiterroriste reposant, on le sait, sur l’incrimination pour entreprise à but terroriste avec centralisation des poursuites et du jugement remonte à 1986.
-Immédiatement ensuite, la loi anti-terroriste du 21 décembre 2012 présentée par le ministre de l’intérieur d’alors, Manuel Valls, prolongeait ce travail, comme cela vient d’être mis en évidence.
+Ainsi que je le soulignais au début de mon intervention, la présente proposition de loi s’insère dans une séquence législative qui se déploie depuis près d’une décennie, puisqu’elle a commencé avec la loi anti-terroriste du vingt janvier vingt06.
+Et si l’on dépasse le cadre de la lutte préventive, le dispositif judiciaire antiterroriste reposant, on le sait, sur l’incrimination pour entreprise à but terroriste avec centralisation des poursuites et du jugement remonte à mille neuf cent quatre-vingt-six.
+Immédiatement ensuite, la loi anti-terroriste du deux1 décembre vingt1deux présentée par le ministre de l’intérieur d’alors, Manuel Valls, prolongeait ce travail, comme cela vient d’être mis en évidence.
 Le ministre souhaitait que la réflexion soit approfondie afin d’aboutir à des dispositions qui fussent à la fois opérationnelles et conformes à la Constitution.
 Cette disposition est selon moi de bon aloi et ne semble pas excessive comparée aux autres éléments figurant déjà dans la loi.
 Le Gouvernement a d’ailleurs récemment marqué son intérêt pour cette disposition par la voix du secrétaire d’État chargé des relations avec le Parlement.
 La proposition de loi vise également à créer un délit de consultation habituelle des sites faisant l’apologie du terrorisme.
 Sur ce point, je ne peux que remarquer la persistance d’un réel désaccord entre le groupe SRC et l’UMP.
 Cette incrimination était en effet déjà prévue par le projet de loi Mercier et avait alors recueilli un avis non pas légèrement réservé mais profondément défavorable du Conseil d’État.
+Elle était ensuite revenue en discussion sous la forme d’un amendement déposé par le groupe UMP au cours des débats sur la loi relative à la sécurité et à la lutte contre le terrorisme de vingt1deux, dont j’étais le rapporteur.
 Nous aurons l’occasion de rappeler les motifs très fermes de notre opposition à une telle disposition.
 Enfin, les auteurs du texte proposent, notamment par la voie d’un amendement qui a été introduit lors de la discussion en commission des lois, de faciliter la cyber-intrusion.
-Nous pourrons, là encore, avoir un échange sur cette disposition dont les débats de la loi anti-terroriste de 2012 avaient montré tout l’intérêt.
+Nous pourrons, là encore, avoir un échange sur cette disposition dont les débats de la loi anti-terroriste de vingt1deux avaient montré tout l’intérêt.
 Toutefois, la pertinence du dispositif envisagé doit être évaluée, je dirais même soupesée, tant au regard des questions de constitutionnalité que celui-ci pourrait soulever que quant à son adéquation au but recherché.
 Le dialogue reste néanmoins ouvert sur ce point.
 Dans son ensemble, cette proposition de loi comporte donc certaines dispositions qui demandent à être étudiées plus précisément, en particulier pour ce qui concerne l’intrusion active des services dans la communication en ligne.
 De même, il est nécessaire de s’assurer que les obligations nouvelles et assorties de sanctions qui seraient faites aux fournisseurs d’accès à internet et hébergeurs auront un effet véritable.
 Il est très souhaitable de mettre les FAI et les hébergeurs devant leurs responsabilités.
 Pour ma part, je pense d’ailleurs que, en la matière, tout dispositif aussi contraignant que possible – dans les limites de la constitutionnalité – est souhaitable.
+En ce qui concerne la maturité de certaines dispositions du texte, je note qu’une réunion contre le terrorisme djihadiste s’est tenue tout récemment, le cinq juin, entre le ministre Bernard Cazeneuve et son homologue belge sur l’élaboration de pratiques communes.
 Cette concertation a porté notamment sur les signalements dans le cadre du Système d’information Schengen, ainsi que sur les informations réciproques et la transmission à Europol de toute information utile permettant de mobiliser ses capacités d’analyse.
 Je n’évoquerai pas en détail, à ce stade, certains amendements qui ont été déposés très récemment – je pense notamment à l’amendement relatif à ceux que l’on nomme les «loups solitaires».
 Néanmoins, mes chers collègues, cela montre bien qu’il est nécessaire de continuer à travailler sur ces dispositions.
@@ -182,21 +193,25 @@ Nous espérons poursuivre avec leurs auteurs un dialogue constructif.
 (Applaudissements sur les bancs du groupe SRC.) La parole est à Madame Françoise Descamps-Crosnier.
 Il y a là une politique constante de la France, quelle que soit la majorité qui préside à son action.
 Comme l’ont déjà souligné plusieurs de mes collègues, ce sujet ne doit pas faire l’objet de clivages d’ordre partisan, qui ne sauraient que fragiliser le pays.
-Le drame du 11 septembre 2001 et les événements qui l’ont suivi ont bien évidemment dramatisé cette question en mettant en lumière la vulnérabilité de nos sociétés face à la monstruosité terroriste et ses différents avatars.
+Le drame du onze septembre deux mille un et les événements qui l’ont suivi ont bien évidemment dramatisé cette question en mettant en lumière la vulnérabilité de nos sociétés face à la monstruosité terroriste et ses différents avatars.
 Nous avons donc poursuivi et amplifié l’œuvre législative et réglementaire destinée à donner à la puissance publique les moyens de lutter efficacement contre le terrorisme.
 Le texte qui est soumis aujourd’hui à notre examen, présenté par notre collègue Guillaume Larrivé et plusieurs membres du groupe UMP, se propose de poursuivre dans cette voie en renforçant la lutte contre l’apologie du terrorisme sur internet.
 Il s’agit notamment d’adapter notre droit à la modernisation des moyens de communication et aux nouveaux comportements et risques qui s’y attachent.
+Nous sommes donc ici à la conjonction de plusieurs mouvements et phénomènes récents, mêlant, dans un même élan, les dernières technologies disponibles, c’est-à-dire l’état le plus avancé de la connaissance humaine, et la haine la plus obscurantiste qui soit.
 Ce dont il est question aujourd’hui, c’est un phénomène nouveau qui mêle nouvelles technologies et extrémismes ; c’est la rencontre du meilleur et du pire, avec un asservissement possible du premier au second.
 Personne ne saurait donc nier l’importance éminente de la question que vous soulevez à travers ce texte.
 Comme plusieurs d’entre nous l’ont déjà souligné, la vraie question est davantage de savoir si la proposition de loi dont nous discutons aujourd’hui répond efficacement aux objectifs que vous vous proposez d’atteindre.
 Ben voyons ! Les outils proposés sont-ils adaptés ? De mon point de vue, la réponse est non.
 Je ne reviendrai pas sur les éléments, notamment juridiques, que ma collègue Marie-Françoise Bechtel a exposés.
 La capacité d’adaptation des terroristes est telle qu’ils ne se laisseront certainement pas arrêter par le blocage d’un site.
+Je ne mentionnerai pas les outils de ce qu’on appelle le «dark net », afin de ne pas en faire la publicité, mais la représentation nationale doit intégrer leur existence si elle veut être efficace lorsqu’elle aborde ce type de questions.
 En l’état, les dispositions que vous nous proposez ne permettront en rien de traiter le problème que représentent ces espaces.
 Ce qui permettrait de le faire, ce serait d’affecter à la lutte contre ces espaces et contre ces nouvelles pratiques – lesquelles ont déjà cours, d’ailleurs, depuis quelques années – des professionnels capables d’utiliser ces outils.
 En clair, cela suppose de consacrer à cette question des moyens humains et techniques nouveaux.
 Or cet aspect n’est pas abordé par la proposition de loi que nous examinons aujourd’hui.
 Ce n’est pas un projet de loi de finances ! Seuls des moyens supplémentaires par rapport à ceux qui sont disponibles aujourd’hui nous permettront d’apporter une réponse efficace.
+Il faudra même aller au-delà de la lutte contre le terrorisme, puisque nombre d’autres acteurs – des marchands d’armes aux trafiquants de drogue – s’emparent de ces espaces, et ce en toute impunité et en toute sécurité jusqu’à présent.
+Mais faisons attention, au passage, de ne pas jeter le bébé avec l’eau du bain : ces espaces permettent à des causes plus nobles, comme la dissidence politique, dans certains pays aux mœurs non démocratiques, de trouver un espace de liberté indispensable.
 Si nous voulons aller suffisamment vite, de façon à ne pas être continuellement à la traîne des progrès technologiques et des nouvelles possibilités et usages qui en découlent, nous ne pouvons pas nous fonder uniquement sur la règle.
 Il y faut la pratique et des moyens, à savoir des enquêteurs.
 Pour cette même raison, j’applaudis à l’idée, que vous nous soumettez, qui consiste à créer des cyber-patrouilles, à ceci près qu’elles existent déjà.
@@ -206,14 +221,16 @@ Je saluerai seulement, dans ce domaine, l’action de Monsieur le ministre de l�
 La majorité est pleinement consciente du péril qu’il y aurait à ne pas apporter une réponse puissante à ce problème.
 C’est pourquoi elle salue et attend avec impatience – ce qui ne veut pas dire qu’il s’agit, aujourd’hui, de jouer la montre –, le projet de loi qui nous a été annoncé.
 Ce texte devra offrir les garanties juridiques les plus solides.
+Il sera également alimenté par les réflexions des parlementaires, sur tous les bancs, avec pour seule fin de rechercher les mesures d’intérêt général qui soient les plus efficaces possible pour lutter contre la radicalisation, l’endoctrinement et le recrutement pour le terrorisme.
 (Applaudissements sur les bancs du groupe SRC.) La parole est à Monsieur Éric Ciotti.
 Hier, la ville de Mossoul est tombée aux mains d’intégristes terroristes.
-Nous savons aussi ce qui se passe en Syrie, où, comme on l’a rappelé, 320 Français – encore n’est-ce qu’une estimation, hélas imprécise ! – sont susceptibles de combattre.
+Nous savons aussi ce qui se passe en Syrie, où, comme on l’a rappelé, trois cent vingt Français – encore n’est-ce qu’une estimation, hélas imprécise ! – sont susceptibles de combattre.
 De la même façon, le drame du musée juif de Bruxelles a été évoqué.
 Enfin, nous avons tous en mémoire l’affaire Mehra.
 Nous devons donc, plus que jamais, être mobilisés et unis ; nous devons exclure toute controverse et toute polémique pour faire en sorte que tous les républicains tiennent le même discours et s’opposent ensemble, avec fermeté et résolution, au terrorisme.
-Notre pays s’est progressivement doté, depuis 1986, d’un cadre juridique de lutte contre le terrorisme.
+Notre pays s’est progressivement doté, depuis mille neuf cent quatre-vingt-six, d’un cadre juridique de lutte contre le terrorisme.
 Jusqu’à une date récente, il s’est révélé efficace.
+Hélas ! les évolutions que je rappelais à l’instant et les menaces de plus en plus fortes doivent nous conduire à adapter notre dispositif de protection : nous devons faire en sorte que notre pays utilise les armes efficaces et adaptées au combat contre le terrorisme.
 Dans ce cadre, je tiens à rendre hommage à nos services de renseignement, dont l’efficacité est connue et reconnue.
 En commission des lois, le ministre de l’intérieur a reconnu qu’il était nécessaire de rassembler tous les Français face au terrorisme.
 Je tiens à le souligner, car nous avions déploré la rupture de l’unité nationale lors de l’affaire Mehra.
@@ -225,8 +242,8 @@ Internet est un espace non seulement de liberté, mais aussi de risques et de me
 Monsieur le rapporteur a précisé tout à l’heure les mesures qu’il souhaitait voir adoptées à travers ce texte ; je n’y reviendrai donc pas.
 Le blocage de l’accès à certains sites internet, la création d’un nouveau délit visant à réprimer la consultation de tels sites, ou encore l’augmentation des moyens d’investigation des policiers : toutes ces mesures sont particulièrement nécessaires.
 J’ai souhaité, pour ma part, compléter ce dispositif par plusieurs amendements cosignés par Philippe Goujon et Guillaume Larrivé, amendements qui, je tiens à le souligner, ont été adoptés tout à l’heure en commission des lois.
-L’un d’entre eux vise à étendre la déchéance de la nationalité, d’ores et déjà prévue à l’article 25 du code civil, aux Français condamnés pour des actes de terrorisme commis à l’étranger.
-La loi du 21 décembre 2012, présentée par Manuel Valls, a créé le délit de commission d’actes terroristes à l’étranger.
+L’un d’entre eux vise à étendre la déchéance de la nationalité, d’ores et déjà prévue à l’article vingt-cinq du code civil, aux Français condamnés pour des actes de terrorisme commis à l’étranger.
+La loi du vingt et un décembre deux mille douze, présentée par Manuel Valls, a créé le délit de commission d’actes terroristes à l’étranger.
 Nous souhaitons que le code civil prévoie, pour ceux qui se sont rendus coupables de tels actes, la possibilité d’une déchéance de nationalité.
 Le Premier ministre semble d’ailleurs partager cette préoccupation, puisqu’il a dit que la question de la déchéance de la nationalité n’était pas taboue.
 Nous avons déposé un autre amendement visant à créer une nouvelle infraction, à savoir la préparation d’un acte terroriste.
@@ -246,6 +263,7 @@ Alors, pour sauver les quelques jeunes potentiellement réceptifs à ces «prêc
 Cette mesure paraît aller dans le bon sens.
 Bloquer des sites permettrait de limiter la visibilité de certains groupes terroristes.
 Néanmoins, cette PPL est trop restrictive car elle ne concerne que les images.
+Votez donc l’amendement qui l’élargit ! Il faut souligner que le blocage des sites, dont on sait qu’ils sont en constante mutation, ne pourra être opérant qu’en France ; la consultation depuis l’étranger des sites incriminés ne sera pas enrayée.
 Je rappelle aussi que le blocage judiciaire d’un site a souvent pour conséquence immédiate la duplication et la démultiplication de celui-ci.
 Nous ne pourrons enrayer l’apologie du terrorisme uniquement par une mesure préventive de blocage administratif à l’accès à ces sites.
 Quant au délit de consultation, cela a été dit notamment par Madame Bechtel, il pose des problèmes constitutionnels liés à la proportionnalité des consultations ; il ne serait donc pas opérant.
@@ -253,6 +271,7 @@ Enfin, le cyber-patrouillage va dans le bon sens, mais de nombreux points ont be
 Comment s’opérerait le recrutement des policiers ? Quelle serait la limite sur le risque de provocation au terrorisme ? La législation française n’est pas la législation américaine.
 Mes chers collègues, la problématique demeure la même.
 Il nous faut trouver une action intégrée de tous les ministères concernés.
+Rien ne se fera sans le ministère de l’intérieur, mais rien ne sera non plus sans le soutien du ministère de la justice, du ministère des affaires étrangères, du ministère du budget, du ministère de la famille et du ministère de l’éducation nationale.
 Je passe sur la dimension évidemment internationale des solutions et ne ferai pas grief à l’auteur de la proposition de loi de ne pas en avoir parlé.
 Mais il est absolument nécessaire de nous inscrire dans un cadre européen et transatlantique pour être plus efficaces.
 Le sujet est trop grave pour être traité sérieusement par une proposition de loi de quatre articles, sans étude d’impact, sans l’assurance d’une coopération active des principaux fournisseurs d’accès à internet et des hébergeurs.
@@ -271,7 +290,7 @@ Cela nous renvoie à nos échecs.
 Depuis des années et des années, nous sommes incapables de réussir l’intégration de Français à ce pays qui est le leur.
 Faute de rêves, ils s’en vont nourrir des cauchemars.
 La France n’a pas donné le rêve, elle reçoit en retour le cauchemar.
-En Syrie, 320 djihadistes français seraient présents ; ils risquent hélas de revenir.
+En Syrie, trois cent vingt djihadistes français seraient présents ; ils risquent hélas de revenir.
 Bien sûr, des dispositions ont été prises, mais la lutte est difficile : Mossoul vient de tomber ; un attentat ignoble a été commis au musée juif de Bruxelles.
 Ayant eu à m’occuper de l’affaire Merah à ses débuts, en tant qu’avocat du jeune parachutiste assassiné, j’ai pu voir les limites de ce qu’il est possible de faire.
 Tout cela est particulièrement inquiétant.
@@ -289,13 +308,14 @@ Nous devons, au-delà de tous les clivages politiques, nous y associer.
 La parole est à Monsieur Thierry Mariani.
 Madame la présidente, monsieur le secrétaire d’État, monsieur le rapporteur, nous examinons aujourd’hui une proposition de loi renforçant la lutte contre l’apologie du terrorisme sur internet.
 Les événements récents montrent hélas qu’il y a urgence à agir en la matière.
-Le nombre des Français qui vont grossir les rangs du djihad en Syrie a connu une augmentation de 75 % ces derniers mois.
+Le nombre des Français qui vont grossir les rangs du djihad en Syrie a connu une augmentation de soixante-quinze % ces derniers mois.
 Ces personnes constitueraient d’ailleurs le premier contingent de combattants européens dans ce pays.
 Ce phénomène est sans précédent : ni la guerre en Afghanistan ni la guerre en Irak n’ont eu de telles répercutions, en si peu de temps.
 Cette situation s’expliquerait en partie par le fait que nombre de djihadistes ont suivi les étapes d’un processus d’auto-radicalisation et d’embrigadement depuis internet.
 Internet occupe ainsi une place déterminante dans ce processus qui nuit aux intérêts fondamentaux de notre nation.
 Force est de constater qu’internet n’a plus rien d’un monde virtuel aujourd’hui.
 Il abrite des enjeux géopolitiques bien réels et peut ainsi se révéler un véritable vecteur de radicalisation, de recrutement et de propagande.
+Au-delà de l’affaire Snowden, qui avait mis en lumière le problème de la cybersurveillance, on peut se demander comment lutter contre les nouvelles menaces issues d’internet telles que le cyberdjihadisme, dont l’origine géographique semble parfois extrêmement compliquée à déterminer.
 Les communautés djihadistes virtuelles, qui apparaissent sur des sites, des forums et des réseaux sociaux, attirent un public toujours plus large et plus jeune.
 Elles sont à l’origine du basculement et de l’enrôlement d’individus souvent isolés dans le terrorisme.
 Ce texte, présenté par Guillaume Larrivé, vise à renforcer la lutte contre la diffusion du terrorisme par le biais d’internet.
@@ -304,25 +324,29 @@ Les solutions proposées sont le fruit et l’aboutissement d’un long processu
 Les mesures figurant dans cette proposition de loi ont déjà été proposées à notre assemblée à plusieurs reprises.
 Il serait regrettable de passer, une fois encore, à côté, puisque la situation actuelle prouve chaque jour davantage la nécessité de les mettre en place.
 Il semble ainsi indispensable, pour lutter convenablement contre le cyberterrorisme, de rendre possible le blocage des sites djihadistes ou de créer un nouveau délit pour la consultation habituelle de ces sites.
+Je ne sous-estime pas les complications juridiques et matérielles qu’engendrerait l’application de cette proposition de loi au regard, notamment, du principe fondamental de la protection des libertés publiques et individuelles, mais je reste convaincu qu’il est possible de respecter cet impératif.
 Même s’il ne résout pas tous les problèmes face à un monde virtuel complexe, ce texte revêt une importance particulière.
 Il doit être l’occasion de renforcer une lutte encore plus active et plus globale contre le terrorisme.
 Car, comme je l’ai rappelé, ainsi que nombre de mes collègues, il y a urgence.
 J’appelle donc le Gouvernement à multiplier les positions en faveur de ce type d’initiatives sur des sujets qui doivent faire consensus car ils relèvent de l’intérêt général.
-Notre groupe avait ainsi voté la loi de lutte contre le terrorisme du 21 décembre 2012.
+Notre groupe avait ainsi voté la loi de lutte contre le terrorisme du vingt et un décembre deux mille douze.
+D’ailleurs, je me félicite qu’en mars dernier, au tribunal de Paris, ait eu lieu un procès, inédit dans les annales de la justice française, pour «apologie» et «provocation au terrorisme», grâce à l’entrée en vigueur de cette même loi.
 Pour la première fois, un cyber propagandiste a pu être placé en détention provisoire pour apologie d’actes de terrorisme.
 Dans cet esprit de coopération, le groupe UMP estime que nous devons aller plus loin.
+La présente proposition de loi nous permettrait de répondre à l’endoctrinement via internet, mais après leur recrutement et leur départ en Syrie, nous devrons faire face au retour en Europe de combattants aguerris, endoctrinés et membres actifs de réseaux terroristes.
 La France, comme les autres démocraties européennes, devra bientôt gérer ces retours sur son sol.
 Ce phénomène pourrait se retourner contre elle.
 Voilà pourquoi j’ai cosigné avec enthousiasme une proposition de loi de Lionnel Luca, qui vise à déchoir les combattants djihadistes français avérés de la nationalité française.
 Cela pourrait constituer une autre réponse au terrorisme ; le Royaume-Uni nous a montré la voie.
 Toutes les solutions pour empêcher le terrorisme de continuer à se développer sur notre territoire doivent être approfondies, et la présente proposition de loi mérite d’être votée.
-Je souhaite que la majorité fasse preuve, à son égard, du même esprit constructif que celui qui nous a animés lors de l’examen de la loi antiterroriste de décembre 2012.
+Je souhaite que la majorité fasse preuve, à son égard, du même esprit constructif que celui qui nous a animés lors de l’examen de la loi antiterroriste de décembre deux mille douze.
 C’est une priorité pour éviter de nouveaux endoctrinements et autant de futures menaces pour notre sécurité.
 Cette proposition répond à un aspect du problème très important et les mesures qu’elle contient doivent être mises en œuvre très rapidement pour lutter efficacement contre l’apologie du terrorisme sur internet.
 Il est aussi nécessaire d’adapter notre politique internationale que de renforcer notre arsenal juridique national.
 Je pense, monsieur le secrétaire d’État, que l’intervention française au Mali était nécessaire, et je l’ai soutenue.
 Mais comment continuer à soutenir indirectement certains mouvements ouvertement djihadistes en Syrie ? Très juste ! L’Irak, plongé aujourd’hui dans le chaos, risque de devenir une base du terrorisme aussi importante que la Syrie.
 Voter des lois, c’est bien, mais il est aussi nécessaire de faire de la lutte contre l’extrémisme une priorité de notre politique internationale.
+Appliquer la doctrine des droits de l’homme c’est bien, mais il faut aussi penser aux intérêts des Français et cesser de déstabiliser certains pays ! (Applaudissements sur les bancs du groupe UMP.) La parole est à Monsieur François de Rugy.
 Le groupe UMP a donc choisi d’inscrire à l’ordre du jour une proposition de loi relative à un sujet qui nous préoccupe tous : le terrorisme.
 L’actualité récente nous a douloureusement rappelé que la menace terroriste était réelle dans notre pays et sur l’ensemble de notre continent.
 Sans l’action de nos services de sécurité et de renseignement, de nos gendarmes et de nos magistrats, dont nous saluons le travail, cette menace serait bien plus grave encore pour nos concitoyens.
@@ -331,12 +355,13 @@ L’une des missions fondamentales de l’État est d’assurer la sécurité de
 Nous devons régulièrement tirer les conséquences des attaques ou des menaces passées.
 C’est ainsi que se consolide notre arsenal juridique antiterroriste.
 Il ne faudrait pas, d’ailleurs, laisser croire aux Français que nous sommes au début de notre réflexion sur ce sujet.
+Cet arsenal s’est construit au fil des années puisque tous les deux ou trois ans, quelles que soient les majorités, nous discutons de dispositifs antiterroristes – la dernière fois, ce fut en décembre deux mille douze, suite aux assassinats perpétrés par Mohamed Merah.
 Le groupe écologiste avait lui-même demandé que soit créée une commission d’enquête relative aux éventuels dysfonctionnements des services à cette époque.
 Jean-Jacques Urvoas fut le président de cette commission et Christophe Cavard, député écologiste, en fut le rapporteur.
 Plus récemment, au lendemain du terrible attentat de Bruxelles, et pour faire face au départ inquiétant de djihadistes français en Syrie, le ministre de l’intérieur a annoncé qu’un nouveau texte serait bientôt présenté en conseil des ministres.
 Sur ce sujet, nous devons nous fixer un double impératif : d’une part, nous adapter aux menaces, notamment celles liées aux nouvelles technologies ; d’autre part, refuser de légiférer dans l’urgence et l’émotion.
 J’ai bien noté que cette proposition de loi UMP avait été déposée par notre collègue Guillaume Larrivé et inscrite dans la niche avant l’attentat antisémite de Bruxelles.
-Absolument ! Elle reprend d’ailleurs pour l’essentiel des dispositions déjà défendues par l’UMP en 2012.
+Absolument ! Elle reprend d’ailleurs pour l’essentiel des dispositions déjà défendues par l’UMP en deux mille douze.
 Adapter notre arsenal est nécessaire, mais nous devons également dresser le bilan des dispositifs existants.
 Prenons garde de ne pas banaliser le concept de terrorisme.
 Les effets boomerang peuvent être dévastateurs, comme en témoigne ce que l’on a un peu trop vite appelé l’affaire de Tarnac, qui n’ai d’ailleurs jamais été vraiment éclaircie.
@@ -347,35 +372,38 @@ Les trois mesures figurant dans le texte mêlent toutes internet et terrorisme.
 Si ni Mohamed Merah ni Mehdi Nemmouche ne s’est radicalisé par internet, ce n’est pas le cas d’autres apprentis djihadistes ou terroristes.
 Mais les dispositions qui nous sont proposées présentent toutes des défauts qui nous empêchent d’envisager leur adoption.
 La première concerne la responsabilité pénale des hébergeurs et des fournisseurs d’accès à internet.
-Il est proposé d’étendre aux messages faisant l’apologie du terrorisme l’obligation faite aux hébergeurs et fournisseurs d’accès à internet, prévue par la loi de 2004, de mettre en place des dispositifs de signalement des contenus illicites.
+Il est proposé d’étendre aux messages faisant l’apologie du terrorisme l’obligation faite aux hébergeurs et fournisseurs d’accès à internet, prévue par la loi de deux mille quatre, de mettre en place des dispositifs de signalement des contenus illicites.
 S’ils ne censurent pas le contenu signalé, leur responsabilité pourrait alors être engagée.
-Or, commentant cette loi de 2004, le Conseil constitutionnel avait noté que «la caractérisation d’un message illicite peut se révéler délicate, même pour un juriste».
+Or, commentant cette loi de deux mille quatre, le Conseil constitutionnel avait noté que «la caractérisation d’un message illicite peut se révéler délicate, même pour un juriste».
 Dès lors, il y a fort à craindre que la procédure proposée ne soit inefficace et source de nombreux contentieux.
 Par ailleurs, la plupart des contenus visés sont hébergés à l’étranger.
-Cette partie de la loi de 2004, que notre collègue Guillaume Larrivé souhaite étendre, a de nombreux défauts : elle confond le rôle des hébergeurs de sites internet et celui des fournisseurs d’accès à internet, les objectifs et les incriminations.
+Cette partie de la loi de deux mille quatre, que notre collègue Guillaume Larrivé souhaite étendre, a de nombreux défauts : elle confond le rôle des hébergeurs de sites internet et celui des fournisseurs d’accès à internet, les objectifs et les incriminations.
 Elle devrait donc être refondue plutôt que constamment, et par petits bouts, modifiée.
 Rappelons d’ailleurs que les lois plus récentes, qui n’ont pas encore été définitivement adoptées, relatives à la prostitution, puis à l’égalité entre les femmes et les hommes, l’ont déjà modifiée pour inclure d’autres objectifs.
-Le Gouvernement avait alors promis une consultation et un projet de loi sur le numérique avant toute nouvelle modification de la loi de 2004 sur la responsabilité des hébergeurs et des fournisseurs d’accès.
+Le Gouvernement avait alors promis une consultation et un projet de loi sur le numérique avant toute nouvelle modification de la loi de deux mille quatre sur la responsabilité des hébergeurs et des fournisseurs d’accès.
 Il nous semblerait plus sage d’attendre avant d’élargir une nouvelle fois le champ de cet article.
 La deuxième partie de l’article 1ier vise à mettre en place un blocage administratif pour les sites faisant l’apologie du terrorisme.
 S’il peut être tentant et légitime de vouloir bloquer ces sites, préoccupation que nous partageons tous, le blocage administratif est rarement applicable en pratique.
 Ainsi, quand il fut bloqué par la justice, le site « Copwatch » fut immédiatement dupliqué en trente-cinq sites miroirs.
 Le blocage administratif est complexe à mettre en place.
-Prévu par l’article 18 de la loi de 2004, il n’a jamais été appliqué avant d’être supprimé dans la récente loi relative à la consommation, parce que son décret d’application n’avait jamais été pris.
+Prévu par l’article dix-huit de la loi de deux mille quatre, il n’a jamais été appliqué avant d’être supprimé dans la récente loi relative à la consommation, parce que son décret d’application n’avait jamais été pris.
 Notons également que le décret permettant le blocage administratif des sites pédopornographiques, dispositif qui inspire cette deuxième partie de l’article 1ier, n’est toujours pas sorti, plus de trois ans après le vote de la loi.
 Devant notre assemblée, lors de l’examen de la loi sur la prostitution, la ministre des droits des femmes avait douté que ce texte puisse être un jour publié.
 Le blocage administratif peut également entraîner certaines dérives.
 L’exposé sommaire de la proposition de loi évoque la possibilité de bloquer des réseaux sociaux entiers comme Facebook ou Twitter.
 Il serait bon que le rapporteur nous éclaire sur les limites de ce blocage.
 En outre, un blocage trop hâtif des sites pourrait freiner des enquêtes ayant pour objet de lutter contre les réseaux qui sont derrière ces sites.
-C’est d’ailleurs un argument qui avait été utilisé lors des débats de la loi de 2012 relative à la lutte contre le terrorisme.
-Les articles 2 à 4 tendent à créer un délit de consultation des sites internet faisant l’apologie du terrorisme.
+C’est d’ailleurs un argument qui avait été utilisé lors des débats de la loi de deux mille douze relative à la lutte contre le terrorisme.
+Les articles deux à quatre tendent à créer un délit de consultation des sites internet faisant l’apologie du terrorisme.
+Serait puni de deux ans de prison le fait de consulter de façon habituelle un service de communication au public en ligne mettant à disposition des messages, «soit provoquant directement à des actes de terrorisme, soit faisant l’apologie de ces actes».
+Cette disposition ne serait pas applicable lorsque la consultation résulterait de l’exercice normal d’une profession ayant pour objet d’informer le public – les journalistes –, interviendrait dans le cadre de recherches scientifiques ou serait réalisée afin de servir de preuve en justice.
 Une telle mesure présente trois défauts.
 Tout d’abord, elle renvoie à des notions floues, incertaines et contraires au principe de légalité et de proportionnalité.
 En commission, nous n’avons pas voté cette proposition de loi pour les raisons que je viens d’évoquer.
 Plus généralement, méfions-nous des textes d’affichage qui nuisent à la crédibilité de notre travail législatif.
 Bien plus que des textes d’affichage, c’est ce travail de fourmi qu’il faut faire.
 Il est, fort heureusement, déjà réalisé, mais nous devons encore l’améliorer, notamment au niveau de la coordination internationale.
+Je tiens à saluer à cet égard les propos du ministre de l’intérieur qui, après le dramatique attentat en Belgique, a déclaré qu’il nous fallait plus d’Europe pour plus de coordination si nous voulions lutter efficacement contre le terrorisme.
 N’entretenons pas l’illusion qu’internet est responsable de la montée de la radicalisation, notamment islamiste ou djihadiste.
 Internet peut même aider à repérer les personnes à la dérive ou embrigadées.
 Ce n’est pas internet qui créé l’embrigadement – les raisons sont beaucoup plus profondes.
@@ -397,6 +425,7 @@ Nous devons progresser sur la question du blocage de l’accès – le ministre 
 Nous devons trouver le moyen juridiquement solide, opérationnel, de bloquer l’accès à ces sites.
 Je ne dis pas que le dispositif que nous définirons sera parfait.
 Je dis qu’il est nécessaire.
+Monsieur le secrétaire d’État, même si nous parvenions à bloquer l’accès de ces sites à un individu, même si nous parvenions à éviter qu’un seul djihadiste commette un attentat terroriste en France, nous aurions déjà fait œuvre utile.
 Plutôt que de refermer dès aujourd’hui la porte, je vous invite sur tous les bancs à déposer des amendements, pas pour supprimer le texte mais pour l’améliorer, le faire vivre lors de la navette parlementaire.
 Le groupe UMP a choisi d’utiliser une niche pour, justement, faire avancer le débat.
 Ne perdons pas de temps, avançons techniquement, encadrons la rédaction sur le plan juridique quand elle doit l’être, mais ne faisons pas montre d’une espèce d’autocensure, y compris sur le dispositif du délit de consultation habituelle.
@@ -422,6 +451,7 @@ Toute la question est de savoir où l’on place le curseur entre ce qui relève
 (Applaudissements sur les bancs du groupe UMP.) La parole est à Monsieur le secrétaire d’État.
 Nous venons à nouveau d’avoir une discussion très intéressante qui a témoigné de fortes convergences concernant l’existence et l’analyse de la menace, la volonté d’y répondre et les pistes à explorer pour ce faire.
 Cependant, monsieur le rapporteur, nous ne sommes pas parvenus à surmonter les difficultés rappelées par le Gouvernement et plusieurs orateurs, qu’elles soient d’ordre constitutionnel ou qu’elles concernent la mise en application technique.
+Dès lors, en dépit de la qualité de la discussion et de la convergence des points de vue des uns et des autres, il semble difficile de soutenir votre démarche, même si nous tenons pleinement compte des propositions que vous formulez.
 Permettez-moi à cet égard de rappeler plusieurs choses.
 Tout d’abord, plusieurs intervenants, dont Monsieur Mariani et aussi Monsieur Collard, ont rappelé que la symptomatologie de l’activité de certains sites internet ne devait pas nous dispenser de traiter les problèmes de fond qu’ils révèlent.
 Sur ce point, Monsieur Collard a sans doute eu matière à réfléchir ces derniers temps.
@@ -431,6 +461,7 @@ C’est le moins que l’on puisse dire ! Je ne suis pas certain que ce Gouverne
 Vous ne pouvez pas – et je sais que ce n’est pas ce que vous avez à l’esprit – assimiler l’opposition syrienne modérée, voire laïque, avec ce qui se passe par ailleurs.
 Allons, allons ! Cela étant, il est tout à fait légitime d’adopter une vision plus globale de ce qui se passe au Moyen-Orient, et notamment de l’évolution de l’Irak.
 De ce point de vue, notre préoccupation est incontestable.
+Dites-le à Monsieur Bernard-Henri Lévy ! Oui, entre autres : il faudrait qu’il se rende à Mossoul ! Je ne ferai pas de commentaire, monsieur le député, mais il est vrai qu’avant les événements survenus en Syrie et en Irak se sont produits ceux de Libye.
 Ce ne fut pas une réussite ! On peut le dire ! Je vous remercie de cette contribution à une réflexion qui a lieu sur tous les bancs et qui doit nous faire progresser.
 Je le répète, il faut donc adopter une vision globale et ne pas se concentrer sur la seule problématique d’internet, même si elle est importante.
 Ensuite, monsieur le rapporteur, vous nous incitez à l’audace.
@@ -450,12 +481,13 @@ Nous examinerons donc ce point au mois de décembre.
 Or, que se passera-t-il d’ici là ? Le rythme de l’évolution du terrorisme et du djihadisme n’est pas celui de la consultation parlementaire.
 Cela devrait vous inciter à aller vite, y compris face aux blocages posés par le Conseil d’État.
 Et pour cause : il n’est tenu par aucune fixité et peut évoluer.
-On nous dit que le Conseil d’État n’était pas d’accord en 2012 avec les mesures proposées ici.
-Certes, mais après l’arrêt Benjamin, il n’hésita pas à prendre sur des questions très proches un arrêt Bucard en 1936, Marcel Bucard étant à cette époque de montée du fascisme le patron du francisme.
+On nous dit que le Conseil d’État n’était pas d’accord en deux mille douze avec les mesures proposées ici.
+Certes, mais après l’arrêt Benjamin, il n’hésita pas à prendre sur des questions très proches un arrêt Bucard en mille neuf cent trente-six, Marcel Bucard étant à cette époque de montée du fascisme le patron du francisme.
 Ce texte a l’immense avantage de ne pas être un texte de programme ou de présentation.
 Nous ne cherchons pas à faire de la publicité ; ce texte est nécessaire.
 Chacun sait qu’internet est la première manière, avant même la prison, de renforcer le djihadisme dans ce pays.
 Avant l’examen de l’article 1ier, je voudrais dire combien il est important de lutter contre l’apologie du terrorisme sur internet.
+Dans un contexte préoccupant de terrorisme et de djihadisme, Monsieur le secrétaire d’État vient de nous faire part de sa crainte qu’une question prioritaire de constitutionnalité ne soit déposée et que les articles de cette proposition de loi ne puissent être déclarés inconstitutionnels.
 Les députés de la majorité nous disent, eux, que ce texte est trop restrictif.
 De mon point de vue, ce ne sont pas là des raisons suffisantes pour ne rien faire, car il y a urgence.
 Comme en matière de pédopornographie, la difficulté tient au fait que les sites aux contenus jugés illicites sont souvent hébergés à l’étranger.
@@ -484,7 +516,7 @@ Le Gouvernement a été très actif et réactif.
 Enfin, sans pouvoir vous donner dès à présent un calendrier précis, monsieur Goasguen, je ne crois pas que nous attendrons le mois de décembre pour légiférer en la matière.
 Voilà une bonne nouvelle ! Avant décembre, il y a le mois de juillet et le mois d’août ! Monsieur le secrétaire d’État, chacun sait que nous avons le plaisir de vous accueillir chaque semaine à la Conférence des présidents.
 Nous en venons à l’examen des amendements.
-La parole est à Madame Marie-Françoise Bechtel, pour soutenir l’amendement numéro 22 tendant à la suppression de l’article 1ier.
+La parole est à Madame Marie-Françoise Bechtel, pour soutenir l’amendement numéro vingt-deux tendant à la suppression de l’article 1ier.
 Je profite de cette intervention pour souligner un ou deux points qui ne sont pas sans résonance avec cet article.
 C’est la raison pour laquelle l’esprit de notre amendement est différent de celui de nos collègues du groupe écologiste.
 J’ajoute également, puisque le Royaume-Uni a été cité tout à l’heure, que c’est peut-être l’un des derniers exemples à suivre.
@@ -508,8 +540,8 @@ L’article 1ier vise à demander aux fournisseurs d’accès de produire des si
 Je crois que nous sommes tous d’accord sur cette dangerosité.
 Il faut aujourd’hui passer aux actes et ne pas se cacher derrière des arguments dilatoires.
 Nous faisons preuve de la même pusillanimité à propos des sites pédopornographiques.
-J’ai été rapporteur de la LOPPSI 2.
-Or cela fait quatre ans que la LOPPSI 2 a été adoptée et le dispositif n’est toujours pas entré en vigueur.
+J’ai été rapporteur de la LOPPSI deux.
+Or cela fait quatre ans que la LOPPSI deux a été adoptée et le dispositif n’est toujours pas entré en vigueur.
 Sur des questions aussi graves, qui mettent en péril le pacte républicain, sur le terrorisme, sur la pédopornographie, il faut que votre majorité cesse ses atermoiements.
 Il y a des théâtres d’opérations qui marquent aujourd’hui l’explosion des dangers.
 Il faut agir, et agir vite ! C’est une priorité.
@@ -520,22 +552,24 @@ Je ne fais pas référence aux incidents internationaux, voire aux crimes.
 Le CFCM – que nous essayons d’aider –, qui est l’autorité morale de l’islam de France, a manifesté publiquement son désir de lutter contre le djihadisme et l’islamisme.
 Enfin ! Comme vous le dites, mon cher collègue : enfin ! C’est la première fois que nous voyons le recteur et ses adjoints parler publiquement de cette façon.
 C’est le moment de les aider ! Je cite un article de Libération, qui n’est pas un journal de droite, vous en conviendrez, et qui fait état d’une réunion organisée par un islamiste modéré dans le XIXième arrondissement.
+Je vous donnerai l’article de Libération, monsieur le secrétaire d’État… Ce n’est pas nécessaire, monsieur Goasguen, je vous crois ! C’est donc le moment pour l’État et pour le Gouvernement de montrer leur détermination à lutter contre le djihadisme.
 On voit aujourd’hui, dans la communauté musulmane, se manifester – avec hésitation – un certain courage, ce qui n’était malheureusement pas le cas depuis plusieurs décennies.
 La parole est à Madame Marie-Françoise Bechtel.
 Je voudrais dire à Monsieur Larrivé et à Monsieur Ciotti qu’il y a deux raisons pour lesquelles nous proposons, de bonne foi, de supprimer l’article 1ier.
 La première, c’est qu’il y a une solidarité entre les deux parties.
 Nous l’avons dit, Monsieur le secrétaire d’État l’a dit également, nous acceptons l’idée qui préside à la première partie de l’article et qui consiste à mettre davantage les fournisseurs d’accès devant leurs responsabilités.
 Nous adhérons moins à la deuxième partie, qui vise au blocage des sites.
-Je pense principalement au coût induit par la loi de 2004 – à raison, bien entendu, du jugement du Conseil constitutionnel.
+D’abord parce que ce ne serait pas très efficace, ensuite parce qu’il faut, à l’évidence – cela résulte aussi de votre intervention, monsieur Ciotti – revoir les raisons pour lesquelles on n’a pas pu appliquer les dispositions anti-sites pédopornographiques.
+Je pense principalement au coût induit par la loi de deux mille quatre – à raison, bien entendu, du jugement du Conseil constitutionnel.
 Il faudrait peut-être trouver un autre dispositif.
-La fermeture ou le blocage d’un site dans un pays, franchement, cela ne sert pas à grand-chose ! La parole est à Madame Marie-Françoise Bechtel, pour soutenir l’amendement numéro 23 tendant à la suppression de l’article 2.
-L’article 2 est le seul auquel nous sommes, de manière franche et directe, très opposés.
+La fermeture ou le blocage d’un site dans un pays, franchement, cela ne sert pas à grand-chose ! La parole est à Madame Marie-Françoise Bechtel, pour soutenir l’amendement numéro vingt-trois tendant à la suppression de l’article deux.
+L’article deux est le seul auquel nous sommes, de manière franche et directe, très opposés.
 J’ai entendu ce qu’a dit Monsieur Larrivé, c’est-à-dire qu’il y aurait une contradiction entre le Conseil d’État et la Cour de cassation.
 En réalité, ce n’est pas une contradiction frontale puisque, par définition, la disposition prévue par le projet de loi Mercier n’a jamais été adoptée.
 Ce n’est donc pas sur cette disposition que la Cour de cassation peut avoir une position opposée à celle du Conseil d’État.
 Elle a décidé de ne pas en faire une QPC ! Bien sûr ! Encore faut-il que ce soit sur un texte comparable.
 Or le texte n’est pas le même.
-C’est peut-être la raison pour laquelle le Conseil d’État n’a pas été consulté par les auteurs de la proposition de loi, qui avaient tout loisir de le faire depuis la réforme de 2008.
+C’est peut-être la raison pour laquelle le Conseil d’État n’a pas été consulté par les auteurs de la proposition de loi, qui avaient tout loisir de le faire depuis la réforme de deux mille huit.
 Les oppositions fortes qui peuvent se dégager ne sont pas seulement celles du Conseil d’État.
 Elles sont celles, permettez-moi de vous le dire en toute confraternité, mes chers collègues, de tous les députés qui sont attachés à une certaine conception des libertés publiques et de la proportionnalité de ce que l’on peut faire.
 Je ne prendrai qu’un seul exemple.
@@ -575,19 +609,19 @@ Nous ne comprenons vraiment pas les raisons pour lesquelles la majorité refuse 
 Si j’ai bien compris, monsieur le rapporteur, la commission n’a pas examiné cet amendement ? Elle l’a examiné et il n’a pas été adopté, madame la présidente.
 La parole est à Monsieur le secrétaire d’État chargé des anciens combattants et de la mémoire, pour donner l’avis du Gouvernement.
 Avis défavorable.
-La parole est à Madame Marie-Françoise Bechtel, pour soutenir l’amendement numéro 24 tendant à la suppression de l’article 3.
-L’article 3 propose un régime procédural mixte applicable au nouveau délit de consultation de site que nous n’avons pas approuvé.
+La parole est à Madame Marie-Françoise Bechtel, pour soutenir l’amendement numéro vingt-quatre tendant à la suppression de l’article trois.
+L’article trois propose un régime procédural mixte applicable au nouveau délit de consultation de site que nous n’avons pas approuvé.
 Par conséquent, et par pure cohérence, il n’y a pas lieu d’approuver cet article.
 Quel est l’avis de la commission ? La commission n’a pas adopté cet amendement.
-Je tiens néanmoins à souligner que l’article 3 vise précisément à satisfaire des exigences constitutionnelles.
+Je tiens néanmoins à souligner que l’article trois vise précisément à satisfaire des exigences constitutionnelles.
 Le Conseil constitutionnel exige, pour l’application de règles de procédure pénale spécifiques, une gravité et une complexité particulières.
 Dans le cas contraire, ces procédures spéciales causeraient une rigueur non nécessaire au sens de la Déclaration des droits de l’homme.
 L’article prévoit donc d’exclure plusieurs règles procédurales propres au terrorisme pour rapprocher le régime procédural du nouveau délit de la procédure pénale de droit commun.
 C’est donc bien un souci d’équilibre et, pour le coup, de respect des principes constitutionnels qui nous a amenés à proposer cet article.
 L’avis de la commission des lois sur l’amendement de suppression est donc défavorable, pour des raisons juridiques que je viens d’exposer.
 Quel est l’avis du Gouvernement ? Avis favorable.
-La parole est à Madame Marie-Françoise Bechtel, pour soutenir l’amendement numéro 25 tendant à la suppression de l’article 4.
-C’est un amendement de conséquence de la suppression de l’article 3.
+La parole est à Madame Marie-Françoise Bechtel, pour soutenir l’amendement numéro vingt-cinq tendant à la suppression de l’article quatre.
+C’est un amendement de conséquence de la suppression de l’article trois.
 Quel est l’avis de la commission ? La commission a émis un avis défavorable à l’amendement.
 Je saisis l’occasion qui m’est donnée d’interroger le Gouvernement sur le sens des ouvertures exprimées par Monsieur le ministre de l’intérieur à ce sujet.
 Il s’est en effet montré ouvert à une évolution du cadre juridique de la cyber-infiltration.
@@ -604,35 +638,40 @@ L’avocat que je suis sait très bien que la déchéance de nationalité ne peu
 Une personne jouissant d’une double nationalité qui sera condamnée en France préférera en général les geôles françaises à la perspective de croupir dans des geôles insanes et abandonnera par conséquent sa double nationalité.
 Il ne lui en restera donc qu’une et l’en déchoir ferait d’elle un apatride, ce qui n’est pas conforme aux conventions internationales.
 Ne vous fatiguez donc pas trop sur la question, mesdames et messieurs les membres du Gouvernement, car elle est malheureusement ficelée.
-Constatons en tout cas que Monsieur Valls évolue parfois dans le bon sens, parfois dans le mauvais ! La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro 19.
+Constatons en tout cas que Monsieur Valls évolue parfois dans le bon sens, parfois dans le mauvais ! La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro dix-neuf.
 Nous en venons à l’amendement relatif à la déchéance de la nationalité dont vient de parler Claude Goasguen.
 Il s’agit d’un principe constitutionnel que nous devons bien évidemment respecter.
-L’article 25 existe et fait partie de notre droit.
+L’article vingt-cinq existe et fait partie de notre droit.
 Voilà qui a l’air de vous déranger ! Non, ça ne me dérange pas.
 C’est vous, manifestement, qui vous livrez à une interprétation idéologique de mes propos.
 D’ailleurs, ça ne dérange pas davantage Monsieur le Premier ministre, qui a déclaré il y a quelques jours qu’il ne s’agit pas d’un tabou.
 De fait, ça ne dérange pas Monsieur Valls ! Comme vous le voyez, cher collègue, vous êtes emprisonné dans une vision idéologique dont vous êtes incapable de vous extraire.
 J’imagine donc que vous ne la contestez pas.
+Peut-être, par idéologie, la contestez-vous : on a entendu tellement de discours étonnants ! Tout à l’heure, nous en avons appelé au consensus contre le terrorisme, mais je me demande si la nécessité de ce consensus est approuvée sur tous les bancs.
+En tout cas, je crois qu’il faut très clairement dire à ceux qui combattent contre les principes républicains, contre la liberté dans le monde, contre la France dans le monde, qu’ils n’ont pas à avoir la nationalité française s’ils sont binationaux.
 (Applaudissements sur les bancs du groupe UMP.) Quel est l’avis de la commission ? La commission a approuvé cet amendement, pour une raison de principe : la République, c’est la communauté des citoyens.
+Lorsqu’un de nos compatriotes fait le choix, de sa propre responsabilité, de s’écarter à ce point du pacte républicain qu’il commet un crime ou un délit terroriste, il fait le choix, lui, de ne plus être un compatriote.
 Et la République est fondée à décider de le déchoir de la nationalité.
 L’amendement vise, au fond, à garantir que dans une telle hypothèse, les personnes condamnées, lorsqu’elles ne seront pas françaises de naissance, pourront être déchues de la nationalité française.
 Quel est l’avis du Gouvernement ? Avis défavorable.
 Cet amendement est inutile, puisqu’il est déjà satisfait par le droit actuel.
-En effet, la loi du 21 décembre 2012 relative à la sécurité et à la lutte contre le terrorisme a étendu la compétence territoriale de la loi pénale française aux actes terroristes commis à l’étranger.
+En effet, la loi du vingt et un décembre deux mille douze relative à la sécurité et à la lutte contre le terrorisme a étendu la compétence territoriale de la loi pénale française aux actes terroristes commis à l’étranger.
 La parole est à Madame Marie-Françoise Bechtel.
-Le dispositif proposé est sans doute compris dans le 2°.
+Je veux rassurer pleinement Monsieur Ciotti et saluer l’élégance avec laquelle Monsieur Larrivé s’est tiré de l’exercice difficile consistant à dire qu’était utile un amendement dont il sait l’inutilité totale d’un point de vue juridique.
+Le dispositif proposé est sans doute compris dans le deux°.
 Cet amendement est donc tout à fait inutile, mais nous pouvons rassurer ses auteurs : tout cela figure déjà dans le droit actuel.
 La parole est à Monsieur Philippe Goujon.
 Nous ne sommes pas du tout rassurés ; c’est la raison pour laquelle nous avons déposé cet amendement que, dans sa grande sagesse, la commission a adopté ce matin.
 Il y a là une extension aux actes commis à l’étranger par les ressortissants français.
-Nous ne faisons pas la même interprétation que vous : l’article 25 du code civil est étendu par l’amendement.
+Nous ne faisons pas la même interprétation que vous : l’article vingt-cinq du code civil est étendu par l’amendement.
 Prenons un cas d’actualité, odieux : l’affaire Nemmouche.
 Il n’y a pas de tabou.
 Nous verrons bien.» Il n’était donc pas défavorable par principe à l’adoption d’un tel amendement.
 Je crois qu’il est urgent de légiférer sur ce point.
 Madame Bechtel, vous avez la parole pour une brève intervention.
 Un mot pour dire que je suis très étonnée d’entendre Monsieur Goujon : le cas Nemmouche n’est absolument pas visé par l’amendement, il ne s’agit pas du tout de cela.
-Pourquoi ? Précisez ! La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro 20.
+Pourquoi ? Précisez ! La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro vingt.
+Cet amendement répond à une demande des juges antiterroristes en élargissant la définition de l’acte de terrorisme aux faits préparatoires : il y a là un vide juridique qu’il convient de combler pour être plus efficace dans ce combat, dans cette guerre.
 Pour affronter la menace terroriste, nous avons besoin d’outils nouveaux.
 Afin de répondre aux conséquences de l’engagement de jihadistes français, l’objet de cet amendement est de créer cette nouvelle infraction réclamée par les juges antiterroristes et notamment par le juge Trévidic.
 Il s’agit de pouvoir intervenir en amont en vue de mieux prévenir les actes terroristes.
@@ -653,13 +692,15 @@ Ne vous y trompez pas : sur internet, nous avons des actes de guerre, qu’il fa
 Il ne s’agit pas simplement de la liberté d’expression.
 Je regrette que nous ne légiférions pas aujourd’hui.
 Je souhaite, puisque Monsieur Le Guen l’a annoncé, que nous y revenions très rapidement, avant le mois de décembre, devant l’Assemblée nationale, car le terrorisme va plus vite que nous pour le moment.
-La parole est à Monsieur Guillaume Larrivé, rapporteur, pour soutenir l’amendement numéro 17 rectifié.
+La parole est à Monsieur Guillaume Larrivé, rapporteur, pour soutenir l’amendement numéro dix-sept rectifié.
 La commission ne l’a pas adopté, mais c’est un amendement très important.
 C’est l’objet de cet amendement.
-Nous avons franchi une première étape avec la LOPPSI 2, en ouvrant un régime de police judiciaire permettant à des policiers ou à des gendarmes spécialement habilités d’effectuer ces cyber-infiltrations.
+Nous avons franchi une première étape avec la LOPPSI deux, en ouvrant un régime de police judiciaire permettant à des policiers ou à des gendarmes spécialement habilités d’effectuer ces cyber-infiltrations.
+Ce que nous proposons par cet amendement, c’est un régime de police administrative extrêmement encadré, avec une procédure permettant un contrôle précis de la Commission nationale chargée des interceptions de sécurité, pour que les policiers et les gendarmes spécialisés puissent intervenir de manière rapide.
 Tout cela est extrêmement bordé juridiquement.
-La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro 21.
+La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro vingt et un.
 Il vise à donner un signal très fort en faveur de la mise en place des procédures de contrôle des passagers aériens.
+Le code de la sécurité intérieure a prévu de mettre en application la procédure Passenger Name Record qui est beaucoup plus complète que la procédure API en vigueur actuellement, parce qu’elle permet de disposer d’informations précieuses dès l’enregistrement ou même le préenregistrement.
 Les services de renseignement peuvent ainsi détecter plus rapidement, en fonction des informations et fichiers dont ils disposent, les mouvements de personnes qui menacent la sécurité nationale ou qui risquent de la menacer.
 Ces dispositifs existent depuis longtemps : le président de la commission des lois, Jean-Jacques Urvoas, le rappelait dans son rapport sur le fonctionnement des services de renseignement.
 Mais cette procédure n’a toujours pas été mise en œuvre.
@@ -673,6 +714,7 @@ Par cet amendement, je propose de compléter l’article L.
 En tant que rapporteur, je souhaite vraiment que Monsieur le secrétaire d’État auprès du ministre de la défense nous réponde sur le fond, parce qu’en effet, il y a urgence.
 Il faut aller plus loin en enrichissant ces fichiers des données dites PNR, passenger name record, enregistrées lors de la réservation du titre de transport.
 Assurément ! C’est l’évidence ! Je prends un peu de temps, madame la présidente, car j’aimerais beaucoup que le Gouvernement s’exprime sur le fond.
+Nous avons observé que les discussions qui ont eu lieu la semaine dernière à Luxembourg entre neuf ministres de l’intérieur vont en ce sens, mais qu’en est-il concrètement ressorti, monsieur le secrétaire d’État ? Rien ! Quel est l’avis du Gouvernement ? Avis défavorable.
 Je précise toutefois qu’un tel travail a été engagé et qu’un processus est en cours.
 C’est une question de temps.
 Nous n’avons pas le temps d’attendre ! Il convient donc de prendre en compte le travail réalisé.
@@ -682,31 +724,31 @@ Cette question des données PNR est régulièrement inscrite à l’ordre du jou
 Dans le cadre des négociations sur les accords PNR avec les États-Unis – si l’on peut parler d’ «accords » avec eux – et des dialogues européens, la France a toujours joué un rôle moteur et pilote.
 Si nous ne nous sommes pas dotés, à l’échelle européenne, de cette force-là, nous éprouverons beaucoup de difficulté à faire valoir notre point de vue lors de la révision des accords avec l’Australie, le Canada et les États-Unis.
 La parole est à Monsieur Rudy Salles, pour un rappel au règlement.
-Ce rappel au règlement se fonde sur l’article 58, alinéa 1.
+Ce rappel au règlement se fonde sur l’article cinquante-huit, alinéa un.
 Monsieur le secrétaire d’État, nous sommes en train d’évoquer un sujet très grave et très sérieux.
 Le rapporteur a fait un travail très approfondi et le Gouvernement, quant à lui, travaille également à un projet de loi.
 Monsieur le rapporteur pose à juste titre des questions et demande que le Gouvernement lui apporte des réponses de fond.
 232-7 du code de sécurité intérieure.
-Je vous informe également, même si vous le savez sans doute, que la CNIL a été saisie d’un projet de décret sur cette question le 15 mai dernier.
+Je vous informe également, même si vous le savez sans doute, que la CNIL a été saisie d’un projet de décret sur cette question le quinze mai dernier.
 Voilà qui enrichit le débat ! Nous avons achevé l’examen des articles de la proposition de loi.
 L’Assemblée ayant rejeté tous les articles de la proposition de loi ainsi que les amendements portant articles additionnels, il n’y aura pas lieu de procéder au vote solennel décidé par la Conférence des présidents.
 La parole est à Monsieur Élie Aboud.
 Madame la présidente, monsieur le secrétaire d’État chargé des anciens combattants et de la mémoire, mes chers collègues, historiquement, le destin de la France s’inscrit pour l’essentiel dans deux horizons géographiques : l’Europe et la Méditerranée.
 Culturellement et économiquement, nous y avons d’ailleurs des partenariats très privilégiés.
-En Europe, la France réalise 60 % de ses échanges.
+En Europe, la France réalise soixante % de ses échanges.
 Les relations commerciales entre la France et l’Allemagne y sont essentielles, l’Allemagne demeurant le premier client de la France et son premier fournisseur.
 Le dépassement des méfiances historiques nées des différents conflits et l’envie de construire l’avenir ont permis cet extraordinaire essor.
 Si l’axe Paris-Berlin, monsieur le secrétaire d’État, est fondamental dans l’épopée européenne, les relations franco-algériennes le sont tout autant pour la réalisation d’un espace méditerranéen calme et prospère.
 La France est le premier fournisseur de l’Algérie et son quatrième client.
 Cette importance des échanges entre les deux pays dynamise, dans le domaine économique, tout le tissu relationnel euro-algérien.
-Ainsi, au premier trimestre 2014, l’Union européenne est le principal partenaire commercial de l’Algérie.
-Dans ce contexte, le 19 décembre 2012, à l’occasion d’une visite du Président de la République française, une déclaration sur l’amitié et la coopération a été signée à Alger par les deux chefs d’État.
+Ainsi, au premier trimestre deux mille quatorze, l’Union européenne est le principal partenaire commercial de l’Algérie.
+Dans ce contexte, le dix-neuf décembre deux mille douze, à l’occasion d’une visite du Président de la République française, une déclaration sur l’amitié et la coopération a été signée à Alger par les deux chefs d’État.
 Par la suite, elle a donné lieu, en un an, à une dizaine d’accords sur la formation, la recherche, le développement et les partenariats industriels.
 Ce document souligne que la France et l’Algérie partagent une longue histoire, qui a permis de nouer des liens humains, affectifs et culturels d’une exceptionnelle intensité, dans tous les domaines.
-Au-delà des difficultés et des incompréhensions, la période française en Afrique du Nord, particulièrement pendant 132 ans en Algérie, a permis de mêler des peuples, des cultures, des langues, des traditions et, par la suite, de tisser des relations indissolubles.
+Au-delà des difficultés et des incompréhensions, la période française en Afrique du Nord, particulièrement pendant cent trente-deux ans en Algérie, a permis de mêler des peuples, des cultures, des langues, des traditions et, par la suite, de tisser des relations indissolubles.
 De tels liens, mes chers collègues, transcendent les drames et violences nés de la guerre d’indépendance, lesquels ont meurtri deux peuples.
 L’intimité toujours vivante entre la France et l’Algérie est patente.
-Selon l’excellent rapport de notre collègue Axel Poniatowski réalisé suite à une mission d’information sur l’Algérie, c’est dans ce pays que l’on trouve la seconde communauté francophone du monde, avec 16 millions de locuteurs.
+Selon l’excellent rapport de notre collègue Axel Poniatowski réalisé suite à une mission d’information sur l’Algérie, c’est dans ce pays que l’on trouve la seconde communauté francophone du monde, avec seize millions de locuteurs.
 En France, indique aussi ce rapport, si l’on additionne tous les apports humains provenant de l’autre côté de la Méditerranée, notamment, les «pieds-noirs», les harkis, les binationaux, cette population est supérieure à cinq millions de personnes.
 Ce n’est pas falsifier le passé et compromettre l’avenir que de le reconnaître.
 Dans le souci, dit-on, de rationaliser les structures administratives, les deux supports de l’action publique en faveur des rapatriés ont disparu ou vont disparaître.
@@ -720,6 +762,7 @@ D’une part, on ne saurait se satisfaire seulement de ce que l’Office nationa
 En effet, et ce point est capital, ni le nom, ni la gouvernance de cet établissement public ne sont modifiés du fait des nouvelles compétences qu’il détient désormais.
 Les rapatriés n’entendent pas devenir des ressortissants clandestins de l’ONAC, ni être exclus de son conseil d’administration.
 Cela n’a aucun sens, ni du point de vue administratif, ni sur le plan symbolique.
+D’autre part, un rapport gouvernemental remis à notre assemblée en juin deux mille treize laisse peser un doute sur l’existence de mesures qui, en respectant les contraintes budgétaires, permettraient, au moins à terme, de clôturer le dossier des conséquences du rapatriement.
 L’actuel chef de l’État a pleinement conscience du caractère notoirement insatisfaisant de la réparation des préjudices patrimoniaux subis par les Français d’Algérie.
 Ainsi, le dossier de l’indemnisation est loin d’être fermé, sans que l’on puisse pour autant distinguer clairement les contours d’une solution.
 Ma conviction, monsieur le secrétaire d’État, c’est qu’aucune piste de réflexion ne doit être écartée par principe.
@@ -729,20 +772,21 @@ Tel est exactement le sens de cette résolution dans ses dispositions finales.
 Mes chers collègues, le renouveau des relations avec l’Algérie est indispensable.
 Les rapatriés ont une connaissance intime de ce pays, de sa culture, de ses potentialités économiques et humaines.
 Lorsqu’ils se rendent en Algérie, ils reçoivent, tout comme leurs enfants, un accueil chaleureux de la part des habitants de ce pays.
-Cet été devrait d’ailleurs être célébré le soixante-dixième anniversaire du débarquement en Provence d’août 1944.
-Rappelons-nous les 410 000 hommes de cette armée de libération, composée en partie de fils d’Afrique de toutes origines, fraternellement mêlés, dont beaucoup, avec leurs descendants, vivent maintenant chez nous, en France.
+Cet été devrait d’ailleurs être célébré le soixante-dixième anniversaire du débarquement en Provence d’août mille neuf cent quarante-quatre.
+Rappelons-nous les quatre cent dix 000 hommes de cette armée de libération, composée en partie de fils d’Afrique de toutes origines, fraternellement mêlés, dont beaucoup, avec leurs descendants, vivent maintenant chez nous, en France.
 En leur nom, mes chers collègues, sur quelque banc que vous siégiez, ces bancs dont certains étaient occupés hier par des députés des départements français d’Algérie, je vous demande d’adopter cette résolution.
 Elle appelle un avenir de concorde, tant en France qu’entre la France et l’Algérie.
 (Applaudissements sur les bancs du groupe UMP.) La parole est à Monsieur Rudy Salles.
 Chacun d’entre nous mesure combien les liens entre les Français de la métropole et les Français rapatriés d’outre-mer, et singulièrement ceux d’Algérie, sont étroits.
+Ce sont des liens historiques, mais aussi humains, qui unissent la France et l’Algérie, deux nations qui auront traversé des périodes troubles et difficiles, et dont nous cherchons aujourd’hui, notamment à travers cette proposition de résolution, à réparer les conséquences.
 La décolonisation, les changements profonds qui se sont accomplis dans les pays autrefois placés sous l’autorité de la France, ont fait du rapatriement un phénomène majeur de notre pays.
-Entre 1956 et 1961, 498 000 rapatriés ont rejoint la France.
+Entre mille neuf cent cinquante-six et mille neuf cent soixante et un, quatre cent quatre-vingt-dix-huit 000 rapatriés ont rejoint la France.
 Ils venaient essentiellement d’Afrique du Nord et d’Indochine.
-Pour les seules années 1962 et 1963, ce sont 772 600 Français d’Algérie qui ont regagné la France.
-Au total, et sur une courte période, le rapatriement aura donc concerné près de 1,5 million de personnes, contraintes de retourner en France après avoir vécu, pour certaines d’entre elles, de véritables tragédies.
+Pour les seules années mille neuf cent soixante-deux et mille neuf cent soixante-trois, ce sont sept cent soixante-douze six cents Français d’Algérie qui ont regagné la France.
+Au total, et sur une courte période, le rapatriement aura donc concerné près de un,cinq million de personnes, contraintes de retourner en France après avoir vécu, pour certaines d’entre elles, de véritables tragédies.
 Ces chiffres soulignent la place particulière qu’occupent en France les rapatriés d’Afrique du Nord, et particulièrement les rapatriés d’Algérie.
-Aujourd’hui encore, la communauté française en Algérie est très présente, puisque les Français étaient 28 900 au 31 décembre 2012.
-De même, plus d’un demi-million d’Algériens étaient titulaires d’un permis de séjour français au 31 décembre 2011.
+Aujourd’hui encore, la communauté française en Algérie est très présente, puisque les Français étaient vingt-huit neuf cents au 3un décembre 20un2.
+De même, plus d’un demi-million d’Algériens étaient titulaires d’un permis de séjour français au 3un décembre 20unun.
 Outre l’importance de ces liens humains, la France et l’Algérie sont unies par des enjeux économiques : la France demeure le premier fournisseur et le quatrième client de l’Algérie.
 L’avenir de la France se trouve aussi en Méditerranée.
 C’est la raison pour laquelle nous devons nous tourner résolument vers ce pays et renforcer nos liens avec lui, par la mise en œuvre de partenariats novateurs.
@@ -751,13 +795,13 @@ Ce nécessaire apaisement passe notamment par la reconnaissance de notre histoir
 Il est toujours délicat pour une nation de se tourner vers son passé, en particulier lorsque cela fait ressurgir des moments douloureux de son histoire.
 Mais l’histoire doit aussi servir à construire un avenir meilleur pour les générations futures.
 La France a déjà entrepris un important travail de reconnaissance.
-Tel était notamment l’une des ambitions de la loi du 23 février 2005 portant reconnaissance de la nation et contribution nationale en faveur des Français rapatriés.
+Tel était notamment l’une des ambitions de la loi du vingt-trois février 200cinq portant reconnaissance de la nation et contribution nationale en faveur des Français rapatriés.
 Cette loi avait deux objectifs principaux.
 Un objectif moral, tout d’abord : «témoigner aux Français rapatriés la reconnaissance de la nation».
 Un objectif matériel, ensuite : «corriger des situations inéquitables nées de la succession des différentes lois d’indemnisation en faveur des rapatriés et prolonger l’effort de solidarité en faveur des harkis».
-En juin 2013, un rapport gouvernemental a été remis au Parlement afin d’éclairer les parlementaires sur l’application de cette loi.
+En juin 20un3, un rapport gouvernemental a été remis au Parlement afin d’éclairer les parlementaires sur l’application de cette loi.
 Ce sont précisément cette incompréhension et cette inquiétude que la présente proposition de résolution tente de dissiper, dans un esprit d’apaisement.
-Selon l’Agence nationale pour l’indemnisation des Français d’outre-mer, les mesures successives de solidarité nationale n’ont compensé, en moyenne, que 58 % des préjudices subis.
+Selon l’Agence nationale pour l’indemnisation des Français d’outre-mer, les mesures successives de solidarité nationale n’ont compensé, en moyenne, que cinq8 % des préjudices subis.
 La proposition de résolution entend donc remédier aux manquements des précédentes mesures.
 Cette réparation est nécessaire si nous voulons, cinquante-deux ans après la guerre d’Algérie, clôturer de manière apaisée le dossier de l’indemnisation, afin de donner un nouveau souffle aux relations franco-algériennes.
 Or cette intégration pleine et entière ne sera jamais achevée si ces Français de naissance continuent d’alimenter un certain ressentiment à l’égard de l’État.
@@ -765,7 +809,7 @@ La proposition de résolution présentée s’inscrit ainsi dans une double pers
 D’abord, en proposant la création d’un collège ou d’un sous-collège représentant les Français rapatriés d’outre-mer au sein du futur Office national des anciens combattants, des victimes de guerre et des Français rapatriés d’outre-mer.
 Ensuite, en appelant à poursuivre l’action sociale destinée aux harkis et à l’étendre aux réinstallés dans une profession non salariée en situation de détresse sociale.
 Il est légitime que ces combattants des anciennes colonies françaises et leurs enfants, longtemps relégués au rang de victimes oubliées de l’histoire, puissent obtenir la reconnaissance qu’ils sont en droit d’attendre.
-Nous saluons également la volonté affichée par le texte de faciliter les recherches sur les personnes d’origine européenne disparues en Algérie, surtout en 1962, et présumées décédées.
+Nous saluons également la volonté affichée par le texte de faciliter les recherches sur les personnes d’origine européenne disparues en Algérie, surtout en mille neuf cent soixante-deux, et présumées décédées.
 En définitive, cette proposition de résolution ne fait que renforcer la reconnaissance de la nation à l’endroit des Français rapatriés d’outre-mer.
 Cette reconnaissance de la nation doit être à jamais gravée dans notre mémoire collective.
 Mes chers collègues, vous l’aurez compris, les députés du groupe UDI voteront cette résolution sans réserve.
@@ -773,18 +817,21 @@ Mes chers collègues, vous l’aurez compris, les députés du groupe UDI votero
 Monsieur Aboud, je vous ai compris ! Mais je ne lèverai pas les bras.
 J’ai beaucoup de reconnaissance pour le Général de Gaulle.
 Revenons un instant sur leur histoire.
+Parias en France, où ils furent parqués dans des camps, parfois pendant plusieurs dizaines d’années, massacrés en Algérie pour collaboration avec l’ennemi après le départ des troupes françaises, ignorés des responsables politiques pendant plus de quarante ans, les harkis ont beaucoup souffert.
 Mais nous devons rappeler la responsabilité de la droite dans le drame qu’ils ont vécu et la situation scandaleuse dans laquelle leurs descendants ont été maintenus.
-Rappelons que c’est le gouvernement en place en 1962 qui a désarmé les harkis et les a laissés, eux et leurs familles, se faire massacrer par les partisans du nouveau pouvoir algérien.
+Rappelons que c’est le gouvernement en place en mille neuf cent soixante-deux qui a désarmé les harkis et les a laissés, eux et leurs familles, se faire massacrer par les partisans du nouveau pouvoir algérien.
 D’autre part, des ordres étaient donnés de la part de Louis Joxe pour éviter un afflux massif en métropole.
 Cela fait dire à nombre d’intellectuels que l’épisode des harkis constitue l’une des pages honteuses de l’histoire de France, comme l’ont été l’instauration du statut des Juifs ou la rafle du Vél’d’Hiv.
 Désormais, les harkis ont obtenu des réparations matérielles et morales, en vertu de lois que personne ne songe à remettre en cause.
 S’agissant des rapatriés, le texte évoque une centaine de réinstallés «dans une profession non salariée qui, notamment, en raison de l’âge, sont en situation de détresse sociale».
+Cinquante ans après, ne peut-on pas légitimement penser que ces rapatriés ont eu le temps de se refaire et de se reconstruire dans leur pays, la France ? Il est maladroit de mettre aujourd’hui en cause la décolonisation pour expliquer la situation sociale des intéressés.
 La semaine dernière, à l’appel de plusieurs organisations, dont la CGT et la FSU, les retraités se sont mobilisés pour leur pouvoir d’achat, mais aussi pour un modèle de société solidaire.
 Cela n’a rien à voir avec le fait de se plaindre d’un sort qui leur aurait été fait il y a de cela plus de cinquante ans.
 Ils sont tous retraités, quand même ! Il s’agit de vivre dignement quand on a travaillé toute sa vie.
-Les retraités dénoncent la baisse de 15 à 20 % de leur pouvoir d’achat ces dix dernières années.
+Les retraités dénoncent la baisse de quinze à vingt % de leur pouvoir d’achat ces dix dernières années.
 Trop de retraités, et particulièrement des femmes, vivent en-dessous du seuil de pauvreté.
 Cette situation de pauvreté découle des réformes des gouvernements successifs.
+Aujourd’hui, le Gouvernement, avec l’appui de l’UMP qui voudrait faire encore plus d’austérité, entend geler les pensions jusqu’en octobre vingtquinze : c’est inacceptable ! Il faut, au contraire, un rattrapage significatif et immédiat des retraites, à hauteur de trois cents euros.
 Il faut mettre un terme à la politique de déremboursement des médicaments, supprimer les participations forfaitaires, les franchises médicales, les dépassements d’honoraires et la taxation des mutuelles.
 Revenons sur la volonté commune du PS et de l’UMP de supprimer les services publics de proximité assurés par les conseils généraux.
 Quel est le rapport ? Je vous ai écouté, monsieur Aboud.
@@ -802,8 +849,8 @@ Je passe sur des points qui me paraissent secondaires.
 Le plus important me paraît la provocation qui consisterait à affirmer qu’il reviendrait aujourd’hui à l’Algérie de rembourser les biens perdus par les rapatriés.
 L’Algérie est la victime de la colonisation.
 Elle a payé un lourd tribut.
-Rappelons aussi les 300 000 à 400 000 morts algériens, en très grande partie des civils.
-Près de 30 000 soldats français ont payé de leur vie cette guerre absurde.
+Rappelons aussi les trois cents 000 à quatre cents 000 morts algériens, en très grande partie des civils.
+Près de trente 000 soldats français ont payé de leur vie cette guerre absurde.
 La France s’est servie économiquement et financièrement sur la bête pendant la colonisation, monsieur Aboud.
 Aujourd’hui, il faut rejeter catégoriquement les provocations et tentatives de division des Français, et prôner l’amitié entre les peuples.
 Cette proposition, tout au contraire, fleure bon l’impérialisme.
@@ -811,47 +858,50 @@ Il faut instaurer une compréhension et un respect mutuels entre les deux rives 
 «Un peuple qui en opprime un autre ne saurait être libre», disait Karl Marx.
 Parce qu’il n’aspire qu’au droit des peuples à disposer d’eux-mêmes, le vrai patriotisme s’oppose au colonialisme, au capitalisme, à l’impérialisme, ainsi qu’à leurs instruments idéologiques, les défouloirs du racisme et de la xénophobie.
 Nous profitons également de ce débat pour honorer la mémoire de Maurice Audin, assassiné comme des milliers d’autres.
-Dans la nuit du 10 au 11 juin 1957, le jeune militant communiste Maurice Audin était kidnappé par des parachutistes à son domicile situé à Alger.
+Dans la nuit du dix au onze juin mille neuf cent cinquante-sept, le jeune militant communiste Maurice Audin était kidnappé par des parachutistes à son domicile situé à Alger.
 Il fut emmené puis torturé pendant dix jours au centre de tri et de transit d’El Biar.
-Le 21 juin, il fut froidement assassiné à coups de poignard par l’aide de camp de Massu, le sous-lieutenant Gérard Garcet.
+Le vingt et un juin, il fut froidement assassiné à coups de poignard par l’aide de camp de Massu, le sous-lieutenant Gérard Garcet.
 Maurice Audin était brillant.
-Il avait 25 ans et était père de trois enfants, enseignant-chercheur en mathématiques à la faculté d’Alger.
+Il avait vingt-cinq ans et était père de trois enfants, enseignant-chercheur en mathématiques à la faculté d’Alger.
 Son combat pour la liberté d’un peuple était la première phase pour abolir les discriminations raciales et religieuses, mais aussi pour supprimer l’exploitation et la domination entretenues depuis environ un siècle par l’armée coloniale française.
-Comme ce fut le sort de milliers d’autres patriotes enlevés en 1957 et torturés à mort par l’armée durant la bataille d’Alger, le corps de Maurice Audin n’a jamais été retrouvé.
+Comme ce fut le sort de milliers d’autres patriotes enlevés en mille neuf cent cinquante-sept et torturés à mort par l’armée durant la bataille d’Alger, le corps de Maurice Audin n’a jamais été retrouvé.
 Cela ne me fait pas rire, monsieur Aboud.
 Je ne ris pas à cause de cela, vous le savez bien ! C’est avec émotion que nous avons une pensée pour lui aujourd’hui.
 Vous l’avez compris, mes chers collègues : bien entendu, les députés du Front de gauche voteront contre cette proposition de résolution.
 La parole est à Monsieur Philippe Nauche.
-Madame la présidente, monsieur le secrétaire d’État, chers collègues, en 2006, Benjamin Stora écrivait : «De nos jours, des logiques de postures victimaires l’emportent dans la société sur les recherches de responsabilités étatiques ou personnelles.
+Madame la présidente, monsieur le secrétaire d’État, chers collègues, en deux mille six, Benjamin Stora écrivait : «De nos jours, des logiques de postures victimaires l’emportent dans la société sur les recherches de responsabilités étatiques ou personnelles.
 Une sorte de cloisonnement, de communautarisation du souvenir par une posture victimaire, s’est installée.» La guerre d’Algérie est l’un de ces épisodes douloureux de l’histoire française.
 Elle aura marqué durablement notre société.
 Le bilan humain est terriblement lourd, pour les Français comme pour les Algériens, pour les civils comme pour les militaires.
 Leur souffrance est d’autant plus grande qu’elle est étouffée sous une chape de plomb.
-Il faudra attendre la loi du 18 octobre 1999, adoptée sous le gouvernement Jospin, pour que les événements d’Algérie soient enfin officiellement reconnus comme une véritable guerre.
+Il faudra attendre la loi du dix-huit octobre mille neuf cent quatre-vingt-dix-neuf, adoptée sous le gouvernement Jospin, pour que les événements d’Algérie soient enfin officiellement reconnus comme une véritable guerre.
 Certains ont réussi à faire la paix avec leur passé, mais d’autres n’arrivent pas à le dépasser.
+Si les députés du groupe socialiste comprennent parfaitement les souffrances endurées par les populations, ils considèrent que leur rôle de législateur est de faire la part entre ce qui relève de l’émotion légitime et ce qui relève du rationnel nécessaire.
 Elle s’inscrit dans une démarche qui pourrait peut-être apparaître un peu électoraliste.
 Son contenu est plutôt politicien, à visée très locale, à destination de leaders d’opinion de certaines circonscriptions du sud de notre pays.
-Et pourquoi ? C’est hallucinant ! Politicienne, cette proposition l’est dans la mesure où l’ensemble des dispositions mises en place depuis 2012 sont considérées comme non avenues.
+Et pourquoi ? C’est hallucinant ! Politicienne, cette proposition l’est dans la mesure où l’ensemble des dispositions mises en place depuis deux mille douze sont considérées comme non avenues.
 Vous faites comme s’il ne se passait rien, comme s’il n’y avait pas d’actions du Gouvernement, soutenu par sa majorité.
 Je tiens à reprendre chaque point de la proposition de résolution afin de justifier cette position.
 Or cette mesure n’est justifiée que par la très nette réduction d’activité survenue au cours des dernières années au sein de la MIR et de l’ANIFOM ; elle a pour objectif essentiel de pérenniser l’action entreprise.
-J’en veux pour preuve la nouvelle action budgétaire en faveur des rapatriés, qui représente 17,8 millions d’euros en 2014.
+J’en veux pour preuve la nouvelle action budgétaire en faveur des rapatriés, qui représente dix-sept,huit millions d’euros en deux mille quatorze.
 Enfin, le Gouvernement mène une réflexion, avec l’Office national des anciens combattants et victimes de guerre, pour examiner les modalités qui permettraient d’associer davantage les rapatriés et les harkis au fonctionnement de l’établissement.
 Contrairement à ce qu’insinue cette proposition de résolution, il n’a jamais été question de remettre en cause ces aides, bien au contraire.
 Je pense que le secrétaire d’État nous l’expliquera tout à l’heure.
 Troisième point : la poursuite par l’État de ses actions en faveur des enfants d’anciens supplétifs à la recherche d’un emploi stable ou d’une formation.
-La loi de programmation militaire 2014-2019 prévoit de porter à cinq ans, contre trois actuellement, la durée durant laquelle un enfant de harkis peut figurer sur les listes d’aptitudes.
+La loi de programmation militaire deux mille quatorze-deux0dix-neuf prévoit de porter à cinq ans, contre trois actuellement, la durée durant laquelle un enfant de harkis peut figurer sur les listes d’aptitudes.
+En outre, une action de sensibilisation va être menée par le secrétaire d’État chargé des anciens combattants et de la mémoire afin de favoriser le recrutement d’enfants de harkis inscrits sur les listes d’aptitude de la fonction publique territoriale.
 Les aides en faveur des enfants de harkis pour l’accès à l’emploi sont non seulement maintenues, mais amplifiées par le Gouvernement.
 Enfin, signalons le soutien financier accordé sous forme de subventions aux associations représentatives proposant des projets d’insertion ou des formations qualifiantes en faveur des enfants d’anciens combattants harkis.
-Quatrième point : la facilitation des recherches des personnes d’origine européenne disparues en Algérie, surtout en 1962, et présumées décédées.
-Depuis 2004, une liste révisée de 2 230 personnes disparues a été établie.
+Quatrième point : la facilitation des recherches des personnes d’origine européenne disparues en Algérie, surtout en mille neuf cent soixante-deux, et présumées décédées.
+Depuis deux mille quatre, une liste révisée de deux deux30 personnes disparues a été établie.
 Parmi les objectifs de cette coopération, figurent la question de la mémoire commune et en particulier l’échange d’informations pour la localisation de sépultures de disparus pendant la guerre d’Algérie.
 Les autorités françaises, notamment les consulats en Algérie, travaillent par ailleurs de concert avec les autorités algériennes pour recenser, regrouper et rénover les sépultures civiles françaises en Algérie.
 Le cinquième point concerne la réparation intégrale du préjudice subi.
+Selon le rapport de la Cour des comptes pour l’année deux009, l’ANIFOM a distribué quatorze milliards d’euros entre dix-neuf70 et dix-neuf97, représentant 5huit % de la somme des biens perdus il y a cinquante ans et évalués par elle.
 Derrière ce vœu, le message de prise en considération de l’indemnisation de la totalité des biens perdus par les rapatriés est à mettre en lien avec le dernier point de la proposition de résolution : l’Algérie doit payer.
 Le sixième et dernier point pose un certain nombre de questions sous couvert d’approbation de l’amélioration des relations entre l’Algérie et la France : rechercher avec l’Algérie des moyens de clôturer le dossier de l’indemnisation.
-Les associations de rapatriés considèrent que la France a compensé 58 % des pertes matérielles, mais que la totalité de ces indemnisations auraient dû être le fait de l’Algérie.
-Dans cette logique, Alger devrait rembourser les 42 % restants.
+Les associations de rapatriés considèrent que la France a compensé 5huit % des pertes matérielles, mais que la totalité de ces indemnisations auraient dû être le fait de l’Algérie.
+Dans cette logique, Alger devrait rembourser les 4deux % restants.
 Ce serait d’autant moins opportun que l’Algérie est devenue aujourd’hui un partenaire incontournable de la France dans la lutte contre le terrorisme dans la zone sahélo-saharienne.
 Vous l’aurez compris, le groupe SRC ne peut donc voter cette proposition de résolution irresponsable.
 (Applaudissements sur les bancs du groupe SRC.) C’est bien triste.
@@ -859,6 +909,7 @@ La parole est à Monsieur Thierry Mariani.
 Madame la présidente, monsieur le secrétaire d’État, chers collègues, notre assemblée examine aujourd’hui la proposition de résolution de notre collègue Élie Aboud visant au maintien d’une administration et de politiques publiques dédiées aux Français rapatriés d’outre-mer.
 Plus de cinquante ans après l’indépendance de l’Algérie, la France et l’Algérie ont renoué le dialogue en établissant à nouveau des relations privilégiées.
 Le hasard du calendrier fait que cet examen survient au lendemain d’une visite officielle de deux jours du chef de la diplomatie française à Alger.
+À cette occasion, le ministre des affaires étrangères, Monsieur Laurent Fabius, a réaffirmé la volonté de la France de demeurer le principal partenaire économique de l’Algérie, poursuivant ainsi le renouveau des relations franco-algériennes amorcé ces dernières années par Jacques Chirac et Nicolas Sarkozy.
 À ce titre, l’effort mené pour renforcer le partenariat entre la France et l’Algérie doit être salué.
 En effet, l’Algérie est aujourd’hui un partenaire essentiel, en particulier dans le cadre du conflit au Mali et dans la lutte contre le terrorisme.
 Au-delà de ces relations, la France et l’Algérie ont tissé des liens étroits à travers leur histoire commune – qui a certes pu laisser des marques douloureuses au sein des deux peuples.
@@ -868,13 +919,13 @@ La proposition de résolution d’Élie Aboud, impliqué depuis des années sur 
 En effet, lors de la décolonisation, des centaines de milliers de personnes ont été contraintes de revenir en France dans la précipitation.
 Par ailleurs, à défaut d’une «indemnisation équitable» prévue par les accords d’Évian, des mesures structurelles et des dispositifs particuliers ont été mis en place au nom de la solidarité nationale pour les Français rapatriés.
 D’autres mesures ont été adoptées pour les harkis – ces hommes qui ont combattu à nos côtés – ainsi que pour leurs familles.
-Au-delà, de ces réparations matérielles, les Français rapatriés ont également obtenu une reconnaissance morale de la nation par la loi du 23 février 2005.
+Au-delà, de ces réparations matérielles, les Français rapatriés ont également obtenu une reconnaissance morale de la nation par la loi du vingt-trois février deux mille cinq.
 Cependant, malgré l’intervention du législateur, les rapatriés se sentent souvent mal compris d’autant plus que la guerre d’Algérie a laissé des tensions dressant contre eux certains de leurs concitoyens métropolitains.
 Près de cinquante ans après l’indépendance de l’Algérie, perdure donc une certaine animosité.
 C’est pourquoi il est nécessaire, encore aujourd’hui, de calmer les esprits.
 Hélas, même si je sais votre implication personnelle sur le sujet, monsieur le secrétaire d’État, pour le Gouvernement, les rapatriés comme le monde des anciens combattants ne semblent pas une priorité.
 Alors que nous célébrons le centenaire de la Grande Guerre, nous, regrettons avec mes collègues du groupe UMP, le peu d’intérêt que représentent pour le Gouvernement, au-delà des cérémonies de commémoration, nos anciens combattants.
-Ainsi, pour la deuxième année consécutive, le budget consacré aux anciens combattants est en rupture avec la dynamique enclenchée en 2007.
+Ainsi, pour la deuxième année consécutive, le budget consacré aux anciens combattants est en rupture avec la dynamique enclenchée en deux mille sept.
 En effet, le Gouvernement prend ici le contre-pied de l’ancienne majorité, qui, en dépit d’un contexte budgétaire difficile, s’était montrée désireuse d’apporter à ses anciens combattants toute la reconnaissance de la nation qu’ils méritent.
 À l’époque, conformément aux engagements pris par Nicolas Sarkozy, l’ancienne majorité avait conduit une action décisive pour remédier aux insuffisances héritées des années passées témoignant ainsi son attachement au monde des anciens combattants.
 Aujourd’hui, ce gouvernement et la majorité n’ont cessé d’adresser à l’ensemble de nos anciens combattants des signes qui ressemblent à du mépris.
@@ -898,16 +949,17 @@ Mais on n’aura jamais la paix de l’histoire si l’on n’obtient pas la ré
 Or on ne l’a pas.
 Chaque fois que l’on fait des demandes d’information, on se heurte à l’obstruction du gouvernement algérien.
 Or la mesure que vous voulez prendre supprime deux structures dédiées à ces réparations.
-C’est comme une manière technique, législative de se détourner d’eux encore une fois, et ce n’est pas acceptable : 8,4 milliards d’euros sont encore en attente d’être réglés.
+C’est comme une manière technique, législative de se détourner d’eux encore une fois, et ce n’est pas acceptable : huit,quatre milliards d’euros sont encore en attente d’être réglés.
 Ce conflit ne s’apaisera pas dans l’inconscient ni dans l’histoire tant qu’on ne réglera pas, dans la réciprocité, tout ce qui doit être réglé.
 Sinon on n’a qu’à bloquer la mécanique des accords d’Évian.
 Cessez de fantasmer.
 Cessez de croire que les fils et les filles de rapatriés ou de harkis, les rapatriés et les harkis eux-mêmes ont une «nostalgie», comme vous dites.
 Ils éprouvent parfois une souffrance, et on doit l’accepter et la prendre en compte.
+Sinon, non seulement on ne pacifiera pas le présent, ce qui est le plus important, mais on ne pacifiera pas non plus le passé qui fabrique l’inconscient des jeunes qui vivent aujourd’hui sur notre territoire, qui est le leur.
 Il faut une totalité dans la justice et il faut cesser, chaque fois que l’on aborde ce débat, de traiter les uns de xénophobes, les autres de racistes, de colonialistes.
 Ils étaient la France et, à ce titre, ils ont droit au respect.
 Monsieur le secrétaire d’État, dans les quelques secondes qui me restent, je voudrais vous poser une question.
-L’information circule que les troupes algériennes vont venir défiler le 14-Juillet.
+L’information circule que les troupes algériennes vont venir défiler le 1quatre-Juillet.
 Est-ce vrai ? De tous côtés, on est alerté.
 De tous côtés, il y a une émotion.
 Je ne sais que répondre.
@@ -917,52 +969,54 @@ Madame la présidente, mesdames et messieurs les députés, Monsieur Aboud a eu 
 Je tiens moi-même à saluer les efforts de notre pays en faveur du renforcement de la relation bilatérale qui s’inscrit dans le cadre d’une ouverture euro-méditerranéenne que nous appelons de nos vœux.
 Cette relation s’est consolidée ces derniers mois autour de quelques moments forts de la coopération franco-algérienne.
 J’ai essayé de la consolider aussi autour de la question mémorielle.
-Et 2014 nous offre cette belle opportunité de rappeler que l’histoire commune franco-algérienne ne s’est pas écrite qu’entre 1954 et 1962, lors du drame de la guerre d’Algérie.
-Au-delà des seuls aspects mémoriels, la coopération franco-algérienne a connu un nouvel élan à l’occasion du déplacement du Président de la République en décembre 2012, soit cinquante ans après l’indépendance de l’Algérie.
+Et deux mille quatorze nous offre cette belle opportunité de rappeler que l’histoire commune franco-algérienne ne s’est pas écrite qu’entre mille neuf cent cinquante-quatre et mille neuf cent soixante-deux, lors du drame de la guerre d’Algérie.
+Au-delà des seuls aspects mémoriels, la coopération franco-algérienne a connu un nouvel élan à l’occasion du déplacement du Président de la République en décembre 20douze, soit cinquante ans après l’indépendance de l’Algérie.
 François Hollande a alors inauguré une relation renouvelée et plus forte entre les deux pays.
 Il a prononcé un discours appelant à l’apaisement des mémoires, comme vous-même, monsieur Aboud, l’avez fait à cette tribune.
 Un discours dans lequel il n’oubliait pas les rapatriés, dont il a rappelé les souffrances mais dont il a souligné aussi la richesse humaine qu’ils représentent pour les deux pays.
-À l’occasion de cette visite d’État, plusieurs accords ont été signés, ainsi qu’un document cadre de partenariat pour la période 2013-2017.
+À l’occasion de cette visite d’État, plusieurs accords ont été signés, ainsi qu’un document cadre de partenariat pour la période deux mille treize-20dix-sept.
 Une feuille de route bilatérale est désormais partagée pour progresser dans l’ensemble des domaines d’intérêts communs.
 Le document cadre prévoit de manière générale que la France et l’Algérie engagent des efforts communs dans plusieurs secteurs, de l’éducation et la formation des jeunes à la santé en passant par les questions économiques, énergétiques et sécuritaires.
-Il établit, en outre, des axes de concertation privilégiés que le ministre des affaires étrangères a rappelés à l’occasion de son déplacement les 8 et 9 juin derniers.
+Il établit, en outre, des axes de concertation privilégiés que le ministre des affaires étrangères a rappelés à l’occasion de son déplacement les huit et neuf juin derniers.
 Au sein de la coopération franco-algérienne, la question des rapatriés n’est pas oubliée.
 Le rapprochement qui s’opère entre les deux pays offre aussi l’opportunité de progresser sur cette question.
 Avant toute chose, permettez-moi de vous rappeler l’action de l’État en leur faveur.
 Elle s’inscrit dans l’histoire des politiques publiques.
-Depuis 1961, plus de 38 milliards d’euros ont été dépensés, dont 17,53 milliards pour l’accueil et la réinstallation des rapatriés.
+Depuis 1neuf61, plus de 3huit milliards d’euros ont été dépensés, dont dix-sept,cinquante-trois milliards pour l’accueil et la réinstallation des rapatriés.
 Cette action s’inscrit aussi dans la reconnaissance de l’histoire des rapatriés.
 Non seulement les aides et réformes en cours sont maintenues mais les rapatriés pourront désormais bénéficier de l’expérience de l’Office national en matière administrative et dans le domaine de la politique mémorielle.
-J’avais rappelé dès 2012 la nécessité de renforcer le dialogue entre les associations de harkis et rapatriés et l’ONAC-VG.
+Ce transfert des missions d’aides aux rapatriés de la MIR et de l’ANIFOM à l’ONAC-VG est la première des préoccupations que vous avez formulées, monsieur Aboud, dans la proposition de résolution que l’Assemblée nationale est invitée aujourd’hui à examiner.
+J’avais rappelé dès 20douze la nécessité de renforcer le dialogue entre les associations de harkis et rapatriés et l’ONAC-VG.
 C’est un engagement que j’ai honoré.
 La gestion de l’ensemble des dispositifs relatifs aux harkis et rapatriés est aujourd’hui recentrée sur cet Office.
 De plus, la dénomination de «ressortissants» de l’ONAC-VG n’est pas une condition sine qua non à une reconnaissance des souffrances endurées.
-Comme je l’ai rappelé tout à l’heure, l’État a reconnu les préjudices subis par les rapatriés et a agi en leur faveur dès 1961.
+Comme je l’ai rappelé tout à l’heure, l’État a reconnu les préjudices subis par les rapatriés et a agi en leur faveur dès 1neuf61.
 Toutefois, au regard des nouvelles attributions de l’Office national, qui devient un guichet unique pour les rapatriés, je souhaite que leurs représentants y soient associés et puissent nouer des contacts réguliers avec l’ONAC-VG.
 Nous sommes en train d’étudier le format que cela pourrait prendre avec sa directrice générale.
 Nous sommes en voie de trouver une issue favorable.
 Le projet de résolution exprime aussi le souhait que soit poursuivie l’action de l’Office national en faveur des harkis et que des actions similaires soient mises en place pour les rapatriés.
 Les aides spécifiques apportées aux harkis leur sont versées principalement par l’ONAC-VG en leur qualité d’anciens combattants mais aussi en raison de certaines spécificités.
-Ils ne bénéficièrent que de très peu des mesures prises après 1961 et beaucoup connurent l’hébergement dans des camps fermés jusqu’en 1975.
+Ils ne bénéficièrent que de très peu des mesures prises après 1neuf61 et beaucoup connurent l’hébergement dans des camps fermés jusqu’en 1neuf75.
 Je tiens aussi à rappeler que certains rapatriés, au titre de leur participation aux combats dans lesquels la France s’est engagée, sont ressortissants de l’ONAC-VG.
-De plus, les aides attribuées aux rapatriés, qui s’élèvent à 540 000 euros dans le budget pour 2014, seront intégralement maintenues.
-Depuis juillet 2009, 656 enfants de harkis – trop peu à mes yeux – ont été recrutés dans la fonction publique, en grande majorité dans la fonction publique d’État.
-Dès 2012, je me suis engagé à répondre aux attentes des enfants de harkis en matière d’insertion professionnelle.
+De plus, les aides attribuées aux rapatriés, qui s’élèvent à cinq cent quarante 000 euros dans le budget pour deux mille quatorze, seront intégralement maintenues.
+À côté de la reconnaissance engagée depuis plusieurs mois à travers des actions mémorielles rappelées tout à l’heure, je tiens aussi à ce que l’État exprime sa solidarité avec la communauté harkie à travers la mise en place de dispositifs sociaux et professionnels.
+Depuis juillet 200neuf, six cent cinquante-six enfants de harkis – trop peu à mes yeux – ont été recrutés dans la fonction publique, en grande majorité dans la fonction publique d’État.
+Dès 20douze, je me suis engagé à répondre aux attentes des enfants de harkis en matière d’insertion professionnelle.
 Les actions menées n’ont pas été seulement maintenues, elles ont été amplifiées.
-En septembre 2013, un décret a été publié remettant en œuvre les mesures de soutien à la formation professionnelle des enfants de harkis.
+En septembre deux mille treize, un décret a été publié remettant en œuvre les mesures de soutien à la formation professionnelle des enfants de harkis.
 Un article inséré dans la loi de programmation militaire permet au Gouvernement de prolonger de trois à cinq ans la durée d’inscription des enfants de harkis sur les listes d’emplois réservés.
 Je vais également mener une action de sensibilisation spécifique envers la fonction publique territoriale afin de favoriser dans tous les départements le recrutement d’enfants de harkis inscrits sur les listes d’aptitude.
-Les bourses scolaires, universitaires et aides à la formation instaurées par les lois de 1994 et 2005 ont engrangé 113 000 aides pour un coût total de 31 millions d’euros.
+Les bourses scolaires, universitaires et aides à la formation instaurées par les lois de 1neufneuf4 et deux mille cinq ont engrangé cent treize 000 aides pour un coût total de trente et un millions d’euros.
 Ce décret prévoit aussi sous forme de subventions un soutien financier aux associations représentatives proposant des projets d’insertion ou des formations qualifiantes en faveur des enfants d’anciens combattants harkis.
-La question spécifique de la facilitation des recherches des personnes européennes disparues en Algérie après 1962 a fait l’objet d’un accord signé en décembre 2012.
-Le comité intergouvernemental de haut niveau du 16 décembre 2013, coprésidé par les premiers ministres français et algérien, est venu confirmer la coopération en la matière entre le ministère des moudjahidines et le ministère français de la défense.
+La question spécifique de la facilitation des recherches des personnes européennes disparues en Algérie après mille neuf cent soixante-deux a fait l’objet d’un accord signé en décembre 20douze.
+Le comité intergouvernemental de haut niveau du seize décembre deux mille treize, coprésidé par les premiers ministres français et algérien, est venu confirmer la coopération en la matière entre le ministère des moudjahidines et le ministère français de la défense.
 Le service historique de la défense suit cette question de très près.
 C’est un engagement auquel je tiens.
 J’ai d’ailleurs reçu récemment les familles des disparus des Abdellys.
 Je sais que tout est mis en œuvre entre la France et l’Algérie pour faire la lumière sur cet épisode douloureux.
-S’agissant des indemnisations en faveur des rapatriés, je rappelle que, depuis 1961, l’État a versé 17,8 milliards d’euros à ce titre.
+S’agissant des indemnisations en faveur des rapatriés, je rappelle que, depuis 1neuf61, l’État a versé dix-sept,huit milliards d’euros à ce titre.
 Quant au gouvernement algérien, il a toujours précisé qu’il s’agissait de mesures dont ne pouvaient bénéficier que les Européens restés en Algérie après les accords d’Évian.
-Depuis le rapprochement initié par François Hollande en décembre 2012, un groupe de travail consulaire a été mis en place sur ce sujet.
+Depuis le rapprochement initié par François Hollande en décembre 20douze, un groupe de travail consulaire a été mis en place sur ce sujet.
 Voilà, mesdames et messieurs les députés, ce que je tenais à rappeler devant la représentation nationale.
 La complexité de la question des rapatriés ne trouve sa résolution que dans un approfondissement de nos relations avec l’Algérie, auquel il faut donner du temps.
 Des pas ont été faits des deux côtés.
@@ -974,4 +1028,6 @@ Nous sommes très peu nombreux, d’ailleurs, à la connaître réellement, à a
 Je connais les souffrances et les souvenirs douloureux que cette histoire renferme.
 Votre propos était apaisé, monsieur Aboud, et je vous remercie d’avoir initié ce dialogue.
 Mais je ne peux qu’émettre un avis défavorable au vote de votre proposition de résolution.
+(Applaudissements sur les bancs du groupe SRC.) Je rappelle que la Conférence des présidents a décidé que les explications de vote et le vote par scrutin public sur la proposition de résolution auront lieu le mardi dix-sept juin, après les questions au Gouvernement.
+Prochaine séance, cet après-midi, à quinze heures : Proposition de loi visant à introduire une formation pratique aux premiers secours dans la préparation du permis de conduire ; Proposition de loi relative au versement des allocations familiales au service d’aide à l’enfance.
 La séance est levée.
