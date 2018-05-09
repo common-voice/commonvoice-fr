@@ -56,9 +56,13 @@ mapping_normalization = [
 #  [ u'\xa0»', u'»' ],
   #[ u'\xa0' , u' ' ],
   [ u'M.\u00a0'   , u'Monsieur ' ],
+  [ u'M. '   , u'Monsieur ' ],
   [ u'Mme\u00a0'  , u'Madame ' ],
+  [ u'Mme '  , u'Madame ' ],
   [ u'Mlle\u00a0' , u'Mademoiselle ' ],
+  [ u'Mlle ' , u'Mademoiselle ' ],
   [ u'Mlles\u00a0', u'Mademoiselles ' ],
+  [ u'Mlles ', u'Mademoiselles ' ],
   [ u'%', u'pourcent' ],
 ]
 
