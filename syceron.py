@@ -278,25 +278,31 @@ for event, node in doc:
     def maybe_translate(element, mapping):
       value = maybe_normalize(element.nodeValue)
 
+      bsp  = value.count(' ')
       nbsp = value.count('\u00a0')
-      if nbsp == 0:
+      if nbsp == 0 and bsp == 0:
         if value in mapping:
           return mapping[value]
       else:
         nvalue = value.strip()
-        if nbsp == 1 and value.find('\u00a0') == len(value) - 1:
-          if nvalue in mapping:
-            return mapping[nvalue] + u'\u00a0'
-        if nbsp == 1 and value.find('\u00a0') == len(value) - 2 and value.find(' ') == len(value) - 1:
-          if nvalue in mapping:
-            return mapping[nvalue] + u'\u00a0'
-        if nbsp == 1 and value.find(' ') == len(value) - 1:
-          if nvalue in mapping:
-            return mapping[nvalue] + u' '
+        if nbsp > 0:
+          if nbsp == 1 and value.find('\u00a0') == len(value) - 1:
+            if nvalue in mapping:
+              return mapping[nvalue] + u'\u00a0'
+          if nbsp == 1 and value.find('\u00a0') == len(value) - 2 and value.find(' ') == len(value) - 1:
+            if nvalue in mapping:
+              return mapping[nvalue] + u'\u00a0'
+        if bsp > 0:
+          if bsp == 1 and value.find(' ') == len(value) - 1:
+            if nvalue in mapping:
+              return mapping[nvalue] + u' '
 
-      print("NOT TRANSLATED: '{}' => '{}'".format(element.nodeValue, value))
-      for c in value:
-        print("value: '{}' == {}".format(c, ord(c)))
+      if element.nodeValue.isnumeric() and str(int(element.nodeValue)) == element.nodeValue:
+        pass
+      else:
+        print("NOT TRANSLATED: '{}' => '{}'".format(element.nodeValue, value))
+        for c in value:
+          print("value: '{}' == {}".format(c, ord(c)))
       return value
 
     def recursive_text(root, finaltext=""):
