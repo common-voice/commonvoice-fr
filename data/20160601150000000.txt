@@ -371,7 +371,7 @@ La peine maximale n’est donc jamais appliquée.
 Enfin, les délais de jugement sont plus courts dans la voie administrative : le délai moyen de traitement est de deux ans et demi, contre près de dix ans pour les affaires les plus complexes dans la voie pénale.
 Mes chers collègues, il nous faut d’ailleurs méditer sur ces chiffres au moment où nous nous apprêtons à examiner le projet de loi Sapin deux.
 Telle qu’est organisée la juridiction pénale, les délais de jugement peuvent être très longs face aux avocats de puissants groupes financiers qui ont les moyens de faire durer le contentieux dix ans, voire vingt ans.
-C’est d’ailleurs pour cette raison que la loi Sapin I n’a jamais entraîné la condamnation définitive d’une quelconque entreprise coupable d’avoir utilisé la corruption pour obtenir des contreparties, en général des marchés.
+C’est d’ailleurs pour cette raison que la loi Sapin un n’a jamais entraîné la condamnation définitive d’une quelconque entreprise coupable d’avoir utilisé la corruption pour obtenir des contreparties, en général des marchés.
 Comme cela a été rappelé, le système établi depuis mille neuf cent quatre-vingt-neuf a été récemment remis en cause, suite à la double évolution des jurisprudences européenne et française.
 Il est donc nécessaire de réformer notre système de répression des abus de marchés pour que le nouveau régime se trouve en vigueur au premier septembre deux mille seize, date à laquelle le système censuré par le Conseil constitutionnel ne s’appliquera plus.
 C’est l’objectif que poursuit la présente proposition de loi en prévoyant la mise en place d’un aiguillage entre la procédure pénale et la procédure administrative.
@@ -630,7 +630,7 @@ Le texte soumis à notre examen ne répond pas à cette préoccupation.
 Il vise essentiellement à accroître la compétitivité des activités maritimes en appliquant toujours la même recette : plus de libéralisme et moins de réglementation.
 En témoigne notamment l’élargissement du recours au registre international français, reconnu comme un pavillon de complaisance, alors que nous devrions au contraire promouvoir le premier registre, beaucoup plus protecteur pour les gens de mer.
 Nous ne partageons donc pas la philosophie de ce texte.
-Nous sommes en particulier opposés à de nombreuses dispositions du titre Iier qui, sous couvert de simplification et d’efficacité, sont en fait des régressions du droit social.
+Nous sommes en particulier opposés à de nombreuses dispositions du titre premier qui, sous couvert de simplification et d’efficacité, sont en fait des régressions du droit social.
 Comme on pouvait s’y attendre, la droite sénatoriale a encore aggravé le texte et la rédaction finale issue de la commission mixte paritaire en porte les stigmates.
 Le nombre de contributions dont les armateurs sont exonérés est par exemple plus important : à l’assurance vieillesse s’ajoutent les allocations familiales et l’assurance contre le risque de privation d’emploi.
 Nous contestons la logique selon laquelle la suppression des contributions sociales serait un facteur de compétitivité favorable à l’emploi.
@@ -768,7 +768,7 @@ Ainsi, on ne peut pas faire de recherche dans le système d’information Scheng
 Une autre défaillance majeure doit être soulignée : l’utilisation des systèmes d’information est souvent très insuffisante.
 Peut-être saurez-vous m’expliquer pourquoi Europol, qui a le droit d’accéder aux systèmes SIS deux, Eurodac et VIS, n’en fait quasiment pas usage.
 Cela n’existe pas aujourd’hui alors qu’on connaît bien l’usage intensif des faux papiers tant par les migrants que par les terroristes.
-Il reste en particulier à alimenter le SIS II de manière systématique et précise.
+Il reste en particulier à alimenter le SIS deux de manière systématique et précise.
 Les lois nationales, pour la plupart, ne le prévoient souvent pas.
 Patrick Calvar, encore lui, nous a dit que certains de nos voisins immédiats ne renseignent pas le SIS alors que nos fameuses neuf mille « fiches S » lui sont transmises.
 Nous n’avons donc pas de réciprocité.
@@ -911,7 +911,7 @@ En deux mille six a été décidé le passage à un SIS de seconde génération.
 Ce dernier constitue une « frontière électronique dématérialisée », mise en œuvre à chaque instant depuis environ cinq cent mille terminaux d’interrogation répartis dans les vingt-neuf États connectés.
 Il contient des informations sur des personnes recherchées et des objets volés ou égarés.
 Peuvent être signalées des personnes ayant fait l’objet d’une décision de l’autorité judiciaire, de l’autorité de police ou d’une autorité administrative.
-Le SIS deux se différencie du SIS I en ce qu’il inclut des données biométriques – empreintes digitales et photographies – et des données relatives aux mandats d’arrêt européens.
+Le SIS deux se différencie du SIS un en ce qu’il inclut des données biométriques – empreintes digitales et photographies – et des données relatives aux mandats d’arrêt européens.
 Il contient également de nouvelles catégories d’objets tels que les matériels industriels, embarcations ou aéronefs.
 Le passage au SIS deux a en effet été motivé par l’élargissement de l’Union européenne et par la volonté de développer de nouvelles fonctionnalités.
 Le système d’information compte soixante-quatre millions de signalements de personnes ou d’objets, dont cinq millions émanant de la France.
