@@ -86,16 +86,27 @@ superscript_chars_mapping = {
   '9 ': u'\u2079 ',
 
   'o': 'uméro',
+  '°': 'uméro',
   'os': 'uméros',
+  '°s': 'uméros',
+  '° s': 'uméros',
+  u'°\u00a0s': 'uméros',
+  'o s': 'uméros',
+  u'o\u00a0s': 'uméros',
   's': 's',
   'ter': 'ter',
+  'gr': 'onseigneur',
+
+  ' ': ' ',
 
   # Those should be in sync with ORDINAL_REGEX
   'e': 'ieme',
   'è': 'ieme ',
+  'e,': 'ieme,',
   'èm': 'ieme ',
   'e ': 'ieme ',
   'e –': 'ieme –',
+  'r': 'ier',
   'er': 'ier',
   'er ': 'ier ',
   'er.': 'ier.',
@@ -280,9 +291,8 @@ for event, node in doc:
 
       bsp  = value.count(' ')
       nbsp = value.count('\u00a0')
-      if nbsp == 0 and bsp == 0:
-        if value in mapping:
-          return mapping[value]
+      if value in mapping:
+        return mapping[value]
       else:
         nvalue = value.strip()
         if nbsp > 0:
@@ -297,7 +307,7 @@ for event, node in doc:
             if nvalue in mapping:
               return mapping[nvalue] + u' '
 
-      if element.nodeValue.isnumeric() and str(int(element.nodeValue)) == element.nodeValue:
+      if element.nodeValue.strip().isnumeric() and str(int(element.nodeValue.strip())) == element.nodeValue.strip():
         pass
       else:
         print("NOT TRANSLATED: '{}' => '{}'".format(element.nodeValue, value))
