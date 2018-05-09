@@ -51,14 +51,14 @@ accepted_code_style = [
 ]
 
 mapping_normalization = [
-  [ u'\xa0 ', u' ' ],
-  [ u'«\xa0', u'«' ],
-  [ u'\xa0»', u'»' ],
-  [ u'\xa0' , u' ' ],
-  [ u'M. '  , u'Monsieur ' ],
-  [ u'Mme ' , u'Madame ' ],
-  [ u'Mlle ' , u'Mademoiselle ' ],
-  [ u'Mlles ', u'Mademoiselles ' ],
+  #[ u'\xa0 ', u' ' ],
+#  [ u'«\xa0', u'«' ],
+#  [ u'\xa0»', u'»' ],
+  #[ u'\xa0' , u' ' ],
+  [ u'M.\u00a0'   , u'Monsieur ' ],
+  [ u'Mme\u00a0'  , u'Madame ' ],
+  [ u'Mlle\u00a0' , u'Mademoiselle ' ],
+  [ u'Mlles\u00a0', u'Mademoiselles ' ],
   [ u'%', u'pourcent' ],
 ]
 
@@ -87,11 +87,7 @@ superscript_chars_mapping = {
 
   'o': 'uméro',
   'os': 'uméros',
-
-  'o ': 'uméro ',
-  'os ': 'uméros ',
-  's ': 's ',
-  ' ': '',
+  's': 's',
   'ter': 'ter',
 
   # Those should be in sync with ORDINAL_REGEX
@@ -282,8 +278,21 @@ for event, node in doc:
     def maybe_translate(element, mapping):
       value = maybe_normalize(element.nodeValue)
 
-      if value in mapping:
-        return mapping[value]
+      nbsp = value.count('\u00a0')
+      if nbsp == 0:
+        if value in mapping:
+          return mapping[value]
+      else:
+        nvalue = value.strip()
+        if nbsp == 1 and value.find('\u00a0') == len(value) - 1:
+          if nvalue in mapping:
+            return mapping[nvalue] + u'\u00a0'
+        if nbsp == 1 and value.find('\u00a0') == len(value) - 2 and value.find(' ') == len(value) - 1:
+          if nvalue in mapping:
+            return mapping[nvalue] + u'\u00a0'
+        if nbsp == 1 and value.find(' ') == len(value) - 1:
+          if nvalue in mapping:
+            return mapping[nvalue] + u' '
 
       print("NOT TRANSLATED: '{}' => '{}'".format(element.nodeValue, value))
       for c in value:
