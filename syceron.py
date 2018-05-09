@@ -7,6 +7,7 @@ import argparse
 import networkx as nx
 import networkx.drawing.nx_pydot as nx_pydot
 import datetime
+import roman
 from num2words import num2words
 
 from xml.dom.pulldom import START_ELEMENT, CHARACTERS, END_ELEMENT, parse
@@ -152,6 +153,30 @@ NUMS_REGEX = re.compile("(\d+,?\u00A0?\d+)|(\d+\w+)|(\d)*")
 def getNumbers(text):
     return NUMS_REGEX.split(text)
 
+def getRomanNumbers(ch):
+  ROMAN_CHARS = "MCDLXVI"
+  ro  = ''
+  ros = 0
+  for i in range(len(ch)):
+    c = ch[i]
+    if c in ROMAN_CHARS:
+      ##print('len(ro)="{}" c="{}" ch[i-1]="{}" ro="{}"'.format(len(ro), c, ch[i-1], ro))
+      if len(ro) == 0 and not ch[i-1].isalpha():
+        ro  = c
+        ros = i
+      else:
+        if len(ro) > 0 and ch[i-1] in ROMAN_CHARS:
+          ro += c
+    else:
+      if len(ro) > 1:
+        if not c.isalpha():
+          yield ch[ros-1], ch[i], ro
+        ro  = ''
+        ros = i
+
+  if len(ro) > 1:
+    yield ch[ros-1], '', ro
+
 if not os.path.isdir(args.output):
   print('Directory does not exists', args.output, file=sys.stderr)
   sys.exit(1)
@@ -208,6 +233,15 @@ for event, node in doc:
 
     def filter_numbers(inp):
       finalinp = ''
+
+      #print('filter_numbers', inp)
+
+      for ro_before, ro_after, ro in getRomanNumbers(inp):
+        try:
+          inp = inp.replace(ro_before + ro + ro_after, ro_before + str(roman.fromRoman(ro)) + ro_after)
+        except roman.InvalidRomanNumeralError as ex:
+          print(ex)
+          pass
 
       for e in getNumbers(inp):
         if not e:
