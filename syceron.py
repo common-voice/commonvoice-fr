@@ -86,24 +86,36 @@ superscript_chars_mapping = {
 
   'o': 'uméro',
   'os': 'uméros',
-  'e': 'ième',
-  'er': 'ier',
-  'ER': 'IER',
-  're': 'ière',
-  'ème': 'ième',
-  'eme': 'ième',
-  'ter': 'ter',
 
   'o ': 'uméro ',
   'os ': 'uméros ',
   's ': 's ',
-  'e ': 'ième ',
-  'ème ': 'ième',
+  ' ': '',
+  'ter': 'ter',
+
+  # Those should be in sync with ORDINAL_REGEX
+  'e': 'ieme',
+  'è': 'ieme ',
+  'èm': 'ieme ',
+  'e ': 'ieme ',
+  'e –': 'ieme –',
+  'er': 'ier',
   'er ': 'ier ',
   'er.': 'ier.',
   'er,': 'ier,',
-  ' ': '',
+  'ER': 'ier',
+  'Er': 'ier',
+  'er –': 'ier –',
+  're': 'iere',
+  'ère': 'iere',
+  'ère': 'iere',
+  'ème': 'ieme',
+  'éme': 'ieme',
+  'ème ': 'ieme',
+  'eme': 'ieme',
 }
+
+ORDINAL_REGEX = re.compile("(\d+)([ieme|ier|iere]+)")
 
 subscript_chars_mapping = {
   '0': u'\u2080',
@@ -136,7 +148,7 @@ WORD_REGEX = re.compile("[^\w\d\'\-]+")
 def splitIntoWords(text):
     return WORD_REGEX.split(text)
 
-NUMS_REGEX = re.compile("(\d+,?\d?)*")
+NUMS_REGEX = re.compile("(\d+,?\u00A0?\d+)|(\d+\w+)|(\d)*")
 def getNumbers(text):
     return NUMS_REGEX.split(text)
 
@@ -195,23 +207,43 @@ for event, node in doc:
     doc.expandNode(node)
 
     def filter_numbers(inp):
+      finalinp = ''
+
       for e in getNumbers(inp):
+        if not e:
+          continue
+
+        newinp = e
+        #print('filter_numbers', 'e=', e)
+
         try:
+          ee = ''.join(e.split())
           if int(e) > 0:
-            inp = inp.replace(e, num2words(int(e), lang='fr'))
+            #print('filter_numbers', 'INT:BEFORE', 'ee=', ee, 'newinp=', newinp)
+            newinp = num2words(int(ee), lang='fr')
+            #print('filter_numbers', 'INT:AFTER', 'ee=', ee, 'newinp=', newinp)
         except ValueError:
           try:
-            ee = e.replace(',', '.')
-            if float(ee) > 0:
-              inp = inp.replace(e, num2words(float(ee), lang='fr'))
+            ee = ''.join(e.replace(',', '.').split())
+            if float(ee):
+              #print('filter_numbers', 'FLOAT:BEFORE', 'ee=', ee, 'newinp=', newinp)
+              newinp = num2words(float(ee), lang='fr')
+              #print('filter_numbers', 'FLOAT:AFTER', 'ee=', ee, 'newinp=', newinp)
           except ValueError:
-            pass
-      return inp
+            matches = ORDINAL_REGEX.match(e)
+            if matches:
+              newinp = num2words(int(matches.group(1)), ordinal=True, lang='fr')
+
+        finalinp += newinp
+
+        #print('filter_numbers', 'e=', e, 'newinp=', newinp, 'finalinp=', finalinp)
+
+      return finalinp
 
     def maybe_normalize(value):
       for norm in mapping_normalization:
         value = value.replace(norm[0], norm[1])
-      return value
+      return filter_numbers(value)
 
     def maybe_translate(element, mapping):
       value = maybe_normalize(element.nodeValue)
@@ -222,7 +254,7 @@ for event, node in doc:
       print("NOT TRANSLATED: '{}' => '{}'".format(element.nodeValue, value))
       for c in value:
         print("value: '{}' == {}".format(c, ord(c)))
-      return ''
+      return value
 
     def recursive_text(root, finaltext=""):
       if root.nodeName == 'br':
@@ -241,7 +273,7 @@ for event, node in doc:
       return finaltext
 
     if visited[-2].attributes and 'code_style' in visited[-2].attributes and visited[-2].attributes['code_style'].value == 'NORMAL':
-      fullText = filter_numbers(recursive_text(node))
+      fullText = recursive_text(node)
       try:
         seance_context[node.nodeName].append(fullText)
       except KeyError:
