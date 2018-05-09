@@ -161,13 +161,13 @@ def getNumbers(text):
     return NUMS_REGEX.split(text)
 
 def getRomanNumbers(ch):
-  ROMAN_CHARS = "MCDLXVI"
+  ROMAN_CHARS = "XVI"
   ro  = ''
   ros = 0
   for i in range(len(ch)):
     c = ch[i]
     if c in ROMAN_CHARS:
-      ##print('len(ro)="{}" c="{}" ch[i-1]="{}" ro="{}"'.format(len(ro), c, ch[i-1], ro))
+      #print('len(ro)="{}" c="{}" ch[i-1]="{}" ro="{}" ch="{}"'.format(len(ro), c, ch[i-1], ro, ch))
       if len(ro) == 0 and not ch[i-1].isalpha():
         ro  = c
         ros = i
@@ -177,11 +177,13 @@ def getRomanNumbers(ch):
     else:
       if len(ro) > 1:
         if not c.isalpha():
+          #print('getRomanNumbers', ch, ro)
           yield ch[ros-1], ch[i], ro
         ro  = ''
         ros = i
 
   if len(ro) > 1:
+    #print('getRomanNumbers final', ch, "|||", ro)
     yield ch[ros-1], '', ro
 
 if not os.path.isdir(args.output):
@@ -241,14 +243,7 @@ for event, node in doc:
     def filter_numbers(inp):
       finalinp = ''
 
-      #print('filter_numbers', inp)
-
-      for ro_before, ro_after, ro in getRomanNumbers(inp):
-        try:
-          inp = inp.replace(ro_before + ro + ro_after, ro_before + str(roman.fromRoman(ro)) + ro_after)
-        except roman.InvalidRomanNumeralError as ex:
-          print(ex)
-          pass
+      #print('filter_numbers', 'inp=', inp)
 
       for e in getNumbers(inp):
         if not e:
@@ -272,6 +267,7 @@ for event, node in doc:
               #print('filter_numbers', 'FLOAT:AFTER', 'ee=', ee, 'newinp=', newinp)
           except ValueError:
             matches = ORDINAL_REGEX.match(e)
+            #print('filter_numbers', 'ORDINAL', 'e=', e, matches)
             if matches:
               newinp = num2words(int(matches.group(1)), ordinal=True, lang='fr')
 
@@ -284,7 +280,16 @@ for event, node in doc:
     def maybe_normalize(value):
       for norm in mapping_normalization:
         value = value.replace(norm[0], norm[1])
-      return filter_numbers(value)
+
+      for ro_before, ro_after, ro in getRomanNumbers(value):
+        #print('maybe_normalize', 'ro=', ro)
+        try:
+          value = value.replace(ro_before + ro + ro_after, ro_before + str(roman.fromRoman(ro)) + ro_after)
+        except roman.InvalidRomanNumeralError as ex:
+          print(ex)
+          pass
+
+      return value
 
     def maybe_translate(element, mapping):
       value = maybe_normalize(element.nodeValue)
@@ -332,7 +337,7 @@ for event, node in doc:
       return finaltext
 
     if visited[-2].attributes and 'code_style' in visited[-2].attributes and visited[-2].attributes['code_style'].value == 'NORMAL':
-      fullText = recursive_text(node)
+      fullText = filter_numbers(recursive_text(node))
       try:
         seance_context[node.nodeName].append(fullText)
       except KeyError:
