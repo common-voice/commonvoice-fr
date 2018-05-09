@@ -27,7 +27,7 @@ Or, le kilowattheure allemand est déjà l’un des plus chers d’Europe, à z�
 Sachez qu’il est en moyenne de zéro virgule deux euro dans la zone euro et de zéro virgule un neuf euro à l’échelle des vingt-huit pays de l’Union européenne.
 Si la France occupe une telle place, c’est bien grâce à ses choix et à la maîtrise publique de sa production, dont il y aurait grand danger à sortir.
 À cela s’ajoute un paradoxe de taille : la fragilité et l’imprévisibilité de l’exploitation des énergies renouvelables.
-La sortie du nucléaire de nos amis allemands les conduit à rouvrir des centrales à charbon, les plus émettrices de COdeux et, comme ces dernières doublent la production des énergies renouvelable, les coûts de production augmentent d’autant.
+La sortie du nucléaire de nos amis allemands les conduit à rouvrir des centrales à charbon, les plus émettrices de CO₂ et, comme ces dernières doublent la production des énergies renouvelable, les coûts de production augmentent d’autant.
 Très bien, mais il y a là de grands absents.
 Je pense en particulier aux transports collectifs et, pour le fret, au report modal, c’est-à-dire à la sortie du « tout routier » et au développement du ferroviaire et de la voie d’eau.
 De ce point de vue, nous marchons à reculons.
@@ -145,20 +145,20 @@ Rien que pour la fermeture des centrales nucléaires, l’addition est très sim
 Sachant qu’il faudra fermer vingt centrales, le coût sera de cent milliards d’euros.
 Et il faudra les remplacer ! Il se trouve que le taux de disponibilité des centrales nucléaires est bien plus élevé que celui du photovoltaïque ou de l’éolien.
 L’Union française de l’électricité a calculé que pour remplacer vingt gigawatts d’énergie nucléaire, produisant cent quarante térawatts-heure d’électricité, il faut trente-cinq gigawatts d’énergie éolienne ou soixante-dix gigawatts de photovoltaïque.
-Soit vingt mille éoliennes ou encore six cent cinquante-sept kmdeux de panneaux photovoltaïques, soit soixante-dix pourcent des toits disponibles.
+Soit vingt mille éoliennes ou encore six cent cinquante-sept km² de panneaux photovoltaïques, soit soixante-dix pourcent des toits disponibles.
 Démagogie ! Rappelons que le plan nucléaire français a coûté quatre-vingt-dix milliards d’euros et que le projet ITER représente un investissement de quinze milliards.
 Ils expliqueront directement leurs arguments aux intéressés pour se faire élire.
 En Allemagne, les subventions aux énergies renouvelables représentaient vingt milliards d’euros en deux mille treize, soit six fois plus qu’en France.
 Ce qui signifie que l’on dépense autant pour produire l’électricité que pour subventionner les énergies renouvelables.
 Comment en sommes-nous arrivés là ? Simplement parce qu’il y a une absence totale de méthode sur la dépense écologique.
-Au lieu de promettre des milliards en escomptant un retour COdeux, il faudrait véritablement réfléchir au coût de la tonne de COdeux évitée.
+Au lieu de promettre des milliards en escomptant un retour CO₂, il faudrait véritablement réfléchir au coût de la tonne de CO₂ évitée.
 Rappelons que nous avons déjà quatre-vingts milliards d’euros gagés pour le financement des énergies vertes sur la contribution au service public de l’électricité.
 Dans la facture à venir, il faudrait inclure les autres dépenses non chiffrées qui pullulent dans ce texte, comme les rénovations obligatoires, qui vont bloquer le secteur des transactions immobilières, ou les vingt-cinq mille professionnels de la rénovation qu’il va falloir financer.
 L’ADEME évaluait en deux mille trois de dix à trente milliards d’euros supplémentaires le coût annuel des investissements en matière énergétique.
 De l’art de doublonner sans compter… Il est même prévu d’élargir par la suite cette mesure, qui concerne quatre millions de ménages, aux vingt-cinq millions de ménages français, ce qui représente un coût d’un milliard d’euros.
-Avec soixante-dix-neuf grammes de COdeux par kilowatt-heure produit, la France émet entre cinq et six fois moins que l’Allemagne ou les Pays-Bas ! (« Eh oui ! » sur les bancs du groupe UMP.) Je me tourne vers les soi-disant écologistes de cette assemblée.
+Avec soixante-dix-neuf grammes de CO₂ par kilowatt-heure produit, la France émet entre cinq et six fois moins que l’Allemagne ou les Pays-Bas ! (« Eh oui ! » sur les bancs du groupe UMP.) Je me tourne vers les soi-disant écologistes de cette assemblée.
 Nous sommes là ! Je leur demande, les yeux dans les yeux : y a-t-il encore quelqu’un dans votre groupe qui se soucie vraiment de l’environnement ? (« Eh non ! » sur les bancs du groupe UMP.) Votre stratégie de sortie du nucléaire, l’Allemagne l’a tentée.
-Moralité : le ministre allemand de l’énergie en a évalué le coût à mille milliards d’euros à horizon deux mille trente et les émissions de COdeux ont augmenté de deux pourcent, alors qu’en Europe elles baissaient de deux pourcent.
+Moralité : le ministre allemand de l’énergie en a évalué le coût à mille milliards d’euros à horizon deux mille trente et les émissions de CO₂ ont augmenté de deux pourcent, alors qu’en Europe elles baissaient de deux pourcent.
 En effet, les énergies vertes doivent être compensées par des centrales thermiques qui tournent au charbon.
 La vérité est que sur tous les aspects, nous avons sous-estimé la complexité du tournant énergétique.
 La noble aspiration à un approvisionnement décentralisé et autarcique se révèle de la folie complète.
@@ -489,7 +489,7 @@ Compte tenu du niveau d’endettement de notre pays, nous ne pouvons pas, en eff
 Je conclurai en vous demandant de ne pas occulter la dimension européenne de la transition énergétique.
 L’Europe est en effet la grande oubliée de ce texte, malgré la volonté exprimée par le président Hollande de mettre en place une communauté européenne de l’énergie.
 Nous avons besoin d’une Europe de l’énergie si nous ne voulons pas dépendre du reste du monde.
-L’Europe du XXieme siècle s’est érigée sur l’indépendance alimentaire ; l’Europe du vingt et unieme siècle se construira sur l’indépendance énergétique.
+L’Europe du vingtieme siècle s’est érigée sur l’indépendance alimentaire ; l’Europe du vingt et unieme siècle se construira sur l’indépendance énergétique.
 Voilà pourquoi nous ne devons pas abandonner des projets mondiaux, qui nous engagent, comme celui d’ITER à Cadarache : il y va de la crédibilité de la France en Europe et dans le monde.
 Et voilà pourquoi nous devons être, toutes et tous, à la hauteur des enjeux de ce monde.
 (Applaudissements sur les bancs du groupe UMP.) La parole est à Monsieur Charles de Courson.
@@ -813,10 +813,10 @@ Je souhaite ensuite aborder le chapitre du recyclage.
 Je vous livre deux points d’attention, madame la ministre.
 Le premier s’intéresse au recyclage dans le bâtiment et les travaux publics.
 L’objectif de valoriser soixante-dix pourcent des déchets de ce secteur est peut-être tenable.
-Par contre, vous nous avez proposé un amendement vendredi dernier, madame la ministre, qui précise que tout distributeur de matériaux, produits et équipements de construction devra s’organiser pour créer des sites capables d’accepter les déchets d’ici au unier janvier deux mille dix-sept.
+Par contre, vous nous avez proposé un amendement vendredi dernier, madame la ministre, qui précise que tout distributeur de matériaux, produits et équipements de construction devra s’organiser pour créer des sites capables d’accepter les déchets d’ici au premier janvier deux mille dix-sept.
 Compte tenu des nombreux mois nécessaires à la promulgation de la loi et surtout à la publication des décrets, ce délai ne semble absolument pas raisonnable.
-Les professionnels demandent avec insistance le unier janvier deux mille vingt pour atteindre l’objectif des soixante-dix pourcent de déchets valorisés.
-Personnellement, je vous proposerai, dans un amendement, d’accepter la date butoir du unier janvier deux mille dix-neuf.
+Les professionnels demandent avec insistance le premier janvier deux mille vingt pour atteindre l’objectif des soixante-dix pourcent de déchets valorisés.
+Personnellement, je vous proposerai, dans un amendement, d’accepter la date butoir du premier janvier deux mille dix-neuf.
 Le second point d’attention concerne le tri sélectif des déchets ménagers.
 La mise en place de circuits très coûteux de collecte sélective de déchets organiques ne peut pas se justifier dans ces territoires et elle serait pédagogiquement contre-productive.
 Cette collecte peut certes être envisagée pour certains autres territoires, en particulier plus urbanisés, mais elle ne doit surtout pas être imposée à l’ensemble du territoire national.

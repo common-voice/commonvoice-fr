@@ -161,7 +161,7 @@ Je vous demande donc de retirer votre amendement.
 Quel est l’avis du Gouvernement ? Même avis.
 Madame Valetta Ardisson, retirez-vous votre amendement ? Oui, madame la présidente.
 La parole est à Madame Danièle Obono, pour soutenir l’amendement numéro trente-neuf.
-Dans son avis du trente novembre deux mille dix-sept, la CNIL regrette que l’objet des règlements types prévus à l’article unier du projet de loi soit limité à la seule sécurité des systèmes.
+Dans son avis du trente novembre deux mille dix-sept, la CNIL regrette que l’objet des règlements types prévus à l’article premier du projet de loi soit limité à la seule sécurité des systèmes.
 En effet, d’autres dimensions de la protection des données, notamment en matière de finalité, de minimisation des données ou de respect des droits, devraient faire l’objet d’un encadrement par des règles de fond et pas uniquement des règles de sécurité.
 Le quatre.
 de l’article neuf du règlement prévoit une telle marge de manœuvre.
@@ -289,7 +289,7 @@ Or, le Conseil national du numérique, indépendamment de ses soucis actuels, n�
 Vous avez donc raison, mais partiellement.
 J’aimerais que puisse être actée la capacité, somme toute raisonnable, de la CNIL à saisir d’autres instances.
 Monsieur Gosselin, Mme Le Grip, maintenez-vous vos amendements ? Oui.
-Nous en venons aux amendements portant articles additionnels après l’article unier.
+Nous en venons aux amendements portant articles additionnels après l’article premier.
 La parole est à Madame Danièle Obono, pour soutenir l’amendement numéro quarante et un.
 Au-delà de la fracture numérique qui a été dénoncée par le Défenseur des droits, la connaissance par chaque citoyen et citoyenne de ses droits et libertés en matière d’informatique et de numérique nous paraît indispensable aujourd’hui.
 La loi actuelle reste en effet trop vague.
@@ -326,7 +326,7 @@ Il s’agit pour nous d’un sujet très fort.
 En effet, dès lors que nous voulons dématérialiser davantage de procédures, il convient d’en assurer les conditions de fiabilité, pour l’État, pour nos concitoyens et pour les entreprises.
 Sur le second point qui concerne les sociétés commerciales, le RGPD et la directive que nous transposons viennent, je crois, répondre à vos préoccupations.
 À travers les dispositions de ce projet de loi, le Gouvernement entend encadrer le traitement de données biométriques par les entreprises privées.
-L’article unier que votre assemblée a déjà adopté précise que la CNIL peut prescrire des mesures techniques et organisationnelles supplémentaires pour le traitement des données biométriques, génétiques et de santé.
+L’article premier que votre assemblée a déjà adopté précise que la CNIL peut prescrire des mesures techniques et organisationnelles supplémentaires pour le traitement des données biométriques, génétiques et de santé.
 Il s’agit là d’autant d’informations que nos smartphones ou nos montres connectées récoltent quotidiennement.
 Le RGPD lui-même impose la réalisation d’une analyse d’impact ou une consultation de la CNIL préalablement au traitement de ces données dont je mesure pleinement la sensibilité.
 Pour l’ensemble de ces raisons, j’émets un avis défavorable sur votre amendement.
@@ -606,7 +606,7 @@ Ces fichiers ne sont soumis ni au RGPD, ni à la directive que le présent proje
 Du fait de leur nature même et des finalités qu’ils servent, certains droits ne sont pas reconnus aux personnes.
 Le droit d’accès aux données contenues dans ces traitements est ainsi exclu.
 Les principales caractéristiques de ces fichiers de renseignement – finalités du fichier, type de données collectées, destinataires des informations, absence d’interconnexion – sont définies dans un texte réglementaire, un décret en Conseil d’État pris après avis de la CNIL.
-Mais, pour des raisons évidentes de confidentialité et afin de ne pas mettre en cause leurs finalités mêmes, la plupart d’entre eux sont dispensés de publication, comme le permet le III de l’article vingt-six de la loi Informatique et libertés.
+Mais, pour des raisons évidentes de confidentialité et afin de ne pas mettre en cause leurs finalités mêmes, la plupart d’entre eux sont dispensés de publication, comme le permet le trois de l’article vingt-six de la loi Informatique et libertés.
 Un décret du quinze mai deux mille sept liste, quant à lui, les quatorze fichiers concernés.
 La possibilité pour la CNIL d’opérer un contrôle a posteriori sur pièces et sur place, plein et entier, n’est exclue que pour huit de ces quatorze fichiers, conformément au quatre de l’article quarante-quatre de la loi Informatique et libertés.
 Ce n’est qu’avec l’accord exprès d’un partenaire que l’on peut mettre des informations qu’il a partagées à la disposition d’un tiers.

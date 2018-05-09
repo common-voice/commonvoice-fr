@@ -89,7 +89,7 @@ Nous devons réaffirmer notre confiance dans cette entreprise qui se développe 
 À Cordemais, dans ma circonscription de Loire-Atlantique, la centrale de production thermique d’EDF fait vivre des centaines de familles.
 EDF a annoncé la fermeture anticipée des deux tranches fioul.
 Les deux tranches charbon font l’objet de travaux de modernisation afin d’améliorer leurs performances environnementales et économiques et d’assurer leur fonctionnement jusqu’en deux mille trente-cinq.
-Des expérimentations de mix biomasse-charbon sont réalisées et doivent permettre de limiter les rejets de COdeux.
+Des expérimentations de mix biomasse-charbon sont réalisées et doivent permettre de limiter les rejets de CO₂.
 Monsieur le ministre, l’État s’est mobilisé pour préserver EDF et l’accompagner dans ses réformes de long terme.
 Permettez-moi d’abord, madame la députée, de vous féliciter pour votre élection.
 (Applaudissements sur les bancs du groupe socialiste, républicain et citoyen, du groupe écologiste et du groupe radical, républicain, démocrate et progressiste.) Permettez-moi aussi d’avoir un mot pour votre prédécesseur et son suppléant.
@@ -217,10 +217,10 @@ Ils ont en outre prévu d’organiser un « camp d’été décolonial » dest
 Cette réunion est interdite aux Blancs, comme l’a notamment rappelé l’hebdomadaire Marianne dans sa dernière édition.
 Qui relèvent du délit pénal ! Pour « Nuit Debout » comme pour « Paroles non blanches »,… (Applaudissements sur les bancs des groupes Les Républicains et de l’Union des démocrates et indépendants et sur plusieurs bancs du groupe radical, républicain, démocrate et progressiste.) Merci.
 La parole est à Madame la ministre de l’éducation nationale, de l’enseignement supérieur et de la recherche.
-Du onze au quinze avril, monsieur le député, ont en effet été tenues à l’université Paris VIII, à l’initiative d’un groupe autoproclamé, des réunions dont les affiches n’autorisaient que les paroles non blanches.
+Du onze au quinze avril, monsieur le député, ont en effet été tenues à l’université Paris huit, à l’initiative d’un groupe autoproclamé, des réunions dont les affiches n’autorisaient que les paroles non blanches.
 Comment ont-ils obtenu des salles de réunion ? Je tiens à rappeler ici deux réalités, celle des faits et celle des principes.
 Ces réunions ont été organisées à l’initiative d’un groupe totalement indépendant des organisations reconnues et qui n’a jamais été autorisé à les organiser, qui plus est dans un bâtiment occupé.
-(Exclamations sur plusieurs bancs du groupe Les Républicains.) Il ne fallait pas l’autoriser ! Laissez-la parler ! La présidente de l’université Paris VIII a immédiatement condamné la tenue de ces réunions.
+(Exclamations sur plusieurs bancs du groupe Les Républicains.) Il ne fallait pas l’autoriser ! Laissez-la parler ! La présidente de l’université Paris huit a immédiatement condamné la tenue de ces réunions.
 Quant aux principes, que les choses soient claires : je condamne absolument la tenue de ces réunions comme celle du camp d’été que vous avez évoqué, monsieur le député.
 (Applaudissements sur quelques bancs du groupe socialiste, républicain et citoyen et du groupe écologiste.) Ces initiatives sont inacceptables car, bien loin de l’objectif qu’elles prétendent poursuivre, elles confortent une vision racialiste et raciste de la société qui n’est pas la nôtre.
 Cela n’empêche rien ! S’il vous plaît, chers collègues, écoutez la fin de la réponse.
@@ -335,7 +335,7 @@ Ces trois virgule cinq millions d’entreprises, on le sait, représentent quar
 Or des mesures néfastes viennent les menacer.
 Je ne reviendrai pas sur les questions fiscales, que j’évoquais ici même hier soir : adapter la fiscalité aux PME-TPE était l’engagement numéro deux de François Hollande ; on sait ce qu’il en est advenu.
 Je veux vous interroger, en revanche, sur l’idée du Gouvernement de surtaxer les CDD, les contrats à durée déterminée.
-Aujourd’hui, seulement un jeune sur deux de la tranche des quinze-vingt-quatre ans est en quatre cent un quand quatre-vingt-dix pourcent des vingt-cinq-quarante-neuf ans le sont : les jeunes sont donc déjà très pénalisés dans l’entrée sur le marché du travail.
+Aujourd’hui, seulement un jeune sur deux de la tranche des quinze-vingt-quatre ans est en CDI quand quatre-vingt-dix pourcent des vingt-cinq-quarante-neuf ans le sont : les jeunes sont donc déjà très pénalisés dans l’entrée sur le marché du travail.
 Cette taxation va complexifier encore leur vie professionnelle et la vie des entreprises.
 Leur appliquer cette logique, que nous estimons punitive, ce n’est pas leur envoyer un bon message.
 Les chefs d’entreprise ont besoin de confiance et non de règles qui changent tous les jours.
@@ -378,7 +378,7 @@ Rappelons que l’aide « Embauche PME », qui intervient dans ce temps d’at
 C’est un dispositif essentiel, simple et lisible.
 Du reste, près de soixante pourcent des entreprises qui l’utilisent sont des TPE.
 Toutes les catégories d’âge en bénéficient : quarante pourcent sont des jeunes, vingt pourcent des seniors et le reste des vingt-cinq-quarante-neuf ans.
-Surtout, il a permis également la prolongation de contrats particulièrement courts en CDD de plus de six mois pour quarante pourcent et en quatre cent un pour soixante pourcent.
+Surtout, il a permis également la prolongation de contrats particulièrement courts en CDD de plus de six mois pour quarante pourcent et en CDI pour soixante pourcent.
 Une entreprise dont les carnets de commandes sont vides n’utilisera évidemment pas d’aides pour embaucher.
 Cependant, dans une période de reprise de l’activité économique – même si celle-ci est encore trop timide –, ce dispositif permet d’accélérer la création d’emplois.
 Nous continuons donc à nous battre en ce sens, en nous appuyant bien évidemment sur le pacte de responsabilité et sur le CICE.
@@ -439,7 +439,7 @@ Vous m’interrogez sur le CICE et sur le pacte de responsabilité.
 Le pacte de responsabilité représente quarante milliards, soit un investissement important.
 Le CICE, là encore, a pour objectif d’alléger les charges pour donner plus de visibilité et de lisibilité aux chefs d’entreprise.
 Mais votre question pointe un problème crucial : nous sommes extrêmement attentifs à ce que cela ne devienne pas une trappe à bas salaires et je rappelle que le CICE s’applique jusqu’à deux virgule cinq fois le SMIC.
-Concernant la fuite des cerveaux, le pacte s’applique, depuis le unier avril, aux salaires allant jusqu’à trois virgule cinq fois le SMIC, ce qui est de nature à vous rassurer, monsieur le député.
+Concernant la fuite des cerveaux, le pacte s’applique, depuis le premier avril, aux salaires allant jusqu’à trois virgule cinq fois le SMIC, ce qui est de nature à vous rassurer, monsieur le député.
 Enfin, le crédit d’impôt recherche répond à votre dernière question.
 Au-delà, il est impératif que tout chef de petite entreprise connaisse le coût de l’embauche.
 Lisibilité, clarté et prévisibilité sont au centre des mesures que nous mettons en œuvre.
@@ -475,7 +475,7 @@ Dernier point : il faut aussi trouver un employeur, ce qui est parfois difficil
 Dans deux mois, sur le site du ministère, une plate-forme permettra à tout jeune cherchant un employeur de publier sa demande et à tout employeur cherchant un apprenti de publier son offre.
 Nous en venons aux questions du groupe écologiste.
 La parole est à Monsieur Christophe Cavard.
-Madame la ministre, le compte personnel de formation – CPF – est entré en vigueur le unier janvier deux mille quinze.
+Madame la ministre, le compte personnel de formation – CPF – est entré en vigueur le premier janvier deux mille quinze.
 À la fin de l’année, près de deux virgule trois millions de personnes avaient activé leur compte et deux cent huit mille dossiers de formation étaient validés.
 Avec le projet de loi visant à instituer de nouvelles libertés et de nouvelles protections pour les entreprises et les actifs, et dans la continuité de nos travaux pour la sécurisation des parcours professionnels, nous allons créer le compte personnel d’activité, le CPA.
 Il s’agit d’attacher des droits –certains existants, d’autres nouveaux – aux personnes et non plus aux contrats ou aux statuts.
@@ -495,7 +495,7 @@ Vous l’avez dit, monsieur le député, le CPF a été créé par la loi du cin
 Il est financé par la participation des employeurs au titre de la formation continue.
 Alors qu’il pourrait concerner plus de vingt-trois millions de salariés, seulement deux virgule neuf millions de comptes sont ouverts.
 J’ajoute que trois cent vingt-deux mille formations ont permis de mobiliser des CPF.
-Le CPF, vous l’avez dit, sera intégré dans le CPA, à partir du unier janvier deux mille dix-sept, de même que le compte pénibilité et le compte engagement citoyen, qui sera créé par le projet de loi et qu’il ne faut pas oublier.
+Le CPF, vous l’avez dit, sera intégré dans le CPA, à partir du premier janvier deux mille dix-sept, de même que le compte pénibilité et le compte engagement citoyen, qui sera créé par le projet de loi et qu’il ne faut pas oublier.
 Nous assumons ce constat.
 Les débats qui ont eu lieu dans cette enceinte au moment de la création du CPF montrent du reste que vous partagez cette analyse.
 Et je sais que d’autres propositions vont encore plus loin en la matière.
@@ -645,7 +645,7 @@ Vous avez aussi évoqué la complexité des financements européens, que j’ai 
 J’ai mobilisé la Caisse des dépôts et consignations pour voir si elle ne pourrait pas nous aider à effectuer une sorte de tuilage entre les différents financements.
 Ce travail est en cours, tout comme celui que je mène actuellement à propos des écoles de la deuxième chance.
 Nous constatons certes des signes de fragilité mais, s’agissant de la généralisation de la garantie jeunes, je suis certaine que le rapport de l’IGAS sera très éclairant.
-Au unier janvier deux mille dix-sept, tout jeune en situation de précarité, sans emploi ou sans formation, devra pouvoir demander à bénéficier de la garantie jeunes dans n’importe quelle mission locale.
+Au premier janvier deux mille dix-sept, tout jeune en situation de précarité, sans emploi ou sans formation, devra pouvoir demander à bénéficier de la garantie jeunes dans n’importe quelle mission locale.
 La parole est à Madame Monique Iborra.
 Madame la ministre, la réforme du marché du travail dont nous aurons à débattre la semaine prochaine n’est pas la seule réforme que vous portez, que nous portons, depuis quatre ans.
 Elle s’intègre dans un ensemble dont la portée est plus vaste que la seule question du marché du travail.
@@ -824,7 +824,7 @@ Ainsi, le mot « assistanat » n’est absolument pas approprié.
 Tout le monde souligne la qualité du rapport remis par Christophe Sirugue.
 En début d’après-midi, Marisol Touraine, ministre des affaires sociales et de la santé, a rappelé, en répondant à une question sur le RSA jeunes, deux dispositifs mis en place par le Gouvernement.
 Le premier est la prime d’activité pour les jeunes qui travaillent, notamment pour les apprentis ; c’est la première fois, justement, que les caisses d’allocations familiales nous disent voir arriver une nouvelle population, celle des apprentis.
-Près de quatre cent mille jeunes ont bénéficié de cette prime depuis le unier janvier dernier.
+Près de quatre cent mille jeunes ont bénéficié de cette prime depuis le premier janvier dernier.
 Le second est la garantie jeunes, qui n’est pas une allocation mais un dispositif d’accompagnement pour des jeunes volontaires et motivés ; c’est un contrat gagnant-gagnant.
 Il suppose que les missions locales aient des moyens.
 Les missions locales ont des moyens, je l’ai rappelé tout à l’heure et le Gouvernement continue dans cette voie.
@@ -840,7 +840,7 @@ Il faut non seulement que ces contrats aidés soient ciblés sur les jeunes du p
 Tous les mois, je demande aux préfets de région l’indicateur de formation : lorsque, dans une région, le taux de formation atteint à peine cinquante pourcent, je peux vous assurer que, le mois suivant, celui-ci augmente.
 C’est essentiel.
 Nous travaillons actuellement sur les sorties d’emplois d’avenir.
-Les contrats CIE-Starter, que nous avons mis en place dans le secteur marchand, fonctionnent très bien, surtout lorsqu’ils débouchent sur des quatre cent un.
+Les contrats CIE-Starter, que nous avons mis en place dans le secteur marchand, fonctionnent très bien, surtout lorsqu’ils débouchent sur des CDI.
 Notre politique, qui est diversifiée, permet donc, en ciblant les publics les plus prioritaires, de diminuer le chômage des jeunes.
 Il ne faut donc pas caricaturer notre action.
 Il convient d’agir dans la durée, j’en ai conscience, avec détermination et en ciblant toujours ceux qui sont les plus exclus du marché de l’emploi.
@@ -863,7 +863,7 @@ Elles ne l’ont pas souhaité.
 Nous avons donc mis en place une concertation.
 Le document d’orientation leur a été adressé : c’est le rapport de Jean-Denis Combrexelle.
 Le Conseil d’État a du reste validé la procédure.
-Nous avons donc parfaitement respecté l’article unier de la loi Larcher.
+Nous avons donc parfaitement respecté l’article premier de la loi Larcher.
 Je reconnais, en toute honnêteté, que l’article relatif aux licenciements économiques est arrivé tardivement et qu’il n’avait pas fait l’objet d’une concertation.
 C’est la raison pour laquelle, loin de céder à la rue, nous avons pris quinze jours pour relancer la concertation avec les partenaires sociaux.
 Le projet de loi a ensuite été présenté devant la commission des affaires sociales.
@@ -898,7 +898,7 @@ Deux, elles essaient d’accompagner les emplois existants par les dispositifs d
 Quatre, elles sont également en besoin lorsqu’elles ont des projets d’investissement, notamment en matière d’infrastructures ou d’immobilier.
 Si je prends l’exemple de la région Languedoc-Roussillon-Midi-Pyrénées, où Yves Censi et moi sommes élus, celle-ci, à l’heure actuelle, pour traiter ces questions, n’a prévu aucune modélisation de processus de substitution aux dispositifs existant dans les départements.
 Cette aide a donc été bien ciblée.
-Elle est simple et lisible, comme le prouvent les deux cent vingt-cinq mille demandes en près de trois mois, concernant des quatre cent un à hauteur de soixante pourcent et des CDD de plus de six mois pour les quarante pourcent restants.
+Elle est simple et lisible, comme le prouvent les deux cent vingt-cinq mille demandes en près de trois mois, concernant des CDI à hauteur de soixante pourcent et des CDD de plus de six mois pour les quarante pourcent restants.
 Et toutes les catégories d’âge sont concernées.
 Je rencontre de nombreux chefs d’entreprise qui louent l’efficacité de cette mesure, parce qu’elle est simple et lisible : de un à un virgule trois SMIC, les employeurs sont exonérés de cotisations patronales.
 La question du coût du travail était donc essentielle, et nous l’avons prise en compte.

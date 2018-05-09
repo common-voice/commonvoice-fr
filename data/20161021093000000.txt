@@ -34,7 +34,7 @@ Cette filière aujourd’hui en plein développement connaît en effet des diffi
 Néanmoins, ce carburant commence à se développer au sein des flottes des collectivités territoriales, ce qui aboutit à la mise en place d’une filière de production de ce carburant renouvelable largement portée par les agriculteurs français.
 Je rappelle en effet que ce biocarburant gazeux est produit à partir de déchets ménagers ou de la filière agricole : c’est tout l’intérêt de cette alternative, qui ouvre des perspectives pour cette filière.
 Pour autant, le bioGNV ne bénéficie pas des mêmes mécanismes de soutien que les autres biocarburants liquides, alors même que les surcoûts à l’utilisation sont encore significatifs.
-Le présent amendement a donc pour objet d’inciter au développement du bioGNV en le faisant bénéficier du mécanisme d’obligation d’incorporation de biocarburant à compter du unierjuillet deux mille dix-sept.
+Le présent amendement a donc pour objet d’inciter au développement du bioGNV en le faisant bénéficier du mécanisme d’obligation d’incorporation de biocarburant à compter du premier deux mille dix-sept.
 La parole est à Monsieur Éric Alauzet, pour soutenir l’amendement numéro six cent quarante-cinq.
 Je serai bref, madame la présidente, puisque cet amendement est identique à celui que vient de défendre Madame Dalloz.
 Je souhaite simplement préciser qu’il s’agit d’une filière émergente.
@@ -82,9 +82,9 @@ La question du montant peut être évidemment débattue, mais j’insiste sur un
 Tel est l’enjeu.
 La parole est à Madame Eva Sas, pour soutenir l’amendement numéro sept cent quatre-vingt-cinq.
 Cet amendement vise à améliorer le barème bonus-malus pour l’achat d’un véhicule neuf en complétant les émissions à prendre en compte.
-Aujourd’hui, le bonus-malus est fondé sur les émissions de COdeux du véhicule ; nous proposons également de prendre en compte celles de NOx.
+Aujourd’hui, le bonus-malus est fondé sur les émissions de CO₂ du véhicule ; nous proposons également de prendre en compte celles de NOx.
 Les conséquences de la motorisation diesel en matière de santé publique sont avérées et confirmées par l’OMS.
-Toutefois, le bonus-malus auto actuel ne prend pas en compte ces émissions nocives ce qui, dans certains cas, peut conduire à avantager financièrement les véhicules les plus polluants comme le diesel, moins émetteurs de COdeux.
+Toutefois, le bonus-malus auto actuel ne prend pas en compte ces émissions nocives ce qui, dans certains cas, peut conduire à avantager financièrement les véhicules les plus polluants comme le diesel, moins émetteurs de CO₂.
 Dans un souci de santé publique et de cohérence par rapport à la convergence des fiscalités des carburants essence et diesel, nous proposons donc de compléter le dispositif pour prendre en compte les émissions de NOx.
 Quel est l’avis de la commission ? Défavorable.
 Quel est l’avis du Gouvernement ? Le bonus-malus se fonde sur les émissions carbonées – nous débattons souvent de la question des particules fines.
@@ -114,9 +114,9 @@ Je vous remercie.
 Madame la présidente, je fais le lien entre trois amendements, ce qui permettra de gagner du temps.
 La Corse est la seule région française à ne pas comprendre sur son territoire un mètre d’autoroute, avec les conséquences que cela peut avoir en termes de trafic.
 À titre d’exemple, un quarante-quatre tonnes devant effectuer le trajet Bastia-Porto-Vecchio, l’un des plus importants axes économiques de Corse, met huit heures aller-retour, hors temps de chargement et de déchargement, pour parcourir seulement cent quarante-sept kilomètres.
-Et pour cause : depuis le unier janvier mille neuf cent quatre-vingt-treize, l’État, percepteur de cette taxe, n’a plus un kilomètre de réseau routier en Corse.
+Et pour cause : depuis le premier janvier mille neuf cent quatre-vingt-treize, l’État, percepteur de cette taxe, n’a plus un kilomètre de réseau routier en Corse.
 Ce n’est pas Paul Giacobbi qui pourra le démentir, puisqu’il en a eu la charge.
-Depuis le unier janvier deux mille douze, les véhicules immatriculés en Corse circulant sur le continent s’acquittent de la taxe à l’essieu au prorata du nombre de jours durant lesquels lesdits véhicules arpentent le réseau routier et autoroutier continental.
+Depuis le premier janvier deux mille douze, les véhicules immatriculés en Corse circulant sur le continent s’acquittent de la taxe à l’essieu au prorata du nombre de jours durant lesquels lesdits véhicules arpentent le réseau routier et autoroutier continental.
 Merci de conclure, monsieur le député.
 Le manque à gagner annuel est évalué à moins de six cent mille euros.
 Par ailleurs, la Cour des comptes se trompe aussi quand elle évoque les métaux précieux, dont l’or, et les bijoux.
@@ -451,7 +451,7 @@ C’est plus que jamais nécessaire aujourd’hui : en une année, nous produis
 Le réemploi et la réparation permettent de donner une seconde vie aux objets en évitant d’en faire des déchets.
 Ces activités sont au cœur de l’économie circulaire, nouveau modèle économique essentiel dans un monde aux ressources finies.
 Je précise que cette proposition s’inspire de mesures similaires débattues en ce moment en Suède, et qui sont donc compatibles avec les règles européennes, contrairement à ce qui a été affirmé en commission des finances.
-De plus, l’alinéa un de l’annexe IV permet l’application d’un taux réduit aux services de réparation de bicyclettes, de chaussures, d’articles en cuir et de vêtements.
+De plus, l’alinéa un de l’annexe quatre permet l’application d’un taux réduit aux services de réparation de bicyclettes, de chaussures, d’articles en cuir et de vêtements.
 Enfin, cet amendement permettrait de soutenir une filière représentant près de cent cinquante mille emplois en France, filière susceptible de se développer fortement au cours des prochaines années.
 Je vous invite donc, mes chers collègues, à soutenir les filières du réemploi et de la réparation en adoptant cet amendement.
 Quel est l’avis de la commission ? Défavorable.
@@ -480,7 +480,7 @@ L’utilisation du bois pour le chauffage est complémentaire des autres usages 
 C’est la raison pour laquelle nous proposons de soumettre ce produit à un taux de TVA réduit.
 Quel est l’avis de la commission sur ces trois amendements identiques ? Défavorable.
 Quel est l’avis du Gouvernement ? Voilà un beau sujet, qui mêle la fiscalité aux intérêts environnementaux – les gaz à effet de serre, l’empreinte carbone – et économiques.
-Hier, quelqu’un a souligné que le fait de brûler du bois produit forcément du COdeux et pourrait donc être assujetti à la contribution climat-énergie.
+Hier, quelqu’un a souligné que le fait de brûler du bois produit forcément du CO₂ et pourrait donc être assujetti à la contribution climat-énergie.
 Intellectuellement, cette idée n’est pas saugrenue ! Par ailleurs, en matière environnementale et sanitaire, il y a des débats importants pour savoir s’il faut encourager ou non la consommation de bois de chauffage, notamment dans l’agglomération parisienne.
 Je ne veux pas rentrer dans ces débats, mais il faut quand même les évoquer.
 L’idée selon laquelle le bois de chauffage aurait toutes les vertus par rapport à d’autres carburants, sur le plan environnemental,… Ce n’est pas ce que j’ai dit ! …n’est pas forcément partagée.
@@ -753,7 +753,7 @@ Ce type d’amendements fait partie du paysage depuis quelques années.
 Au fil des débats, progressivement, un message est passé.
 L’État étant actionnaire de plusieurs constructeurs, il existe un certain nombre de courroies de transmission possibles.
 Mais on ne refera pas le passé.
-Le signal a été donné très fortement l’année dernière, lorsque nous avons clairement indiqué la volonté de rapprocher la fiscalité à « plus deux, moins deux », après avoir fait voter le « plus un, moins un » qui s’appliquera au unier janvier deux mille dix-sept.
+Le signal a été donné très fortement l’année dernière, lorsque nous avons clairement indiqué la volonté de rapprocher la fiscalité à « plus deux, moins deux », après avoir fait voter le « plus un, moins un » qui s’appliquera au premier janvier deux mille dix-sept.
 Tout le monde avait donc bien conscience que le Gouvernement souhaitait rapprocher les statuts.
 Le Gouvernement est clair sur le rythme à tenir.
 C’est pourquoi il soutient les amendements numéro trois cent cinq deuxième rectification et cent vingt-huit deuxième rectification visant à un alignement en cinq ans.
@@ -879,7 +879,7 @@ Ce dispositif va concerner trois cent soixante mille personnes d’ici deux mill
 Le Gouvernement est défavorable à cet amendement.
 La parole est à Madame Véronique Louwagie, pour soutenir l’amendement numéro soixante-six.
 Cet amendement concerne l’amortissement des logiciels.
-En vertu du II de l’article deux cent trente-six du code général des impôts, les entreprises qui font l’acquisition d’un logiciel peuvent pratiquer un amortissement exceptionnel au titre de cet investissement.
+En vertu du deux de l’article deux cent trente-six du code général des impôts, les entreprises qui font l’acquisition d’un logiciel peuvent pratiquer un amortissement exceptionnel au titre de cet investissement.
 Les coûts d’acquisition de sites web, souvent particulièrement importants, peuvent faire l’objet de cet amortissement exceptionnel, pratiqué de manière accélérée, sur les douze mois suivant l’acquisition du logiciel ou celle du site.
 Seuls les services fiscaux sont compétents pour juger de l’éligibilité de l’entreprise à ce dispositif.
 L’alinéa dix de l’article treize propose de supprimer cet amortissement, pourtant utilisé par de nombreuses entreprises pour se moderniser et s’équiper de logiciels plus performants.

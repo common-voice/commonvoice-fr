@@ -74,7 +74,7 @@ Monsieur le député, vous connaissez bien ces problèmes ; je dois dire que, d
 J’assistais, jeudi dernier, à un dîner organisé dans ma région par le CRIF, le Conseil représentatif des institutions juives de France.
 J’ai rappelé à cette occasion combien des actes graves avaient été commis sur notre territoire.
 Comme vous, je constate depuis le début de l’année une recrudescence des actes antisémites.
-Vous en avez cité quelques-uns ; depuis le unier janvier, j’en ai recensé huit commis dans la région parisienne.
+Vous en avez cité quelques-uns ; depuis le premier janvier, j’en ai recensé huit commis dans la région parisienne.
 C’est vrai ! Il faudrait nous en informer ! Oui, il y a aujourd’hui un renouveau de l’antisémitisme, contre lequel nous devons tous nous élever.
 Ce peut être de l’antisémitisme traditionnel, celui de l’extrême-droite.
 Monsieur Soral vient ainsi d’être condamné pour un pamphlet qu’il avait publié sur les réseaux sociaux.
@@ -198,7 +198,7 @@ Le renforcement du pouvoir d’achat de ceux qui gagnent le moins doit être not
 Pour les salariés payés au SMIC, le cap est fixé pour deux mille vingt-deux : cent dix-neuf euros supplémentaires chaque mois pour un célibataire et deux cent huit euros pour un couple.
 Monsieur le député, quelles que soient nos familles politiques et les élections auxquelles nous nous présentons, nous savons que les Français veulent des preuves.
 Ces preuves, vingt et un millions de salariés – et les indépendants à partir du mois de juin – les ont en bas de leur feuille de paie, où ils peuvent constater l’augmentation nette de leur pouvoir d’achat.
-C’est l’acte II de l’augmentation concrète du pouvoir d’achat que votre majorité aura l’occasion de soutenir devant les Français.
+C’est l’acte deux de l’augmentation concrète du pouvoir d’achat que votre majorité aura l’occasion de soutenir devant les Français.
 Cela représente dix-huit milliards d’euros de baisses d’impôts pour tous les Français.
 Après avoir supprimé des cotisations, nous supprimons la taxe d’habitation.
 Et les mutuelles ? Et le gaz ? Et la CSG ? Il y a ceux qui parlent et ceux qui se contenteront de regarder leur compte en banque en vous remerciant.
@@ -402,7 +402,7 @@ Pourtant, sa fermeture est toujours prévue par le Gouvernement.
 Son rôle stratégique dans le maintien du réseau électrique alsacien, indispensable au développement d’une activité industrielle sur le territoire, est une évidence.
 Pourtant, elle fermera sitôt mis en réseau l’EPR de Flamanville.
 La transition écologique engagée fera croître la consommation d’électricité dans notre pays, en raison notamment du développement des nouvelles mobilités électriques.
-L’énergie nucléaire, faiblement émettrice de COdeux, doit donc s’inscrire dans un modèle fondé sur sa complémentarité avec les énergies renouvelables.
+L’énergie nucléaire, faiblement émettrice de CO₂, doit donc s’inscrire dans un modèle fondé sur sa complémentarité avec les énergies renouvelables.
 Pourtant, l’État maintient – au moins fictivement – un objectif de réduction de la part du nucléaire dans notre mix électrique.
 Nos choix énergétiques méritent davantage de cohérence.
 Il y a là une exigence, tant le défi que représente le réchauffement climatique est grand.
@@ -538,7 +538,7 @@ Toutefois, l’échéance a été reportée.
 Bien que louable, l’objectif fixé n’était pas réaliste ; nous ne pouvions pas l’atteindre dans un laps de temps si court.
 Le ministre d’État, ministre de la transition écologique et solidaire, Nicolas Hulot, en novembre dernier, a fait preuve de pragmatisme en assumant ce choix.
 Le temps de l’énergie est, je veux le rappeler ici, un temps long.
-Le Président de la République affirmait, au mois de décembre dernier : « Je ne suis pas un idolâtre du […] nucléaire, mais […] il faut choisir ses batailles ; ma priorité, […] c’est les émissions de COdeuxet le réchauffement ».
+Le Président de la République affirmait, au mois de décembre dernier : « Je ne suis pas un idolâtre du […] nucléaire, mais […] il faut choisir ses batailles ; ma priorité, […] c’est les émissions de CO₂et le réchauffement ».
 Nous devons nous concentrer sur la fermeture des centrales à énergie fossile.
 L’énergie nucléaire nous permet d’aborder cette transition, en cohérence avec nos engagements internationaux pour le climat.
 En effet, c’est une énergie décarbonée qui assure l’indépendance énergétique de la France et sa sécurité d’approvisionnement.
@@ -584,7 +584,7 @@ En conséquence, le groupe Les Républicains votera contre votre proposition de 
 (Applaudissements sur les bancs du groupe LR.) La parole est à Monsieur Jimmy Pahun.
 Monsieur le président, madame la rapporteure, mes chers collègues, la principale énergie produite et consommée en France est l’électricité d’origine nucléaire.
 Elle provient de cinquante-huit réacteurs répartis sur l’ensemble du territoire français.
-Cette puissance énergétique, développée sous la IVieme République, est aujourd’hui confrontée à des défis sans précédent.
+Cette puissance énergétique, développée sous la quatrième République, est aujourd’hui confrontée à des défis sans précédent.
 Quels sont les nombreux défis auxquels nous sommes confrontés ? D’abord, celui de la durée de vie des installations.
 Notre parc nucléaire est vieillissant – le président de l’ASN l’a affirmé devant la commission du développement durable.
 Puisque la plus grande partie de notre parc nucléaire a été construite il y a quarante ans, il nous faut aujourd’hui décider quelle attitude adopter face aux vieilles centrales.
@@ -1091,7 +1091,7 @@ Le présent projet de loi permettra donc aux armuriers de refuser de conclure de
 C’est une disposition que je salue : dans le contexte d’insécurité que vit la France, elle n’est pas superflue.
 Mais, évidemment, la question des moyens se pose.
 Comment un armurier peut-il vérifier concrètement que la transaction qu’il s’apprête à conclure est suspecte ? Je n’ai pas résisté au plaisir de garder le meilleur pour la fin.
-Le titre III vise à introduire dans le code de la défense un chapitre relatif au service public réglementé de radionavigation par satellite.
+Le titre trois vise à introduire dans le code de la défense un chapitre relatif au service public réglementé de radionavigation par satellite.
 Il y a une vingtaine d’années, l’Europe se lançait dans une grande aventure, l’une de celles qui auraient pu représenter une marque d’autonomie et de puissance, à la gloire d’une Europe créative et indépendante.
 Oui, Galileo aurait pu être un élément essentiel de la souveraineté de notre pays et de l’Europe, un outil d’autonomie économique et stratégique vis-à-vis des systèmes déjà existants et dont nous dépendons – je pense notamment au GPS américain.
 Ce programme ambitieux a cependant été montré du doigt par la Cour des comptes pour sa gestion « peu performante ».
@@ -1161,7 +1161,7 @@ Les autres font l’objet de dispositions dans le projet de loi.
 Je considère qu’il aurait été utile de pouvoir disposer d’un tableau d’ensemble, d’une liste de concordance et de conversion entre les dispositions de la directive et celles du projet.
 Nous évoquons souvent ici le principe de clarté et d’intelligibilité de la loi, principe à valeur constitutionnelle, qu’il nous incombe de respecter.
 Nous gagnerions tous à rendre lisible par une majorité de citoyens moyens, dirai-je – parmi lesquels je me classe volontiers – le travail que nous accomplissons.
-Dans le rapport de la commission des lois, seuls l’article unier du projet de loi et l’article quatre de la directive lui correspondant sont comparés par une juxtaposition de leurs rédactions.
+Dans le rapport de la commission des lois, seuls l’article premier du projet de loi et l’article quatre de la directive lui correspondant sont comparés par une juxtaposition de leurs rédactions.
 Ce texte, on l’aura compris, a une essence politique mais des déclinaisons très techniques, au sens où elles décrivent le fonctionnement du processus et les mécanismes mis en œuvre pour obtenir et arriver aux finalités de principe décrites.
 La première de mes trois observations concerne la directive sur la cybersécurité.
 Celle-ci introduit une obligation de notification : à compter de mai deux mille dix-huit, les entreprises concernées seront tenues de notifier aux autorités nationales les cyberincidents sérieux.
@@ -1196,7 +1196,7 @@ C’est une question de cybersécurité, mais aussi de crédibilité et d’éga
 Enfin, nous souhaitons interpeller le Gouvernement sur le coût de la cybersécurité.
 De toute façon, il est nécessaire et impératif, pour protéger nos données personnelles et nos systèmes informatiques, de nous prémunir contre les attaques des cybercriminels.
 En revanche, il est criminel de croire que les administrations publiques pourront mettre en œuvre de telles dispositions à budget constant.
-Nous vous présenterons des amendements dans ce sens, car il est indispensable de mettre les moyens sur la table face à cet enjeu majeur du XXIieme siècle.
+Nous vous présenterons des amendements dans ce sens, car il est indispensable de mettre les moyens sur la table face à cet enjeu majeur du vingt et unieme siècle.
 (Applaudissements sur les bancs du groupe FI.) La parole est à Monsieur Stéphane Peu.
 Monsieur le président, madame la ministre, monsieur le secrétaire d’État, madame la présidente de la commission, monsieur le rapporteur, chers collègues, la cybersécurité, la réglementation sur les armes à feu civiles et le système de positionnement par satellite Galileo recouvrent trois enjeux très différents.
 Avant d’en venir au texte du projet de loi, nous souhaitons en premier lieu déplorer le recours à la procédure accélérée et la présentation à la dernière minute d’un projet de loi traitant de sujets aussi importants et complexes.

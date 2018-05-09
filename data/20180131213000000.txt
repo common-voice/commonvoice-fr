@@ -14,7 +14,7 @@ La transposition de cette directive européenne contribuera ainsi à un renforce
 De plus, une disposition prévoit la possibilité de rendre publics ces incidents, créant ainsi un enjeu « réputationnel » pour les entreprises qui devrait les inciter à sécuriser leur réseau et leur système d’information, conformément à ce que prévoit le présent projet de loi.
 La cyberdéfense et la cybersécurité sont deux domaines dans lesquels la coopération et l’entraide européenne sont impératives pour notre développement économique, industriel et social.
 C’est aussi un enjeu de souveraineté pour l’Europe, devant lequel nous devrions tous nous retrouver.
-L’autre directive dont nous actons la transposition est relative à l’acquisition et à la détention d’armes à feu civiles, et fait l’objet du titre II du projet de loi.
+L’autre directive dont nous actons la transposition est relative à l’acquisition et à la détention d’armes à feu civiles, et fait l’objet du titre deux du projet de loi.
 Nous comprenons bien sûr tous la nécessité de mieux contrôler la circulation des armes, et donc leur vente, dans le contexte que nous connaissons.
 Les articles seize et dix-sept actent la suppression de la catégorie des armes à feu soumises à enregistrement, soit la sous-catégorie Dl.
 Ces armes seront désormais surclassées en catégorie C et donc soumises à déclaration pour l’acquisition et la détention.
@@ -22,7 +22,7 @@ Une inquiétude avait été exprimée par les détenteurs d’armes à feu de co
 Mes collègues du groupe MODEM et moi-même sommes satisfaits des explications du rapporteur sur ce point.
 Le durcissement du régime d’acquisition et de détention des armes semi-automatiques comme l’instauration d’un contrôle administratif pour les courtiers d’armes de catégorie C sont des mesures de nature à renforcer la sécurité globale entourant les armes à feu.
 Cette surtransposition nous toutefois paraît justifiée afin de mieux vérifier l’identité des détenteurs d’armes de ces catégories.
-Dernier sujet, d’une grande importance lui aussi : le service public réglementé – SPR – Galileo, auquel est consacré le titre III du présent projet de loi.
+Dernier sujet, d’une grande importance lui aussi : le service public réglementé – SPR – Galileo, auquel est consacré le titre trois du présent projet de loi.
 Il s’agit d’une décision du Parlement européen et du Conseil avec laquelle la France doit se mettre en conformité afin de permettre l’accès à certains services de Galileo pour le développement d’applications et de dispositifs de géolocalisation sensibles.
 Nous savons tous que le système Galileo est vital pour l’Europe, et donc pour la France, tant son intérêt stratégique trouve son origine dans la question de la souveraineté de notre espace commun.
 Entre les États-Unis et la Russie, entre la Chine et l’Inde, l’Europe devait se doter d’un outil de radionavigation par satellite, ce qui est chose faite avec Galileo, en service depuis la fin de l’année deux mille seize.
@@ -60,7 +60,7 @@ Je ne peux qu’inciter le Gouvernement à combler ce vide au plus vite.
 Pour les collectionneurs qui attendent ce décret depuis six ans, le préjudice est considérable.
 Insuffisantes ! Je ne suis néanmoins pas certain que la subtile distinction entre la réglementation et la législation qui s’appliquent aux commémorations et aux manifestations soit connue des collectionneurs.
 Au-delà de la transposition de directives, exercice contraint, imposé mais nécessaire, l’urgence commande également de nous pencher dans un avenir proche sur la question du renforcement de la lutte contre le trafic d’armes.
-Le titre III concerne les modalités d’accès au service public réglementé offert par le système mondial de radionavigation par satellite Galileo.
+Le titre trois concerne les modalités d’accès au service public réglementé offert par le système mondial de radionavigation par satellite Galileo.
 L’article vingt-deux encadre l’usage de ce service par les institutions de l’Union européenne et les États membres à des fins de sécurité publique et d’intérêt général.
 Je n’ai donc pas de remarque particulière à faire sur ces dispositions, si ce n’est qu’il convient de saluer la réussite technologique de ce GPS européen.
 Attendez l’examen des amendements avant de vous prononcer ! La parole est à Madame Olga Givernet.
@@ -152,7 +152,7 @@ Sur les trente satellites prévus par le programme Galileo, dix-huit ont d’ore
 Ce service public réglementé est réservé aux seuls utilisateurs autorisés par les États, pour les applications sensibles soumises à un contrôle d’accès efficace et garantissant une continuité du service dans les situations les plus graves.
 La décision du vingt-cinq octobre deux mille onze « relative aux modalités d’accès au service public réglementé offert par le système mondial de radionavigation par satellite issu du programme Galileo » précise les obligations des États membres qui souhaitent y recourir.
 Elle requiert que l’accès au SPR soit restreint à certains utilisateurs sous le contrôle permanent d’une autorité « responsable du service public réglementé ».
-C’est cette disposition que l’article vingt-deux du présent projet de loi permet d’introduire dans notre code de la défense, à travers un nouveau chapitre dédié au sein du titre II du livre trois.
+C’est cette disposition que l’article vingt-deux du présent projet de loi permet d’introduire dans notre code de la défense, à travers un nouveau chapitre dédié au sein du titre deux du livre trois.
 Un nouveau régime de sanctions en cas de manquements est également instauré.
 Ces autorisations sont aussi essentielles au développement et à la fabrication de récepteurs ou de modules de sécurité, à l’exportation d’équipements, de technologies ou de logiciels conçus pour ce service.
 Selon le Conseil d’État, un tel régime d’autorisation préalable et de contrôle est indispensable.
@@ -217,11 +217,11 @@ C’est tout l’objet de cet amendement qui utilise l’adverbe « notamment »
 Quel est l’avis de la commission ? Avis défavorable.
 L’hypothèse du virus affectant les ordinateurs de l’Assemblée nationale et permettant l’adoption automatique de tous les amendements de la France insoumise est en effet effrayante.
 Mais vous l’aviez déjà évoquée en commission, mot pour mot.
-Je vous renvoie donc à nouveau à l’annexe II de la directive dite « NIS ».
+Je vous renvoie donc à nouveau à l’annexe deux de la directive dite « NIS ».
 Cette annexe prévoit tous les domaines concernés ; les hôpitaux et les cliniques y figurent.
 Le Gouvernement s’est par ailleurs engagé, au cours de nos travaux préparatoires, à élargir le champ d’application de la directive, par exemple à la grande distribution ou au tourisme.
 Quel est l’avis du Gouvernement ? Les secteurs dans lesquels ces dispositions s’appliqueront seront en effet définis par le Gouvernement.
-L’annexe II cite en particulier l’énergie, le transport, les banques, la santé, l’eau, les infrastructures numériques… Nous nous sommes, le rapporteur l’a dit, engagés à aller au-delà.
+L’annexe deux cite en particulier l’énergie, le transport, les banques, la santé, l’eau, les infrastructures numériques… Nous nous sommes, le rapporteur l’a dit, engagés à aller au-delà.
 Le risque n’a jamais été aussi important, et nous partageons vos inquiétudes.
 C’est un sujet qui doit être considéré largement.
 Je redis également que le Gouvernement informera régulièrement le Parlement au cours de son travail sur les différents décrets.
@@ -361,7 +361,7 @@ Dans ce cas, les montants que vous avez évoqués – jusqu’à vingt million
 Pour cette raison, le Gouvernement est défavorable à l’amendement numéro cinquante-trois.
 À défaut, l’avis du Gouvernement sera défavorable.
 La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro trente-neuf.
-L’alinéa cinq de l’article onze prévoit que les dispositions de sécurité du chapitre III ne sont pas applicables aux petites entreprises, celles qui emploient moins de cinquante salariés et dont le chiffre d’affaires n’excède pas dix millions d’euros.
+L’alinéa cinq de l’article onze prévoit que les dispositions de sécurité du chapitre trois ne sont pas applicables aux petites entreprises, celles qui emploient moins de cinquante salariés et dont le chiffre d’affaires n’excède pas dix millions d’euros.
 Or, dans les secteurs de pointe, les petites entreprises constituent une maille essentielle dans la chaîne des services.
 Si l’alinéa cinq était appliqué, alors les citoyens utilisant les services fournis par les entreprises concernées ne seraient pas autant protégés que les autres.
 Ne sommes-nous pas tous égaux devant la loi ? C’est pourquoi nous rejetons fermement cet alinéa et proposons de le supprimer purement et simplement.
@@ -677,7 +677,7 @@ Compte tenu de l’absence de dangerosité avérée des armes dont il est questi
 La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-quatorze.
 Mes chers collègues, on a retiré de la catégorie D les armes de chasse, qui, autrefois classées en Dun, passent en C.
 Que reste-t-il en D ? Les matériels et armes historiques et de collection, qui font partie intégrante du patrimoine.
-Il s’agit des véhicules, des navires, des aéronefs, des radios neutralisés, d’origine militaire antérieurs au unier janvier mille neuf cent quarante-six, ainsi que des armes anciennes antérieures au unier janvier mille neuf cents.
+Il s’agit des véhicules, des navires, des aéronefs, des radios neutralisés, d’origine militaire antérieurs au premier janvier mille neuf cent quarante-six, ainsi que des armes anciennes antérieures au premier janvier mille neuf cents.
 Sont-ils dangereux ? Nullement, puisqu’ils sont neutralisés.
 Puisqu’il y a absence de dangerosité avérée de ces armes et qu’elles sont intéressantes du point de vue patrimonial, la bonne préservation de ces matériels et armes historiques et de collection exige leur maintien en catégorie D, en détention libre.
 Tel est l’objet du présent amendement.

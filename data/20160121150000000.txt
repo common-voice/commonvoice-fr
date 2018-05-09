@@ -181,7 +181,7 @@ La parole est à Madame Corinne Erhel, rapporteure pour avis, pour soutenir l’
 C’est un débat que nous avons déjà eu en commission la semaine dernière : nous avons besoin de lancer une action pour répondre à la pénurie d’adresses IP version quatre – IPVquatre.
 Mme la secrétaire d’État nous avait indiqué que la transition vers l’IP version six – IPVsix – était en cours ; il serait bon de l’accélérer, et je crois que le moment est venu de donner un signal en ce sens.
 J’avais déjà eu l’occasion d’aborder cette question lors de l’examen du projet de loi pour la croissance et l’activité.
-Cet amendement a pour objectif d’obliger les terminaux internet d’être équipés d’une technologie compatible avec le protocole IPVsix à compter du unierjanvier deux mille dix-huit.
+Cet amendement a pour objectif d’obliger les terminaux internet d’être équipés d’une technologie compatible avec le protocole IPVsix à compter du premier deux mille dix-huit.
 Le phénomène de pénurie d’adresses IPVquatre commence à avoir des effets très négatifs sur les acteurs économiques français et européens.
 Il y a urgence à agir – aussi pour des raisons d’innovation.
 D’où notre proposition d’introduire cette disposition, très attendue, au cœur du projet de loi pour une République numérique.
@@ -531,7 +531,7 @@ Dans le second cas, il y a de la valeur ajoutée.
 Tout ne devrait donc pas être récupérable et aller chez le concurrent.
 Mes amendements numéros quinze et sept cent quatre-vingts, qui vont tomber, proposaient une rédaction alternative.
 La parole est à Madame Laure de La Raudière.
-C’est un point vraiment important du titre II.
+C’est un point vraiment important du titre deux.
 C’est pourquoi il faut y passer un peu de temps, nous irons peut-être plus vite par la suite.
 Vous l’avez avoué, madame la secrétaire d’État, nous sommes très clairement dans une surtransposition franco-française du règlement européen puisque les données concernées sont plus larges que les données personnelles et même beaucoup plus larges.
 On sait que toute mesure de surtransposition d’une directive européenne dans le code de la consommation n’est pas bonne pour notre économie car cela fragilise les modèles d’activité de nos entreprises.
@@ -829,7 +829,7 @@ Cela étant, il semble que le Conseil national du numérique, à l’origine de 
 Je suis saisi de plusieurs amendements portant article additionnel après l’article vingt-trois.
 La parole est à Madame Colette Capdevielle, pour soutenir l’amendement numéro trois cent huit.
 Au vu de ces débats, la question de la loyauté des plateformes justifierait presque, à elle seule, un projet de loi à part entière, tant elle est importante.
-Macron IV ! Cet amendement vise à accompagner la multiplication des plateformes en ligne qui proposent des services régis par des professions réglementées, notamment des services juridiques, et d’en encadrer les pratiques dans un souci de protection et d’information des utilisateurs.
+Macron quatre ! Cet amendement vise à accompagner la multiplication des plateformes en ligne qui proposent des services régis par des professions réglementées, notamment des services juridiques, et d’en encadrer les pratiques dans un souci de protection et d’information des utilisateurs.
 Aujourd’hui, l’accès au droit est une priorité et beaucoup de plateformes juridiques ont des pratiques réellement douteuses.
 Elles peuvent prodiguer de très mauvais conseils, dont les conséquences sont parfois dramatiques.
 Quel est l’avis de la commission ? Nous voyons tous à quoi vous faites référence, dans un domaine que vous connaissez particulièrement bien.
