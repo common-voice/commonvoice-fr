@@ -175,14 +175,14 @@ def getRomanNumbers(ch):
         if len(ro) > 0 and ch[i-1] in ROMAN_CHARS:
           ro += c
     else:
-      if len(ro) > 1:
+      if len(ro) > 0:
         if not c.isalpha():
           #print('getRomanNumbers', ch, ro)
           yield ch[ros-1], ch[i], ro
         ro  = ''
         ros = i
 
-  if len(ro) > 1:
+  if len(ro) > 0:
     #print('getRomanNumbers final', ch, "|||", ro)
     yield ch[ros-1], '', ro
 
