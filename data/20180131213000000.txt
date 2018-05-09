@@ -4,25 +4,25 @@ Nous poursuivons avec Monsieur Philippe Latombe.
 Ce projet de loi rassemble des sujets aussi divers que la détention d’armes à feu civiles, le service public réglementé Galileo, mais également et surtout un domaine crucial pour notre avenir, celui de la cybersécurité.
 Que nous le voulions ou non, nous sommes aujourd’hui, dans notre espace européen, interdépendants et donc vulnérables si nous ne trouvons pas les moyens de faire front commun.
 Aussi, la directive NIS constitue une étape nécessaire dans l’édification d’une sécurité commune.
-Elle poursuit ainsi un double objectif : renforcer le niveau de cybersécurité applicable aux activités économiques stratégiques et accroître la coordination entre États membres en cas d’incidents transnationaux.
-Le texte affirme la nécessité de définir et d’identifier les opérateurs de services essentiels, dits «OSE» : des acteurs qui font partie de la vie quotidienne des Français et qui devront, à ce titre, se conformer aux nouvelles règles en matière de sécurité informatique.
-La directive fixe une liste minimale de secteurs concernés : énergie, transport, banques, infrastructures de marchés financiers, santé, fourniture et distribution d’eau potable, infrastructures numériques.
+Elle poursuit ainsi un double objectif : renforcer le niveau de cybersécurité applicable aux activités économiques stratégiques et accroître la coordination entre États membres en cas d’incidents transnationaux.
+Le texte affirme la nécessité de définir et d’identifier les opérateurs de services essentiels, dits « OSE » : des acteurs qui font partie de la vie quotidienne des Français et qui devront, à ce titre, se conformer aux nouvelles règles en matière de sécurité informatique.
+La directive fixe une liste minimale de secteurs concernés : énergie, transport, banques, infrastructures de marchés financiers, santé, fourniture et distribution d’eau potable, infrastructures numériques.
 Le Gouvernement a fait le choix de ne pas reprendre cette liste dans le présent texte pour permettre d’étendre la qualification d’opérateurs de services essentiels à de nouveaux domaines en fonction du contexte et des nouvelles menaces qui pourraient apparaître.
 Cette souplesse répond d’ailleurs à une demande de l’ANSSI – l’Agence nationale de la sécurité des systèmes d’information.
-De même, l’obligation accrue de sécurité informatique s’imposera dorénavant à certains fournisseurs de services numériques : sont concernés les places de marché en ligne, les moteurs de recherche en ligne et les services informatiques en nuage.
-La transposition de cette directive européenne contribuera ainsi à un renforcement des capacités nationales des États membres grâce à l’ensemble des mesures prévues : une autorité nationale ; une stratégie nationale doublée d’une collaboration avec les autres États ; un centre de réponse aux incidents.
-De plus, une disposition prévoit la possibilité de rendre publics ces incidents, créant ainsi un enjeu «réputationnel» pour les entreprises qui devrait les inciter à sécuriser leur réseau et leur système d’information, conformément à ce que prévoit le présent projet de loi.
+De même, l’obligation accrue de sécurité informatique s’imposera dorénavant à certains fournisseurs de services numériques : sont concernés les places de marché en ligne, les moteurs de recherche en ligne et les services informatiques en nuage.
+La transposition de cette directive européenne contribuera ainsi à un renforcement des capacités nationales des États membres grâce à l’ensemble des mesures prévues : une autorité nationale ; une stratégie nationale doublée d’une collaboration avec les autres États ; un centre de réponse aux incidents.
+De plus, une disposition prévoit la possibilité de rendre publics ces incidents, créant ainsi un enjeu « réputationnel » pour les entreprises qui devrait les inciter à sécuriser leur réseau et leur système d’information, conformément à ce que prévoit le présent projet de loi.
 La cyberdéfense et la cybersécurité sont deux domaines dans lesquels la coopération et l’entraide européenne sont impératives pour notre développement économique, industriel et social.
 C’est aussi un enjeu de souveraineté pour l’Europe, devant lequel nous devrions tous nous retrouver.
-L’autre directive dont nous actons la transposition est relative à l’acquisition et à la détention d’armes à feu civiles, et fait l’objet du titre II du projet de loi.
+L’autre directive dont nous actons la transposition est relative à l’acquisition et à la détention d’armes à feu civiles, et fait l’objet du titre II du projet de loi.
 Nous comprenons bien sûr tous la nécessité de mieux contrôler la circulation des armes, et donc leur vente, dans le contexte que nous connaissons.
-Les articles seize et dix-sept actent la suppression de la catégorie des armes à feu soumises à enregistrement, soit la sous-catégorie Dl.
-Ces armes seront désormais surclassées en catégorie C et donc soumises à déclaration pour l’acquisition et la détention.
+Les articles seize et dix-sept actent la suppression de la catégorie des armes à feu soumises à enregistrement, soit la sous-catégorie Dl.
+Ces armes seront désormais surclassées en catégorie C et donc soumises à déclaration pour l’acquisition et la détention.
 Une inquiétude avait été exprimée par les détenteurs d’armes à feu de collection ou d’intérêt historique.
 Mes collègues du groupe MODEM et moi-même sommes satisfaits des explications du rapporteur sur ce point.
-Le durcissement du régime d’acquisition et de détention des armes semi-automatiques comme l’instauration d’un contrôle administratif pour les courtiers d’armes de catégorie C sont des mesures de nature à renforcer la sécurité globale entourant les armes à feu.
+Le durcissement du régime d’acquisition et de détention des armes semi-automatiques comme l’instauration d’un contrôle administratif pour les courtiers d’armes de catégorie C sont des mesures de nature à renforcer la sécurité globale entourant les armes à feu.
 Cette surtransposition nous toutefois paraît justifiée afin de mieux vérifier l’identité des détenteurs d’armes de ces catégories.
-Dernier sujet, d’une grande importance lui aussi : le service public réglementé – SPR – Galileo, auquel est consacré le titre III du présent projet de loi.
+Dernier sujet, d’une grande importance lui aussi : le service public réglementé – SPR – Galileo, auquel est consacré le titre III du présent projet de loi.
 Il s’agit d’une décision du Parlement européen et du Conseil avec laquelle la France doit se mettre en conformité afin de permettre l’accès à certains services de Galileo pour le développement d’applications et de dispositifs de géolocalisation sensibles.
 Nous savons tous que le système Galileo est vital pour l’Europe, et donc pour la France, tant son intérêt stratégique trouve son origine dans la question de la souveraineté de notre espace commun.
 Entre les États-Unis et la Russie, entre la Chine et l’Inde, l’Europe devait se doter d’un outil de radionavigation par satellite, ce qui est chose faite avec Galileo, en service depuis la fin de l’année deux mille seize.
@@ -33,39 +33,39 @@ C’est donc bien sûr avec conviction que le groupe MODEM soutiendra ce texte, 
 L’objectif est de renforcer le niveau de sécurité commun de nos concitoyens et de nos entreprises stratégiques.
 Et, nous en conviendrons tous, compte tenu de l’accroissement et de la complexité des menaces auxquelles notre continent fait face, c’est non seulement nécessaire, mais surtout urgent.
 Avant d’en venir au contenu du projet de loi, permettez-moi de constater, et c’est assez rare pour le souligner, que la France devrait ainsi respecter le délai de transposition des deux directives.
-Nos collègues Alice Thourot et Jean-Luc Warsmann, auteurs d’un rapport d’information remis en décembre dernier, l’ont très justement souligné : en France, les surtranspositions inutiles sont encore trop fréquentes.
+Nos collègues Alice Thourot et Jean-Luc Warsmann, auteurs d’un rapport d’information remis en décembre dernier, l’ont très justement souligné : en France, les surtranspositions inutiles sont encore trop fréquentes.
 Ce constat appelle de notre part une vigilance particulière face à un risque ou à une tentation dont le présent texte n’est pas totalement exempt.
 J’ajoute que même si la procédure accélérée a été engagée, nous disposons de suffisamment de temps pour l’examiner sereinement.
 J’en viens au fond du projet de loi.
-Le titre I transpose une directive de deux mille seize communément appelée «NIS», dans le but de renforcer la sécurité des réseaux et des systèmes d’information dans l’Union.
+Le titre I transpose une directive de deux mille seize communément appelée « NIS », dans le but de renforcer la sécurité des réseaux et des systèmes d’information dans l’Union.
 Et c’est, hélas, on ne peut plus nécessaire.
 Il suffit en effet de se pencher sur l’actualité récente pour être convaincu de l’utilité d’une telle mesure.
-Rien qu’en deux mille dix-sept deux cyberattaques de grande ampleur ont affecté des centaines de milliers d’ordinateurs et compromis la sécurité des réseaux d’entreprises comme Renault, Saint-Gobain et Fedex.
+Rien qu’en deux mille dix-sept, deux cyberattaques de grande ampleur ont affecté des centaines de milliers d’ordinateurs et compromis la sécurité des réseaux d’entreprises comme Renault, Saint-Gobain et Fedex.
 Les préjudices ont été de natures multiples, allant de la destruction des systèmes d’information à l’atteinte à l’image de l’entreprise, à la perte de marchés ou encore au vol d’informations sensibles.
 Indéniablement, les attaques contre les systèmes d’information sont l’une des principales menaces qui pèsent sur la sécurité européenne et nationale.
 La directive NIS et sa transposition en droit interne sont donc plus que jamais nécessaires.
 Il est, par exemple, demandé aux fournisseurs de services numériques de garantir un niveau de sécurité adapté aux risques existants, sans guère plus de précision.
 Sans sombrer dans la surtransposition, je crois qu’il serait bienvenu de prévoir que les organismes concernés puissent bénéficier de l’expérience des opérateurs et des agences expérimentés et qui ont fait la preuve de leurs bonnes pratiques.
-J’en viens au titre II qui vise à transposer une directive de deux mille dix-sept relative au contrôle de l’acquisition et de la détention d’armes.
-Ce texte s’inscrit dans la continuité de la déclaration de Paris du onze janvier deux mille quinze prise au lendemain des attentats qui ont frappé notre pays.
+J’en viens au titre deux qui vise à transposer une directive de deux mille dix-sept relative au contrôle de l’acquisition et de la détention d’armes.
+Ce texte s’inscrit dans la continuité de la déclaration de Paris du onze janvier deux mille quinze, prise au lendemain des attentats qui ont frappé notre pays.
 Dans le contexte de menace terroriste grandissante, il était indispensable de poursuivre l’harmonisation et le renforcement des règles applicables pour les armes les plus dangereuses mais aussi de sécuriser dans leur ensemble les conditions de vente des armes à feu.
 Les individus susceptibles de menacer la sécurité de nos concitoyens recourant essentiellement à des réseaux et à des procédures en dehors des circuits légaux, la législation et la réglementation en vigueur, aussi dures soient-elles, ne devraient pas fondamentalement changer la donne.
 Pour autant, nous pouvons craindre que des dispositions trop contraignantes en la matière ne distinguent pas suffisamment les comportements à risque et criminels des pratiques de nos concitoyens honnêtes telles que les activités de chasse, de sport et de collection.
-Très bien ! C’est sans doute le sujet qui sera le plus largement débattu pendant l’examen de ce projet de loi.
+Très bien ! C’est sans doute le sujet qui sera le plus largement débattu pendant l’examen de ce projet de loi.
 Je le pense.
 Je ne vais pas m’étendre sur ce point, qui fera l’objet de plusieurs amendements déposés par différents groupes, dont le groupe UDI, Agir et indépendants.
 Le Conseil d’État a également prévu une telle autorisation.
 Or, malgré ces préconisations, le projet de loi a fait le choix d’écarter cette possibilité de dérogation au bénéfice des collectionneurs.
 Je ne peux qu’inciter le Gouvernement à combler ce vide au plus vite.
 Pour les collectionneurs qui attendent ce décret depuis six ans, le préjudice est considérable.
-Insuffisantes ! Je ne suis néanmoins pas certain que la subtile distinction entre la réglementation et la législation qui s’appliquent aux commémorations et aux manifestations soit connue des collectionneurs.
+Insuffisantes ! Je ne suis néanmoins pas certain que la subtile distinction entre la réglementation et la législation qui s’appliquent aux commémorations et aux manifestations soit connue des collectionneurs.
 Au-delà de la transposition de directives, exercice contraint, imposé mais nécessaire, l’urgence commande également de nous pencher dans un avenir proche sur la question du renforcement de la lutte contre le trafic d’armes.
-Le titre III concerne les modalités d’accès au service public réglementé offert par le système mondial de radionavigation par satellite Galileo.
-L’article vingt-deux encadre l’usage de ce service par les institutions de l’Union européenne et les États membres à des fins de sécurité publique et d’intérêt général.
+Le titre III concerne les modalités d’accès au service public réglementé offert par le système mondial de radionavigation par satellite Galileo.
+L’article vingt-deux encadre l’usage de ce service par les institutions de l’Union européenne et les États membres à des fins de sécurité publique et d’intérêt général.
 Je n’ai donc pas de remarque particulière à faire sur ces dispositions, si ce n’est qu’il convient de saluer la réussite technologique de ce GPS européen.
-Attendez l’examen des amendements avant de vous prononcer ! La parole est à Madame Olga Givernet.
+Attendez l’examen des amendements avant de vous prononcer ! La parole est à Madame Olga Givernet.
 Monsieur le président, madame la ministre, monsieur le secrétaire d’État, madame la présidente, monsieur le rapporteur, mes chers collègues, les dernières campagnes électorales, aux États-Unis mais aussi en France, ont mis en lumière les risques liés à la cybercriminalité.
-Et il y a tant d’autres exemples ! Nous vivons aujourd’hui avec une menace qui n’est pas palpable et qui est pourtant omniprésente.
+Et il y a tant d’autres exemples ! Nous vivons aujourd’hui avec une menace qui n’est pas palpable et qui est pourtant omniprésente.
 Il faut donc une réponse coordonnée et une mobilisation de l’ensemble des acteurs internationaux sur ce sujet.
 L’Union européenne, en particulier, a la capacité d’organiser la défense de nos systèmes informatiques.
 Les attaques viennent de partout dans le monde et visent indistinctement les personnes et les États.
@@ -85,12 +85,12 @@ Cette loi permettra à la France, qui participe activement au groupe de coopéra
 Nous pouvons d’ores et déjà anticiper un développement de l’emploi dans ce secteur.
 Ce projet formule une véritable stratégie nationale dans laquelle les objectifs tactiques et les mesures politiques et réglementaires appropriées sont clairement posés.
 Il nous permettra de parvenir au niveau de sécurité des réseaux et des systèmes d’information le plus élevé possible.
-Je ne reviendrai pas en détail sur les titres II et III du texte que nous votons aujourd’hui, mes collègues ayant déjà exprimé des points de vue que je rejoins.
+Je ne reviendrai pas en détail sur les titres deux et trois du texte que nous votons aujourd’hui, mes collègues ayant déjà exprimé des points de vue que je rejoins.
 Mais qu’il s’agisse de la cybersécurité, de la détention d’armes ou de Galileo, ces mesures européennes vont dans le bon sens.
 Le Parlement européen démontre que ses textes sont pleinement adaptables en droit français, et aucune contorsion juridique n’est ici nécessaire.
 Somme toute, ces directives offrent des solutions immédiates à des manques importants de notre droit.
 La politique européenne prend la pleine mesure des défis qui nous attendent en termes de sécurité.
-Elle consacre un besoin impérieux d’union face à la multiplication des attaques physiques ou numériques ; elle sait répondre rapidement et efficacement aux besoins nécessaires rencontrés par les États membres, au premier rang desquels figure la France.
+Elle consacre un besoin impérieux d’union face à la multiplication des attaques physiques ou numériques ; elle sait répondre rapidement et efficacement aux besoins nécessaires rencontrés par les États membres, au premier rang desquels figure la France.
 Le travail de nos collègues à Strasbourg constitue une excellente source de droit pour notre nation, et il me semble important de nous en saisir dans des délais raisonnables, particulièrement quand les sujets touchent à la sécurité de nos concitoyens.
 Le groupe La République en marche votera donc ce texte sans aucune retenue.
 À l’avenir, nous continuerons d’encourager l’Europe à répondre aux questions de sécurité.
@@ -98,24 +98,24 @@ Le groupe La République en marche votera donc ce texte sans aucune retenue.
 Une suspicion grandissante semble en effet peser sur le transport de tels matériels ainsi que sur le déplacement de véhicules de collection, notamment dans le cadre de commémorations.
 C’est ce que semble confirmer une des deux directives que le projet de loi tend à transposer dans notre droit, qui vise à mieux encadrer les régimes légaux d’acquisition et de détention des armes à feu.
 Alors que la commission des lois de notre assemblée a supprimé ces modifications, je souhaite que nous tirions pleinement profit du principe de co-construction parlementaire en retrouvant la version du Sénat.
-En outre, les tentatives d’acquisition, de cession et de détention des catégories A, B et C seraient assorties de peines très lourdes, l’État pouvant même ordonner la saisie et la destruction sans indemnisation des pièces collectionnées.
-Le projet de loi tend à faire remonter en catégorie C les armes neutralisées et les reproductions d’armes anciennes, qui ne présentent pourtant aucune dangerosité.
+En outre, les tentatives d’acquisition, de cession et de détention des catégories A, B et C seraient assorties de peines très lourdes, l’État pouvant même ordonner la saisie et la destruction sans indemnisation des pièces collectionnées.
+Le projet de loi tend à faire remonter en catégorie C les armes neutralisées et les reproductions d’armes anciennes, qui ne présentent pourtant aucune dangerosité.
 Il supprime la possibilité de neutraliser les armes anciennes qui ne l’auraient pas été auparavant.
 Toutes ces dispositions tendent à construire un régime de la détention des pièces de collection confiscatoire.
 Or le Gouvernement et la majorité parlementaire s’étaient engagés solennellement à ne plus le faire.
-Vous devez tenir votre engagement ! Cela est d’autant plus nécessaire que ce texte augmenterait davantage la suspicion qui pèse déjà sur le transport et les déplacements des armes et des véhicules de collection, notamment pour les commémorations.
+Vous devez tenir votre engagement ! Cela est d’autant plus nécessaire que ce texte augmenterait davantage la suspicion qui pèse déjà sur le transport et les déplacements des armes et des véhicules de collection, notamment pour les commémorations.
 L’ensemble des professionnels du cinéma seraient également affectés par cette mesure qui, pour la réalisation de films historiques, ajouterait de la complexité à la complexité.
 Seule la mise en place de la carte du collectionneur, en partenariat avec les fédérations et les associations de passionnés, à l’image de ce qui existe pour les chasseurs et tireurs sportifs, est susceptible de résoudre le problème.
-Très bien ! En outre, si le projet de texte était adopté en l’état, il entraînerait la mort programmée de la collection d’engins militaires et des reconstitutions historiques en France.
+Très bien ! En outre, si le projet de texte était adopté en l’état, il entraînerait la mort programmée de la collection d’engins militaires et des reconstitutions historiques en France.
 Ces matériels représentent le meilleur moyen de susciter l’engouement populaire, tout en donnant à de telles célébrations une portée plus authentique et émouvante.
 (Applaudissements sur les bancs du groupe LR.) La parole est à Madame Marie-France Lorho.
 Monsieur le président, madame la ministre, monsieur le secrétaire d’État, madame la présidente de la commission des lois, monsieur le rapporteur, il est bien évident qu’un problème de méthode se pose.
 Le simple titre du projet de loi nous gêne, comme il gêne les Français, au point que la commission des lois s’est emparée du sujet pour réfléchir à la surtransposition.
 Il n’y a pas lieu d’en débattre à présent, mais vous aurez compris notre malaise.
-Mais ne nous arrêtons pas là : la noria de groupes d’intérêts, légalement enregistrés à Bruxelles, montre bien que la conception des responsabilités partagées entre les acteurs du traitement et de la gestion des données est tout, sauf équilibrée.
-En un mot, entre la volonté des «GAFA» – Google, Apple, Facebook, Amazon – et une directive européenne, il existe une inégalité constitutive de puissance qui n’est pour le moins pas à notre avantage.
+Mais ne nous arrêtons pas là : la noria de groupes d’intérêts, légalement enregistrés à Bruxelles, montre bien que la conception des responsabilités partagées entre les acteurs du traitement et de la gestion des données est tout, sauf équilibrée.
+En un mot, entre la volonté des « GAFA » – Google, Apple, Facebook, Amazon – et une directive européenne, il existe une inégalité constitutive de puissance qui n’est pour le moins pas à notre avantage.
 Nous devons faire des détours par l’environnement général pour comprendre l’enjeu du texte, un enjeu qui nous dépasse de loin.
-La dernière réunion de Davos en témoigne : dans un univers où les États-Unis et la Chine mènent une bataille numérique et économique sous le regard du monde entier, la civilisation européenne est désormais hors-jeu.
+La dernière réunion de Davos en témoigne : dans un univers où les États-Unis et la Chine mènent une bataille numérique et économique sous le regard du monde entier, la civilisation européenne est désormais hors-jeu.
 Angela Merkel ne sut même pas réagir quand elle apprit que la NSA espionnait les réunions officielles allemandes.
 De même, je peine à entendre les réactions internationales concernant l’espionnage de l’Union africaine par la Chine.
 Rappelons par ailleurs que la première décision des coalitions internationales pour s’octroyer l’amitié des dirigeants de certaines régions consiste en l’octroi de parts dans les entreprises de télécommunication et de fournitures de réseau internet.
@@ -123,22 +123,22 @@ Cela étant, il importe d’analyser la structure du texte.
 La surprise est importante.
 Si la volonté était de prendre des mesures fortes pour accroître notre sécurité, il aurait fallu nous présenter un texte concis, composé de quelques articles seulement, concentrés sur les enjeux fondamentaux.
 Pour réguler l’influence des moteurs de recherche et des bases de données, il ne faut pas se détourner de l’objectif.
-Que constatons-nous à la place ? Une accumulation de parties qui lient Galileo, les armes de catégorie D et le contrôle de la protection des données.
+Que constatons-nous à la place ? Une accumulation de parties qui lient Galileo, les armes de catégorie D et le contrôle de la protection des données.
 Il conviendrait ensuite de donner le cadre précis d’application de cette loi.
 En effet, la protection des données est coûteuse.
 Elle fait l’objet d’un marché mondialisé des talents, des logiciels, des intérêts, alors que des pépites françaises peuvent avoir besoin d’être protégées ou des grands groupes alertés.
 Cette précision, ces adaptations, le texte ne les prévoit pas.
-Par ailleurs, à l’article trois le législateur souhaite encadrer les devoirs des prestataires de services.
+Par ailleurs, à l’article trois, le législateur souhaite encadrer les devoirs des prestataires de services.
 Il serait difficile de le lui reprocher, mais le manque de précision nous conduit à la même question, dès lors que ces prestataires sont aussi des acteurs du monde du renseignement.
-Comment encadrer ? Quelles en seraient les conséquences pour nos propres services ? Les services de l’État sont-ils vraiment capables de poursuivre efficacement ceux qui manqueraient à leurs obligations ? La guerre de l’information et pour la maîtrise du monde numérique est un fait des puissances.
+Comment encadrer ? Quelles en seraient les conséquences pour nos propres services ? Les services de l’État sont-ils vraiment capables de poursuivre efficacement ceux qui manqueraient à leurs obligations ? La guerre de l’information et pour la maîtrise du monde numérique est un fait des puissances.
 Elle résulte de l’accumulation des forces d’un État, aussi bien les forces morales, intellectuelles, économiques qu’institutionnelles.
-Nous connaissons les experts en la matière : les États-Unis, où l’imbrication du privé et du public au service de la nation américaine est ancienne.
-Une telle imbrication peut-elle fonctionner en France ? Peut-elle d’ailleurs se faire dans la certitude des intérêts strictement ordonnés au bien commun ? En France, les fournisseurs de services numériques ont depuis longtemps élargi le cercle de leurs intérêts.
+Nous connaissons les experts en la matière : les États-Unis, où l’imbrication du privé et du public au service de la nation américaine est ancienne.
+Une telle imbrication peut-elle fonctionner en France ? Peut-elle d’ailleurs se faire dans la certitude des intérêts strictement ordonnés au bien commun ? En France, les fournisseurs de services numériques ont depuis longtemps élargi le cercle de leurs intérêts.
 Ils vadrouillent dans l’information, les médias, la collecte de données sur leurs usagers.
 Ils altèrent la perception publique de l’information et des enjeux.
-Comment s’assurer, dès lors, que les articles un0 à un5 seront réellement appliqués ? D’ailleurs, les amendes prévues à l’article un5 peuvent-elles vraiment les impressionner ? Je peine à le croire.
+Comment s’assurer, dès lors, que les articles dix à quinze seront réellement appliqués ? D’ailleurs, les amendes prévues à l’article quinze peuvent-elles vraiment les impressionner ? Je peine à le croire.
 Veuillez conclure.
-Je vous remercie… En un mot : on imagine les Barbouzes intervenir efficacement contre les pirates informatiques ! La parole est à Madame Nicole Trisse.
+Je vous remercie… En un mot : on imagine les Barbouzes intervenir efficacement contre les pirates informatiques ! La parole est à Madame Nicole Trisse.
 Monsieur le président, madame la ministre, monsieur le secrétaire d’État, madame la présidente de la commission des lois, monsieur le rapporteur, chers collègues, nous discutons aujourd’hui de la transposition en droit français de plusieurs directives européennes dans le domaine de la sécurité.
 La transposition des directives communautaires constitue une obligation mais aussi une exigence constitutionnelle, dont le respect implique une transposition fidèle et complète.
 Avant toute chose, rappelons que la situation de la France en matière de transposition des directives s’est nettement améliorée ces dernières années.
@@ -150,15 +150,15 @@ Galileo est un véritable symbole de la coopération européenne en termes de s�
 L’indépendance de l’Europe vis-à-vis des États-Unis, de la Chine ou encore de la Russie, nécessite que son système de renseignement soit autonome et puisse s’appuyer sur des satellites européens.
 Sur les trente satellites prévus par le programme Galileo, dix-huit ont d’ores et déjà été lancés et la constellation des trente satellites devrait être en orbite en deux mille vingt et un.
 Ce service public réglementé est réservé aux seuls utilisateurs autorisés par les États, pour les applications sensibles soumises à un contrôle d’accès efficace et garantissant une continuité du service dans les situations les plus graves.
-La décision du vingt-cinq octobre deux mille onze «relative aux modalités d’accès au service public réglementé offert par le système mondial de radionavigation par satellite issu du programme Galileo» précise les obligations des États membres qui souhaitent y recourir.
-Elle requiert que l’accès au SPR soit restreint à certains utilisateurs sous le contrôle permanent d’une autorité «responsable du service public réglementé».
-C’est cette disposition que l’article vingt-deux du présent projet de loi permet d’introduire dans notre code de la défense, à travers un nouveau chapitre dédié au sein du titre II du livre III.
+La décision du vingt-cinq octobre deux mille onze « relative aux modalités d’accès au service public réglementé offert par le système mondial de radionavigation par satellite issu du programme Galileo » précise les obligations des États membres qui souhaitent y recourir.
+Elle requiert que l’accès au SPR soit restreint à certains utilisateurs sous le contrôle permanent d’une autorité « responsable du service public réglementé ».
+C’est cette disposition que l’article vingt-deux du présent projet de loi permet d’introduire dans notre code de la défense, à travers un nouveau chapitre dédié au sein du titre II du livre trois.
 Un nouveau régime de sanctions en cas de manquements est également instauré.
 Ces autorisations sont aussi essentielles au développement et à la fabrication de récepteurs ou de modules de sécurité, à l’exportation d’équipements, de technologies ou de logiciels conçus pour ce service.
 Selon le Conseil d’État, un tel régime d’autorisation préalable et de contrôle est indispensable.
-Nous ne pouvons que respecter cet avis et donc adopter l’article vingt-deux.
+Nous ne pouvons que respecter cet avis et donc adopter l’article vingt-deux.
 Soulignons enfin que la France a beaucoup investi dans le programme Galileo, tant sur le plan financier que sur le plan scientifique.
-Aujourd’hui, notre pays y contribue pour près de vingt pourcent.
+Aujourd’hui, notre pays y contribue pour près de vingt pourcent.
 Oui, nous avons la chance de disposer de scientifiques reconnus et d’entreprises de pointe dans le secteur de l’aérospatial et de la défense.
 Conservons et protégeons cette richesse nationale et européenne, qui est un véritable succès.
 (Applaudissements sur les bancs du groupe REM.) La parole est à Madame la ministre auprès du ministre d’État, ministre de l’intérieur.
@@ -175,137 +175,137 @@ Le sujet des collections de matériel de guerre a été soulevé, mais le projet
 Les collectionneurs de ces matériels ne sont pas concernés, et la situation reste en l’état.
 La discussion générale est close.
 J’appelle maintenant, dans le texte de la commission, les articles du projet de loi.
-La parole est à Madame Marie-France Lorho, pour soutenir l’amendement de suppression numéro trente-cinq.
+La parole est à Madame Marie-France Lorho, pour soutenir l’amendement de suppression numéro trente-cinq.
 Je comprends que le dépôt d’un amendement de suppression vous étonne.
 Cependant, je n’ai pas vu d’autre solution, eu égard à la réflexion qui préside à l’ensemble du texte.
 Je veux bien que nous accordions la confiance la plus totale à l’autorégulation, mais j’y vois un procédé dangereux.
 Il pose tout d’abord un principe d’identité entre des acteurs d’État et des prestataires de services au sujet de la transposition d’une directive qui veut nous préserver des dangers majeurs de notre temps.
 Or la nationalité des prestataires, leurs convictions, leurs accointances ne peuvent pas être soumis aux mêmes exigences que celles qui s’imposent aux opérateurs du service public.
 Si l’on ajoute le motif, compréhensible à certains égards, d’intérêts économiques, le législateur se place face à des situations de contentieux difficiles.
-Quand doit-on alerter ? Lorsqu’il s’agit d’un acteur essentiel, comment considérer que cette alerte ne le met pas lui-même en danger ? Tout en comprenant l’objectif de l’article, je pense qu’il devrait être encore plus précis.
+Quand doit-on alerter ? Lorsqu’il s’agit d’un acteur essentiel, comment considérer que cette alerte ne le met pas lui-même en danger ? Tout en comprenant l’objectif de l’article, je pense qu’il devrait être encore plus précis.
 La parole est à Monsieur Christophe Euzet, rapporteur de la commission des lois constitutionnelles, de la législation et de l’administration générale de la République, pour donner l’avis de la commission.
-Sur le fond, il paraît normal de prendre en considération des intérêts économiques lorsqu’il s’agit d’informer le public ; mais informer le public, c’est bien prendre en considération les intérêts des citoyens.
+Sur le fond, il paraît normal de prendre en considération des intérêts économiques lorsqu’il s’agit d’informer le public ; mais informer le public, c’est bien prendre en considération les intérêts des citoyens.
 La commission a donc émis un avis défavorable.
 La parole est à Monsieur le secrétaire d’État chargé du numérique, pour donner l’avis du Gouvernement.
-Il est le même que celui du rapporteur : défavorable.
+Il est le même que celui du rapporteur : défavorable.
 La parole est à Madame Marie-France Lorho, inscrite sur l’article.
-Cet article met en relief deux des défauts du texte : l’imprécision des définitions et la faible capacité du Parlement à contrôler l’exécutif.
+Cet article met en relief deux des défauts du texte : l’imprécision des définitions et la faible capacité du Parlement à contrôler l’exécutif.
 Nous en avons déjà largement traité dans la discussion générale, mais il convient d’y revenir.
-La définition des «opérateurs de services essentiels» est très vague.
-Tout cela, encore une fois, ne manque-t-il pas de précision ? La parole est à Monsieur Jean Lassalle.
+La définition des « opérateurs de services essentiels » est très vague.
+Tout cela, encore une fois, ne manque-t-il pas de précision ? La parole est à Monsieur Jean Lassalle.
 Je découvre que l’on parle ce soir de ce sujet qui me tient à cœur depuis longtemps.
 Lorsque j’ai effectué mon tour de France, j’ai été très surpris de découvrir la quantité d’armes dont disposent les Français.
 Certes, me direz-vous, dans les banlieues que je parcourais nuitamment, entre une heure et cinq heures du matin, cela n’est guère étonnant.
-J’ai entendu là un sentiment de peur, d’attente ; chacun s’était équipé.
+J’ai entendu là un sentiment de peur, d’attente ; chacun s’était équipé.
 Je n’avais rien vu de tel dans ma jeunesse, ni au début de mon âge adulte – un moment assez indéfini.
 (Rires.) Que ce soit par le biais du droit européen ou autrement, c’est un sujet important.
 Il y a beaucoup d’armes en France.
 L’an dernier, il y avait une rupture de stock de chevrotines.
 (Exclamations et sourires sur les bancs du groupe REM.) Un de mes amis voulait en acheter, impossible… Nous vivons dans un contexte très tendu.
-Je suis saisi de deux amendements, numéros cinquante-huit et soixante-huit pouvant être soumis à une discussion commune.
-La parole est à Monsieur Michel Larive, pour soutenir l’amendement numéro cinquante-huit.
+Je suis saisi de deux amendements, numéros cinquante-huit et soixante-huit, pouvant être soumis à une discussion commune.
+La parole est à Monsieur Michel Larive, pour soutenir l’amendement numéro cinquante-huit.
 Cet amendement vise à renforcer la lutte contre les cyberattaques en protégeant spécifiquement certains services essentiels.
 Imaginez qu’au cours d’une opération à cœur ouvert les ordinateurs cessent de fonctionner et provoquent un dysfonctionnement de l’appareil permettant de maintenir le rythme cardiaque.
 Imaginez une agence de Pôle emploi piratée qui voit toute sa base de données effacée ou, plus insidieusement, partiellement modifiée, les données ne permettant plus l’identification des ayants droit.
 Afin de protéger le bien-être collectif, nous proposons d’inclure explicitement ces domaines dans le projet de loi – dans le strict respect de la répartition des compétences entre le pouvoir exécutif et le pouvoir législatif.
-(Applaudissements sur les bancs du groupe FI.) La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-huit.
+(Applaudissements sur les bancs du groupe FI.) La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-huit.
 Cet amendement va dans le même sens.
 Il vise à préciser davantage dans la loi la nature des services soumis aux règles de sécurité nécessaires à la protection des réseaux et systèmes d’information qui seront désignés par le Premier ministre.
 L’amendement propose notamment de viser clairement les hôpitaux ou les établissements scolaires, ce que ne fait pas la rédaction actuelle.
 Toutefois, nous ne souhaitons pas non plus une rédaction trop stricte de l’article.
 C’est tout l’objet de cet amendement qui utilise l’adverbe « notamment ».
-Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis de la commission ? Avis défavorable.
 L’hypothèse du virus affectant les ordinateurs de l’Assemblée nationale et permettant l’adoption automatique de tous les amendements de la France insoumise est en effet effrayante.
 Mais vous l’aviez déjà évoquée en commission, mot pour mot.
-Je vous renvoie donc à nouveau à l’annexe II de la directive dite «NIS».
-Cette annexe prévoit tous les domaines concernés ; les hôpitaux et les cliniques y figurent.
+Je vous renvoie donc à nouveau à l’annexe II de la directive dite « NIS ».
+Cette annexe prévoit tous les domaines concernés ; les hôpitaux et les cliniques y figurent.
 Le Gouvernement s’est par ailleurs engagé, au cours de nos travaux préparatoires, à élargir le champ d’application de la directive, par exemple à la grande distribution ou au tourisme.
-Quel est l’avis du Gouvernement ? Les secteurs dans lesquels ces dispositions s’appliqueront seront en effet définis par le Gouvernement.
-L’annexe II cite en particulier l’énergie, le transport, les banques, la santé, l’eau, les infrastructures numériques… Nous nous sommes, le rapporteur l’a dit, engagés à aller au-delà.
+Quel est l’avis du Gouvernement ? Les secteurs dans lesquels ces dispositions s’appliqueront seront en effet définis par le Gouvernement.
+L’annexe II cite en particulier l’énergie, le transport, les banques, la santé, l’eau, les infrastructures numériques… Nous nous sommes, le rapporteur l’a dit, engagés à aller au-delà.
 Le risque n’a jamais été aussi important, et nous partageons vos inquiétudes.
 C’est un sujet qui doit être considéré largement.
 Je redis également que le Gouvernement informera régulièrement le Parlement au cours de son travail sur les différents décrets.
 Avis défavorable, donc.
-La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingt-un.
+La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingt-un.
 Or vous transposez cette directive de telle façon que tout est entre les mains du Premier ministre.
 Parce que nous vivons encore en démocratie, je souhaite que cette compétence soit partagée avec un organisme compétent et surtout indépendant.
 Parmi ceux qui existent, j’ai pensé à l’ARCEP, l’Autorité de régulation des communications électroniques et des postes.
 Peut-être d’autres seraient-ils plus adaptés.
 Il ne s’agit pas de donner une impression de démocratie, mais de protéger les Français.
-Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis de la commission ? Avis défavorable.
 Les réseaux et services de communications électroniques publics sont expressément exclus du champ d’application de la directive.
 On est donc ici hors sujet.
 J’ai de plus l’impression qu’il y a dans l’amendement une confusion entre l’ARCEP et l’ANSSI.
-Quel est l’avis du Gouvernement ? Avis défavorable.
+Quel est l’avis du Gouvernement ? Avis défavorable.
 Nous ne comprenons par ailleurs pas de la même façon le rôle de l’ARCEP.
-La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingt-six.
+La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingt-six.
 Dans la logique de mes amendements précédents, j’estime que les Français doivent être certains que leur sécurité est vraiment assurée, et que le Premier ministre contrôle vraiment avec attention les opérateurs.
-Je demande donc que les parlementaires produisent, tous les deux ans, un rapport sur les failles de sécurité ; ils diraient ainsi aux Français s’ils sont, ou non, protégés.
-La sécurité des réseaux et systèmes d’information ne doit pas être considérée avec légèreté ; ce serait risquer les pires catastrophes.
+Je demande donc que les parlementaires produisent, tous les deux ans, un rapport sur les failles de sécurité ; ils diraient ainsi aux Français s’ils sont, ou non, protégés.
+La sécurité des réseaux et systèmes d’information ne doit pas être considérée avec légèreté ; ce serait risquer les pires catastrophes.
 La sécurité doit être assurée, et je serai très vigilante sur ce point.
-Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis de la commission ? Avis défavorable.
 La loi fixe le cadre mais c’est au pouvoir réglementaire qu’il reviendra d’adopter cette liste d’opérateurs.
-Quel est l’avis du Gouvernement ? La désignation des opérateurs est une décision administrative, prise en application de la loi.
+Quel est l’avis du Gouvernement ? La désignation des opérateurs est une décision administrative, prise en application de la loi.
 Le Gouvernement jouera pleinement son rôle.
 Je redis néanmoins que nous serons, que je serai toujours très disponible pour répondre aux questions des parlementaires, comme nous l’avons déjà fait sur de nombreux sujets, en particulier ceux ayant trait à la sécurité et au secret.
 Avis défavorable.
-La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingt-deux.
-Le projet de loi voudrait que seul le Premier ministre «fixe les règles de sécurité nécessaires à la protection des réseaux et systèmes d’information mentionnés au premier alinéa de l’article cinq».
-Cette mesure est à mon sens contraire à l’équilibre même des pouvoirs et au rôle de contrôle du Parlement sur le Gouvernement ; elle pourrait mettre en danger la sécurité et la liberté des Français.
-Quel est l’avis de la commission ? Avis défavorable, pour les mêmes raisons que précédemment.
+La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingt-deux.
+Le projet de loi voudrait que seul le Premier ministre « fixe les règles de sécurité nécessaires à la protection des réseaux et systèmes d’information mentionnés au premier alinéa de l’article cinq ».
+Cette mesure est à mon sens contraire à l’équilibre même des pouvoirs et au rôle de contrôle du Parlement sur le Gouvernement ; elle pourrait mettre en danger la sécurité et la liberté des Français.
+Quel est l’avis de la commission ? Avis défavorable, pour les mêmes raisons que précédemment.
 Je le redis, la loi fixe un cadre mais il revient au pouvoir réglementaire de fixer les règles plus précisément.
-Quel est l’avis du Gouvernement ? Avis défavorable.
+Quel est l’avis du Gouvernement ? Avis défavorable.
 Le Gouvernement sera toujours disponible, et le Parlement dispose déjà de tous les outils nécessaires pour contrôler l’exécutif.
-La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro trente-six.
+La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro trente-six.
 On dirait presque que l’exercice du contrôle parlementaire sur cette question ne serait pas souhaitable.
 Je propose donc d’inscrire dans le texte que la sécurité des dispositifs et des services est certifiée par une commission ad hoc.
 Ce serait une porte ouverte au contrôle parlementaire.
-Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis de la commission ? Avis défavorable.
 Je comprends votre préoccupation.
 Mais un projet de règlement européen, qui sera donc d’application directe, est en cours de discussion.
 Votre proposition est prématurée.
-Quel est l’avis du Gouvernement ? Avis défavorable.
+Quel est l’avis du Gouvernement ? Avis défavorable.
 La question de la certification est fondamentale, et c’est pourquoi elle fait depuis plusieurs mois l’objet d’une négociation européenne dans laquelle le Gouvernement français joue un rôle essentiel.
 Ce règlement permettra de créer un standard européen de certification, et ainsi d’accroître le niveau de sécurité global, mais aussi le niveau de confiance global dans ces certifications.
-La parole est à Madame Caroline Fiat, pour soutenir l’amendement numéro cinquante-sept.
+La parole est à Madame Caroline Fiat, pour soutenir l’amendement numéro cinquante-sept.
 L’étude d’impact n’évalue pas précisément le coût supporté par les opérateurs désignés par le Premier ministre, quel que soit leur statut.
 Nos inquiétudes portent essentiellement sur les investissements qui seraient demandés à des organismes à but non lucratif, notamment des organisations non gouvernementales, s’ils sont qualifiés d’opérateurs de services essentiels.
-Les Restos du cœur, par exemple, ne pourraient-ils pas être considérés comme un opérateur de services essentiels ? Une paralysie de leur système informatique aurait des conséquences dramatiques sur leur organisation et sur la fourniture de repas à de nombreuses personnes démunies.
-De même, qu’en est-il de la gestion du service public de l’accueil des demandeurs d’asile et d’hébergement, qui est essentiellement confié au secteur associatif ? Les exemples sont multiples et concernent de nombreux domaines.
-Est-ce vraiment à ces organismes non lucratifs de supporter de tels coûts, avec tous les risques que cela comporte pour leur activité ? Les ONG ne peuvent pas nécessairement mobiliser les mêmes moyens financiers que des entreprises.
-Le choix d’un délai aussi court est pleinement  justifié, puisqu’en vertu de l’article cinq de la directive, les opérateurs de services essentiels devront être identifiés au plus tard le neuf novembre deux mille dix-huit.
-Ce coût a déjà été évalué pour les organismes d’importance vitale : il s’échelonne entre un et deux millions d’euros par opérateur et par an.
+Les Restos du cœur, par exemple, ne pourraient-ils pas être considérés comme un opérateur de services essentiels ? Une paralysie de leur système informatique aurait des conséquences dramatiques sur leur organisation et sur la fourniture de repas à de nombreuses personnes démunies.
+De même, qu’en est-il de la gestion du service public de l’accueil des demandeurs d’asile et d’hébergement, qui est essentiellement confié au secteur associatif ? Les exemples sont multiples et concernent de nombreux domaines.
+Est-ce vraiment à ces organismes non lucratifs de supporter de tels coûts, avec tous les risques que cela comporte pour leur activité ? Les ONG ne peuvent pas nécessairement mobiliser les mêmes moyens financiers que des entreprises.
+Le choix d’un délai aussi court est pleinement  justifié, puisqu’en vertu de l’article cinq de la directive, les opérateurs de services essentiels devront être identifiés au plus tard le neuf novembre deux mille dix-huit.
+Ce coût a déjà été évalué pour les organismes d’importance vitale : il s’échelonne entre un et deux millions d’euros par opérateur et par an.
 Mais il sera nécessairement moins élevé pour les opérateurs de services essentiels, à qui de moindres contraintes seront imposées.
 La commission émet donc un avis défavorable.
-Quel est l’avis du Gouvernement ? Les textes réglementaires fixeront les obligations qui seront imposées aux opérateurs.
+Quel est l’avis du Gouvernement ? Les textes réglementaires fixeront les obligations qui seront imposées aux opérateurs.
 La nature de ces dernières permettra d’évaluer les coûts.
 C’est pourquoi une autre étude d’impact sera établie en fonction des publics visés et des exigences fixées.
 Mais sachez que votre inquiétude est prise en compte.
 Comme la sécurité physique, la sécurité numérique devient essentielle.
 C’est la raison pour laquelle il est important de faire appliquer certaines règles et d’en mesurer les conséquences pour chacun.
 Avis défavorable.
-La parole est à Monsieur Alexis Corbière, pour soutenir l’amendement numéro cinquante-six.
+La parole est à Monsieur Alexis Corbière, pour soutenir l’amendement numéro cinquante-six.
 L’amendement vise à renforcer les pouvoirs du Parlement.
 Vous y serez donc sans doute favorables.
 Les opérateurs de services essentiels, publics et privés, fournissent des services essentiels au fonctionnement de la société et de l’économie.
-Ils interviennent dans des secteurs variés mettant en cause la souveraineté : l’énergie, les transports, les banques, les infrastructures de marchés financiers, la santé, l’eau potable, etc.
+Ils interviennent dans des secteurs variés mettant en cause la souveraineté : l’énergie, les transports, les banques, les infrastructures de marchés financiers, la santé, l’eau potable, etc.
 Le projet de loi prévoit d’obliger les OSE à déclarer à l’ANSSI tout incident susceptible de menacer les réseaux et les systèmes d’information.
 On touche là aux questions de cybersécurité, qui requièrent une certaine confidentialité.
 Certes, l’autorité administrative indépendante est là pour réguler des secteurs dans lesquels l’État ne veut pas intervenir pour conserver son impartialité.
 Mais, en matière de cybersécurité, la souveraineté nationale est souvent en jeu.
 Le Parlement fixera les conditions garantissant la confidentialité dans lesquelles il est informé.
-Quel est l’avis de la commission ? Je suis sensible, comme vous, cher collègue, à la nécessité d’informer le Parlement.
+Quel est l’avis de la commission ? Je suis sensible, comme vous, cher collègue, à la nécessité d’informer le Parlement.
 Toutefois, une information systématique me semble disproportionnée, d’autant que nous pouvons auditionner l’ANSSI en tant que de besoin.
 La commission a, par conséquent, émis un avis défavorable.
-Quel est l’avis du Gouvernement ? Monsieur le député, vous savez le respect que porte ce Gouvernement à l’égard du Parlement, et celui que j’ai, à titre personnel, pour cette assemblée dans laquelle j’ai été élu.
-Ça commence mal ! On veut des preuves ! Vous connaissez la nécessité absolue d’entourer de confidentialité la transmission des actes individuels.
+Quel est l’avis du Gouvernement ? Monsieur le député, vous savez le respect que porte ce Gouvernement à l’égard du Parlement, et celui que j’ai, à titre personnel, pour cette assemblée dans laquelle j’ai été élu.
+Ça commence mal ! On veut des preuves ! Vous connaissez la nécessité absolue d’entourer de confidentialité la transmission des actes individuels.
 Il faut donc disposer de canaux adéquats pour préserver cette confidentialité.
-Second argument, qui, à mes yeux, est le plus important : l’information sur chaque cas individuel privera le Parlement d’un regard global sur la situation et sur les risques.
+Second argument, qui, à mes yeux, est le plus important : l’information sur chaque cas individuel privera le Parlement d’un regard global sur la situation et sur les risques.
 Je vous propose plutôt – cela me paraît plus intéressant – d’instituer un dialogue et un partage d’informations et d’en définir le rythme – semestriel ou annuel.
 Sur d’autres sujets liés à la sécurité et au secret, nous avons su trouver les canaux pour partager les informations.
 Je suis donc opposé à une information individuelle, mais favorable à un dialogue plus général.
 Avis défavorable.
-La parole est à Monsieur Fabien Di Filippo.
+La parole est à Monsieur Fabien Di Filippo.
 Cet amendement est tout à fait intéressant.
 Aujourd’hui, si nous ne pratiquons pas la transparence à notre niveau, ce sont des médias ou des agences extra-gouvernementales étrangères qui relaient les informations.
 Nous nous trouvons alors devant le fait accompli et nous ne savons pas comment réagir.
@@ -315,143 +315,143 @@ Il évoque une information sur les incidents, qui ne porte pas atteinte à la co
 Cet amendement est tout à fait pertinent.
 Vous n’offrez aucune garantie quant à l’information du Parlement.
 Cet amendement grave dans le marbre cette exigence et nous assure ainsi de travailler dans une totale confiance.
-Si, un jour, un problème de sécurité survenait dont vous ne souhaitez pas parler, comment s’assurer qu’il serait non pas mis sous la pile mais discuté avec nous ? Rien ne nous le garantit.
+Si, un jour, un problème de sécurité survenait dont vous ne souhaitez pas parler, comment s’assurer qu’il serait non pas mis sous la pile mais discuté avec nous ? Rien ne nous le garantit.
 Si cet amendement est adopté, le refus d’informer le Parlement sera assimilé à un viol de la loi.
 Dès lors, chacun prendra ses responsabilités.
 À titre personnel, je soutiens l’amendement.
-(Applaudissements sur les bancs du groupe FI.) Vos sujets d’accord sont de plus en plus nombreux ! Le bloc conservateur se consolide ! La parole est à Monsieur Jean-Michel Mis.
+(Applaudissements sur les bancs du groupe FI.) Vos sujets d’accord sont de plus en plus nombreux ! Le bloc conservateur se consolide ! La parole est à Monsieur Jean-Michel Mis.
 Il faut se garder de vouloir faire porter au Parlement ses propres turpitudes.
 Chacun incident est par définition unique.
 Je ne saisis pas quel objectif vous poursuivez au travers de cet amendement.
 Le groupe REM y est donc défavorable.
 La parole est à Madame Marie-France Lorho.
 Je ne reviens pas sur le problème de la compétence exclusive du Premier ministre sur ces questions.
-Par ailleurs, j’ai déjà fait part de mes doutes sur la définition et l’encadrement des prestataires évoqués au premier alinéa de l’article trois.
+Par ailleurs, j’ai déjà fait part de mes doutes sur la définition et l’encadrement des prestataires évoqués au premier alinéa de l’article trois.
 Je continue de penser que ces deux points poseront d’immenses problèmes et que le Parlement ne facilite pas la tâche des administrations en ne codifiant pas assez, comme le Conseil d’État le souligne d’ailleurs en creux.
-Les motifs de cet amendement sont identiques à ceux des amendements présentés aux articles cinq et six.
+Les motifs de cet amendement sont identiques à ceux des amendements présentés aux articles cinq et six.
 Il ne me semble pas souhaitable que le Premier ministre détienne, entre ses seules mains, la sécurité des réseaux et des systèmes d’information des opérateurs de services essentiels.
 Afin de garantir la sécurité et de préserver la liberté de communication des Français, la responsabilité doit être exercée à plusieurs.
 Je préconise donc que le Premier ministre partage cette fonction.
-Quel est l’avis de la commission ? Ma réponse est la même que sur l’article cinq.
+Quel est l’avis de la commission ? Ma réponse est la même que sur l’article cinq.
 Avis défavorable.
-Quel est l’avis du Gouvernement ? Pour les mêmes raisons qu’à l’article cinq l’avis du Gouvernement est défavorable.
-La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingt-quatre rectifié.
+Quel est l’avis du Gouvernement ? Pour les mêmes raisons qu’à l’article cinq, l’avis du Gouvernement est défavorable.
+La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingt-quatre rectifié.
 Il est défendu.
 La parole est à Madame Marie-France Lorho.
 Il s’agit donc d’opérateurs qui jouent un rôle crucial dans notre économie ou dans notre société.
 Il convient donc de nous assurer que si ces derniers manquent à leurs obligations légales, ils s’en trouveront fort marris.
 Je crains que les sanctions ne s’avèrent trop faibles au regard de la force de frappe financière des opérateurs.
 Compte tenu des dangers encourus, nous devrions mieux nous protéger.
-Je suis saisi de deux amendements, numéros cinquante-trois et cinquante-cinq pouvant être soumis à une discussion commune.
-La parole est à Monsieur Michel Larive, pour soutenir l’amendement numéro cinquante-trois.
+Je suis saisi de deux amendements, numéros cinquante-trois et cinquante-cinq, pouvant être soumis à une discussion commune.
+La parole est à Monsieur Michel Larive, pour soutenir l’amendement numéro cinquante-trois.
 Cet amendement vise à prendre en compte la réalité du chiffre d’affaires de nombreux opérateurs concernés par cette loi.
-Les «GAFA» et les autres grandes entreprises, ainsi que leurs dirigeants, ne seront pas dissuadés par des montants d’amende aussi faibles.
-Que sera la loi sans réelle force contraignante ? Nous proposons d’augmenter le montant maximal des amendes et de le faire correspondre à un pourcentage du chiffre d’affaires.
-Le seuil de quatre pourcent du chiffre d’affaires est celui qui a été retenu par le règlement européen sur la protection des données personnelles – RGPD – de deux mille seize pour sanctionner la violation des règles dans ce domaine.
-Enfin, il nous semble important d’harmoniser les sanctions prévues par les articles neuf et quinze.
+Les « GAFA » et les autres grandes entreprises, ainsi que leurs dirigeants, ne seront pas dissuadés par des montants d’amende aussi faibles.
+Que sera la loi sans réelle force contraignante ? Nous proposons d’augmenter le montant maximal des amendes et de le faire correspondre à un pourcentage du chiffre d’affaires.
+Le seuil de quatre pourcent du chiffre d’affaires est celui qui a été retenu par le règlement européen sur la protection des données personnelles – RGPD – de deux mille seize pour sanctionner la violation des règles dans ce domaine.
+Enfin, il nous semble important d’harmoniser les sanctions prévues par les articles neuf et quinze.
 La distinction entre opérateurs de service essentiels et fournisseurs ne nous paraît pas justifier des montants différents.
-(Applaudissements sur les bancs du groupe FI.) La parole est à Madame Caroline Fiat, pour soutenir l’amendement numéro cinquante-cinq.
+(Applaudissements sur les bancs du groupe FI.) La parole est à Madame Caroline Fiat, pour soutenir l’amendement numéro cinquante-cinq.
 Il est défendu.
-Quel est l’avis de la commission ? Avis défavorable sur les deux amendements.
-S’agissant de l’amendement numéro cinquante-trois le montant des amendes a été fixé, à une échelle inférieure, par comparaison avec le régime de sanctions appliqué aux opérateurs d’importance vitale.
-Quel est l’avis du Gouvernement ? Les montants des amendes ont été fixés en relation avec ceux qui ont été prévus pour les opérateurs d’importance vitale.
+Quel est l’avis de la commission ? Avis défavorable sur les deux amendements.
+S’agissant de l’amendement numéro cinquante-trois, le montant des amendes a été fixé, à une échelle inférieure, par comparaison avec le régime de sanctions appliqué aux opérateurs d’importance vitale.
+Quel est l’avis du Gouvernement ? Les montants des amendes ont été fixés en relation avec ceux qui ont été prévus pour les opérateurs d’importance vitale.
 Vous avez mentionné, monsieur Larive, les amendes prévues dans le cadre du règlement général sur la protection des données, qui entrera en vigueur en mai prochain.
-Or les infractions définies dans le RGPD sont beaucoup plus graves que celles qui sont visées par l’article neuf.
-Dans ce cas, les montants que vous avez évoqués – jusqu’à vingt millions d’euros ou jusqu’à quatre pourcent du chiffre d’affaires mondial – pourront être appliqués.
-Pour cette raison, le Gouvernement est défavorable à l’amendement numéro cinquante-trois.
+Or les infractions définies dans le RGPD sont beaucoup plus graves que celles qui sont visées par l’article neuf.
+Dans ce cas, les montants que vous avez évoqués – jusqu’à vingt millions d’euros ou jusqu’à quatre pourcent du chiffre d’affaires mondial – pourront être appliqués.
+Pour cette raison, le Gouvernement est défavorable à l’amendement numéro cinquante-trois.
 À défaut, l’avis du Gouvernement sera défavorable.
-La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro trente-neuf.
-L’alinéa cinq de l’article onze prévoit que les dispositions de sécurité du chapitre III ne sont pas applicables aux petites entreprises, celles qui emploient moins de cinquante salariés et dont le chiffre d’affaires n’excède pas dix millions d’euros.
+La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro trente-neuf.
+L’alinéa cinq de l’article onze prévoit que les dispositions de sécurité du chapitre III ne sont pas applicables aux petites entreprises, celles qui emploient moins de cinquante salariés et dont le chiffre d’affaires n’excède pas dix millions d’euros.
 Or, dans les secteurs de pointe, les petites entreprises constituent une maille essentielle dans la chaîne des services.
-Si l’alinéa cinq était appliqué, alors les citoyens utilisant les services fournis par les entreprises concernées ne seraient pas autant protégés que les autres.
-Ne sommes-nous pas tous égaux devant la loi ? C’est pourquoi nous rejetons fermement cet alinéa et proposons de le supprimer purement et simplement.
-Quel est l’avis de la commission ? La directive qu’il s’agit de transposer prévoit que les entreprises qui emploient moins de cinquante salariés et dont le chiffre d’affaires est inférieur à dix millions d’euros ne sont pas concernées par ses dispositions.
+Si l’alinéa cinq était appliqué, alors les citoyens utilisant les services fournis par les entreprises concernées ne seraient pas autant protégés que les autres.
+Ne sommes-nous pas tous égaux devant la loi ? C’est pourquoi nous rejetons fermement cet alinéa et proposons de le supprimer purement et simplement.
+Quel est l’avis de la commission ? La directive qu’il s’agit de transposer prévoit que les entreprises qui emploient moins de cinquante salariés et dont le chiffre d’affaires est inférieur à dix millions d’euros ne sont pas concernées par ses dispositions.
 L’amendement sort donc du champ d’application de la directive.
 Avis défavorable.
-Quel est l’avis du Gouvernement ? Il importe de conserver l’alinéa cinq qui participe de l’équilibre général du texte.
+Quel est l’avis du Gouvernement ? Il importe de conserver l’alinéa cinq, qui participe de l’équilibre général du texte.
 Le supprimer irait à l’encontre de la directive.
 S’agissant des objectifs que vous avez évoqués, madame Lorho, le RGPD permettra de protéger les données personnelles des citoyens sur tout le territoire européen, quelle que soit la taille de l’entreprise, grâce à des mesures proportionnées.
 Il répondra aux inquiétudes que vous venez d’exprimer.
 Avis défavorable.
-La parole est à Madame Muriel Ressiguier, pour soutenir l’amendement numéro cinquante-deux.
+La parole est à Madame Muriel Ressiguier, pour soutenir l’amendement numéro cinquante-deux.
 Les critères choisis ne nous semblent adaptés ni à la réalité du numérique ni aux enjeux de la cybersécurité.
-D’une part, le chiffre de cinquante salariés est emblématique : de nombreuses entreprises ne veulent pas dépasser ce seuil, car cela les obligerait à disposer d’instances représentatives du personnel.
-D’autre part, il existe aujourd’hui un label «France Cybersecurity», qui a été attribué à dix-sept sociétés françaises en janvier deux mille quinze Emmanuel Macron étant alors ministre de l’économie, de l’industrie et du numérique.
+D’une part, le chiffre de cinquante salariés est emblématique : de nombreuses entreprises ne veulent pas dépasser ce seuil, car cela les obligerait à disposer d’instances représentatives du personnel.
+D’autre part, il existe aujourd’hui un label « France Cybersecurity », qui a été attribué à dix-sept sociétés françaises en janvier deux mille quinze, Emmanuel Macron étant alors ministre de l’économie, de l’industrie et du numérique.
 Or, parmi ces sociétés labellisées, on trouve des entreprises qui emploient moins de cinquante salariés.
-Soyons cohérents : allons jusqu’au bout de la démarche et permettons à toutes les entreprises de bénéficier de l’expertise de l’ANSSI dans un cadre commun.
-L’amendement vise à compléter l’alinéa cinq afin que la liste des secteurs de services numériques exemptés soit précisée par un arrêté interministériel, après avis des instances expertes que sont l’ANSSI et l’ARCEP.
+Soyons cohérents : allons jusqu’au bout de la démarche et permettons à toutes les entreprises de bénéficier de l’expertise de l’ANSSI dans un cadre commun.
+L’amendement vise à compléter l’alinéa cinq afin que la liste des secteurs de services numériques exemptés soit précisée par un arrêté interministériel, après avis des instances expertes que sont l’ANSSI et l’ARCEP.
 Cette liste pourrait être établie à partir de la nomenclature d’activités française de l’Institut national de la statistique et des études économiques.
-Quel est l’avis de la commission ? Sur la forme, même argumentation que pour l’amendement précédent.
+Quel est l’avis de la commission ? Sur la forme, même argumentation que pour l’amendement précédent.
 Sur le fond, avis défavorable.
-Quel est l’avis du Gouvernement ? Avis défavorable, pour les mêmes raisons.
-La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro quarante.
+Quel est l’avis du Gouvernement ? Avis défavorable, pour les mêmes raisons.
+La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro quarante.
 Il s’agit d’une question de vocabulaire.
 Selon moi, nous devons être attentifs à tous les événements qui concernent les fournisseurs de services numériques.
 Le moindre événement, aussi petit soit-il, qui pourrait avoir un impact sur la fourniture de ces services doit être surveillé à tout prix.
-Ne prenons pas à la légère les enjeux du numérique : surveillons sincèrement les GAFA et leurs dérives, d’autant plus qu’ils ont su nous rendre dépendants de leurs services et qu’ils détiennent nombre de données importantes sur nos citoyens.
+Ne prenons pas à la légère les enjeux du numérique : surveillons sincèrement les GAFA et leurs dérives, d’autant plus qu’ils ont su nous rendre dépendants de leurs services et qu’ils détiennent nombre de données importantes sur nos citoyens.
 Pour éviter tout problème, le moindre incident doit être rapporté à l’ANSSI.
-C’est pourquoi nous proposons de remplacer les termes «un impact significatif» par «une incidence».
-C’est, je le répète, crucial : ne jouons pas avec la sécurité du numérique.
-Quel est l’avis de la commission ? Il s’agit effectivement d’un débat sémantique, avec des nuances très sensibles.
-Si vous aviez proposé, madame Lorho, de substituer «une incidence significative» à «un impact significatif», nous aurions pu en discuter.
-Mais, en proposant d’écarter le qualificatif «significatif», vous nous exposez à un risque de sous-transposition.
+C’est pourquoi nous proposons de remplacer les termes « un impact significatif » par « une incidence ».
+C’est, je le répète, crucial : ne jouons pas avec la sécurité du numérique.
+Quel est l’avis de la commission ? Il s’agit effectivement d’un débat sémantique, avec des nuances très sensibles.
+Si vous aviez proposé, madame Lorho, de substituer « une incidence significative » à « un impact significatif », nous aurions pu en discuter.
+Mais, en proposant d’écarter le qualificatif « significatif », vous nous exposez à un risque de sous-transposition.
 Avis défavorable.
-Quel est l’avis du Gouvernement ? N’oublions pas que l’un des enjeux est le caractère opérationnel de la directive, notamment la capacité des services du Premier ministre et de l’ANSSI à l’appliquer et à effectuer tous les contrôles nécessaires.
-Si nous supprimions l’adjectif «significatif», l’ANSSI serait submergée par les demandes et les signalements, ce qui nous empêcherait d’atteindre notre objectif, qui est d’augmenter le niveau général de sécurité numérique.
+Quel est l’avis du Gouvernement ? N’oublions pas que l’un des enjeux est le caractère opérationnel de la directive, notamment la capacité des services du Premier ministre et de l’ANSSI à l’appliquer et à effectuer tous les contrôles nécessaires.
+Si nous supprimions l’adjectif « significatif », l’ANSSI serait submergée par les demandes et les signalements, ce qui nous empêcherait d’atteindre notre objectif, qui est d’augmenter le niveau général de sécurité numérique.
 L’avis du Gouvernement est donc défavorable.
-La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro quarante et un.
-Si un fournisseur de services numériques ne satisfait pas à l’une des obligations prévues aux articles douze ou treize il doit être soumis à des contrôles destinés à vérifier le niveau de sécurité de ses réseaux et le respect des obligations.
-Si le Premier ministre est au courant de tels agissements, il a le devoir de mettre en place ces contrôles : cela doit être non pas une possibilité, mais bien une obligation.
+La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro quarante et un.
+Si un fournisseur de services numériques ne satisfait pas à l’une des obligations prévues aux articles douze ou treize, il doit être soumis à des contrôles destinés à vérifier le niveau de sécurité de ses réseaux et le respect des obligations.
+Si le Premier ministre est au courant de tels agissements, il a le devoir de mettre en place ces contrôles : cela doit être non pas une possibilité, mais bien une obligation.
 Il y va de la sécurité des utilisateurs et du service numérique concerné.
 Tout fournisseur venant d’un territoire non européen doit respecter la loi du territoire dans lequel il offre ses services numériques.
 Nul n’est censé ignorer la loi.
 Qui plus est, nul ne doit pouvoir l’enfreindre.
 Une prévention et un contrôle strict sont nécessaires de la part des autorités compétentes à l’égard de ceux qui outrepassent la loi.
-Quel est l’avis de la commission ? Nous comprenons votre préoccupation, madame Lorho, mais il semble plus raisonnable de laisser une marge d’appréciation à l’autorité de contrôle.
+Quel est l’avis de la commission ? Nous comprenons votre préoccupation, madame Lorho, mais il semble plus raisonnable de laisser une marge d’appréciation à l’autorité de contrôle.
 C’est pourquoi la commission émet un avis défavorable.
-Quel est l’avis du Gouvernement ? Il est essentiel que le Premier ministre conserve sa capacité à décider en fonction des informations dont il dispose.
-Encore une fois, l’enjeu est le caractère opérationnel : il faut être capable d’effectuer ces contrôles avec tous les moyens nécessaires chaque fois que les conditions le requièrent.
-Je suis saisi de deux amendements, numéros cinquante et un et cinquante-quatre pouvant être soumis à une discussion commune.
-La parole est à Monsieur Alexis Corbière, pour soutenir l’amendement numéro cinquante et un.
+Quel est l’avis du Gouvernement ? Il est essentiel que le Premier ministre conserve sa capacité à décider en fonction des informations dont il dispose.
+Encore une fois, l’enjeu est le caractère opérationnel : il faut être capable d’effectuer ces contrôles avec tous les moyens nécessaires chaque fois que les conditions le requièrent.
+Je suis saisi de deux amendements, numéros cinquante et un et cinquante-quatre, pouvant être soumis à une discussion commune.
+La parole est à Monsieur Alexis Corbière, pour soutenir l’amendement numéro cinquante et un.
 Les fournisseurs de services numériques, notamment les GAFA, ont acquis un rôle prépondérant dans la gestion des flux financiers et des flux d’information.
 Si des brèches de sécurité existent dans leurs réseaux et systèmes d’information, ils ont un impact sur la nation tout entière.
-S’élevant à huit cent cinquante milliards de dollars, la capitalisation boursière d’Apple est, vous le savez, la plus grosse de l’histoire.
+S’élevant à huit cent cinquante milliards de dollars, la capitalisation boursière d’Apple est, vous le savez, la plus grosse de l’histoire.
 Je pourrais donner d’autres exemples.
 Nous proposons d’établir une échelle modulable de sanctions pécuniaires réellement dissuasives pour ces groupes.
-Nous suggérons également une harmonisation des sanctions prévues aux articles neuf et quinze car la distinction entre opérateurs de services essentiels et fournisseurs de services numériques ne nous paraît pas pertinente pour justifier les écarts de montants prévus.
-La parole est à Monsieur Michel Larive, pour soutenir l’amendement numéro cinquante-quatre.
+Nous suggérons également une harmonisation des sanctions prévues aux articles neuf et quinze, car la distinction entre opérateurs de services essentiels et fournisseurs de services numériques ne nous paraît pas pertinente pour justifier les écarts de montants prévus.
+La parole est à Monsieur Michel Larive, pour soutenir l’amendement numéro cinquante-quatre.
 Tout d’abord, il nous paraît fondamental que les amendes prévues en cas de méconnaissance des obligations en matière de cybersécurité ne soient pas uniquement acquittées par les dirigeants des opérateurs concernés, mais aussi par les opérateurs eux-mêmes.
-En effet, de même que les «dirigeants», les «fournisseurs» doivent être responsabilisés, en tant qu’entité collective.
-Très bien ! Quel est l’avis de la commission sur chacun des amendements numéros cinquante et un et cinquante-quatre ? Des amendements analogues ont déjà été examinés lorsqu’il a été question des opérateurs de services essentiels.
+En effet, de même que les « dirigeants », les « fournisseurs » doivent être responsabilisés, en tant qu’entité collective.
+Très bien ! Quel est l’avis de la commission sur chacun des amendements numéros cinquante et un et cinquante-quatre ? Des amendements analogues ont déjà été examinés lorsqu’il a été question des opérateurs de services essentiels.
 L’argumentation reste la même.
 Avis défavorable sur les deux amendements.
-Quel est l’avis du Gouvernement ? Je rappelle les arguments que nous avons exposés précédemment : le RGPD introduira une véritable révolution en ce qui concerne la façon d’envisager la responsabilité des grands opérateurs de données à travers le territoire.
-L’échelle de sanctions que vous souhaitez établir est prévue par ce règlement lorsque les données personnelles des citoyens seront en jeu – je sais que ce sujet est très important pour vous.
-L’avis du Gouvernement est donc défavorable sur l’amendement numéro cinquante et un.
-Concernant l’amendement numéro cinquante-quatre je renvoie là aussi au raisonnement que la commission et le Gouvernement ont développé précédemment.
+Quel est l’avis du Gouvernement ? Je rappelle les arguments que nous avons exposés précédemment : le RGPD introduira une véritable révolution en ce qui concerne la façon d’envisager la responsabilité des grands opérateurs de données à travers le territoire.
+L’échelle de sanctions que vous souhaitez établir est prévue par ce règlement lorsque les données personnelles des citoyens seront en jeu – je sais que ce sujet est très important pour vous.
+L’avis du Gouvernement est donc défavorable sur l’amendement numéro cinquante et un.
+Concernant l’amendement numéro cinquante-quatre, je renvoie là aussi au raisonnement que la commission et le Gouvernement ont développé précédemment.
 Avis défavorable.
 Nous en venons à des amendements portant articles additionnels après l’article quinze.
-La parole est à Madame Caroline Fiat, pour soutenir l’amendement numéro quarante-sept.
+La parole est à Madame Caroline Fiat, pour soutenir l’amendement numéro quarante-sept.
 Par cet amendement, nous souhaitons utilement soutenir les efforts de renforcement de la cybersécurité en France.
 Alors même que l’informatique est devenue structurante dans et pour le fonctionnement de nombreux services publics, administrations, entreprises et associations, les vulnérabilités de sécurité informatique sont devenues d’autant plus nombreuses.
 S’est ainsi développée une activité pouvant être à la fois lucrative ou non lucrative, celle des découvreurs de failles ou chasseurs de vulnérabilités de sécurité.
 Un bug bounty ou prime de dysfonctionnement est une récompense qu’une entreprise peut offrir à tous ceux qui trouvent des failles de sécurité dans un périmètre donné.
 Nous proposons que le premier statut juridique de chasseur de failles soit enregistré et autorisé par l’Agence nationale de sécurité des systèmes d’information, l’ANSSI.
 Nous vous serions donc reconnaissants de ne pas être hypocrites, et de ne pas tordre le droit à des fins politiciennes.
-Quel est l’avis de la commission ? Nous avons déjà eu ce débat en commission, où nous avons évacué la question en soulevant un problème de forme.
+Quel est l’avis de la commission ? Nous avons déjà eu ce débat en commission, où nous avons évacué la question en soulevant un problème de forme.
 L’amendement sort effectivement du domaine de la directive à transposer.
 Il n’en demeure pas moins que vous ouvrez un débat dont l’intérêt est manifeste.
 Je l’avais signalé.
 Si l’on veut développer ce sujet, on peut évoquer deux types de considérations.
 Les entreprises gardent la possibilité d’embaucher, par voie contractuelle, des white hats, c’est-à-dire des hackers blancs, pour leur demander de tester la vulnérabilité de leur système sans qu’ils s’exposent à des sanctions pénales.
-Pour vous rassurer encore davantage sur le fond, j’ajoute que le dispositif législatif français a évolué avec l’adoption, en octobre deux mille seize de la loi pour une République numérique.
+Pour vous rassurer encore davantage sur le fond, j’ajoute que le dispositif législatif français a évolué avec l’adoption, en octobre deux mille seize, de la loi pour une République numérique.
 Celle-ci dispose que, si l’on détecte soi-même une faille dans un système – même lorsqu’on y reste un moment – et que l’on en rend compte de bonne foi à l’autorité, on n’encourt aucune sanction pénale.
 En somme, indépendamment de toute considération de forme, l’amendement est satisfait sur le fond.
 La commission émet, par conséquent, un avis défavorable.
 Ce signalement, formalisé par l’article quarante-sept de la loi pour une République numérique, transposé depuis, permet de faire remonter régulièrement l’existence des failles, ce qui a amélioré la protection de nos systèmes.
 Encore une fois, notre seul objectif est l’augmentation générale du niveau de sécurité numérique.
 C’est pourquoi le Gouvernement, qui, pour des raisons de forme, émet un avis défavorable sur l’amendement, sera votre interlocuteur si vous souhaitez poursuivre cette discussion au cours des prochains mois.
-La parole est à Monsieur Loïc Prud’homme, pour soutenir l’amendement numéro quarante-huit.
+La parole est à Monsieur Loïc Prud’homme, pour soutenir l’amendement numéro quarante-huit.
 Monsieur le secrétaire d’État, puisque vous nous invitez à poursuivre la discussion sur les bug bounty, je reviens à la charge.
 Comme le rapporteur, vous avez répondu à mon collègue sur les white hats, salariés d’entreprises ou citoyens bénévoles, qui trouveraient des failles.
 Vous l’avez reconnu, ce serait une manière innovante d’encourager et de mettre à contribution les nombreuses personnes bénévoles qui, chaque jour, pourraient contribuer à renforcer notre système, en les récompensant pour leur travail.
@@ -462,20 +462,20 @@ Enfin, Monsieur le rapporteur a reconnu que, sur le principe, il s’était mont
 Au regard du droit et de la Constitution, l’amendement a un lien avec la directive à transposer.
 Sur le plan constitutionnel, il ne peut donc pas être attaqué pour non-conformité avec l’objet de la directive.
 Au reste, le Parlement n’a pas à s’octroyer les compétences du Conseil constitutionnel, qui, le cas échéant, pourrait censurer la disposition.
-(Applaudissements sur les bancs du groupe FI.) Quel est l’avis de la commission ? Même avis défavorable que sur l’amendement précédent.
-Prononcer ne suffit pas ! Aujourd’hui, ce statut existe.
+(Applaudissements sur les bancs du groupe FI.) Quel est l’avis de la commission ? Même avis défavorable que sur l’amendement précédent.
+Prononcer ne suffit pas ! Aujourd’hui, ce statut existe.
 Si vous estimez qu’il ne protège pas suffisamment les lanceurs d’alerte, il faudra l’évaluer.
 Je suis prêt à en discuter, mais je répète que la question excède le cadre du texte en discussion.
 Avis défavorable.
-La parole est à Madame Caroline Fiat, pour soutenir l’amendement numéro cinquante.
-Il est défendu ! Il est défendu.
-(Applaudissements sur les bancs du groupe LR et sur plusieurs bancs du groupe REM.) Quel est l’avis de la commission ? Avis défavorable.
-Quel est l’avis du Gouvernement ? L’amendement, brillamment défendu, sort largement du champ de la transposition.
-En revanche, le Premier ministre a bien commandé, en juillet deux mille dix-sept une revue stratégique de cyberdéfense.
+La parole est à Madame Caroline Fiat, pour soutenir l’amendement numéro cinquante.
+Il est défendu ! Il est défendu.
+(Applaudissements sur les bancs du groupe LR et sur plusieurs bancs du groupe REM.) Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis du Gouvernement ? L’amendement, brillamment défendu, sort largement du champ de la transposition.
+En revanche, le Premier ministre a bien commandé, en juillet deux mille dix-sept, une revue stratégique de cyberdéfense.
 Sur ce sujet, des éléments seront rendus publics au cours des prochains mois.
 Je suis sûr que vous serez intéressés par ces conclusions.
 Avis défavorable.
-La parole est à Monsieur Michel Larive, pour soutenir l’amendement numéro cinquante-neuf.
+La parole est à Monsieur Michel Larive, pour soutenir l’amendement numéro cinquante-neuf.
 La gouvernance internationale actuelle d’internet n’apparaît pas satisfaisante pour garantir les droits et libertés numériques.
 Nous proposons donc qu’un rapport examine des pistes sérieuses pour y remédier.
 Un bien public mondial comme internet ne peut être contrôlé par un ou des États seuls.
@@ -489,12 +489,12 @@ C’est dans l’esprit de l’initiative brésilienne de deux mille quatorze, l
 En outre, parce que la France doit aussi être ambitieuse et lancer des négociations internationales pour renforcer la neutralité d’internet et la gouvernance démocratique mondiale, nous demandons que soit étudiée la possibilité de négocier un nouveau traité en la matière.
 Celui-ci pourra non seulement institutionnaliser la coopération internationale, mais aussi prévoir une gestion par un organisme non dépendant des intérêts privés et de la domination de certains États, pour assurer une non-appropriation des infrastructures physiques les plus sensibles du réseau.
 Ces infrastructures physiques gérées par une structure internationale commune devraient de même bénéficier des immunités et privilèges des institutions spécialisées prévues par la convention de mille neuf cent quarante-sept.
-(Applaudissements sur les bancs du groupe FI.) Quel est l’avis de la commission ? Vous connaissez la position de la commission des lois sur les rapports en général.
+(Applaudissements sur les bancs du groupe FI.) Quel est l’avis de la commission ? Vous connaissez la position de la commission des lois sur les rapports en général.
 J’ai le sentiment qu’à travers l’amendement, vous interrogez le Gouvernement sur la manière dont il envisage la gouvernance mondiale de l’internet.
 Peut-être le secrétaire d’État vous répondra-t-il sur ce point en évoquant un colloque qui s’est tenu à l’UNESCO sur la construction de la paix dans le cyberespace.
 Avis défavorable.
-Quel est l’avis du Gouvernement ? L’amendement n’entre pas dans le cadre du texte que nous examinons.
-Si ! En revanche, il ne sort pas du cadre d’activité du Gouvernement ni de la discussion mondiale que nous avons avec nos partenaires européens ou non.
+Quel est l’avis du Gouvernement ? L’amendement n’entre pas dans le cadre du texte que nous examinons.
+Si ! En revanche, il ne sort pas du cadre d’activité du Gouvernement ni de la discussion mondiale que nous avons avec nos partenaires européens ou non.
 Le Gouvernement travaille à faire progresser une conception pacifique et régulée du cyberespace.
 Elle a permis d’approfondir les aspects à la fois académiques et diplomatiques sur la préservation de la paix dans le cyberespace.
 Pour aller plus loin, en septembre dernier, j’ai accompagné le Président de la République et le ministre des affaires étrangères à l’assemblée générale de l’ONU, au cours de laquelle la France a organisé une conférence sur ces sujets.
@@ -507,35 +507,35 @@ Je serai très heureux de la partager avec vous quotidiennement de façon formal
 L’avis du Gouvernement est néanmoins défavorable.
 La parole est à Madame Marie-France Lorho.
 Je l’ai dit lors de la discussion générale, je ne comprends pas la disparition de la catégorie d’armes D.
-Ne pensez-vous pas qu’un simple décret transférant une partie de ces armes en catégorie C aurait été préférable ? La suppression de la catégorie D est-elle vraiment nécessaire pour satisfaire la directive européenne ? L’article L.
+Ne pensez-vous pas qu’un simple décret transférant une partie de ces armes en catégorie C aurait été préférable ? La suppression de la catégorie D est-elle vraiment nécessaire pour satisfaire la directive européenne ? L’article L.
 trois cent onze-deux du code de la sécurité intérieure semblait satisfaisant.
 Il permettait de ne pas confondre les chasseurs et les autres possesseurs d’armes, donc de se conformer à une certaine réalité.
 La parole est à Monsieur Philippe Dunoyer.
-Je saisis l’occasion de ce débat sur les dispositions relatives à l’acquisition et à la détention des armes pour signaler au Gouvernement une situation issue d’un décret de mai deux mille dix-sept applicable en Nouvelle-Calédonie et qui inquiète les armuriers.
+Je saisis l’occasion de ce débat sur les dispositions relatives à l’acquisition et à la détention des armes pour signaler au Gouvernement une situation issue d’un décret de mai deux mille dix-sept applicable en Nouvelle-Calédonie et qui inquiète les armuriers.
 Ce décret substitue à bon droit un régime déclaratif à un dispositif d’autorisation, mais les services du haussariat – équivalent de la préfecture – ne sont pas habilités à délivrer ces autorisations.
 J’appelle l’attention du Gouvernement sur ce point.
-Est-il possible d’attribuer au haussariat de Nouvelle-Calédonie, le soin d’allouer ces autorisations, sans en changer les contraintes ? La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante et onze.
-Mes chers collègues, vous vous souvenez tous du grand débat de début août mille sept cent quatre-vingt-neuf (Sourires) et des déclarations de Mirabeau concernant le port des armes.
+Est-il possible d’attribuer au haussariat de Nouvelle-Calédonie, le soin d’allouer ces autorisations, sans en changer les contraintes ? La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante et onze.
+Mes chers collègues, vous vous souvenez tous du grand débat de début août mille sept cent quatre-vingt-neuf (Sourires) et des déclarations de Mirabeau concernant le port des armes.
 Vous savez que, sous l’Ancien Régime, seuls les nobles avaient le droit de porter des armes.
-Lorsqu’on refuse à quelqu’un le droit de porter des armes, il faut le motiver en fait et en droit : telle serait une société équilibrée.
+Lorsqu’on refuse à quelqu’un le droit de porter des armes, il faut le motiver en fait et en droit : telle serait une société équilibrée.
 Étant moi-même chasseur depuis ma tendre jeunesse, je peux vous dire, mes chers collègues, qu’à l’heure actuelle, une bonne partie de notre législation en la matière ne sert à rien.
-Veuillez conclure, cher collègue ! Telle est la philosophie de cet amendement : revenir à l’esprit d’une société libre.
+Veuillez conclure, cher collègue ! Telle est la philosophie de cet amendement : revenir à l’esprit d’une société libre.
 On devrait avoir le droit de porter des armes dans le cadre des lois qui le réglementent, et non pas l’inverse, comme actuellement, où la loi interdit de porter des armes, sauf exception.
-Très bien ! Quel est l’avis de la commission ? Il est assez surprenant de voir Mirabeau convoqué à l’occasion de l’examen d’une loi de transposition d’une directive européenne.
+Très bien ! Quel est l’avis de la commission ? Il est assez surprenant de voir Mirabeau convoqué à l’occasion de l’examen d’une loi de transposition d’une directive européenne.
 Or ce n’est pas à vous que je vais apprendre qu’il s’agit d’une liberté publique et en aucun cas d’un droit fondamental reconnu dans la Constitution française de mille neuf cent cinquante-huit.
 Aussi émettons-nous un avis défavorable.
-Quel est l’avis du Gouvernement ? Monsieur le député, je vous remercie pour vos références historiques, mais, comme vient de le dire le rapporteur, nous ne nous inscrivons pas dans la tradition américaine.
+Quel est l’avis du Gouvernement ? Monsieur le député, je vous remercie pour vos références historiques, mais, comme vient de le dire le rapporteur, nous ne nous inscrivons pas dans la tradition américaine.
 Au contraire, je tiens à rappeler que notre dispositif juridique repose sur un principe de contrôle administratif généralisé de la détention d’armes, assorti de dérogations très encadrées.
 Ni le Gouvernement ni, je pense, la représentation nationale, ne sont disposés à inverser cette approche de fond et de principe.
 L’avis est donc défavorable.
-La parole est à Monsieur Charles de Courson.
-Madame la ministre, au fond, vous refusez la Révolution ! (Sourires.) Vous refusez de reconnaître que tous les citoyens sont libres et ont le droit de porter des armes, dans des conditions définies par la loi.
+La parole est à Monsieur Charles de Courson.
+Madame la ministre, au fond, vous refusez la Révolution ! (Sourires.) Vous refusez de reconnaître que tous les citoyens sont libres et ont le droit de porter des armes, dans des conditions définies par la loi.
 Et, alors que seuls les aristocrates avaient le droit de les porter sous l’Ancien Régime, vous affirmez que plus personne n’aura le droit de le faire.
-Voilà ! Est-ce un progrès de la civilisation ? Oui ! J’en doute.
+Voilà ! Est-ce un progrès de la civilisation ? Oui ! J’en doute.
 Les États-Unis sont un pays libre.
 Sur ces amendements, je suis saisi par le groupe Les Républicains d’une demande de scrutin public.
 Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.
-La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro six.
+La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro six.
 Exclure du classement dans la catégorie D et de la détention libre les armes et matériels historiques de collection apparaît, à nos yeux, en contradiction avec les dispositions de cet article.
 Cela pourrait avoir de graves conséquences en termes de propriété, d’héritage, de liberté de circulation et de sanctions pénales pour les collectionneurs de ces objets, qui ne seront plus protégés par la loi.
 Par ailleurs, madame la ministre, cet amendement prend également en compte le classement potentiel des armes neutralisées en catégorie C, qui imposera désormais leur déclaration en préfecture.
@@ -543,34 +543,32 @@ Il s’agit très simplement de permettre aux collectionneurs, à celles et ceux
 De fait, les collectionneurs acquièrent, au fil des années, un certain nombre de matériels, les recevant parfois de leurs parents ou de leurs grands-parents.
 Madame la ministre, je rejoins notre collègue de Courson sur le fait – c’est perçu ainsi, en tout cas, par l’opinion publique – que l’on ennuie davantage les collectionneurs que les derniers nommés.
 Nous vous serions donc reconnaissants de bien vouloir accepter la mesure que nous vous proposons, qui permettrait de respecter l’article trente-quatre de la Constitution.
-La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro dix-sept.
-Cet amendement vise à tenir compte de la définition des reproductions d’armes par la directive du dix-sept mai 20dix-sept.
-Selon ce texte, si les reproductions d’armes à feu sont «construites en recourant aux techniques modernes susceptibles d’améliorer leur durabilité et leur précision», elles devraient être exclues de la catégorie D.
+La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro dix-sept.
+Cet amendement vise à tenir compte de la définition des reproductions d’armes par la directive du dix-sept mai deux mille dix-sept.
+Selon ce texte, si les reproductions d’armes à feu sont « construites en recourant aux techniques modernes susceptibles d’améliorer leur durabilité et leur précision », elles devraient être exclues de la catégorie D.
 L’amendement prend également en compte le classement potentiel des armes neutralisées en catégorie C, qui imposera désormais leur déclaration en préfecture.
-La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro vingt-quatre.
+La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro vingt-quatre.
 Nous avons pris bonne note de la réponse que vous avez apportée dans votre intervention liminaire, mais nous pensons que le Gouvernement a toujours la possibilité de modifier la réglementation à ce sujet.
-La parole est à Monsieur Fabien Di Filippo, pour soutenir l’amendement numéro vingt-neuf.
+La parole est à Monsieur Fabien Di Filippo, pour soutenir l’amendement numéro vingt-neuf.
 Par cet amendement, nous entendons apporter des garanties aux collectionneurs, qui rehaussent, par leur présence et leur activité, nos commémorations et nos cérémonies patriotiques, et qui font œuvre utile pour assurer le devoir de mémoire et la préservation du patrimoine.
 Madame la ministre, vous avez vous-même affirmé que, si une arme n’était pas plus dangereuse, elle ne ferait pas l’objet de conditions plus contraignantes.
 Le Conseil d’État est allé dans ce sens.
 Les personnes qui utilisent leur arme au titre des loisirs ou du tir sportif bénéficient d’un régime particulier.
 Nous demandons que les mêmes conditions, et non des règles plus contraignantes, s’appliquent aux collectionneurs, qui font œuvre utile dans les collectivités locales.
-Quel est l’avis de la commission ? Je voudrais essayer de dépassionner, autant que faire se peut, ce débat qui a beaucoup alimenté nos discussions ces derniers jours.
+Quel est l’avis de la commission ? Je voudrais essayer de dépassionner, autant que faire se peut, ce débat qui a beaucoup alimenté nos discussions ces derniers jours.
 Je ferai un rappel de forme et émettrai deux suggestions sur le fond.
 S’agissant de la forme, je rappelle que, s’il revient au législateur de créer les catégories d’armes, c’est au pouvoir exécutif qu’il incombe de classer les armes au sein de ces catégories.
-Sur le fond, la directive du dix-sept mai 20dix-sept a pour effet de classer en catégorie C les armes neutralisées et les reproductions d’armes historiques qui ont été améliorées par des techniques modernes.
+Sur le fond, la directive du dix-sept mai deux mille dix-sept a pour effet de classer en catégorie C les armes neutralisées et les reproductions d’armes historiques qui ont été améliorées par des techniques modernes.
 Il ne s’agit donc pas de les interdire, mais seulement de les déclarer, et cette déclaration est soumise à la condition qu’elles aient bénéficié de techniques visant à en améliorer les performances et la durabilité.
-Par ailleurs, concernant les armes anciennes et leurs reproductions fidèles, il n’a jamais été question de les faire changer de catégorie : elles vont demeurer dans la catégorie D, qui assure une libre détention et ne les soumet à aucune réglementation particulière.
-Qui décide ? Pour ces différentes raisons, et sous réserve du complément d’information que vous apportera Madame la ministre dans un instant, la commission est défavorable à l’amendement.
-Quel est l’avis du Gouvernement ? Si l’on se réfère à l’exposé des motifs des amendements, l’article trente-quatre de la Constitution imposerait que ce soit la loi qui classe les armes historiques et de collection en catégorie D.
+Par ailleurs, concernant les armes anciennes et leurs reproductions fidèles, il n’a jamais été question de les faire changer de catégorie : elles vont demeurer dans la catégorie D, qui assure une libre détention et ne les soumet à aucune réglementation particulière.
+Qui décide ? Pour ces différentes raisons, et sous réserve du complément d’information que vous apportera Madame la ministre dans un instant, la commission est défavorable à l’amendement.
+Quel est l’avis du Gouvernement ? Si l’on se réfère à l’exposé des motifs des amendements, l’article trente-quatre de la Constitution imposerait que ce soit la loi qui classe les armes historiques et de collection en catégorie D.
 Dès lors, le renvoi de la loi au décret pour le classement de ces armes serait contraire à la Constitution.
 Tel n’est pas notre avis, et notre analyse a reçu le soutien du Conseil d’État.
-Il s’agit de savoir ce qu’il y aura dans le décret ! Le Conseil d’État a donc approuvé la nouvelle rédaction de l’article L.
-trois cent onze-quatre du code de la sécurité intérieure, rétabli par la commission des lois, car elle corrige une anomalie dans le respect de la hiérarchie des normes.
 Je tiens également à préciser que, tel qu’ils sont rédigés, ces amendements auraient pour effet d’interdire le maintien en catégorie D des reproductions d’armes historiques, ce qui pénaliserait les collectionneurs.
 Afin d’assurer un équilibre entre la protection des intérêts des collectionneurs, le Gouvernement entend, à partir des critères de la directive, maintenir en régime de liberté les reproductions d’armes historiques dont les technologies de fabrication n’amélioreraient pas les performances.
 Pour l’ensemble de ces raisons, le Gouvernement est défavorable à ces amendements.
-La parole est à Monsieur Fabien Di Filippo.
+La parole est à Monsieur Fabien Di Filippo.
 Nous sommes en désaccord avec le rapporteur.
 L’administration dit qu’elle apportera des précisions réglementaires seulement parce que la loi n’est pas assez précise.
 Il appartient au législateur de prendre ses responsabilités en offrant des garanties aux collectionneurs et en leur assurant des possibilités de détention.
@@ -579,44 +577,44 @@ Il est de notre responsabilité de voter une telle disposition, à laquelle tout
 Nous offrirons ainsi des garanties qui ne seront pas sujettes à interprétation d’une administration ou d’une autre et qui, à long terme, préserveront l’activité des collectionneurs et la détention de reproductions d’armes et d’armes historiques.
 Je ne vois donc pas en quoi notre amendement comporterait une quelconque malice.
 Nous entendons simplement offrir aux personnes qui, encore une fois, font œuvre utile pour notre patrimoine et nos cérémonies patriotiques, le niveau de garantie nécessaire.
-Je mets aux voix les amendements identiques numéros six dix-sept vingt-quatre et vingt-neuf.
+Je mets aux voix les amendements identiques numéros six, dix-sept, vingt-quatre et vingt-neuf.
 La parole est à Monsieur Jean Lassalle, inscrit sur l’article.
 Monsieur le président, je ne voudrais pas rallonger une soirée qui est excellente.
-(Sourires et applaudissements.) Je suis saisi de sept amendements identiques, numéros un sept dix trente-trois soixante-quatre soixante-douze et quatre-vingts.
+(Sourires et applaudissements.) Je suis saisi de sept amendements identiques, numéros un, sept, dix, trente-trois, soixante-quatre, soixante-douze et quatre-vingts.
 Sur ces amendements, je suis saisi par le groupe Les Républicains d’une demande de scrutin public.
 Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.
-La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro un.
+La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro un.
 Cet amendement vise à autoriser les collectionneurs à acquérir et à détenir des armes d’un modèle antérieur à mille neuf cent quarante-six.
 Mon collègue Fabien Di Filippo a défendu, il y a quelques instants, une position similaire.
 J’ajoute que, la plupart du temps, on le sait, les collectionneurs et les reconstitueurs font l’objet d’une sorte de chasse.
 Je vous remercie, cher collègue.
-Madame la présidente de la commission des lois, vous avez l’air sceptique : c’est pourtant ce que l’on entend sur le terrain.
-Elle n’y va pas ! La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro sept.
+Madame la présidente de la commission des lois, vous avez l’air sceptique : c’est pourtant ce que l’on entend sur le terrain.
+Elle n’y va pas ! La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro sept.
 Dans le texte adopté par la commission des lois, la détention d’armes à feu de catégorie A est interdite aux collectionneurs.
-Cet amendement va donc dans le même sens que cette directive européenne et vise à autoriser les collectionneurs, comme les musées, à détenir des armes à feu de catégorie A.
-La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro dix.
+Cet amendement va donc dans le même sens que cette directive européenne et vise à autoriser les collectionneurs, comme les musées, à détenir des armes à feu de catégorie A.
+La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro dix.
 Il est défendu.
-L’amendement numéro trente-trois est également défendu.
-La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-quatre.
+L’amendement numéro trente-trois est également défendu.
+La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-quatre.
 Nous sommes réellement sollicités par des collectionneurs qui n’ont rien de gangsters et qui n’entendent pas transformer la France en Far West.
 Ce sont des gens parfaitement honnêtes, qui vivent leur passion.
 Nous estimons que leur donner cette autorisation ne porterait aucunement atteinte à l’ordre public et que l’adoption de cet amendement ne présenterait, pour nos concitoyens, aucune dangerosité.
-Très bien ! La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-douze.
+Très bien ! La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-douze.
 La délivrance de ces autorisations peut naturellement être assortie de conditions et de mesures de sécurité ou relatives au stockage.
-En outre, l’alinéa trois de l’article six énumère dans le détail les mesures à prendre concernant les collectionneurs.
+En outre, l’alinéa trois de l’article six énumère dans le détail les mesures à prendre concernant les collectionneurs.
 Par conséquent, cette directive n’a pas prévu une dérogation, mais bien une autorisation.
 On peut ajouter que, dans son avis, le Conseil d’État ne s’oppose en aucune manière à cette possibilité et que la rédaction initiale du projet de loi disposait qu’elle était ouverte dans le cadre d’activités sportives, professionnelles ou de collection.
 Il y a là une grave défaillance de l’État.
-La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingts.
+La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingts.
 Un défilé, une commémoration ou des reconstitutions historiques sans armes, ou seulement avec celles qui ne sont pas démontables, aboutiraient à des aberrations : des chars auxquels on aurait retiré le canon, par exemple, deviendraient quelque peu ridicules.
 Le risque est grand de voir cette dernière s’éteindre faute d’être stimulée, les armes de collection étant vouées à être remisées dans des placards à balais.
 Certains me rétorqueront que les armes de collection poussent à la violence ou peuvent être détournées de leur usage.
 Il me semble qu’au contraire, la mémoire est là pour nous rappeler les erreurs du passé, pour nous éviter de les reproduire et pour nous rappeler le courage de nos anciens que nous devons honorer.
-Quel est l’avis de la commission ? Tous aux abris ! J’essaye de regarder la totalité de l’hémicycle, car les salves viennent de tous les côtés, dans un consensus qui semble très général.
+Quel est l’avis de la commission ? Tous aux abris ! J’essaye de regarder la totalité de l’hémicycle, car les salves viennent de tous les côtés, dans un consensus qui semble très général.
 Pour ne rien vous cacher, je suis sidéré par les discours que j’entends.
 Il ne vous aura pas échappé, chers collègues, que le projet de loi dont nous débattons ce soir durcit les conditions d’acquisition et de détention des armes.
-À cette fin, nous avons fait passer des armes jusqu’ici classées en catégorie B en catégorie A, c’est-à-dire que leur usage sera interdit.
-Pour permettre précisément à ceux qui bénéficiaient jusqu’à présent d’une autorisation en catégorie B de continuer à en bénéficier, ont été ouvertes quelques possibilités, restreintes, de dérogation.
+À cette fin, nous avons fait passer des armes jusqu’ici classées en catégorie B en catégorie A, c’est-à-dire que leur usage sera interdit.
+Pour permettre précisément à ceux qui bénéficiaient jusqu’à présent d’une autorisation en catégorie B de continuer à en bénéficier, ont été ouvertes quelques possibilités, restreintes, de dérogation.
 En aucun cas les collectionneurs n’avaient jusqu’ici été autorisés à collectionner des armes de catégorie A ou B.
 Bien évidemment, la commission est défavorable à ces amendements identiques.
 C’est tout à fait juste, mais il ne s’agit que d’une possibilité et non d’un droit.
@@ -624,206 +622,192 @@ Il est essentiel de ne pas dénaturer les termes.
 Au regard de la dangerosité des armes, le Gouvernement a fait le choix de ne pas faire bénéficier les collectionneurs de la possibilité d’acquérir des armes de catégorie A, comme le rapporteur vient de le dire.
 Il ne l’a, du reste, jamais envisagé, contrairement à ce qu’ont indiqué certains orateurs, et le projet de loi n’a jamais ouvert cette possibilité.
 Je rappelle que nous parlons ici d’armes automatiques tirant en rafales ou semi-automatiques à grande puissance de feu dont personne ne peut dire, en étant de bonne foi, qu’elles ne sont pas extrêmement dangereuses.
-Bien sûr ! Il s’agit d’un choix délibéré et assumé en faveur de la sécurité publique : chacun pourra, il me semble, le comprendre, compte tenu de l’état de dangerosité dans lequel nous vivons.
+Bien sûr ! Il s’agit d’un choix délibéré et assumé en faveur de la sécurité publique : chacun pourra, il me semble, le comprendre, compte tenu de l’état de dangerosité dans lequel nous vivons.
 Je précise enfin qu’il ne s’agit pas ici d’une question de millésime, c’est-à-dire d’âge et d’ancienneté de l’arme.
 Les armes sont classées selon leurs caractéristiques techniques, car ce sont ces dernières, et non leur ancienneté, qui détermine leur dangerosité.
-Le danger que représentent les armes de catégorie A, comme d’ailleurs celles de catégorie B mentionnées dans l’exposé sommaire des amendements, nécessite de les placer hors du périmètre de la collection.
+Le danger que représentent les armes de catégorie A, comme d’ailleurs celles de catégorie B mentionnées dans l’exposé sommaire des amendements, nécessite de les placer hors du périmètre de la collection.
 Si des armes doivent être déclassées, ce qui est toujours possible, le déclassement interviendra par décisions réglementaires.
 Ces décisions sont prises au cas par cas, et non par référence générique à des millésimes.
 L’avis du Gouvernement est défavorable.
-La parole est à Monsieur Fabien Di Filippo.
-Je remercie beaucoup Madame la ministre pour sa réponse qui a été assez précise, plus précise en tout cas que celle du rapporteur.
+La parole est à Monsieur Fabien Di Filippo.
+Je remercie beaucoup Mme la ministre pour sa réponse qui a été assez précise, plus précise en tout cas que celle du rapporteur.
 Pour expliquer le sens de ces amendements, il nous faut revenir à l’esprit de la directive auquel doivent théoriquement se conformer l’ensemble des pays européens s’ils la transposent directement, comme c’est le cas de nombre de directives.
 Nous parlons de détention d’armes par des musées ou par des collectionneurs, à des fins historiques principalement.
-Le dispositif proposé pend-il en compte le fait qu’elles sont désactivées et neutralisées et que, par conséquent, leur dangerosité est très faible ? Bonne question.
+Le dispositif proposé pend-il en compte le fait qu’elles sont désactivées et neutralisées et que, par conséquent, leur dangerosité est très faible ? Bonne question.
 Dans ce cas, il est possible de sous-amender nos amendements, si cela peut, madame la ministre, monsieur le rapporteur, vous satisfaire.
 Notre état d’esprit n’est pas du tout, contrairement à la description que le rapporteur en a fait, de favoriser la prolifération des armes.
 Absolument pas.
-La parole est à Monsieur Charles de Courson.
+La parole est à Monsieur Charles de Courson.
 Madame la ministre, je vous remercie d’avoir rappelé la possibilité ouverte par la directive.
 Cependant, vous n’avez pas précisé la position que les différents États membres de l’Union ont adoptée à cet égard.
 Certains l’appliquent, cette possibilité.
 Si on fait une directive communautaire, c’est pour avoir un minimum d’homogénéité en Europe.
 C’est ma première observation.
-Cette carte va-t-elle enfin voir le jour ? Je vous répondrai un peu plus tard, monsieur de Courson.
-Je mets aux voix les amendements identiques numéros un sept dix trente-trois soixante-quatre soixante-douze et quatre-vingts.
-Ils vont être contents, les collectionneurs ! La parole est à Monsieur Philippe Latombe, pour soutenir l’amendement numéro soixante-dix.
+Cette carte va-t-elle enfin voir le jour ? Je vous répondrai un peu plus tard, monsieur de Courson.
+Je mets aux voix les amendements identiques numéros un, sept, dix, trente-trois, soixante-quatre, soixante-douze et quatre-vingts.
+Ils vont être contents, les collectionneurs ! La parole est à Monsieur Philippe Latombe, pour soutenir l’amendement numéro soixante-dix.
 Il s’agit de proposer un amendement de coordination, et non de relancer la discussion.
-La rédaction actuelle de la troisième phrase de l’article L.
-trois cent douze-deux du code de la sécurité intérieure prévoit que «certains matériels de guerre peuvent être acquis et détenus à fin de collection».
+La rédaction actuelle de la troisième phrase de l’article L. trois cent douze-deux du code de la sécurité intérieure prévoit que « certains matériels de guerre peuvent être acquis et détenus à fin de collection ».
 Cet amendement vise, pour des raisons de cohérence, à intégrer la possibilité d’une détention dans l’ajout prévu par l’article.
-Quel est l’avis de la commission ? Cet ajout est tout à fait positif.
+Quel est l’avis de la commission ? Cet ajout est tout à fait positif.
 La commission a émis un avis favorable sur l’amendement.
-Je suis saisi de trois amendements identiques, numéros neuf quatorze et quarante-six.
-La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro neuf.
-Cet amendement tend à supprimer l’alinéa seize de l’article dix-sept afin de permettre la bonne préservation du patrimoine et le maintien des matériels et armes historiques et de collection dans la catégorie D, du fait de leur absence de dangerosité.
-La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro quatorze.
-Il s’agit, en effet, de supprimer l’alinéa seize car l’abrogation de l’article L.
-trois cent douze-quatre-deux du code de la sécurité intérieure est inutile et contraire à la bonne préservation du patrimoine.
-Or, compte tenu de leur absence de dangerosité avérée et de leur importance patrimoniale, la bonne préservation de ces matériels et armes historiques et de collection exige leur maintien en catégorie D, en détention libre.
-La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro quarante-six.
+Je suis saisi de trois amendements identiques, numéros neuf, quatorze et quarante-six.
+La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro neuf.
+Cet amendement tend à supprimer l’alinéa seize de l’article dix-sept, afin de permettre la bonne préservation du patrimoine et le maintien des matériels et armes historiques et de collection dans la catégorie D, du fait de leur absence de dangerosité.
+La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro quatorze.
+Il s’agit, en effet, de supprimer l’alinéa seize, car l’abrogation de l’article L. trois cent douze-quatre-deux du code de la sécurité intérieure est inutile et contraire à la bonne préservation du patrimoine.
+Or, compte tenu de leur absence de dangerosité avérée et de leur importance patrimoniale, la bonne préservation de ces matériels et armes historiques et de collection exige leur maintien en catégorie D, en détention libre.
+La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro quarante-six.
 Il est défendu, monsieur le président.
-Quel est l’avis de la commission ? L’avis de la commission est défavorable.
-Quel est l’avis du Gouvernement ? L’article L.
-trois cent douze-quatre-deux du code de la sécurité intérieure, qui est abrogé par l’alinéa seize et que les amendements tendent à rétablir, constitue une redondance et, surtout, il est contradiction avec la directive que nous transposons.
-Il est redondant avec l’article L.
-trois cent onze-deux, qui prévoit déjà que la catégorie D relève d’un régime de liberté de détention.
-Il n’est pas nécessaire que la loi dise deux fois la même chose, ce que fait pourtant le premier alinéa de l’article L.
-trois cent douze-quatre-deux.
+Quel est l’avis de la commission ? L’avis de la commission est défavorable.
+Il est redondant avec l’article L. trois cent onze-deux, qui prévoit déjà que la catégorie D relève d’un régime de liberté de détention.
+Il n’est pas nécessaire que la loi dise deux fois la même chose, ce que fait pourtant le premier alinéa de l’article L. trois cent douze-quatre-deux.
 Cet article est, en outre, en contradiction avec la directive.
-Dans son deuxième alinéa, il prévoit, certes sans le nommer explicitement, le régime d’enregistrement de la catégorie Dun que la directive supprime.
-Pour ces deux raisons, il convient d’abroger l’article L.
-trois cent douze-quatre-deux, donc de rejeter les amendements identiques.
-Je suis saisi de quatre amendements identiques, numéros trois vingt soixante-sept et soixante-quatorze.
-La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro trois.
+Dans son deuxième alinéa, il prévoit, certes sans le nommer explicitement, le régime d’enregistrement de la catégorie Dun, que la directive supprime.
+Pour ces deux raisons, il convient d’abroger l’article L. trois cent douze-quatre-deux, donc de rejeter les amendements identiques.
+Je suis saisi de quatre amendements identiques, numéros trois, vingt, soixante-sept et soixante-quatorze.
+La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro trois.
 Monsieur le rapporteur, il n’y a pas ici plusieurs catégories de députés.
 Je n’ai pas apprécié votre manière de nous répondre, tout à l’heure.
 Il n’y a pas ici, d’un côté, les responsables, de l’autre, les irresponsables.
-L’amendement vise à rédiger l’article L.
-trois cent douze-quatre-deux du code de la sécurité intérieure de la manière suivante : «Les armes et matériels historiques et de collection mentionnés à l’article L.
-trois cent onze-trois à l’exception de ceux mentionnés aux trois° et quatre°, sont classés en catégorie D.» Je voudrais aussi confirmer ce qu’ont dit les collègues tout à l’heure.
 Cet amendement étant identique au précédent, vous pouvez considérer qu’il est défendu, monsieur le président.
-La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-sept.
+La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-sept.
 Même commentaire.
-Compte tenu de l’absence de dangerosité avérée des armes dont il est question, et vu leur importance patrimoniale, nous demandons leur maintien en catégorie D, en détention libre.
-La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-quatorze.
-Mes chers collègues, on a retiré de la catégorie D les armes de chasse, qui, autrefois classées en Dun passent en C.
-Que reste-t-il en D ? Les matériels et armes historiques et de collection, qui font partie intégrante du patrimoine.
-Il s’agit des véhicules, des navires, des aéronefs, des radios neutralisés, d’origine militaire antérieurs au unier janvier un946, ainsi que des armes anciennes antérieures au unier janvier un900.
-Sont-ils dangereux ? Nullement, puisqu’ils sont neutralisés.
+Compte tenu de l’absence de dangerosité avérée des armes dont il est question, et vu leur importance patrimoniale, nous demandons leur maintien en catégorie D, en détention libre.
+La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-quatorze.
+Mes chers collègues, on a retiré de la catégorie D les armes de chasse, qui, autrefois classées en Dun, passent en C.
+Que reste-t-il en D ? Les matériels et armes historiques et de collection, qui font partie intégrante du patrimoine.
+Il s’agit des véhicules, des navires, des aéronefs, des radios neutralisés, d’origine militaire antérieurs au unier janvier mille neuf cent quarante-six, ainsi que des armes anciennes antérieures au unier janvier mille neuf cents.
+Sont-ils dangereux ? Nullement, puisqu’ils sont neutralisés.
 Puisqu’il y a absence de dangerosité avérée de ces armes et qu’elles sont intéressantes du point de vue patrimonial, la bonne préservation de ces matériels et armes historiques et de collection exige leur maintien en catégorie D, en détention libre.
 Tel est l’objet du présent amendement.
-Quel est l’avis de la commission ? L’état d’esprit qui était le mien lors de l’examen de l’article seize est inchangé.
+Quel est l’avis de la commission ? L’état d’esprit qui était le mien lors de l’examen de l’article seize est inchangé.
 L’avis de la commission est défavorable.
-Quel est l’avis du Gouvernement ? Comme je l’ai déjà dit, la compétence de classement des armes relève du pouvoir réglementaire et non de la loi.
-En outre, je signale que la rédaction proposée interdirait tout maintien en catégorie D des reproductions d’armes historiques, ce qui pénaliserait les collectionneurs que vous avez défendus.
+Quel est l’avis du Gouvernement ? Comme je l’ai déjà dit, la compétence de classement des armes relève du pouvoir réglementaire et non de la loi.
+En outre, je signale que la rédaction proposée interdirait tout maintien en catégorie D des reproductions d’armes historiques, ce qui pénaliserait les collectionneurs que vous avez défendus.
 Avis défavorable, donc.
-La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-cinq.
-Il s’agit de compléter l’alinéa vingt par les mots : «, à l’exception des armes ou matériels définis à l’article L.
-trois cent onze-trois».
+La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-cinq.
+Il s’agit de compléter l’alinéa vingt par les mots : « , à l’exception des armes ou matériels définis à l’article L. trois cent onze-trois, ».
 Cet amendement vise à exclure les matériels et armes historiques et de collection neutralisés du champ sur lequel porte la faculté du préfet d’ordonner à tout détenteur d’une arme de s’en dessaisir.
 En effet, compte tenu de leur absence de dangerosité avérée et de leur importance patrimoniale, il convient que seul le juge puisse ordonner leur dessaisissement.
-Quel est l’avis de la commission ? Ce sont des motifs d’ordre public qui permettent au préfet d’ordonner à tout propriétaire d’une arme de s’en dessaisir, sans avoir à passer par le juge des libertés et de la détention.
+Quel est l’avis de la commission ? Ce sont des motifs d’ordre public qui permettent au préfet d’ordonner à tout propriétaire d’une arme de s’en dessaisir, sans avoir à passer par le juge des libertés et de la détention.
 Avis défavorable.
-Quel est l’avis du Gouvernement ? Pour ce qui est de la forme, cet amendement se situe hors du champ de la directive et de sa transposition.
-Quant au fond, la procédure de dessaisissement prévue à l’article L.
-trois cent douze-onze vise la protection de l’ordre public et de la sécurité publique.
+Quel est l’avis du Gouvernement ? Pour ce qui est de la forme, cet amendement se situe hors du champ de la directive et de sa transposition.
+Quant au fond, la procédure de dessaisissement prévue à l’article L. trois cent douze-onze vise la protection de l’ordre public et de la sécurité publique.
 Dès lors, cette procédure n’a de sens que si son champ concerne toutes les armes à feu, car c’est le fait de détenir des armes qui, seul, fonde cette mesure administrative.
 En outre, il serait très risqué de distinguer, parmi les armes à feu détenues par un individu, celles qui seraient moins dangereuses, parce qu’anciennes ou copies d’armes anciennes, et d’autres qui seraient plus dangereuses.
-Même si les armes sont historiques, elles demeurent des armes à feu, conçues et fabriquées pour blesser ou pour tuer : c’est la définition même de l’arme.
+Même si les armes sont historiques, elles demeurent des armes à feu, conçues et fabriquées pour blesser ou pour tuer : c’est la définition même de l’arme.
 Leur dangerosité reste avérée.
 Dès lors que la sécurité publique est menacée, cela suffit à fonder un dessaisissement.
 Pour toutes ces raisons, le Gouvernement est défavorable à cet amendement, comme il le sera à ceux ayant le même objet.
-Nous en venons à une longue série d’amendements identiques, numéros deux huit 1deux dix-neuf soixante-six soixante-treize et quatre-vingt-cinq.
-La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro deux.
-Il s’agit d’autoriser les collectionneurs à acquérir et détenir des armes de catégories A et B pour des modèles antérieurs à mille neuf cent quarante-six.
-À cette fin, l’amendement tend à ajouter à la fin de l’article L.
-trois cent douze-six-trois du code de la sécurité intérieure : «des catégories A et B d’un modèle antérieur au unier janvier mille neuf cent quarante-six et de la catégorie C dans les conditions définies par décret».
-La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro huit.
-Dans la continuité de l’amendement que j’ai défendu précédemment, celui-ci tend à prévoir la possibilité de demander en préfecture une autorisation d’acquisition et de détention pour les catégories A et B d’armes à feu.
-La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro douze.
+Nous en venons à une longue série d’amendements identiques, numéros deux, huit, douze, dix-neuf, soixante-six, soixante-treize et quatre-vingt-cinq.
+La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro deux.
+Il s’agit d’autoriser les collectionneurs à acquérir et détenir des armes de catégories A et B pour des modèles antérieurs à mille neuf cent quarante-six.
+La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro huit.
+Dans la continuité de l’amendement que j’ai défendu précédemment, celui-ci tend à prévoir la possibilité de demander en préfecture une autorisation d’acquisition et de détention pour les catégories A et B d’armes à feu.
+La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro douze.
 Il est défendu, monsieur le président.
-La parole est à Madame Laurence Trastour-Isnart, pour soutenir l’amendement numéro dix-neuf.
+La parole est à Madame Laurence Trastour-Isnart, pour soutenir l’amendement numéro dix-neuf.
 Cet amendement tend à introduire, pour les collectionneurs, une autorisation d’acquisition et de détention.
-Les armes d’un modèle antérieur à mille neuf cents seraient libres, celles d’un modèle compris entre mille neuf cents et mille neuf cent quarante-six soumises à autorisation préalable pour les collectionneurs.
-La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-six.
+Les armes d’un modèle antérieur à mille neuf cents seraient libres, celles d’un modèle compris entre mille neuf cents et mille neuf cent quarante-six soumises à autorisation préalable pour les collectionneurs.
+La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-six.
 Il s’inscrit dans la même logique que les amendements que viennent de présenter les collègues.
-La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-treize.
+La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-treize.
 J’espère que c’est à l’occasion de cet amendement que vous allez enfin répondre, madame la ministre, à ma question sur la carte de collectionneur.
-Cela ne fait guère que six ans qu’on l’attend ! Nous sommes donc impatients, madame la ministre, de savoir quand ce fameux décret va être publié.
-Nous ne sommes pas au pouvoir depuis deux mille douze ! Ils ne sont pas là, ceux qui y étaient ! Vous n’y êtes pour rien, mais n’attendez pas quatre ans de plus ! Nous attendons votre réponse.
-La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingt-cinq.
-Comme mon collègue vient de le rappeler, la loi du six mars deux mille douze a créé une carte du collectionneur pour les citoyens détenteurs d’armes de collection.
-Eh oui, elle a raison ! Un nombre très important d’entre eux risque d’être découragé à y participer en raison du climat d’insécurité juridique et administratif actuel que le projet de loi, en l’état, ne permet en aucune manière d’apaiser.
-Quel est l’avis de la commission ? On retrouve l’argumentaire en faveur de l’acquisition d’armes de catégories A et B, à laquelle nous sommes opposés.
-Je constate aussi une récurrence de la question relative à la carte du collectionneur : peut-être Madame la ministre pourra-t-elle nous apporter quelques précisions sur ce point.
+Cela ne fait guère que six ans qu’on l’attend ! Nous sommes donc impatients, madame la ministre, de savoir quand ce fameux décret va être publié.
+Nous ne sommes pas au pouvoir depuis deux mille douze ! Ils ne sont pas là, ceux qui y étaient ! Vous n’y êtes pour rien, mais n’attendez pas quatre ans de plus ! Nous attendons votre réponse.
+La parole est à Madame Emmanuelle Ménard, pour soutenir l’amendement numéro quatre-vingt-cinq.
+Comme mon collègue vient de le rappeler, la loi du six mars deux mille douze a créé une carte du collectionneur pour les citoyens détenteurs d’armes de collection.
+Eh oui, elle a raison ! Un nombre très important d’entre eux risque d’être découragé à y participer en raison du climat d’insécurité juridique et administratif actuel que le projet de loi, en l’état, ne permet en aucune manière d’apaiser.
+Quel est l’avis de la commission ? On retrouve l’argumentaire en faveur de l’acquisition d’armes de catégories A et B, à laquelle nous sommes opposés.
+Je constate aussi une récurrence de la question relative à la carte du collectionneur : peut-être Madame la ministre pourra-t-elle nous apporter quelques précisions sur ce point.
 Avis défavorable sur les amendements.
-Quel est l’avis du Gouvernement ? Il est également défavorable.
-Hélas ! Je veux néanmoins vous donner une explication, qui sera d’ailleurs un peu longue.
+Quel est l’avis du Gouvernement ? Il est également défavorable.
+Hélas ! Je veux néanmoins vous donner une explication, qui sera d’ailleurs un peu longue.
 Je commencerai par une observation préalable.
 Il me semble assez paradoxal que la collection d’armes et de matériels de guerre soit au cœur de la discussion, comme si une menace planait sur cette activité, alors que le projet de loi ne retire ni ne modifie aucun droit des collectionneurs.
-Aucun ! Je ne comprends donc pas les réactions sur ce sujet.
-On alourdit les démarches des collectionneurs ! S’il vous plaît, monsieur, je suis en train de parler.
-Si vous faites une erreur, je suis bien obligé de la corriger ! L’exécutif, disais-je, n’a aucun projet qui irait dans le sens d’une telle modification.
+Aucun ! Je ne comprends donc pas les réactions sur ce sujet.
+On alourdit les démarches des collectionneurs ! S’il vous plaît, monsieur, je suis en train de parler.
+Si vous faites une erreur, je suis bien obligé de la corriger ! L’exécutif, disais-je, n’a aucun projet qui irait dans le sens d’une telle modification.
 J’en viens à la question posée par le rapporteur et un certain nombre d’autres orateurs, et vous prie par avance d’excuser la longueur du propos.
-La loi du six mars deux mille douze relative à l’établissement d’un contrôle des armes moderne simplifié et préventif, a prévu l’instauration d’une carte de collectionneur, en renvoyant à un décret le soin d’en préciser les modalités de délivrance.
+La loi du six mars deux mille douze, relative à l’établissement d’un contrôle des armes moderne simplifié et préventif, a prévu l’instauration d’une carte de collectionneur, en renvoyant à un décret le soin d’en préciser les modalités de délivrance.
 Vous avez raison, ce décret n’a pas été pris et c’est évidemment regrettable, puisque le mandat du législateur, sur ce point précis, n’a pas été respecté.
 Il y a à cela deux explications.
 La première tient à la difficulté d’identifier une association de collectionneurs faisant consensus et capable d’attester la finalité de la collection.
-Car collectionner, aux termes de la loi de deux mille douze ce n’est pas accumuler.
-La loi fixe une finalité particulière aux collections d’armes : la «valorisation du patrimoine, de sa connaissance et de son étude.» Cette exigence doit être vérifiée et respectée.
+Car collectionner, aux termes de la loi de deux mille douze, ce n’est pas accumuler.
+La loi fixe une finalité particulière aux collections d’armes : la « valorisation du patrimoine, de sa connaissance et de son étude. » Cette exigence doit être vérifiée et respectée.
 Je remarque aussi que l’absence de décret d’application n’a pas empêché les collectionneurs de s’adonner à leur passion.
 Les armes historiques et leurs reproductions, au cœur de la thématique de la collection, sont libres d’acquisition et de détention sans être tributaires d’un quelconque statut du détenteur.
-D’autres dispositions garantissent la participation de collectionneurs à des reconstitutions historiques,… Oui, c’est vrai ! …dont on a beaucoup entendu parler – comme si certains étaient plus patriotiques que d’autres.
-Pas du tout, arrêtez ! Je pense en particulier aux collections de matériels de guerre.
+D’autres dispositions garantissent la participation de collectionneurs à des reconstitutions historiques,… Oui, c’est vrai ! …dont on a beaucoup entendu parler – comme si certains étaient plus patriotiques que d’autres.
+Pas du tout, arrêtez ! Je pense en particulier aux collections de matériels de guerre.
 Ces dispositions sont applicables et appliquées, et il n’est point besoin pour cela de posséder une carte de collectionneur.
 Reste que la volonté du législateur doit être respectée.
-Cela veut dire quoi, «légitime» ? Je n’ai pas fini, monsieur Cordier.
+Cela veut dire quoi, « légitime » ? Je n’ai pas fini, monsieur Cordier.
 J’ai donc demandé au service central des armes du ministère de l’intérieur de prévoir, dans le décret d’application de la loi dont nous discutons, les composantes de ce statut de collectionneur et les modalités de délivrance de la carte du collectionneur.
 Comme il l’a toujours fait, le ministère de l’intérieur travaillera, sur ce sujet comme sur les autres, dans la concertation.
 Celle-ci n’a d’ailleurs jamais cessé, s’agissant de cette thématique de la collection d’armes, depuis deux mille treize.
-Et ce décret devra être publié au Journal officiel au plus tard le quatorze septembre de cette année, date d’entrée en vigueur de la directive que nous transposons et, pour ce qui concerne les armes, du projet de loi dont nous discutons.
-Maintenant, monsieur Cordier, vous pouvez parler : j’ai fini.
-(Sourires et applaudissements sur les bancs du groupe REM.) La parole est à Monsieur Charles de Courson.
+Et ce décret devra être publié au Journal officiel au plus tard le quatorze septembre de cette année, date d’entrée en vigueur de la directive que nous transposons et, pour ce qui concerne les armes, du projet de loi dont nous discutons.
+Maintenant, monsieur Cordier, vous pouvez parler : j’ai fini.
+(Sourires et applaudissements sur les bancs du groupe REM.) La parole est à Monsieur Charles de Courson.
 Je veux vous féliciter, madame la ministre, puisque vous allez faire en neuf mois ce que n’ont pas fait vos prédécesseurs en six ans.
 C’est vous dire que nous attendons le décret avec impatience.
 Toutefois, les services pourront vous resservir, au cours des neuf mois à venir, les mêmes arguments que ceux qu’ils vous ont donnés pour expliquer la non-publication du décret pendant ces six ans.
-Faisons respecter les décisions du Parlement ! Je m’étonne d’ailleurs qu’en cette matière, la commission compétente n’ait pas fait pression sur le Gouvernement dans le cadre de l’évaluation des textes que nous votons.
+Faisons respecter les décisions du Parlement ! Je m’étonne d’ailleurs qu’en cette matière, la commission compétente n’ait pas fait pression sur le Gouvernement dans le cadre de l’évaluation des textes que nous votons.
 Quoi qu’il en soit, madame la ministre, soyez souple dans la définition des collectionneurs, car les objets de collection sont divers.
 Certains se passionnent pour les arbalètes, d’autres pour les armes à feu, par exemple.
 Bref, sortons vite tout cela pour clarifier la situation.
 La parole est à Monsieur Pierre Cordier.
 Pas de longs discours sur les arbalètes, hein… (Sourires.) Je parle, madame la ministre.
-(«Oh !» sur plusieurs bancs du groupe REM.) Nous jouons au tennis : c’est vieux comme le monde ! (Sourires.) Nous notons avec satisfaction ce petit progrès et cette date butoir du quatorze septembre.
-Ce durcissement rend les démarches plus contraignantes pour l’obtention et la détention de ces armes, dont je rappelle qu’elles ne peuvent être utilisées : des systèmes de verrouillage empêchent que l’on puisse s’en servir pour tirer.
-Je suis saisi de plusieurs amendements identiques, numéros quatre onze seize vingt et un et soixante-quinze.
-La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro quatre.
+(« Oh ! » sur plusieurs bancs du groupe REM.) Nous jouons au tennis : c’est vieux comme le monde ! (Sourires.) Nous notons avec satisfaction ce petit progrès et cette date butoir du quatorze septembre.
+Ce durcissement rend les démarches plus contraignantes pour l’obtention et la détention de ces armes, dont je rappelle qu’elles ne peuvent être utilisées : des systèmes de verrouillage empêchent que l’on puisse s’en servir pour tirer.
+Je suis saisi de plusieurs amendements identiques, numéros quatre, onze, seize, vingt et un et soixante-quinze.
+La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro quatre.
 Il s’agit donc, eu égard au principe des libertés publiques, de confier un pouvoir accru au juge des libertés et de la détention.
-La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro onze.
+La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro onze.
 Cet amendement prévoit que ce ne sera plus le préfet qui ordonnera le dessaisissement à un collectionneur, mais le juge des libertés et de la détention, pour les armes de catégorie D, compte tenu de leur absence de dangerosité avérée et de leur importance patrimoniale.
-La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro seize.
+La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro seize.
 Il est défendu.
-La parole est à Madame Laurence Trastour-Isnart, pour soutenir l’amendement numéro vingt et un.
+La parole est à Madame Laurence Trastour-Isnart, pour soutenir l’amendement numéro vingt et un.
 Vu leur importance patrimoniale, la bonne préservation de ces matériels et armes historiques et de collection exige que seul le juge des libertés et de la détention soit habilité à ordonner leur dessaisissement à un collectionneur, et non simplement le préfet.
-La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-quinze.
+La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-quinze.
 Cela vaut, bien entendu, pour toutes les armes.
 On peut rappeler que, si l’acte du préfet est manifestement illégal, il peut faire l’objet d’un recours devant les tribunaux administratifs – par exemple, pour excès de pouvoir.
 L’avis reste donc défavorable.
-Quel est l’avis du Gouvernement ? Il reste le même que sur les amendements identiques précédemment rejetés : défavorable.
-Nous en venons à des amendements portant articles additionnels après l’article dix-neuf.
-Je suis saisi de plusieurs amendements identiques, numéros cinq treize 1cinq vingt-deux vingt-huit soixante-neuf et soixante-seize.
-La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro cinq.
+Quel est l’avis du Gouvernement ? Il reste le même que sur les amendements identiques précédemment rejetés : défavorable.
+Nous en venons à des amendements portant articles additionnels après l’article dix-neuf.
+Je suis saisi de plusieurs amendements identiques, numéros cinq, treize, quinze, vingt-deux, vingt-huit, soixante-neuf et soixante-seize.
+La parole est à Monsieur Pierre Cordier, pour soutenir l’amendement numéro cinq.
 Les contrôles, je le disais tout à l’heure, s’apparentent souvent à une véritable chasse aux collectionneurs et aux reconstitueurs, qui en font donc les frais.
 Ceux qui le contestent n’ont qu’à interroger les intéressés sur ce point – je ne sais si vous en connaissez.
 Le présent amendement tend donc à garantir la possibilité, pour ces personnes, de participer librement à des commémorations.
-Dans le cadre du centenaire de mille neuf cent dix-huit un certain nombre de collectivités territoriales ont pris des contacts avec des associations et des passionnés.
+Dans le cadre du centenaire de mille neuf cent dix-huit, un certain nombre de collectivités territoriales ont pris des contacts avec des associations et des passionnés.
 Nous serons tous heureux, en coupant les rubans et en écoutant La Marseillaise, de voir ces reconstitutions et ces Poilus au garde-à-vous devant nous.
-Des Poilus, il n’y en a plus ! Je veux parler de personnes habillées en Poilus, mon cher collègue : il faut sortir un peu le dimanche ! («Oh !» sur les bancs du groupe REM.) S’il vous plaît, mes chers collègues.
-Des arrestations «musclées» et des perquisitions injustifiées se sont déjà produites.
-Nous pourrions donc, je le crois très honnêtement, assouplir un peu les choses, afin d’éviter que l’on soit toujours «sur le dos» des collectionneurs.
-La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro treize.
+Des Poilus, il n’y en a plus ! Je veux parler de personnes habillées en Poilus, mon cher collègue : il faut sortir un peu le dimanche ! (« Oh ! » sur les bancs du groupe REM.) S’il vous plaît, mes chers collègues.
+Des arrestations « musclées » et des perquisitions injustifiées se sont déjà produites.
+Nous pourrions donc, je le crois très honnêtement, assouplir un peu les choses, afin d’éviter que l’on soit toujours « sur le dos » des collectionneurs.
+La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro treize.
 Cet amendement prévoit le droit au transport des matériels et armes dans l’optique d’une manifestation culturelle de nature historique, cette dernière constituant un motif légitime de port de ces matériels.
 La carte du collectionneur serait un titre de transport légitime.
-La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro quinze.
+La parole est à Monsieur Gilles Lurton, pour soutenir l’amendement numéro quinze.
 Je le retire, monsieur le président.
-La parole est à Madame Laurence Trastour-Isnart, pour soutenir l’amendement numéro vingt-deux.
+La parole est à Madame Laurence Trastour-Isnart, pour soutenir l’amendement numéro vingt-deux.
 Cet amendement a été défendu par mes collègues.
-La parole est à Monsieur Fabien Di Filippo, pour soutenir l’amendement numéro vingt-huit.
+La parole est à Monsieur Fabien Di Filippo, pour soutenir l’amendement numéro vingt-huit.
 Nonobstant l’entrée en vigueur, après bien des années, de la carte du collecteur, nous souhaitons que les personnes qui s’adonnent aux reconstitutions qui rehaussent nos commémorations, ne soient pas importunées lorsqu’elles transportent les armes sur le lieu de commémoration.
 Nous souhaitons donc simplement que le port d’armes, dans ces activités de nature historique, puisse bénéficier d’une certaine souplesse.
-La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-neuf.
+La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro soixante-neuf.
 Même commentaire, même volonté de légiférer afin de garantir la possibilité de participer librement à des commémorations, conformément au respect des libertés individuelles.
-Très bien ! La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-seize.
+Très bien ! La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-seize.
 Il est vrai que la circulation des armes est un problème, qu’on les transporte pour la chasse, pour une manifestation ou pour d’autres motifs.
 Si l’on est arrêté lors d’un contrôle de la maréchaussée, on s’expose à des tas de problèmes voire, parfois, à des confiscations.
 L’objet est donc d’assurer la libre circulation de ceux qui se trouvent dans l’une de ces trois situations.
-Quel est l’avis de la commission ? Les propos de Madame la ministre ayant certainement rassuré les inquiétudes légitimes des collectionneurs, la commission donnera un avis défavorable à ces amendements.
-Quel est l’avis du Gouvernement ? Avis défavorable.
+Quel est l’avis de la commission ? Les propos de Madame la ministre ayant certainement rassuré les inquiétudes légitimes des collectionneurs, la commission donnera un avis défavorable à ces amendements.
+Quel est l’avis du Gouvernement ? Avis défavorable.
 Ces amendements ne sont pas nécessaires, car, comme vient de le dire Monsieur de Courson, il suffit d’avoir le permis de chasse ou l’invitation, si vous vous rendez à une manifestation patriotique.
 Il n’y a donc pas de raison de légiférer à nouveau.
-L’invitation peut suffire ? De plus, comme vous l’avez dit, la carte de collectionneur constituera un autre motif légitime de transport pour les armes collectionnées.
+L’invitation peut suffire ? De plus, comme vous l’avez dit, la carte de collectionneur constituera un autre motif légitime de transport pour les armes collectionnées.
 La parole est à Monsieur Bruno Questel.
-Je voudrais tout d’abord rassurer mon collègue Cordier : cela fait vingt-deux ans, depuis ma première élection comme maire, que je sors le dimanche.
+Je voudrais tout d’abord rassurer mon collègue Cordier : cela fait vingt-deux ans, depuis ma première élection comme maire, que je sors le dimanche.
 J’ai même de la lumière sur mon vélo.
 Je n’ai donc pas de leçon à recevoir.
 J’organise, moi aussi, des cérémonies patriotiques, plusieurs fois par an.
@@ -838,57 +822,57 @@ Cela figurera au procès-verbal, et il sera aisé de le vérifier dans neuf mois
 Cette mesure était annoncée depuis cinq ans, sans que nous en ayons seulement vu la couleur.
 Là est le vrai sujet.
 Pour donner le réalisme le plus grand, il est important de laisser se mouvoir les collectionneurs, vêtus de tenues d’époque ou reconstituées, et équipés d’armes qui, je le répète, sont démilitarisées.
-Je remercie Madame la ministre, dont les propos m’ont donné satisfaction.
+Je remercie Mme la ministre, dont les propos m’ont donné satisfaction.
 Elle a dit publiquement que si vous êtes arrêté avec une arme correspondant au permis de chasser, à la licence de tir ou à la carte du collectionneur, vous êtes en situation tout à fait régulière et vous ne pouvez pas être ennuyé.
-Même une invitation suffit ! Mon amendement numéro soixante-seize étant satisfait, je le retire.
+Même une invitation suffit ! Mon amendement numéro soixante-seize étant satisfait, je le retire.
 La parole est à Monsieur Philippe Latombe.
 Plus que sur le fond, je voudrais revenir sur la forme de l’exposé sommaire de la plupart des amendements déposés.
-«Les déplacements sont devenus impossibles et sources d’angoisse, en raison de l’excès de zèle de fonctionnaires qui procèdent systématiquement à des arrestations musclées suivies de perquisitions traumatisantes et injustifiées», y est-il indiqué.
-Inscrire de tels propos s’agissant des forces de l’ordre qui, dans le contexte que nous connaissons, effectuent leur travail, est inadmissible ! (Applaudissements sur les bancs du groupe REM.) Très bien ! La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro quarante-trois.
+« Les déplacements sont devenus impossibles et sources d’angoisse, en raison de l’excès de zèle de fonctionnaires qui procèdent systématiquement à des arrestations musclées suivies de perquisitions traumatisantes et injustifiées », y est-il indiqué.
+Inscrire de tels propos s’agissant des forces de l’ordre qui, dans le contexte que nous connaissons, effectuent leur travail, est inadmissible ! (Applaudissements sur les bancs du groupe REM.) Très bien ! La parole est à Madame Marie-France Lorho, pour soutenir l’amendement numéro quarante-trois.
 Il est défendu, monsieur le président.
-Je suis saisi de deux amendements identiques, numéros vingt-trois et soixante-dix-sept tendant à porter article additionnel après l’article vingt et un bis.
-La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro vingt-trois.
-Exclure de la catégorie D les armes et matériels historiques apparaît en contradiction avec l’article trente-quatre de la Constitution.
+Je suis saisi de deux amendements identiques, numéros vingt-trois et soixante-dix-sept, tendant à porter article additionnel après l’article vingt et un bis.
+La parole est à Madame Valérie Bazin-Malgras, pour soutenir l’amendement numéro vingt-trois.
+Exclure de la catégorie D les armes et matériels historiques apparaît en contradiction avec l’article trente-quatre de la Constitution.
 Les sortant de la détention libre, le législateur ne saurait transférer au pouvoir exécutif le soin de régler un point relevant des libertés publiques qui reste sa compétence exclusive, sans que celui-ci ait à rendre compte de ses décisions au Parlement.
-La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-dix-sept.
+La parole est à Monsieur Charles de Courson, pour soutenir l’amendement numéro soixante-dix-sept.
 Cet amendement vise à demander un rapport sur l’application de la présente loi concernant les armes de collection et leurs reproductions.
 Nous avons longuement débattu de ce sujet, avec passion, depuis des années.
 Il s’agira donc aussi de faire le point sur l’application de la loi que nous allons voter.
-Quel est l’avis de la commission ? Tant sur la forme que sur le fond, nous avons déjà débattu de ces sujets, c’est pourquoi j’émets un avis défavorable.
-Quel est l’avis du Gouvernement ? La plus-value d’un rapport sur le régime de classement des armes me semblerait très limitée, mais si Monsieur Charles de Courson veut rédiger un rapport, je ne veux pas l’en priver.
+Quel est l’avis de la commission ? Tant sur la forme que sur le fond, nous avons déjà débattu de ces sujets, c’est pourquoi j’émets un avis défavorable.
+Quel est l’avis du Gouvernement ? La plus-value d’un rapport sur le régime de classement des armes me semblerait très limitée, mais si Monsieur Charles de Courson veut rédiger un rapport, je ne veux pas l’en priver.
 Je m’en remets donc à la sagesse de l’Assemblée.
-La parole est à Madame Natalia Pouzyreff, pour soutenir l’amendement numéro soixante-dix-huit.
-Cependant, les membres de la commission des lois m’ayant assuré que la rédaction de l’article faisait foi sur le plan juridique, je propose de retirer cet amendement ainsi que le suivant, numéro soixante-dix-neuf.
+La parole est à Madame Natalia Pouzyreff, pour soutenir l’amendement numéro soixante-dix-huit.
+Cependant, les membres de la commission des lois m’ayant assuré que la rédaction de l’article faisait foi sur le plan juridique, je propose de retirer cet amendement ainsi que le suivant, numéro soixante-dix-neuf.
 La parole est à Madame Emmanuelle Ménard, inscrite sur l’article.
 Il y a presque vingt ans, la construction du projet Galileo, ce système de radionavigation par satellite européen, a été engagée par l’Union européenne, en coopération avec l’Agence spatiale européenne.
 Galileo est un élément essentiel pour la souveraineté de notre pays et de l’Europe.
 Il devrait être un outil d’autonomie économique et stratégique vis-à-vis des systèmes déjà existants et dont nous dépendons.
 Je pense notamment au GPS américain.
 Ce n’est peut-être pas tout à fait un hasard, et c’est dommage.
-Madame Pouzyreff, pouvons-nous considérer, par parallélisme des formes, que vous retirez l’amendement numéro soixante-dix-neuf ? Tout à fait, monsieur le président.
-La parole est à Monsieur Alexis Corbière, pour soutenir l’amendement numéro quarante-neuf.
+Madame Pouzyreff, pouvons-nous considérer, par parallélisme des formes, que vous retirez l’amendement numéro soixante-dix-neuf ? Tout à fait, monsieur le président.
+La parole est à Monsieur Alexis Corbière, pour soutenir l’amendement numéro quarante-neuf.
 L’histoire retiendra que nous aurons examiné une quarantaine d’amendements sur les armes de collection et mené peu de débat sur des choses fondamentales, qui touchent à la souveraineté nationale.
-Très bien ! Comme vous le savez, chers collègues, nous sommes attachés à l’indépendance de la France dans tous les domaines et nous nous félicitons de ce projet Galileo.
+Très bien ! Comme vous le savez, chers collègues, nous sommes attachés à l’indépendance de la France dans tous les domaines et nous nous félicitons de ce projet Galileo.
 Galileo concerne notre système de radionavigation par satellite, qui, cela a été rappelé, trouve son origine dans la volonté de s’affranchir du système de satellite américain, le Global Positioning System – GPS.
 Nous avions ainsi dû faire face au travail de sape de nombreux décideurs américains.
 Comme nous l’avons souvent affirmé lors de la campagne présidentielle, nous soutenons fortement l’achèvement de Galileo, prévu pour deux mille vingt.
 Vous le savez, les États-Unis ont tout fait pour empêcher l’indépendance de l’Europe dans le domaine des satellites de télécommunications, afin de maintenir leur suprématie et leur monopole.
-Depuis l’accord de deux mille quatre une coopération euro-américaine existe, qui vise à assurer l’interopérabilité technique de Galileo et de GPS.
-Toutefois, il est souhaitable que le Gouvernement actuel et l’Union européenne promeuvent une interopérabilité mondiale des systèmes globaux de navigation par satellite, le Global Navigation Satellite System – GNSS –, pas seulement entre Galileo et GPS, mais entre Galileo, GLONASS et Beidou.
+Depuis l’accord de deux mille quatre, une coopération euro-américaine existe, qui vise à assurer l’interopérabilité technique de Galileo et de GPS.
+Toutefois, il est souhaitable que le Gouvernement actuel et l’Union européenne promeuvent une interopérabilité mondiale des systèmes globaux de navigation par satellite, le Global Navigation Satellite System – GNSS –, pas seulement entre Galileo et GPS, mais entre Galileo, GLONASS et Beidou.
 Nous demandons donc un rapport d’information analysant les avantages et les inconvénients techniques, politiques et géostratégiques, de la priorité accordée à la seule coopération entre Galileo et GPS.
 Nous voulons également analyser les avantages et les inconvénients d’un rapprochement entre les systèmes GLONASS et Beidou afin, éventuellement, de conclure à terme un accord permettant une interopérabilité mondiale des systèmes globaux de navigation par satellite.
-Quel est l’avis de la commission ? Nous revenons à une discussion qui a déjà été abondamment nourrie.
+Quel est l’avis de la commission ? Nous revenons à une discussion qui a déjà été abondamment nourrie.
 Nous avions rappelé en commission que l’interopérabilité existe déjà dans certains secteurs entre les opérateurs européen, américain, canadien et russe.
-Mais il s’agit ici d’interopérabilité dans un secteur éminemment sensible : le système crypté de Galileo, en matière de défense pour les Américains, civile pour nous.
+Mais il s’agit ici d’interopérabilité dans un secteur éminemment sensible : le système crypté de Galileo, en matière de défense pour les Américains, civile pour nous.
 Il est risqué d’aller sur ce terrain.
 Comme je l’avais fait en commission, je vous invite, mon cher collègue, si la question vous tient particulièrement à cœur, à vous rapprocher de l’Office parlementaire d’évaluation des choix scientifiques et technologiques, présidé par Cédric Villani, qui travaille sur ces sujets.
 Avis défavorable.
-Quel est l’avis du Gouvernement ? Même avis.
+Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Alexis Corbière.
 Je ne veux pas prolonger un débat tardif, mais je ne comprends pas la réponse qui m’est donnée.
 Vous me dites, mon cher collègue, que parce que le sujet est sensible, nous ne pourrions pas en parler ici.
-Mais enfin, nous sommes le Parlement ! Je ne comprends pas que, sur une question pareille, vous me répondiez ainsi.
-Vous ne pouvez pas me dire à la fois que le sujet est très important et que, de ce fait, ce n’est pas au Parlement d’en parler ! La parole est à Monsieur Christophe Euzet, pour soutenir l’amendement numéro soixante-trois.
+Mais enfin, nous sommes le Parlement ! Je ne comprends pas que, sur une question pareille, vous me répondiez ainsi.
+Vous ne pouvez pas me dire à la fois que le sujet est très important et que, de ce fait, ce n’est pas au Parlement d’en parler ! La parole est à Monsieur Christophe Euzet, pour soutenir l’amendement numéro soixante-trois.
 Il s’agit d’un amendement de coordination.
 Je mets aux voix l’ensemble du projet de loi.
 La séance est levée.
