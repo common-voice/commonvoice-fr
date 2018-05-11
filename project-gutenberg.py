@@ -16,6 +16,26 @@ from utils import splitIntoWords, filter_numbers, maybe_normalize, check_output_
 def remove_markup(t):
   return ''.join(BeautifulSoup(markdown(t), 'html.parser').findAll(text=True))
 
+mapping_specific = [
+  [ u'N.-N.-E.', u'nord-nord-est'    ],
+  [ u'E.-N.-E.', u'est-nord-est'     ],
+  [ u'E.-N.-O.', u'est-nord-est'     ],
+  [ u'E.-S.-E.', u'est-sud-est'      ],
+  [ u'S.-S.-E.', u'sud-sud-est'      ],
+  [ u'S.-S.-O.', u'sud-sud-ouest'    ],
+  [ u'O.-S.-O.', u'ouest-sud-ouest'  ],
+  [ u'O.-N.-O.', u'ouest-nord-ouest' ],
+  [ u'N.-N.-O.', u'nord-nord-ouest'  ],
+  [ u'N.-E.',    u'nord-est'   ],
+  [ u'S.-E.',    u'sud-est'    ],
+  [ u'S.-O.',    u'sud-ouest'  ],
+  [ u'N.-O.',    u'nord-ouest' ],
+  [ u'N.',       u'nord'  ],
+  [ u'S..',      u'sud'   ],
+  [ u'E.',       u'est'   ],
+  [ u'O.',       u'ouest' ],
+]
+
 parser = argparse.ArgumentParser(description='Project Gutenberg text content extraction for Common Voice')
 parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
 parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
@@ -69,6 +89,7 @@ for line in finaltext.split('\n'):
       continue
 
     line = maybe_normalize(line)
+    line = maybe_normalize(line, mapping=mapping_specific)
     line = filter_numbers(line)
 
     print(line)

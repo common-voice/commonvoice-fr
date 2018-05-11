@@ -185,8 +185,8 @@ def filter_numbers(inp):
 
   return finalinp
 
-def maybe_normalize(value):
-  for norm in mapping_normalization:
+def maybe_normalize(value, mapping=mapping_normalization):
+  for norm in mapping:
     if type(norm[0]) == str:
       value = value.replace(norm[0], norm[1])
     elif isinstance(norm[0], Pattern):
