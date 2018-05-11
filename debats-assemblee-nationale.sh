@@ -5,8 +5,9 @@ if [ ! -f "SyceronBrut.xml" ]; then
     exit 1
 fi;
 
-ls "data/debats-assemblee-nationale/*.txt" 2>/dev/null 1>/dev/null
-if [ $? -gt 0 ]; then
+ls data/debats-assemblee-nationale/*.txt
+ls_ret=$?
+if [ $ls_ret -eq 0 ]; then
     echo "Please cleanup data/debats-assemblee-nationale/*.txt"
     exit 1
 fi;
