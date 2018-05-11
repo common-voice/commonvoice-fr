@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import sys
 import re
 import os
 import argparse
@@ -9,7 +8,7 @@ import datetime
 from xml.dom.pulldom import START_ELEMENT, CHARACTERS, END_ELEMENT, parse
 from xml.dom.minidom import Element, Text
 
-from utils import splitIntoWords, filter_numbers, recursive_text
+from utils import splitIntoWords, filter_numbers, recursive_text, check_output_dir
 
 parser = argparse.ArgumentParser(description='SyceronBrut text content extraction for Common Voice')
 parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
@@ -22,6 +21,7 @@ parser.add_argument('file', type=str, help='Source XML file')
 parser.add_argument('output', type=str, help='Output directory')
 
 args = parser.parse_args()
+check_output_dir(args.output)
 
 doc = parse(args.file)
 indent_level = 0
@@ -41,10 +41,6 @@ seance_context = None
 accepted_code_style = [
   'NORMAL'
 ]
-
-if not os.path.isdir(args.output):
-  print('Directory does not exists', args.output, file=sys.stderr)
-  sys.exit(1)
 
 for event, node in doc:
   if not is_syceron:

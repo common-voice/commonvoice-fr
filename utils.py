@@ -1,5 +1,7 @@
 import roman
 import re
+import os
+import sys
 
 from num2words import num2words
 
@@ -238,3 +240,8 @@ def recursive_text(root, finaltext=""):
       if c.nodeType == c.ELEMENT_NODE:
         finaltext += recursive_text(c)
   return finaltext
+
+def check_output_dir(output):
+  if not os.path.isdir(output):
+    print('Directory does not exists', output, file=sys.stderr)
+    sys.exit(1)
