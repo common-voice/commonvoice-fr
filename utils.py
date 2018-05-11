@@ -4,6 +4,7 @@ import os
 import sys
 
 from num2words import num2words
+from typing.re import Pattern
 
 mapping_normalization = [
   #[ u'\xa0 ', u' ' ],
@@ -19,6 +20,8 @@ mapping_normalization = [
   [ u'Mlles\u00a0', u'Mademoiselles ' ],
   [ u'Mlles ', u'Mademoiselles ' ],
   [ u'%', u'pourcent' ],
+  [ u'arr. ', u'arrondissement ' ],
+  [ re.compile('\[\d+\]'), u'' ],
 ]
 
 superscript_chars_mapping = {
@@ -184,7 +187,12 @@ def filter_numbers(inp):
 
 def maybe_normalize(value):
   for norm in mapping_normalization:
-    value = value.replace(norm[0], norm[1])
+    if type(norm[0]) == str:
+      value = value.replace(norm[0], norm[1])
+    elif isinstance(norm[0], Pattern):
+      value = norm[0].sub(norm[1], value)
+    else:
+      print('UNEXPECTED', type(norm[0]), norm[0])
 
   for ro_before, ro_after, ro in getRomanNumbers(value):
     #print('maybe_normalize', 'ro=', ro)
