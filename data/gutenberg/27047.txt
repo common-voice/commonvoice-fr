@@ -1,0 +1,902 @@
+Nouvelle version NEF, University of Toronto, deux mille huit Copyright © deux mille huit Marie Lebert Du Projet Gutenberg en mille neuf cent soixante et onze à l'Encyclopedia of Life en deux mille sept, trente-huit étapes avec résumé et description plus détaillée.
+Ce dossier est disponible aussi en anglais, avec un texte différent.
+Les deux versions sont disponibles sur le NEF http://www.etudes-francaises.net/dossiers/technologies.htm.
+Marie Lebert, chercheuse et journaliste, s'intéresse aux technologies dans le monde du livre, des autres médias et des langues.
+Elle est l'auteure des ouvrages Les mutations du livre (deux mille sept) et Le Livre dix mille cent un (deux mille trois).
+Tous ses livres et dossiers sont publiés par le NEF (Net des études françaises), Université de Toronto, et sont librement disponibles en ligne sur le NEF http://www.etudes-francaises.net.
+Ce dossier doit beaucoup à toutes les personnes ayant accepté de répondre à mes questions, dont certaines pendant plusieurs années.
+La plupart des entretiens sont disponibles sur le NEF .
+Introduction Michael Hart fonde le Projet Gutenberg en mille neuf cent soixante et onze.
+Il écrit en mille neuf cent quatre-vingt-dix-huit: "Nous considérons le texte électronique comme un nouveau médium, sans véritable relation avec le papier.
+Il écrit en mille neuf cent quatre-vingt-dix-huit: "Le rêve derrière le web est un espace d'information commun dans lequel nous communiquons en partageant l'information.
+Son universalité est essentielle, à savoir le fait qu'un lien hypertexte puisse pointer sur quoi que ce soit, quelque chose de personnel, de local ou de global, aussi bien une ébauche qu'une réalisation très sophistiquée.
+Deuxième partie de ce rêve, le web deviendrait d'une utilisation tellement courante qu'il serait un miroir réaliste (sinon la principale incarnation) de la manière dont nous travaillons, jouons et nouons des relations sociales.
+Il écrit en mille neuf cent quatre-vingt-dix-huit: "Je me suis passionné pour l'énorme potentiel qu'a l'internet de rendre la littérature accessible au plus grand nombre.
+(...) Je suis très intéressé par le développement de l'internet en tant que médium de communication de masse dans les prochaines années.
+L'ASCII permet donc uniquement la lecture de l'anglais et du latin.
+Par la suite, des variantes de l'ASCII (norme ISO-huit mille huit cent cinquante-neuf ou ISO-Latin) prennent en compte les caractères accentués de quelques langues européennes.
+La variante pour le français est définie par la norme ISO huit mille huit cent cinquante-neuf-un (Latin-un).
+[En détail] Le premier système d'encodage informatique est l'ASCII (American standard code for information interchange).
+L'ASCII permet uniquement la lecture de l'anglais et du latin.
+Il ne permet pas de prendre en compte les lettres accentuées présentes dans bon nombre de langues européennes, et à plus forte raison les systèmes non alphabétiques (chinois, japonais, coréen, etc.).
+Ceci ne pose pas de problème majeur les premières années, tant que l'échange de fichiers électroniques se limite essentiellement à l'Amérique du Nord.
+Des variantes de l'ASCII (norme ISO-huit mille huit cent cinquante-neuf ou ISO-Latin) prennent en compte les caractères accentués de quelques langues européennes.
+La variante pour le français est définie par la norme ISO huit mille huit cent cinquante-neuf-un (Latin-un).
+Avec le développement du web, l'échange des données s'internationalise de plus en plus.
+On ne peut plus se limiter à l'utilisation de l'anglais et de quelques langues européennes, traduites par un système d'encodage datant des années mille neuf cent soixante.
+Publié pour la première fois en janvier mille neuf cent quatre-vingt-onze, l'Unicode est un système d'encodage universel sur seize bits spécifiant un nombre unique pour chaque caractère.
+Ce nombre est lisible quels que soient la plateforme, le logiciel et la langue utilisés.
+L'Unicode peut traiter soixante-cinq.000 caractères uniques et prendre en compte tous les systèmes d'écriture de la planète.
+L'ASCII garde toutefois une place prépondérante.
+Dénommé à juste titre le plus petit dénominateur commun, l'ASCII sur sept bits est le seul format compatible avec quatre-vingt-dix-neufpourcent des machines et des logiciels, et pouvant être converti dans d'autres formats.
+Il sera toujours utilisé quand d'autres formats auront disparu, à commencer par les formats éphémères liés à quelques tablettes de lecture commercialisées depuis mille neuf cent quatre-vingt-dix-neuf et déjà disparues du marché.
+Il est l'assurance que les documents survivront aux changements technologiques des prochaines décennies ou même des prochains siècles.
+Il n'existe pas d'autre standard aussi largement utilisé, y compris l'Unicode, ce jusqu'en deux mille huit, date à laquelle les deux systèmes d'encodage sont également représentés sur le web.
+[Résumé] Fondé par Michael Hart en juillet mille neuf cent soixante et onze alors qu'il était étudiant à l'Université d'Illinois (Etats-Unis), le Projet Gutenberg a pour but de diffuser gratuitement par voie électronique le plus grand nombre possible d'oeuvres du domaine public.
+Il est le premier site d'information sur un internet encore embryonnaire, qui débute véritablement en mille neuf cent soixante-quatorze et prend son essor en mille neuf cent quatre-vingt-trois.
+Vient ensuite le web (sous-ensemble de l'internet), opérationnel en mille neuf cent quatre-vingt-onze, puis le premier navigateur, qui apparaît en novembre mille neuf cent quatre-vingt-treize.
+Lorsque l'utilisation du web se généralise, le Projet Gutenberg trouve un second souffle et un rayonnement international.
+Au fil des ans, des centaines d'oeuvres sont patiemment numérisées en mode texte par des milliers de volontaires.
+D'abord essentiellement anglophones, les collections deviennent peu à peu multilingues.
+Le Projet Gutenberg Europe débute en janvier deux mille quatre.
+Le Projet Gutenberg franchit la barre des vingt.000 titres en décembre deux mille six et celle des vingt-cinq.000 titres en avril deux mille huit.
+[En détail] Si le livre imprimé a cinq siècles et demi, le livre numérique n'a pas encore quarante ans.
+Il est né avec le Projet Gutenberg, créé en juillet mille neuf cent soixante et onze par Michael Hart pour diffuser gratuitement sous forme électronique les oeuvres littéraires du domaine public.
+Site pionnier à tous égards, le Projet Gutenberg est à la fois le premier site d'information sur un réseau encore embryonnaire et la première bibliothèque numérique.
+Longtemps considéré par ses détracteurs comme totalement irréaliste, le Projet Gutenberg compte trente.00 titres en novembre deux mille huit, avec des dizaines de milliers de téléchargements quotidiens.
+A ce jour, personne n'a fait mieux pour mettre les classiques de la littérature mondiale à la disposition de tous, ni pour créer à moindres frais un immense réseau de volontaires de par le monde, sans gâchis de compétences ni d'énergie.
+Les vingt premières années, Michael Hart numérise lui-même les cent premiers livres, avec l'aide occasionnelle de telle ou telle personne.
+Lorsque l'utilisation du web se généralise au milieu des années mille neuf cent quatre-vingt-dix, le projet trouve un second souffle et un rayonnement international.
+Tout en continuant de numériser des livres, Michael coordonne désormais le travail de dizaines puis de centaines de volontaires de par le monde.
+Les collections atteignent un.000 livres en août mille neuf cent quatre-vingt-dix-sept, deux.000 livres en mai mille neuf cent quatre-vingt-dix-neuf, trois.000 livres en décembre deux mille et quatre.000 livres en octobre deux mille un.
+Trente ans après ses débuts, le Projet Gutenberg fonctionne à plein régime.
+Qu'ils aient été numérisés il y a trente ans ou qu'ils soient numérisés maintenant, tous les livres sont numérisés en mode texte, en utilisant l'ASCII (American standard code for information interchange) original sur sept bits, avec des règles précises pour le formatage.
+Grâce à quoi les textes peuvent être lus sans problème quels que soient la machine, la plateforme et le logiciel utilisés, y compris sur un PDA ou sur une tablette de lecture.
+Libre ensuite à chacun de convertir les livres dans d'autres formats, après avoir vérifié que les oeuvres sont également du domaine public dans le pays concerné.
+En janvier deux mille quatre, le Projet Gutenberg essaime outre-Atlantique avec la création du Projet Gutenberg Europe.
+A la mission originelle s'ajoute le rôle de passerelle entre les langues et les cultures, avec de nombreuses sections nationales et linguistiques.
+Tout en conservant la même ligne de conduite, à savoir la lecture pour tous à moindres frais, par le biais du texte électronique gratuit, indéfiniment utilisable et reproductible.
+Et, dans un deuxième temps, la numérisation de l'image et du son, dans le même esprit.
+[Résumé] Apparu en mille neuf cent soixante-quatorze, l'internet se développe rapidement à partir de mille neuf cent quatre-vingt-trois.
+L'internet est un vaste réseau informatique opérant à l'échelle mondiale et reliant une multitude de sous-réseaux au moyen d'un même protocole (IP: internet protocol), ce protocole permettant à des ordinateurs différents de communiquer entre eux.
+Le réseau internet regroupe les réseaux publics, réseaux privés, réseaux commerciaux, réseaux d'enseignement, réseaux de services, etc., opérant à l'échelle planétaire pour offrir d'énormes ressources en information, communication et diffusion.
+ Vinton Cerf est souvent appelé le père de l'internet parce qu'il crée en mille neuf cent soixante-quatorze (avec Bob Kahn) le protocole TCP/IP (transmission control protocol / internet protocol), à la base de tout échange de données.
+En mille neuf cent quatre-vingt-douze, Vinton Cerf fonde l'Internet Society (ISOC), un organisme international visant à promouvoir le développement de l'internet.
+Quelque trente ans après les débuts de l'internet, "ses trois pouvoirs - l'ubiquité, la variété et l'interactivité - rendent son potentiel d'usages quasi infini" (Le Monde, dix-neuf août deux mille cinq).
+[En détail] Apparu en mille neuf cent soixante-quatorze, l'internet est d'abord un phénomène expérimental enthousiasmant quelques branchés.
+A partir de mille neuf cent quatre-vingt-trois, il relie les centres de recherche et les universités.
+Suite à l'apparition du web en mille neuf cent quatre-vingt-dix et du premier navigateur en mille neuf cent quatre-vingt-treize, il envahit notre vie quotidienne.
+Les signes cabalistiques des adresses web fleurissent sur les livres, les journaux, les affiches et les publicités.
+La presse s'enflamme pour ce nouveau médium.
+La majuscule d'origine d'Internet s'estompe.
+Internet devient l'internet, avec un "i" minuscule.
+De nom propre il devient nom commun, au même titre que l'ordinateur, le téléphone, le fax et le minitel.
+La même remarque vaut pour le World Wide Web, qui devient tout simplement le web.
+Mais comment définir l'internet autrement que par ses composantes techniques? Sur le site de l'Internet Society (ISOC), organisme international coordonnant le développement du réseau, A Brief History of the Internet propose une triple définition.
+L'internet est: (a) un instrument de diffusion internationale, (b) un mécanisme de diffusion de l'information, (c) un moyen de collaboration et d'interaction entre les individus et les ordinateurs, indépendamment de leur situation géographique.
+Selon ce document, bien plus que toute autre invention (télégraphe, téléphone, radio, ordinateur), l'internet révolutionne de fond en comble le monde des communications.
+Il représente l'un des exemples les plus réussis d'interaction entre un investissement soutenu dans la recherche et le développement d'une infrastructure de l'information, dans le cadre d'un réel partenariat entre les gouvernements, les entreprises et les universités.
+Sur le site du World Wide Web Consortium (W3C), organisme international de normalisation du web, Bruce Sterling décrit le développement spectaculaire de l'internet dans Short History of the Internet.
+L'internet se développe plus vite que les téléphones cellulaires et les télécopieurs.
+En mille neuf cent quatre-vingt-seize, sa croissance est de vingtpourcent par mois.
+Le nombre de machines ayant une connexion directe TCP/IP (transmission control protocol / internet protocol) a doublé depuis mille neuf cent quatre-vingt-huit.
+D'abord présent dans l'armée et dans les instituts de recherche, l'internet déferle dans les écoles, les universités et les bibliothèques, et il est également pris d'assaut par le secteur commercial.
+Bruce Sterling s'intéresse aux raisons pour lesquelles on se connecte à l'internet.
+Une raison majeure lui semble être la liberté.
+L'internet est un exemple d'"anarchie réelle, moderne et fonctionnelle".
+Il n'y a pas de société régissant l'internet.
+Il n'y a pas non plus de censeurs officiels, de patrons, de comités de direction ou d'actionnaires.
+Toute personne peut parler d'égale à égale avec une autre, du moment qu'elle se conforme aux protocoles TCP/IP, des protocoles qui ne sont pas sociaux ni politiques mais strictement techniques.
+Malgré tous les efforts des "dinosaures" politiques et commerciaux, il est difficile à quelque organisme que ce soit de mettre la main sur l'internet.
+C'est ce qui fait sa force.
+On y voit aussi une réelle solidarité.
+Christiane Jadelot, ingénieur d'études à l'INaLF-Nancy (INaLF: Institut national de la langue française), relate en juin mille neuf cent quatre-vingt-dix-huit: "J'ai commencé à utiliser vraiment l'internet en mille neuf cent quatre-vingt-quatorze, je crois, avec un logiciel qui s'appelait Mosaic.
+J'ai alors découvert un outil précieux pour progresser dans ses connaissances en informatique et linguistique, littérature...
+Tous les domaines sont couverts.
+Il y a le pire et le meilleur, mais en consommateur averti, il faut faire le tri de ce que l'on trouve.
+J'ai surtout apprécié les logiciels de courrier, de transfert de fichiers, de connexion à distance.
+J'avais à cette époque des problèmes avec un logiciel qui s'appelait Paradox et des polices de caractères inadaptées à ce que je voulais faire.
+J'ai tenté ma chance et posé la question dans un groupe de News approprié.
+Dans son livre Chaos et cyberculture (éditions du Lézard, mille neuf cent quatre-vingt-dix-huit), il écrit: "Jamais l'individu n'a eu à sa portée un tel pouvoir.
+Mais, à l'âge de l'information, il faut saisir les signaux.
+Populariser signifie 'rendre accessible au peuple'.
+Aujourd'hui, le rôle du philosophe est de personnaliser, de populariser et d'humaniser les concepts informatiques, de façon à ce que personne ne se sente exclu." Outre ce changement radical dans la relation information-utilisateur, on assiste à une transformation radicale de la nature même de l'information.
+L'information contenue dans les livres reste la même, au moins pendant une période donnée, alors que l'internet privilégie l'information la plus récente qui, elle, est en constante mutation.
+Vinton Cerf co-invente avec Bob Kahn en mille neuf cent soixante-quatorze le protocole TCP/IP, à la base de tout échange de données sur le réseau.
+Sur le site de l'Internet Society (ISOC), qu'il fonde en mille neuf cent quatre-vingt-douze pour promouvoir le développement de l'internet, il explique: "Le réseau fait deux choses (...): comme les livres, il permet d'accumuler de la connaissance.
+Mais, surtout, il la présente sous une forme qui la met en relation avec d'autres informations.
+Ce format permet de favoriser les échanges de données entre les différents formats MARC existants, qui correspondent chacun à une pratique nationale de catalogage (INTERMARC en France, UKMARC au Royaume-Uni, USMARC aux Etats-Unis, CAN/MARC au Canada, etc.).
+Les notices dans le format MARC d'origine sont d'abord converties au format UNIMARC avant d'être converties à nouveau dans le format MARC de destination.
+UNIMARC peut également être utilisé comme "modèle" pour le développement de nouveaux formats MARC.
+[En détail] A la fin des années mille neuf cent quatre-vingt-dix, l'avenir des catalogues en réseau tient à l'harmonisation du format MARC (machine readable cataloging) par le biais de l'UNIMARC (universal machine readable cataloging).
+Créé en mille neuf cent soixante-dix-sept par l'IFLA (International Federation of Library Associations), le format UNIMARC est un format universel permettant le stockage et l'échange de notices bibliographiques au moyen d'une codification des différentes parties de la notice (auteur, titre, éditeur, etc.) pour traitement informatique.
+Ce format favorise les échanges de données entre la vingtaine de formats MARC existants, qui correspondent chacun à une pratique nationale de catalogage (INTERMARC en France, UKMARC au Royaume-Uni, USMARC aux Etats-Unis, CAN/MARC au Canada, etc.).
+Les notices dans le format MARC d'origine sont d'abord converties au format UNIMARC avant d'être converties à nouveau dans le format MARC de destination.
+UNIMARC peut aussi être utilisé comme standard pour le développement de nouveaux formats MARC.
+Dans le monde anglophone, la British Library (qui utilise UKMARC), la Library of Congress (qui utilise USMARC) et la Bibliothèque nationale du Canada (qui utilise CAN/MARC) décident d'harmoniser leurs formats MARC nationaux.
+Un programme de trois ans (de décembre mille neuf cent quatre-vingt-quinze à décembre mille neuf cent quatre-vingt-dix-huit) permet de mettre au point un format MARC commun aux trois bibliothèques.
+Parallèlement, en mille neuf cent quatre-vingt-seize, dans le cadre de son Programme des bibliothèques, la Commission européenne promeut l'utilisation du format UNIMARC comme format commun d'échange entre tous les formats MARC utilisés dans les pays de l'Union européenne.
+Le groupe de travail correspondant étudie aussi les problèmes posés par les différentes polices de caractères, ainsi que la manière d'harmoniser le format bibliographique, tout comme le format du document lui-même pour les documents disponibles en ligne.
+[Résumé] L'idée du copyleft est lancée en mille neuf cent quatre-vingt-quatre par Richard Stallman, ingénieur en informatique et défenseur inlassable du mouvement «open source« au sein de la Free Software Foundation (FSF).
+Conçu à l'origine pour les logiciels, le copyleft est formalisé par la GPL (general public license) et étendu par la suite à toute oeuvre de création, le copyleft contient la déclaration normale du copyright affirmant la propriété et l'identification de l'auteur.
+Son originalité est de donner à l'utilisateur le droit de librement redistribuer le document et de le modifier.
+L'utilisateur ne peut toutefois revendiquer ni la paternité du travail original ni celle des changements effectués par d'autres.
+De plus, tous les travaux dérivés sont eux-mêmes soumis au copyleft.
+Chez les auteurs et les créateurs numériques, les adeptes du copyleft sont de plus en plus nombreux, afin de respecter la vocation première du web, réseau de communication et de diffusion à l'échelon mondial.
+[Résumé] Nom usuel du World Wide Web, le web (avec ou sans majuscule) est conçu en mille neuf cent quatre-vingt-neuf-quatre-vingt-dix par Tim Berners-Lee, alors chercheur au CERN (Organisation européenne pour la recherche nucléaire) à Genève.
+En mille neuf cent quatre-vingt-neuf, il met en réseau des documents utilisant l'hypertexte.
+En mille neuf cent quatre-vingt-dix, il met au point le premier serveur HTTP (hypertext transfert protocol) et le premier navigateur web.
+En mille neuf cent quatre-vingt-onze, le web est opérationnel et change radicalement l'utilisation de l'internet (qui existe depuis mille neuf cent soixante-quatorze).
+Selon les termes mêmes de son inventeur, le web est "un espace commun d'information dans lequel nous communiquons en partageant cette information".
+En novembre mille neuf cent quatre-vingt-treize, le web prend son essor grâce à Mosaic, premier navigateur à destination du grand public.
+En octobre mille neuf cent quatre-vingt-quatorze est fondé le consortium W3C (World Wide Web Consortium), un consortium international chargé de développer les normes et protocoles nécessaires au bon fonctionnement du web.
+Le W3C est présidé par Tim Berners-Lee.
+Quinze ans après la création du web, le magazine Wired constate dans son numéro d'août deux mille cinq que "moins de la moitié du web est commercial, le reste fonctionne avec la passion".
+[En détail] Tim Berners-Lee invente le web en mille neuf cent quatre-vingt-neuf-quatre-vingt-dix.
+Dans The World Wide Web: A very short personal history, il écrit en avril mille neuf cent quatre-vingt-dix-huit: "Le rêve derrière le web est un espace d'information commun dans lequel nous communiquons en partageant l'information.
+Certains appellent cette étape le web un.0.
+Ces hyperliens sont utilisés au sein d'une même page web, au sein du même site web (pour relier les pages les unes aux autres) et vers d'autres sites web.
+Le web permet au livre de se convertir.
+On voit apparaître les textes électroniques, les bibliothèques numériques, les librairies en ligne, les éditeurs électroniques, les encyclopédies en ligne, les oeuvres hypermédias, les logiciels de lecture et les appareils de lecture dédiés.
+Le web devient une vaste encyclopédie.
+Au début des années deux mille, des milliers d'oeuvres du domaine public sont en accès libre.
+Les libraires et les éditeurs ont pour la plupart un site web.
+Certains naissent directement sur le web, avec la totalité de leurs transactions s'effectuant via l'internet.
+De plus en plus de livres et revues ne sont disponibles qu'en version numérique, pour éviter les coûts d'une publication imprimée.
+L'internet devient un outil indispensable pour se documenter, avoir accès aux documents et élargir ses connaissances.
+Le web est non seulement une gigantesque encyclopédie mais aussi une énorme bibliothèque, une immense librairie et un médium des plus complets.
+De statique dans les livres imprimés, l'information devient fluide, avec possibilité d'actualisation constante.
+Une fois que ces interactions seraient en ligne, nous pourrions utiliser nos ordinateurs pour nous aider à les analyser, donner un sens à ce que nous faisons, et voir comment chacun trouve sa place et comment nous pouvons mieux travailler ensemble." En effet.
+L'expression "web deux.0" émane d'ailleurs d'un éditeur puisqu'elle est utilisée pour la première fois en deux mille quatre par Tim O'Reilly, fondateur O'Reilly Media, en tant que titre pour une série de conférences.
+Certains parlent de World Live Web au lieu de World Wide Web, le nom d'origine du web.
+Le web vise non seulement à utiliser l'information, mais aussi à collaborer en ligne, par exemple en tenant un blog personnel ou collectif, ou encore en participant aux encyclopédies Citizendium ou Wikipedia, cette dernière étant devenue l'un des dix sites les plus visités du web.
+Certains sites comunautaires sont "incontournables", par exemple le site de photos Flickr, le site de vidéos YouTube ou les réseaux sociaux Facebook et MySpace.
+Le web trois.0 serait le web du futur, un web de troisième génération qui prendrait logiquement le relais du web deux.0.
+Il s'agirait d'un web capable d'apporter une réponse complète à une requête exprimée en langage courant.
+D'après la société Radar Networks, ce web serait "doté d'une forme d'intelligence artificielle globale et collective", avec des données qui seraient rassemblées sur les nombreux sites sociaux existant sur le web, tout comme les sites sur lesquels les utilisateurs donnent leur avis.
+Ces données pourraient ensuite être traitées automatiquement après avoir été structurées sur la base du langage descriptif RDF (resource description framework) développé par le W3C (World Wide Web Consortium), l'organisme international chargé du développement du web.
+Cette définition du web trois.0 est d'ailleurs loin de faire l'unanimité.
+Terminons par quelques chiffres, ceux de Netcraft, une société de services internet qui fait un décompte des sites web au fil des ans.
+La forte croissance de l'année deux mille six serait due à l'explosion des sites de petites entreprises et des blogs.
+[Résumé] Publié pour la première fois en janvier mille neuf cent quatre-vingt-onze, l'Unicode est un système d'encodage informatique sur seize bits spécifiant un nombre unique pour chaque caractère.
+Ce nombre est lisible quels que soient la plateforme, le logiciel et la langue utilisés.
+L'Unicode peut traiter soixante-cinq.000 caractères uniques et prendre en compte tous les systèmes d'écriture de la planète.
+A la grande satisfaction des linguistes, l'Unicode remplace progressivement l'ASCII (American standard code for information interchange), un système d'encodage sur sept bits datant de mille neuf cent soixante-huit et ne pouvant traiter que l'anglais et quelques langues européennes.
+L'utilisation de l'Unicode commence à se généraliser en mille neuf cent quatre-vingt-dix-huit.
+Les versions récentes du système d'exploitation Windows de Microsoft (Windows NT, Windows deux mille, Windows XP, Windows Vista) utilisent l'Unicode pour les fichiers texte, alors que les versions précédentes utilisaient l'ASCII.
+L'Unicode dispose de plusieurs variantes en fonction des besoins, par exemple UTF-huit, UTF-seize et UTF-trente-deux (UTF: Unicode transformation format).
+[En détail] Avec l'apparition du web en mille neuf cent quatre-vingt-dix, l'échange des données s'internationalise de plus en plus.
+On ne peut plus se limiter à l'utilisation de l'anglais et de quelques langues européennes, transcrites en ASCII (American standard code for information interchange), un système d'encodage sur sept bits datant de mille neuf cent soixante-huit.
+Publié pour la première fois en janvier mille neuf cent quatre-vingt-onze, l'Unicode est un système d'encodage universel sur seize bits spécifiant un nombre unique pour chaque caractère.
+Ce nombre est lisible quels que soient la plateforme, le logiciel et la langue utilisés.
+L'Unicode peut traiter soixante-cinq.000 caractères uniques et prendre en compte tous les systèmes d'écriture de la planète.
+A la grande satisfaction des linguistes, il remplace progressivement l'ASCII.
+L'Unicode dispose de plusieurs variantes en fonction des besoins, par exemple UTF-huit, UTF-seize et UTF-trente-deux (UTF: Unicode transformation format).
+Il devient une composante des spécifications du W3C (World Wide Web Consortium), l'organisme international chargé du développement du web.
+L'utilisation de l'Unicode se généralise en mille neuf cent quatre-vingt-dix-huit, par exemple pour les fichiers texte sous plateforme Windows (Windows NT, Windows deux mille, Windows XP, Windows Vista), qui étaient jusque-là en ASCII.
+Les difficultés sont immenses: notre clavier avec ses ± deux cent cinquante touches avoue ses manques dès lors qu'il faille saisir des Katakana ou Hiragana japonais, pire encore avec la langue chinoise.
+La grande variété des systèmes d'écritures de par le monde et le nombre de leurs signes font barrage.
+Il faut que le réseau respecte les lettres accentuées, les lettres spécifiques, etc.
+Je crois très important que les futurs protocoles permettent une transmission parfaite de ces aspects - ce qui n'est pas forcément simple (dans les futures évolutions de l'HTML, ou des protocoles IP, etc.).
+Donc, il faut que chacun puisse se sentir à l'aise avec l'internet et que ce ne soit pas simplement réservé à des (plus ou moins) anglophones.
+Il est anormal aujourd'hui que la transmission d'accents puisse poser problème dans les courriers électroniques.
+La première démarche me semble donc une démarche technique.
+A cette date, John Mark Ockerbloom est doctorant à l'Université Carnegie Mellon (à Pittsburgh, dans l'Etat de Pennsylvanie).
+En mille neuf cent quatre-vingt-dix-neuf, il rejoint l'Université de Pennsylvanie pour travailler à la R&D (recherche et développement) de la bibliothèque numérique.
+A la même époque, il y transfère l'Online Books Page, tout en gardant la même présentation, très sobre, et il poursuit son travail d'inventaire dans le même esprit.
+En deux mille trois, ce répertoire fête ses dix ans et recense vingt.000 textes électroniques, dont quatre.000 textes publiés par des femmes.
+En deux mille six, il recense vingt-cinq.000 textes.
+En deux mille huit, il recense trente.000 textes, dont sept.000 titres du Projet Gutenberg.
+[En détail] Si certains se donnent pour tâche de numériser des oeuvres, comme le Projet Gutenberg, d'autres décident de répertorier celles qui sont en accès libre sur le web, en offrant au lecteur un point d'accès commun.
+C'est le cas de John Mark Ockerbloom, doctorant à l'Université Carnegie Mellon (à Pittsburgh, dans l'Etat de Pennsylvanie), qui crée l'Online Books Page pour recenser les oeuvres anglophones.
+Cinq ans plus tard, en septembre mille neuf cent quatre-vingt-dix-huit, John Mark relate: "J'étais webmestre ici pour la section informatique de la CMU (Carnegie Mellon University), et j'ai débuté notre site local en mille neuf cent quatre-vingt-treize.
+Ensuite les gens ont commencé à demander des liens vers des livres disponibles sur d'autres sites.
+J'ai remarqué que de nombreux sites (et pas seulement le Projet Gutenberg ou Wiretap) proposaient des livres en ligne, et qu'il serait utile d'en avoir une liste complète qui permette de télécharger ou de lire des livres où qu'ils soient sur l'internet.
+C'est ainsi que mon index a débuté.
+J'ai quitté mes fonctions de webmestre en mille neuf cent quatre-vingt-seize, mais j'ai gardé la gestion de l'Online Books Page, parce qu'entre temps je m'étais passionné pour l'énorme potentiel qu'a l'internet de rendre la littérature accessible au plus grand nombre.
+Maintenant il y a tant de livres mis en ligne que j'ai du mal à rester à jour.
+Je pense pourtant poursuivre cette activité d'une manière ou d'une autre.
+Je suis très intéressé par le développement de l'internet en tant que médium de communication de masse dans les prochaines années.
+En mille neuf cent quatre-vingt-dix-neuf, il rejoint l'Université de Pennsylvanie, où il travaille à la R&D (recherche et développement) de la bibliothèque numérique de l'université.
+A la même époque, il y transfère l'Online Books Page, tout en gardant la même présentation, très sobre, et il poursuit son travail d'inventaire dans le même esprit.
+Ce répertoire recense vingt.000 livres en septembre deux mille trois, vingt-cinq.000 livres en décembre deux mille six et trente.000 livres en décembre deux mille sept.
+[Résumé] Le format PDF (portable document format) est lancé en juin mille neuf cent quatre-vingt-treize par la société Adobe, en même temps que le logiciel Acrobat Reader.
+Défini par l'extension de fichier ".pdf", ce format conserve la présentation, les polices, les couleurs et les images du document source, quelle que soit la plateforme utilisée (Macintosh, Windows, Unix, Linux, etc.) pour le créer et pour le lire.
+Lisible à l'aide de l'Acrobat Reader - logiciel de lecture téléchargeable gratuitement - ce format devient au fil des ans la norme internationale de diffusion des documents dont la présentation originale doit être conservée.
+Tout document peut être converti en PDF à l'aide du logiciel Adobe Acrobat, disponible dans de nombreuses langues et pour de nombreuses plateformes.
+Dix ans plus tard, dixpourcent des documents disponibles sur l'internet sont au format PDF, et ce format est également le format de livre numérique le plus répandu.
+[En détail] Lancé en juin mille neuf cent quatre-vingt-treize par la société Adobe et diffusé gratuitement, le premier logiciel de lecture du marché est l'Acrobat Reader, qui permet de lire des documents au format PDF (portable document format).
+Ce format permet de figer les documents numériques dans une présentation donnée, pour conserver les polices, les couleurs et les images du document source, quelle que soit la plateforme utilisée pour le créer et pour le lire.
+Vendu en parallèle, le logiciel Adobe Acrobat permet de convertir n'importe quel document au format PDF.
+Au fil des ans, le format PDF devient la norme internationale de diffusion des documents électroniques, pour impression ou pour transfert d'une plateforme à l'autre.
+Des millions de documents PDF sont présents sur le web pour lecture ou téléchargement, ou bien transitent par courriel.
+L'Acrobat Reader pour ordinateur est progressivement disponible dans plusieurs langues et pour diverses plateformes (Windows, Mac, Unix, Linux).
+En deux mille un, Adobe lance également un Acrobat Reader pour assistant personnel (PDA), utilisable sur le Palm Pilot (en mai deux mille un) puis sur le Pocket PC (en décembre deux mille un).
+Face à la concurrence représentée par le Microsoft Reader (lancé en avril deux mille), Adobe annonce en août deux mille l'acquisition de la société Glassbook, spécialisée dans les logiciels de distribution de livres numériques pour éditeurs, libraires, distributeurs et bibliothèques.
+Adobe passe aussi un partenariat avec Amazon.com et Barnes & Noble.com afin de proposer des titres lisibles sur l'Acrobat Reader et le Glassbook Reader.
+En janvier deux mille un, Adobe lance deux nouveaux logiciels.
+Le premier logiciel, gratuit, est l'Acrobat eBook Reader.
+Il permet de lire les fichiers PDF de livres numériques sous droits, avec gestion des droits par l'Adobe Content Server.
+Il permet aussi d'ajouter des notes et des signets, de choisir l'orientation de lecture des livres (paysage ou portrait), ou encore de visualiser leur couverture dans une bibliothèque personnelle.
+Il utilise la technique d'affichage CoolType et comporte un dictionnaire intégré.
+Le deuxième logiciel, payant, est l'Adobe Content Server, destiné aux éditeurs et distributeurs.
+Il s'agit d'un logiciel serveur de contenu assurant le conditionnement, la protection, la distribution et la vente sécurisée de livres numériques au format PDF.
+En avril deux mille un, Adobe conclut un partenariat avec la grande librairie en ligne Amazon.com, qui met en vente deux.000 livres numériques lisibles sur l'Acrobat eBook Reader: titres de grands éditeurs, guides de voyages, livres pour enfants, etc.
+En dix ans, entre mille neuf cent quatre-vingt-treize et deux mille trois, l'Acrobat Reader aurait été téléchargé cinq cents millions de fois.
+Ce logiciel gratuit est désormais disponible dans de nombreuses langues et pour de nombreuses plateformes (Windows, Mac, Linux, Unix, Palm OS, Pocket PC, Symbian OS, etc.).
+En mai deux mille trois, l'Acrobat Reader (cinquième version) fusionne avec l'Acrobat eBook Reader (deuxième version) pour devenir l'Adobe Reader (débutant à la version six), qui permet de lire aussi bien les fichiers PDF standard que les fichiers PDF sécurisés.
+Adobe lance aussi Adobe eBooks Central, un service permettant de lire, publier, vendre et prêter des livres numériques, et l'Adobe eBook Library, qui se veut un prototype de bibliothèque de livres numériques.
+En novembre deux mille quatre, l'Adobe Content Server est remplacé par l'Adobe LiveCycle Policy Server.
+Les versions récentes d'Adobe Acrobat permettent de créer des PDF compatibles avec les formats Open eBook (OeB) et ePub (ePub ayant succédé à OeB), devenus eux aussi des standards du livre numérique.
+[Résumé] La première bibliothèque présente sur le web est la Bibliothèque municipale d'Helsinki (Finlande), qui inaugure son site en février mille neuf cent quatre-vingt-quatorze.
+Puis nombre de bibliothèques créent un site web pour y mettre des informations pratiques, leur catalogue en ligne et une sélection de sites web, et développent une bibliothèque numérique à côté de leurs collections traditionnelles.
+[En détail] La première bibliothèque présente sur le web est la Bibliothèque municipale d'Helsinki (Finlande), qui inaugure son site en février mille neuf cent quatre-vingt-quatorze.
+Puis nombre de bibliothèques créent un site web pour y mettre des informations pratiques, leur catalogue en ligne et une sélection de sites web, et développent aussi une bibliothèque numérique à côté de leurs collections traditionnelles.
+Grâce à sa "cyberbibliothèque", la bibliothèque peut enfin rendre comptatibles deux objectifs qui jusque-là ne l'étaient guère, à savoir la conservation des documents et la communication de ceux-ci.
+D'une part le document ne quitte son rayonnage qu'une seule fois pour être scanné, d'autre part le grand public y a facilement accès.
+Certaines "cyberbibliothèques" naissent directement sur le web.
+Créée en mille neuf cent quatre-vingt-quatorze et hébergée sur le site de l'Université de Genève, Athena est l'oeuvre de Pierre Perroud, qui y consacre trente heures par semaine, en plus de son activité de professeur au Collège Voltaire.
+Un travail artisanal qu'il accomplit seul, sans grande rémunération.
+En décembre mille neuf cent quatre-vingt-dix-huit, les collections comprennent huit.000 textes.
+Un des objectifs d'Athena est de mettre en ligne des textes de langue française (dans la section: Textes français).
+Une section spécifique (Swiss Authors and Texts) regroupe les auteurs et textes suisses.
+On trouve aussi un répertoire mondial des ressources littéraires en ligne (Athena Literature Resources).
+Par ailleurs, Athena propose une table de minéralogie qui est l'oeuvre de Pierre Perroud et qui est consultée dans le monde entier.
+Dans un article de la revue Informatique-Informations de février mille neuf cent quatre-vingt-dix-sept, Pierre Perroud insiste sur la complémentarité du texte électronique et du livre imprimé.
+Selon lui, "les textes électroniques représentent un encouragement à la lecture et une participation conviviale à la diffusion de la culture", notamment pour l'étude et la recherche textuelle.
+Ces textes "sont un bon complément du livre imprimé - celui-ci restant irremplaçable lorsqu'il s'agit de lire".
+Cette bibliothèque publique d'un genre nouveau devient vite une référence.
+L'IPL recense de manière pratiquement exhaustive les livres (Online Texts), les journaux (Newspapers) et les magazines (Magazines) disponibles sur le web.
+Les livres sont essentiellement des oeuvres du domaine public, avec vingt-deux.cinq cents titres en deux mille six, dont le quart provient du Projet Gutenberg.
+[Résumé] La publication en ligne d'un livre à titre gratuit nuit-elle aux ventes de la version imprimée ou non? La National Academy Press (NAP) est la première à prendre un tel risque, dès mille neuf cent quatre-vingt-quatorze, avec un pari gagné.
+La même expérience est menée ensuite par la MIT Press (MIT: Massachusetts Institute of Technology).
+"A première vue, cela paraît illogique", écrit Beth Berselli, journaliste au Washington Post, dans un article repris par Le Courrier international de novembre mille neuf cent quatre-vingt-dix-sept.
+"Un éditeur de Washington, la National Academy Press (NAP), qui a publié sur internet sept cents titres de son catalogue actuel, permettant ainsi à tout un chacun de lire gratuitement ses livres, a vu ses ventes augmenter de dix-septpourcent l'année suivante.
+La même expérience est menée par la MIT Press (MIT: Massachusetts Institute of Technology) un an plus tard.
+"A première vue, cela paraît illogique", écrit Beth Berselli, journaliste au Washington Post, dans un article repris par Le Courrier international de novembre mille neuf cent quatre-vingt-dix-sept.
+"Un éditeur de Washington, la National Academy Press (NAP), qui a publié sur internet sept cents titres de son catalogue actuel, permettant ainsi à tout un chacun de lire gratuitement ses livres, a vu ses ventes augmenter de dix-septpourcent l'année suivante.
+Qui a dit que personne n'achèterait la vache si on pouvait avoir le lait gratuitement?" Une politique atypique porte donc ses fruits.
+Editeur universitaire, la NAP (National Academy Press, qui devient ensuite la National Academies Press) publie environ deux cents livres par an, essentiellement des livres scientifiques et techniques et des ouvrages médicaux.
+Dans le cas de la NAP, l'éditeur est soutenu par les auteurs eux-mêmes qui, pour se faire mieux connaître, insistent pour que leurs livres soient mis en ligne sur le site.
+Le web est un nouvel outil de marketing face aux cinquante.000 ouvrages publiés chaque année aux Etats-Unis.
+Une réduction de vingtpourcent est accordée pour toute commande effectuée en ligne.
+La présence de ces livres sur le web entraîne aussi une augmentation des ventes par téléphone.
+En mille neuf cent quatre-vingt-dix-huit, le site de la NAP propose le texte intégral d'un millier de titres.
+La solution choisie par la NAP est également adoptée en mille neuf cent quatre-vingt-quinze par la MIT Press, qui voit rapidement ses ventes doubler pour les livres disponibles en version intégrale sur son site.
+[Résumé] En juillet mille neuf cent quatre-vingt-quinze, Jeff Bezos fonde à Seattle (Etat de Washington, Etats-Unis) la librairie en ligne Amazon.com, futur géant du commerce électronique.
+Suite à une étude de marché démontrant que les livres sont les meilleurs "produits" à vendre sur l'internet, Amazon.com débute avec dix salariés et trois millions d'articles.
+Pionnier d'un nouveau modèle économique, Amazon.com devient vite un géant du commerce électronique.
+Une cinquième filiale est ouverte au Canada (en juin deux mille deux), suivie d'une sixième filiale, Joyo, en Chine (en septembre deux mille quatre).
+[En détail] Fondé par Jeff Bezos, Amazon.com voit le jour en juillet mille neuf cent quatre-vingt-quinze à Seattle, dans l'Etat de Washington, sur la côte ouest des Etats-Unis.
+Quinze mois auparavant, au printemps mille neuf cent quatre-vingt-quatorze, Jeff Bezos fait une étude de marché pour décider du meilleur "produit de consommation" à vendre sur l'internet.
+Dans sa liste de vingt produits marchands, qui comprennent entre autres les vêtements et les instruments de jardinage, les cinq premiers du classement se trouvent être les livres, les CD, les vidéos, les logiciels et le matériel informatique.
+"J'ai utilisé tout un ensemble de critères pour évaluer le potentiel de chaque produit", relate Jeff Bezos dans le kit de presse d'Amazon.com.
+"Le premier critère a été la taille des marchés existants.
+J'ai vu que la vente des livres représentait un marché mondial de quatre-vingt-deux milliards de dollars US.
+Le deuxième critère a été la question du prix.
+Je voulais un produit bon marché.
+Mon raisonnement était le suivant: puisque c'était le premier achat que les gens allaient faire en ligne, il fallait que la somme à payer soit modique.
+Le catalogue en ligne permet de rechercher les livres par titre, auteur, sujet ou rubrique.
+On y trouve aussi des CD, des DVD, des jeux informatiques, etc.
+Très attractif, le contenu éditorial du site change quotidiennement et forme un véritable magazine littéraire proposant des extraits de livres, des entretiens avec des auteurs et des conseils de lecture.
+Amazon.com devient le pionnier d'un nouveau modèle économique.
+Son évolution rapide est suivie de près par des analystes de tous bords.
+En mille neuf cent quatre-vingt-dix-huit, avec un virgule cinq million de clients dans cent soixante pays et une très bonne image de marque, Amazon.com est régulièrement cité comme un symbole de réussite dans le cybercommerce.
+Si la librairie en ligne est toujours déficitaire, sa cotation boursière est excellente, suite à une introduction à la Bourse de New York en mai mille neuf cent quatre-vingt-dix-sept.
+En novembre deux mille, la société compte sept.cinq cents salariés, vingt-huit millions d'articles, vingt-trois millions de clients et quatre filiales (Royaume-Uni, Allemagne, France, Japon), auxquelles s'ajoute en juin deux mille deux une cinquième filiale au Canada.
+La maison mère diversifie ses activités.
+Elle vend non seulement des livres, des vidéos, des CD et des logiciels, mais aussi des produits de santé, des jouets, des appareils électroniques, des ustensiles de cuisine, des outils de jardinage, etc.
+En novembre deux mille un, la vente des livres, disques et vidéos ne représente plus que cinquante-huitpourcent du chiffre d'affaires global.
+Admiré par certains, le modèle économique d'Amazon.com est contesté par d'autres, notamment en matière de gestion du personnel, avec des contrats de travail précaires et de bas salaires.
+Tout comme la grande librairie en ligne britannique Internet Bookshop, Amazon.com offre une part des bénéfices à ses "associés" en ligne.
+Depuis le printemps mille neuf cent quatre-vingt-dix-sept, tous les possesseurs d'un site web peuvent vendre des livres appartenant au catalogue de la librairie et toucher un pourcentage de quinzepourcent sur les ventes.
+Ces associés font une sélection dans les titres du catalogue et rédigent leurs propres résumés.
+Amazon.com reçoit les commandes par leur intermédiaire, expédie les livres et rédige les factures.
+Les associés reçoivent un rapport hebdomadaire d'activité.
+Au printemps mille neuf cent quatre-vingt-dix-huit, la librairie en ligne compte plus de trente.000 sites affiliés.
+La présence européenne d'Amazon.com débute en octobre mille neuf cent quatre-vingt-dix-huit.
+Les deux premières filiales sont implantées en Allemagne et au Royaume-Uni.
+En août deux mille, avec un virgule huit million de clients en Grande-Bretagne, un virgule deux million de clients en Allemagne et quelques centaines de milliers de clients en France, la librairie réalise vingt-troispourcent de ses ventes hors des Etats-Unis.
+A la même date, elle ouvre sa filiale française.
+Une filiale japonaise est ouverte en octobre deux mille.
+En novembre deux mille, Amazon ouvre un secteur eBooks, à savoir un secteur vendant des livres numériques.
+En deux mille un, les vingt-neuf millions de clients d'Amazon génèrent un chiffre d'affaires de quatre milliards de dollars US.
+En juin deux mille deux, une cinquième filiale est ouverte au Canada.
+Au troisième trimestre deux mille trois, la société devient bénéficiaire pour la première fois de son histoire.
+En octobre deux mille trois, Amazon.com lance un service de recherche plein texte (Search Inside the Book) dans le texte intégral de cent vingt.000 titres, un nombre promis à une croissance rapide.
+Une sixième filiale est ouverte en Chine sous le nom de Joyo en septembre deux mille quatre.
+En deux mille quatre, le bénéfice net d'Amazon est de cinq cent quatre-vingt-huit millions de dollars US, dont quarante-cinqpourcent généré par ses filiales, avec un chiffre d'affaires de six virgule neuf milliards de dollars.
+[Résumé] Au début des années mille neuf cent quatre-vingt-dix, les premières éditions électroniques de journaux sont disponibles par le biais de services commerciaux tels que America Online ou CompuServe.
+Suite à l'apparition du premier navigateur fin mille neuf cent quatre-vingt-treize et à la croissance rapide du web qui s'ensuit, les organes de presse créent leurs propres sites.
+Mis en ligne en février mille neuf cent quatre-vingt-quinze, le site web du mensuel Le Monde diplomatique est le premier site d'un périodique imprimé français.
+Monté dans le cadre d'un projet expérimental avec l'Institut national de l'audiovisuel (INA), ce site est inauguré lors du forum des images Imagina.
+Il donne accès à l'ensemble des articles depuis janvier mille neuf cent quatre-vingt-quatorze, par date, par sujet et par pays.
+Fin mille neuf cent quatre-vingt-quinze, le quotidien Libération met en ligne son site web.
+Le site du quotidien Le Monde est lancé en mille neuf cent quatre-vingt-seize.
+[En détail] Au début des années mille neuf cent quatre-vingt-dix, les premières éditions électroniques de journaux sont disponibles par le biais de services commerciaux tels que America Online ou CompuServe.
+Suite à l'apparition du premier navigateur fin mille neuf cent quatre-vingt-treize et à la croissance rapide du web qui s'ensuit, les organes de presse créent leurs propres sites.
+Au Royaume-Uni, le Times et le Sunday Times font web commun sur un site dénommé Times Online, avec possibilité de créer une édition personnalisée.
+Aux Etats-Unis, la version en ligne du Wall Street Journal est payante, avec cent.000 abonnés en mille neuf cent quatre-vingt-dix-huit.
+Celle du New York Times est disponible sur abonnement gratuit.
+Le Washington Post propose l'actualité quotidienne en ligne et de nombreux articles archivés, le tout avec images, sons et vidéos.
+Pathfinder (rebaptisé ensuite Time) est le site web du groupe Time-Warner, éditeur de Time Magazine, Sports Illustrated, Fortune, People, Southern Living, Money, Sunset, etc.
+On peut y lire les articles "maison" et les rechercher par date ou par sujet.
+Lancé en mille neuf cent quatre-vingt-douze en Californie, Wired, premier magazine imprimé entièrement consacré à la culture cyber, est bien évidemment présent sur le web.
+Mis en ligne en février mille neuf cent quatre-vingt-quinze, le site web du mensuel Le Monde diplomatique est le premier site d'un périodique imprimé français.
+Monté dans le cadre d'un projet expérimental avec l'Institut national de l'audiovisuel (INA), ce site est inauguré lors du forum des images Imagina.
+Il donne accès à l'ensemble des articles depuis janvier mille neuf cent quatre-vingt-quatorze, par date, par sujet et par pays.
+L'intégralité du mensuel en cours est consultable gratuitement pendant deux semaines suivant sa parution.
+Un forum de discussion permet au journal de discuter avec ses lecteurs.
+En juin mille neuf cent quatre-vingt-dix-huit, Philippe Rivière, responsable du site, précise que, trois ans après sa mise en ligne, celui-ci a "bien grandi, autour des mêmes services de base: archives et annonce de sommaire".
+Grâce à l'internet, "le travail journalistique s'enrichit de sources faciles d'accès, aisément disponibles.
+Le site propose la Une du quotidien, la rubrique Multimédia, qui regroupe les articles du Cahier Multimédia et les archives des cahiers précédents, le Cahier Livres complété par Chapitre Un (à savoir les premiers chapitres des nouveautés), et bien d'autres rubriques.
+La rubrique Multimédia est ensuite rebaptisée Numériques.
+Le site du quotidien Le Monde est lancé en mille neuf cent quatre-vingt-seize.
+On y trouve des dossiers en ligne, la Une en version graphique à partir de treize h, l'intégralité du journal avant dix-sept h, l'actualité en liaison avec l'AFP (Agence France-Presse), et des rubriques sur la Bourse, les livres, le multimédia et les sports.
+En mille neuf cent quatre-vingt-dix-huit, le journal complet en ligne coûte cinq FF (zéro virgule sept six euros) alors que l'édition papier coûte sept virgule cinq FF (un virgule un cinq euros).
+S'ils concernent le multimédia, les articles du supplément imprimé hebdomadaire Télévision-Radio-Multimédia sont disponibles gratuitement en ligne dans la rubrique Multimédia, rebaptisée ensuite Nouvelles technologies.
+L'Humanité est le premier quotidien français à proposer la version intégrale du journal en accès libre.
+Classés par rubriques, les articles sont disponibles entre dix h et onze h du matin, à l'exception de L'Humanité du samedi, disponible en ligne le lundi suivant.
+Tous les articles sont archivés sur le site.
+Jacques Coubard, responsable du site web, explique en juillet mille neuf cent quatre-vingt-dix-huit: "Le site de L'Humanité a été lancé en septembre mille neuf cent quatre-vingt-seize à l'occasion de la Fête annuelle du journal.
+Nous y avons ajouté depuis un forum, un site consacré à la récente Coupe du monde de football (avec d'autres partenaires), et des données sur la Fête et sur le meeting d'athlétisme, parrainé par L'Humanité.
+Nous espérons pouvoir développer ce site à l'occasion du lancement d'une nouvelle formule du quotidien qui devrait intervenir à la fin de l'année ou au début de l'an prochain.
+Nous espérons également mettre sur le web L'Humanité Hebdo, dans les mêmes délais.
+Jusqu'à présent on ne peut pas dire que l'arrivée d'internet ait bouleversé la vie des journalistes, faute de moyens et de formation (ce qui va ensemble).
+Les rubriques sont peu à peu équipées avec des postes dédiés, mais une minorité de journalistes exploite ce gisement de données.
+Certains s'en servent pour transmettre leurs articles, leurs reportages.
+Il y a sans doute encore une "peur" culturelle à plonger dans l'univers du net.
+Normal, en face de l'inconnu.
+L'avenir devrait donc permettre par une formation (peu compliquée) de combler ce handicap.
+[Résumé] Basée en Californie, la société Palm lance en mars mille neuf cent quatre-vingt-seize le premier PDA (personal digital assistant), dénommé Palm Pilot, qui utilise le système d'exploitation Palm OS.
+vingt-trois millions de Palm Pilot sont vendus entre mille neuf cent quatre-vingt-seize et deux mille deux.
+En mars deux mille un, on peut utiliser son Palm Pilot pour lire des livres numériques sur les logiciels de lecture Palm Reader et Mobipocket Reader.
+En deux mille deux, malgré la concurrence, Palm est toujours le leader du marché (trente-six virgule huitpourcent des machines vendues), suivi par Hewlett-Packard (treize virgule cinqpourcent), Sony (onzepourcent), Handspring (cinq virgule huitpourcent), Toshiba (trois virgule septpourcent) et Casio (trois virgule troispourcent).
+Les systèmes d'exploitation utilisés sont essentiellement le Palm OS (pour cinquante-cinqpourcent des machines) et le Pocket PC de Microsoft (pour vingt-cinq virgule septpourcent des machines).
+La division PalmSource est plus précisément en charge des logiciels, notamment le logiciel de lecture Palm Reader, utilisable sur assistant personnel en mars deux mille un puis sur ordinateur en juillet deux mille deux.
+En deux mille trois, dix.000 titres dans plusieurs langues sont lisibles sur le Palm Pilot et ses successeurs.
+[En détail] La société Palm lance le premier Palm Pilot en mars mille neuf cent quatre-vingt-seize et vend vingt-trois millions de machines entre mille neuf cent quatre-vingt-seize et deux mille deux.
+Son système d'exploitation est le Palm OS et son logiciel de lecture le Palm Reader.
+En mars deux mille un, les modèles Palm permettent aussi la lecture de livres numériques sur le Mobipocket Reader.
+A la même date, la société Palm fait l'acquisition de Peanutpress.com, éditeur et distributeur de livres numériques pour PDA.
+Le Peanut Reader devient le Palm Reader, utilisable aussi bien sur le Palm Pilot que sur le Pocket PC (l'assistant personnel de Microsoft), et les deux.000 titres de Peanutpress.com sont transférés dans la librairie numérique de Palm (Palm Digital Media).
+Développé par PalmSource, une division de Palm, le Palm Reader permet de lire des livres numériques au format PDB (Palm database).
+D'abord utilisable uniquement sur les gammes Palm et Pocket PC, le Palm Reader est utilisable sur ordinateur en juillet deux mille deux.
+A la même date, Palm Digital Media distribue cinq.cinq cents titres dans plusieurs langues.
+En deux mille trois, le catalogue approche les dix.000 titres, téléchargeables à partir de la librairie Palm Digital Media, qui devient ensuite le Palm eBook Store.
+Ce système de DRM permet de contrôler l'accès aux livres numériques sous droits, et donc de gérer les droits d'un livre en fonction des consignes données par le gestionnaire des droits, par exemple en autorisant ou non l'impression ou le prêt.
+Développé par PalmSource, une division de Palm, le Palm OS (OS: operating system) est le système d'exploitation du Palm Pilot, qui est d'abord un PDA unique avant de devenir une gamme de PDA.
+Le Palm OS équipe cinquante-cinqpourcent des PDA vendus en deux mille deux.
+L'autre "grand" système d'exploitation est le Pocket PC de Microsoft, qui équipe pour sa part vingt-cinq virgule septpourcent des machines, y compris les assistants personnels du même nom.
+Commercialisé par Microsoft en avril deux mille pour concurrencer le Palm Pilot, l'assistant personnel Pocket PC utilise d'abord un système d'exploitation spécifique, Windows CE, qui intègre le nouveau logiciel de lecture Microsoft Reader.
+En octobre deux mille un, Windows CE est remplacé par Pocket PC deux mille deux, qui permet entre autres de lire des livres numériques sous droits.
+Ces livres sont protégés par un système de gestion des droits numériques dénommé Microsoft DAS Server (DAS: digital asset server).
+En deux mille deux, le Pocket PC permet la lecture sur trois logiciels: le Microsoft Reader bien sûr, le Mobipocket Reader et le Palm Reader.
+D'après Seybold Reports.com, en avril deux mille un, on compte cent.000 tablettes de lecture pour dix-sept millions d'assistants personnels (PDA).
+Deux ans plus tard, en juin deux mille trois, plus aucune tablette n'est commercialisée.
+De nouveaux modèles apparaissent ensuite, mais on se demande s'ils peuvent vraiment réussir à s'imposer face à l'assistant personnel, qui offre aussi d'autres fonctionnalités.
+Le débat reste toujours d'actualité dans les années qui suivent.
+L'Internet Archive constitue aussi des collections numériques spécifiques, y compris pour les livres et les documents multimédias.
+Toutes ces collections sont en consultation libre sur le web.
+Toutes ces collections sont en consultation libre sur le web.
+Les archives du web représentent trois cents téraoctets (To) de données en deux mille quatre, avec une croissance de douze téraoctets par mois.
+Ces archives représentent trente millions de pages web en mille neuf cent quatre-vingt-seize, soixante-cinq milliards de pages web (provenant de cinquante millions de sites web) en décembre deux mille six et quatre-vingt-cinq milliards de pages web en mai deux mille sept.
+Toutes ces collections sont en consultation libre sur le web, y compris la grande bibliothèque numérique (Text Archive) en cours de constitution.
+A cet effet, l'Internet Archive fonde en janvier deux mille cinq l'Open Content Alliance (OCA), une initiative visant à créer un répertoire libre et multilingue de livres numérisés et de documents multimédia pour consultation et téléchargement sur n'importe quel moteur de recherche.
+[Résumé] Sur le site de l'Internet Society (ISOC), qu'il fonde en mille neuf cent quatre-vingt-douze pour promouvoir le développement de l'internet, Vinton Cerf explique: "Le réseau fait deux choses (...): comme les livres, il permet d'accumuler de la connaissance.
+Mais, surtout, il la présente sous une forme qui la met en relation avec d'autres informations.
+Alors que, dans un livre, l'information est maintenue isolée." De plus, l'information contenue dans les livres reste la même, au moins pendant une période donnée, alors que l'internet privilégie l'information la plus récente qui, elle, est en constante mutation.
+Il s'ensuit un changement dans la manière d'enseigner.
+En septembre mille neuf cent quatre-vingt-seize, Dale Spender, professeur à l'Université de Queensland (Australie), tente d'analyser ce changement lors d'une communication de la quatorzee conférence mondiale de l'IFIP (International Federation of Information Processing).
+[En détail] Vinton Cerf co-invente en mille neuf cent soixante-quatorze avec Bob Kahn le protocole TCP/IP, à la base de tout échange de données sur le réseau.
+Sur le site de l'Internet Society (ISOC), qu'il fonde en mille neuf cent quatre-vingt-douze pour promouvoir le développement de l'internet, Vinton Cerf explique: "Le réseau fait deux choses (...): comme les livres, il permet d'accumuler de la connaissance.
+Mais, surtout, il la présente sous une forme qui la met en relation avec d'autres informations.
+Alors que, dans un livre, l'information est maintenue isolée." De plus, l'information contenue dans les livres reste la même, au moins pendant une période donnée, alors que l'internet privilégie l'information la plus récente qui, elle, est en constante mutation.
+Il s'ensuit un changement dans la manière d'enseigner.
+Dès septembre mille neuf cent quatre-vingt-seize, dans Creativity and the Computer Education Industry, une communication de la quatorzee conférence mondiale de l'IFIP (International Federation of Information Processing), Dale Spender, professeur à l'Université de Queensland (Australie), tente d'analyser ce changement.
+Voici son argumentation résumée en deux paragraphes.
+Depuis plus de cinq siècles, l'enseignement est essentiellement basé sur l'information procurée par les livres.
+Or les habitudes liées à l'imprimé ne peuvent être transférées dans l'univers numérique.
+L'enseignement en ligne offre des possibilités tellement nouvelles qu'il n'est guère possible d'effectuer les distinctions traditionnelles entre enseignant et enseigné.
+Le passage de la culture imprimée à la culture numérique exige donc d'entièrement repenser le processus d'acquisition du savoir, puisqu'on a maintenant l'opportunité sans précédent de pouvoir influer sur le type d'enseignement qu'on souhaite recevoir.
+Dans la culture imprimée, l'information contenue dans les livres reste la même pendant un certain temps, ce qui encourage à penser que l'information est stable.
+La nature même de l'imprimé est liée à la notion de vérité, stable elle aussi.
+Cette stabilité et l'ordre qu'elle engendre sont un des fondements de l'âge industriel et de l'ère des sciences et techniques.
+Les notions de vérité, de loi, d'objectivité et de preuve sont le fondement de nos croyances et de nos cultures.
+Mais le numérique change tout ceci.
+Soudain l'information en ligne supplante l'information imprimée pour devenir la plus fiable et la plus utile, et l'usager est prêt à la payer en conséquence.
+Cette transformation radicale de la nature même de l'information doit être au coeur du débat sur les nouvelles méthodes d'enseignement.
+La différence est d'abord un gain de temps, pour tout, puis un changement de méthode de documentation, puis de méthode d'enseignement privilégiant l'acquisition des méthodes de recherche par mes étudiants, au détriment des contenus (mais cela dépend des cours).
+Progressivement, le paradigme réticulaire l'emporte sur le paradigme hiérarchique - et je sais que certains enseignants m'en veulent à mort d'enseigner ça, et de le dire d'une façon aussi crue.
+(...) Tout mon enseignement exploite au maximum les ressources d'internet (le web et le courriel): les deux lieux communs d'un cours sont la salle de classe et le site du cours, sur lequel je mets tous les matériaux des cours.
+Je mets toutes les données de mes recherches des vingt dernières années sur le web (réédition de livres, articles, textes intégraux de dictionnaires anciens en bases de données interactives, de traités du seizee siècle, etc.).
+On observe un tournant majeur en mille neuf cent quatre-vingt-dix-sept.
+Certaines universités diffusent par exemple des manuels "sur mesure" composés de quelques chapitres sélectionnés dans une vaste base de données, un choix complété par des articles et par les commentaires des professeurs.
+Pour un séminaire, un très petit tirage peut être effectué à la demande pour un document rassemblant quelques textes et transmis par voie électronique à un imprimeur.
+[En détail] Depuis les années mille neuf cent soixante-dix, la chaîne traditionnelle de l'édition est soumise à de nombreux bouleversements.
+Le marché de l'imprimerie traditionnelle est d'abord ébranlé par l'apparition des machines de photocomposition.
+Les coûts d'impression continuent ensuite de baisser avec les procédés d'impression assistée par ordinateur, les photocopieurs, les photocopieurs couleur et le matériel d'impression numérique.
+L'impression est désormais souvent assurée à bas prix par des ateliers de PAO (publication assistée par ordinateur) et des entreprises d'arts graphiques.
+La numérisation accélère aussi le processus de rédaction, puisque le rédacteur, le concepteur artistique et le personnel chargé de la mise en page peuvent travailler simultanément sur le même ouvrage.
+Pour la publication d'ouvrages et de périodiques éducatifs et scientifiques, dans lesquels l'information la plus récente est primordiale, la numérisation conduit à repenser complètement la signification même de publication, et à s'orienter vers une diffusion en ligne qui rend beaucoup plus facile les réactualisations régulières.
+Certaines universités diffusent par exemple des manuels "sur mesure" composés de quelques chapitres sélectionnés dans une vaste base de données, un choix complété par des articles et par les commentaires des professeurs.
+Pour un séminaire, un très petit tirage peut être effectué à la demande pour quelques textes transmis par voie électronique à un imprimeur.
+L'interaction entre document imprimé et document électronique devient omniprésente, et elle s'accentuera encore dans les prochaines années, à tel point qu'il deviendra probablement ridicule d'établir une distinction entre document électronique et document imprimé.
+Déjà, à l'heure actuelle, pratiquement tous les documents imprimés récents sont issus d'une version électronique sur traitement de texte, tableur ou base de données.
+De plus en plus de documents n'existent désormais qu'en version électronique, et de plus en plus de documents imprimés sont numérisés.
+Outre sa facilité d'accès et son faible coût, le document électronique peut être régulièrement actualisé.
+Point n'est besoin d'attendre une nouvelle édition imprimée soumise aux contraintes commerciales et aux exigences de l'éditeur.
+L'édition électronique apparaît donc comme une bonne solution pour résoudre les problèmes budgétaires des presses universitaires et des éditeurs axés sur la publication d'ouvrages de recherche.
+[Résumé] La société de traduction Logos décide en mille neuf cent quatre-vingt-dix-sept de mettre le Logos Dictionary et tous ses outils professionnels en accès libre sur le web.
+Dans les années qui suivent, les dictionnaires en ligne sont soit en accès libre comme le Grand dictionnaire terminologique (GDT) de l'Office québécois de la langue française (OQLF), soit disponibles moyennant une inscription gratuite ou payante.
+Nombre de dictionnaires sont également disponibles sur CD-ROM (compact disc - read only memory) ou sur DVD (digital versatile disc), parallèlement à la version en ligne.
+Des dictionnaires gratuits écrits collectivement utilisent la forme du wiki, par exemple le dictionnaire multilingue Wiktionary, lancé en deux mille deux par la Wikipedia Foundation.
+Le portail yourDictionary.com répertorie trois.cinq cents dictionnaires et grammaires dans trois cents langues en avril deux mille sept.
+Logos traduit en moyenne deux cents textes par jour.
+Initiative peu courante à l'époque, Logos décide de mettre tous ses outils professionnels en accès libre sur le web.
+Dans un entretien publié dans le quotidien Le Monde du sept décembre mille neuf cent quatre-vingt-dix-sept, Rodrigo Vergara relate: "Nous voulions que nos traducteurs aient tous accès aux mêmes outils de traduction.
+Nous les avons donc mis à leur disposition sur internet, et tant qu'à faire nous avons ouvert le site au public.
+Cela nous a rendus très populaires, nous a fait beaucoup de publicité.
+La recherche dans la Wordtheque est possible par langue, mot, auteur ou titre.
+En deux mille sept, la Wordtheque, devenue la Logos Library, comprend sept cent dix millions de termes, Conjugation of Verbs, devenu l'Universal Conjugator, propose des tableaux de conjugaison dans trente-six langues, et Linguistic Resources offre un point d'accès unique pour un.deux cent quinze glossaires.
+Quand Logos met ses outils en accès libre en mille neuf cent quatre-vingt-dix-sept, il ouvre la voie à d'autres initiatives.
+Issu de la collaboration entre Hachette et l'AUPELF-UREF (devenu depuis l'AUF - Agence universitaire de la francophonie), il correspond à la partie "noms communs" du dictionnaire imprimé disponible chez Hachette.
+L'équivalent pour la langue anglaise est le site Merriam-Webster OnLine, qui donne librement accès au Collegiate Dictionary et au Collegiate Thesaurus.
+En mars deux mille, les vingt volumes de l'Oxford English Dictionary sont mis en ligne par l'Oxford University Press (OUP).
+La consultation du site est payante.
+Le dictionnaire bénéficie d'une mise à jour trimestrielle d'environ un.000 entrées nouvelles ou révisées.
+Deux ans après cette première expérience, en mars deux mille deux, l'Oxford University Press met en ligne l'Oxford Reference Online, une vaste encyclopédie conçue directement pour le web et consultable elle aussi sur abonnement payant.
+Avec soixante.000 pages et un million d'entrées, elle représente l'équivalent d'une centaine d'ouvrages de référence.
+En septembre deux mille, l'Office québécois de la langue française (OQLF) lance le Grand dictionnaire terminologique (GDT), mis en ligne en septembre deux mille.
+Le GDT comprend trois millions de termes français et anglais du vocabulaire industriel, scientifique et commercial, dans deux cents domaines d'activité.
+Il représente l'équivalent de trois.000 ouvrages de référence imprimés.
+Cette mise en ligne est le résultat d'un partenariat entre l'Office québécois de la langue française (OQLF), auteur du dictionnaire, et Semantix, société spécialisée dans les solutions logicielles linguistiques.
+Evénement célébré par de nombreux linguistes, cette mise en ligne est un succès sans précédent pour un dictionnaire.
+Dès le premier mois, le GDT est consulté par un virgule trois million de personnes, avec des pointes de soixante.000 requêtes quotidiennes.
+La gestion de la base est ensuite assurée par Convera Canada.
+En février deux mille trois, les requêtes sont au nombre de trois virgule cinq millions par mois.
+Une nouvelle version du GDT est mise en ligne en mars deux mille trois.
+Sa gestion est désormais assurée par l'OQLF lui-même, et non plus par une société prestataire.
+Géré par le service de traduction de la Commission européenne, Eurodicautom est un dictionnaire multilingue de termes économiques, scientifiques, techniques et juridiques, avec une moyenne de cent vingt.000 consultations quotidiennes.
+Il permet de combiner entre elles les onze langues officielles de l'Union européenne (allemand, anglais, danois, espagnol, finnois, français, grec, hollandais, italien, portugais, suédois), ainsi que le latin.
+Fin deux mille trois, Eurodicautom annonce son intégration dans une base terminologique plus vaste regroupant les bases de plusieurs institutions de l'Union européenne.
+Cette nouvelle base traite non plus douze langues, mais une vingtaine, puisque l'Union européenne s'élargit à l'Est et passe de quinze à vingt-cinq membres en mai deux mille quatre, pour atteindre vingt-sept membres en janvier deux mille sept.
+Cette base terminologique voit le jour en mars deux mille sept, sous le nom de IATE (Inter-Active Terminology for Europe), avec un virgule quatre million d'entrées dans vingt-quatre langues.
+[Résumé] La convergence multimédia peut être définie comme la convergence des secteurs de l'informatique, du téléphone et de la radiotélévision dans une industrie de la communication et de la distribution utilisant les mêmes autoroutes de l'information.
+Cette convergence entraîne l'unification progressive des secteurs liés à l'information (imprimerie, édition, presse, conception graphique, enregistrements sonores, films, etc.) suite à l'utilisation des techniques de numérisation.
+Si, dans certains secteurs, ce phénomène entraîne de nouveaux emplois, par exemple ceux liés à la production audiovisuelle, d'autres secteurs sont soumis à d'inquiétantes restructurations.
+La convergence multimédia a de nombreux revers, par exemple des contrats précaires pour les salariés, l'absence de syndicats pour les télétravailleurs ou le droit d'auteur mis à mal pour les auteurs.
+[En détail] La numérisation permet de créer, d'enregistrer, de combiner, de stocker, de rechercher et de transmettre des textes, des sons et des images par des moyens simples et rapides.
+Des procédés similaires permettent le traitement de l'écriture, de la musique et du cinéma alors que, par le passé, ce traitement était assuré par des procédés différents sur des supports différents (papier pour l'écriture, bande magnétique pour la musique, celluloïd pour le cinéma).
+De plus, des secteurs distincts comme l'édition (qui produit des livres) et l'industrie musicale (qui produit des disques) travaillent de concert pour produire des CD-ROM.
+La numérisation accélère considérablement le processus matériel de production.
+Dans la presse, alors qu'auparavant le personnel de production devait dactylographier les textes du personnel de rédaction, les journalistes envoient désormais directement leurs textes pour mise en page.
+Dans l'édition, le rédacteur, le concepteur artistique et l'infographiste travaillent souvent simultanément sur le même ouvrage.
+On assiste progressivement à la convergence de tous les secteurs liés à l'information: imprimerie, édition, presse, conception graphique, enregistrements sonores, films, radiodiffusion, etc.
+C'est ce qu'on appelle la convergence multimédia.
+On peut aussi la définir comme la convergence de l'informatique, du téléphone, de la radio et de la télévision dans une industrie de la communication et de la distribution utilisant les mêmes inforoutes.
+Si certains secteurs voient l'apparition de nouveaux emplois, par exemple ceux liés à la production audiovisuelle, d'autres secteurs sont soumis à d'inquiétantes restructurations.
+La convergence multimédia a de nombreux revers, à savoir des contrats occasionnels et précaires pour les salariés, l'absence de syndicats pour les télétravailleurs, le droit d'auteur souvent mis à mal pour les auteurs, etc.
+Et, à l'exception du droit d'auteur, vu l'enjeu financier qu'il représente, il est rare que ces problèmes fassent la Une des journaux.
+Si elle accélère le processus de production, l'automatisation des méthodes de travail entraîne une diminution de l'intervention humaine et donc un accroissement du chômage.
+Dans la presse comme dans l'édition, la mise en page automatique permet de combiner rédaction et composition.
+Dans les services publicitaires aussi, la conception graphique et les tâches commerciales sont maintenant intégrées.
+L'informatique permet à certains professionnels de s'installer à leur compte, une solution choisie par trentepourcent des salariés ayant perdu leur emploi.
+Au Royaume-Uni, les fonctions de correction d'épreuves et de rédaction s'effectuent désormais à domicile, le plus souvent par des travailleurs qui ont pris le statut d'indépendants par suite de fusions d'entreprises, délocalisations ou licenciements.
+"Or cette forme d'emploi tient plus du travail précaire que du travail indépendant, car ces personnes n'ont que peu d'autonomie et sont généralement tributaires d'une seule maison d'édition", analyse Peter Leisink, professeur associé d'études sociales à l'Université d'Utrecht (Pays-Bas).
+A part quelques cas mis en avant par les organisations d'employeurs, la convergence multimédia entraîne des suppressions massives d'emplois.
+Selon Michel Muller, secrétaire général de la FILPAC (Fédération des industries du livre, du papier et de la communication), les industries graphiques françaises ont perdu vingt.000 emplois en dix ans.
+Entre mille neuf cent quatre-vingt-sept et mille neuf cent quatre-vingt-seize, les effectifs passent de de cent dix.000 à quatre-vingt-dix.000 salariés.
+Partout dans le monde, de nombreux postes à faible qualification technique sont remplacés par des postes exigeant des qualifications techniques élevées.
+Les personnes peu qualifiées sont licenciées.
+D'autres suivent une formation professionnelle complémentaire, parfois auto-financée et prise sur leur temps libre, et cette formation professionnelle ne garantit pas pour autant le réemploi.
+Directeur du géant des télécommunications AT&T aux Etats-Unis, Walter Durling insiste sur le fait que les nouvelles technologies ne changeront pas fondamentalement la situation des salariés au sein de l'entreprise.
+L'invention du film n'a pas tué le théâtre et celle de la télévision n'a pas fait disparaître le cinéma.
+Les entreprises devraient créer des emplois liés aux nouvelles technologies et les proposer à ceux qui sont obligés de quitter d'autres postes devenus obsolètes.
+Des arguments bien théoriques alors que le problème est plutôt celui du pourcentage.
+En mille neuf cent quatre-vingt-dix-huit, le serveur stocke deux.cinq cents livres numérisés en mode image complétés par les deux cent cinquante volumes numérisés en mode texte de la base Frantext de l'INaLF (Institut national de la langue française).
+Gallica devient rapidement la plus grande bibliothèque numérique francophone du réseau.
+Pour des raisons de coût, les documents sont essentiellement numérisés en mode image.
+En deux mille sept, Gallica débute la conversion en mode texte des livres numérisés en mode image pour favoriser l'accès à leur contenu.
+A l'époque, le serveur stocke deux.cinq cents livres numérisés en mode image complétés par les deux cent cinquante volumes numérisés en mode texte de la base Frantext de l'INaLF (Institut national de la langue française).
+Classées par discipline, ces ressources sont complétées par une chronologie du dix-neufe siècle et une synthèse sur les grands courants en histoire, sciences politiques, droit, économie, littérature, philosophie, sciences et histoire des sciences.
+Gallica se considère moins comme une banque de données numérisées que comme un "laboratoire dont l'objet est d'évaluer les conditions d'accès et de consultation à distance des documents numériques", lit-on sur le site web à la fin de mille neuf cent quatre-vingt-dix-sept.
+Le but est d'expérimenter la navigation dans ces collections, en permettant aussi bien le libre parcours du chercheur ou du curieux que des recherches pointues.
+Début mille neuf cent quatre-vingt-dix-huit, Gallica annonce cent.000 volumes et trois cents.000 images pour la fin mille neuf cent quatre-vingt-dix-neuf, avec un accroissement rapide des collections ensuite.
+Sur les cent.000 volumes prévus, qui représenteront trente millions de pages numérisées, plus du tiers concerne le dix-neufe siècle.
+Quant aux trois cents.000 images fixes, la moitié appartient aux départements spécialisés de la BnF (Estampes et photographie, Manuscrits, Arts du spectacle, Monnaies et médailles, etc.).
+L'autre moitié provient de collections d'établissements publics (musées et bibliothèques, Documentation française, Ecole nationale des ponts et chaussées, Institut Pasteur, Observatoire de Paris, etc.) ou privés (agences de presse dont Magnum, l'Agence France-Presse, Sygma, Rapho, etc.).
+En mai mille neuf cent quatre-vingt-dix-huit, Gallica revoit ses espérances à la baisse et modifie quelque peu ses orientations premières.
+Dans un article du quotidien Le Figaro du trois juin mille neuf cent quatre-vingt-dix-huit, Jérôme Strazzulla, journaliste, écrit que la BnF est "passée d'une espérance universaliste, encyclopédique, à la nécessité de choix éditoriaux pointus".
+Dans le même article, il interviewe le président de la BnF, Jean-Pierre Angremy, qui rapporte la décision du comité éditorial de Gallica: "Nous avons décidé d'abandonner l'idée d'un vaste corpus encyclopédique de cent mille livres, auquel on pourrait sans cesse reprocher des trous.
+Nous nous orientons aujourd'hui vers des corpus thématiques, aussi complets que possibles, mais plus restreints.
+(...) Nous cherchons à répondre, en priorité, aux demandes des chercheurs et des lecteurs." Le premier corpus aurait trait aux voyages en France, avec mise en ligne prévue en deux mille.
+Ce corpus rassemblerait des textes, estampes et photographies du seizee siècle à mille neuf cent vingt.
+Les corpus envisagés ensuite auront les thèmes suivants: Paris, les voyages en Afrique des origines à mille neuf cent vingt, les utopies, et les mémoires des Académies des sciences de province.
+En deux mille trois, Gallica donne accès à tous les documents libres de droit du fonds numérisé de la BnF, à savoir soixante-dix.000 ouvrages et quatre-vingts.000 images allant du Moyen-Age au début du vingte siècle.
+Mais, de l'avis de nombreux usagers, les fichiers sont très lourds puisque les livres sont numérisés en mode image, et l'accès en est très long.
+Chose tout aussi problématique, la numérisation en mode image n'autorise pas la recherche textuelle alors que Gallica se trouve être la plus grande bibliothèque numérique francophone en nombre de titres disponibles en ligne.
+Seule une petite collection de livres (un.cent dix-sept titres en février deux mille quatre) est numérisée en mode texte, celle de la base Frantext de l'ATILF (Analyse et traitement informatique de la langue française, le laboratoire ayant succédé à l'INaLF), intégrée dans Gallica.
+En février deux mille cinq, Gallica compte soixante-seize.000 ouvrages.
+En décembre deux mille six, les collections comprennent quatre-vingt-dix.000 ouvrages numérisés (fascicules de presse compris), quatre-vingts.000 images et des dizaines d'heures de ressources sonores.
+Gallica débute aussi la conversion en mode texte des livres numérisés en mode image pour pour favoriser l'accès à leur contenu.
+[Résumé] En mille neuf cent quatre-vingt-dix-huit, Peter Raggett est sous-directeur (puis directeur) de la Bibliothèque centrale de l'OCDE (Organisation de coopération et de développement économiques).
+Il explique en juin mille neuf cent quatre-vingt-dix-huit: "L'internet offre aux chercheurs un stock d'informations considérable.
+(...) A mon avis, les bibliothécaires auront un rôle important à jouer pour améliorer la recherche et l'organisation de l'information sur le réseau.
+Je prévois aussi une forte expansion de l'internet pour l'enseignement et la recherche.
+Les bibliothèques seront amenées à créer des bibliothèques numériques permettant à un étudiant de suivre un cours proposé par une institution à l'autre bout du monde.
+La tâche du bibliothécaire sera de filtrer les informations pour le public.
+Personnellement, je me vois de plus en plus devenir un bibliothécaire virtuel.
+= Bibliothèque centrale de l'OCDE Située à Paris, l'OCDE (Organisation de coopération et de développement économiques) regroupe trente pays membres.
+Au noyau d'origine, constitué des pays d'Europe de l'Ouest et d'Amérique du Nord, viennent s'ajouter le Japon, l'Australie, la Nouvelle-Zélande, la Finlande, le Mexique, la République tchèque, la Hongrie, la Pologne et la Corée.
+Réservé aux fonctionnaires de l'organisation, la bibliothèque centrale permet la consultation de quelque soixante.000 monographies et deux.cinq cents périodiques imprimés.
+En ligne depuis mille neuf cent quatre-vingt-seize, les pages intranet du CDI deviennent une source d'information indispensable pour le personnel.
+Peter Raggett est sous-directeur (puis directeur) du centre de documentation et d'information (CDI) de l'OCDE.
+"Je dois filtrer l'information pour les usagers de la bibliothèque, ce qui signifie que je dois bien connaître les sites et les liens qu'ils proposent, explique-t-il en juin mille neuf cent quatre-vingt-dix-huit.
+J'ai sélectionné plusieurs centaines de sites pour en favoriser l'accès à partir de l'intranet de l'OCDE.
+Cette sélection fait partie du bureau de référence virtuel proposé par la bibliothèque à l'ensemble du personnel.
+Le problème pour eux est de trouver ce qu'ils cherchent.
+Jamais auparavant on n'avait senti une telle surcharge d'informations, comme on la sent maintenant quand on tente de trouver un renseignement sur un sujet précis en utilisant les moteurs de recherche disponibles sur l'internet.
+A mon avis, les bibliothécaires auront un rôle important à jouer pour améliorer la recherche et l'organisation de l'information sur le réseau.
+Je prévois aussi une forte expansion de l'internet pour l'enseignement et la recherche.
+Les bibliothèques seront amenées à créer des bibliothèques numériques permettant à un étudiant de suivre un cours proposé par une institution à l'autre bout du monde.
+La tâche du bibliothécaire sera de filtrer les informations pour le public.
+Personnellement, je me vois de plus en plus devenir un bibliothécaire virtuel.
+Séduit par les perspectives qu'offre le réseau pour la recherche documentaire, Bruno Didier crée le site web de la bibliothèque en mille neuf cent quatre-vingt-seize et devient son webmestre.
+"Le site web de la bibliothèque a pour vocation principale de servir la communauté pasteurienne, relate-t-il en août mille neuf cent quatre-vingt-dix-neuf.
+Il est le support d'applications devenues indispensables à la fonction documentaire dans un organisme de cette taille: bases de données bibliographiques, catalogue, commande de documents et bien entendu accès à des périodiques en ligne.
+C'est également une vitrine pour nos différents services, en interne mais aussi dans toute la France et à l'étranger.
+Il tient notamment une place importante dans la coopération documentaire avec les instituts du réseau Pasteur à travers le monde.
+Enfin j'essaie d'en faire une passerelle adaptée à nos besoins pour la découverte et l'utilisation d'internet.
+(...) Je développe et maintiens les pages du serveur, ce qui s'accompagne d'une activité de veille régulière.
+Par ailleurs je suis responsable de la formation des usagers, ce qui se ressent dans mes pages.
+Le web est un excellent support pour la formation, et la plupart des réflexions actuelles sur la formation des usagers intègrent cet outil." Son activité professionnelle a changé de manière assez radicale, tout comme celle de ses collègues.
+"C'est à la fois dans nos rapports avec l'information et avec les usagers que les changements ont eu lieu, explique-t-il.
+Nous devenons de plus en plus des médiateurs, et peut-être un peu moins des conservateurs.
+Mon activité actuelle est typique de cette nouvelle situation: d'une part dégager des chemins d'accès rapides à l'information et mettre en place des moyens de communication efficaces, d'autre part former les utilisateurs à ces nouveaux outils.
+Je crois que l'avenir de notre métier passe par la coopération et l'exploitation des ressources communes.
+C'est un vieux projet certainement, mais finalement c'est la première fois qu'on dispose enfin des moyens de le mettre en place." [Résumé] De pratiquement anglophone à ses débuts, le web devient multilingue.
+Consultant en marketing internet de produits et services de traduction, Randy Hobler écrit en septembre mille neuf cent quatre-vingt-dix-huit: "Comme l'internet n'a pas de frontières nationales, les internautes s'organisent selon d'autres critères propres au médium.
+En termes de multilinguisme, vous avez des communautés virtuelles, par exemple ce que j'appelle les "nations des langues", tous ces internautes qu'on peut regrouper selon leur langue maternelle quel que soit leur lieu géographique.
+Consultant en marketing internet de produits et services de traduction, Randy Hobler écrit en septembre mille neuf cent quatre-vingt-dix-huit: "Comme l'internet n'a pas de frontières nationales, les internautes s'organisent selon d'autres critères propres au médium.
+En termes de multilinguisme, vous avez des communautés virtuelles, par exemple ce que j'appelle les "nations des langues", tous ces internautes qu'on peut regrouper selon leur langue maternelle quel que soit leur lieu géographique.
+C'est un vecteur de culture, et le premier support de la culture, c'est la langue.
+Plus il y a de langues représentées dans leur diversité, plus il y aura de cultures sur internet.
+Je ne pense pas qu'il faille justement céder à la tentation systématique de traduire ses pages dans une langue plus ou moins universelle.
+Les échanges culturels passent par la volonté de se mettre à la portée de celui vers qui on souhaite aller.
+Et cet effort passe par l'appréhension de sa langue.
+Bien entendu c'est très utopique comme propos.
+Concrètement, lorsque je fais de la veille, je peste dès que je rencontre des sites norvégiens ou brésiliens sans un minimum d'anglais." L'anglais reste en effet prépondérant et ceci n'est pas près de disparaître.
+La riposte n'est pas de "lutter contre l'anglais" et encore moins de s'en tenir à des jérémiades, mais de multiplier les sites en d'autres langues.
+Notons qu'en qualité de service de traduction, nous préconisons également le multilinguisme des sites eux-mêmes.
+"Les communautés locales présentes sur le web devraient en tout premier lieu utiliser leur langue pour diffuser des informations, écrit-il en décembre mille neuf cent quatre-vingt-dix-huit.
+Si elles veulent également présenter ces informations à la communauté mondiale, celles-ci doivent être aussi disponibles en anglais.
+Je pense qu'il existe un réel besoin de sites bilingues.
+(...) Mais je suis enchanté qu'il existe maintenant tant de documents disponibles dans leur langue originale.
+Je préfère de beaucoup lire l'original avec difficulté plutôt qu'une traduction médiocre." En août mille neuf cent quatre-vingt-dix-neuf, il ajoute: "A mon avis, il existe deux types de recherches sur le web.
+La première est la recherche globale dans le domaine des affaires et de l'information.
+Pour cela, la langue est d'abord l'anglais, avec des versions locales si nécessaire.
+La seconde, ce sont les informations locales de tous ordres dans les endroits les plus reculés.
+Si l'information est à destination d'une ethnie ou d'un groupe linguistique, elle doit d'abord être dans la langue de l'ethnie ou du groupe, avec peut-être un résumé en anglais." En été deux mille, les usagers non anglophones atteignent puis dépassent la barre des cinquantepourcent.
+Ce pourcentage continue ensuite d'augmenter, comme le montrent les statistiques de la société Global Reach, mises à jour à intervalles réguliers.
+[Résumé] Créé en septembre mille neuf cent quatre-vingt-dix-neuf, l'OeB (open ebook) est un format de livre numérique basé sur le langage XML (extensible markup language) pour normaliser le contenu, la structure et la présentation des livres numériques.
+Le format OeB est défini par l'OeBPS (open ebook publication structure), développée par l'Open eBook Forum (OeBF), un consortium industriel international fondé en janvier deux mille pour regrouper constructeurs, concepteurs de logiciels, éditeurs, libraires et spécialistes du numérique (quatre-vingt-cinq participants en deux mille deux).
+Téléchargeable gratuitement, l'OeBPS dispose d'une version ouverte et gratuite appartenant au domaine public.
+La version originale est destinée aux professionnels de la publication puisqu'elle doit être associée à une technologie normalisée de gestion des droits numériques, et donc à un système de DRM (digital rights management) permettant de contrôler l'accès des livres numériques sous droits.
+En avril deux mille cinq, l'Open eBook Forum devient l'International Digital Publishing Forum (IDPF), et le format OeB devient le format ePub.
+[En détail] Les années mille neuf cent quatre-vingt-dix-huit et mille neuf cent quatre-vingt-dix-neuf sont marquées par la prolifération des formats, chacun lançant son propre format de livre numérique dans le cadre d'un marché naissant promis à une expansion rapide.
+Inquiets pour l'avenir du livre numérique qui, à peine né, propose presque autant de formats que de titres, certains insistent sur l'intérêt, sinon la nécessité, d'un format unique.
+A l'instigation du NIST (National Institute of Standards and Technology) aux Etats-Unis, l'Open eBook Initiative voit le jour en juin mille neuf cent quatre-vingt-dix-huit et constitue un groupe de travail de vingt-cinq personnes (Open eBook Authoring Group).
+Ce groupe élabore l'OeB (open ebook), un format basé sur le langage XML (extensible markup language) et destiné à normaliser le contenu, la structure et la présentation des livres numériques.
+Le format OeB est défini par l'OeBPS (open ebook publication structure), dont la version un.0 est disponible en septembre mille neuf cent quatre-vingt-dix-neuf.
+L'OeBPS dispose d'une version ouverte et gratuite appartenant au domaine public.
+La version originale est utilisée uniquement par les professionnels de la publication, puisqu'il doit être associé à un système de gestion des droits numériques (DRM - digital rights management).
+Le format OeB devient un standard qui sert lui-même de base à de nombreux formats, par exemple LIT (pour le Microsoft Reader) ou PRC (pour le Mobipocket Reader).
+En avril deux mille cinq, l'Open eBook Forum devient l'International Digital Publishing Forum (IDPF) et le format OeB laisse la place au format ePub.
+Créée en mars deux mille par Thierry Brethes et Nathalie Ting, la société Mobipocket, basée à Paris, se spécialise d'emblée dans la lecture et la distribution sécurisée de livres numériques sur assistant personnel (PDA).
+Le Mobipocket Reader est "universel", c'est-à-dire utilisable sur tout assistant personnel (Palm Pilot, Pocket PC, eBookMan, Psion, etc.).
+En avril deux mille deux, la société lance un Mobipocket Reader pour ordinateur.
+Au printemps deux mille trois, le Mobipocket Reader équipe les premiers smartphones de Nokia et Sony Ericsson.
+A la même date, le nombre de livres lisibles sur le Mobipocket Reader est de six.000 titres dans plusieurs langues (français, anglais, allemand, espagnol), distribués soit sur le site de Mobipocket soit dans les librairies partenaires.
+Le système de gestion des droits numériques est le Mobipocket DRM System.
+En avril deux mille cinq, Mobipocket est racheté par la grande librairie en ligne Amazon.com.
+[Résumé] Jean-Paul, auteur hypermédia et webmestre des Cotres furtifs, relate en août mille neuf cent quatre-vingt-dix-neuf: "L'internet va me permettre de me passer des intermédiaires: compagnies de disques, éditeurs, distributeurs...
+Il va surtout me permettre de formaliser ce que j'ai dans la tête et dont l'imprimé (la micro-édition, en fait) ne me permettait de donner qu'une approximation." De nombreux genres voient le jour: sites d'écriture hypermédia, oeuvres de fiction hypertexte, romans multimédias, hyper-romans, etc.
+Jean-Pierre Balpe, chercheur et écrivain, lance le premier mail-roman francophone en deux mille un.
+Cette expérience renforce sa "conviction que les technologies numériques sont une chance extraordinaire du renouvellement du littéraire." Le texte fusionne aussi de plus en plus avec l'image et le son.
+[En détail] Voici trois expériences, relatées par Murray Suid, auteur de livres pédagogiques, Jean-Paul, webmestre d'un site hypermédia, et Jean-Pierre Balpe, auteur d'un mail-roman.
+= Livres pédagogiques Murray Suid vit à Palo Alto, dans la Silicon Valley, en Californie.
+Il est l'auteur de livres pédagogiques, de livres pour enfants, d'oeuvres multimédias et de scénarios.
+Dès septembre mille neuf cent quatre-vingt-dix-huit, il préconise une solution choisie depuis par de nombreux auteurs.
+"Un livre peut avoir un prolongement sur le web - et donc vivre en partie dans le cyberespace, explique-t-il.
+L'auteur peut ainsi aisément l'actualiser et le corriger, alors qu'auparavant il devait attendre longtemps, jusqu'à l'édition suivante, quand il y en avait une.
+(...) Je ne sais pas si je publierai des livres sur le web, au lieu de les publier en version imprimée.
+J'utiliserai peut-être ce nouveau support si les livres deviennent multimédias.
+Pour le moment, je participe au développement de matériel pédagogique multimédia.
+D'entreprise multimédia, la société de logiciels éducatifs qui l'emploie devient une entreprise internet.
+= Site hypermédia Jean-Paul, auteur hypermédia et webmestre des Cotres furtifs, relate en août mille neuf cent quatre-vingt-dix-neuf: "L'internet va me permettre de me passer des intermédiaires: compagnies de disques, éditeurs, distributeurs...
+Il va surtout me permettre de formaliser ce que j'ai dans la tête et dont l'imprimé (la micro-édition, en fait) ne me permettait de donner qu'une approximation.
+Puis les intermédiaires prendront tout le pouvoir.
+Bien sûr, les deux sont possibles avec l'imprimé.
+Mais la différence saute aux yeux: feuilleter n'est pas cliquer.
+L'internet n'a donc pas changé ma vie, mais mon rapport à l'écriture.
+On n'écrit pas de la même manière pour un site que pour un scénario, une pièce de théâtre, etc.
+(...) Depuis, j'écris (compose, mets en page, en scène) directement à l'écran.
+L'état "imprimé" de mon travail n'est pas le stade final, le but; mais une forme parmi d'autres, qui privilégie la linéarité et l'image, et qui exclut le son et les images animées.
+(...) C'est finalement dans la publication en ligne (l'entoilage?) que j'ai trouvé la mobilité, la fluidité que je cherchais.
+Le maître mot y est "chantier en cours", sans palissades.
+Accouchement permanent, à vue, comme le monde sous nos yeux.
+Provisoire, comme la vie qui tâtonne, se cherche, se déprend, se reprend.
+Avec évidemment le risque souligné par les gutenbergs, les orphelins de la civilisation du livre: plus rien n'est sûr.
+Il n'y a plus de source fiable, elles sont trop nombreuses, et il devient difficile de distinguer un clerc d'un gourou.
+Mais c'est un problème qui concerne le contrôle de l'information.
+Pas la transmission des émotions." = Mail-roman Jean-Pierre Balpe est directeur du département hypermédias de l'Université Paris huit, chercheur et écrivain.
+Il lance le premier mail-roman francophone en deux mille un.
+Pendant très exactement cent jours, entre le onze avril et le dix-neuf juillet deux mille un, il diffuse quotidiennement un chapitre de Rien n'est sans dire auprès de cinq cents personnes - sa famille, ses amis, ses collègues, etc.
+- en intégrant les réponses et les réactions des lecteurs.
+Racontée par un narrateur, l'histoire est celle de Stanislas et Zita, qui vivent une passion tragique déchirée par une sombre histoire politique.
+"Cette idée d'un mail-roman m'est venue tout naturellement, raconte l'auteur en février deux mille deux.
+D'une part en me demandant depuis quelque temps déjà ce qu'internet peut apporter sur le plan de la forme à la littérature (...) et d'autre part en lisant de la littérature "épistolaire" du dix-huite siècle, ces fameux "romans par lettres".
+Il suffit alors de transposer: que peut être le "roman par lettres" aujourd'hui?" Jean-Pierre Balpe tire plusieurs conclusions de cette expérience: "D'abord c'est un "genre": depuis, plusieurs personnes m'ont dit lancer aussi un mail-roman.
+Ensuite j'ai aperçu quantité de possibilités que je n'ai pas exploitées et que je me réserve pour un éventuel travail ultérieur.
+La contrainte du temps est ainsi très intéressante à exploiter: le temps de l'écriture bien sûr, mais aussi celui de la lecture: ce n'est pas rien de mettre quelqu'un devant la nécessité de lire, chaque jour, une page de roman.
+Ce "pacte" a quelque chose de diabolique.
+En septembre deux mille trois, yourDictionary.com, devenu un portail de référence, répertorie plus de un.huit cents dictionnaires dans deux cent cinquante langues, ainsi que de nombreux outils linguistiques: vocabulaires, grammaires, glossaires, méthodes de langues, etc.
+En avril deux mille sept, le répertoire comprend deux.cinq cents dictionnaires et grammaires dans trois cents langues.
+Soucieux de servir toutes les langues sans exception, le portail propose une section spécifique (Endangered Language Repository) consacrée aux langues menacées d'extinction.
+D'après l'encyclopédie Ethnologue: Languages of the World, publiée par SIL International et disponible gratuitement sur le web, il existerait six.neuf cent douze langues dans le monde.
+[En détail] yourDictionary.com est co-fondé par Robert Beard en février deux mille, dans le prolongement de son ancien site, A Web of Online Dictionaries, créé dès mille neuf cent quatre-vingt-quinze.
+En septembre deux mille trois, yourDictionary.com, devenu un portail de référence, répertorie un.huit cents dictionnaires dans deux cent cinquante langues, ainsi que de nombreux outils linguistiques: vocabulaires, grammaires, glossaires, méthodes de langues, etc.
+En avril deux mille sept, le répertoire comprend deux.cinq cents dictionnaires et grammaires dans trois cents langues.
+Soucieux de servir toutes les langues sans exception, le site propose une section spécifique (Endangered Language Repository) consacrée aux langues menacées d'extinction.
+Robert Beard explique en janvier deux mille: "Les langues menacées sont essentiellement des langues non écrites.
+Un tiers seulement des quelque six.000 langues existant dans le monde sont à la fois écrites et parlées.
+Je ne pense pourtant pas que le web va contribuer à la perte de l'identité des langues et j'ai même le sentiment que, à long terme, il va renforcer cette identité.
+Par exemple, de plus en plus d'Indiens d'Amérique contactent des linguistes pour leur demander d'écrire la grammaire de leur langue et les aider à élaborer des dictionnaires.
+Pour eux, le web est un instrument à la fois accessible et très précieux d'expression culturelle." Caoimhín Ó Donnaíle est professeur d'informatique à l'Institut Sabhal Mór Ostaig, situé sur l'île de Skye, en Ecosse.
+Il dispense ses cours en gaélique écossais.
+Il indique pour sa part en mai deux mille un: "En ce qui concerne l'avenir des langues menacées, l'internet accélère les choses dans les deux sens.
+Si les gens ne se soucient pas de préserver les langues, l'internet et la mondialisation qui l'accompagne accéléreront considérablement la disparition de ces langues.
+Si les gens se soucient vraiment de les préserver, l'internet constituera une aide irremplaçable." Caoimhín est également le webmestre du site de l'institut, bilingue anglais-gaélique, qui se trouve être la principale source d'information mondiale sur le gaélique écossais.
+Sur ce site, il tient à jour European Minority Languages, une liste de langues européennes minoritaires elle aussi bilingue anglais-gaélique, avec classement par ordre alphabétique de langues et par famille linguistique.
+Il ajoute: "Nos étudiants utilisent un correcteur d'orthographe en gaélique et une base terminologique en ligne en gaélique.
+(...) Il est maintenant possible d'écouter la radio en gaélique (écossais et irlandais) en continu sur l'internet partout dans le monde.
+Une réalisation particulièrement importante a été la traduction en gaélique du logiciel de navigation Opera.
+C'est la première fois qu'un logiciel de cette taille est disponible en gaélique." Publiée par SIL International (SIL: Summer Institute of Linguistics), l'encyclopédie Ethnologue: Languages of the World existe à la fois en version web (gratuite), sur CD-ROM (payant) et en version imprimée (payante).
+[Résumé] En novembre deux mille, la version numérique de la Bible de Gutenberg est mise en ligne sur le site de la British Library.
+Datée de mille quatre cent cinquante-quatre ou mille quatre cent cinquante-cinq, cette Bible est le premier ouvrage imprimé par Gutenberg dans son atelier de Mayence, en Allemagne.
+Sur les cent quatre-vingts exemplaires d'origine, quarante-huit exemplaires, dont certains incomplets, existeraient toujours.
+La British Library en possède deux versions complètes et une partielle.
+En mars deux mille, dix chercheurs et experts techniques de l'Université Keio de Tokyo et de NTT (Nippon Telegraph and Telephone Communications) viennent travailler sur place pendant deux semaines pour numériser les deux versions complètes, légèrement différentes.
+[Résumé] Distributed Proofreaders (DP) est lancé en octobre deux mille par Charles Franks pour aider à la numérisation des livres du domaine public.
+Le site web permet la correction partagée en fragmentant les livres en pages pouvant être relues par des correcteurs différents.
+Destiné à intensifier la production de livres pour le Projet Gutenberg, grande bibliothèque numérique mondiale au format texte, Distributed Proofreaders en devient rapidement la principale source.
+A titre indicatif, il est suggéré de relire une page par jour.
+Cela semble peu, mais une page multipliée par des milliers de volontaires représente un chiffre considérable.
+En deux mille trois, une moyenne de deux cent cinquante à trois cents relecteurs quotidiens permet de produire entre deux.cinq cents et trois.000 pages par jour, ce qui représente deux pages par minute.
+En deux mille quatre, la moyenne était de trois cents à quatre cents relecteurs quotidiens produisant entre quatre.000 et sept.000 pages par jour, à savoir quatre pages par minute.
+Distributed Proofreaders produit trois.000 livres en février deux mille quatre, cinq.000 livres en octobre deux mille quatre, sept.000 livres en mai deux mille cinq, huit.000 livres en février deux mille six et dix.000 livres en mars deux mille sept.
+[En détail] Conçu en octobre deux mille par Charles Franks pour contribuer à la numérisation des livres du domaine public, Distributed Proofreaders (DP) permet la correction partagée en fragmentant les livres en pages pouvant être relues par des correcteurs différents.
+Destiné à intensifier la production de livres pour le Projet Gutenberg, grande bibliothèque numérique mondiale au format texte, Distributed Proofreaders en devient rapidement la principale source.
+Il est officiellement affilié au Projet Gutenberg en deux mille deux.
+La progression est rapide.
+En deux mille trois, une moyenne de deux cent cinquante à trois cents relecteurs quotidiens permet de produire entre deux.cinq cents et trois.000 pages par jour, ce qui représente deux pages par minute.
+En deux mille quatre, la moyenne est de trois cents à quatre cents relecteurs quotidiens produisant entre quatre.000 et sept.000 pages par jour, à savoir quatre pages par minute.
+A cette date, sept cents volontaires se connectent chaque jour et trois.000 volontaires se connectent chaque mois.
+Les volontaires n'ont aucun quota à respecter.
+A titre indicatif, il est suggéré de relire une page par jour.
+Cela semble peu, mais une page multipliée par des milliers de volontaires représente un chiffre considérable.
+En janvier deux mille quatre est lancé en parallèle Distributed Proofreaders Europe (DP Europe) pour alimenter le site du Projet Gutenberg Europe (PG Europe).
+Créé à l'initiative du Projet Rastko, basé à Belgrade (Serbie), DP Europe est calqué sur le site original de Distributed Proofreaders, pour gérer la relecture partagée de PG Europe.
+Dès ses débuts, DP Europe est un site multilingue, qui prend en compte les principales langues nationales.
+Grâce à des traducteurs volontaires, le site de DP Europe est disponible en douze langues en avril deux mille quatre et vingt-deux langues en mai deux mille huit.
+L'objectif à moyen terme est d'atteindre soixante langues, avec prise en compte de toutes les langues européennes.
+DP Europe comptabilise cent livres numérisés en mai deux mille cinq, et cinq cents livres numérisés en octobre deux mille huit.
+[Résumé] La Public Library of Science (PLoS) est fondée en octobre deux mille par un groupe de chercheurs des universités de Stanford et de Berkeley, en Californie.
+Son premier objectif est de contrer les publications spécialisées aux prix prohibitifs en regroupant tous les articles scientifiques et médicaux au sein d'archives en ligne en accès libre.
+Mais la réponse des éditeurs concernés n'est guère enthousiaste, et ce projet n'aboutit pas.
+La Public Library of Science met ensuite en oeuvre son deuxième objectif, et devient un éditeur non commercial de périodiques scientifiques et médicaux en ligne, selon un nouveau modèle d'édition en ligne basé sur la diffusion libre du savoir.
+Le premier numéro de PLoS Biology sort en octobre deux mille trois.
+PLoS Medicine est lancé en octobre deux mille quatre.
+Trois nouveaux titres voient le jour en deux mille cinq: PLoS Genetics, PLoS Computational Biology et PLoS Pathogens.
+Ils sont suivis par PLoS Clinical Trials en mai deux mille six et PLoS Neglected Tropical Diseases en octobre deux mille sept.
+[En détail] A l'heure de l'internet, il paraît assez scandaleux que le résultat de travaux de recherche - travaux originaux et demandant de longues années d'efforts - soit détourné par des éditeurs spécialisés s'appropriant ce travail et le monnayant à prix fort.
+L'activité des chercheurs est souvent financée par les deniers publics, et de manière substantielle en Amérique du Nord.
+Il semblerait donc normal que la communauté scientifique et le grand public puissent bénéficier librement du résultat de ces recherches.
+Dans le domaine scientifique et médical par exemple, un.000 nouveaux articles sont publiés chaque jour, en ne comptant que les articles révisés par les pairs.
+Se basant sur ce constat, la Public Library of Science (PLoS) est fondée en octobre deux mille à San Francisco à l'initiative de Harold Varmus, Patrick Brown et Michael Eisen, enseignants-chercheurs dans les universités de Stanford et de Berkeley, en Californie.
+Le but de PLoS est de contrer les pratiques de l'édition spécialisée en regroupant tous les articles scientifiques et médicaux au sein d'archives en ligne en accès libre.
+Pour ce faire, PLoS fait circuler une lettre ouverte demandant que les articles publiés par les éditeurs spécialisés soient distribués librement dans un service d'archives en ligne, et incitant les signataires de cette lettre à promouvoir les éditeurs prêts à soutenir ce projet.
+La réponse de la communauté scientifique internationale est remarquable.
+Au cours des deux années suivantes, la lettre ouverte est signée par trente.000 chercheurs de cent quatre-vingts pays différents.
+La réponse des éditeurs est nettement moins enthousiaste, mais plusieurs éditeurs donnent leur accord de principe pour une distribution immédiate des articles publiés par leurs soins, ou alors une distribution dans un délai de six mois.
+Dans la pratique, toutefois, même les éditeurs ayant donné un accord de principe formulent nombre d'objections au nouveau modèle proposé, si bien que le projet d'archives en ligne ne voit finalement pas le jour.
+Un autre objectif de la Public Library of Science est de devenir elle-même éditeur.
+PLoS fonde donc une maison d'édition scientifique non commerciale qui reçoit en décembre deux mille deux une subvention de neuf millions de dollars US de la part de la Moore Foundation.
+Une équipe éditoriale de haut niveau est constituée en janvier deux mille trois pour lancer des périodiques de qualité selon un nouveau modèle d'édition en ligne basé sur la diffusion libre du savoir.
+Le premier numéro de PLoS Biology sort en octobre deux mille trois, avec une version en ligne gratuite et une version imprimée au prix coûtant (couvrant uniquement les frais de fabrication et de distribution).
+PLoS Medicine est lancé en octobre deux mille quatre.
+Trois nouveaux titres voient le jour en deux mille cinq: PLoS Genetics, PLoS Computational Biology et PLoS Pathogens.
+PLoS Clinical Trials voit le jour en deux mille six.
+PloS Neglected Tropical Diseases est lancé en octobre deux mille sept en tant que première publication scientifique consacrée aux maladies tropicales négligées.
+Ces maladies affectent les populations pauvres aussi bien dans les zones rurales que dans les zones urbaines.
+Tous les articles de ces périodiques sont librement accessibles en ligne, sur le site de PLoS et dans PubMed Central, le service public et gratuit d'archives en ligne de la National Library of Medicine (Etats-Unis), avec moteur de recherche multi-critères.
+Les versions imprimées sont abandonnées en deux mille six pour laisser place à un service d'impression à la demande proposé par la société Odyssey Press.
+Ces articles peuvent être librement diffusés et réutilisés ailleurs, y compris pour des traductions, selon les termes de la licence Creative Commons, la seule contrainte étant la mention des auteurs et de la source.
+PLoS lance aussi PLoS ONE, un forum en ligne permettant de publier des articles sur tout sujet scientifique et médical.
+Le succès est total.
+Trois ans après les débuts de PLoS en tant qu'éditeur, PLoS Biology et PLoS Medicine ont la même réputation d'excellence que les grandes revues Nature, Science ou The New England Journal of Medicine.
+PLoS reçoit le soutien financier de plusieurs fondations tout en mettant sur pied un modèle économique viable, avec des revenus émanant des frais de publication payés par les auteurs, et provenant aussi de la publicité, de sponsors et d'activités destinées aux membres de PLoS.
+PLoS oeuvre aussi pour que ce modèle économique incide d'autres éditeurs à créer des revues du même type ou à mettre les revues existantes en accès libre.
+[Résumé] Lancée en janvier deux mille un à l'initiative de Jimmy Wales et Larry Sanger (Larry quitte ensuite l'équipe), Wikipedia est une encyclopédie gratuite écrite collectivement et dont le contenu est librement réutilisable.
+Elle est immédiatement très populaire.
+Sans publicité, et financée par des dons, cette encyclopédie coopérative est rédigée par des milliers de volontaires (appelés Wikipédiens), avec possibilité de corriger et de compléter les articles.
+Les articles restent la propriété de leurs auteurs, et leur libre utilisation est régie par la licence GFDL (GNU free documentation license).
+En décembre deux mille quatre, Wikipedia compte un virgule trois million d'articles rédigés par treize.000 contributeurs dans cent langues.
+Deux ans après, en décembre deux mille six, elle compte six millions d'articles dans deux cent cinquante langues, et elle est l'un de dix sites les plus visités du web.
+En mai deux mille sept, la version francophone fête ses cinq cents.000 articles.
+A la même date, Wikipedia compte sept millions d'articles dans cent quatre-vingt-douze langues, dont un virgule huit million en anglais, cinq cent quatre-vingt-neuf.000 en allemand, deux cent soixante.000 en portugais et deux cent trente-six.000 en espagnol.
+[En détail] Créée en janvier deux mille un à l'initiative de Jimmy Wales et Larry Sanger (Larry quitte ensuite l'équipe), Wikipedia est une encyclopédie gratuite écrite collectivement et dont le contenu est librement réutilisable.
+Wikipedia est non seulement une encyclopédie mais aussi un wiki.
+Un wiki - terme hawaïen signifiant: vite, rapide - est un site web permettant à plusieurs utilisateurs de collaborer en ligne sur un même texte.
+A tout moment, ces utilisateurs peuvent contribuer à la rédaction du contenu, modifier ce contenu et l'enrichir en permanence.
+Le wiki est utilisé par exemple pour créer et gérer des dictionnaires, des encyclopédies ou encore des sites d'information sur un sujet donné.
+Le programme présent derrière l'interface d'un wiki est plus ou moins élaboré.
+Un programme simple gère du texte et des hyperliens.
+Un programme élaboré permet d'inclure des images, des graphiques, des tableaux, etc.
+Wikipedia est immédiatement très populaire.
+Sans publicité et financée par des dons, cette encyclopédie coopérative est rédigée par des milliers de volontaires - appelés Wikipédiens, et qui s'inscrivent en prenant un pseudonyme - avec possibilité de corriger ou compléter les articles.
+Les articles restent la propriété de leurs auteurs, et leur libre utilisation est régie par la licence GFDL (GNU free documentation license).
+En décembre deux mille quatre, Wikipedia compte un virgule trois million d'articles rédigés par treize.000 contributeurs dans cent langues.
+En décembre deux mille six, elle compte six millions d'articles dans deux cent cinquante langues, et elle est l'un de dix sites les plus visités du web.
+En avril deux mille sept, Wikipedia publie pour la première fois un CD payant avec une sélection de deux.000 articles en anglais.
+En mai deux mille sept, la version francophone fête ses cinq cents.000 articles (un CD est également prévu).
+A la même date, Wikipedia compte sept millions d'articles dans cent quatre-vingt-douze langues, dont un virgule huit million en anglais, cinq cent quatre-vingt-neuf.000 en allemand, deux cent soixante.000 en portugais et deux cent trente-six.000 en espagnol.
+La fin deux mille sept voit le lancement d'un moteur de recherche dénommé Wiki Search, qui utilise le réseau de contributeurs de Wikipedia pour classer les sites en fonction de leur qualité.
+Les précurseurs de Wikipedia sont WebEncyclo (disparu depuis) et Britannica.com, lancés tous deux en décembre mille neuf cent quatre-vingt-dix-neuf sur le web.
+WebEncyclo, publié par les éditions Atlas, est la première grande encyclopédie francophone en accès libre.
+La recherche est possible par mots-clés, thèmes, médias (cartes, liens internet, photos, illustrations) et idées.
+Un appel à contribution incite les spécialistes d'un sujet donné à envoyer des articles, qui sont regroupés dans la section WebEncyclo contributif.
+Après avoir été libre, l'accès est ensuite soumis à une inscription préalable gratuite.
+La version web de l'Encyclopaedia Universalis est mise en ligne à la même date, soit un ensemble de vingt-huit.000 articles signés par quatre.000 auteurs.
+Si la consultation est payante sur la base d'un abonnement annuel, de nombreux articles sont en accès libre.
+Le site web offre une sélection d'articles issus de soixante-dix magazines, un guide des meilleurs sites, un choix de livres, etc., le tout étant accessible à partir d'un moteur de recherche unique.
+En septembre deux mille, le site fait partie des cent sites les plus visités au monde.
+En juillet deux mille un, la consultation devient payante sur la base d'un abonnement mensuel ou annuel.
+Fin deux mille huit, Britannica.com annnonce l'ouverture prochaine de son site à des contributeurs extérieurs, avec inscription obligatoire pour écrire et modifier des articles.
+[Résumé] Lancée en deux mille un à l'initiative de Lawrence Lessig, professeur de droit en Californie, la licence Creative Commons est destinée à favoriser la diffusion d'oeuvres numériques tout en protégeant le droit d'auteur.
+L'organisme du même nom propose des licences-type, qui sont des contrats flexibles de droit d'auteur compatibles avec une diffusion sur l'internet.
+Simplement rédigées, ces autorisations non exclusives permettent aux titulaires des droits d'autoriser le public à utiliser leurs créations tout en ayant la possibilité de restreindre les exploitations commerciales et les oeuvres dérivées.
+L'auteur peut par exemple choisir d'autoriser ou non les reproductions et les rediffusions de ses oeuvres.
+Ces contrats peuvent être utilisés pour tout type de création: texte, film, photo, musique, site web, etc.
+Finalisée en février deux mille sept, la version trois.0 des Creative Commons instaure entre autres une licence internationale et la compatibilité avec d'autres licences similaires, dont le copyleft et la GPL (general public license).
+[En détail] Lancée en deux mille un à l'initiative de Lawrence Lessig, professeur de droit en Californie, la licence Creative Commons est destinée à favoriser la diffusion d'oeuvres numériques tout en protégeant le droit d'auteur.
+L'organisme du même nom propose des licences-type, qui sont des contrats flexibles de droit d'auteur compatibles avec une diffusion sur l'internet.
+Simplement rédigées, ces autorisations non exclusives permettent aux titulaires des droits d'autoriser le public à utiliser leurs créations tout en ayant la possibilité de restreindre les exploitations commerciales et les oeuvres dérivées.
+L'auteur peut par exemple choisir d'autoriser ou non les reproductions et les rediffusions de ses oeuvres.
+Ces contrats peuvent être utilisés pour tout type de création: texte, film, photo, musique, site web, etc.
+Finalisée en février deux mille sept, la version trois.0 des Creative Commons instaure entre autres une licence internationale et la compatibilité avec d'autres licences similaires comme le copyleft et la GPL (general public license).
+Qui utilise la licence Creative Commons? O'Reilly Media par exemple.
+Fondé par Tim O'Reilly en mille neuf cent soixante-dix-huit, O'Reilly Media est un éditeur réputé de manuels informatiques et de livres sur les technologies de pointe.
+O'Reilly dispose d'abord d'une formule de "copyright ouvert" pour les auteurs qui le souhaitent, ou alors pour des projets collectifs.
+A partir de deux mille trois, il privilégie le Creative Commons Founders' Copyright permettant d'offrir des contrats flexibles de droit d'auteur à ceux qui veulent également diffuser leurs oeuvres sur le web.
+La Public Library of Science (PLoS) utilise elle aussi la licence Creative Commons.
+Les articles de ses périodiques en ligne peuvent être librement diffusés et réutilisés ailleurs, y compris pour des traductions, la seule contrainte étant la mention des auteurs et de la source.
+En complément, Science Commons est fondé en deux mille cinq pour définir les stratégies et les outils nécessaires à la diffusion sur le web de la recherche scientifique, et ccLearn est fondé en deux mille sept dans le même but, mais pour l'enseignement.
+[Résumé] Le MIT (Massachusetts Institute of Technology) décide de publier le contenu de ses cours en ligne, avec accès libre et gratuit, pour les mettre à la disposition de tous, enseignants, étudiants et autodidactes.
+L'initiative est menée avec le soutien de la Hewlett Foundation et de la Mellon Foundation.
+Mise en ligne en septembre deux mille deux, la version pilote du MIT OpenCourseWare (MIT OCW) offre en accès libre le matériel d'enseignement de trente-deux cours représentatifs des cinq facultés du MIT.
+Ce matériel d'enseignement comprend les textes des conférences, les travaux pratiques, les exercices et corrigés, les bibliographies, les documents audio et vidéo, etc.
+Le lancement officiel du site a lieu en septembre deux mille trois, avec accès à quelques centaines de cours.
+En mars deux mille quatre, les cinq cents cours disponibles couvrent trente-trois disciplines.
+En mai deux mille six, les un.quatre cents cours disponibles couvrent trente-quatre disciplines.
+La totalité des cours dispensés par le MIT, soit un.huit cents cours, est disponible en novembre deux mille sept, avec actualisation régulière.
+[En détail] Basé comme son nom l'indique dans le Massachusetts, un Etat des Etats-Unis, le MIT (Massachusetts Institute of Technology) a toujours été à la pointe de la recherche dans de nombreux domaines.
+En avril mille neuf cent quatre-vingt-dix-sept, par exemple, ce sont des chercheurs du Media Lab du MIT qui créent la société E Ink pour développer une technologie d'encre électronique, elle aussi appelée E Ink.
+Professeur à l'Université d'Ottawa (Canada), Christian Vandendorpe salue en mai deux mille un "la décision du MIT de placer tout le contenu de ses cours sur le web d'ici dix ans, en le mettant gratuitement à la disposition de tous.
+Lancée en septembre deux mille deux, la version pilote du MIT OpenCourseWare (MIT OCW) offre en accès libre le matériel d'enseignement de trente-deux cours représentatifs des cinq facultés du MIT.
+Ce matériel d'enseignement comprend des textes de conférences, des travaux pratiques, des exercices et corrigés, des bibliographies, des documents audio et vidéo, etc.
+Le lancement officiel du site a lieu un an plus tard, en septembre deux mille trois, avec accès à quelques centaines de cours.
+En mars deux mille quatre, les cinq cents cours disponibles couvrent trente-trois disciplines.
+En mai deux mille six, les un.quatre cents cours disponibles couvrent trente-quatre disciplines.
+La totalité des un.huit cents cours dispensés par le MIT est en ligne en novembre deux mille sept, avec actualisation régulière.
+Parallèlement, certains cours sont traduits en espagnol, en portugais et en chinois avec l'aide d'autres organismes.
+Un "opencourseware" peut être défini comme la publication électronique en accès libre du matériel d'enseignement d'une université donnée.
+A cet effet, le MIT lance l'OpenCourseWare Consortium (OCW Consortium) en décembre deux mille cinq, avec accès libre et gratuit au matériel d'enseignement de cent universités dans le monde un an plus tard.
+Le concept est un site web qui permet la correction partagée en fragmentant les livres en pages pouvant être relues par des correcteurs différents.
+La présence de plusieurs langues reflète la diversité linguistique prévalant en Europe.
+La norme utilisée pour définir le domaine public est l'équation "décès de l'auteur + cinquante ans", selon le copyright en vigueur en Serbie.
+Quand il aura atteint sa vitesse de croisière, le Projet Gutenberg Europe devrait se répartir en plusieurs bibliothèques numériques nationales et/ou linguistiques, avec respect du copyright en vigueur dans le pays donné.
+cent livres sont numérisés en juin deux mille cinq, et cinq cents livres en octobre deux mille huit.
+[En détail] En deux mille quatre, le multilinguisme devient l'une des priorités du Projet Gutenberg, tout comme l'internationalisation.
+Michael Hart prend son bâton de pèlerin vers l'Europe, avec des étapes à Bruxelles, Paris et Belgrade.
+Le douze février deux mille quatre, il donne une conférence au siège de l'UNESCO (Organisation des Nations Unies pour l'éducation, la science et la culture) à Paris.
+Le lendemain, toujours à Paris, il anime un débat à l'Assemblée nationale.
+La semaine suivante, il s'adresse au Parlement européen à Bruxelles.
+Puis il rend visite à l'équipe du Projet Rastko à Belgrade (Serbie), pour soutenir la création du Projet Gutenberg Europe et de Distributed Proofreaders Europe.
+Quand il aura atteint sa vitesse de croisière, le Projet Gutenberg Europe devrait alimenter plusieurs bibliothèques numériques nationales et/ou linguistiques, par exemple le Projet Gutenberg France pour la France.
+Basé à Belgrade, en Serbie, le Projet Rastko s'est porté volontaire pour un pari aussi fou, catalysant du même coup les bonnes volontés européennes à l'est comme à l'ouest.
+Fondé en mille neuf cent quatre-vingt-dix-sept, le Projet Rastko est une initiative non gouvernementale à vocation culturelle et pédagogique.
+L'un de ses objectifs est la mise en ligne de la culture serbe.
+Il fait partie de la Balkans Cultural Network Initiative, un réseau culturel régional couvrant la péninsule des Balkans, située au sud-est de l'Europe.
+La règle utilisée pour définir le domaine public est l'équation "décès de l'auteur + cinquante ans", qui correspond à la législation en vigueur en Serbie.
+Le Projet Gutenberg Europe utilise l'Unicode pour pouvoir traiter des livres dans un grand nombre de langues.
+Le Projet Gutenberg atteint cent livres en mai deux mille cinq et cinq cents livres en octobre deux mille huit.
+[Résumé] En octobre deux mille quatre, Google lance la première partie de son programme Google Print, établi en partenariat avec les éditeurs pour consulter à l'écran des extraits de livres, puis commander les livres auprès d'une librairie en ligne.
+La version bêta de Google Print est mise en ligne en mai deux mille cinq.
+En août deux mille cinq, le programme est suspendu pour cause de conflit avec les associations d'auteurs et d'éditeurs de livres sous droits.
+Il reprend en août deux mille six sous le nom de Google Books (Google Livres).
+La numérisation des fonds de grandes bibliothèques se poursuit, tout comme le développement de partenariats avec des éditeurs.
+En octobre deux mille huit, Google clôt le conflit avec les associations d'auteurs et d'éditeurs en signant un accord avec eux.
+[En détail] En deux mille quatre, le moteur de recherche Google met son expertise au service du livre.
+En octobre deux mille quatre, Google lance la première partie de son programme Google Print, établi en partenariat avec les éditeurs pour consulter à l'écran des extraits de livres, puis commander les livres auprès d'une librairie en ligne.
+En décembre deux mille quatre, Google lance la deuxième partie de son programme Google Print, cette fois-ci à destination des bibliothèques.
+Il s'agit d'un projet de bibliothèque numérique de quinze millions de livres, qui consisterait à numériser en quelques années les livres de plusieurs grandes bibliothèques partenaires.
+Les premières bibliothèques participantes sont celles des universités du Michigan (dans sa totalité: sept millions d'ouvrages), de Harvard, de Stanford et d'Oxford, et la New York Public Library.
+Le coût estimé se situe entre cent cinquante et deux cents millions de dollars US (environ dix dollars par livre) et la durée prévue est de dix ans.
+La version bêta de Google Print est mise en ligne en mai deux mille cinq.
+En août deux mille cinq, ce programme est suspendu pour un temps indéterminé pour cause de conflit avec les associations d'auteurs et d'éditeurs de livres sous droits.
+Le programme reprend en août deux mille six sous le nouveau nom de Google Books (Google Livres).
+Google Book Search, le moteur de recherche de Google Books, permet chercher les livres par date, titre ou éditeur.
+La numérisation des fonds de grandes bibliothèques se poursuit, en étant cette fois axée sur les livres libres de droit, et sur le développement de partenariats avec les éditeurs qui le souhaitent.
+Les livres libres de droit sont consultables à l'écran et leur texte copiable, avec possibilité d'impression page à page.
+Ils sont téléchargeables sous forme de fichiers PDF et imprimables dans leur entier.
+A l'exception de la New York Public Library, les bibliothèques participantes sont des bibliothèques universitaires (Harvard, Stanford, Michigan, Oxford, California, Virginia, Wisconsin-Madison, Complutense de Madrid).
+S'y ajoutent début deux mille sept les bibliothèques des Universités de Princeton et du Texas (Austin), ainsi que la Biblioteca de Catalunya (Catalogne, Espagne) et la Bayerische Staatbibliothek (Bavière, Allemagne).
+En mai deux mille sept, Google annonce la participation de la première bibliothèque francophone, la Bibliothèque cantonale et universitaire (BCU) de Lausanne (Suisse), rejointe ensuite par la Bibliothèque municipale de Lyon (France).
+Google scannerait trois.000 livres par jour, ce qui représenterait un million de livres par an.
+Pour les livres sous droits, Google fournit la fiche du livre et des extraits incluant les mots-clés recherchés, en invoquant le droit de citation.
+De ce fait, le conflit avec les éditeurs et les auteurs se poursuit lui aussi, puisque Google continue de numériser des livres sous droits sans l'autorisation préalable des éditeurs, en invoquant là aussi le droit de citation qu'il procure en aval.
+L'Authors Guild et l'Association of American Publishers (AAP) invoquent pour leur part le non respect de la législation relative au copyright pour attaquer Google en justice et réitérer leurs plaintes pendant deux ans.
+Ce conflit prend fin en octobre deux mille huit avec la signature d'un accord prévue en deux mille neuf entre Google et les parties plaignantes.
+[Résumé] Lancé en octobre deux mille cinq à l'instigation de l'Internet Archive, l'Open Content Alliance (OCA) est un projet public et coopératif de bibliothèque numérique mondiale.
+Le but est de créer un vaste répertoire libre et multilingue de livres numérisés et de documents multimédia pour consultation et téléchargement sur n'importe quel moteur de recherche.
+L'OCA regroupe de nombreux  partenaires: bibliothèques, universités, organisations gouvernementales, associations à but non lucratif, organismes culturels, sociétés informatiques (Adobe, Hewlett Packard, Microsoft, Yahoo!, Xerox, etc.).
+Les premiers participants sont les bibliothèques des universités de Californie et de Toronto, l'European Archive, les Archives nationales du Royaume-Uni, O'Reilly Media et Prelinger Archives.
+L'OCA souhaite s'inspirer de l'initiative de Google tout en évitant ses travers, à savoir la numérisation des livres sous droits sans l'accord préalable des éditeurs, tout comme la consultation et le téléchargement impossibles sur un autre moteur de recherche.
+[En détail] Lancé en octobre deux mille cinq à l'instigation de l'Internet Archive, l'Open Content Alliance (OCA) est un projet public et coopératif de bibliothèque numérique mondiale.
+Le but est de créer un vaste répertoire libre et multilingue de livres numérisés et de documents multimédia pour consultation et téléchargement sur n'importe quel moteur de recherche.
+L'OCA regroupe de nombreux  partenaires: bibliothèques, universités, organisations gouvernementales, associations à but non lucratif, organismes culturels, sociétés informatiques (Adobe, Hewlett Packard, Microsoft, Yahoo!, Xerox, etc.).
+Les premiers participants sont les bibliothèques des universités de Californie et de Toronto, l'European Archive, les Archives nationales du Royaume-Uni, O'Reilly Media et Prelinger Archives.
+L'OCA souhaite s'inspirer de l'initiative de Google tout en évitant ses travers, à savoir la numérisation des livres sous droits sans l'accord préalable des éditeurs, tout comme la consultation et le téléchargement impossibles sur un autre moteur de recherche.
+L'Open Content Alliance (OCA) franchit la barre des cent.000 livres numérisés en décembre deux mille six, avec un rythme de douze.000 nouveaux livres par mois.
+Ces livres sont disponibles dans la collection Text Archive de l'Internet Archive.
+La barre des deux cents.000 livres numérisés est franchie en mai deux mille sept.
+La barre du million de livres numérisés est franchie en décembre deux mille huit.
+[Résumé] WorldCat, grand catalogue collectif mondial, voit le jour dès mille neuf cent soixante et onze.
+A cette date, l'association OCLC (Online Computer Library Center) lance un catalogue collectif permettant un catalogage partagé entre les bibliothèques universitaires de l'Ohio, un Etat des Etats-Unis.
+En deux mille six, soixante-treize millions de notices provenant de dix.000 bibliothèques dans cent douze pays permettent de localiser un milliard de documents.
+Une notice type contient non seulement la description du document mais aussi des informations sur son contenu: table des matières, résumé, couverture, illustrations et courte biographie de l'auteur.
+Les bibliothèques membres y proposent non seulement leur catalogue mais aussi un accès direct (gratuit ou payant) à leurs documents électroniques: livres du domaine public, articles, photos, vidéos, musique et livres audio.
+[En détail] L'ancêtre de WorldCat est créé dès mille neuf cent soixante et onze par l'association OCLC (Online Computer Library Center) pour permettre un catalogage partagé entre les bibliothèques universitaires de l'Ohio, un Etat des Etats-Unis.
+Renommé OCLC Online Union Catalog puis WorldCat, il devient au fil des ans l'un des deux grands catalogues collectifs mondiaux, l'autre étant le RLG Union Catalog (RLG: Research Library Group).
+En mille neuf cent quatre-vingt-dix-huit, WorldCat est disponible sur abonnement payant et comprend trente-huit millions de notices en trois cent soixante-dix langues, auxquelles s'ajoutent deux millions de nouvelles notices par an.
+WorldCat utilise huit formats bibliographiques (livres, périodiques, documents visuels, cartes et plans, documents mixtes, enregistrements sonores, partitions, documents informatiques).
+En deux mille six, soixante-treize millions de notices provenant de dix.000 bibliothèques dans cent douze pays permettent de localiser un milliard de documents.
+Une notice type contient non seulement la description du document mais aussi des informations sur son contenu: table des matières, résumé, couverture, illustrations et courte biographie de l'auteur.
+Les bibliothèques membres y proposent non seulement leur catalogue mais aussi un accès direct (gratuit ou payant) à leurs documents électroniques: livres du domaine public, articles, photos, vidéos, musique et livres audio.
+Deux ans auparavant, le catalogue RedLightGreen fait figure de pionnier en tant que premier catalogue collectif mondial librement disponible sur le web.
+La mise en ligne de RedLightGreen inaugure une ère nouvelle.
+C'est en effet la première fois qu'un catalogue de cette importance est mis en accès libre sur le web.
+RedLightGreen est particulièrement destiné aux étudiants du premier cycle universitaire, préparant à la licence.
+Il comprend cent trente millions de notices (livres, cartes, manuscrits, films, bandes sonores, etc.), avec des liens vers des informations spécifiques aux bibliothèques d'un campus donné (cote, version en ligne si celle-ci existe, etc.).
+RedLightGreen cesse après trois ans d'activité, en novembre deux mille six, et les usagers sont invités à utiliser WorldCat, dont la version web (bêta) est en accès libre depuis août deux mille six.
+A la même date, le RLG est intégré à OCLC.
+Citizendium est basé sur le même modèle que Wikipedia (collaborative et gratuite) tout en évitant ses travers (vandalisme et manque de rigueur).
+Les auteurs signent les articles de leur vrai nom et les articles sont édités par des experts ("editors") titulaires d'une licence universitaire et âgés d'au moins vingt-cinq ans.
+De plus, des "constables" sont chargés de la bonne marche du projet et du respect du règlement.
+Le jour de son lancement officiel le vingt-cinq mars deux mille sept, Citizendium comprend un.cent articles, huit cent vingt auteurs et cent quatre-vingts éditeurs.
+neuf.huit cents articles sont disponibles en décembre deux mille huit.
+Il s'agira d'une encyclopédie multimédia permettant de ressembler textes, photos, cartes, bandes sonores et vidéos, avec une page web par espèce, et permettant aussi d'offrir un portail unique à des millions de documents épars en ligne et hors ligne.
+Outil d'apprentissage et d'enseignement pour une meilleure connaissance de notre planète, elle sera à destination de tous: scientifiques, enseignants, étudiants, scolaires, médias, décideurs et grand public.
+Ce projet collaboratif est mené par plusieurs grandes institutions (Field Museum of Natural History, Harvard University, Marine Biological Laboratory, Missouri Botanical Garden, Smithsonian Institution, Biodiversity Heritage Library).
+Il s'agira d'une encyclopédie multimédia permettant de ressembler textes, photos, cartes, bandes sonores et vidéos, avec une page web par espèce, et permettant aussi d'offrir un portail unique à des millions de documents épars en ligne et hors ligne.
+Outil d'apprentissage et d'enseignement pour une meilleure connaissance de notre planète, elle sera à destination de tous: scientifiques, enseignants, étudiants, scolaires, médias, décideurs et grand public.
+Ce projet collaboratif est mené par plusieurs grandes institutions (Field Museum of Natural History, Harvard University, Marine Biological Laboratory, Missouri Botanical Garden, Smithsonian Institution, Biodiversity Heritage Library).
+A la date de son lancement, ce projet est estimé à cent millions de dollars US, sur une durée de dix ans, avant de pouvoir s'autofinancer.
+Le financement initial est assuré par la MacArthur Foundation (dix millions de dollars) et la Sloan Foundation (deux virgule cinq millions de dollars).
+La réalisation des pages web débute courant deux mille sept.
+L'encyclopédie devrait faire ses débuts à la mi-deux mille huit, être opérationnelle dans trois à cinq ans et être complète (c'est-à-dire à jour) dans dix ans.
+En tant que consortium des dix plus grandes bibliothèques des sciences de la vie (d'autres suivront), la Biodiversity Heritage Library a d'ores et déjà débuté la numérisation des deux millions de publications des bibliothèques partenaires.
+En mai deux mille sept, on compte un virgule deux cinq million de pages traitées dans les centres de numérisation de Londres, Boston et Washington DC, et disponibles sur le site de l'Internet Archive.
+Copyright © deux mille huit Marie Lebert

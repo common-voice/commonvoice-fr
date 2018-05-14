@@ -1,0 +1,1332 @@
+Par Monsieur Verdier, Capitaine de Corvette.
+Rue Hautefeuille, nº dix bis.
+mille huit cent trente-sept.
+Les ouvrages qui traitent de la manoeuvre du navire s'appuient sur des vérités mathématiques trop élevées pour être à la portée de toutes les classes des navigateurs.
+Nous avons pensé qu'il pouvait être utile d'offrir un Manuel pour la Manoeuvre, dépouillé de toute démonstration théorique, qui ne repose que sur la seule pratique, et qui, par conséquent, peut être lu par le marin le plus illettré.
+Il est plus facile, et surtout plus utile en marine, d'aller du simple au composé que du composé au simple.
+Le marin instruit, qui connaîtra pratiquement la manoeuvre, lira ensuite avec bien plus de fruit les ouvrages de théorie.
+Si nous pouvons rendre plus facile à quelques jeunes navigateurs l'étude de la manoeuvre, notre but sera atteint.
+Du Navire.
+Le navire est un corps flottant, il doit, par conséquent, occuper dans le fluide un espace tel que son poids soit égal à celui du volume d'eau qu'il déplace.
+C'est la partie submergée qui éprouve la force de résistance du fluide dans le cas du mouvement, et la puissance destinée à lui donner ce mouvement doit donc être en proportion avec la résistance éprouvée.
+Les voiles sont des surfaces planes autant que possible, qui, étant exposées à l'impulsion du vent, en sont frappées, et communiquent ainsi du mouvement au navire auquel elles sont assujetties.
+Elles agissent dans le sens latéral et dans le sens direct.
+Le centre de gravité d'un corps est le point par lequel ce corps étant suspendu, reste en équilibre et ne change pas de position.
+Ce point sera au milieu du corps, si le corps est régulier; et s'il est irrégulier, il sera dans la partie qui a le plus de pesanteur, par rapport au point qui marque le milieu de la longueur du solide.
+Le centre de gravité d'un navire est toujours sur l'avant du milieu de sa longueur absolue, parce que l'avant a plus de capacité, et par conséquent plus de pesanteur que l'arrière.
+Le mouvement est communiqué au navire par le moyen des voiles qui y sont assujetties, et qui reçoivent l'impulsion du vent.
+La direction de la force appliquée sera donc la ligne suivant laquelle souffle le vent.
+Les voiles de l'avant tendent donc à faire arriver le navire; celles de l'arrière à le faire lofer.
+C'est en combinant ces deux effets et en les tenant en équilibre, qu'on imprime au navire une vitesse sur une ligne donnée, qu'on appelle route.
+Ce sera donc en augmentant aussi ou détruisant un de ces deux effets, qu'on fera arriver ou lofer le navire, en un mot qu'on le fera évoluer.
+On voit donc que si les voiles étaient exposées d'une manière convenable, et que la force et la direction du vent restassent les mêmes, le navire conserverait une vitesse égale, et suivrait une route donnée.
+Mais cet équilibre, qu'il est si important de conserver, est fréquemment troublé, et on a inventé le gouvernail pour le rétablir et forcer le navire à suivre une ligne déterminée.
+A chaque lame le navire fait deux oscillations: l'une de chute, vers la partie opposée à celle que choque la lame, et l'autre de réaction à l'instant où elle se sépare du navire.
+Outre les effets de la lame, il est encore des actions qui agissent pour faire tourner le navire sur l'axe vertical qui passe par son centre de gravité.
+Quoique cette action paraisse coïncider avec le plan vertical qui passe par le centre de gravité, et ne devoir pas produire un mouvement de rotation, cependant lorsque le vaisseau incline, il n'en est pas ainsi.
+Si ces trois actions pouvaient être en équilibre, le navire n'aurait pas de mouvement de rotation, et obéirait à l'impulsion dans le sens de sa quille; mais ces actions varient à chaque instant par l'état de la mer ou du vent.
+Ce défaut d'équilibre se corrige par un changement de voilure, et enfin par le gouvernail.
+Du Gouvernail.
+Il n'entre pas dans le plan que nous nous sommes tracé, de démontrer mathématiquement les effets et la puissance du gouvernail.
+Nous dirons seulement que son effet est d'autant plus grand que la vitesse augmente, et qu'à même angle il suit la progression du carré des vitesses.
+Si le gouvernail fait avec la quille un angle de quarante-cinq degrés, il est dans la position la plus favorable pour opérer les mouvemens de rotation; mais on ne peut obtenir cette position, et il est rare que l'angle soit de plus de trente-cinq°.
+Le gouvernail agissant en s'opposant au fluide qui coule le long des flancs du navire, doit nécessairement diminuer sa vitesse; il faut donc balancer sa voilure de telle manière, qu'on soit obligé de le mettre en mouvement le moins possible.
+Et règle générale, toutes les fois que pour conserver le navire en route, on sera obligé de faire un usage fréquent du gouvernail, ce sera une preuve que la voilure sera mal établie, ou mal balancée.
+Nous observerons à cette occasion, que souvent étant au plus près, et la brise fraîchissant, le navire a une grande tendance à venir au vent, et qu'on est obligé d'y avoir une partie de la barre.
+Il suffirait, à notre avis, de diminuer de voiles, en se débarrassant des voiles hautes, pour rendre le navire bien gouvernant, et loin de diminuer le sillage, il est fort possible qu'il augmente.
+Lorsqu'un navire a reçu tout ce dont il a besoin pour prendre la mer, on le mouille sur rade sur une ancre, s'il doit profiter du premier moment favorable; mais s'il peut y prolonger son séjour, on le mouille sur deux.
+Amarré de la première manière, il est dit sur un pied; mais on concevra facilement qu'il ne peut rester long-temps dans cette position, puisque à chaque changement de vent et surtout de marée il doit courir sur son ancre et peut la surjoaler.
+Cependant, depuis l'adoption presque générale des câbles-chaînes, sur les rades qui n'ont que peu ou point de marée, on peut, en filant une grande quantité de chaîne, rester sur un pied.
+Car, par son poids, la chaîne portant sur le fond, bien de l'arrière de l'ancre, offre au navire un point d'appui sur lequel il peut tourner sans passer sur son ancre.
+Mais il ne faut pas être mouillé près d'autres navires, qu'on pourrait aborder en décrivant ainsi un cercle autour de son ancre.
+Il est donc plus prudent de mouiller deux ancres, ce qu'on appelle affourcher.
+On affourche en mettant deux ancres sur une ligne perpendiculaire à celle des vents les plus dangereux.
+Ainsi, si on affourche nord ouest et sud est, c'est-à-dire pour les vents de nord E.
+La chaloupe convenablement remorquée, se dirige dans le rhumb de vent où l'ancre doit être placée, et lorsqu'elle est parvenue un peu au-delà du point qu'elle doit occuper, elle mouille l'ancre à jet.
+Elle porte le bout du grelin à bord, où on le raidit aussitôt.
+On garnit ensuite ce grelin au cabestan, et on vire en filant à la demande du câble de l'ancre mouillée.
+Pendant que la chaloupe va lever l'ancre à jet, on vire sur le premier câble mouillé en filant du second.
+Lorsqu'on a filé de ce dernier la quantité qu'on veut avoir dehors, on prend le tour de bitte, et on vire jusqu'à ce qu'ils soient également raides, et qu'il n'y ait que peu de mou.
+On dégarnit et on prend le tour de bitte du câble sur lequel on virait, on les garnit l'un et l'autre de paillets, et l'on est affourché.
+Si on fait porter l'ancre d'affourche par la chaloupe, il faut aussi lui ménager un point d'appui sur lequel elle pourra se tenir lorsqu'elle sera chargée.
+Car si en théorie on peut envoyer une chaloupe ainsi, en la faisant remorquer, il n'en est pas de même en pratique.
+Quel est le navire qui a une assez grande quantité de canots pour pouvoir remorquer convenablement une chaloupe ainsi chargée, et la diriger à un point fixe, s'il y a surtout de la mer et du courant.
+Il faut donc, pendant que l'ancre de bossoir est suspendue en cravate, de l'arrière de la chaloupe, et qu'on y embarque le câble, faire élonger par un canot une petite ancre à jet dans la direction où l'ancre d'affourche doit être mouillée.
+Le bout de l'aussière de cette ancre à jet étant à bord, la chaloupe le place sur le rouleau de son étrave et se hale dessus.
+Elle est suivie d'embarcations qui portent le restant du câble dont le bout est à bord.
+Les canots ayant ainsi filé et soutenu le câble, la chaloupe file celui qu'elle a à bord, et lorsqu'enfin elle l'a raidi autant que possible en se halant, elle fait un signal aux canots qui larguent les bosses lorsqu'elle mouille.
+On dérape l'ancre à jet, on raidit le câble, on prend le tour de bitte, et on fait les paillets.
+Depuis l'usage à peu près général des câbles-chaînes, il est bien difficile, pour ne pas dire impossible, d'élonger une ancre amarrée sur un câble-chaîne.
+On désaffourche avec le navire ou la chaloupe.
+Avec le navire, on vire sur une ancre en filant du câble de celle sur laquelle on veut appareiller.
+Si on désaffourche avec la chaloupe, on la munit de deux caliornes de braguets, de poulies de retour et des amarrages nécessaires à l'opération; on lui donne aussi un bon cordage de la grosseur de l'orin pour faire un maillon.
+La chaloupe parvenue à l'ancre qu'elle doit déraper, saisit la bosse, place l'orin sur le davier et le raidit.
+On coule le long de l'orin un maillon à noeud coulant, destiné à saisir la patte de l'ancre en dessous de ses ailerons, et à soulager et renforcer l'orin.
+L'ancre détachée du fond, on vire sur son câble à bord, ce qui amène sous l'écubier la chaloupe qui la tient suspendue.
+Rendue là, on la met à poste comme nous l'avons dit, et on vire sur le câble de l'ancre qui doit servir à l'appareillage.
+Le navire désaffourché, on embarque sa chaloupe avec un appareil composé de deux caliornes frappées l'une sur la grande vergue, et la seconde sur la vergue de misaine, et deux caliornes servant de palans d'étai.
+Les basses vergues portent, pendant cette opération, un poids considérable, et fatiguent beaucoup, quoiqu'on les renforce par une fausse balancine.
+Pour les soulager, on fait les caliornes à pendeur.
+Ce pendeur passe sur le chouc du bas mât et se marie, par le moyen d'un burin, à une estrope qui embrasse deux ou trois haubans du côté opposé à celui où l'on hisse.
+Ce pendeur se frappe sur la vergue au moyen d'une estrope à burin.
+La vergue alors ne fait plus que l'office d'arc-boutant, et la plus grande partie de l'effort a lieu sur le chouc du bas mât.
+Appareiller, le Navire évité le bout au vent.
+On vire à long pic; on largue les voiles carrées, le grand foc et la brigantine, on borde et hisse les huniers.
+Si on veut abattre sur tribord, on brasse bâbord devant tribord derrière, en effaçant bien le petit hunier par sa bouline de revers; on pèse le gui et on le porte sur tribord.
+On ferait le contraire si on devait abattre sur bâbord.
+On dérape.
+Le navire étant évité le bout au vent, ayant son petit hunier brassé bâbord et bien effacé par sa bouline, faisant avec la quille l'angle le plus aigu qu'il puisse faire, l'avant du navire tombera sur tribord.
+Mais pendant ce mouvement il cule, puisque le vent est sur les voiles, on met alors la barre à tribord pour accélérer le mouvement d'abattée, qu'on peut encore augmenter en hissant le grand foc aussitôt que le mouvement est prononcé.
+Lorsque le vent commence à prendre dans les voiles de l'arrière, on dresse la barre et on change le phare de l'avant qu'on oriente.
+Si les circonstances le permettent, on laisse le petit hunier masqué pendant le temps qu'on travaille à mettre l'ancre à poste.
+Si les abattées sont trop grandes, on borde la brigantine.
+Si le foc était dehors, son écoute a dû être filée aussitôt que le vent a pris dans les voiles de l'arrière.
+L'ancre à poste, on dresse la barre, on borde le foc, on cargue la brigantine, et on change le phare de l'avant qu'on oriente.
+Lorsque le vent est frais, qu'on juge qu'après l'appareillage on ne pourra porter les huniers qu'avec un ou plusieurs ris, il faut le prendre en larguant les voiles, avant de le border.
+Il est même plus prudent de le prendre avant de virer, pour ne pas s'exposer à chasser étant à long pic.
+Les vergues du grand mât et du mât d'artimon sont orientées et leurs huniers prêts à être largués et établis; lorsque l'abattée n'est plus incertaine, l'artimon est largué pour être bordé afin de la modérer.
+Quelque simple que soit un appareillage de temps maniable, il est une foule de précautions préparatoires et à prendre après cette manoeuvre, dont il est peut-être utile de parler.
+Si on est amarré avec des câbles-chaînes, il faut aussi les laver, car étant mis immédiatement dans leurs puits, la vase qui y est attachée ne tarderait pas, sans cela, à répandre une odeur fétide et malsaine.
+Aussitôt qu'une ancre est dérapée, elle doit être mise en mouillage, un navire ne devant jamais appareiller sans être disposé à mouiller, si les circonstances l'y obligent.
+En appareillant, les canots des porte-manteaux doivent être disposés de manière à être immédiatement amenés pour remorquer le navire en cas de calme, et défier un abordage.
+A la mer, on les établit sur bosses, et on décroche les palans, afin de pouvoir les amener avec leur équipage, pour porter secours à un homme tombé à la mer.
+Ils seront donc toujours munis du gouvernail et de la barre, des avirons et d'une gaffe.
+Avant d'appareiller, une visite générale doit avoir lieu.
+La barre et sa drosse doivent être visitées, celles de rechange dégagées, les palans qui, en cas de rupture de la drosse, les remplacent momentanément, disposés à leurs pitons.
+On s'assure que les mâts de hune et de perroquet sont coïncés dans leurs choucs; que les objets amovibles, tels que coffres, cuisines, etc., sont saisis; que la chaloupe et les drômes ont leurs saisines raidies; que l'artillerie est amarrée à garans doubles.
+ Les canons des batteries basses des vaisseaux sont mis à la serre Les gabiers dégenopent les manoeuvres et les lovent auprès de leurs poulies de retour.
+Ils visitent les écoutes, drisses et itagues.
+Les paillets de brasséiage et d'étais sont mis en place; les arcs-boutans, pour pousser les galhaubans volans, disposés dans les hunes.
+Un navire, devant toujours être disposé à faire toute la voile que les circonstances exigent, doit appareiller avec les perroquets croisés et garnis, lorsque le temps le permet.
+S'il porte des catacois, les drisses seront passées, le gréement des bonnettes sera en place, les drisses frappées au point des huniers, et les amures lovées aux bouts des vergues.
+Les étais des mâts de hune et de perroquet sont bossés; les bosses des amures et écoutes des basses voiles, celles des drisses des huniers et des focs, sont mises en place.
+Enfin, suivant la saison et la traversée, et s'ils n'ont pas été gréés en rade, on place et on raidit les pataras, l'étai de tangage du mât de misaine, les haubans de beaupré et sa fausse sous-barbe.
+Appareiller, le Navire évité au courant.
+Si cependant le mouvement d'aculée était plus fort que celui du courant, la différence de ces deux mouvemens, agissant alors dans le sens du plus fort, qui est celui de l'aculée, on mettrait la barre du bord où on veut abattre.
+Le navire, évité le bout au courant, peut recevoir le vent sur ses voiles, ou dans ses voiles.
+Il le recevra sur ses voiles, si l'angle qu'il fait avec la quille est moindre que l'angle du plus près.
+Dans ce cas il est impossible, par la seule manoeuvre des voiles, de faire passer son avant dans le lit du vent.
+On ne peut donc que prendre les amures du bord où vient le vent.
+Il suffit pour cela de le faire abattre d'une quantité assez grande pour que le vent prenne dans les voiles.
+Supposons que le vent venant de bâbord fasse avec la quille un angle moindre que celui du plus près.
+Etant à long pic, on établit les huniers, on largue le grand foc et la brigantine, on met la barre à bâbord, et on brasse bâbord devant et tribord derrière.
+Lorsque par suite de l'abattée le grand hunier et le perroquet de fougue reçoivent le vent, on change le petit hunier, on dresse la barre, et s'il est utile de modérer l'abattée, on borde la brigantine en filant l'écoute du grand foc.
+Si la route exigeait qu'on changeât d'amures, on le ferait comme nous le dirons en parlant des viremens de bord vent arrière.
+Le navire étant à pic, on hale sur le grelin jusqu'à ce que l'avant du navire ait dépassé le lit du vent, c'est-à-dire que le vent qui était de bâbord soit maintenant à tribord.
+Si le navire n'était que le bout au vent, il faudrait, au moment de déraper, haler sur le grelin pour assurer l'abattée.
+Pour parer à cet inconvénient, non-seulement il faut avoir une assez grande quantité de voiles dehors, mais il faut augmenter celles du phare de l'avant pour être certain que le navire ne viendra pas au vent.
+Le navire ayant pris de l'aire, on manoeuvre suivant les localités, pour mettre l'ancre à poste le plus lestement possible.
+Appareiller en faisant embossure.
+Il arrive quelquefois qu'un navire est obligé d'appareiller, sans pouvoir lever son ancre, lorsqu'il a été obligé de mouiller sur une côte, sur laquelle il était affalé.
+La violence du vent ne lui permet pas de virer sur l'ancre, car en chassant il s'approcherait encore de la côte qu'il doit éviter, et s'y perdrait.
+On se dispose à couper le câble sur la bitte, ou à filer le câble-chaîne qu'on démaillone sur l'arrière de la bitte.
+On largue le fond du petit hunier, on met la barre à tribord, et au moment où on s'aperçoit que l'avant tombe sur tribord par l'effet du petit hunier masqué, on coupe le câble et on accélère l'abattée en hissant le petit foc.
+Dans ce cas il faut manoeuvrer avec certitude.
+Pour cela, on fait embossure sur le câble du bord opposé à celui où l'on veut abattre, et on garnit l'embossure au cabestan après l'avoir fait passer par le sabord ou le chaumard le plus arrière.
+On vire sur l'embossure, ce qui approche l'arrière du lit du vent et en éloigne l'avant de la même quantité; on hisse le petit foc en continuant à virer; lorsque l'abattée est assez prononcée, on coupe le câble, et on file l'embossure immédiatement après.
+Car aussitôt que le câble est coupé, l'arrivée est considérable, et si on ne filait pas l'embossure, le navire viendrait vent arrière, ce qu'il faut empêcher.
+L'embossure filée, on borde l'artimon et le foc d'artimon, et on établit toute la voile que le temps permet pour s'éloigner de la terre.
+Manoeuvrer les voiles de mauvais temps.
+Prendre des ris aux huniers.
+Les garcettes sont moins fortes et plus espacées que celles des autres ris; il a aussi moins de hauteur.
+Le second ris se prend ordinairement après avoir serré les perroquets; cependant les vaisseaux et frégates peuvent porter leur grand et leur petit perroquet avec le deuxième ris.
+Si la mer est forte lorsqu'on prend le deuxième ris, on rentre le grand foc à mi-bâton, et on remplace la brigantine par l'artimon.
+ Ce que nous disons ne s'applique qu'au navire naviguant au plus Le troisième ris est un ris de mauvais temps.
+Le grand foc est remplacé par le petit foc, et souvent le foc d'artimon remplace la grande voile.
+Si la mer est grosse on dégrée les perroquets.
+Si la violence du vent oblige de prendre le quatrième ris, le perroquet de fougue est serré.
+Pour prendre un ris aux huniers, on les brasse au vent en larguant les boulines, et on les amène lorsqu'ils sont en ralingue.
+Quand les vergues reposent sur les paillets des choucs des bas mâts, on s'assure que les balancines sont raides, on abraque fortement les bras des deux bords et les palans de roulis pour que la vergue n'ait aucun mouvement.
+On pèse le palanquin et le faux-palanquin du vent, ensuite ceux sous le vent.
+Le palanquin doit être assez pesé pour que la ralingue entre lui et la vergue soit molle, et que le faux-palanquin puisse ainsi facilement rendre la cosse d'empointure au taquet de la vergue.
+Nous dirons à ce sujet que le faux-palanquin ne doit pas être frappé à demeure comme cela a lieu sur plusieurs navires, mais amovible, afin qu'on puisse toujours le crocher au ris à prendre, lorsque le supérieur vient de l'être.
+Il nous paraît aussi simple que facile de faire servir à cet usage les drisses de bonnettes de hune qu'on doit établir à croc.
+Les hommes élongés sur les vergues saisissent les garcettes et portent la toile au vent, afin que son empointure soit mise à joindre.
+Lorsqu'elle y est, ils portent la toile sous le vent pour faire prendre celle sous le vent.
+Les empointures prises, ils laissent tomber la toile, la reprennent pli par pli pour la porter sur la vergue, puis ils saisissent les garcettes, les souquent sur l'arrière de manière que le ris couvre et soit sur l'arrière de ceux pris antérieurement.
+Pendant qu'on amarre les garcettes on double les empointures.
+Quand le hunier est rendu, on fait descendre au-dessus de son racage le racage du galhauban volant, pour pouvoir le raidir et pousser l'arc-boutant avant que le hunier ne soit orienté.
+Lorsqu'on prend le troisième ris, on est obligé quelquefois de choquer les écoutes; sans cela, non-seulement les palanquins ne pourraient être convenablement pesés, mais ils fatigueraient trop la voile qu'ils déchireraient peut-être; avarie bien dangereuse, si sur une côte elle obligeait à changer un hunier.
+Les écoutes ne doivent être choquées qu'à retour sur leurs bittes, et amarrées lorsque les palanquins sont à poste.
+Il est évident que si en prenant le troisième ou quatrième ris, les basses voiles ne sont pas appareillées, on peut se dispenser de choquer les écoutes en brassant les basses vergues au vent d'une quantité suffisante pour donner du mou dans les ralingues.
+Lorsqu'on prend le troisième et le quatrième ris d'un temps forcé au plus près, on peut tenir les huniers en ralingue pour faciliter cette opération; mais il n'en est pas ainsi lorsqu'on court grand largue et vent arrière.
+Carguer un Hunier de mauvais temps.
+On a discuté long-temps, et on discute encore pour savoir s'il est plus convenable de carguer, dans un mauvais temps, les huniers au vent ou sous le vent.
+Quant à nous, nous avouerons avec franchise que non-seulement nous n'avons jamais trouvé une bonne raison pour les carguer au vent, mais que même nous ne nous sommes jamais trouvé dans une circonstance où cette manoeuvre n'eût été une faute.
+Nous accordons que lorsqu'on se débarrasse d'un hunier par précaution, on peut le carguer au vent, en ne mollissant la bouline et l'écoute du vent qu'à retour, à la demande de la cargue-point et de la cargue-fond.
+Que ces cargues rendues et amarrées, on choque l'écoute sous le vent à retour, pour rendre les cargues sous le vent à joindre, et que le hunier peut être ainsi cargué sans avaries.
+Dans cette circonstance il faut choquer l'écoute sous le vent, ce qui fait ralinguer la voile et permet de la brasser et de l'amener.
+Prendre les Ris aux basses Voiles.
+Les basses voiles n'ont pas de palanquins de ris, on les remplace par des cartahus qu'on frappe avant l'opération.
+Simples, ils font dormant à la patte de la ralingue, en dessous de celle de l'empointure, passent dans une poulie au bout de la vergue, dans une seconde aiguilletée au ton, et se manoeuvrent au pied du mât.
+Doubles, ils font dormant au bout de la vergue, passent dans une poulie crochée à la patte et continuent comme nous venons de le dire.
+On double les empointures.
+Cette filière est placée comme celle d'envergure, mais sur son arrière.
+Les garcettes sont sur l'avant de la voile, et sont fixées sur son arrière par un menu filin qui passe dans leurs oeillets et fait dormant sur les deux ralingues; un quarantenier est disposé de la même manière sur l'avant.
+Carguer une basse Voile de mauvais temps.
+Lorsque le temps est mauvais, les basses voiles se carguent sous le vent comme les huniers.
+Pour l'établir, on commence par l'amure, en ne filant les cargues qu'à sa demande.
+La voile, dans cet instant, doit être tenue en ralingue, sans cependant trop battre, ce qui pourrait la masquer ou la déchirer.
+Le point du vent rendu, on borde l'écoute d'après les mêmes principes.
+Les huniers s'établissent de mauvais temps, comme les basses voiles, c'est-à-dire qu'on commence par l'écoute du vent, en ne filant les cargues qu'autant qu'il est nécessaire pour faire agir l'écoute, on borde ensuite sous le vent de la même manière.
+Des Viremens de bord.
+Un navire vire de bord ou change d'amure, en faisant passer son avant, ou son arrière, dans le lit du vent, de là les viremens de bord vent devant, et vent arrière, ou lof pour lof.
+Mais chacune de ces manières de virer se modifie quelquefois par les circonstances, soit qu'il faille accélérer l'évolution, soit qu'un espace limité oblige de la circonscrire.
+Virer de bord vent devant en gagnant au vent.
+Si le navire n'est pas au plus près, il faut l'y ranger, et bien faire attention qu'au moment où on commence l'évolution il ne soit ni arrivé, ni lancé au vent.
+On met la barre dessous sans précipitation, et pour augmenter le mouvement d'aulofée qu'elle communique au navire, on borde la brigantine et on file l'écoute des focs.
+Lorsque les voiles de l'arrière commencent à porter, c'est-à-dire lorsque le navire a fait une abattée de quatre quarts, on change lestement les voiles de l'avant, on borde les focs et on oriente au plus près.
+Si, avant l'instant de changer le phare de l'arrière, le navire a perdu son aire, on dresse la barre, mais s'il cule on la change, puisqu'elle produit un effet contraire.
+Le navire, au moment où on veut le faire virer vent devant, ne doit être ni au vent ni arrivé.
+Le navire incertain n'est plus maîtrisé par son gouvernail; ses voiles en ralingue ne lui impriment pas un mouvement d'aculée assez fort pour que la barre, quoique changée, puisse le faire obéir, et au lieu de venir au vent, il arrive et manque son évolution.
+Pour assurer, autant que possible, la manoeuvre lorsque la brise est faible, on doit tenir le navire au plus près et haler bas les focs en mettant la barre sous le vent, et bordant la brigantine.
+De cette manière, en détruisant l'effet des voiles qui s'opposent le plus à l'aulofée, on peut plus facilement parvenir à masquer, et par conséquent à virer.
+Si la mer est forte, il faut choisir pour envoyer un moment favorable, c'est-à-dire celui où l'aire du navire n'a pas été cassé par un coup de tangage, et où il possède toute sa vitesse.
+Il est quelques navires qui, en filant les écoutes des focs, choquent aussi l'écoute de misaine.
+Cette méthode, qui accélère l'évolution, empêche nécessairement de gagner au vent puisqu'elle diminue l'aire, et c'est en général ce qu'on se propose en virant vent devant.
+Quand on lève le lof des basses voiles, on doit abraquer les écoutes et amures de revers, afin qu'elles ne s'engagent pas dans les porte-haubans, et que le changement des phares puisse se faire avec la plus grande promptitude.
+En même temps on largue les galhaubans du vent, et on les affale pour pouvoir les passer sur l'arrière des hunes quand on orientera.
+A mesure que les phares sont orientés on raidit leurs galhaubans, et on pousse les arcs-boutans.
+On l'établit dans ce cas après avoir changé d'arrière ou d'avant.
+Le moment de changer d'arrière, qui n'est pas toujours indiqué d'une manière convenable par la girouette, l'est positivement par la brigantine.
+On sent que le navire prenant immédiatement de l'aire, rangera au plus près bien plus immédiatement, et perdra moins au vent.
+Le gouvernail étant un des principaux agens de cette évolution, sa manoeuvre doit être surveillée avec le plus grand soin.
+La barre ayant été mise sous le vent aussitôt qu'on a voulu lancer au vent, est dressée lorsque le navire a entièrement perdu son aire.
+S'il cule, on la change, parce qu'alors le gouvernail agit en sens contraire, ou comme si on l'imaginait placé de l'avant.
+Si la barre n'a pas été dressée avant le moment où l'on change les phares de l'arrière, on la dresse alors, parce que celui de l'avant suffit pour achever l'évolution.
+Mais si l'abattée est trop forte, on la met dessous pour la modérer pendant qu'on change les voiles de l'avant.
+Si après avoir pris l'autre bord, on ne peut pas orienter tout à la fois, on commencera par l'arrière ou l'avant, suivant que le navire aura besoin de lofer ou d'arriver pour être au plus près.
+Dans le virement de bord vent devant, nous n'avons pas parlé des voiles d'étai, parce que dans notre opinion ces voiles ne peuvent être que nuisibles sous cette allure, à bord des bâtimens à voiles carrées.
+Virer de bord, vent devant, le plus promptement possible.
+Dans le virement de bord que nous venons de décrire, nous avons supposé que rien ne gênait l'évolution, et que son but était de changer d'amure en gagnant au vent le plus qu'il est possible.
+Mais il peut se faire que le navire, arrêté par un obstacle imprévu, soit obligé de virer immédiatement sans s'en approcher et sans tomber sous le vent.
+Il faut alors amortir brusquement l'aire du navire, en mettant en même temps et très-vivement la barre dessous, bordant le gui, filant les écoutes des focs et de la misaine.
+Si la vitesse était considérable avant la manoeuvre, il est probable que le navire prendra vent devant, et alors on terminera l'évolution comme nous l'avons dit plus haut.
+Mais s'il ne pouvait prendre, on masquerait partout en larguant les boulines, carguant la brigantine et la grande voile, afin de culer, puis on change d'amures, comme nous le dirons en parlant des viremens de bord vent arrière.
+Virer de bord vent arrière.
+On cargue la brigantine et la grande voile, on largue les boulines d'arrière, et on en brasse les voiles en ralingue.
+Aussitôt qu'elles y sont, on met la barre au vent.
+L'effet des voiles de l'arrière étant détruit, l'arrivée est prompte, et pour qu'elle ne se ralentisse pas, on continue à brasser en ralingue à mesure que le bâtiment arrive.
+Lorsque le vent est de la hanche, on lève les lofs de la misaine, et on brasse son phare de manière qu'il soit carré lorsque le vent est de l'arrière.
+Les vergues du grand mât et du mât d'artimon ont été aussi brassées de la même manière.
+Dès que le vent est de la hanche, on borde la brigantine à mesure que le navire range au vent, on amure la grande voile.
+Lorsque le vent est du travers, on doit être orienté derrière, alors on oriente devant en bordant les focs et dressant la barre pour modérer l'aulofée qui doit être vive si la brise est fraîche.
+Il faut y apporter le plus grand soin pour ne pas faire d'avaries.
+Si la grande voile est remplacée par le foc d'artimon, on le hale bas en carguant l'artimon, et on passe immédiatement son écoute de l'autre bord pour l'empêcher de battre lorsqu'on le hissera.
+A mesure qu'on brasse, on doit abraquer les drosses et les palans de roulis, de manière qu'ils soient raides lorsque le navire est vent arrière, car c'est alors le moment des plus violens roulis.
+Par la même raison, on ne largue pas les galhaubans du vent; ceux sous le vent sont raidis aussitôt que le mouvement des vergues le permet, en sorte qu'ils le sont des deux bords lorsque le vent souffle de l'arrière.
+Il faut haler bas le petit foc et non filer son écoute, car il serait probablement emporté si on le laissait battre pendant que le navire vient au vent; il faut même le border avant de le hisser, pour l'établir à l'autre bord.
+Lorsque le vent est violent, le navire a acquis une grande vitesse au moment où il est vent arrière, et il serait imprudent de ranger immédiatement au vent.
+On doit dresser la barre et choisir le moment favorable en donnant le temps nécessaire pour établir les voiles convenablement.
+Virer de bord vent arrière en masquant.
+Cette manoeuvre doit être exécutée avec la plus grande promptitude, puisqu'elle ne se fait que dans des circonstances imprévues, lorsqu'il faut instantanément s'éloigner d'un objet.
+De la Panne.
+Un navire est en panne, lorsque ses voiles sont disposées de telle sorte que se contrariant mutuellement dans leurs effets, leur résultat est nul.
+Alors le navire est presque immobile, et n'obéit plus qu'au mouvement de la lame et du courant.
+On réduit ordinairement la voilure aux huniers, à la brigantine et au grand foc, lorsqu'on veut mettre en panne, quoique dans quelques circonstances on puisse, comme nous le dirons, garder toutes les voiles du plus près.
+Mettre en panne, vent dessus, vent dedans.
+On réduit la voilure aux huniers, grand foc et brigantine, on serre le vent au plus près, puis on masque le grand hunier en mettant la barre dessous en douceur, et filant l'écoute du foc, quand l'aulofée commence à se ralentir.
+On peut aussi, au lieu de masquer le grand hunier, masquer le petit hunier et le perroquet de fougue, ou seulement le petit hunier.
+L'habitude du bâtiment doit indiquer quelle est la panne sous laquelle il se comporte le mieux, c'est-à-dire celle où il fait les moins grandes abattées, et où il dérive par conséquent le moins.
+Car, quoique la théorie soit la même pour tous les navires, il n'en est nullement ainsi pour la pratique, quoiqu'on en puisse dire.
+Tel navire fait de grandes embardées, ayant son grand hunier masqué, et ne revient au vent que lorsqu'il ralingue, tandis qu'un autre, parfaitement semblable, ne fait dans cette position que des embardées de deux quarts.
+Le petit hunier masqué oblige tel navire à faire des arrivées, à prendre le vent par la hanche, tandis que tel autre, non-seulement ne fait que de faibles abattées, mais même peut ne pas mettre toute sa barre dessous, ainsi que nous l'avons vu nous-même.
+Quoique la connaissance parfaite du navire indique suffisamment la panne qui lui est la plus favorable, il est des données générales que nous devons faire connaître.
+Si on met en panne au vent d'un objet qu'on ne veut pas approcher, il faut disposer sa voilure de manière à pouvoir prendre de l'aire et lofer le plus promptement possible.
+Pour cela, il faut masquer le petit hunier, et laisser éventer le grand hunier et le perroquet de fougue.
+Si, au contraire, on met en panne sous le vent d'un navire, et qu'on veuille être prêt à arriver s'il venait à vous approcher, on doit masquer le grand hunier et le perroquet de fougue, en ne les brassant que carrément.
+Dans cette position, l'arrivée sera bien prompte, puisqu'il suffira de carguer la brigantine et de border le foc en dressant la barre.
+Le grand hunier et le perroquet de fougue n'étant brassés que carrément, seront mis en ralingue par le seul mouvement imprimé au navire en carguant la brigantine et bordant le foc; d'ailleurs on les brassera, mais on est sûr que l'arrivée sera déjà prononcée.
+Lorsqu'on mettra en panne, il est inutile d'arrêter tout à fait le navire.
+On peut se contenter de brasser carrément un des deux huniers; comme alors il conserve un peu d'aire, un tour de barre dessous suffit pour le maintenir au vent, et on peut manoeuvrer dans toutes les circonstances avec plus de célérité.
+Mettre en panne sous toutes les voiles du plus près.
+Si on n'a pas long-temps à rester en panne, si la brise est maniable et la mer belle, on peut se dispenser de réduire la voilure aux huniers.
+On cargue la brigantine, on file en bande l'écoute de grande voile, on largue la bouline du perroquet de fougue, et on met la barre dessous en douceur; on amarre les bras sous le vent.
+Toutes les voiles se trouveront en ralingue, et l'aire étant perdu, le navire arrivera, jusqu'au moment où le vent reprenant dans les voiles, lui donnera de la vitesse, qui, par la disposition du gouvernail, le fera de nouveau ranger au vent.
+On se sert du perroquet de fougue pour accélérer ou modérer les abattées, en abraquant sa bouline, ou en le masquant.
+On amarre les bras sous le vent en commençant l'évolution, afin que les voiles étant en ralingue, leurs vergues ne se portent pas au vent, ce qui arriverait si elles n'étaient tenues que par leurs boulines, et pourrait faire masquer.
+Si malgré toutes ces précautions le navire masquait, il faudrait aussitôt contre-brasser le phare de l'avant pour le faire arriver; mais on n'aura jamais cette crainte à avoir si la barre n'est mise dessous qu'en douceur, car alors l'aire sera cassé avant qu'on puisse masquer.
+Cette manoeuvre, ainsi que nous le verrons plus bas, est souvent employée pour sonder de beau temps par un petit fond.
+Faire servir, lorsqu'on est en panne, le vent sur le petit hunier.
+Le petit hunier étant masqué pour mettre en route, on cargue la brigantine, on borde le petit foc et on dresse la barre.
+Si l'abattée se prononce, ainsi que cela arrive souvent, on attend que les vents soient à peu près de travers, et alors on change le petit hunier qu'on oriente; lorsqu'il l'est et que la vitesse augmente on borde la brigantine.
+Si on devait courir largue, on ralinguerait le grand hunier et le perroquet de fougue en dressant la barre, parce que non-seulement ils accéléreraient l'arrivée, mais encore parce qu'ils se trouveraient plus promptement disposés pour la route qu'on doit suivre.
+Faire servir, lorsqu'on est en panne, le vent sur le grand hunier.
+Pour mettre en route, le grand hunier étant masqué, on cargue la brigantine, on borde le foc, on dresse la barre et on ralingue le grand hunier.
+Lorsque le navire prend de l'aire, on l'oriente en bordant la brigantine, si on doit serrer le vent.
+Dans le cas contraire, on continue à tenir le grand hunier en ralingue, jusqu'à ce que le navire soit arrivé au rhumb où l'on veut gouverner, puis on l'établit suivant cette allure.
+Faire servir, lorsqu'on est en panne, sous toutes les voiles du plus près.
+Il faut profiter d'un mouvement d'abattée pour dresser la barre.
+Si le mouvement d'arrivée ne se prononce pas, on ralingue le perroquet de fougue, et s'il ne suffit pas, on masque devant.
+Nous avons entendu parler d'une manière de mettre en panne le vent sur toutes les voiles, qui consiste à haler bas les focs, contre-brassant partout à la fois en orientant à l'autre bord, bordant la brigantine et mettant la barre au vent.
+Pour sonder, il faut arrêter le navire afin qu'il puisse connaître la profondeur du fond; il ne s'agit que de mettre en panne, suivant l'état du vent et de la mer.
+Sonder de beau temps.
+Si on court au plus près, on cargue la brigantine, on file l'écoute de la grande voile en bande, on largue la bouline de perroquet de fougue, et on met sa barre dessous en douceur.
+Le plomb ayant été porté au vent de l'avant et la ligne élongée, on le mouille aussitôt que le navire a perdu son aire, puis on le retire après avoir eu le fond, et on met en route.
+Cette manoeuvre n'étant que la panne sous toutes les voiles du plus près, nous n'en parlerons pas plus longuement.
+Si on court largue, on rentre les bonnettes, on abraque les écoutes des focs et de la misaine, on cargue la brigantine et on met la barre dessous, en amarrant les bras sous le vent.
+Le navire rangera avec assez de rapidité au vent, mais ses voiles étant orientées pour le largue ne tarderont pas à ralinguer; et comme la brigantine est carguée et les focs établis, il n'est pas possible qu'il prenne vent devant.
+Si cependant on pouvait concevoir quelque crainte, il faudrait mettre la barre dessous, peu à peu, de manière à rompre l'aire.
+Si on est grand largue ou vent arrière, on rentre les bonnettes, on borde plat les focs, on met la barre dessous ou du bord opposé à celui où on veut venir.
+Si le fond était considérable, il serait mieux d'ouvrir le phare de l'avant, afin que l'aculée ne fût pas aussi forte.
+Sonder de mauvais temps.
+Si on est au plus près, on se débarrasse de la misaine et de la grande voile, si elle est établie; mais si elle est remplacée par le foc d'artimon, on n'y touche pas.
+Puis on met en panne, comme nous l'avons dit plus haut, en halant bas le foc, car si on filait son écoute, il se déchirerait, et on mouille le plomb aussitôt que le navire a perdu son aire.
+Lorsqu'il a été retiré, on met en route comme nous l'avons dit en parlant de la panne.
+Mais si on court largue ou vent arrière, les huniers ayant moins de ris que si on était au plus près, il faudrait les prendre avant de mettre en panne, pour ne pas compromettre la mâture.
+Si le vent est trop violent pour porter les huniers, on les serre et on vient au vent sous le petit foc, le foc d'artimon et l'artimon.
+On a imaginé plusieurs instrumens pour avoir le fond lorsque le navire conserve son sillage.
+Le meilleur, sans contredit, est la bouée à stopeur, connue de tous les marins, mais que beaucoup ont abandonnée, parce que la ligne, fortement souquée entre le montant de la bouée et le stopeur en fer, était fréquemment coupée.
+Lorsqu'on navigue par de petits fonds qu'il est important de connaître pour diriger la route du navire, on place un sondeur dans chacun des porte-haubans du grand mât, qui lancent à la main le plomb sur l'avant, et annoncent successivement le fond.
+La vitesse du sillage doit donc être réglée en conséquence.
+Des différentes espèces de Cape.
+Un navire est à la cape, lorsque la violence du vent et sa direction l'empêchant de faire route, il présente une petite quantité de voiles, en gardant sa barre dessous, pour perdre le moins possible.
+Nous disons la direction du vent, parce que, quel que soit sa violence, si le navire fait route, fût-il à sec de voiles, il n'est pas à la cape, il fuit devant le temps.
+La voilure à conserver pendant la cape dépend autant des qualités du navire que des circonstances dans lesquelles on se trouve, et le manoeuvrier doit observer son navire avec soin, pour connaître quelle est celle qui lui convient le mieux.
+La première, celle du grand hunier et de la misaine, est une cape de beau temps.
+Le navire a de la vitesse, il sent par conséquent sa barre, on ne la met pas entièrement dessous, il suffit, dans les arrivées un peu grandes, de l'y mettre en partie.
+On peut ainsi défier la lame, puisque le navire gouverne, et les coups de mer sont moins dangereux.
+Dans toutes les autres circonstances, il faut gouverner, afin de pouvoir dresser la barre à l'encontre d'une lame qui vient briser avec violence.
+Si on gouverne, le navire est moins bridé, ses mouvemens sont moins violens, le gouvernail ne fatigue pas autant et risque moins de s'avarier, soit dans ses ferrures, dans sa barre ou dans sa drosse.
+La cape sous le grand hunier et la misaine, est celle qu'on prend lorsque le vent a augmenté graduellement.
+On doit la garder autant que possible, puisqu'elle tient le navire gouvernant, et qu'elle permet par conséquent de le faire obéir aux mouvemens qu'on peut avoir besoin de lui imprimer.
+Mais si le temps est à violentes rafales, et surtout s'il y a de fréquentes sautes de vent, il faut y renoncer, parce qu'en masquant on compromettrait la mâture.
+Si, étant sous cette voilure, le vent augmente encore, on serre le grand hunier, si le navire est ardent, c'est-à-dire si ses mouvemens d'arrivée sont lents et difficiles; et on serre la misaine s'il est mou, c'est-à-dire s'il présente difficilement au vent.
+En serrant le grand hunier, on le remplace par le foc d'artimon de cape.
+D'ailleurs cette voile, placée sur l'avant du navire, le fait plonger et augmente le tangage.
+Avec le grand hunier, les abattées sont moins grandes, le navire a donc moins de vitesse, il choque la lame avec moins de force, et rend les coups de mer moins dangereux.
+Il ne charge pas l'avant, diminue les tangages et modère les roulis en appuyant mieux le navire que la misaine.
+Mais l'arrivée est plus difficile, et sa vergue, bien moins appuyée que la misaine, peut occasionner des avaries plus fréquentes.
+Sous cette voilure, le navire est mal appuyé, surtout si la mer est grosse, parce que ces voiles sont souvent déventées dans les mouvemens de roulis.
+Il reste alors sans vitesse, ne sent plus son gouvernail, et peut recevoir des coups de mer dangereux.
+Les arrivées sont promptes, puisque la plus grande partie du système de voilure est de l'avant du centre de gravité, et qu'il est toujours facile de se débarrasser du foc d'artimon de cape et de l'artimon.
+Cette cape, sous les voiles latines, se compose du petit foc ou du tourmentin, de la pouillouse, du foc d'artimon de cape et de l'artimon.
+Mais la pouillouse, si elle offre une partie des avantages de la misaine en rendant les arrivées plus promptes, a aussi une partie de ses inconvéniens.
+Elle occasionne de fortes abattées, charge l'avant qu'elle fait plonger, et fait embarquer beaucoup d'eau.
+Aussi est-elle souvent supprimée, et on reste alors sous le petit foc, le foc d'artimon et l'artimon.
+Les navires se comportent en général bien sous cette voilure, et nous en avons vu un qui, dans cette position, perdit son foc, continua à capeyer sous son foc d'artimon de cape, et se comporta encore mieux qu'il ne le faisait son petit foc dehors.
+C'était cependant un bâtiment à fonds très-fins, et qui était ordinairement ardent.
+La cape à sec ne se prend que rarement, et le plus souvent que lorsqu'on a perdu les voiles latines qu'on avait appareillées.
+Il faut toujours avoir un foc prêt à être hissé si on a besoin d'arriver.
+Avant de mettre à la cape, il est une foule de précautions à prendre, qui importent à la sûreté du navire; nous indiquerons les principales.
+Si les bâtimens portent de l'artillerie, on doit s'assurer que toutes les pièces sont bien amarrées, que les sabords des batteries sont hermétiquement fermés.
+Saisir le gui sur son support; si la corne est amenée, la brider sur le gui en bien paquetant la voile, pour qu'elle ne puisse se déferler.
+Débarrasser les haubans de tout ce qu'on y place dans les temps ordinaires, tels que vergues de perroquets, de catacois, bonnettes; les élonger sur les drômes et les y saisir; soulager les hunes des poids inutiles, comme bonnettes de perroquets, gréement des bonnettes, etc.
+Les faux bras, les fausses amures et écoutes de misaine, l'étai de tangage, ont dû être mis en place dans les premiers momens du mauvais temps.
+On condamne les panneaux, qu'on recouvre d'un prélart cloué sur l'hiloire, et on n'en laisse qu'un de libre, ouvert sous le vent, pour communiquer dans l'intérieur du navire.
+On dégage la barre de rechange, et on met en place les palans qui doivent remplacer la drosse si elle cassait.
+Mais cette précaution doit toujours être prise en appareillant.
+C'est en général dans ces circonstances qu'on fait les plus grandes avaries dans la mâture, si on n'a pas le soin de faire toute la voile convenable.
+Arriver, ou virer, lorsqu'on est à la Cape.
+Si on est sous la misaine, on profite d'une abattée pour dresser promptement la barre, on hâle-bas le foc d'artimon et l'artimon, et on met la barre vivement au vent.
+On la perdrait probablement.
+Lorsqu'on est vent arrière, on hâle-bas le petit foc et on le borde sur l'autre bord.
+Si on filait son écoute, il serait emporté en venant au vent.
+On dispose aussi le foc d'artimon qu'on borde.
+Si on craint de ranger trop vite au vent, ce qui pourrait arriver puisque le navire a une grande vitesse, on dresse la barre et on gouverne largue pour établir la misaine et choisir le moment favorable pour ranger au vent.
+Dès qu'on l'a trouvé, on hisse le foc d'artimon et l'artimon, et on met la barre dessous.
+Si on est sous le grand hunier, il faut profiter d'un mouvement d'abattée, dresser la barre, carguer l'artimon, larguer la bouline du grand hunier, appuyer les bras du vent, et mettre la barre au vent.
+L'abattée déjà commencée se continuera, puisqu'on dresse la barre et qu'en même temps on détruit l'effet de l'artimon et celui du grand hunier, en larguant sa bouline et le brassant au vent.
+On continue de le brasser à mesure que le navire arrive.
+Lorsqu'il est vent arrière, on hâle-bas le petit foc, on borde son écoute à l'autre bord, et on ouvre le grand hunier.
+On modère l'aulofée en dressant la barre, si on ne juge pas le moment favorable pour venir au vent; dans le cas contraire, lorsqu'il est de la hanche, on établit l'artimon en orientant le grand hunier, puis on hisse le petit foc.
+Il faut avoir le plus grand soin, en manoeuvrant le grand hunier, de ne filer les bras qu'à retour, d'abraquer à mesure les balancines, les drosses et les palans de roulis, et d'avoir les galhaubans volans raides des deux bords, lorsqu'on est vent arrière.
+Sous les voiles latines, la voilure étant mieux distribuée, l'arrivée sera prompte en dressant la barre, se débarrassant du foc d'artimon, de l'artimon, puis mettant la barre au vent.
+Lorsqu'on est à peu près vent arrière, on hâle-bas la pouillouse et le petit foc, qu'on dispose pour être hissés sur l'autre bord.
+A sec de voiles, si le navire n'arrive pas avec sa barre, on hisse un petit foc et on manoeuvre les vergues comme si elles avaient leurs voiles.
+Si l'arrivée ne se prononce pas, il faut faire déferler, s'il est possible, une voile ou un prélart dans les haubans de misaine, y faire monter les hommes qui se trouvent sur le pont, afin d'offrir une surface sur laquelle le vent puisse agir.
+S'il n'arrive pas, il faut quelquefois sacrifier le mât d'artimon ou le grand mât de hune, pour soulager l'arrière, diminuer la quantité de vent qui le frappe et qui s'oppose par conséquent à l'arrivée.
+Mais cette question si terrible et qui peut entraîner la perte du navire, n'a lieu que lorsqu'il est chargé subitement par une augmentation instantanée dans la violence du vent, qui le couche, le prive de vitesse et annule l'effet du gouvernail.
+Elle peut arriver lorsqu'il capeye sous une des voilures dont nous avons parlé, et peut avoir des résultats moins funestes, puisqu'en sacrifiant les voiles qui sont appareillées on peut faire redresser le navire et le faire arriver.
+Si on est sous la misaine, on choque son écoute en se débarrassant du foc d'artimon et de l'artimon.
+En choquant l'écoute de misaine, on décharge le navire qui se redresse et sent alors l'effet du gouvernail.
+Mais si tous ces moyens étaient insuffisans, il faudrait couper le mât d'artimon.
+Il faut toujours avoir des haches sur le pont lorsqu'on est à la cape.
+La manière dont on vient au mouillage dépend non-seulement du temps et des localités, mais encore de l'emploi des câbles ou des câbles-chaînes.
+Si on mouillait en culant, il faudrait culer avec une grande rapidité.
+Mouiller de beau temps.
+Si l'on est au plus près, après avoir choisi le point où l'on veut mouiller, on met le navire sous une voilure maniable, ordinairement les huniers, les perroquets, le grand foc et la brigantine.
+La bitture file, le navire fait tête, et on cargue la brigantine.
+Si on se sert de câbles-chaînes, on passe avec de l'aire sur le point où l'ancre doit tomber, on la mouille et on ne revient au vent que lorsque la chaîne en filant sur la bitte casse l'aire et force le navire à faire tête.
+Le mouvement est assez vif pour qu'il soit inutile de l'augmenter en conservant la brigantine.
+On peut la carguer en même temps que les autres voiles.
+Si on vient largue, après s'être mis sous une voilure maniable, on se dirige sous le vent du point où on veut mouiller, mais de manière à laisser assez d'espace au navire pour ranger au vent sur son aire.
+Parvenu à une distance convenable, on hâle-bas les focs, on cargue les voiles moins la brigantine, qu'on met dehors si on ne l'a pas, et on met la barre dessous.
+Le navire range au vent, et vient s'amortir sur le point désigné, où on laisse tomber l'ancre aussitôt qu'il cule.
+Si on a rangé au vent trop tôt, on coupe l'aire en brassant sur le mât les voiles carguées.
+On voit qu'il est impossible de fixer le moment où on doit carguer et lancer au vent, puisqu'il dépend de la force du vent, de la vitesse ou de la dimension des navires qui conservent leur aire d'autant plus que leur masse est plus considérable.
+Mouiller de mauvais temps.
+La manoeuvre à faire pour mouiller de mauvais temps ne diffère en rien de celle qu'on exécute pour mouiller d'un temps maniable; il est seulement quelques précautions que nécessitent l'état du vent et de la mer.
+Avec des chaînes, la manoeuvre est absolument semblable, puisque tout consiste à venir sur le lieu où on veut laisser tomber l'ancre avec une vitesse convenable, et à se débarrasser promptement des voiles pour ne pas fatiguer les chaînes.
+On doit serrer immédiatement après avoir cargué.
+Si on mouille vent arrière, il faut, en laissant tomber l'ancre, mettre un peu de barre du côté opposé à l'ancre, pour détacher la chaîne de la joue du navire, qui sans cela raguerait le cuivre du doublage.
+Si on vient grand largue ou vent arrière d'un temps forcé, on cargue et on serre les voiles avant d'arriver au point où l'on veut mouiller.
+Quand on est à petite distance, on met la barre dessous, ou du bord opposé à celui du lieu où on veut mouiller si on est vent arrière, et on borde l'artimon.
+Mouiller avec embossure.
+On mouille en faisant embossure, lorsqu'on veut présenter le travers à un point déterminé, ce qu'on ne pourrait faire en évitant au vent régnant ou au courant.
+Avant d'aller au mouillage, on étalingue à l'organeau de l'ancre qu'on doit mouiller, un grelin qu'on dispose de manière à pouvoir filer en mouillant l'ancre.
+Il est inutile de dire que lors même que le vent ou le courant permettrait de présenter le travers au point désigné, il n'en faudrait pas moins venir au mouillage avec une embossure pour s'en servir en cas de changement de vent.
+L'adoption à peu près générale des câbles-chaînes a singulièrement simplifié la manoeuvre à faire pour mouiller avec précision dans un espace resserré par des dangers ou des navires.
+L'habitude et la connaissance parfaite des qualités du navire, l'appréciation exacte de l'influence que telle ou telle circonstance avait sur la vitesse et la rapidité de ses mouvemens, pouvaient seules donner au manoeuvrier la certitude de venir porter son ancre à un point désigné.
+On en jugera facilement si on réfléchit à la difficulté qu'on éprouve souvent à prendre des corps morts sur une rade, sans être obligé de laisser tomber une ancre.
+Les câbles-chaînes qu'on peut mouiller sans se déranger de sa route et qui n'exigent ainsi pour la manoeuvre qu'un bien moins grand espace, évitent, dans les rades resserrées et encombrées de navires, des avaries autrefois très-fréquentes.
+Si on mouille de gros temps, l'ancre de veille des porte-haubans de misaine doit être étalinguée.
+En approchant de terre, aussitôt que la profondeur de l'eau rend le mouillage possible, on débouche les écubiers.
+Dès que la sonde à la main peut donner le fond, on place des sondeurs dans les grands porte-haubans, qui donnent alternativement la profondeur et la nature.
+Affourcher à la voile.
+Cette manoeuvre ne peut s'exécuter que lorsque le vent permet de courir avec au moins un quart de largue sur la ligne où on doit laisser tomber les ancres.
+Elle exige de grandes précautions, car si le câble ou la chaîne était retenu en filant, le navire rappellerait et manquerait sa manoeuvre.
+On vire sur l'amarre du sud est en filant celle du nord ouest, jusqu'à ce qu'il y ait dehors une égale quantité de chacune d'elles.
+Après avoir mouillé l'ancre du sud est, on gouverne un peu sous le vent du N.
+ouest, parce que si on gouvernait au nord ouest, en lançant au vent pour mouiller la deuxième ancre, on dépasserait la ligne du relèvement.
+Le câble de la touée de la première ancre doit être entièrement élongé sur le pont par plis dans toute la longueur, afin de pouvoir filer avec la plus grande facilité.
+Si on avait le vent de l'arrière pour affourcher, on mouillerait sa première ancre, puis, rappelant au vent, on culerait en mettant les voiles sur le mât, et on irait ainsi laisser tomber la seconde.
+Si les courans sont sur la perpendiculaire de la ligne du relèvement, on les neutralise facilement en gouvernant pour mouiller la deuxième ancre au vent ou sous le vent de la ligne.
+S'ils suivent la ligne du relèvement, ils accélèrent ou retardent le mouvement, il n'y a donc qu'à diminuer ou augmenter de voiles.
+Enfin s'ils sont sur une ligne oblique, il faut faire entrer leur appréciation dans la route qu'il faut faire suivre au navire pour parvenir exactement au point désigné.
+Des Abordages.
+L'abordage est la manoeuvre qui joint d'assez près deux navires ennemis, pour que, liés entr'eux par les grappins jetés par l'abordeur, son équipage puisse passer sur le navire abordé, afin de l'enlever.
+Celui des deux navires qui juge que l'abordage peut lui être favorable, doit avoir une marche supérieure à son ennemi; sans cela, celui-ci sera toujours le maître d'éviter l'abordage, à moins que des avaries dans sa mâture ne lui aient donné une infériorité de vitesse.
+Quelle que soit la supériorité de marche de l'abordeur, si l'abordé est manoeuvré par un capitaine de sang-froid et expérimenté, il lui sera souvent facile non-seulement d'éviter l'abordage, mais encore de mettre son ennemi dans une position dangereuse.
+L'abordeur doit veiller non-seulement à sa manoeuvre, mais encore prévoir, s'il est possible, celle de son ennemi, ou au moins l'imiter promptement pour paralyser ses tentatives et parer aux inconvéniens et aux dangers qu'il pourrait courir par une manoeuvre habile du navire abordé.
+Aborder au vent, en courant au plus près.
+L'abordeur sera obligé d'imiter cette manoeuvre, et s'il la fait en temps opportun, il virera en même temps que son ennemi, et ils se trouveront encore abordés quoique ayant changé d'amures.
+Aborder sous le vent, en courant au plus près.
+L'abordeur se place dans les eaux de son ennemi, et même un peu au vent; à une demi-encâblure environ, il arrive de manière à raser sa bouteille avec la civadière, puis redresse sa route et élonge sous le vent en jetant les grappins.
+Mais cette manoeuvre dont la réussite est assurée par l'avantage de marche, peut avoir les conséquences les plus terribles pour l'abordeur.
+Amortissant son aire ainsi promptement, et arrivant avec célérité par l'effet de ses voiles de l'avant contre-brassées, il tombe en travers sur le beaupré de son ennemi, l'engage dans ses haubans, et dans cette position l'enfile avec toute son artillerie.
+Les rôles peuvent alors changer, et l'abordé devenir abordeur, s'il manoeuvre avec habileté et sang-froid.
+Protégé par son artillerie, il peut lancer son équipage sur le pont de son ennemi, que cette manoeuvre a dû étonner, et peut-être décourager.
+Le seul parti à prendre, peut-être, serait, s'il en était temps encore, de lancer au vent pour prendre à l'autre bord.
+Aborder sur l'avant, en courant au plus près.
+Cependant, s'il a prévu le mouvement à temps, il peut mettre tout à culer, hâler-bas les focs; mettre la barre dessous, puis la dresser, et la changer lorsque le navire cule.
+Il est possible que si l'aculée se prononce promptement, l'abordeur dépasse le beaupré et soit alors obligé de manoeuvrer pour prolonger sous le vent.
+Cet abordage est sans contredit le plus terrible pour l'abordé, celui auquel il se soustrait le plus difficilement, et dont la non-réussite offre le moins de désavantage à l'abordeur.
+Aborder en courant largue.
+Si on veut aborder en courant largue, la manoeuvre ne diffère pas essentiellement de celles que nous avons décrites pour aborder au vent ou sous le vent, courant au plus près.
+Pour aborder au vent, l'abordeur se placera dans la hanche du vent, et par sa supériorité de marche prolongera son adversaire d'aussi près qu'il voudra pour lui lancer ses grappins.
+Mais celui-ci qui court largue, peut en rangeant vivement au vent, ce à quoi il doit être préparé, ou dépasser l'abordeur, ou mieux encore engager son beaupré.
+Cette manoeuvre oblige l'abordeur à lofer pour prolonger l'ennemi sous le vent, ou à mettre tout à culer pour dégager son beaupré.
+Pour aborder sous le vent, l'abordeur se place dans les eaux, range à toucher la hanche sous le vent, et lofant le prolonge en jetant les grappins.
+L'abordé, par une arrivée prompte, peut parvenir à lui engager son beaupré comme nous l'avons dit en parlant du plus près.
+Si on veut aborder en engageant le beaupré de son ennemi, on le prolonge au vent, et parvenu à petite distance de sa joue, on arrive promptement en ralinguant derrière et mettant la barre au vent.
+Il est inutile de parler de la différence qui existera dans la manoeuvre, si les deux navires couraient vent arrière.
+Elle sera facilement saisie.
+Aborder à l'ancre.
+On peut vouloir aborder un navire à l'ancre, mouillé dans une rade non défendue, car s'il en était autrement, on aurait à essuyer le feu des batteries de côte, qui pourraient occasionner de graves avaries dans la mâture, et qui compromettraient la sortie.
+Il ne faudrait dans ce cas tenter l'attaque qu'avec un vent fait, qui permît d'entrer et de sortir de la bordée.
+Mais si la rade n'est pas défendue, ne vaut-il pas mieux réduire l'ennemi par le canon, surtout si le navire surpris par l'attaque n'a pas d'embossure pour se traverser, car alors on peut prendre une position telle, que son artillerie lui soit inutile.
+L'abordé, s'il est affourché, filera une de ses amarres pour rappeler sur l'autre, au moment où la manoeuvre de son ennemi sera marquée, et la fera manquer, s'il peut parvenir à embarder avec célérité.
+Mais si ce moyen ne lui suffit pas, il ne reste plus qu'à couper ses câbles et se jeter à la côte en tâchant d'y entraîner son ennemi, qui doit toujours être prêt, pour l'éviter, à laisser tomber une ancre.
+L'abordeur peut aussi venir mouiller son ancre sur la bouée de son adversaire, et laissant culer, il l'élongera en jetant à bord ses grappins et arrêtant son câble.
+Mais il faut mouiller avec une bien grande précision pour être sûr de sa manoeuvre.
+De la Chasse.
+On ne peut chasser un navire avec avantage que si on a sur lui une supériorité de marche, ce dont on s'assure facilement en se mettant aux mêmes amures, et le relevant au compas.
+Si l'angle de relèvement augmente, c'est une preuve qu'on marche mieux, et on sera sûr alors de le joindre si on manoeuvre avec précision et habileté.
+Le bâtiment chassé doit profiter avec le plus grand soin de toutes les chances favorables que lui offrent ses qualités et les changemens de temps et de vent.
+Etant plus faible, et par conséquent moins long que son adversaire, il peut le fatiguer et lui faire perdre du temps, en virant fréquemment de bord vent devant s'il est au vent, puisque le temps des évolutions est en rapport de la longueur des navires.
+Il peut prendre l'allure qui lui est la plus favorable, changer souvent de route avec promptitude pour primer de manoeuvre sur son adversaire, qui est obligé de l'imiter, et qui ne pouvant toujours prévoir ces changemens, perdra ainsi beaucoup de temps.
+Si la mer est forte, il ne doit pas balancer à compromettre sa mâture, en virant vent devant pour forcer son ennemi à courir les mêmes risques, ou à virer vent arrière, ce qui lui fera perdre du temps et du chemin.
+Chasser au vent.
+Le chasseur doit relever le bâtiment qu'il veut chasser, et aussitôt qu'il le trouve sur la perpendiculaire à sa route, il vire et continue l'autre bord jusqu'à ce qu'il ait encore ramené le navire chassé sur la perpendiculaire à sa nouvelle route.
+Il continue ainsi et doit infailliblement l'atteindre, puisqu'il a un avantage de marche et qu'il vire pour s'en rapprocher dans la position la plus convenable.
+La raison de cette manoeuvre est bien facile à saisir.
+Là, il a encore atteint la plus petite distance qui le sépare, et gagne de nouveau en virant la quantité dont il va s'élever au vent dans cette nouvelle bordée.
+Cette différence qui, comme on le voit, est l'excédant de marche, finira par les faire trouver bord à bord si les circonstances ne changent pas.
+Si le chasseur dépassait la perpendiculaire à sa route, il s'éloignerait et perdrait du chemin nécessairement.
+S'il commettait la faute grave de chasser dans les eaux et d'y virer à grande distance, le chassé, en virant immédiatement, se retrouverait alors au vent du chasseur de toute la distance qui les sépare, puisque les routes sont parallèles.
+Chasser sous le vent.
+Si le chasseur s'aperçoit que l'angle de relèvement augmente ou diminue, c'est une preuve qu'il est trop au vent ou trop arrivé, et il rectifie sa route, sans quoi il passerait de l'avant ou de l'arrière du vaisseau chassé.
+Si le temps est à grains, il ne doit diminuer de voile qu'à la dernière extrémité, et même compromettre sa mâture, s'il peut forcer ainsi son adversaire à l'imiter.
+On ne doit pas balancer à se débarrasser de tous les objets qui gênent la manoeuvre et qui peuvent retarder la rapidité des évolutions.
+Une mâture trop fortement tenue nuit souvent à la marche; et si la brise n'est pas violente, il peut y avoir de l'avantage à donner du mou dans les haubans et les galhaubans.
+Au plus près, il faudrait se débarrasser de tous les objets qui augmentent l'élévation des oeuvres mortes.
+De la Tactique Navale.
+Il ne peut entrer dans le plan que nous nous sommes tracé, de donner un traité complet de tactique navale, qui ne pourrait être que la copie du traité publié par le gouvernement pour les navires de l'état.
+Nous nous contenterons d'y prendre quelques définitions et l'indication des ordres.
+La tactique navale est l'art de faire mouvoir des vaisseaux réunis en corps d'armée.
+On entend par évolutions les mouvemens d'une armée, ou partie d'une armée, pour s'établir dans un arrangement ou un ordre convenu.
+On comprend sous la classification générale d'évolutions, la formation des ordres; le passage de l'un à l'autre; enfin, leur rétablissement lorsqu'ils viennent à être troublés.
+La ligne du plus près est celle que tiennent des vaisseaux qui s'approchent le plus possible du lit du vent.
+En tactique, cette ligne est réputée faire avec la direction du vent un angle de soixante-sept° trente', ou de six des trente-deux divisions de la boussole.
+On distingue deux lignes du plus près: un vaisseau court sur la ligne du plus près bâbord, s'il est au plus près, les amures à bâbord; il court sur la ligne du plus près tribord, s'il est au plus près, les amures à tribord.
+Des vaisseaux rangés dans les eaux les uns des autres, et faisant la même route, sont en ligne de file.
+Dans ce cas le relèvement et la route sont représentés par le même rhumb de vent.
+Si des vaisseaux en ligne de file gouvernent au plus près, cette ligne de file prend alors le nom de ligne de bataille.
+Si des vaisseaux en ligne de file courent, non au plus près, mais deux quarts largue seulement, cette disposition particulière de la ligne de file, qui convient souvent pour combattre, s'appelle ligne de file sur la perpendiculaire du vent.
+Mais si des vaisseaux déployés sur une ligne se relèvent les uns les autres sur une aire de vent donnée, et gouvernent sur une autre, ils sont établis sur une ligne de relèvement.
+L'ordre en général est la manière déterminée dont les vaisseaux d'une armée doivent être rangés.
+Il y a différens ordres, selon les circonstances dans lesquelles une armée doit naviguer et peut se trouver.
+L'ordre est appelé naturel toutes les fois que chaque vaisseau suit le matelot d'avant qui lui a été assigné par l'ordre de bataille de l'amiral.
+L'ordre est dit renversé toutes les fois que les matelots d'avant deviennent matelots d'arrière; ce qui arrive lorsque les queues deviennent têtes par des changemens de position ou par inversion d'ordre.
+Les ordres ou ligne de bataille, 1º Au plus près du vent; 2º En ligne de file sur la perpendiculaire du vent.
+L'ordre de marche sur trois colonnes réunit le mieux les bâtimens sans les exposer aux abordages; il facilite la prompte formation de la ligne de bataille aussi bien que la surveillance de l'amiral et la transmission des signaux.
+On peut appliquer à l'ordre de marche sur deux colonnes ce qui vient d'être dit sur les trois colonnes, les conditions de formation et d'évolution étant, par analogie, les mêmes pour ces deux ordres.
+L'ordre de marche sur une ligne de file, grand largue ou vent arrière, s'appelle généralement ordre ou ligne de convoi.
+C'est la condition de la route vent arrière ou grand largue qui constitue la différence entre cet ordre et la ligne de bataille.
+L'ordre de marche sur une des lignes du plus près, est celui dans lequel les vaisseaux courant largue ou vent arrière se relèvent sur une des lignes du plus près.
+Ainsi l'on distingue cet ordre en ordre de marche sur la ligne du plus près tribord, et ordre de marche sur la ligne du plus près bâbord, selon que les vaisseaux se relèvent sur l'une ou l'autre de ces deux lignes.
+Dans l'ordre de marche sur la perpendiculaire du vent, les vaisseaux courant grand largue, ou vent arrière, se relèvent sur la perpendiculaire du vent.
+Des vaisseaux faisant une route quelconque, s'ils se relèvent sur la perpendiculaire de cette route, sont dits en ordre de marche sur cette perpendiculaire, ou en ordre de front.
+Des vaisseaux qui tiennent l'amure d'une des lignes du plus près, et qui se relèvent sur l'autre, sont dits en échiquier sur cette ligne.
+Des vaisseaux rangés en ligne de file au plus près du vent, ou sur la perpendiculaire du vent, sont en ligne de bataille.
+Cette ligne peut être formée tribord ou bâbord amures, ordre naturel ou ordre renversé.
+Mais on entend plus particulièrement par ligne de bataille, la ligne de file dont les vaisseaux courent au plus près du vent.
+S'il s'agit d'exprimer la ligne de bataille deux quarts largue, on doit dire ligne de file sur la perpendiculaire du vent.
+Dans toute formation d'ordre, le vaisseau amiral, ou celui qui est au centre de l'armée, est le régulateur, c'est-à-dire le point sur lequel se règle le mouvement.
+Chaque vaisseau doit connaître son relèvement et sa distance par rapport au régulateur.
+Si l'armée est en ligne et que l'amiral fasse le signal de forcer ou d'augmenter de voiles, c'est au chef de file à exécuter l'ordre le premier; et s'il s'agit au contraire de diminuer de voiles, le mouvement doit commencer par le serre-file.
+S'il s'agit au contraire d'un mouvement successif, c'est au chef de file à commencer.
+Le principe général est qu'en ligne de bataille, ou dans un ordre de marche quelconque, le mouvement, quel qu'il soit, doit commencer par le vaisseau qui n'en voit pas d'autre du côté où l'on va mettre le cap.
+La contre-marche est le mouvement d'une ligne dont les vaisseaux virent successivement de bord, vent devant ou vent arrière, pour prendre les eaux du chef de file.
+Ainsi l'on dit, pour exprimer cette double évolution, virer de bord vent devant par la contre-marche; virer de bord lof pour lof par la contre-marche.
+CHAPITRE premier.
+Définitions et Nomenclature.
+Les pièces d'artillerie dont on se sert dans la marine sont les canons, les caronades, les pierriers et les espingoles.
+Ces deux dernières armes ne s'emploient guère que sur les hunes et les embarcations.
+Les canons et les caronades sont en fer coulé; les caronades ne sont autre chose que des canons courts, légers, modifiés en quelques parties accessoires, installés différemment, et qui, dans certains cas, ont plusieurs avantages sur les canons.
+Elles se manoeuvrent plus facilement et avec moins de monde; elles se chargent plus vite; elles laissent plus d'espace libre dans les batteries, et elles fatiguent moins les ponts.
+De leur côté, les canons ont leurs avantages particuliers.
+Ainsi, ils portent plus loin dans les mêmes circonstances; à distance égale, ils percent les vaisseaux ennemis plus facilement que les caronades, mais font moins d'éclats lorsqu'on se bat de près, et sont par conséquent moins dangereux.
+Ils sont plus longs, par conséquent d'un pointage plus sûr et d'un danger moindre sous le rapport de l'incendie; la rupture de la brague n'est ni aussi fréquente ni aussi grave, enfin leur recul adoucit davantage les secousses communiquées à la muraille des vaisseaux.
+Les canons en usage à bord sont ceux des calibres de trente-six, trente, vingt-quatre, dix-huit, douze et huit, c'est-à-dire dont les boulets pèsent à très-peu près ce même nombre de livres; les caronades ont les mêmes calibres, à l'exception de celui de huit.
+Pour diminuer la confusion et les inconvéniens d'avoir plusieurs calibres à un même bord, on tend à généraliser celui de trente.
+Pour chaque calibre de canons il y a deux sortes de pièces, savoir: les longues et les courtes, et celles-ci n'ont d'autre différence avec les premières, que d'avoir moins de longueur et plus de légèreté.
+On trouve dans le tableau ci-dessous la longueur totale, le poids de ces diverses pièces, et le diamètre de leurs boulets.
++========+=========+=========+=========+========+========+==========+ Les caronades pèsent environ le tiers du canon long du même calibre.
+Les canons et les caronades sont les bouches à feu dont on munit les batteries et les gaillards des bâtimens de guerre; la nomenclature et les explications suivantes compléteront cette définition.
+L'âme (fig.
+un.)     a    reçoit la charge.
+La bouche             b    entrée de l'âme.
+Les tourillons      c    sorte d'essieux qui maintiennent la pièce Les embases         d    épaulement de tourillons.
+La volée              e    commence à la gorge qui est en avant des La tranche            f    surface plane percée par la bouche, et Le bourrelet          g    renflement près de la bouche.
+La tulipe           h    partie creuse en arrière du bourrelet.
+Le bouton             q    extrémité de la pièce du côté de la Le collier du bouton  r    partie étranglée par laquelle le bouton L'anneau de brague    s    anneau qui tient à la culasse et au Pour la Caronade.
+Affût du Canon.
+(Parties en bois.) deux flasques Le croissant          b    placé en travers des flasques en avant L'entretoise          c    joint et maintient les deux flasques dans deux essieux             d    supportent les flasques.
+quatre roues               e    sur lesquelles reposent les essieux.
+La sole               f    est située entre les flasques et joint Affût de Canon.
+quatre esses et leurs deux fourrures Piton carré de manoeuvre     { pour le pointage à l'aide de Piton de retraite            contre l'essieu de derrière pour crocher Affût de la Caronade.
+(Parties en bois.) La semelle Le châssis            b    porte la semelle qui se meut dans sa Les supports de Parties en fer de la Semelle.
+Le boulon-tourillon   d    est passé dans le support pour servir deux crapaudines         e    placées en avant et reçoivent le quatre boulons deux boucles de brague Plaques de levier et Le pivot              l    traverse le châssis et facilite son Parties en fer du Châssis.
+La cheville ouvrière, Le piton de cheville Le boulon d'assemblage       pour maintenir le bois du châssis et le quatre boulons de support         fixent le châssis sur le support.
+Le briquet avec rivets       Plaque de fer qui reçoit le choc du pivot La plaque du levier Les canons, les caronades et leurs affûts sont manoeuvrés ou retenus à bord au moyen de divers cordages et palans, dont l'ensemble constitue le gréement de la pièce.
+Outre ce gréement, chaque pièce nécessite encore l'usage de divers ustensiles qui servent à son service et à son pointage, et qui sont connus sous le nom d'armement.
+Gréement du Canon.
+La brague                    fort cordage qui retient la pièce après deux palans de côté             pour manoeuvrer le canon et le contenir Le palan de retraite         pour tenir le canon au recul après le La croupière                 pour accrocher le palan de retraite.
+L'estrope de culasse         pour accrocher le palan de retraite Le raban de volée            pour assujettir la volée au fronteau de L'aiguillette                pour brider la brague avec les palans de L'itague, le palanquin Gréement de la Caronade.
+La brague                    fort cordage qui maintient la pièce Armement du Canon.
+Le coussin, deux coins L'anspect ou levier          sert au servant de gauche pour pointer.
+La pince                     sert au servant de droite pour pointer.
+La boîte à étoupille Le doigtier                  forte peau que le chef de pièce met à son Le couvre-lumière La tape                      pour fermer la bouche de la pièce.
+Le gargoussier               boîte dans laquelle on apporte de la Le boute-feu avec sa Les valets                   pelotes en fil de carret pour assujettir L'écouvillon                 pour nettoyer l'intérieur de la pièce Le refouloir                 pour enfoncer la charge.
+(Pour les La baille (contenant Le faubert                   pour le service de la baille ci-dessus.
+Armement de la Caronade.
+Enfin, dans les grands bâtimens, deux canonniers par batterie ont un grand sac contenant un vilebrequin, quatre vrilles, un tournevis, quatre platines, des capsules, des étoupilles s'il y a lieu, de la ligne pour platine, et du vieux linge pour obvier aux accidens.
+Sur les bricks et bâtimens au-dessous il n'y a qu'un grand sac.
+Des Projectiles et de la Charge.
+On donne le nom de projectiles à tous les corps lancés dans l'espace, mais plus particulièrement à ceux qui le sont par l'explosion de la poudre.
+Les boulets ronds sont en fer fondu, et autant que possible sans aspérités ou cavités; leur destination principale est de percer la muraille des vaisseaux et d'abattre les mâts.
+Le diamètre d'un boulet et en général de tout projectile, est un peu plus petit que celui de la pièce, afin d'y pouvoir entrer librement; la petite différence qui existe entre ces deux diamètres s'appelle le vent du boulet.
+On rejette tout boulet qui ne passe pas en tous sens par la première, ou qui passe dans un sens quelconque dans la seconde.
+Les boîtes de mitraille se composent d'une boîte cylindrique de fer-blanc dont la base a le diamètre du boulet et qui contient de petites balles; la longueur de la boîte est déterminée par un tarif.
+La portée de cette mitraille est à-peu-près celle des grappes de raisin; mais ces petites balles, après leur échappement, ont encore moins d'action que les biscaïens; elles ne peuvent être efficaces que contre des embarcations ou contre des hommes entièrement à découvert.
+La charge se compose d'une gargousse, d'un ou de deux projectiles, et d'un valet.
+Quand les pièces doivent rester chargées, on met sur la gargousse un valet qui est attaché à cette gargousse, pour pouvoir la retirer facilement, s'il y a lieu.
+La charge de la caronade pour le combat est de un/neuf du poids du boulet, et pour salut le un/douze; celle du pierrier est le un/cinq, et celle de l'espingole le un/dix.
+Les gargousses aujourd'hui ne sont plus ordinairement préparées à bord des bâtimens; ceux-ci les reçoivent du magasin, conformément au réglement, et la poudre qui est ainsi préparée et délivrée par les magasins, s'appelle l'apprêtée.
+On met dans les canons, un, deux ou trois projectiles.
+Ce dernier cas doit être fort rare et peu répété tout de suite, car il y aurait danger que le canon n'éclatât; d'ailleurs la portée se trouvant par là très-diminuée, on ne doit l'employer que de fort près et sur un ordre supérieur.
+La brague des caronades devant être très-ménagée, on ne doit charger ces pièces avec deux projectiles que rarement, et pour ainsi dire jamais avec trois.
+Au surplus, quand on traitera de l'exercice, on indiquera plus particulièrement quelle est exactement la manière de procéder pour charger une pièce.
+Ceux qui ont écrit sur la portée des charges à plusieurs projectiles ne sont nullement d'accord sur leur résultat et leur emploi.
+Nous allons rapporter quelques expériences.
+La portée de deux boulets ronds de vingt-quatre, lancés par huit livres de poudre sous le même angle de dix-sept°, a été de un virgule zéro neuf toises, et celle d'un seul boulet de vingt-quatre, de un virgule trois six toises.
+Les canons des autres calibres en usage dans la marine, tirés alternativement aussi avec un et deux boulets, ont offert des résultats analogues, et confirmés d'ailleurs par des épreuves de même nature, qui furent exécutées en Angleterre en mille sept cent quatre-vingt-treize.
+La divergence des boulets tirés ensemble paraît très-fondée lorsque le but est éloigné; ainsi on ne doit pas les permettre au-delà de trois cents toises.
+ De Montgéry, règles de pointage.
+Les boulets d'une livre sont au reste les plus petits qu'on emploie à bord des navires français; ce sont ceux de pierriers.
+Donc aussi les boulets des autres bouches à feu peuvent être tirés avec succès trois à la fois contre les bastingages, et même contre la muraille des gaillards, qui a rarement plus de huit à dix pouces d'épaisseur.
+ Procès-verbal de ces expériences.
+Si la divergence des boulets ronds tirés ensemble est considérable, elle l'est encore bien davantage si la charge se compose d'un boulet rond et d'un boulet ramé.
+Malgré toutes les précautions prises et la régularité du pointage, que quelquefois j'ai fait rectifier avec un cordeau, la moitié et plus des boulets manquait la butte; un boulet frappait au pied, tandis que l'autre allait frapper plus loin, en passant par-dessus.
+Ces irrégularités ne pouvaient certainement être occasionnées que par le choc de projectiles l'un contre l'autre dans la pièce en en sortant.
+La charge composée d'un boulet et d'un paquet de mitraille est sujette aux mêmes inconvéniens et ne doit être employée que de très-près.
+La charge à double projectile avec boulets ronds ne doit pas être employée au-delà de trois cents toises; et celles composées d'un boulet rond et d'une mitraille, ou un boulet ramé, au-delà d'une encâblure.
+Ce n'est qu'à très-petites distances qu'on peut espérer de tirer un parti avantageux de doubles charges des caronades, et on ne peut continuer long-temps à s'en servir sans craindre la rupture presque certaine de la brague.
+On ne doit jamais commencer le feu avec des caronades sans avoir préalablement passé la fausse brague.
+Emplacement des Canons et de leurs projectiles, à bord.
+C'est au sabord des bâtimens que les canons sont placés, amarrés et manoeuvrés.
+Tenu en cette position par les palans de côté, dont les courans sont fixés par un simple tour au bouton de culasse, le canon est dit être au sabord ou en batterie, et amarré à garans simples.
+C'est l'amarrage de beau temps, mais il en est de plus solides pour d'autres circonstances dont nous parlerons plus loin.
+L'ouverture du sabord permet de pointer ou de diriger l'axe du canon à dix-huit ou vingt°, à droite ou à gauche de la ligne du travers.
+Sans coussin ni coin de mire, cet axe peut s'élever d'environ quatorze° au-dessus de l'horizon, et avec coussin et coin de mire s'abaisser d'à-peu-près six à sept°.
+Quant aux caronades, elles sont présentées au sabord comme les canons; mais, ainsi que nous l'avons dit, elles y sont en ce moment retenues à bragues fixes; mais dans les mauvais temps on y ajoute quelques aiguillettes.
+Chaque pièce est numérotée par batterie et en commençant par l'avant; chaque objet principal l'est aussi comme la pièce à laquelle il appartient.
+Dans les batteries couvertes, la boîte à capsules ou à étoupilles est placée au milieu du dessus du sabord.
+Le gargoussier est maintenu à gauche et près du sabord.
+La baille de combat (et son faubert) est accrochée, l'ouverture contre la muraille, à gauche de sa pièce, à mi-distance des deux sabords.
+L'écouvillon et le refouloir sont élongés de chaque côté du barrot placé au-dessus de la pièce.
+Dans toutes les batteries la pince est à droite de l'affût et l'anspect à gauche, sur des supports en fer en dehors des flasques; on peut aussi les engager sur les essieux entre les flasques et les roues, ou même les mettre sur l'entretoise.
+Le coussin et le coin de mire sont entre les flasques et sous la culasse.
+Les platines restent toujours adaptées aux pièces; elles sont garnies de leurs couvre-platines.
+Enfin les tire-bourre et cuillères sont disposés comme les écouvillons et refouloirs; mais il n'y en a qu'un de chaque espèce pour une division de quatre pièces.
+Une partie des projectiles et valets est dans la cale, et l'autre sur le pont.
+Un certain nombre de boulets ronds sont à gauche de chaque pièce, sur le pont, et retenus par un cercle de gros cordage garni de pommes; on peut y ajouter quelques crampes pour maintenir ce cercle sur le pont au roulis.
+D'autres boulets ronds sont placés autour des hiloires, panneaux, ou en d'autres lieux pareils, en tel nombre qu'il y ait toujours, en tout, un approvisionnement de vingt de ces projectiles par pièce, dans la batterie.
+Les boulets ramés au nombre de cinq, et les grappes de raisins au même nombre, dont chaque pièce est pourvue dans la batterie, sont accrochés régulièrement le long de la muraille, à quelques pouces au-dessus du pont.
+S'il y a des caisses de boîtes de mitraille à bord, elles restent dans la cale, et, en cas de combat, on monte une de ces caisses pour chaque pièce.
+Les valets, au nombre de huit à douze par pièce, sont liés ensemble en forme de plateau rond que l'on place quelquefois dans la baille, quelquefois contre le bord, ou même en forme de chapelet autour de la naissance de la volée.
+Les armes d'abordage destinées aux chefs et servans peuvent encore être pareillement disposées avec symétrie et goût, près des pièces ou aux environs.
+Les bragues de rechange pour canons peuvent, dans les batteries, se placer sur la face avant ou arrière des baux où on les retient par des bouts de tresse cloués.
+Pour les caronades on doit en avoir de disposées dans la tuque d'arrière ou dans les coffres d'armes.
+Les affûts de rechange ne doivent pas être exposés aux boulets de l'ennemi, comme cela arrive quelquefois, mais placés de manière qu'on puisse les transporter avec la plus grande célérité lorsque le besoin s'en fait sentir.
+Dans les batteries hautes, le premier entre le cabestan et le panneau de la cale au vin, et le second sur l'arrière des cuisines.
+Pour les gaillards on peut placer une grande quantité de projectiles entre les drômes.
+L'appareil nécessaire pour changer un affût brisé doit être disposé dans l'entre-pont, auprès du grand panneau; ce panneau étant le seul qui reste ouvert pendant le combat pour le passage des blessés.
+Exercice du Canon d'un bord et par temps.
+L'exercice du canon est supposé précédé du commandement de branle-bas de combat.
+A ce commandement, les derniers servans de droite vont chercher les objets qui ne sont pas habituellement dans les batteries, comme sacs, tabliers, platines de rechange, etc.
+Les pourvoyeurs vont chercher (et allumer si c'est l'exercice à feu que l'on va faire) le boute-feu destiné à être mis dans la baille de combat, ainsi que les cornes d'amorces qui doivent être suspendues à portée.
+Le chef de pièce et les servans se rendent à leurs canons.
+Enfin chacun se met à son poste ainsi qu'il est prescrit par le rôle de combat, et suivant les dispositions et l'ordre établis à bord.
+Les deux derniers servans de gauche élongent le palan de retraite; le dernier l'accroche à la boucle du pont en arrière de la pièce, et l'autre à la croupière de l'affût.
+Les autres servans disposent pour l'exercice le canon, qui est supposé chargé et amarré à garans simples.
+Le premier servant de gauche met la baille de combat également sur le pont, ainsi que le seau à incendie, qui sont munis d'eau par les autres servans, si l'ordre en est donné, et ils disposent le fanal s'il y a lieu.
+Enfin le pourvoyeur se saisit du gargoussier.
+Le but qu'on se propose en faisant l'exercice est d'enseigner la manière de procéder avec uniformité pour démarrer, pointer, tirer, recharger le canon pour le remettre en batterie; et il ne sera question ici que des moyens mécaniques par lesquels on y parvient.
+Les règles du pointage sont fondées sur des considérations trop élevées pour trouver place dans cette section, qui est principalement destinée à l'instruction des servans.
+ÉTAT des hommes nécessaires pour le service d'un canon.
++===============+=======+=======+=======+=======+=======+=======+ Roulement.
+Le roulement indique qu'on va commencer l'exercice et qu'il faut observer le plus grand silence.
+Toute parole inutile est sévèrement interdite, soit pendant l'exercice, soit devant l'ennemi.
+A la fin du roulement, chacun reste immobile.
+A défaut de tambour, on y supplée par le commandement de roulement, et l'on termine le mouvement par celui-ci: fin de roulement.
+premier COMMANDEMENT.
+Détapez, démarrez vos canons! Un temps.
+Le premier servant de droite détape le canon et place la tape contre le bord derrière lui.
+Action! Observations.
+Si le roulis ou l'inclinaison du bâtiment n'est pas assez considérable pour déranger l'affût lorsqu'il est au sabord, il est inutile de le maintenir par les palans de côté; alors les garans restent élongés sur le pont, hors de la direction des roues.
+Dans tous les cas, les bouts sont cueillis par les avant-derniers servans de droite et de gauche, en dehors des files de servans et par le travers de la culasse; ils sont ainsi bien parés à se filer d'eux-mêmes au recul.
+deuxième COMMANDEMENT.
+Dégorgez, amorcez! Un temps.
+ On prescrit d'armer avant d'amorcer, de crainte que le marteau en Action! Observations.
+Si la platine était à pierre, il agirait de même, mais il ne devrait pas oublier de remplir le bassinet de poudre et de le refermer ensuite.
+ D'après les expériences faites sur les platines et moyennant troisième COMMANDEMENT.
+Pointez! Trois temps.
+Premier temps.
+Action! Deuxième temps.
+Il vise en s'inclinant et en mettant dans le même alignement son oeil, le point le plus élevé de la culasse, et le point le plus élevé de la volée.
+Action! Troisième temps.
+Action! Observations.
+A couler bas, il faut diriger la ligne de mire de telle sorte que le boulet frappe la ligne de flottaison.
+quatrième COMMANDEMENT.
+Feu! Deux temps.
+Premier temps.
+Action! Deuxième temps.
+Action! Observations.
+Si la capsule ne prend pas, le chef la retire et en met une nouvelle.
+Si l'on se sert d'une étoupille et que le coup ne parte pas, il faut laisser éteindre le feu de l'étoupille avant de s'approcher de la pièce pour la remplacer; il en est de même quand on a amorcé avec de la poudre.
+Lorsque la lumière ne fume plus, le chef de pièce et le servant chargé du vieux linge s'avancent vers la pièce; le premier pour dégorger, amorcer s'il y a lieu, et l'autre pour nettoyer la platine.
+Le chef rectifie toujours son pointage avant de remettre le feu à sa pièce, et il agit ensuite comme il a été dit au quatrième commandement.
+S'il est tombé quelque parcelle d'étoupille, capsule allumée, ou poudre, sur le pont, il faut les mouiller avec le faubert.
+Quand, par la position du vaisseau lors du tir, on craint que la violence du recul n'aille jusqu'à briser la poulie du palan de retraite, il faut décrocher ce palan et le parer de manière qu'on puisse le recrocher aussitôt que le coup est parti.
+Lorsque les platines seront démontées et qu'elles ne pourront pas être remplacées, on mettra le feu à la pièce à l'aide du boute-feu.
+cinquième COMMANDEMENT.
+Bouchez la lumière; écouvillonnez! Deux temps.
+Premier temps.
+Action! Deuxième temps.
+Le chef de pièce passe le dégorgeoir dans la lumière pour s'assurer qu'elle est parée; si elle ne l'est pas, il fait écouvillonner de nouveau jusqu'à ce qu'elle soit dégagée, et il rebouche la lumière.
+En même temps, le servant chargé du tablier nettoie la platine, puis il reprend son poste.
+Action! Observations.
+Si le chef de pièce ne peut parvenir à parer la lumière, il en prévient l'officier ou le maître le plus à portée, qui la fait dégager par les canonniers porteurs des vrilles et vilebrequins.
+Il est bon de rafraîchir une pièce de temps en temps, par exemple quand elle a tiré huit ou dix coups.
+C'est à ce commandement qu'on le fait, en aspergeant l'écouvillon avec la main, avant de l'introduire dans l'âme, et en frottant en même temps la pièce avec un faubert mouillé.
+sixième COMMANDEMENT.
+Au refouloir! Un temps.
+Le premier servant remet l'écouvillon au second; il reçoit de lui le refouloir, dont il place le bouton sur la tête de l'affût, et tient la hampe des deux mains.
+Si c'est du calibre de douze et au-dessous, il change l'écouvillon en refouloir, lequel se trouve sur la même hampe.
+Action! Observation.
+Pour changer l'écouvillon en refouloir, et réciproquement, il faut appuyer le milieu de la hampe sur la volée, et diriger le côté de l'écouvillon de manière à passer en dessus.
+septième COMMANDEMENT.
+La gargousse dans le canon; à la poudre! Un temps.
+Le premier servant de gauche fait un demi à gauche, reçoit du pourvoyeur la gargousse, qu'il place dans le canon, le culot le premier, la couture en dessous; le premier servant de droite l'enfonce jusqu'au fond du canon avec le refouloir.
+Il allonge le bras droit de toute sa longueur, en tenant la main gauche sur la volée du canon et le corps un peu incliné en avant, prêt à refouler.
+Dès que le pourvoyeur a remis la gargousse, il va en chercher une autre, ayant le gargoussier sous le bras gauche et la main droite sur son couvercle.
+Action! Observations.
+Cet ordre ne peut venir que du commandant du bâtiment, et alors il s'exécute, soit dans la soute, soit dans tout autre lieu désigné, mais toujours par les soins de personnes également désignées, et qui ne font pas partie de l'équipage des pièces.
+Si le chargeur s'aperçoit que la gargousse se soit crevée en l'introduisant, il doit mettre alors un valet après la gargousse pour ramasser la charge au fond de la pièce.
+Le pourvoyeur doit éviter, en allant chercher la gargousse, de mettre dans ses mouvemens une précipitation qui pourrait le faire trébucher ou tomber.
+Si la pièce devait rester long-temps chargée, on mettrait en outre un valet entre la gargousse et le boulet.
+Sans cette précaution, si le boulet prenait du jeu, il pourrait, au roulis, comprimer trop fortement la poudre de la gargousse.
+huitième COMMANDEMENT.
+Refoulez! Un temps.
+Le premier servant de droite refoule trois coups et abandonne la hampe du refouloir en effaçant le corps.
+Action! Observations.
+Il est très-important que le chef de pièce ne débouche jamais la lumière sans s'être positivement assuré que le chargeur s'est effacé, et qu'il n'est plus devant la pièce, afin d'éviter, pendant ce temps, que l'explosion possible de la charge n'enlève le chargeur.
+Si l'on est abordé par un vaisseau, de manière que les mouvemens des hampes de bois ne puissent avoir lieu, il faut y substituer des écouvillons et refouloirs à hampes de corde, lesquels sont réunis pour tous les calibres.
+Si la gargousse éprouvait d'ailleurs quelque difficulté à entrer, il faudrait, soit la retirer avec le tire-bourre, et la faire changer par le pourvoyeur dans le cas où elle serait défectueuse, soit écouvillonner et nettoyer de nouveau le canon, si l'obstacle provenait de son intérieur.
+La hampe du refouloir doit avoir une marque qui indique quand la gargousse est rendue.
+neuvième COMMANDEMENT.
+Le boulet et le valet dans le canon! Explication.
+Le premier servant de gauche met le boulet dans le canon, et l'empêche de tomber en plaçant la main droite devant la bouche de la pièce; il reçoit du second servant le valet, qu'il prend de la main gauche et qu'il place sur le boulet.
+Action! Observations.
+Les chefs de la batterie font bien connaître alors quel est l'ordre dans lequel les projectiles seront placés.
+Le valet ne se met qu'après le dernier de ces projectiles.
+Le premier servant de droite est spécialement chargé de veiller à ce que le boulet qui doit être introduit par le premier servant de gauche, ne tombe pas à la mer; ce n'est qu'autant qu'il en est sûr qu'il doit lui-même introduire le valet.
+On enlève ensuite avec l'écouvillon les culots ou débris qui s'opposent à son introduction.
+Les marques des hampes doivent être susceptibles d'être reconnues la nuit comme le jour.
+dixme COMMANDEMENT.
+Refoulez! Un temps.
+Le premier servant de droite refoule deux coups; il retire le refouloir et le passe au second, qui le pose sur le pont; le premier et second servant de droite reprennent leur poste.
+Action! onzeme COMMANDEMENT.
+En batterie! Deux temps.
+Premier temps.
+Le premier servant de droite décale les roues et pose la pince à sa première place; puis avec le premier servant de gauche ils soutiennent les bragues, pour empêcher qu'elles ne s'engagent pendant le mouvement.
+Le dernier servant de gauche défait la demi-clef du palan de retraite et tient le garant pour filer à mesure que la pièce ira en batterie.
+Tous les autres servans se rangent sur les palans de côté.
+Action! Deuxième temps.
+Le chef de pièce commande palanquez! Tous les servans agissent ensemble pour mette la pièce en batterie droit au milieu du sabord, et aussitôt qu'elle y est, le chef a soin de l'assujettir, en passant un tour de chaque garant au collet du bouton.
+Les garans sont tenus par les deuxièmes servans de chaque côté.
+Action! Nota.
+Si l'on continue l'exercice, on reprendra au deuxième commandement.
+Si on ne le continue pas, on le termine par le douzeme commandement, dans lequel on suppose que l'amarrage est simple.
+S'il devait être d'un autre genre, il faudrait l'énoncer et le faire exécuter.
+Le dernier servant de gauche doit particulièrement veiller le roulis, afin de contretenir, quand il y a lieu, pour empêcher la pièce d'aller heurter le bord trop vivement, ce qui serait susceptible de déranger la charge.
+Il est alors plus essentiel que jamais de veiller aux accidens du feu.
+douzeme COMMANDEMENT.
+Tapez, amarrez vos canons! Deux temps.
+Premier temps.
+Action! Deuxième temps.
+Le premier servant de droite met la tape au canon, les autres servans rouent les palans, les amarrent le long des flasques, et mettent les attirails nécessaires à la manoeuvre, aux places où ils étaient auparavant.
+Le dernier servant de gauche décroche le palan de retraite et le place sur le canon.
+Les objets apportés des soutes, et qui ne sont pas susceptibles de rester dans les batteries, sont rapportés par les canonniers désignés pour ce service et par le pourvoyeur.
+Action! Observations.
+Quand le roulis exige un amarrage plus solide, on laisse deux ou trois servans pour exécuter celui qui est prescrit, et ces servans retournent prendre poste de l'autre bord dès qu'il est fini.
+Roulement! Chacun prend son poste comme au commencement de l'exercice, et nul ne le quitte que lorsqu'on bat la breloque.
+Le commandement de branle-bas de combat s'exécute comme il a été dit pour le canon, si ce n'est que les caronades étant en ce moment à brague fixe, il n'y a point lieu à élonger le palan de retraite.
+La caronade est également supposée chargée, et amarrée seulement par sa brague.
+Pour une caronade d'un calibre quelconque, il ne faut que quatre hommes: un chef de pièce, un servant de droite chargeur, un servant de gauche fournisseur, et un pourvoyeur.
+Le chef se rend à sa pièce et s'équipe, ainsi qu'on l'a expliqué en parlant du canon; il visite les amarrages de brague, et il met le levier de pointage en place.
+Les deux servans vont chercher et disposent sur le pont, près de la muraille, les coins de mire, la pince et l'anspect (ces deux derniers alloués par deux caronades).
+Ils disposent ensuite la baille de combat, le seau à incendie et le fanal, comme on l'a vu précédemment.
+Le fournisseur porte le tablier garni, et le pourvoyeur se saisit du gargoussier.
+Celui-ci se place à gauche de la pièce faisant face au sabord et affleurant le fournisseur avec le coude.
+Roulement! Comme pour le canon.
+premier COMMANDEMENT.
+Détapez vos caronades; démarrez le couvre-lumière! Un temps.
+Le chargeur ôte la tape de la caronade et la place contre le bord derrière lui.
+Le chef de pièce démarre le couvre-lumière, et il le place près du bord, en arrière du servant de droite.
+Action! deuxième COMMANDEMENT.
+Dégorgez; amorcez! Un temps.
+(Comme au deuxième commandement pour le canon.) Observations.
+(Comme au deuxième commandement pour le canon.) troisième COMMANDEMENT.
+Pointez! Deux temps.
+Premier temps.
+Action! Deuxième temps.
+Quand le pointage est fini, il fait le commandement à postes! auquel les servans reprennent leur première position.
+Action! Observations.
+Lorsque celui qui commande l'exercice ordonne de pointer en belle, le chef de pièce fait mouvoir le levier et la vis, de manière à ce que la pièce arrive à être droite au sabord.
+quatrième COMMANDEMENT.
+Feu! Un temps.
+Le chef de pièce attend, etc.
+(Comme au premier paragraphe de l'explication du quatrième commandement pour le canon.) Observations.
+(Comme aux premier, deuxième et quatrième paragraphes des observations du quatrième commandement pour le canon.) cinquième COMMANDEMENT.
+Bouchez la lumière, écouvillonnez! Deux temps.
+Premier temps.
+Action! Deuxième temps.
+Le servant de gauche prend l'écouvillon, et il le donne au servant de droite: celui-ci tourne plusieurs fois l'écouvillon, etc.
+(Comme aux deuxième et troisième paragraphes des explications, et comme aux observations du cinquième commandement pour le canon.) sixième COMMANDEMENT.
+La gargousse dans la caronade; au refouloir; à la poudre! Un temps.
+Dès que le pourvoyeur a remis la gargousse, il va en chercher un autre, ayant le gargoussier sous le bras gauche, et la main droite sur le couvercle.
+Action! Observations.
+(Comme au septième commandement pour le canon.) septième COMMANDEMENT.
+Refoulez! Un temps.
+Le servant de droite refoule trois coups et abandonne la hampe du refouloir en effaçant le corps.
+Action! Observations.
+Il est très-important, etc.
+(Comme au premier paragraphe des observations du huitième commandement pour le canon.) On ne doit pas refouler plus de trois coups, etc.
+(Comme au quatrième paragraphe des observations du huitième commandement pour le canon.) huitième COMMANDEMENT.
+Le boulet et le valet dans la caronade! Un temps.
+Il s'assure qu'elle est rendue par la longueur de la hampe; il en rend compte par ces mots: rendu, chef! et il allonge le bras droit de toute sa longueur, la main gauche sur la volée et le corps incliné en avant.
+Action! Observations.
+On ne met qu'un projectile dans la caronade surtout, à moins que le commandant, etc.
+Si on découvrait alors que le boulet n'est pas dans la pièce, il faudrait ôter le valet avec le tire-bourre pour mettre un autre boulet.
+Si le boulet n'entre pas dans la pièce, etc.
+(Comme au troisième paragraphe des observations du neuvième commandement pour le canon.) neuvième COMMANDEMENT.
+Refoulez! Un temps.
+Le servant de droite refoule deux coups; il retire le refouloir et le passe au servant de gauche qui le remet à sa place.
+Action! Nota.
+Si on continue l'exercice, on reprend au deuxième commandement.
+Si on ne continue pas, on le termine par le commandement qui suit: dixme COMMANDEMENT.
+Tapez vos caronades, amarrez le couvre-lumière! Un temps.
+Le servant de droite remet la tape à la caronade.
+Le chef de pièce va prendre le couvre-lumière et l'amarre; puis il ôte le levier de pointage qu'il fait remettre, ainsi que les autres attirails, où ils étaient avant la manoeuvre.
+Les objets apportés des soutes et qui ne sont pas susceptibles de rester dans les batteries, sont reportés par les servans et par les pourvoyeurs.
+Action! Roulement.
+Chacun reprend son poste comme au commandement de l'exercice, et nul ne le quitte que lorsqu'on bat la breloque.
+Comme pour le canon.
+premier COMMANDEMENT.
+Détapez, démarrez vos canons! (Un temps.) Comme pour le canon.
+deuxième COMMANDEMENT.
+Dégorgez, amorcez! (Un temps.) Comme pour le canon.
+troisième COMMANDEMENT.
+Pointez! (Trois temps.) Comme pour le canon.
+quatrième COMMANDEMENT.
+Feu! (Deux temps.) premier temps.
+Comme pour le canon jusqu'à ces mots, si le canon n'est pas assez rentré.
+Le chef de pièce dans ce cas facilite le mouvement de rentrée en prenant son levier-directeur, dont il engage le bec dans le cran de la tige mobile, pour élever le derrière de l'affût.
+Les premiers servans de droite et de gauche restés à leur poste parent les palans et bragues.
+Le chef de pièce remet le levier-directeur à sa place, et le deuxième servant de gauche fait une demi-clef au palan de retraite.
+deuxième temps.
+Comme pour le canon.
+cinquième COMMANDEMENT.
+Bouchez la lumière, écouvillonnez! (Deux temps.) premier temps.
+Comme pour le canon.
+Après ces mots, qu'il enfonce dans la pièce, ajoutez: à l'aide du premier servant de gauche qui se porte également à la volée de l'obusier par un mouvement semblable à celui de droite.
+deuxième temps.
+Les deux servans tournent plusieurs fois l'écouvillon au fond de la chambre et de l'âme dans le sens nécessaire pour faire prendre le tire-bourre, et ils le retirent en le tournant du même côté.
+(Le reste comme pour le canon.) sixième COMMANDEMENT.
+Au refouloir! (Un temps.) Comme pour le canon.
+septième COMMANDEMENT.
+Tous les deux prennent la position de refouler.
+Dès que le pourvoyeur a remis la gargousse, il va en chercher une autre, ayant le gargoussier sous le bras gauche et la main droite sur son couvercle.
+Le deuxième servant de gauche prend la boîte vide et se dirige avec le troisième servant du même côté, vers l'écoutille destinée au passage des projectiles chargés.
+Après l'avoir posée sur le pont, tous les deux reprennent leur poste.
+Action! huitième COMMANDEMENT.
+Refoulez! (Un temps.) Les premiers servans de droite et de gauche refoulent trois coups bien égaux et abandonnent la hampe du refouloir en effaçant le corps.
+Le chef de pièce passe le dégorgeoir dans la lumière pour s'assurer que la gargousse est rendue au fond de la chambre.
+Action! neuvième COMMANDEMENT.
+L'obus et le valet dans le canon! (Un temps.) Les premiers servans de droite et de gauche enlèvent l'obus de la boîte et l'élèvent à la hauteur de la bouche de la pièce.
+Le deuxième servant de gauche retire aussitôt la boîte, à laquelle il remet le couvercle ôté précédemment, et la place contre le bord derrière lui.
+Le premier servant de gauche introduit l'obus dans le canon après l'avoir préalablement décoiffé, il le maintient dans cette position avec la main gauche, ayant la main droite appuyée contre la masse de mire.
+Le premier servant de droite prend le refouloir, et aidé du premier servant de gauche qui abandonne l'obus, il l'enfonce au fond de l'âme et retire le refouloir.
+Le premier servant de gauche reçoit du deuxième, du même côté, un valet qu'il place dans la pièce, et les deux premiers servans l'enfoncent sur l'obus avec le refouloir.
+Le premier servant de droite s'assure que l'obus et le valet sont rendus au fond de la pièce par la longueur de la hampe, et en rend compte au chef.
+Ces deux servans prennent la position pour refouler.
+dixme COMMANDEMENT.
+Refoulez! (Un temps.) Comme pour le canon.
+onzeme COMMANDEMENT.
+En batterie! (Deux temps.) premier temps.
+Le chef de pièce prend le levier-directeur, et le tenant des deux mains par l'extrémité, il engage le bec sous la tige mobile.
+(Comme pour le canon.) deuxième temps.
+Alors il débarre, remet le levier-directeur à sa place, et (comme pour le canon.) douzeme COMMANDEMENT.
+Tapez, amarrez vos canons! (Deux temps.) Comme pour le canon.
+L'armement de ces bouches à feu est le même que pour le canon de trente-six, plus un levier-directeur et un petit refouloir à tête conique pour la gargousse.
+Mais le levier-directeur n'est utile que lorsque l'affût est privé de roues de derrière; dans le cas contraire, tout ce qui a rapport dans l'exercice au levier-directeur, doit être supprimé.
+L'exercice des deux bords n'apporte aucune modification à la manière dont une pièce doit être pointée, tirée et chargée.
+Mais comme alors ce sont les canonniers d'un seul bord qui se partagent pour faire le service des deux bords, il a fallu adopter un ordre de répartition qu'il importe de faire connaître.
+Cet exercice se divise en quatre parties.
+I.--Armement des pièces et changement de bord.
+premier.--Armez les deux bords! Explication.
+Les chefs des pièces paires si l'on est à tribord, et ceux des pièces impaires si l'on est à bâbord, disposent sur le boulon de culasse les boîtes à capsules, le doigtier, le dégorgeoir, l'épinglette et le tablier du servant.
+Action! Observation.
+Le numérotage des pièces commence par l'avant, et si le nombre des pièces d'une batterie est impair, l'équipage des deux dernières pièces de l'arrière les manoeuvre ensemble comme s'il s'agissait de deux pièces voisines.
+deuxième.--Par le flanc gauche et par le flanc droit; à gauche, à droite! Explication.
+Les servans de droite font à gauche, ceux de gauche font à droite, et les chefs de pièce demi-tour à droite! tous se tiennent prêts à se porter à la pièce correspondante de l'autre bord.
+Action! Observation.
+Dans un combat, c'est le chef de pièce qui fait le commandement de par le flanc gauche! etc.
+troisième.--Marche! Explication.
+Les chefs de pièces qui n'ont pas quitté leurs pièces, s'équipent du tablier et envoient à celle qui est voisine à droite, devenue vacante, les trois premiers servans de droite; le premier pour chef de pièce, le deuxième pour chargeur, et le troisième pour fournisseur.
+Les chargeurs envoyés pour chefs de pièces, sont nommés chefs provisoires, et les autres, chefs titulaires.
+A chaque pièce des deux bords où se trouve le chef titulaire, le premier servant de gauche devient chargeur, et le second fournisseur.
+Action! Observation.
+Pendant un combat, c'est le chef qui fait le commandement de marche! Le tablier est supposé avoir été apporté au commandement de branle-bas.
+II.--Manoeuvre de la pièce de chaque chef titulaire jusqu'à ce qu'elle ait fait feu, et passage des servans mobiles à la pièce de chaque chef provisoire.--Quatre commandemens.
+premier.--En batterie; dégorgez; amorcez! Explication.
+Après avoir mis les pièces en batterie, si elles n'y sont pas, les chefs titulaires seulement dégorgent et amorcent.
+Action! deuxième.--Pointez! Explication.
+Les chefs titulaires seulement passent par tous les temps du pointage.
+Action! troisième.--Feu! Explication.
+Les chefs de pièces attendent le moment favorable et ils exécutent le feu.
+Aidés par leurs servans, ils mettent les pièces hors de batterie, et le premier servant de gauche fait la demi-clef au palan de retraite.
+La pince est mise en travers des roues par le premier servant de droite.
+Action! Observation.
+S'il y a lieu de se servir du boute-feu, c'est le dernier servant de gauche qui s'en saisit.
+quatrième.--Servans mobiles, changez! Explication.
+Les chefs de pièces qui viennent de tirer ne conservent que le premier servant de droite et de gauche; tous les autres, nommés servans mobiles, se portent à la pièce voisine à droite, où ils occupent les mêmes postes qu'à celle du chef titulaire.
+Action! III.--Manière de charger la pièce pendant que celle du chef provisoire est mise en batterie et fait feu, et réciproquement.--Cinq commandemens.
+Chacun des cinq commandemens en comprend deux ou plusieurs, qui s'adressent tantôt aux chefs titulaires, tantôt aux chefs provisoires; comme ils ne pourraient être donnés à la voix sans confusion, on en marque l'exécution par un coup de baguette.
+Chefs titulaires.
+              | Chefs provisoires.
+Le pourvoyeur va chercher la poudre et la porte à la pièce qui va tirer; il continue alternativement ce service pour les deux pièces de l'approvisionnement desquelles il est chargé.
+troisième Le boulet et le valet dans     | troisième Au boute-feu! Observation.
+cinquième.--Servans mobiles, changez! L'exercice continuant, les chefs provisoires exécutent à chaque coup de baguette les commandemens indiqués pour les titulaires, et réciproquement.
+Ensuite ils alternent encore.
+Au roulement, le feu cesse, mais on continue de charger les pièces qui ne le sont pas.
+Un chef ne doit jamais quitter sa pièce qu'elle ne soit chargée, mise en batterie et amarrée si c'est une pièce des batteries hautes, ou rentrée et fixée par la pince placée en avant des roues, si c'est une pièce de la batterie basse.
+IV.--Désarmement d'un des deux bords.--Trois commandemens.
+premier.--Canonniers, tous à tribord; ou canonniers, tous à bâbord! Explication.
+Action! deuxième.--Par le flanc gauche et par le flanc droit; à gauche, à droite! Les servans font à droite et à gauche, et les chefs de pièces demi-tour à droite.
+Si l'on a fait le commandement d'armer à bâbord, ce sont les chefs titulaires des pièces impaires, qui sont tous à tribord dans ce moment, qui exécutent ce mouvement.
+Action! troisième.--Marche! Explication.
+Les chefs de pièces qui ont changé de bord se munissent de la boîte à capsules, et les servans chargés du tablier le reprennent.
+Dans ce cas, lorsqu'il devient utile de rapprocher le feu de l'avant ou de l'arrière, on ordonne à chaque équipage de se serrer du côté où on veut le faire, de manière à ne laisser aucun intervalle.
+Alors on commande: Armez l'autre bord! Explication.
+Les pièces de la première batterie, chargées ou non, sont assujetties à la longueur du recul, afin de pouvoir fermer les sabords, si c'est ordonné.
+Les servans qu'il a laissés, s'il y avait lieu à recharger, viennent le joindre dès qu'ils ont fini.
+Dans les batteries hautes, les pièces sont amarrées au moyen de leurs palans de côté.
+Action! Exercice à volonté! Explication.
+Chaque chef de pièce fait alors en particulier à ses servans les commandemens des divers temps; il doit leur en faire observer toutes les circonstances et ne jamais sacrifier l'exactitude à la vivacité des mouvemens.
+Action! Observations.
+Le feu à volonté est ordinairement celui d'un combat, et les canonniers doivent y être exercés.
+Il est pourtant d'autres feux qui peuvent être désignés par les dénominations suivantes: Feu de file ou de salut.
+C'est celui où l'on commande à toutes les pièces de faire feu successivement, suivant un ordre et à intervalles indiqués.
+On peut employer ce feu contre un bâtiment plus faible que l'on chasse, ou à mesure qu'on découvre un navire dans une manoeuvre; il a l'avantage de vous laisser libre de former et de favoriser le pointage.
+Feu de section.
+C'est celui où l'on commande à un certain nombre de pièces de faire feu simultanément, suivant un ordre prescrit et à un intervalle indiqué.
+On peut employer ce feu quand on veut se ménager un certain nombre de coups toujours prêts à être envoyés.
+Feu de division.
+C'est le feu de section lorsque chaque section est composée de la moitié des pièces consécutives d'un même bord d'une batterie.
+On peut employer ce feu quand la fumée empêche de bien juger la position de l'ennemi, et qu'on veut se réserver des pièces prêtes pour l'instant où il paraîtra.
+Feu de batterie.
+C'est celui que chaque batterie doit faire alternativement; les gaillards peuvent alors, suivant les ordres reçus, tirer à volonté ou à leur tour.
+Feu par bordées.
+C'est celui où l'on fait des décharges générales de toute son artillerie; on l'emploie quand, pendant une manoeuvre, on vient à découvrir son ennemi, et qu'on veut profiter de ce moment pour l'écraser.
+Il y a cependant des inconvéniens dans chacune de ces manières de faire feu, tandis que le feu à volonté est celui qui en a le moins et qui réunit le plus d'avantages.
+Outre les devoirs imposés aux chefs de pièces et servans, au commandement de branle-bas de combat, il en est d'autres qui ont rapport au service de l'artillerie.
+Le commandement de branle-bas de combat fait, ou la générale battue, pendant que les chefs et servans se rendent à leurs pièces pour les préparer à faire feu, les soutes à poudre sont ouvertes, et les hommes affectés à ce service s'y rendent.
+Les rondiers des batteries démontent les chandeliers des panneaux, enlèvent les échelles qu'ils font passer dans l'entre-pont pour éviter les éclats, la communication s'établissant pendant le combat par les échelles de cordes toujours en place.
+Les hommes pour le passage des poudres dans les batteries, mettent en place les panneaux de combat, les manches pour les gargoussiers vides et les reposoirs pour les gargoussiers pleins.
+ Les panneaux de combat sont des panneaux pleins, garnis de deux  Les reposoirs sont des supports en cuivre adaptés au-dessous de Les feux sont éteints, les pompes à incendie garnies et armées.
+L'emploi des capsules rend inutile le mouvement du chef de pièce pour percer la gargousse, il doit s'assurer seulement si la lumière est dégagée.
+Les gargousses délivrées ordinairement à bord des navires de l'état sont en papier, en serge, en parchemin, ou en papier-parchemin.
+Depuis quelque temps cependant les gargousses en serge paraissent abandonnées, et on ne donne plus que des gargousses en papier pour le salut et l'exercice, et en papier-parchemin pour le combat.
+L'apprêté ne se faisant plus à bord depuis l'adoption des caisses à poudre, on ne se trouve plus dans la nécessité de saigner la gargousse.
+Ces derniers ont le grand inconvénient de pouvoir former un coin autour du boulet, ce qui nécessitant une plus grande force pour le chasser de l'âme, peut être préjudiciable à la pièce.
+Non-seulement lorsqu'on est vergue à vergue, mais dans plusieurs autres circonstances, il peut être très-utile de tirer à longueur de brague.
+Après avoir calé les roues de derrière avec des fauberts mouillés et sablés, on décroche les palans de côté et on réunit, sans les forcer, par une aiguillette, les deux portions de la brague en avant de l'affût.
+A bord des bâtimens armés de caronades, en désignant d'avance un homme par pièce pour remplir les fonctions de chargeur, on peut servir toutes les pièces lorsqu'on se bat des deux bords.
+Dans ce cas, les chefs titulaires détachent à la pièce voisine, à droite, leur chargeur pour chef de pièce, et prennent pour chargeur leur fournisseur.
+Les chefs provisoires ont pour chargeur un homme de la manoeuvre désigné d'avance, et le pourvoyeur de la pièce du chef titulaire approvisionne également celle du chef provisoire.
+Noeuds, Amarrages et divers Travaux de Garniture appliqués au Canonnage.
+Aiguilletage, aiguillette.
+Fort cordage fait de fil de première qualité, commis avec le plus grand soin et légèrement goudronné, et qui sert à borner le recul des bouches à feu.
+La brague est élongée et tendue de force avec des palans, ou même au cabestan, avant d'être mise en usage, pour qu'elle soit moins exposée ensuite à prendre du mou.
+Sa longueur pour les canons de calibre de trente-six, de douze et intermédiaires, varie de dix-un/deux mèt.
+à sept-trois/quatre mèt., et sa grosseur de vingt à seize centimètres.
+La brague est fixée par ses deux bouts dans les boucles de la muraille du bâtiment par un amarrage avec étrive, c'est-à-dire avec changement de direction du cordage principal, après qu'il a été replié sur lui-même.
+Amarrage qui sert à rapprocher deux ou plusieurs cordages déjà tendus, ou les tours d'un même cordage, et à les étrangler en un point, afin qu'ils souquent davantage.
+Il s'exécute soit avec un cordage particulier, soit avec le bout même du cordage bridé.
+Un cordage est de premier brin quand il ne contient que les filamens les plus longs et les plus propres qui restent dans les mains du peigneur.
+Tous les cordages de l'artillerie sont du premier brin.
+Moyen cordage qui sert comme une suspente et qu'on nomme herse; c'est une sorte d'élingue.
+(Voyez ce mot.) Coiffe d'écouvillon.
+Bout de cordage fixé au corps de l'essieu de l'arrière et formant une boucle pour accrocher le palan de retraite; il y a souvent un piton dans cette partie qui rend la croupière inutile.
+Cordage dont on entoure un fardeau pour le soulever.
+Les deux bouts en sont réunis par une épissure.
+On s'en sert pour embarquer et débarquer les canons.
+Longueur pour les calibres de trente-six, de douze et intermédiaires, de sept mètres un/sept à six mètres un/deux; grosseur, de vingt à seize centimètres.
+Réunions de deux bouts de cordages entés, en quelque sorte, par l'entrelacement réciproque de leurs torons; l'excédant des torons est coupé au ras du cordage, et la jonction a lieu solidement sans noeuds ni bourrelets.
+Cordage fourré, dont on entoure une poulie en le faisant passer dans les rainures pratiquées sur sa caisse; les deux bouts de cordage sont joints par une épissure.
+Estrope de culasse.
+Cordage employé dans l'amarrage à la serre.
+Les deux bouts en sont réunis par une épissure.
+On y fixe une cosse en fer, de sorte que l'estrope est divisée en deux parties inégales.
+De semblables estropes, mais plus longues, sont employées pour l'embarquement et le débarquement de l'artillerie, savoir: deux pour la culasse, et un pour la volée; celle-ci est plus courte que les autres.
+Faisceau de fil de carret lié par une de ses extrémités, et emmanché d'un petit bâton; les fils en se détordant par le bout forment une étoupe qui fait éponge.
+Fourrer un cordage.
+On fourre aussi en basane, en toile goudronnée.
+Les anneaux de brague des caronades et la partie des bragues qui y portent, sont fourrés.
+Cordage d'un palan.
+C'est sur cette extrémité, appelée courant, que l'on agit.
+Dans les palans de côté, le courant doit se trouver dessus.
+Pour les canons de trente-six, de douze et intermédiaires, la longueur des garans des palans de retraite et de côté (qui sont les mêmes) varie de trente et un mètres à vingt-quatre, et leur grosseur de neuf à sept centimètres.
+Tresse plate en bitord.
+La poignée du coussin est une tresse semblable.
+Garnir une brague.
+C'est entourer la partie exposée au frottement d'une toile goudronnée, maintenue par des tours serrés d'un cordage fin.
+On peut se servir encore d'un morceau de basane cousu, suivant la longueur de la brague.
+Hampe de corde.
+Bout de filin de retour, fourré, de même longueur que la hampe de bois; il a huit centimètres pour les calibres de trente-six, trente et vingt-quatre; et sept-un/deux pour les calibres au-dessous.
+Cordage tenant à un palan, et ordinairement en double pour en augmenter l'effet.
+On s'en sert quand on change un canon d'affût, ou qu'on l'amène sur le pont.
+Un bout est garni d'une cosse, l'autre est en queue de rat.
+Pour les canons des calibres de trente-six, trente, vingt-quatre et dix-huit, la longueur de l'itague varie de six mètres un/quatre à cinq mètres deux/trois, et la grosseur de douze à dix centimètres.
+Ligne d'amarrage.
+Menu cordage goudronné, servant à faire certains amarrages, comme ceux des bouts de brague, ceux qui servent à rapprocher les côtés des élingues ou des estropes, etc.
+Petit cordage composé de deux fils de carret; il y a du lusin blanc et du lusin goudronné.
+Il est employé à serrer les coiffes d'écouvillon, et pour la confection des grappes de raisin.
+Machine à démonter les canons.
+Elle se compose de deux estropes (garnies chacune de deux poulies simples), de deux civières (garnies de deux poulies simples), de quatre itagues, et de quatre palans (ceux de la pièce et de la voisine).
+On a proposé d'autres machines, mais les parties de celle-ci sont les plus faciles à se procurer.
+Corde lessivée servant, au besoin, à mettre le feu à une pièce.
+La mèche est fabriquée avec des étoupes de lin; elle doit être ferme, sans trop de dureté, bien pénétrée de lessive salpêtrée, mais sèche, sans moisissure, et sans être cornue à sa surface.
+Petit cordage de trois fils de carret commis ensemble au moyen de la roue du siége de commettage.
+Celui qui s'emploie pour l'artillerie est composé de fils goudronnés; une pièce de soixante brasses pèse environ un livre un/deux.
+Les noeuds diffèrent suivant leur destination; c'est pour le marin une étude longue et importante, qui ne peut se graver dans l'esprit que par la pratique.
+On doit se borner à dire ici, en général, que les noeuds et amarrages sont disposés de manière que les frottemens des tours les uns contre les autres rendent l'enlacement solide, tout en permettant, au besoin, de pouvoir défaire le noeud.
+Palans de côté et de retraite.
+Ils sont composés d'une poulie simple, d'une poulie double et d'un garant (voyez ce mot).
+Les poulies sont estropées et garnies chacune d'un croc.
+Il y en a pour d'autres objets, pour embarquer et débarquer les pièces, pour descendre les barils à poudre dans les soutes, etc.; mais ils sont établis de la même manière, à peu près.
+Petit palan croché dans la boucle de l'itague de mantelet par sa partie double; la poulie simple a une cosse fixée à un piton sur le pont supérieur, et vis-à-vis le milieu du sabord.
+Cordage composé de trois torons commis ensemble; il y en a de six à neuf fils, et de douze à quinze fils; celui qu'on emploie pour l'artillerie est goudronné.
+Queue de rat.
+Espèce de pointe que l'on fait à l'extrémité des cordages pour faciliter leur introduction dans une poulie.
+Une ligature termine cette espèce de tissu.
+Raban de sabord.
+Bout de quarantainier de quatre à cinq mètres de longueur, et de cinq à sept centimètres de grosseur, employé pour fermer solidement les mantelets.
+Il y en a deux par sabord.
+Raban de retenue des caronades.
+Aiguillette de vingt à vingt-quatre mètres de longueur, et de cinq à sept centimètres de grosseur, employée pour fortifier l'amarrage des caronades par un mauvais temps.
+Raban de volée.
+Cordage de onze à quinze mètres de longueur, et de six à huit centimètres de grosseur, employé dans l'amarrage du canon à la serre, pour assujettir la volée contre la partie supérieure du sabord; ce cordage porte une ganse à l'une de ses extrémités.
+On en donne un par sabord de batterie basse.
+Amarrage fait sur les bouts d'un cordage pour empêcher les torons de se séparer; la surliure s'exécute avec du fil à voile, ou de la petite ligne qui sert à faire plusieurs tours bien serrés, et dont on engage les bouts sous les tours.
+Bouchon de corde servant à maintenir la charge dans l'âme de la pièce, et à donner, par quelque résistance, le temps à la poudre de s'enflammer en plus grande partie.
+L'influence du valet sur la charge, sur la portée du projectile, sur la pièce même, a été envisagée sous plusieurs faces, et diverses propositions ont été faites pour sa configuration, ou pour en altérer la composition.
+On doit ici se borner à dire comment se confectionnent ceux qui sont adoptés à bord de nos bâtimens.
+Le valet est cylindrique, son diamètre doit passer avec frottement dans l'âme de la pièce, et sa hauteur a quelques lignes de plus que son diamètre.
+Il se fait avec du vieux fil de carret dont on forme un faisceau que l'on serre par le milieu avec du fil de carret neuf.
+Il ne reste plus qu'à amarrer le valet par le milieu.
+On le serre enfin comme le valet cylindrique.
+Dans les deux cas on fait une poignée ou deux au valet, en y introduisant pendant sa confection une ou deux petites bagues en fil de carret, qu'on a toujours soin de laisser déborder.
+Différentes manières d'amarrer les canons à bord.
+Les amarrages employés pour contenir les bouches à feu à bord, dépendent de la place qu'elles occupent et des craintes que peut donner le mauvais temps.
+Amarrage à garans simples.
+Cet amarrage est usité dans les beaux temps.
+Le reste des garans se love et s'amarre le long des flasques; le dernier servant de gauche décroche le palan de retraite, le love et le place sur le canon.
+Amarrage à garans doublés.
+Cet amarrage est usité pour les batteries hautes dans les mauvais temps.
+L'autre palan s'amarre à l'ordinaire en faisant passer le garant par-dessus celui qui est doublé, afin de l'avoir toujours à sa disposition, si les circonstances exigeaient un amarrage plus solide.
+Les bragues sont repliées le long des flasques, et le palan de retraite est placé sur le canon.
+Amarrage à la serre.
+Cet amarrage est usité pour les batteries basses dans les mauvais temps.
+Cette opération se fait des deux côtés du canon.
+La volée est soutenue par le raban de volée, qui fait plusieurs tours dessous et dans la boucle de raban placée au-dessus du sabord.
+La poulie double du palan de retraite est accrochée à la boucle du raban de sabord, et la simple à une estrope qu'on met autour du collet du bouton de culasse.
+On raidit bien le palan, et l'on fait avec le reste deux bridures, dont une sur la plate-bande de culasse, et l'autre sur la volée.
+Lorsque les roulis sont considérables, on joint à ces précautions celle de clouer sur le pont, sous les roues de l'arrière de l'affût, un cabrion, qui est un morceau de bois taillé en biseau.
+On pourrait même en clouer un autre sous les roues de l'avant.
+Amarrage le long du bord, dit en vache.
+Cet amarrage est usité soit pour avoir plus de place à bord, soit pour adoucir les roulis du navire.
+Amarrage au grelin.
+Cet amarrage est usité lorsque le canon étant à la serre, on craint que les amarrages précédens, ou les boucles et les crocs, ne puissent pas résister aux secousses du navire.
+Amarrage par la fausse brague.
+Cet amarrage est usité quand le bâtiment est vieux, ou lorsque l'on craint que la muraille n'éprouve trop de fatigue, par les secousses que pourraient donner les batteries à la serre, lorsque les cordages ont pris du jeu.
+L'amarrage se fait d'ailleurs comme dans l'autre manière de mettre à la serre.
+Amarrage aux chevrons de retraite.
+Cet amarrage a le même but que le précédent, et il fatigue moins le navire que la fausse brague.
+Amarrage par la queue des flasques.
+Cet amarrage est préférable à l'amarrage à la serre, indiqué précédemment, lorsque les canons ont un anneau de brague sur la culasse.
+On raidit chaque palan de côté, on passe ensuite un tour de garant sur la queue des flasques, et deux au croc.
+Il faut éviter que les tours de garant passés à la queue des flasques, ne frottent contre les roues.
+Observation générale.
+Si un canon de gros calibre se démarre et obéit au roulis, il ne faut pas briser les roues; on jette sur son passage quelque sacs à valets.
+Quatre hommes saisissent un levier chacun, et ils engagent le sifflet sous les roues, ce qui donne le temps de saisir le canon avec des cordages pour le ramener à bord.
+Amarrage des caronades.
+On maintient les caronades à brague fixe, en raidissant leurs bragues et en contenant leurs affûts par des aiguillettes passées dans les pitons de derrière du châssis, et dans les boucles fixées sur le pont.
+Pointage au tir.
+La ligne qui joindrait le point le plus élevé de la plate-bande de culasse avec le point le plus élevé du bourrelet, et qu'on peut imaginer prolongée indéfiniment au-delà de la volée, est ce qu'on appelle la ligne de mire.
+C'est celle par laquelle le canonnier vise pour pointer, c'est-à-dire pour donner à la pièce la direction qu'il juge convenable pour atteindre le but.
+La ligne passant par le milieu de l'âme, c'est-à-dire son axe, qui est en même temps l'axe de la pièce, et qu'on peut imaginer prolongée indéfiniment au-delà de la bouche, est ce qu'on appelle la ligne de tir.
+C'est celle que suit sensiblement le boulet à son départ, et qu'il suivrait indéfiniment s'il pouvait se mouvoir en ligne droite.
+Ce qui précède doit faire concevoir comment il arrive que le boulet, qui était d'abord au-dessus de la ligne de mire, est bientôt au-dessous.
+C'est pour exprimer cette circonstance du tir, que le canonnier dit: qu'en partant, le coup relève.
+Chacun a pu remarquer qu'une pierre lancée dans l'espace ne se mouvait pas en ligne droite, mais qu'elle décrivait une courbe très-sensible à l'oeil.
+Toutefois on a dû observer que la courbure de la ligne suivie par la pierre était d'autant moins grande que la pierre avait été lancée avec plus de force ou de vitesse.
+Cette courbure est due à l'action de la pesanteur, qui tend à rapprocher tous les corps du centre de la terre, et qui les en rapproche effectivement quand ils ne sont pas supportés ou suspendus.
+Cette courbe décrite par le boulet se nomme trajectoire.
+Ces deux points portent l'un et l'autre le nom de but-en-blanc.
+Nous avons dit que la ligne de tir et la ligne de mire se coupaient à une certaine distance de la bouche du canon.
+L'ouverture de ces lignes, ou l'inclinaison de l'une à l'égard de l'autre, est ce qu'on appelle l'angle de mire.
+On voit que la grandeur de cet angle dépend de la différence de grosseur et de diamètre de la culasse et de la volée du canon, ainsi que de sa longueur.
+On appelle portée d'une pièce, la distance à laquelle elle peut chasser son projectile.
+Cette inclinaison de l'axe avec l'horizon est ce qu'on appelle l'angle de projection.
+On concevra facilement que plus cet angle sera grand, toutes choses étant égales d'ailleurs, plus la portée sera étendue, et réciproquement.
+Toutefois ce n'est vrai que dans de certaines limites; car si l'angle de projection était plus grand qu'un demi-angle droit, le contraire aurait lieu; la portée recommence même à diminuer passé quarante-deux°-un/trois pour les canons, et vingt-huit° pour les fusils.
+Il faut diriger la ligne de mire par dessous, dans le cas contraire, à moins pourtant que ce point ne soit très-rapproché du premier but-en-blanc, auquel cas il faudrait encore pointer en dessus.
+La distance de ce premier but-en-blanc varie, ainsi qu'on l'a déjà dit, de quinze à vingt-cinq pieds.
+L'angle de mire est d'environ un°-un/deux pour les canons, et trois°-un/deux pour les caronades.
+Les mêmes distances sont plus petites d'un tiers à peu près si les pièces sont chargées avec des boulets ramés, et de moitié si elles sont chargées avec des mitrailles.
+La difficulté du tir consiste à déterminer de combien la ligne de mire doit être plus élevée que le point qu'on veut battre, quand celui-ci est plus éloigné que le but-en-blanc, ou de combien elle doit être plus basse dans le cas contraire.
+Par ce moyen, il suffira qu'on fasse connaître, dans les batteries, la distance où se trouve l'ennemi, et s'il faut tirer soit à couler bas, soit aux gaillards, ou à démâter.
+Dans chaque planche la flèche ou le zéro indique la hauteur où il faut atteindre le bâtiment, et celle où il sera frappé si, étant à la distance du but-en-blanc on vise à cette hauteur.
+Le chiffre placé sur l'échelle, à la hauteur du zéro, indique cette distance en encâblures, pour chaque calibre et dans chaque espèce de pièces en usage dans la marine.
+Les exemples précédens ne s'appliquent qu'au cas où l'on tire avec des boulets ronds; mais de semblables échelles ont été dressées pour les boulets ramés et pour les grappes de raisin ou mitrailles.
+Toutefois ces dernières échelles n'indiquent pas les distances au-delà de deux encâblures pour les mitrailles, parce que, passé ces distances, le tir de ces projectiles est trop incertain pour qu'on doive en faire usage.
+Si le vaisseau était toujours parfaitement tranquille, et le pont parfaitement de niveau, on aurait marqué sur la plate-bande de culasse et sur le bourrelet, les deux points qui déterminent, dans tous les cas, la ligne de mire; mais il n'en est point ainsi.
+Le tangage est cause que les points les plus élevés de la culasse et de la volée changent à tous momens, ce qui rend le pointage beaucoup plus difficile.
+Le roulis fait aussi changer à chaque instant l'angle que l'axe de la pièce fait avec l'horizon; d'où il suit qu'on ne peut réellement pointer les pièces sur les points indiqués par les planches un, deux et trois, au moment où l'on doit faire feu.
+On appelle ricochets, les sauts et les bonds que fait un boulet pendant sa course lorsqu'à terre il vient à rencontrer le sol, et à la mer la surface des eaux; il n'est pas de marin qui n'ait été à même de remarquer cet effet.
+On comprend facilement que l'angle de chute d'un projectile étant toujours plus grand que celui de projection, et que chaque angle de réflexion étant à-peu-près égal à celui de chute, les derniers ricochets doivent être plus élevés que les premiers.
+Quand il y a des mouvemens fréquens d'aulofée et d'arrivée, on doit pointer dans une direction moyenne à ces mouvemens, et saisir le moment favorable pour faire feu.
+Un tir oblique est susceptible de causer un surcroît de fatigue aux boucles et aux crocs; cependant il n'altère pas la justesse du coup, et on ne doit pas hésiter à s'en servir dans l'occasion.
+Si par l'effet de la marche du navire, ou d'une évolution, on peut prévoir que le vaisseau ennemi cessera bientôt d'être dans une direction convenable, il faut accélérer un peu le feu pour ne pas perdre une occasion de lui nuire.
+Du but-en-blanc.
+Cette courbe serait une parabole, si l'élasticité et la ténacité de l'air n'opposaient de la résistance au mobile.
+Par la construction des armes en général, la ligne de tir et celle de mire forment entre elles, au-delà de la bouche, un angle plus ou moins ouvert, suivant l'épaisseur à la culasse et celle à l'extrémité opposée.
+Ce second point d'intersection est ce qu'on appelle le but-en-blanc; il est plus ou moins éloigné de l'extrémité de l'arme, selon le nombre de degrés de l'angle sur lequel on tire.
+ Hulot, instruction sur l'artillerie.
+Les projectiles de différentes espèces n'ont pas une même portée, quoique tirés avec la même pièce et dans les circonstances semblables; la mitraille va moins loin, toutes choses d'ailleurs égales, que le boulet.
+Quant au boulet ramé, les expériences prouvent que sa portée est à-peu-près un terme moyen entre celles du boulet et de la mitraille.
+En conséquence, chacune de ces trois espèces de projectiles a un but-en-blanc très-distinct, dont la distance varie encore beaucoup, si l'on tire avec plusieurs projectiles à la fois.
+On ne peut donc indiquer un seul but-en-blanc aux canonniers pour chaque arme.
+TABLE donnée dans les règles de pointage du capitaine MONTGÉRY.
++=================+==============+===================================+ Canons de trente-six }                  |                 | Caronade de trente-six }                  |                 | Cette différence considérable qui existe entre ces deux tables provient probablement de la différence des pièces avec lesquelles ont été faites les expériences.
+On doit donc accorder plus de confiance à celle du tableau de mille huit cent trente-quatre, puisqu'on a dû se servir des pièces plus récemment en usage.
+Pour y remédier on a imaginé d'appliquer à la volée un morceau de bois ou de métal, appelé fronteau de mire, gradué pour les distances de un à quatre encâblures.
+Du Pointage et du Tir.
+Mais tous ces moyens, réels en théorie, ont offert dans la pratique des inconvéniens si graves, qu'ils ont été abandonnés presque aussitôt mis en usage.
+Les échelles données par l'instruction de mille huit cent trente-quatre ont présenté un résultat plus avantageux sans doute, mais non encore exempt d'inconvéniens nombreux.
+Le montant mobile est gradué sur ses faces avant et arrière de un/deux à six encâblures pour les charges au tiers et au quart; une vis de pression le rend immobile, lorsque le chef de pièce l'a mis à la hauteur convenable.
+Par là on diminue la distance du but-en-blanc, parce que la ligne de mire s'écartant moins dans le principe de la trajectoire, en est plus promptement rencontrée une seconde fois.
+Les expériences faites avec ces hausses ont donné les résultats les plus avantageux; sur cent boulets lancés de deux à trois encâblures, plus de la moitié auraient porté dans la coque d'un navire ayant dix pieds d'oeuvres-mortes, l'autre moitié n'aurait pas dépassé la grande hune.
+Manoeuvres de Force relatives au Canonnage.
+Embarquement et débarquement d'un affût.
+Au lieu d'un ponton, on peut employer la chaloupe mâtée du bâtiment, ou le palan de bout de vergue.
+Embarquement d'un canon.
+On accroche à la boucle que forment les doubles de l'élingue en dehors de l'aiguilletage, la caliorne frappée à la vergue, et dont le courant du garant est dirigé et enroulé au cabestan.
+On hale sur le garant de ce palan; et avec ces moyens on appelle et on place la pièce sur son affût, que l'on présente au sabord.
+On peut en outre frapper une estrope sur la volée pour y crocher le palan de la candelette, ce qui donne un surcroît de force et un moyen de direction.
+On peut aussi enlever le croissant de l'affût pour rapprocher celui-ci du bord.
+L'affût est préalablement amarré au sabord, ou bien on en cale les roues, suivant les cas, pour l'empêcher de bouger.
+Il est préférable que l'estrope de la poulie inférieure de la caliorne soit à oeillet, parce qu'après l'avoir passée dans l'élingue de la pièce on y introduit un burin pour la retenir contre celle-ci; le burin détériore moins le cordage qu'un croc.
+Débarquement d'un canon.
+On dépasse la brague, si elle se trouve par-dessus la culasse, on retient l'affût au bord, ou l'on en cale les roues; et dans un ordre inverse de celui de l'embarquement, mais à l'aide des mêmes procédés, on opère le débarquement du canon.
+Si le bâtiment est désarmé ou démâté, on le conduit sous une grue, ou bien l'on se sert de mâts de charge, de bigues ou de cabres.
+Changement d'affût d'un canon à bord.
+Il y a plusieurs moyens d'exécuter cette manoeuvre; ils vont être indiqués afin qu'on puisse employer le plus avantageux, relativement aux attirails dont on est pourvu et à la position des canons.
+Premier moyen.
+Par la machine dite à monter et à démonter les canons, et formée de deux civières à canon, garnies chacune de deux poulies simples, proportionnées à la grosseur des itagues, et dont les caisses ont le moins de longueur possible.
+Deux estropes garnies de même, et quatre itagues proportionnées aux calibres des canons, ayant un bout garni d'une cosse, et l'autre en queue de rat.
+On se sert de deux boucles placées au barrot, l'une à environ trois pieds, et l'autre à neuf.
+On saisit le canon à la volée et à la culasse avec les deux civières qui doivent faire tour mort autour du canon; les poulies simples, dont chacune est garnie, doivent se présenter de chaque côté de la pièce et à égale hauteur.
+On passe chaque itague dans une poulie de l'estrope de la boucle, puis dans celle correspondante de la civière; et l'on ramène son bout pour le fixer par un dormant à la boucle.
+Les palans de devant sont dirigés à droite et à gauche de la pièce, perpendiculairement à son axe, et ceux de derrière le sont en éventail en arrière du canon.
+On ôte les sus-bandes, et au commandement ferme! les hommes agissent ensemble pour élever la pièce jusqu'à ce qu'on puisse ôter l'affût.
+Ce moyen exige deux équipages de canon, mais il est sûr et il convient dans les gros temps.
+Deuxième moyen.
+Sans machine.
+A mesure qu'il s'élève, on embraque le cordage sous le collet du bouton, et dès qu'il est assez élevé, on fait une quantité de tours suffisans pour en supporter le poids pendant qu'on change l'affût.
+Troisième moyen.
+Lorsque l'affût à changer est sous les passe-avants ou sur les gaillards, on transporte la pièce sous les caliornes ou candelettes du vaisseau, et à leur aide on enlève et on replace le canon.
+Quatrième moyen.
+On place ensuite les roues de l'affût, et on le conduit au sabord.
+Jeter les canons à la mer.
+Cette opération a lieu lorsque le vaisseau est vieux, délié, que l'artillerie le fatigue beaucoup, ou que le temps est très-mauvais.
+En embarquant l'artillerie, on doit avoir soin de la répartir d'une manière uniforme en allant du centre aux extrémités, pour ne pas fatiguer le bâtiment.
+Le poids de chaque pièce étant connu, on doit aussi le répartir de manière que la somme des poids soit la même pour les deux bords.
+Mise hors de Service, Enclouage et Désenclouage des Bouches à feu.
+Le meilleur moyen de mettre les bouches à feu hors de service, consiste à leur casser un tourillon; mais ce moyen serait, sinon impossible, au moins bien difficile pour les pièces en bronze.
+Quant aux canons en fer coulé, on en détache assez facilement un tourillon en le frappant fortement à faux, principalement sur l'arête, et toujours dans le même sens, avec une masse ou un fort marteau.
+Il faut, après chaque coup, maintenir la masse sur le point frappé.
+S'il s'agit d'évacuer un arsenal, et qu'il y ait des pièces en bronze rangées sur les chantiers, on allume sous ces pièces un bon feu de charbon, et quand elles sont chaudes, on les frappe fortement sur la volée pour les faire plier.
+On peut encore chauffer fortement un tourillon et essayer de le casser, ou au moins de le faire plier en le frappant.
+On tire aussi quelquefois les pièces en bronze avec une forte charge de poudre, en remplaçant le projectile par des fragmens de boulets à arêtes vives, lesquels produisent des éraflemens qui dégradent promptement l'âme.
+Cette mèche lente peut être faite avec un morceau d'amadou de quinze lignes de longueur et traversant un morceau de papier qui couvre l'amorce.
+On fait éclater une bombe ou un obus bien éclissé dans un mortier, ou dans un obusier, pour le mettre hors de service.
+A défaut des moyens ci-dessus, on encloue les pièces; pour y parvenir, on emploie des vis en acier trempé; après les avoir enfoncées le plus possible, on les casse au ras de la pièce.
+Quand on n'a pas de vis, on enfonce dans la lumière un clou carré d'acier, dont les arêtes ont été entaillées de différentes coches, ayant leur ouverture tournée vers le gros bout.
+Ces clous doivent être trempés et avoir leur pointe recuite pour pouvoir être rivés en dedans.
+Après les avoir enfoncés à grands coups de marteau, on casse l'excédant de ces clous en dehors.
+On met au fond de la pièce de la terre glaise, et quelquefois par-dessus un cylindre de bois dur qui ne doit pouvoir entrer qu'avec beaucoup d'efforts.
+Dans tous les cas, on place par-dessus un boulet de calibre enveloppé de feutre ou de plomb, et enfoncé avec beaucoup de force.
+Dans un moment pressé, on peut se contenter d'introduire dans l'âme un boulet ainsi forcé.
+S'il s'agit au contraire de désenclouer les pièces, voici comment on peut y parvenir.
+On bourre le canon avec des bouchons de vieilles cordes, bien refoulés avec un levier ou un anspect, et l'on met le feu à l'étoupille.
+Il faut souvent plusieurs coups pour faire sauter le clou.
+Si le clou qui est dans la lumière est vissé, il faut s'assurer s'il ne serait pas en fer ou en acier pur trempé, parce qu'avec un petit burin en bon acier on pourrait peut-être fendre sa tige, et le retirer avec un tournevis.
+Il convient encore, lorsque tout autre moyen a échoué, de gratter un peu le métal de la pièce autour du clou, d'y faire un petit godet en cire, et d'emplir ce godet d'acide nitrique ou d'acide sulfurique, qu'on renouvelle de temps en temps.
+Il arrive quelquefois que l'acide s'introduit par l'effet de la capillarité entre le clou et la pièce, et qu'il ronge le métal, au point qu'il est facile de faire sauter le clou avec une charge de poudre assez faible.
+Si les obstacles qui se trouvaient dans l'âme n'ont pu être enlevés immédiatement, on perce une nouvelle lumière à côté de la première, on introduit un peu de poudre par cette lumière, et l'on fait sauter les obstacles en enflammant cette poudre.
+Des Soutes à Poudre.
+On appelle ainsi le lieu où on enferme les poudres à bord.
+La place occupée par les soutes à poudre varie suivant le rang des navires.
+Les vaisseaux et frégates en ont deux, l'une appelée grande soute, située de l'arrière de la cale au vin, et la seconde sur l'avant du magasin général.
+Dans la construction, le plancher inférieur des soutes est élevé de quelques pieds au-dessus de la carlingue, afin que l'eau ne puisse l'atteindre dans les circonstances ordinaires.
+Les cloisons avant et arrière sont formées par deux rangs de bordages, dont l'intervalle est rempli par une maçonnerie, pour résister autant que possible à l'action du feu.
+Pour noyer les poudres en cas d'incendie, lorsqu'on craint de ne pouvoir s'en rendre maître, on ouvre les robinets placés en abord et renfermés dans des caisses en chêne, doublées en plomb, dont la clef est entre les mains du second du bâtiment.
+Les soutes sont éclairées par un ou deux fanaux, suivant leurs dimensions, placés à l'extérieur de la cloison avant ou arrière.
+Deux fortes glaces encastrées dans la cloison laissent passer la lumière et isolent le fanal de la soute.
+Le long des cloisons on pratique des armoires, dont les portes sont à caille-botis ou à grillage en fil de laiton, pour laisser circuler l'air, dans lesquelles on range sur des étagères, et par calibre, les gargousses pleines ou l'apprêtée.
+La poudre en baril est arrimée bâbord et tribord dans la soute.
+Dans le lieu le plus éclairé de la soute on place l'auge ou pétrin, pour confectionner les gargousses.
+C'est dans ce pétrin qu'on vide la poudre contenue dans les barils, puis des canonniers munis d'une mesure la remplissent exactement et la versent dans une gargousse dont on amarre le collet.
+Chaque calibre a sa mesure particulière.
+L'apprêtée faite avant le départ du port, doit être au moins du tiers de la poudre embarquée.
+L'adoption des caisses en cuivre a changé la disposition des soutes et simplifié le service des poudres.
+Ces caisses, qui sont de différentes dimensions pour chaque calibre, ne sont pas à couvercle, mais à calotte vissée sur la face supérieure au moyen d'une clef mobile.
+Elles sont de forme quadrangulaire légèrement coupée sur les angles, et sont garnies d'anses.
+Sur le couvercle on indique, en grosses lettres, l'espèce de bouche à feu, son calibre, et l'espèce de charge.
+Les soutes sont alors divisées en compartimens propres à recevoir les caisses placées les unes à côté des autres, mais sur un seul rang.
+L'apprêtée faite à terre est envoyée à bord dans les caisses qui sont immédiatement arrimées par calibre, et par espèce de charge; c'est-à-dire que le trente-six charge au tiers, est séparé du trente-six charge au quart, et ainsi pour les autres calibres.
+Pour que les hommes chargés du passage des gargousses ne puissent pas se tromper, quoique chaque caisse porte sur son couvercle l'indication du calibre et l'espèce de charge, chaque compartiment porte encore un écriteau qui indique le calibre, l'espèce de charge et leur nombre.
+De cette manière chaque calibre a un passage particulier, ce qui évite la confusion.
+Les gargoussiers vides, avant d'être envoyés dans les soutes, sont secoués dans une baille pleine d'eau, placée dans l'entre-pont à côté de la manche par où ils se rendent des batteries.
+Il suffit, dans chaque soute, de deux hommes par calibre, plus un novice ou un mousse pour ramasser les gargoussiers vides et les remettre à l'homme chargé d'y poser la gargousse.
+On dépose aussi dans les soutes à poudre, les boîtes à cartouches pour fusils et pistolets, ainsi que les barils à bourse pour l'approvisionnement des hunes et des embarcations.
+Description de la Hausse Marine.
+Ce système de hausse se compose de deux pièces principales: la masse de mire, la hausse.
+La masse de mire est une pièce de fer ou de cuivre bronze, placée vers l'extrémité supérieure du renfort, et fixée à la bouche à feu par deux boulons à vis.
+La partie supérieure est arrondie par un arc de cercle dont le centre est pris sur l'axe de la bouche à feu.
+La hausse est composée de deux pièces, la boîte, le curseur.
+La boîte est en cuivre, elle est fixée par trois petits boulons à la culasse de la bouche à feu; c'est dans cette boîte que glisse le curseur.
+Une vis la maintient à différentes hauteurs.
+Pour faire tourner cette vis, on se sert de clef, et pour que le chef de pièce en fasse usage à volonté, elle tient au cabillot placé au bout du cordon du percuteur.
+Le curseur en fer forgé est composé d'une tige carrée et d'un chapeau; le dessus du chapeau est terminé par un arc de même rayon que celui de la masse de mire.
+Deux faces de la tige sont divisées chacune par six profondes rainures horizontales.
+La face qui est du côté du bouton est divisée pour la charge au quart, celle opposée pour la charge au tiers.
+Pointage au moyen de cette Hausse.
+Pour pointer le canon à bout portant, on place la tête du curseur sur la boîte; à deux cents mètres, il suffit d'élever le curseur de manière que la première rainure soit à la hauteur de la boîte.
+A quatre cents mètres, on place le curseur à la deuxième division, et ainsi de suite jusqu'à la sixième qui est la hauteur à donner pour obtenir la portée de un virgule deux mètres.
+Installation du système de Hausse.
+Si la masse de mire se trouvait trop haute, il faudrait la limer; si elle était trop basse, on l'élèverait en mettant une cale entre elle et la pièce.
+2º Qu'un plan vertical, passant par le centre du curseur et par le milieu de la masse de mire, passe aussi par l'axe de la bouche à feu, lorsque les tourillons sont placés horizontalement.
+3º Il faut que la distance du milieu du curseur au milieu de la masse de mire soit exactement celle portée pour chaque pièce dans le tableau ci-joint.
+Ce tableau contient aussi les hauteurs à donner aux divisions des hausses, pour toutes les bouches à feu de la marine.
+Quand les canons ont des anneaux de brague, la boîte des hausses est attachée à la partie inférieure par un boulon qui traverse cet anneau, comme on le voit pour les caronades.
+Le dessus du chapeau et de la masse de mire sont peints en bandes noires et blanches, afin de guider le canonnier pour le rayon visuel.
+TABLEAU faisant connaître les distances entre les masses de mire et les hausses, ainsi que les graduations de ces dernières.
++================+======================+============+=======+ +================+===================================================+  Observations.
+Canon-obusier de quatre-vingts.--La nouvelle masse de mire ne TABLE servant à déterminer la distance d'un Bâtiment à un autre, au moyen de la hauteur angulaire des mâts.
++====================================================================+ Avertissement.
+                              cinq CHAPITRE Ier.
+Du navire.
+                                  sept Du gouvernail.
+                             douze Appareillages.
+                             quinze Appareiller, le navire évité le bout au Appareiller, le navire évité le bout au Appareiller, en faisant embossure.
+         trente-deux Manoeuvrer les voiles de mauvais temps.
+Prendre des ris aux huniers.
+               trente-cinq Carguer un hunier de mauvais temps.
+        trente-neuf Prendre le ris aux basses voiles.
+          quarante et un Carguer une basse voile de mauvais temps.
+  quarante-trois Des Viremens de bord.
+Virer de bord, vent devant, en gagnant Observations.
+                              quarante-six Virer de bord, vent devant, le plus Virer de bord, vent arrière.
+               cinquante-trois Observations.
+                              cinquante-quatre Virer de bord, vent arrière, en masquant.
+  cinquante-six De la Panne.
+Mettre en panne, vent dessus, vent dedans.
+ cinquante-huit Observations.
+                              cinquante-neuf Mettre en panne, sous toutes les voiles Faire servir, lorsqu'on est en panne, le Faire servir, lorsqu'on est en panne, le Faire servir, lorsqu'on est en panne, Observations.
+                              id Sonder.
+Sonder de beau temps.
+                      soixante-six Sonder de mauvais temps.
+                   soixante-huit Observations.
+                              soixante-neuf De la Cape.
+Des différentes espèces de cape.
+           soixante-dix Observations.
+                              soixante-quinze Arriver, ou virer, lorsqu'on est à la Mouillages.
+Mouiller de beau temps.
+                    quatre-vingt-trois Mouiller de mauvais temps.
+                 quatre-vingt-cinq Mouiller avec embossure.
+                   quatre-vingt-sept Observations.
+                              quatre-vingt-huit Affourcher à la voile.
+                     quatre-vingt-neuf Observations.
+                              quatre-vingt-onze Des Abordages.
+Aborder au vent, lorsqu'on est au plus Aborder sous le vent, lorsqu'on court Aborder sur l'avant, lorsqu'on court au Aborder en courant largue.
+                 quatre-vingt-dix-huit Aborder à l'ancre.
+                         quatre-vingt-dix-neuf De la Chasse.
+Chasser au vent.
+                          cent deux Chasser sous le vent.
+                     cent quatre De la Tactique Navale.
+                  cent six CHAPITRE Ier.
+Définition et nomenclature.
+               cent quatorze Des projectiles et de la charge.
+          cent vingt-neuf Remarques.
+                                cent trente-quatre Emplacement des canons et de leurs Remarques.
+                                cent quarante-six Exercice du canon d'un bord et par Exercice de la caronade d'un bord et Exercice du canon obusier.
+                cent quatre-vingt-sept Exercice des deux bords et à volonté.
+     cent quatre-vingt-treize Remarques.
+                                deux cent sept Noeuds, Amarrages, etc., appliqués au Canonnage.
+                             deux cent onze Brague.
+                                   deux cent douze Bridure.
+                                   id Brin.
+                                     deux cent treize Civière.
+                                   id Coiffe d'écouvillon.
+                       id Croupière.
+                                 id Elingue.
+                                   id Epissure.
+                                 deux cent quatorze Estrope.
+                                   id Estrope de culasse.
+                        id Faubert.
+                                  deux cent quinze Fourrer un cordage.
+                        id Garant.
+                                    id Garcette.
+                                 deux cent seize Garnir une brague.
+                         id Hampe de corde.
+                            id Itague.
+                                    id Ligne d'amarrage.
+                         deux cent dix-sept Lusin.
+                                     id Machine à démonter les canons.
+             id Mèches.
+                                   deux cent dix-huit Merlin.
+                                    id Noeuds.
+                                    id Palans de côté et de retraite.
+            deux cent dix-huit Palanquin.
+                                deux cent dix-neuf Quarantainier.
+                             id Queue de rat.
+                              id Raban de sabord.
+                           id Raban de retenue.
+                         deux cent vingt Raban de volée.
+                            id Surliure.
+                                  id Valet.
+                                     id Différentes manières d'amarrer les Canons à bord.
+Amarrage à garans simples.
+                deux cent vingt-deux Amarrage à garans doublés.
+                deux cent vingt-trois Amarrage à la serre.
+                      deux cent vingt-quatre Amarrage le long du bord, dit en vache.
+   deux cent vingt-six Amarrage au grelin.
+                        id Amarrage par la fausse brague.
+            deux cent vingt-sept Amarrage aux chevrons de retraite.
+        deux cent vingt-huit Amarrage par la queue des flasques.
+        id Observation générale.
+                     deux cent vingt-neuf Amarrages de caronades.
+                    id Pointage au tir.
+                          deux cent trente Remarques; du but-en-blanc.
+               deux cent quarante-six Du pointage et du tir.
+                    deux cent cinquante-deux Manoeuvres de Force relatives au Canonnage.
+Embarquement et débarquement d'un Embarquement d'un canon.
+                   id Débarquement d'un canon.
+                  deux cent cinquante-huit Changement d'affût d'un canon à bord.
+     deux cent cinquante-neuf Premier moyen.
+                             id Deuxième moyen.
+                           deux cent soixante et un Troisième moyen.
+                           id Quatrième moyen.
+                          deux cent soixante-deux Jeter les canons à la mer.
+                deux cent soixante-trois Remarques.
+                                deux cent soixante-quatre Mise hors de service; enclouage et désenclouage Des soutes à poudre.
+                      deux cent soixante-neuf Description de la Hausse Marine.
+        deux cent soixante-treize Bar-s.-Seine.--Imp.
+de SAILLARD.
+au lieu de lisez: dix-sept        deux           ancre à jas,               ancre à jet.
+      huit              id.
+                       id.
+     onze              id.
+                       id.
+     dix-sept              id.
+                       id.
+dix-huit        quatre              id.
+                       id.
+dix-neuf       onze              id.
+                       id.
+     treize              id.
+                       id.
+vingt        quatre              id.
+                       id.
+trente et un        deux              id.
+                       id.
+soixante et un       onze           lorsqu'on mettra,           lorsque mettant.
+quatre-vingt-quatre        cinq           si on vient largue après,   si on vient largue, quatre-vingt-cinq        neuf           en le masquant,             en les, etc., etc.
+cent seize   dern.
+du tabl.
+  treize neuf-un/deux                    trois neuf-un/deux cent dix-sept        trois           le stourillons,             les tourillons.
+cent vingt-quatre        neuf           le lanon,                   le canon.
+Note sur la transcription: Ce volume fait référence à des figures (fig.
+un en p.
+cent dix-sept, fig.
+deux en p.
+cent dix-huit, fig.
+trois en p.
+cent dix-neuf, fig.
+quatre en p.
+cent vingt et un et figure cinq en p.
+deux cent trente-quatre).
+Malgré des recherches sérieuses et étendues, aucune édition trouvée ne comprend ces illustrations, ce qui fait supposer que l'imprimeur a oublié de les inclure.
+Les errata mentionnés dans le livre à la dernière page ont été appliqués.
+Quelques points ont été rajoutés dans les listes et tableaux afin d'harmoniser avec le reste des éléments.
+Faute de place en largeur, certaines tables ont été modifiées: Ce livre comprend de possibles erreurs de syntaxe comme l'utilisation de «surjoaler» et «surjoualer» à la place de «surjaler».
+Celles-ci n'ont généralement pas été corrigées.
+A l'exception des corrections suivantes et des erreurs clairement introduites par le typographe, l'orthographe d'origine a été conservée et n'a pas été harmonisée:

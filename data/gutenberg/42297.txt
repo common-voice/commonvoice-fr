@@ -1,0 +1,1064 @@
+mille huit cent cinquante-huit Nous allons essayer de faire connaître quelques-uns des procédés mis en usage afin de permettre à des personnes séparées par des distances souvent considérables, de communiquer entre elles, en recouvrant ces communications du voile du mystère.
+Ces procédés forment une véritable science qui a reçu, comme tant d'autres, un nom tiré du grec.
+La Cryptographie ou Stéganographie est l'art d'écrire de façon à dérober à autrui la connaissance de ce qu'on a tracé.
+On peut s'efforcer de dissimuler l'existence de l'écrit.
+On emploie, en ce but, les encres du sympathie dont nous parlerons plus tard, ou bien l'on tâche de cacher soigneusement le papier auquel on a confié son secret.
+Mais plus habituellement on a recours aux divers procédés en usage afin de jeter, sur une dépêche qui peut tomber dans des mains indiscrètes, un voile qu'on fait de son mieux pour rendre impénétrable.
+Pour atteindre ce but: On abrège les mots d'après un système convenu (c'est la Brachygraphie ou Sténographie).
+On emploie des mots et des phrases, auxquels on convient de donner un sens tout autre que celui qu'on y attache dans le cours ordinaire des choses.
+Il a donc fallu recourir à des moyens destinés à voiler le sens des avis qu'on voulait transmettre.
+De là l'origine de l'écriture en chiffres.
+De même que tous les arts, celui-ci débute par des essais naïfs et incomplets.
+Les écrivains de l'antiquité en ont conservé le souvenir.
+§ Ier.
+ De la Cryptographie chez les peuples de l'antiquité.
+Hérodote nous fait connaître divers procédés un peu primitifs auxquels eurent recours, faute de mieux, certains personnages plus ou moins célèbres dans les annales de ces temps reculés.
+C'est d'abord un esclave dont on rase la tête, et sur la peau nue de son crâne on trace quelques mots laconiques, mais d'un grand sens.
+On laisse aux cheveux le temps de repousser, et on expédie cette épître d'un nouveau genre à l'ami qu'il s'agit d'instruire de choses importantes.
+Les perruques n'avaient point été inventées à cette époque; elles auraient été d'une grande utilité en pareille circonstance.
+Il va sans dire qu'un pareil procédé n'est point susceptible d'une application fréquente.
+L'ayant ensuite recousu, il le remit à celui de ses domestiques en qui il avait le plus de confiance, et lui ordonna de le porter à Cyrus, et de lui dire, en le lui présentant, de l'ouvrir lui-même et sans témoins.»  La scytale des Lacédémoniens.
+Le gouvernement de Sparte transmettait ses ordres à ses généraux au moyen d'une espèce de courroie.
+Ensuite on n'avait qu'à reprendre la seconde ligne d'en bas, puis la sixième, la dixième, la quatorzième, et ainsi de suite.
+Tout cela est aisé à voir, en considérant qu'une ligne écrite sur le rouleau devait être formée par des lignes partielles également distantes les unes des autres.
+Un autre Lacédémonien, réfugié auprès du monarque de l'Asie, trouva dans son patriotisme les moyens de transmettre à Sparte un avis de la plus haute importance.
+C'est encore l'historien que nous avons déjà nommé qui va nous raconter ce fait.
+Laissons parler Hérodote: «Xerxès s'étant déterminé à faire la guerre aux Grecs, Démocrate, qui était à Suse, et qui fut informé de ses desseins, voulut en faire part aux Lacédémoniens.
+Mais, comme les moyens lui manquaient, parce qu'il était à craindre qu'on ne le découvrit, il imagina cet artifice.
+Il prit des tablettes doubles, en ratissa la cire, et écrivit ensuite sur le bois de ces tablettes les projets du roi.
+Après cela, il couvrit de cire les lettres, afin que, ces tablettes n'étant point écrites, il ne pût arriver au porteur rien de fâcheux de la part de ceux qui gardaient les passages.
+L'envoyé de Démocrate les ayant rendues aux Lacédémoniens, ils ne purent d'abord former aucune conjecture; mais Gorgo, femme de Léonidas, imagina, dit-on, ce que ce pouvait être et leur apprit qu'en enlevant la cire ils trouveraient des caractères sur le bois.
+On suivit son conseil, et les caractères furent trouvés.
+Les Lacédémoniens lurent ces lettres et les envoyèrent ensuite au reste des Grecs.»  Autres systèmes cryptographiques connus des anciens.
+C'est de l'invention de Théophraste, non des plus spirituelles pour un si subtil philosophe, joint que cela a besoin de temps, et si la cicatrice y demeure empreinte tousjours.
+Et en un autre endroit de la quatrième Décade, Polycrate et Diognète enfermèrent un brief de plomb dans une tourte.
+Il y en a qui enferment leurs lettres dans un caillou artificiel faict de ceste sorte: On prend des cailloux de rivière qu'on faict calciner et réduire en poudre passée par un subtil tamis.
+César employait pour sa correspondance secrète une méthode que nous aurons occasion de faire connaître plus tard, et qui aujourd'hui n'arrêterait pas longtemps le plus novice des déchiffreurs.
+On a attribué à Tullius Tiron, affranchi de Cicéron, l'invention de la méthode d'écrire en notes tachygraphiques, et on leur a même donné le nom de Notes tironiennes; mais cet art était déjà connu des Grecs.
+Tiron a seulement le mérite très-réel d'avoir augmenté le nombre des signes et de les avoir distribués dans un meilleur ordre.
+Sa méthode, perfectionnée par Sénèque et d'autres, s'étendit dans tout l'empire.
+On s'en est servi pour les actes publics, en Allemagne, jusqu'à la fin du dixième siècle; la France y avait renoncé un peu plus tôt.
+C'est de là que les officiers publics chargés de la transcription des actes ont reçu le nom de notaires, qu'ils conservent encore.
+En cessant de faire usage des notes tironiennes, on en oublia la signification.
+Quelques savants ont entrepris à cet égard des travaux importants; citons surtout l'Alphabetum tironianum du bénédictin Dom Carpentier (Paris, mille sept cent quarante-sept, in-fol.); on peut recourir également au Nouveau Traité de diplomatique de D.
+Tassin et Thuilier, ainsi qu'au Dictionnaire diplomatique de Dom de Vaines.
+Un ouvrage de J.
+Nous copions cinq notes tironiennes prises au hasard; elles sont un échantillon fidèle de cette méthode sténographique.
+[Gl.] Clemens.
+Au neuvième siècle, Raban-Maur, archevêque de Mayence, a rapporté deux exemples d'un chiffre dont les Bénédictins font connaître la clef dans leur grand Traité de diplomatique.
+On mettra .Nc.p.t v[Pt.]rs[Pt.]s B::n.f:c..
+:rch.
+gl::r.::s.q[Pt.][Pt.] Dans le second exemple, on substitue à chaque voyelle la lettre suivante.
+Toutefois les consonnes b, f, k, p, x, qui, dans ce système, tiennent lieu de voyelles, conservent aussi leur valeur.
+ Le chiffre chez les modernes.
+Nous sommes peu disposé à ajouter foi à l'assertion d'un vieil historien, d'après lequel le fondateur plus ou moins fabuleux de la monarchie française aurait été versé dans les mystères de la Cryptographie.
+Divers auteurs composent sur pareil sujet de très-gros livres; des éditions multipliées attestent l'utilité de pareils écrits, et chacun s'efforce de découvrir les moyens de rendre impuissants tous les efforts des investigateurs.
+Au dix-septième siècle, les monarques, les ministres, les ambassadeurs, font constamment, du chiffre, un usage qui n'a cessé de s'étendre et de se perfectionner jusqu'à nos jours.
+La correspondance imprimée d'un érudit célèbre qui exerça d'importantes fonctions diplomatiques, H.
+Grotius, présente divers passages écrits en chiffres.
+Empruntons quelques lignes à une dépêche adressée au chancelier de Suède, Oxenstiern, dépêche qu'on lit dans l'édition d'Amsterdam (mille six cent quatre-vingt-sept, in-folio) des Epistolæ H.
+Je suis adverty que cinquante-trois, cinquante-deux, vingt et un, quatre-vingt-quatre, quarante-neuf, vingt-sept, cinquante-trois.....» Quelques chiffres sont surmontés d'un trait ou du deux points; des lettres grecques et divers signes employés par les chimistes et les astronomes se mêlent aux chiffres.
+L'éditeur a reproduit le tout, sans chercher à découvrir ce que cachait un voile qu'il aurait dû s'efforcer de soulever.
+Ce chiffre, composé de plus de cinquante signes, leur fut d'une grande utilité pendant les troubles de la Ligue et les guerres qui désolèrent alors l'Europe.
+Quelques-unes de ces dépêches ayant été interceptées, Henri quatre les remit à un géomètre habile, Viete, en le chargeant d'en trouver la clef.
+Le mathématicien y réussit, et il parvint même à saisir le chiffre dans toutes ses variations.
+La France profita pendant deux ans de cette découverte.
+La Cour d'Espagne, déconcertée, accusa le gouvernement français d'avoir à ses ordres des sorciers et de recourir au diable afin d'obtenir la révélation des secrets cryptographiques.
+Elle demanda que Viete fût jugé comme un négromant: elle porta ses plaintes à Rome.
+Une prétention aussi ridicule n'excita que le rire; le géomètre aurait pu cependant avoir des tracasseries sérieuses, s'il n'eût été, en cette affaire, soutenu par un puissant monarque; toute accusation de sorcellerie pouvait, en mille six cents, avoir des conséquences extrêmement graves.
+Cette réponse excita un mécontentement général, et l'envoyé du duc de Savoie s'écria: «N'avons-nous point parmi nous le nonce du Pape, et n'est-il pas certain que le Saint-Père a dans ses mains la clef qui lie et qui délie? (clavem ligandi et solvendi).
+Il était presque impossible que ce projet pût s'effectuer sans l'assentiment de l'Empereur d'Allemagne, suzerain du Corps germanique.
+Des négociations furent donc ouvertes à Vienne: elles s'y traînèrent des années entières; des difficultés nombreuses s'opposaient à l'accomplissement des voeux de l'Électeur.
+Son ministre auprès de la cour d'Autriche, le baron de Barthololi, se servait, pour sa correspondance, d'un chiffre dans lequel chaque lettre de l'alphabet était représentée par un nombre convenu; d'autres nombres exprimaient des noms de personnes ou de lieux.
+Cette nomenclature comprenait, entre autres personnages, un jésuite, le père Wolf, qui avait accompagné à Berlin l'ambassadeur d'Autriche, en qualité de chapelain, et qui se livrait avec activité à des intrigues politiques.
+Le nombre vingt-quatre signifiait l'Électeur, cent dix l'Empereur, cent seize le père Wolf.
+Barthololi écrivit, un jour, de Vienne, que, pour faire avancer l'affaire, il était indispensable que vingt-quatre (l'Électeur) adressât une lettre autographe à cent dix (l'Empereur).
+Le 0 de ce dernier nombre, étant tracé à la hâte, fut pris pour un six, et l'on en conclut à Berlin qu'il fallait que l'Électeur écrivît de sa main au père Wolf.
+Autre chapitre à joindre à la piquante histoire des très-petites causes qui amènent de grands événements.
+ Cartes mystérieuses de Monsieur de Vergennes.
+Sous le règne de Louis quinze et de Louis seize, l'écriture chiffrée devint de plus en plus l'indispensable auxiliaire de la diplomatie; les divers cabinets de l'Europe, engagés dans une interminable complication d'intrigues politiques, s'efforçaient mutuellement de se dérober leurs secrets.
+On enlevait les courriers, on corrompait à force d'or les employés des chancelleries.
+Afin de résister aux tentatives d'une curiosité aussi irritée, il fallut inventer des raffinements cryptographiques de plus en plus mystérieux.
+Le comte de Vergennes, ministre des affaires étrangères sous Louis XVI, faisait usage, dans ses relations avec les agents diplomatiques de la France, de procédés occultes, dont un Allemand, J.
+Opitz, avait, dit-on, été l'inventeur.
+Entrons à ce sujet dans quelques particularités: La couleur de la carte désignait la patrie de l'étranger.
+L'âge du porteur était exprimé par la forme de la carte.
+Si elle était circulaire, c'était l'indice qu'il avait moins de vingt-cinq ans; de vingt-cinq à trente, ovale; de trente à quarante-cinq, la carte était octogone; de quarante-cinq à cinquante, elle était hexagone; de cinquante-cinq à soixante, c'était un carré; au-dessus de soixante, un carré long.
+Deux lignes placées au-dessous du nom du porteur de la carte indiquaient sa taille.
+S'il était grand et maigre, les lignes étaient ondoyantes et parallèles; grand et gros, elles se rapprochaient l'une de l'autre; une stature moyenne et petite se trouvait signalée par des lignes droites ou courbes placées à des distances plus ou moins éloignées.
+L'expression de la physionomie était indiquée au moyen de la figure d'une fleur placée dans la bordure qui entourait la carte.
+Une rose désignait une physionomie ouverte et aimable, une tulipe exprimait un air pensif et distingué.
+Un ruban était entortillé autour de la bordure, et, selon qu'il descendait plus ou moins bas, il faisait savoir si le recommandé était célibataire, marié ou veuf.
+Des points placés également dans la bordure révélaient la position de fortune.
+La religion du personnage, qu'on signalait de la sorte, était indiquée au moyen d'un signe de ponctuation placé après son nom.
+S'il était catholique, on mettait un point; luthérien, un point et une virgule; calviniste, une virgule; juif, un trait d'union.
+S'il passait pour athée, on ne mettait aucun signe.
+Tout ceci est d'ailleurs raconté beaucoup plus longuement que nous ne devons le faire, dans une brochure devenue fort rare et imprimée en langue allemande vers mille sept cent quatre-vingt-treize.
+Elle a pour titre: «Correspondance de la police secrète du comte de Vergennes, ministre de l'infortuné roi Louis seize.»  La Cryptographie au dix-neuvième siècle.
+Les grands événements dont l'Europe a été le théâtre depuis une soixantaine d'années, ont fait sentir de plus en plus l'utilité de l'écriture chiffrée.
+Dans le cours des opérations militaires, les ordres, les dépêches, sont très-fréquemment interceptés; il peut en résulter les conséquences les plus graves.
+Quelques lettres de l'empereur Napoléon, écrites dans le cours de ses campagnes et publiées dans divers ouvrages historiques, montrent que deux chiffres, le grand et le petit, étaient en usage parmi les généraux français pour correspondre entre eux et avec l'état-major général.
+D'un autre côté, il est certain que beaucoup de dépêches importantes n'ont jamais été chiffrées.
+Si on avait eu la précaution de les mettre à l'abri sous un procédé cryptographique habilement choisi, elles n'auraient jamais figuré à la suite des récits d'un adversaire des armées françaises.
+Nul doute qu'à l'heure actuelle les diplomates n'aient encore, pour leurs communications les plus intimes et les plus secrètes, recours à l'art du chiffre.
+Nous ne saurions dire quels sont maintenant les systèmes qui obtiennent la préférence, mais nous pensons qu'ils ne s'imitent pas de ceux dont nos pères faisaient usage et qu'il nous reste à faire connaître.
+Il est difficile d'imaginer en ce genre quelque chose de mieux que ce qui a déjà été découvert.
+Nous avons à passer en revue les écrivains qui ont successivement exposé les mystères de la Cryptographie.
+§ Ier.
+ L'abbé Trithème.
+Le premier auteur qui ait traité ex professo et en détail l'art d'écrire en chiffres fut le célèbre Trithème, mort en mille cinq cent seize, abbé de Saint-Jacques à Wurtzbourg.
+Polygraphe actif, historien, biographe, auteur d'un grand nombre de livres ascétiques, il ne nous appartient que comme ayant mis au jour deux ouvrages, l'un sur la Polygraphie, l'autre sur la Stéganographie (Steganographia, hoc est, ars per occultam scripturam animi sui voluntatem absentibus aperiendi certa).
+La Polygraphie fut publiée pour la première fois à Oppenheim, en mille cinq cent dix-huit, deux ans après la mort de l'auteur; elle a souvent été réimprimée durant le siècle qui suivit sa mise au jour.
+Il en existe une traduction française par Gabriel de Collange, sous le titre de Polygraphie et universelle escriture cabalistique, avec la clavicule, etc.
+(Paris, mille cinq cent quarante et un.
+4º).
+Ce mot de Polygraphie ne doit point s'appliquer, comme d'usage, à des mélanges d'écrits de différents genres ou sur divers sujets: Trithème veut seulement enseigner à écrire un même mot, de plusieurs manières.
+Il donne des alphabets nouveaux, composés, soit de lettres étrangères les unes aux autres, soit de caractères de convention.
+Il faut du courage et de l'attention, pour démêler au milieu de toutes ces digressions et de toutes ces rêveries les procédés de Cryptographie qu'indique l'abbé de Saint-Jacques.
+[Note un: Parmi les nombreux écrits qui montrent à quel point Trithème était infatué de pareilles idées, il faut citer sa Chronologia mystica de septem secundeis sive intelligentiis orbes post Deum moventibus.
+Une ancienne doctrine platonique ou cabalistique plaçait dans chaque sphère céleste une intelligence chargée de la gouverner.
+Trithème s'efforce de rattacher, à ce système, des notions historiques et d'en établir la réalité.
+Un pareil livre n'eut pas moins de six ou sept éditions.
+Le premier livre comprend trois cent soixante-seize répétitions de l'alphabet formé de vingt-quatre lettres; à chaque lettre correspond un mot de la langue; le tout forme un total de neuf mille vingt-quatre mots.
+Afin de faire bien comprendre ce système, il convient de transcrire quelques-uns de ces alphabets; nous reproduirons le premier, et nous y joindrons trois autres pris au hasard (les vingt-troise, deux cent seizee et trois cent dix-neufe).
+a Jésus,             l'amour.
+b le Dieu,           la dilection.
+c le Sauveur,        la charité.
+d le modérateur,     la révérence.
+e le pasteur,        l'obéissance.
+f l'auteur,          le service.
+g le rédempteur,     le zèle.
+h le prince,         la mémoire.
+i le fabricateur,    le souvenir.
+k le conservateur,   la souvenance.
+l le gouverneur,     la faveur.
+m l'empereur,        l'affection.
+n le roi,            la loi.
+o le recteur,        la foi.
+p le juge,           l'espérance.
+q l'illustrateur,    le commandement.
+r l'illuminateur,    la recordation.
+s le consolateur,    la parole.
+t le Seigneur,       la connaissance.
+u le dominateur,     le saint.
+x le créateur,       l'amitié.
+y le psalmateur,     la promesse.
+z le souverain,      l'ordonnance.
+& le protecteur,     la bienveillance.
+a  fragiles,         Europe.
+b  misérables,       Candie.
+c  ingrats,          Hongrie.
+d  ignorants,        Panonie.
+e  iniques,          Pologne.
+f  injustes,         Germanie.
+g  malheureux,       Saxe.
+h  malicieux,        Helvétie.
+i  obstinés,         Suède.
+k  perdus,           Italie.
+l  pécheurs,         Romanie.
+m  criminels,        Lombardie.
+n  volontaires,      Espagne.
+o  vains,            Andalousie.
+p  mauvais,          Castille.
+q  détestables,      Gaule.
+r  abominables,      Bretagne.
+s  damnables,        Normandie.
+t  immondes,         Aquitaine.
+u  indigents,        Guyenne.
+x  pauvres,          Gascogne.
+y  pusillanimes,     Auvergne.
+z  pervers,          Bourgogne.
+&  abjects,          France.
+Trithème rend ceci fort clair au moyen d'un exemple; nous allons le reproduire exactement: Un méchant vous demande une lettre d'introduction auprès d'un de vos amis avec lequel il veut se lier.
+Vous avez des motifs pour ne pas repousser cette prière; d'un autre côté, vous voulez transmettre des renseignements exacts sur votre recommandé.
+Vous le chargez alors de remettre à celui qu'il va trouver, un écrit qui présente les phrases suivantes: «Le Roi universel exornant les corps manifeste aux languissants sûreté immortelle avec ses sanctifiés en béatitude Amen.
+La charité incompréhensible évangéliquement dénoncée aux hommes, reluctante d'exhortation, réduit les injustes bannis aux choses profanes, faisant de vilipender la recordation du Rédempteur des cieux et aussi la compagnie de la volupté ineffable que poursuivre.
+Parquoy, ô immondes, soutenez pureté et serez recueillis aux règnes des déifiés et là perpétuellement prédestinés.
+Abolissez donc les dissimulations de cette charnalité, puisqu'estes heureusement compris aux exaltations du modérateur tout voyant.» Cherchez à quelle lettre du premier alphabet correspond le premier mot de cette oraison polygraphique, et vous trouvez la lettre n à côté du mot le roi.
+Passant au second alphabet, vous verrez que le mot universel signifie e.
+Au troisième alphabet, vous remarquerez la lettre v à côté du mot exornant.
+Au quatrième alphabet vous noterez la lettre o comme étant en regard de les corps: et le cinquième montrera un v dans la même ligne que le mot manifeste.
+L'auteur fait remarquer: Qu'il ne faut jamais «qu'en aucun ordre et rang alphabétique une diction soit doublée, répétée, réitérée, ni mise en écrit par deux fois.» Qu'il ne faut pas qu'il y en ait d'oubliées ni d'omises.
+On ne doit prendre qu'un seul mot dans chaque alphabet, et il est essentiel de ne pas laisser passer un seul alphabet sans y prendre une expression.
+Les mots qu'on traduit en langage polygraphique doivent être écrits tout au long, sans abréviation, distinctement et dûment séparés.
+Il va sans dire que l'individu avec lequel vous correspondez de la sorte doit posséder un recueil d'alphabets exactement et de tout point semblable à celui dont vous faites usage.
+Chacun peut composer en ce genre un livre analogue à celui de Trithème, et il est bon que les rois et princes en possèdent un certain nombre, afin de s'entendre avec leurs ambassadeurs et leurs généraux, d'une manière qui ne soit pas uniforme.
+On peut aussi convenir qu'on changera ou transportera l'ordre des mots contenus dans chaque alphabet, et ces transpositions, qu'il y a moyen de varier à l'infini, augmentent beaucoup la difficulté qu'offre le déchiffrement d'une lettre écrite selon la méthode polygraphique.
+Il serait possible qu'on trouvât des inconvénients à recourir, soit à la langue française, soit à tout autre idiome, pour la formation des alphabets.
+Trithème a prévu cette difficulté; il s'est efforcé de la résoudre, en composant des alphabets qui offrent des mots qui, n'appartenant à aucun dialecte, peuvent servir de langue universelle.
+C'est dans un jargon cabalistique ayant avec l'hébreu un certain air de famille, qu'il est allé puiser ses matériaux.
+Un exemple devient nécessaire.
+Cabalit mossu abru massu basin sophus strabil caffulun, etc.
+Anna mesar dvain rosas dumera asion afang lisamar neparo uzafun amar achiet benadas epalam ronis orrifer olrimech mesarym lucyphus arosan.
+Un travail dans le genre de celui dont nous avons donné l'idée, montrera que ceci veut dire: «Ne vous fiez à ce porteur.» Il va sans dire qu'on peut convenir que la lettre significative sera la troisième, la quatrième, n'importe enfin laquelle de chaque mot.
+La diplomatie italienne avait, au seizième siècle, grand besoin d'invoquer les ressources de la Cryptographie, afin de couvrir d'un voile impénétrable des secrets souvent terribles et les plus sinistres combinaisons.
+Le Conseil des Dix devait tenir à ce que ces dépêches fussent constamment lettre close, dans toute la rigueur du mot; les Borgia, les Visconti, les Farnèse, avaient fréquemment à transmettre des communications qu'il fallait soustraire à tous les yeux.
+L'art de l'écriture chiffrée devint une étude des plus importantes à Milan, à Florence, à Rome.
+Un Napolitain, dont l'intelligence chercheuse et l'active curiosité s'exerçaient sur toutes sortes de sujets, J.
+Porta, réunit et discuta, en s'efforçant de les perfectionner, les diverses méthodes cryptographiques connues alors au delà des Alpes.
+L'esprit net et pratique de cet écrivain le préserva complétement des aberrations tout à fait étrangères à pareil sujet, auxquelles Trithème s'était abandonné; il s'efforça d'être utile, mais il pécha par excès d'imagination.
+À force de vouloir multiplier les procédés d'écriture secrète, il prit la peine d'en montrer et d'en décrire un grand nombre qui seraient d'un usage très-incommode et dont il est bien certain que jamais personne n'a eu l'idée de faire usage.
+[Note deux: L'agriculture, l'optique, la mécanique, la mnémonique, la météorologie, la physique, furent tour à tour l'objet des méditations de Porta.
+Il fut du nombre de ces hommes hardis, conquérants, qui ne peuvent échapper à l'influence des préjugés de leur époque, mais qui découvrent ou pressentent de hautes vérités.
+Son traité de la Physiognomonie humaine, mille cinq cent quatre-vingt-six, a fourni beaucoup d'idées à Lavater.
+Son livre de la Magie humaine, très-souvent réimprimé au seizième siècle, renferme, parmi beaucoup de faits puérils compilés avec peu de jugement, une foule d'observations importantes sur les miroirs, la lumière, la statique, etc.
+Les divers ouvrages de cet écrivain remarquable sont analysés avec étendue dans la Notice historique de H.
+Duchesne, sur la vie et les travaux de Porta Paris, mille huit cent un, 8º, trois cent quatre-vingt-trois pages.] L'ouvrage dans lequel Porta a développé ses idées, est intitulé: De furtivis litterarum notis, vulgo de ziferis.
+On en compte des éditions assez nombreuses; nous signalerons celles de Naples, mille cinq cent soixante-trois, 4º, et mille six cent deux, fº; de Montbelliard, mille cinq cent quatre-vingt-douze, 8º; de Strasbourg, mille six cent six, 8º, etc.
+Cet écrit est divisé en trois livres.
+Les signes muets, tels que les gestes, l'emploi des emblèmes, celui des signaux au moyen des flambeaux, occupent tour à tour Porta.
+Le douzième et dernier chapitre de son premier livre roule sur une manière ancienne de désigner les nombres par les doigts, d'après Bède.
+Il observe qu'on peut écrire sur la tranche d'un livre obliquement inclinée ou sur un jeu de cartes disposé en biseau ou sur les plumes des ailes déployées d'un pigeon ou d'un autre oiseau à plumage blanc.
+Il aborde enfin plus nettement la Cryptographie proprement dite.
+Ce qu'il ne dit point, peut s'analyser facilement.
+Les diverses manières de désigner l'écriture peuvent se réduire à trois: la transposition des lettres, qui comprend le renversement des mots, le changement des figures des lettres, et le changement de valeur des lettres.
+Ensuite on a recopié sa missive secrète, et, au lieu de transcrire par interligne la devise convenue, on met au-dessous de chaque lettre de la missive le chiffre qui désigne le rang que chaque lettre de cette devise tient dans l'alphabet.
+Ainsi, au-dessous de la première lettre de la missive, au lieu d'un l on écrit dix; sous la seconde, au lieu d'un a, on écrit un; sous la troisième, au lieu d'un m, on pose onze.
+Ces deux opérations faites, on prépare de la manière suivante la missive qui doit être adressée: chaque ligne est tracée par des points, entre lesquels est un intervalle suffisant pour y poser les lettres dans le rang que les chiffres de la devise indiqueront.
+On comprend qu'à cet égard il n'est pas possible de donner aucune règle précise; la variété arbitraire des combinaisons s'oppose à toute règle.
+Notre auteur ne saurait oublier la substitution de nouveaux caractères de l'alphabet, de manière que les lettres ne ressemblent à aucune de celles connues.
+Pour rendre l'écriture plus indéchiffrable, on peut, entre ces caractères, en insérer d'autres qui n'ont aucune signification: on les place, soit au commencement, soit au milieu, soit à la fin des mots, pour mieux tromper les curieux.
+Il est certaines lettres qui peuvent être remplacées par d'autres, q par cuu; x par cs; z par ss; y par i.
+On peut encore éviter les mots où se trouvent les lettres h, b, d, p, g, f, u.
+Il est à propos de ne pas se conformer strictement à l'orthographe.
+On peut aussi changer une lettre dans un mot, un o pour un i, un e pour c; un r pour un l; par pour pré.
+Les monosyllabes, les voyelles seules, doivent être évitées avec soin; elles présentent moins de difficultés à un déchiffreur exercé, et elles peuvent le mettre sur la voie.
+On peut aussi écrire par abréviation.
+Après avoir exposé toutes ces règles, Porta envisage son sujet sous un autre point de vue: le déchiffrement des dépêches dont on veut pénétrer le sens.
+Il recommande de compter d'abord le nombre de caractères différents employés dans la missive, lesquels ne peuvent excéder vingt et un ou vingt-deux; s'il s'en trouve davantage, le déchiffrement est plus difficile, puisqu'il y aurait alors des caractères superflus ou inutiles.
+Lorsque les caractères différents sont au-dessous du nombre vingt et un ou vingt-deux, il faut savoir quelles sont les lettres qui manquent, tâche délicate à laquelle on ne peut procéder que par conjectures.
+Porta s'occupe des moyens de distinguer des voyelles les consonnes.
+D'abord, toute les fois qu'on rencontre dans le cours de la missive cinq caractères différents et fréquemment répétés, on peut être assuré que ce sont des voyelles.
+En second lieu, on peut observer quelles sont les lettres qui sont répétées le moins fréquemment, ce sont les consonnes q, x, y et quelquefois l'h; en troisième lieu, les lettres isolées qui ne tiennent à aucun mot sont assurément des voyelles.
+Cinquièmement, il faut faire attention que, lorsqu'au milieu d'un mot il se trouve deux consonnes, la lettre qui précède et celle qui suit sont certainement des voyelles.
+Cependant les lettres h, l et r font quelquefois exception à cette règle, puisqu'on les trouve placées en troisième consonne dans le mot.
+Il faut savoir aussi que deux voyelles peuvent être à côté l'une de l'autre, et que, par conséquent, les lettres placées avant et après sont des consonnes.
+Notre auteur dirige ensuite sa perception sur les moyens qu'on peut employer pour découvrir les places qu'occupent les consonnes.
+Il y a quatre consonnes qu'on appelle liquides ou mouillées, savoir l, m, n, r.
+La consonne b admet les lettres l et r; exemple: blanc, bras.
+La consonne c les admet pareillement; par exemple: clair, scribe.
+L'r n'admet que l'h.
+Il est rare de trouver ensemble l'm et l'n, comme dans Mnemosyne; le g et l'n comme dans ignare.
+Porta développe ainsi de longues et minutieuses observations sur le retour plus ou moins fréquent des voyelles, sur leur combinaison avec les consonnes, mais ces détails se rattachent à la langue latine et ne sont pas susceptibles d'une application exacte à d'autres idiomes.
+Dans le quatrième livre de son traité, Porta étudie la mutation de la valeur des lettres, de façon qu'un même caractère puisse représenter tantôt un a, tantôt un p, tantôt un m.
+Le grand cadran contiendra la suite des nombres depuis un jusqu'à vingt, vingt-quatre ou vingt-huit.
+Le second cadran moyen contiendra la série des vingt lettres de l'alphabet et quatre ou huit cases en blanc, et le petit cadran concentrique mobile portera les vingt signes en caractères représentatifs des lettres de l'alphabet, immédiatement placés au-dessus d'elles.
+De cette manière, le même caractère ayant diverses représentations, il est aisé de sentir tout ce qu'un pareil moyen jette d'obscurité dans une correspondance secrète; mais il faut que les correspondants aient chacun un instrument pareil et concertent d'avance entre eux la manière de s'entendre.
+On comprend que nous ne pouvons entrer ici dans la description détaillée des combinaisons dont ce procédé est susceptible; on le trouve, dans l'ouvrage de Porta, accompagné d'exemples et de figures compliquées.
+Pour suppléer aux cadrans ci-dessus, il donne une table de permutation très-propre à changer à volonté les signes représentatifs.
+Les alphabets, fabriqués à plaisir et n'offrant ainsi aucun trait de lumière aux investigations des curieux, tiennent une grande place dans le traité du savant napolitain.
+Voici un des modèles de ces alphabets qu'indique Porta et qu'il regarde comme indéchiffrables.
+Parmi les divers procédés sur lesquels il s'étend avec une complaisante prolixité, Porta n'oublie pas la méthode dont Trithème avait déjà formulé le principe; il propose un alphabet où chaque lettre est accompagnée d'un mot.
+a  Deus.
+Au lieu de chaque lettre, il s'agit d'écrire le mot qui correspond à cette même lettre dans le tableau ci-dessus.
+Ainsi, pour exprimer le nom de Roma, on mettra: Adjuva clemens æterne Deus; et la traduction du mot hostis (l'ennemi) sera liberator clemens tuere, libera sapiens tuere.
+On comprend, d'ailleurs, que ce procédé n'offrirait pas de bien grandes difficultés à un déchiffreur un peu sagace et au fait des ressources de son art.
+ Blaise de Vigenère.
+Profitant des recherches de Trithème et de Porta, un écrivain français du seizième siècle, plus fécond que judicieux, Blaise de Vigenère, mit au jour un gros volume in-4º, lequel ne renferme pas moins de six cents pages consacrées à la Cryptographie.
+L'auteur n'a point su se préserver de l'écueil contre lequel ses prédécesseurs étaient venus échouer.
+Au lieu de poser clairement et nettement des règles précises, au lieu d'indiquer des procédés faciles à comprendre, il se plonge dans l'océan des rêveries cabalistiques.
+Il reproduit, en général, les inventions cryptographiques de Porta.
+On aura soin de négliger les lettres répétées et de continuer ce travail sur la ligne suivante si toutes les lettres de l'alphabet ne se trouvent pas dans la ligne choisie.
+De cette manière, ces deux mots, le pape, seraient représentés par les chiffres suivants: douze.six.
+  un.deux.un.six.
+Le roi s'exprimerait en écrivant: cinq.
+Une autre combinaison consiste à indiquer chaque lettre de l'alphabet, sur un chiffre; mais, afin de dérouter les curieux, on entremêle les lettres, car les écrire à rebours de la façon suivante: serait trop naïf.
+On peut les diviser en deux séries, dont voici un modèle: ou bien les placer de cette manière: ou bien, enfin (car ces arrangements sont susceptibles de modifications presque infinies), assigner à chaque lettre un chiffre de convention.
+a      quinze De cette manière, Lyon est pris, s'exprimerait par: neuf cent dix-sept deux cent trente et un, trois mille deux cent vingt-quatre, cinq cent quatre-vingt-un mille six cent vingt-deux.
+Et certes, quelqu'un qui n'aurait pas le secret du chiffre attribué arbitrairement à chaque lettre, se trouverait dans l'impossibilité presque absolue de deviner le sens de ces nombres mystérieux.
+grains    d'or,  d'argent,  d'ébène,  d'ivoire.
+De sorte que le mot deus, par exemple, aurait pour expression, en suivant les lignes horizontales: deux grains d'or et d'ivoire, deux d'argent et d'or, deux grains d'ivoire, deux d'ivoire et d'argent.
+un), fait connaître un chiffre, dont il est l'inventeur, et qui est basé sur les permutations de deux lettres seules, a et b, combinées par groupes de cinq.
+L'inconvénient de cet alphabet, c'est que tout mot ordinaire se trouve représenté par cinq fois plus de lettres.
+Paris, par exemple, se traduira par abbba aaaaa baaaa abaaa baaab.
+Lorsqu'on voudra écrire Espagne, il faudra prendre la peine de tracer aabaa baaab abbba aaaaa aabba abbaa aabaa.
+Une phrase un peu longue se trouvera ainsi exiger beaucoup de temps et une attention fort soutenue, pour être écrite sans que quelque erreur ne vienne s'y glisser.
+Bacon a prévu que le mystère de son alphabet ne serait pas très-difficile à découvrir, et il a dû chercher quelques moyens, afin de mettre sa pensée à l'abri des curieux: il a donc imaginé ce qu'il appelle l'alphabetum biforme.
+Pour faire comprendre ceci, il est indispensable de transcrire d'abord ce nouvel alphabet, tel qu'il se montre dans l'ouvrage de Bacon.
+ab  ab  ab  ab  ab  ab  ab  ab Supposé maintenant qu'on veuille donner avis à quelqu'un de s'enfuir, en lui faisant passer le mot latin fuge, on écrira d'abord la phrase suivante, qui présente un sens tout opposé: Manere te volo donec venero.
+Il faut reconnaître que les explications trop succinctes et très-peu claires que donne Bacon à l'égard de ses procédés de chiffres, laissent beaucoup à désirer.
+L'idée d'employer les combinaisons des lettres n'est cependant point indigne d'une attention sérieuse: il y a le germe de tout un système de chiffres qui n'a pas de limites.
+ Jérôme Cardan.
+Et après, sur les pertuis, faits comme je l'ay dit, vous escrivez, au feuillet de papier qui est dessous, le sujet et sentence que voudrez; et, après, à un autre feuillet, et conséquemment au troisième.
+Cela estant fait, vous remplacez les espaces et distances qui demeureront vides, ainsi augmentant ou effaçant jusques à tant que vostre sentence et sujet apparoissent et se montrent.
+Vous accomplirez la seconde sentence au second feuillet de papier, faisant extrait en telle sorte, sur la première, qu'il semblera et apparoistra que les mots et paroles soient suivants et consécutifs l'un après l'autre.
+La troisième adapterez aussi à telle sorte et manière, que, sans aucune interruption ni intermission des premières lettres, l'ordre, la sentence, le nombre des paroles avec la grandeur se trouveront et apparoistront, retenant mesure, sujet et intelligence.
+Et après, celuy à qui vous les enverrez, mettant sur elles son exemplaire percé (comme il est dit), entendra subitement et facilement la conception de vostre volonté.» [Note quatre: L'édition de ses Opera omnia (Lyon, mille six cent soixante-trois, dix vol.
+in-folio) ne renferme pas moins de deux cent vingt-deux traités en ouvrages divers.
+On peut consulter, à l'égard de cet étrange écrivain, Buhle, Histoire de la Philosophie, tom.
+quatre, p.
+sept cent trente-sept cent trente-neuf de la traduction française; la Rétrospective Review, tom.
+un, p.
+quatre-vingt-quatorze-cent douze; un article de Monsieur Mercey, Revue de Paris, juin mille huit cent quarante et un; un mémoire de Monsieur Franck, lu en mille huit cent quarante et un à l'Académie des sciences morales et politiques.
+Quant au mérite de ses travaux scientifiques, on peut consulter l'Histoire des Sciences mathématiques en Italie, par Monsieur Libri, tom.
+trois, p.
+cent sept, et l'Histoire de la Chimie, par Monsieur Hoefer, tom.
+Il, p.
+Cardan a trouvé deux biographes, l'un en Italie (Mantovani, Vita di Cardano, Milano, mille huit cent vingt et un, 8º), l'autre en Angleterre (G.
+un., the life and times of G.
+Cardan, London, mille huit cent trente-six, deux vol.
+8º).]  Le duc de Brunswick.
+Au commencement du seizième siècle, un duc de Brunswick-Lunebourg, Auguste le Jeune, se livrait avec ardeur à l'étude; il publia divers écrits sous le pseudonyme de Gustave Selenus.
+Selenus, du grec Selène (la lune), était une espèce de traduction du mot Lunebourg; Gustave est l'anagramme d'Auguste.
+Le jeu des échecs, l'horticulture, l'art d'écrire en chiffres, occupèrent tour à tour l'attention de ce prince; son livre sur le sujet que nous traitons ici a pour titre: Systema integrum Chryptographiæ; c'est un in folio de près de cinq cents pages.
+Trithème a fourni la majeure partie des procédés décrits dans ce gros volume, où il se trouve malheureusement beaucoup d'idées cabalistiques; les exemples étant pour la plupart empruntés à la langue allemande, il n'y a pas moyen de les reproduire textuellement.
+Vous mettez par exemple un i en place d'un r, et vice versa, un o en place d'un f, ainsi de suite.
+Pour écrire l'empereur d'Autriche, vous mettrez icoakitk iaguieak.
+Rien n'empêche d'employer à rebours un alphabet ainsi dressé ou de substituer quelques lettres à d'autres, en suivant une marche dont on sera convenu: cela augmentera beaucoup les difficultés du déchiffrement.
+Au moyen de méthodes semblables, le prince allemand montre comment les mots suivante: Cras expectabis adventum meum, peuvent se traduire par zfxubzmsbeugpgeurmiothrha.
+Il a lui-même inventé un moyen d'exprimer les lettres, au moyen d'un système de lignes brisées, obliques, parallèles, etc., ou bien grâce à des groupes de points disposés de diverses manières.
+Nous pensons qu'il serait superflu de donner la reproduction de ces alphabets fantastiques, car le champ des inventions de ce genre est sans bornes.
+§ Ier.
+ Préceptes généraux.
+Maintenant laissons de côté les méthodes aujourd'hui abandonnées qu'exposent les écrivains du seizième siècle, et cherchons à faire comprendre quelques-unes des règles auxquelles se conformaient, dans leurs dépêches chiffrées, les diplomates du siècle dernier, règles qui servent encore habituellement de guide à leurs successeurs.
+Les signes de ponctuation sont supprimés, ou bien, lorsqu'il est nécessaire d'en faire usage, afin de donner plus de clarté au texte chiffré, on les indique par une marque particulière.
+Les accents et le trait d'union sont abolis.
+On emploie ce qu'on nomme des non-valeurs (otiosi characteres), afin de dérouter les curieux.
+Par exemple, on peut convenir que tous les nombres composés entre deux cents et quatre cents, entre huit cent vingt-cinq et neuf cent cinquante ne signifient rien et qu'il ne faut point en tenir compte dans le déchiffrement.
+Le déchiffreur non initié perdra beaucoup de temps à vouloir trouver un sens là où il n'y en a pas et sera complétement fourvoyé.
+Parfois, on a recours à un chiffre de contre-sens; on convient que les phrases chiffrées, comprises entre deux marques convenues, telles que des croix, des parenthèses, des chiffres déterminés à l'avance, etc., doivent être entendues dans un sens diamétralement opposé à celui qu'elles présentent.
+Chiffrez ensuite, et il sera presque impossible de découvrir ce que vous avez confié au papier.
+Les mots écrits avec des abréviations convenues à l'avance, présentent une ressource avantageuse; il est bon de les indiquer au moyen d'un signe convenu.
+On a vu des hommes d'État employer la méthode d'écriture hébraïque, c'est-à-dire ranger les chiffres de droite à gauche.
+Il va sans dire qu'au lieu d'ajouter, on est parfaitement maître de retrancher, de multiplier, de diviser: l'essentiel est que les deux correspondants se mettent bien d'accord sur la marche qu'ils adoptent.
+ Chiffre imaginé par Mirabeau.
+L'imagination active de Mirabeau touchait à tout; il inventa, dans un moment de loisir, une méthode de chiffre qui n'est pas sans mérite.
+On range sur deux lignes les chiffres qui expriment la lettre qu'on veut représenter; la première de ces lignes désigne le groupe; la deuxième la place qu'occupe dans ce groupe la lettre en question.
+ Dictionnaire de convention.
+Un procédé, très-souvent mis en usage, consiste à former une espèce de dictionnaire dans lequel des mots sont remplacés par d'autres; en voici un exemple: Allies,     lui.
+Mots perdus qu'on intercale dans les phrases: Assez, après, beaucoup, beauté, carré, dîner, honneur, loterie, mer, noire, port, etc.
+En se servant de cette table, voici comment on pourra rendre le passage suivant: «Le Conseil n'a rien statué de définitif.
+Il paraît cependant qu'on ne balance qu'entre deux partis, celui de risquer la levée du camp et celui de demander un armistice.» «Le w n'a encore rien, or de mais.
+Il paraît cependant qu'on ne oui que tôt voir etc., celui de bas la eux du sept et celui de événement un car.»  Lettres et mots exprimés par des chiffres.
+On forme ainsi des tableaux qui portent le nom de chiffre chiffrant; en voici un modèle.
+Cette affaire pourrait avoir à Hambourg des chances de réussite.» Les mots, bonnes intentions, étant affectés du chiffre de contre-sens, il faut comprendre: mauvaises intentions ou peu favorables.
+ Théorie des chiffres chiffrants et déchiffrants.
+a                    quarante-cinq.
+ deux cent soixante.
+ trois cent onze.
+ mille vingt.
+Il ne faut pas négliger de distinguer tous les mots par un point, qu'on met derrière chaque nombre, puisque, sans cette précaution, une dépêche serait indéchiffrable pour le correspondant, qui ne pourrait se servir de sa clef et qui verrait les nombres confondus.
+Lorsqu'on veut chiffrer quelque dépêche, on cherche dans ce chiffre déchiffrant la signification de chaque mot qui se présente, et on l'écrit au-dessus entre les lignes, qui doivent être espacées convenablement, de même que les nombres éloignés les uns des autres à une juste distance.
+En voici un exemple: Le ministre d'ici est tout dévoué aux intérêts de l'Angleterre; c'est le fruit de dix mille guinées semées à propos.
+ Autres systèmes de chiffres.
+Lorsqu'on soupçonne que les chiffres ont été vendus par des commis ou des serviteurs infidèles, on tâche de tromper les gens qui ont fait acquisition du chiffre.
+Alors la Cour écrit à son ministre ou bien le ministre mande à sa Cour le contraire de ses véritables intentions.
+Lorsqu'on découvre qu'une puissance rivale essaye de corrompre nos employés, on lui fait parvenir adroitement un faux chiffre, et on l'induit en erreur en écrivant des contre-vérités.
+Le chiffre à simple clef est celui où l'on se sert toujours d'une même figure pour désigner une même lettre.
+Le chiffre à double clef est celui dans lequel on change d'alphabet à chaque mot ou dans lequel on emploie des mots inutiles.
+ Chiffre par excellence.
+Tel est le nom que Dlandol, dans son Contre-espion, donne à un chiffre, qui réunit, d'après lui, le plus grand nombre d'avantages que l'on puisse désirer pour une correspondance secrète et qui les réunirait tous sans exception, s'il n'était pas d'une exécution assez lente.
+Cet inconvénient est compensé par l'immense difficulté, par l'impossibilité même, on peut le dire, de découvrir, lorsqu'on ne possède pas le mot de clef convenu entre les correspondants, le sens d'une dépêche écrite de la sorte.
+Voulez-vous savoir, par exemple, combien font six fois quatre ou quatre fois six? Cherchez, sur la première ligne horizontale de votre carré, l'un de ces deux nombres; cherchez ensuite l'autre sur la première ligne verticale, c'est-à-dire sur la première colonne.
+Voyez ensuite quelle est la case qui correspond en même temps à chacune de celles où sont ces deux nombres.
+Vous trouvez vingt-quatre, qui est effectivement le produit de six ou de quatre multipliés l'un par l'autre.
+De même dans le carré de lettres, si vous voulez multiplier F par M, vous trouverez S à la case qui répond à l'F de la première ligne et à l'M de la première colonne.
+Vous trouvez également S à la case qui correspond à l'M de la première ligne et à l'F de la première colonne.
+Ceci posé, n'oublions pas qu'il y a un mot de clef dont les correspondants conviennent entre eux.
+Supposons que ce mot de clef soit blanc-bec (et si nous prenons ce mot pour exemple, c'est qu'il y a avantage à choisir des expressions peu usuelles et qui déjouent tous les efforts d'imagination de ceux qui s'efforceraient de les deviner).
+Supposons que vous veuillez, vous, général d'armée, transmettre cet avis: «Nous devons décamper cette nuit:» Vous le disposerez de la façon suivante: Nous devons décamper cette nuit.
+Blan cbecbl ancblabl ancbe cblan.
+Dans cet arrangement, vous regardez chacune des lettres vraies de la missive, comme des chiffres d'un multiplicande et chacune des lettres du mot de clef, comme un multiplicateur.
+Vous opérez ensuite de la façon suivante: En multipliant N, première lettre vraie de la dépêche, par B, première lettre du mot de clef, vous trouvez sur votre carré la lettre P, à la case qui correspond d'un côté à l'N, de l'autre au B.
+Vous placez P pour première lettre de la missive chiffrée.
+La seconde vraie lettre est un O, la seconde lettre de la clef est L.
+La case qui correspond à O et à L est un A, que vous posez comme second caractère.
+La troisième vraie lettre est un U, la troisième lettre du mot de clef un A.
+La case qui correspond à l'une et à l'autre lettre, vous donne V, et la case qui correspond ensuite à S (quatrième lettre vraie) et à N (quatrième lettre du mot de clef), est G.
+Vous mettez pour troisième et quatrième caractère de votre dépêche chiffrée: cinq G.
+Continuant cette opération sur chaque mot de la dépêche vraie, vous arrivez à la phrase chiffrée que voici: pavgggerpcesfcrsgddsxvjqxuu Tant qu'on ne possédera pas le mot de clef, il sera impossible de deviner le sens d'un pareil billet.
+Votre correspondant déchiffrera sans peine cette missive, en faisant une opération inverse à celle que vous avez accomplie.
+Au-dessous du billet chiffré, il écrira chacune des lettres du mot de clef.
+Il cherchera ensuite successivement dans la première colonne du carré chaque lettre du mot de clef, et, à chaque lettre, il cherchera sur la même ligne la lettre correspondante du billet chiffré.
+Alors la lettre qui commence la colonne où se trouve cette lettre de chiffre est la vraie; c'est celle qu'il faut écrire pour avoir la véritable missive.
+On remarquera que chaque fois qu'une lettre se présente dans la dépêche vraie, elle donne dans la dépêche chiffrée un résultat différent; aussi toute investigation demeure-t-elle stérile, lorsqu'on ne possède pas les mots qui forment la clef d'un pareil chiffre.
+Le procédé qu'indique Neyron (Principes du droit des gens, Brunswick, mille sept cent quatre-vingt-trois, 8º, p.
+cent soixante-dix), rentre dans une catégorie toute semblable.
+ Grille en châssis.
+La manière d'écrire en chiffres au moyen d'une grille en châssis est bien simple et d'un usage facile.
+Elle réclame peu de temps.
+Il s'agit d'avoir un châssis découpé sur la longueur des lignes, comme le désigne la figure; celui auquel on écrit possède un instrument tout semblable.
+Chacun des coins du châssis doit porter une marque différente, parce que ce châssis peut se placer dans divers sens.
+Après l'avoir posé sur une feuille de papier de même grandeur, en faisant attention aux marques des quatre coins, on transcrit, dans les ouvertures, l'avis qu'on veut transmettre.
+Le correspondant qui reçoit cette épître applique, par-dessus chaque page, un châssis semblable; alors tous les mots inutiles se trouvent masqués, et il n'a sous les yeux que les mots qui composent l'avis qu'on s'est proposé de faire passer.
+La lecture d'une des oeuvres les plus remarquables de Monsieur de Balzac (Histoire des Treize) a révélé l'existence de la grille à bien des personnes fort peu au fait des procédés de la Cryptographie.
+Il s'agit, dans le passage ci-dessous, d'un agent de change, qui, ayant en main une lettre adressée à sa femme, lettre qui présente un non-sens continuel, vient consulter un de ses amis, employé au ministère des affaires étrangères: «--C'est une lettre à grille..
+«Il laissa Jules seul dans le cabinet, et revint assez promptement.
+«--Niaiserie, mon ami! C'est écrit avec une vieille grille dont se servait l'ambassadeur de Portugal sous Monsieur de Choiseul, lors du renvoi des jésuites...
+Tiens, voici! «Jacques superposa un papier à jour, régulièrement découpé comme une de ces dentelles que les confiseurs mettent sur leurs dragées, et Jules put alors facilement lire les phrases qui restèrent à découvert.» Donnons un exemple de ce procédé.
+Je [=vous=] prie de [=me=] mander si vous Voici maintenant le vrai sens rétabli au moyen de la grille:  [=vous=]         [=me=] [=trouverez=]          [=très-=]  Chiffre au moyen d'un cadran.
+Ce procédé est un peu compliqué.
+Il exige du temps et de l'attention, mais il présente les plus grandes garanties d'un mystère impénétrable.
+Vous tracez sur un carton un cadran, que vous divisez exactement en vingt-quatre parties égales et sur chacune desquelles vous transcrivez une des vingt-quatre lettres de l'alphabet.
+Vous avez un autre cercle de carton mobile ayant un centre commun avec le premier et pouvant tourner librement sur ce centre.
+Vous le divisez en un même nombre de parties, et vous y transcrivez également les diverses lettres de l'alphabet.
+Si les lettres sont rangées dans l'ordre ordinaire sur les deux cadrans, l'emploi de ce moyen de correspondance devient plus commode.
+Le cadran mobile doit être placé de manière que ses divisions correspondent exactement à celles du premier cadran.
+Vous continuez de même pour toutes les lettres dont se composent tous les mots de la dépêche qu'il s'agit de déguiser.
+ De l'emploi des signes astronomiques.
+Les signes astronomiques, c'est-à-dire ceux dont on fait usage pour désigner les planètes et les diverses parties du zodiaque ont été plusieurs fois mis en usage comme dans la Cryptographie.
+Supposé que chaque lettre soit représentée par un de ces signes, il faudra beaucoup de temps et de peine, pour écrire une dépêche en suivant une pareille méthode, et le secret ne sera pas mieux caché.
+Un chiffre de ce genre ne présente pas plus de difficulté que celui dans lequel chaque lettre de l'alphabet est représentée par une autre lettre, a, par exemple, étant remplacé par d, b par e, c par f, ainsi de suite.
+On éprouve moins d'embarras à faire usage d'un chiffre, dans lequel les signes astronomiques sont mêlés à des lettres empruntées aux alphabets hébraïque, grec ou latin, ou bien à des chiffres numériques, à des figures de mathématiques.
+Chacun de ces signes exprime une lettre, une syllabe ou un mot.
+Cette méthode était du goût des anciens auteurs; mais aujourd'hui elle ne trouve guère de partisans.
+Vigenère se plaît à en fournir des exemples qu'il développe avec sa prolixité habituelle.
+Voici, parmi les procédés de ce genre, le meilleur et le plus simple.
+On partage l'alphabet en cinq parties ou plus; on place chacune de ces sections dans un carré particulier, et on désigne chaque carré par un signe astronomique convenu.
+Donnons-en un exemple.
+[=abcd [Gl.]=] [=efgh [Gl.]=] [=iklm [Gl.]=] Il vaut mieux de ne pas laisser les lettres de l'alphabet rangées dans l'ordre habituel.
+Lorsqu'on veut faire usage des tableaux ci-dessus, il faut, pour exprimer chaque lettre, écrire le signe qui dénote le carré, et indiquer la lettre qu'on a en vue par un numéro qui correspond à la place qu'elle occupe.
+L'e se trouvera donc représenté par [Gl.]un, l'm par [Gl.]quatre, l'o par [Gl.]deux, etc.
+ Signes de la mnémonique.
+L'idée d'appliquer à la Cryptographie les signes imaginés pour la mnémonique ou l'art de la mémoire, s'est naturellement présentée à quelques imaginations.
+Jean-Henri Dobel, dans son Collegium mnemonicum ou Révolutions d'un nouveau secret de l'art de la pensée (en allemand, Hambourg, mille sept cent sept, 4º), a travaillé en ce sens.
+Il désigne par les numéros un à vingt-trois chacune des lettres de l'alphabet; il traduit ainsi en chiffres chaque phrase contenue dans la dépêche qu'on veut rendre secrète.
+Enfin, il transforme ces chiffres en mots que donne sa mnémonique chiffrée.
+Il écrit ces mots tout au long.
+Il arrive ainsi à des séries de mots latins qui n'offrent aucun sens en apparence.
+Dobel représente, dans ses procédés de mnémonique, les chiffres, par des consonnes; ainsi un--b, p, w; deux--c, k, q, x; trois--f ou v; quatre--g ou j; cinq--l; six--m; sept--n; huit--r; neuf--s; 0--d ou t.
+Veut-il exprimer mnémoniquement ces chiffres, il prend des mots latins dans lesquels se rencontrent les consonnes qui correspondent aux chiffres en question.
+C'est ainsi que le nombre cinq cent soixante-sept aura pour expression les lettres l m n et pour représenter ces lettres, il a recours aux mots: limen, lumen, lamina, columen.
+Ce procédé exige beaucoup de temps, de peine et de papier.
+Une page entière d'écriture chiffrée est nécessaire pour exprimer quelques lignes de la dépêche qu'il s'agit de transmettre.
+Ces inconvénients sont cause qu'on n'a peut-être jamais fait usage de cette méthode mnémonique, qui est, d'ailleurs, il faut en convenir, une de celles dont l'interprétation présenterait le plus de difficultés.
+ Correspondance au moyen d'un jeu de cartes.
+Il faut avoir un jeu de cartes et disposer toutes les figures dans un ordre quelconque dont on sera convenu avec son correspondant.
+On doit également déterminer l'ordre du mélange qui doit se faire de ces cartes.
+Ayez l'attention de mettre un point après chacune des lettres qui terminent un mot, afin d'indiquer la séparation de tous les mots.
+Supposons qu'on soit convenu de se servir d'un jeu de piquet de trente-deux cartes, disposé dans l'ordre qui suit, et de mêler ce jeu, en mettant alternativement à chaque mélange trois cartes au-dessus des trois premières et trois au-dessous.
+Le jeu étant remis dans son premier état, chaque carte sera chargée des lettres ci-après.
+Manière de lire.
+Une précaution qui n'est pas à dédaigner consiste à écrire en encre sympathique les caractères tracés sur ces cartes: si elles viennent à tomber entre des mains indiscrètes, rien n'indique l'existence du secret qui leur a été confié.
+ De l'emploi des lettres nulles, afin de cacher le sens d'une  dépêche.
+On écrit en clair la dépêche qu'on veut transmettre, mais on y mêle des mots et des syllabes de façon à obtenir une suite de mots étrangers n'appartenant à aucune langue et qui ne présentent aucun sens.
+On partage les mots composés de plusieurs syllabes, et d'un mot on en fait plusieurs, en ajoutant des lettres que le déchiffreur regarde comme nulles.
+Voici un passage emprunté à la Germanie de Tacite et écrit d'après un pareil système.
+Dans la première ligne, les trois premiers mots: Lampsi deso saleu, et le dernier: nous, sont nuls.
+Dans chacune des lignes suivantes, le premier et le dernier mot le sont également.
+Dans chacun des autres mots placés dans ces diverses lignes, la première et la dernière lettre sont nulles.
+Il va sans dire que le choix des syllabes et des lettres affectées de nullité est parfaitement indifférent.
+Ceci posé, on peut écrire la phrase suivante.
+Nous mettons en italique, pour plus de clarté, les lettres qu'il faut conserver; mais, dans la dépêche chiffrée, rien ne doit distinguer ce qui est valable et ce qui est ajouté.
+Lampsi deso saleu e_rege_su s_ex_a a_nobi_o nous futher c_litate_s u_duces_n t_ex_t s_uirtute_y ai ma t_sumunt_a.
+o_nec_t g_regi_o a_bus_o s_infini_e et yes a_ta_s s_aut_a a_libe_i st_ra_t s_potes_o e_tas_i, par la s_et_a s_duce_si sexema oplos s_potius_i sind mio s_quam_e s_impe_t st_rio_p a_si_o o_promptui_m que to e_si_t e_conspi_l a_cui_z.
+o_si_m s_ante_r s_asi_s do le s_em_o s_agunt_u s_admi_o e_ratio_x a_ne_s s_prae_t y allos o_sunt_y dorche.
+Le passage de Tacite se trouve ainsi très-clairement énoncé: Reges ex nobilitate, duces ex virtute sumunt.
+Nec regibus infinita aut libera potestas, et duces potius quam imperio si promptui, si conspicui, si ante aciem agunt, admiratione præsunt.
+Comme il serait fort long d'écrire en tête et à la fin de chaque ligne un grand nombre de mots nuls, on simplifie de diverses manières le système que nous venons d'indiquer.
+On entremêle, aux mots de l'avis qu'on veut transmettre, des lettres prises au hasard, de façon, par exemple, que chaque lettre vraie est précédée de deux lettres fausses.
+Pour écrire nemo est domi (personne n'est à la maison), vous mettrez:  ex_n_pt_e_rk_m_bd_o_ vn_e_cs_s_mj_t_ lb_d_ku_o_ph_m_cu_i_.
+Ou bien on mêle aux mots certaines syllabes qui n'ont aucun sens.
+Pour dire: Pater meus non est domi, vous mettrez: Pa_ba_t_eb_er me_beub_us no_bo_n eb_est_ do_lo_mi_bi.
+_Fababribicabatober voudra dire: Fabricator.
+Tout ceci, on le comprend de reste, est susceptible de modifications très-nombreuses; mais il faut reconnaître également qu'un déchiffreur, ayant de l'expérience et bien versé dans les mystères de la Cryptographie, n'aurait pas beaucoup de peine pour découvrir les secrets cachés sous un pareil voile.
+ De la stéganométrographie.
+Ce procédé est décrit en détail dans un ouvrage publié par Mathias Uken, en mille sept cent cinquante et un.
+Donnons une idée de ce chiffre, qu'on peut regarder à juste titre comme un de ceux dont il serait le plus difficile de trouver la clef.
+Vous écrivez en caractères ordinaires l'avis que vous voulez transmettre en secret, et vous placez sous chaque lettre un chiffre, en ayant soin de faire suivre les numéros dans l'ordre habituel.
+Supposons que vous voulez mander la nouvelle de la mort de l'empereur d'Allemagne, nouvelle que vous exprimez en latin.
+Vous vous êtes muni d'un certain nombre de tableaux numérotés; chacun d'eux porte les vingt-quatre lettres de l'alphabet, de A à Z, et, à côté de chaque lettre se trouve inscrit la moitié d'un vers pentamètre ou hexamètre.
+Les tableaux pairs contiennent les premiers hémistiches, les tableaux impairs les seconds; de sorte qu'en réunissant les tableaux un et deux, trois et quatre, cinq et six, on obtient les vers entiers.
+En voici un exemple: _Tableau_ un.
+a  Ne mora te teneat b  Ne cunctare precor h  Ne dedigneris _Tableau_ deux.
+a  chartæ perfringere gemmam.
+b  sua vincula demere chartæ.
+e  peregrinam evolvere hartam.
+_Tableau_ trois.
+r  A tibi dilectis _Tableau_ quatre.
+i  credi venere plagis.
+_Tableau_ cinq.
+o  Non tibi damniferos _Tableau_ six.
+b  depinget epistola casus.
+_Tableau_ sept.
+i  Lætitias mentis _Tableau_ huit.
+i  demat ut illa.
+En écrivant à la place de chaque lettre l'hémistiche qui lui correspond, vous exprimerez le mot Heri de la manière suivante: Ne dedigneris peregrinam evolvere chartam, En suivant ce même procédé, vous compléterez facilement votre dépêche.
+Il convient de se servir d'un assez grand nombre de tableaux, afin de ne pas se trouver dans le cas de répéter les mêmes vers, si la dépêche est un peu longue.
+Uken a pris la peine de dresser quarante-quatre tableaux qui contiennent six cent cinquante-six hémistiches et qui offrent ainsi le moyen de chiffrer un avis composé de ce nombre de lettres.
+Le déchiffrement est facile pour votre correspondant.
+Il prend ses tableaux, lesquels doivent, cela va sans dire, présenter la reproduction textuelle des vôtres; il cherche quelle est la lettre qui correspond à chaque hémistiche, et, en écrivant successivement ces lettres, il est promptement au fait de ce que vous lui demandez.
+ Chiffre formé par un système de lettres et de points.
+à Sunde, dans sa Steganologia, indique un chiffre assez ingénieux, qui consiste dans l'emploi combiné des lettres et des points.
+Les lettres sont réunies deux à deux, et, au-dessous de chaque groupe, on place un système variable de points.
+De cette façon, le mot amen se trouve exprimé par les lettres et les points qui suivent: el [Pt.] a.
+[Pt.] p et le mot Rhin se chiffre de la sorte: q [Pts.] [Pt.] h.
+o [Pt.] p  De la substitution des lettres les unes aux autres, d'après un  système compliqué.
+Il est un système de cryptographie qui consiste simplement à remplacer les lettres de la dépêche par d'autres lettres rangées d'après un ordre convenu.
+L'opération est longue, mais on obtient ainsi la presque certitude d'échapper aux investigations, car le grand nombre de combinaisons dont un pareil procédé est susceptible rend la découverte de ce secret extrêmement difficile.
+On range par décade ou dizaine les mots de la dépêche à chiffrer.
+On écrira en conséquence les lettres qui forment successivement la dépêche chiffrée.
+À la seconde dizaine, on procède de même; la correspondance des lettres se trouve toute nouvelle.
+On peut aussi, à chaque division nouvelle, employer pour les chiffres un ordre différent, sur lequel on se sera mis d'accord.
+De cette manière, on rendra le problème plus que jamais insoluble pour les non initiés; mais il faut reconnaître que cette méthode prend du temps, et qu'à moins d'une attention fort soutenue on est exposé, en chiffrant de la sorte, à commettre bien des erreurs.
+ Chiffre inventé par Hermann.
+Un professeur allemand, Hermann, se vanta, en mille sept cent cinquante-deux, d'avoir inventé un chiffre absolument indéchiffrable; il mit tous les mathématiciens de l'Europe et toutes les sociétés savantes au défi d'en découvrir la clef.
+Un réfugié français, Beguelin, fut assez habile ou assez bien inspiré pour la trouver dans l'espace de huit jours, et il publia les détails de sa découverte dans les Mémoires de l'Académie de Berlin, mille sept cent cinquante-huit.
+Le chiffre d'Hermann se compose de vingt-cinq caractères différents et des neuf chiffres de l'arithmétique, de un à neuf.
+À chacun de ces caractères répond immédiatement au-dessous une lettre de l'alphabet, et chaque mot est séparé du suivant par un point.
+3º Tout caractère initial inférieur dont la valeur négative est au-dessous de dix vaut, dans cette place, le double de sa valeur ordinaire; plus une unité.
+Tout cela était assez ingénieux, mais l'accumulation de ces lois rend un pareil chiffre d'un usage bien peu commode.
+Il y a de la bizarrerie dans la détermination de la valeur des lettres alphabétiques; et la multiplicité des règles, jointe aux divers usages d'un même signe, donnerait certainement lieu dans la pratique à bien des fautes d'inadvertance.
+Le chiffre du professeur allemand roulait sur des valeurs numéraires; il ne devait donc y entrer aucun chiffre arabe, ou du moins ceux-ci ne devaient pas y conserver leur valeur connue.
+ De l'emploi des notes de musique.
+Ce système de cryptographie repose sur le même principe que celui dont la description se trouve dans la IXe section de ce chapitre.
+Vous décrivez sur un carré de carton un cadran divisé en vingt-quatre parties égales, et dans chacune d'elles vous transcrivez une des lettres de l'alphabet.
+Un autre cadran mobile, sur un point central et concentrique au premier, est divisé de même en un pareil nombre de parties égales.
+Il est réglé circulairement, comme un papier de musique.
+Vous marquez, dans chacune de ces divisions, des notes du musique différentes les unes des autres.
+Vous n'oublierez pas de tracer les trois clefs de la musique dans l'intérieur du cadran, et autour de ses divisions les divers chiffres dont les compositeurs font usage pour exprimer les divers temps ou mesures.
+Vous fixez une des divisions quelconques du cadran extérieur, de manière qu'elle se trouve vis-à-vis de celle du cadran intérieur: chaque lettre du premier cadran répond à une note placée sur le second.
+Transcrivez sur le papier réglé la note qui, sur le cadran intérieur, répond aux lettres dont sont composés les mots de l'avis qu'il s'agit de transmettre.
+Votre correspondant, instruit, par la clef de la musique et par le chiffre qui désigne la mesure, de l'arrangement qu'il doit donner à ses cadrans, substituera, en place de chaque note, la consonne ou voyelle qui lui correspond.
+En changeant de clef à plusieurs reprises, on rend le déchiffrement plus difficile pour les personnes qui n'ont pas le cadran cryptographique.
+Changer de clef, c'est disposer le cadran de façon qu'une des trois clefs de la musique réponde à un temps ou mouvement différent; ce qui peut s'effectuer à plusieurs reprises dans la même lettre et ce qu'on indique de la manière ci-dessus signalée.
+§ Ier.
+ Okygraphie.
+Monsieur H.
+Nouvelle méthode applicable à tous les idiomes, présentant des moyens aussi vastes, aussi sûrs que nouveaux d'entretenir une correspondance secrète dont les chiffres seront absolument indéchiffrables.
+Paris, mille huit cent deux, in-douze.
+Les signes qu'emploie cette méthode sont beaucoup plus simples que ceux de l'alphabet ordinaire.
+Ils se réduisent à trois: i, c, [Signe].
+On les écrit sur du papier réglé dans le genre de celui qui sert à la musique, mais avec la différence que les lignes rangées à côté les unes des autres sont au nombre de quatre seulement.
+Les trois signes indiquent leur signification, de même que les notes de musique, d'après la position qui leur est assignée sur les lignes, et, pour chaque signe, cette position peut se combiner de huit manières différentes.
+On obtient ainsi les vingt-quatre lettres de l'alphabet, qu'on simplifie d'ailleurs en écrivant les mots tels qu'ils se prononcent.
+Monsieur Blanc donne, par exemple, huit alphabets divers qu'il a formés selon sa méthode, laquelle est susceptible d'en fournir une quantité infinie.
+ Pasigraphie.
+Ce mot se compose de deux mots grecs, [Grec: pasi], à tous, [Grec: graphô], j'écris.
+Écrire même à ceux dont on ignore la langue, au moyen d'une écriture qui soit l'image de la pensée que chacun rend par différentes syllabes, c'est ce qu'on nomme Pasigraphie.
+Deux personnes, appartenant à deux pays différents et à deux langues différentes, ne savent chacune que leur idiome; elles apprennent à le pasigraphier; dès lors, ce que l'une écrit dans sa langue, l'autre l'entend dans la sienne.
+Monsieur de Maimieux est un des auteurs qui se sont le plus occupés de Pasigraphie; dans le procédé qu'il emploie, il fait usage de douze caractères; nous les reproduisons ici: [Gl.][Gl.][Gl.][Gl.][Gl.][Gl.][Gl.][Gl.][Gl.][Gl.][Gl.][Gl.].
+Il serait très-long et d'un faible intérêt d'expliquer ici comment, grâce à l'emploi de ces signes, il y aurait moyen de créer une écriture universelle qui serait entendue de tous les peuples.
+Monsieur de Maimieux exprime lui-même en ces termes l'idée qui sert de base à sa méthode.
+«Le principal fondement de l'art pasigraphique est dans le moyen de substituer le signe de la place des mots aux syllabes dont toutes les langues composent leurs mots.
+Ces syllabes diffèrent d'un idiome à l'autre, par l'effet de conventions locales qu'un étranger ne peut connaître qu'après beaucoup d'études et un long usage.
+Chaque mot présente des particularités qu'il faut savoir pour bien posséder une langue, soumise, d'ailleurs, à des règles très-nombreuses, peu fixes, souvent contradictoires et noyées dans un océan d'exceptions.
+L'emploi d'un pareil système serait évidemment entouré de difficultés multipliées; l'application à la Cryptographie de signes aussi peu connus n'offrirait que de bien minces avantages; aussi, dans la pratique, n'a-t-on jamais songé à y recourir.
+ Hiéroglyphes.
+Nous ne saurions oublier ici divers symboles, dont l'antiquité fit usage, afin d'énoncer des préceptes, des leçons, des faits qui demeuraient lettre close pour le vulgaire et dont l'érudition moderne s'efforce de retrouver la clef perdue depuis bien des siècles.
+Parmi les différents systèmes d'écriture mis en usage dans le but d'exprimer ces idées qui restaient un mystère pour les non initiés, les fameux hiéroglyphes de l'ancienne Égypte tiennent le premier rang.
+Diodore de Sicile, au livre trois de sa Bibliothèque historique, parle des caractères hiéroglyphiques employés par les Égyptiens.
+Trois sortes d'écritures ont été connues des anciens Égyptiens.
+L'écriture hiératique ou sacerdotale est regardée comme une tachygraphie des hiéroglyphes, et les signes vulgaires ou démotiques, comme une abréviation des hiératiques.
+Le nombre de ces signes est d'environ huit cents.
+«L'écriture hiératique est une véritable tachygraphie de la précédente.
+Comme les signes hiéroglyphiques ne pouvaient être convenablement tracés que par des personnes exercées dans l'art du dessin, on créa un système d'écriture abrégée dont les signes étaient d'une exécution facile, système qui n'eut d'ailleurs rien d'arbitraire.
+Les Mexicains, avant la conquête des Espagnols, avaient également recours à des figures d'hommes, d'animaux, etc., pour énoncer leurs idées.
+Les noms des villes de Meacuilxochitl, Quauhtinchan et Tchuilojocan signifient cinq fleurs, maison de l'aigle et lieu des miroirs.
+Pour indiquer ces trois villes, on peignait une fleur placée sur cinq points, une maison de laquelle sortait la tête d'un aigle, et un miroir d'obsidienne.
+Divers manuscrits hiéroglyphiques mexicains ont échappé à la destruction, et ils figurent parmi les objets les plus précieux que possèdent les grandes bibliothèques de l'Europe.
+Monsieur de Humboldt en a copié quelques pages dans son bel ouvrage intitulé: Vue des Cordillères (Paris, mille huit cent dix-neuf, deux vol.
+in-8º).
+Une magnifique publication spéciale, faite aux frais d'un riche Anglais, a reproduit tout ce qui subsiste en ce genre.
+Voir les Antiquities of Mexico comprising fac-similes of ancient mexican paintings and hieroglyphics, by lord Kingsborough (London, mille huit cent trente et un, neuf vol.
+in-fol.).
+Cet ouvrage a coûté à son auteur plus de vingt-cinq livres sterling (un million).
+Il en est rendu compte dans le Bulletin des Sciences historiques, publié par Monsieur de Férussac, t.
+dix-sept, p.
+soixante-trois, et dans la Revue encyclopédique, t.
+XLIX, p.
+cent quarante-huit.
+Ce n'était pas, d'ailleurs, au Mexique seulement, qu'on avait recours à pareilles images.
+Les indigènes de la Virginie avaient des peintures appelées Sagkokok, qui représentaient, par des caractères symboliques, les événements qui s'étaient accomplis dans l'espace de soixante ans; c'étaient de grandes roues divisées en soixante rayons ou en autant de parties égales.
+Lederer (Journal des Savants, mille six cent quatre-vingt-un, p.
+ Langage au moyen des gestes.
+Le langage au moyen des gestes peut être regardé comme formant l'une des branches de la Cryptographie; il permet à celui qui l'emploie de faire connaître ses idées d'une manière qui échappe aux personnes qui ne sont pas au fait de pareils secrets.
+Les anciens connaissaient cet art.
+Les Romains portèrent au plus haut degré les ressources de la pantomime, et l'on trouve, chez Pétrone, l'expression de manus loquaces.
+Au huitième siècle, Bède le Vénérable, célèbre religieux anglais que l'estime publique a placé presque au rang des Pères de l'Église, écrivit un traité De loquela per gestum digitorum, traité qui est compris dans le volumineux recueil de ses oeuvres.
+[Note six: Tome premier de l'édition de Cologne, mille six cent quatre-vingt-huit, huit vol.
+Bède s'appuie sur l'autorité de Plutarque, de Pline, d'Apulée, de Juvénal, pour prouver que l'art dont il s'occupe d'énoncer les règles était connu des anciens.] Tous les lecteurs de Rabelais se rappellent de quelle façon Panurge fit quinault l'Angloys qui arguoyt par signes.
+D'après un mémoire d'H.
+Dunbar, inséré dans les Actes de la Société philosophique de l'Amérique du Nord, il se rencontre, parmi les nombreuses tribus indiennes répandues le long du Mississipi, des individus qui savent tirer un parti admirable des ressources de la pantomime pour exprimer leurs idées.
+Nous sortirions des limites de notre sujet, si nous parlions ici du langage manuel en usage parmi les sourds-muets.
+Nous nous contenterons de mentionner un alphabet qu'on peut appeler alphabet facial.
+Monsieur Bertin, dans son Système universel et complet de sténographie (Paris, an douze), fait connaître un alphabet de son invention, d'après lequel la position des doigts sur le visage sert à transmettre tout ce qu'on veut faire savoir.
+Il laisse de côté les voyelles isolées o et u, et il exprime par un même signe les lettres telles que g et j, q et k, qui donnent des sons à peu près identiques.
+       Traits physionomiques.
+b         Doigt placé diagonalement sous l'oeil droit et en d         »     sur le coin droit de la bouche.
+FV        »     sur le coin gauche.
+GJ        »     sur la joue gauche.
+h         »     au sommet de la tête.
+KQ        »     sur la lèvre supérieure.
+l         »     placé diagonalement sur l'oeil gauche.
+m         »     sur la bouche.
+n         »     sur la lèvre inférieure.
+p         »     sur la fossette du menton.
+r         Bouche ouverte.
+s         Doigt couché horizontalement sur l'intervalle des t         »     sur le nez.
+x         »     au cou.
+y         »     à l'intervalle des sourcils.
+on        »     au front.
+ou        »     perpendiculairement sous l'oreille droite.
+oui       Doigt horizontalement près de l'oreille gauche.
+au        »     à l'aile droite du nez.
+eu        »     au sourcil droit.
+ai        »     à l'aile gauche du nez.
+a         »     au sourcil gauche.
+i         »     à la tempe droite.
+e         »     à la tempe gauche.
+le, la, les, »  placé verticalement devant la figure.
+_nom d'homme_,  main ouverte.
+_fin de mot_,   doigt fermé.
+_fin de phrase_,   main fermée.
+_numération sténographique_, emploi du pouce au On emploie deux doigts à la fois pour exprimer une lettre qui se répète.
+Si l'on veut aller plus vite, on emploie encore deux doigts à la fois, en ayant soin de convenir que le pouce est la première, et l'index la seconde.
+Vigenère a fait très-succinctement mention de cette méthode, lorsqu'il dit un mot en passant de «l'entreparler tacitement par les doigts en les élevant ou les plaquant sur la bouche ou sur l'un des yeux.»  Langage des fleurs.
+C'est dans les sérails que l'art ingénieux de correspondre avec des fleurs a pris naissance; il fait partie des moeurs orientales.
+«Les Chinois, dit un écrivain ingénieux, ont un alphabet composé entièrement avec des plantes et des racines; on lit encore sur les rochers de l'Égypte les anciennes conquêtes de ces peuples exprimées avec des végétaux étrangers.
+Ce langage est donc aussi vieux que le monde, mais il ne saurait vieillir, car chaque printemps en renouvelle les caractères, et cependant la liberté de nos moeurs l'a relégué parmi les amusements des harems.
+Un oeillet veut dire un homme, et les couleurs diverses, les variétés d'espèce de la fleur, caractérisent cet homme au physique comme au moral.
+L'étoilée exprime l'idée de père ou de mère; si la fleur est rouge, les parents sont indulgents et bons; si elle est violette, ils sont rigoureux et sévères.
+L'hyacinthe veut dire: ami ou amie.
+Indiquons le sens attaché à d'autres fleurs: oreille-d'ours,    soeur ou frère.
+Un écrivain moderne, se basant sur les considérations de la botanique ou sur les récits de la mythologie, a composé un dictionnaire du langage des fleurs, pour écrire un billet; transcrivons-en une partie, en faisant remarquer toutefois que plusieurs de ces significations sont très-contestables.
+abandon,            anémone.
+ Des alphabets factices.
+Ce qui donne du prix aux recueils rares où ces alphabets se rencontrent, c'est qu'on ne les a jamais reproduits depuis que l'on a fait de la grammaire positive, parce qu'ils n'appartiennent à aucune langue dont il soit resté des traditions.
+L'alphabet d'Énoch, celui de Moïse et celui de Salomon sont de pure invention, tout comme celui dont un magicien célèbre, Honorius le Thébain, se servit, dit-on, pour écrire ses livres de sorcellerie.
+Vigenère a conservé les lettres sous lesquelles cet insigne sorcier (qui n'a jamais existé) dissimulait les arcanes les plus profonds de la nécromancie.
+Nous croyons inutile de reproduire ces signes étranges, auxquels quelques anciens auteurs conseillent de recourir pour chiffrer, mais dont personne ne fait usage depuis bien longtemps.
+On peut assimiler aux alphabets factices les figures bizarres dont les recueils de secrets magiques sont remplis, et les mots inventés à plaisir et qu'on donnait comme possédant des propriétés surnaturelles et comme renfermant un sens ignoré du vulgaire.
+Nous ne nous étendrons pas sur ce sujet, qui demeure étranger aux idées scientifiques; nous transcrirons seulement comme échantillon une phrase prise dans un livre de sortiléges et qui restera sans doute toujours inintelligible: «Magabusta Berenada Surmistaras.
+Gorisgatpa Helotim Latintas aciton aragiaton Amka jaribai untus gilgar Selingarasch.» § Ier.
+ Artifices imaginés pour déguiser des dates.
+Il est juste de rapporter à la Cryptographie les artifices qu'ont employés quelques scribes du moyen âge afin de dissimuler, sous une forme énigmatique plus ou moins ingénieuse, la date des manuscrits qu'ils transcrivaient.
+En voici un exemple que fournit un des manuscrits français de la Bibliothèque impériale de Paris.
+Ce livre fut tout parfait On voit que l'auteur indique, par les initiales de plusieurs mots, des lettres ayant une valeur numérique en chiffres romains, pour former par leur réunion l'année de l'achèvement de sa transcription.
+Il s'est plu à présenter cette indication d'une manière énigmatique par un jeu assez goûté de son temps.
+La tête d'un Moyne, (M) mille.
+Y ajouter celles de deux Cordeliers et d'un Chanoine, (CCC) trois cents.
+Puis, un O partagé en deux, (CC) deux cents.
+Laisser de côté les têtes de Jhesus, de sainct Jehan, de sainct Jacques et de Jacob (quatre à soustraire).
+Prendre ensuite un dix (dix).
+La difficulté consiste à savoir ce que signifie ung N prise en algorithme.
+Ce dernier mot, évidemment altéré pour les besoins de la rime, est algorisme, algorismus, que le dictionnaire de Du Cange explique par arithmetica, numerandi ars.
+La lettre qu'il s'agit de considérer numériquement est un N, lettre qui ne joue point en latin le rôle d'un chiffre.
+D'après la forme que lui donne le manuscrit, on voit qu'elle joue, peut se décomposer en un cinq et un un, ce qui donne en chiffres: six (six).
+Maintenant, en additionnant ces différents nombres, mille, trois cents, deux cents, dix et six, puis en retranchant quatre, on trouve mille cinq cent douze.
+Une date semblable, composée par le chanoine Charles de Bovelle, est citée dans la Notice de Monsieur du Sommerard sur l'hôtel de Cluny.
+trois trois.
+Un petit volume très-rare, le Passe-temps et le Songe du triste, publié à Lyon, s'annonce comme ayant été mis au jour: L'an de trois croix, cinq croissans, ung trépier.
+Ce qui signifie mille cinq cent trente, les figures étant rangées de droite à gauche:  Des artifices employés par quelques auteurs pour déguiser leurs  noms.
+Il a été de mode parmi certains auteurs du seizième siècle de déguiser leurs noms sous une devise qui les couvrait du manteau d'une anagramme plus ou moins ingénieuse, plus ou moins exacte.
+Le Formulaire fort récréatif de tous contratz...
+fait par Bredin, Lyon, mille cinq cent quatre-vingt-quatorze.
+Les mots Bonté ny soit, sont en guise de signature à la fin de l'avis au lecteur; on croit y reconnaître le nom anagrammatisé de l'auteur: Benoist (du) Troncy.
+Le chevalier de Cailly, dont les spirituelles épigrammes ont reparu dans la jolie Collection des petits classiques françois (mille huit cent vingt-cinq, neuf vol.
+in-seize), n'eut guère l'intention de se dérober sérieusement aux regards du public lorsqu'il se présenta sous le nom d'Aceilly.
+Les plus impénétrables de ces pseudonymes sont peut-être ceux que des membres d'académies italiennes se décernèrent, obéissant ainsi à une mode qui dura un instant pendant le siècle dernier.
+On ne se douterait qu'Euforbo Melesigenio désigne Calazo; c'est sous le nom d'Eritisco Pilenejo que Pagnini livra aux presses élégantes de Bodoni sa traduction d'Anacréon.
+Un pauvre comédien qui termina ses jours par une mort volontaire, Caron, auteur et éditeur de livrets facétieux, recherchés des bibliomanes, s'amusait à avoir recours à l'artifice peu mystérieux de la disposition rétrograde des mots.
+Il donna un de ses écrits comme l'oeuvre du bonze Esiab-luc et comme ayant été imprimé à Emeluogna.
+Un petit poëme de la fin du quinzième siècle, le Messagier damours, révèle par un acrostiche placé dans les huit derniers vers le nom de l'auteur, Pilvelin.
+ De l'emploi que divers littérateurs ont fait de la Cryptographie.
+Quelques écrivains ont eu recours aux procédés de la Cryptographie, afin de dérober aux profanes le sens de certains passages de leurs écrits qu'il leur convenait de couvrir des ombres du mystère; nous pouvons en citer plusieurs exemples.
+Il est facile de reconnaître que l'artifice consiste ici en ce que chaque mot doit être lu de droite à gauche.
+«Les dames de la cour et quelques autres encore,» etc.
+Un poëte latin du seizième siècle, Jean de Cysinge, plus connu sous le nom de Janus Pannonius, offre des particularités semblables.
+En feuilletant l'édition de ses Poemata (Utrecht, mille sept cent quatre-vingt-quatre, deux vol.
+in-8º), nous avons remarqué que l'épigramme deux cent soixante-seize du Ier livre (tom.
+un, p.
+cinq cent soixante-dix-sept), in meretricem lascivam, est en partie chiffrée; Le second vers est exprimé sous cette forme: Conserui et dxoop nfouxmb delituit.
+et le dernier: Expecta nondum, Lucia, efgxuxk.
+Nous rencontrons deux ou trois pages chiffrées dans une composition spirituelle et piquante sortie de la plume d'un des romanciers les plus féconds et les plus en vogue du dix-neuvième siècle.
+Quelques-uns des nombreux lecteurs de la Physiologie du mariage ont sans doute été plus intrépides et plus heureux que nous.
+Terminons en mentionnant une autre particularité dans le genre de celles que nous signalons ici.
+Les Oeuvres poétiques du sieur de La Charnais, gentilhomme nivernois, renferment cent dix-huit énigmes, dont une table, en deux pages, donne la clef.
+Cette table est gravée à l'envers, en sorte que, pour la lire, il faut avoir recours à un miroir.
+L'auteur a, d'ailleurs, eu le soin de donner dans sa préface cette explication à ses lecteurs.
+C'est une singularité dont il serait sans doute difficile de trouver d'autres exemples.
+Voici quelle était la première ligne de cet écrit: cinquante-trois +++ trois cent cinq) six; quatre mille huit cent vingt-six) quatre +); huit cent huit; quarante-huit + [Note sept: Consultez une notice intéressante insérée dans la Revue des Deux-Mondes, octobre mille huit cent quarante-six.
+«Autant de récits, autant d'énigmes sous diverses formes et avec des costumes divers.
+Poésie, invention, effets de style, enchaînement du drame, tout est subordonné à une bizarre préoccupation qui semble ne connaître qu'une faculté inspiratoire, celle du raisonnement; qu'une muse, la logique.
+Mais laissons les lecteurs chercher eux-mêmes dans les pages de Monsieur Poë comment s'accomplit ce tour de force.
+Les compositions satiriques, les écrits qui ne ménagent nullement la religion et la décence, forment presque toujours la catégorie où rentrent les livres à clef.
+Nous allons en citer quelques-uns.
+On voit que l'auteur a eu recours au plus vulgaire et au plus facile de tous les moyens de déguisement, à l'anagramme, procédé bien candide et bien naïf, puisque les éléments du mot se présentent d'eux-mêmes à qui prend la peine de les chercher.
+À côté du livre que nous venons d'indiquer, plaçons: Les Aventures de Pomponius (par Labadie), Rome (Hollande), mille sept cent vingt-cinq.
+Ce récit allégorique, dirigé contre le régent (Philippe d'Orléans) et ses favoris, présente aussi des noms cachés sous le voile de l'anagramme: Relosan, Orléans; Lauges, Gaules; Cilopang, Polignac; Judosb, Dubois; Nedoc, Condé; Xeamu, Meaux.
+Dans les Veillées du Marais ou Histoire du grand prince Oribeau et de la vertueuse princesse Oribelle, par Rétif de la Bretonne, tous les noms sont travestis: Rousseau devient Assuero, et Voltaire Iratlove.
+N'oublions pas les Soupers de Daphné et les Dortoirs de Lacédémone (par de Querlon), mille sept cent quarante.
+Les Amours de Zéokinizul, roi des Korfirans, présentent un mystère qu'il est facile de percer; l'anagramme complaisante nomme d'elle-même: Louis quinze, roi des Français.
+Indiquons encore: Les Visites, par mademoiselle de Kéralio, Paris, mille sept cent quatre-vingt-douze, in-huit.
+Voyage du Vallon tranquille (par Charpentier), réimprimé en mille sept cent quatre-vingt-seize avec des notes servant de clef, par Mercier de Saint-Léger et Adry.
+Histoire de la princesse de Paphlagonie, par mademoiselle de Montpensier.
+Paris, Histoire véridique, anecdotique, morale et poétique, avec la clef, par Chevrier, La Haye, mille sept cent soixante-sept.
+Galerie des États généraux (par Mirabeau, de Luchet, etc.).
+Ne laissons pas échapper, dans cette énumération rapide et nécessairement fort incomplète, un ouvrage célèbre, le Cymbalum mundi, de Bonaventure Des Periers.
+Vogt, dans son Catalogus librorum rariorum, mentionne un recueil de poésies, d'une bizarre mysticité, imprimé en mille sept cent trente-huit et qui fut défendu.
+Les noms y sont anagrammatisés; Madaavemania est l'âme (anima) d'Adam et d'Ève qui délivre Sirchtus (Christus); Rifeluc est Lucifer; Moscos désigne Cosmos, le Monde, etc.
+Nous nous garderons bien de tout citer en ce genre; aussi laisserons-nous de côté un fastidieux roman du chevalier de Mouhy, intitulé les Mille et une Faveurs, mille sept cent quarante, cinq vol.
+Il faut de la patience et de la sagacité pour arriver à la lecture d'une dépêche chiffrée qui a été interceptée.
+La première chose à faire est de dresser le catalogue des caractères qui composent le chiffre et de noter combien chacun est répété de fois.
+Ceci fait, on examine leurs combinaisons; on tourne, on retourne, on dispose de toute façon ces caractères, jusqu'à ce que des conjectures se présentent avec vraisemblance sur l'attribution de tel ou tel caractère à telle ou telle lettre.
+Je vois d'abord que h i k f se trouvent en deux endroits (B, M); que i k f se trouvent en un seul (F); enfin, que h e k f (C) et h i k f (B, M) ont du rapport entre eux.
+De là allant à K ou g b f b c b g, on voit que, puisque f est voyelle, b sera consonne dans le b f b, par les mêmes raisons que ci-dessus; donc c sera voyelle, à cause de b c h.
+Dans L ou g b g r b, b est consonne; r sera consonne, parce qu'il n'y a qu'un r dans tout l'écrit; donc g est voyelle.
+Dans D ou f c g f g, il y aurait donc un mot ou une partie de mots en cinq voyelles, mais la chose est impossible.
+Il n'y a point de mot latin qui présente cette particularité; on se tromperait donc en prenant f c g, pour voyelles; donc ce n'est pas f, mais m qui est voyelle, et f consonne; donc b est voyelle (voyez K).
+En opérant successivement de semblable manière sur toute la phrase chiffrée, on finit par en découvrir le sens, et on trouve que le chiffre que nous avons reproduit, doit se traduire de la manière suivante: Perdita sunt bona; Mindarus interiit: urbs strata humi est.
+Esuriunt tot quot superfuere vivi; præterea quæ agenda sunt consulito.
+Les mots composés d'un très-petit nombre de syllabes doivent être les premiers dont on s'occupe dans les opérations du déchiffrement.
+Ils laissent sans trop de peine les voyelles se révéler, et cette découverte conduit à celle des consonnes.
+La connaissance exacte des principes généraux qui régissent l'orthographe des diverses langues est le fil qu'il faut suivre dans ces opérations minutieuses.
+Indiquons quelques-uns des principes qui servent de guide pour opérer le déchiffrement d'un écrit en langue française.
+Le signe qui revient le plus souvent, surtout à la fin des mots, désigne la voyelle e.
+Cette lettre est la seule qui, à la fin d'un mot, se répète deux fois, comme dans désirée, fusée, etc.
+Ainsi, lorsqu'on trouve le même signe placé deux fois à la fin d'un mot, il y a toute probabilité que ce signe représente l'e.
+La voyelle e, dans un mot de deux lettres, est toujours précédée des consonnes c d j l m n s t ou suivie de celles n t.
+Indépendamment de l'interjection o, qui n'est guère employée dans une dépêche secrète, il n'y a en français que deux lettres qui, seules, forment un mot complet.
+Ces lettres sont a et y.
+Si l'on trouve un signe isolé dans le texte chiffré, il est à croire qu'il correspond à une de ces deux lettres.
+Dans les mots formés de deux lettres où se trouve la voyelle a, elle précède d'ordinaire les lettres h, i, u, comme dans ah ai au, ou bien elle est après les lettres l, m, n, s, t, comme dans la, ma, sa, ta.
+Des diphthongues, ai, au, eu, oi, ou, la dernière est celle qui revient le plus souvent, surtout dans les mots de quatre syllabes.
+Lorsque la lettre e est l'avant-dernière d'un mot, ce mot se termine d'ordinaire par l'une de ces deux consonnes, r ou s.
+Lorsque la voyelle est suivie d'une autre voyelle, c'est habituellement d'un e.
+Il est rare qu'un mot finisse par les consonnes b, f, g, h, p, q.
+Les mots formés de trois lettres sont ceux qui donnent le plus de peine au déchiffreur, lorsque la même lettre s'y trouve deux fois comme dans été, ici, non, ses.
+Ayant découvert la lettre s, vous examinerez si elle ne se trouve pas précéder un mot de deux lettres, dont la seconde ne soit pas la lettre e, que vous connaissez déjà.
+Alors ce sera nécessairement un a ou un i.
+Pour vous en assurer, voyez si, dans d'autres endroits, ce dernier signe ne précède pas, dans un autre mot de deux lettres, la lettre l; en ce cas, vous serez certain que c'est un i.
+Si, au contraire, dans un autre mot de deux lettres, ce signe suit la lettre l, vous en conclurez qu'il désigne l'a.
+Le mot cette, où tout sera connu excepté la lettre c, le mot ville où la lettre v seule était encore un mystère, se révéleront d'une façon analogue.
+Quand vous serez ainsi parvenu à connaître sept ou huit mots, vous trouverez sans trop de peine les autres, en recherchant quelles sont les lettres qu'il convient de mettre entre celles qui sont déjà connues pour en former des mots.
+En peu de temps, vous obtiendrez, par ce procédé, une clef qui servira à déchiffrer aisément toute la dépêche.
+Disons encore quelques mots à l'égard des principes qu'il s'agit d'avoir en vue pour divers idiomes européens.
+En anglais, l'e est la voyelle qui revient le plus fréquemment; elle est assez souvent suivie d'un a comme dans earl (comte), great, reason.
+L'o est commun dans les mots formés de deux lettres; il est maintes fois accompagné du w, comme dans grow, know, narrowly.
+L'y se rencontre souvent à la fin des mots et presque jamais au milieu.
+L'article indéclinable the (le, la, les) reparaît fréquemment.
+Les consonnes doubles que l'on trouve à la fin des mots, sont ll et ss.
+En italien, les mots se terminent le plus souvent par une des quatre voyelles, a, e, i, o; l'u est rare en pareil cas.
+Che est le plus fréquent des mots composés de trois lettres, et aucun d'eux, si ce n'est gli, n'offre un l pour lettre du milieu.
+La langue espagnole présente des mots d'une grande étendue, tels que arrepentimiento, verdaderamente.
+La voyelle o est celle qui est la plus fréquente; à la fin des mots, elle est souvent accompagnée de l's, comme dans nosotros, votos.
+Au milieu des mots, u est fréquemment suivi d'un e; vuestro, ruego.
+Passons à l'allemand.
+L'e est la voyelle la plus usitée; elle se présente fréquemment à l'extrémité des mots de plusieurs syllabes; ils finissent en er, es, en ou et.
+L'n est la consonne qui revient le plus souvent; l'a n'est jamais à la fin d'un mot composé de trois lettres; la consonne c est toujours liée au h ou au k.
+Il n'y a qu'un seul mot formé d'une seule lettre, c'est l'exclamation o! On ne compte que deux mots de quatre lettres qui se terminent en enn, wenn et denn.
+Presque tous les mots de quatre lettres commencent par une consonne qu'accompagne une voyelle, exemples: bald, dein, doch, etwn, Hand.
+Kortum, dans ses Principes (en allemand) de la science du déchiffrement des écrits chiffrés en langue allemande, donne à ce sujet de très-longs détails qu'il serait très-superflu de placer ici, et il soumet aux règles qu'il expose deux dépêches chiffrées.
+La première ne présente que des lettres: Efs ekftfo Tabwc efs fsef hkfcu La seconde est plus compliquée; les lettres sont entremêlées de chiffres et les mots ne sont pas séparés: soixante-quatremf4km134kc4o4kng43e4p mvingt-quatreo4kq25293edk6n4kmm3b13......
+En étudiant le retour des signes et leur arrangement, on arrive à découvrir successivement quelques lettres, et, une fois qu'elles sont connues, elles sont d'un secours pour arriver à connaître les autres.
+Les règles pour le déchiffrement, telles qu'elles ont été exposées par divers auteurs, reposent, on le voit, sur le plus ou moins d'abondance de certaines lettres dans les mots, et sur leur rapprochement.
+Afin de dérouter les conjectures, il faut, lorsqu'on chiffre des dépêches, écrire les mots sans aucune séparation, entremêler des mots pris dans une langue avec d'autres mots empruntés à un idiome différent et ne point se conformer scrupuleusement aux règles de l'orthographe.
+Voici un fait de ce genre.
+Monsieur Decremps, auteur de la Magie blanche dévoilée, se vantait de parvenir promptement à percer les mystères les plus difficiles.
+Afin de l'éprouver, un de ses amis lui adressa un jour quelques lignes qu'il avait écrites en caractères dont il avait fait choix.
+Muni de cette clef, il découvrit bien vite qu'on lui avait adressé copie de quelques vers d'une traduction d'une des odes d'Anacréon, et il causa à son ami l'étonnement le plus vif, en prouvant que ce que ce dernier avait cru parfaitement caché était dévoilé.
+On donne le nom d'encre de sympathie aux substances dont on fait usage, qui ne laissent point de traces sur le papier et qui apparaissent derechef, lorsqu'elles sont soumises à l'action de divers procédés.
+Lorsqu'on veut avoir recours à un pareil moyen, il faut faire attention à ce que la dépêche ostensible ne mentionne rien qui puisse donner lieu à quelque soupçon.
+Le papier doit conserver sa couleur et son éclat habituels.
+Les phrases tracées à l'encre ordinaire doivent être conçues de manière que le lecteur, sous les yeux de qui elles tomberaient, n'ait aucune raison de croire qu'elles n'expriment pas réellement la pensée de l'écrivain et qu'elles n'appartiennent pas à une correspondance sérieuse.
+On tracera sur les marges, entre les lignes ou sur le côté du feuillet demeuré blanc, ce que l'on veut communiquer en secret.
+Il importe que les passages écrits en encre sympathique demeurent invisibles jusqu'à l'accomplissement des procédés qui doivent les rendre au jour; il faut qu'après l'application de ces procédés ils puissent être lus nettement et sans difficulté.
+On convient d'un signe quelconque qui, placé soit sur l'adresse, soit dans le corps de la lettre, indique, à celui qui la reçoit, qu'il y a des passages tracés en encre de sympathie.
+Nous n'avons pas besoin d'ajouter que ce signe doit être mis de manière à échapper aisément aux regards des curieux et à n'offrir aucune importance apparente.
+Il est des caractères qui reparaissent, lorsqu'on répand sur eux quelque poudre.
+On peut tracer sur le papier une écriture invisible de ce genre, avec tous les sucs glutineux et non colorés des plantes ou des fruits, ou bien avec de la bière, du lait, des liqueurs grasses ou aqueuses.
+On laisse sécher ce qu'on a écrit.
+Pour le rendre visible, on frotte la feuille de papier avec une poudre très-fine et de couleur foncée; du charbon pilé extrêmement menu, du cinabre, du bleu de Prusse, peuvent servir à cet usage.
+La poudre s'attache aux lettres qui ont été tracées et elle la fait revivre.
+Diverses écritures deviennent visibles, lorsqu'on les expose au grand jour.
+L'extrait de saturne, étendu d'eau, donne une écriture invisible qui apparaît et devient noirâtre, lorsqu'elle est livrée à l'action de l'air.
+On obtient un résultat semblable avec de l'argent dissous dans de l'acide nitrique; les caractères tracés avec pareil liquide deviennent verdâtres, lorsqu'ils sont exposés à l'air; placés de manière à recevoir les rayons du soleil, ils se montrent d'un noir rougeâtre.
+On peut aussi se servir de substances qui reparaissent, lorsque le papier est fortement échauffé.
+Le cobalt, le vitriol, et d'autres agents chimiques, ont été employés avec plus ou moins de succès dans la composition d'encre de sympathie de différents genres.
+On a découvert des substances bonnes pour former des caractères qui ressuscitent, pour ainsi dire, lorsque le papier auquel on les a confiés est légèrement mouillé ou lorsqu'il est plongé dans l'eau.
+En écrivant avec un liquide formé d'une portion d'eau-forte et de trois portions d'eau, on obtient des caractères qui ne paraissent pas, lorsque le papier est plongé dans l'eau; à mesure qu'il sèche, ils disparaissent.
+Ils pourront devenir visibles une seconde et même une troisième fois.
+Il est aussi des écritures occultes qui reparaissent, lorsqu'on les humecte avec un liquide approprié.
+C'est ainsi qu'une dissolution de vitriol ou de couperose donne des caractères qui se montrent à l'oeil, lorsqu'on frotte le papier avec une éponge imbibée d'un liquide, dont voici la composition: noix de galle concassées et mises dans de l'eau ou du vin blanc.
+On obtient le même résultat, en plaçant cette écriture invisible entre deux papiers légèrement imbibés de cette dernière dissolution; il faut que le tout soit enfermé et serré dans un livre pendant quelques moments.
+Un procédé assez ingénieux consiste à masquer l'écriture invisible au moyen d'autres caractères que l'on trace dessus en se servant d'une encre formée de paille d'avoine brûlée et délayée dans de l'eau.
+Quant on passe l'éponge, cette écriture disparaît et laisse voir à la place celle qui était invisible.
+Des caractères tracés avec du bleu de Prusse paraîtront d'un bleu éclatant, si on les imbibe avec la dissolution acide du vitriol vert.
+Une dissolution d'or fin dans de l'eau végétale, coupée avec de l'eau pure, fournit une encre sympathique qui disparaît en séchant, lorsqu'on veille à tenir le papier renfermé et à le soustraire à l'influence du grand air.
+Ces mêmes caractères, exposés au soleil, reparaîtront au bout d'une heure ou deux.
+Disons, une fois pour toutes, que, dans l'écriture occulte, il faut employer des plumes neuves et affectées à cet usage spécial.
+Les anciens auteurs qui ont écrit sur la Cryptographie n'ont point oublié les procédés que nous indiquons.
+Si l'on trasse quelque chose sur le bras, un autre endroit du corps, avec du laict ou de l'urine, en jectant de la cendre dessus, elle y adhère et monstre ce qui y aura été desseigné.
+Le sel ammoniac, resouls à part soy à la cave ou autre lieu humide, si on escrit de ceste liqueur, tout demeure blanc; frottez le papier avec du coton trempé en eau distillée de vitriol ou de couperose: l'escriture apparoistra noire.
+Puis, on la replastre avec de la craye ou ceruse, et de la chaulx vive empastées avec de la glaise.
+Si qu'il seroit bien malaisé d'y rien remarquer ne connoistre, quand bien mesme on les aurait fait durcir et peller, car cela demeure enclos en leur substance, sans que rien paroisse dehors.
+«Il y a un autre malin artifice qui se faict avec de l'alun bruslé, destrempé en eau dont on escrit sur du papier: estant sec, tout deviendra blanc.
+Résumons les autres détails dans lesquels cet auteur et ses émules entrent à l'égard du sujet qui nous occupe.
+L'écriture faite avec une eau de vitriol ne devient visible, qu'en passant par-dessus de la décoction de noix de galle.
+Le sel ammoniac, avec la chaux ou le savon, donne à l'écriture une couleur blanche.
+Après avoir critiqué l'antique secret des tablettes enduites de cire, Porta indique les procédés suivants: Écrivez avec de la graisse de bouc sur du marbre; les lettres, en séchant, deviennent invisibles; plongez le marbre dans le vinaigre, elles reparaissent sur-le-champ.
+Écritures que l'eau rend visibles: Qu'on écrive avec du jus de citron, ou de coing, ou d'oignon, ou tout autre suc acide; quand ces lettres sont sèches, on n'aperçoit rien; écrivez, entre les lignes, avec de l'encre, des choses indifférentes, afin de dérouter tout soupçon.
+En approchant la lettre du feu, l'écriture cachée devient lisible.
+Broyez du sel ammoniac, mêlez-le dans l'eau, écrivez avec cette liqueur: l'écriture paraîtra de la même couleur que le papier; approchez-le du feu, les lettres paraîtront noires.
+Si l'on écrit avec du jus de cerises, l'écriture paraîtra verte au feu.
+Il est aussi des écritures qu'on peut rendre visibles par l'emploi de l'eau seule.
+Ce que l'on écrit avec une dissolution d'alun devient invisible, en séchant; il ne faut que plonger le papier dans l'eau pour faire revivre l'écriture.
+Panurge s'efforce de découvrir le sens de cette missive, disant que «la feuille de papier estoyt escripte, mais l'estoyt par telle subtilité que l'on n'y voyoit point d'escripture.
+«Il la mist auprès du feu pour veoir si l'escripture estoyt faicte avec du sel ammoniac détrempé en eaue.
+Puys, la mist dedans l'eaue pour sçavoir si la lettre estoyt escripte du suc de tithymale.
+Puys, la monstra à la chandelle, si elle estoyt point escripte du jus d'oignons blancz.
+«Puys, en frotta une partie d'huylle de noix, pour veoir si elle estoyt point escripte de lexif de figuier.
+Puys, en frotta une part de laict de femme alaictant sa fille première née, pour veoir si elle estoyt poinct escripte de sang de rabettes.
+Puys, en frotta un coing de cendres d'ung nid d'arondelles, pour veoir si elle estoyt escripte de rosée qu'on trouve dans les pommes d'alicacahut.
+Puys, en frotta ung aultre bout de la sanie des aureilles, pour veoir si elle estoyt escripte du fiel de corbeau.
+Puys, la trempa en vinaigre, pour veoir si elle estoit escripte de laict d'espurge.
+Puys, la graissa d'axunge de souris chaulves, pour veoir si elle estoit escripte avec sperme de baleine, qu'on appelle ambre gris.
+Nous avons adopté l'ordre alphabétique comme étant celui qui facilite le mieux les recherches.
+Anweisung zum Dechiffriren, oder die Kunst verborgene Schriften aufzuloesen, Helmstadt, mille sept cent cinquante-cinq, in-huit.
+BACO (Franc.
+de Verulamio).
+De dignitate et augmentis scientiarum, lib.
+six, c.
+Voir ses Opera omnia.
+Francof., mille six cent soixante-cinq, folio, pag.
+cent quarante-sept-cent cinquante et un.
+BECHERUS (J.
+J.).
+Character pro notitia linguarum universali, invenium steganographicum hactenus inauditum, etc.
+Francofurti, mille six cent soixante et un, in-huit.
+Mémoire sur la découverte des lois d'un chiffre de feu le professeur Hermann, proposé comme absolument indéchiffrable.
+Mémoires de l'Académie royale des sciences et belles-lettres de Berlin, tom.
+quatorze (mille sept cent soixante-cinq) pag.
+trois cent soixante-neuf-trois cent quatre-vingt-neuf.
+L'Oeuvre des oeuvres ou le plus parfait des sciences stéganographiques, Paris, mille six cent vingt-trois, in-huit.
+BIELFELD (J.
+de), Institutions politiques (la Haye, mille sept cent soixante, in-quatre), tom.
+deux, pag.
+cent quatre-vingt-onze.
+BREITHAUPT (Chr.).
+Disquisitio historica, critica, curiosa de variis modis occulte scribendi, tum apud veteres quum apud recentiores usitatis, Helmstadt, mille sept cent vingt-sept, in-huit.
+--Ars decifratoria sive scientia occultas scripturas solvendi et legendi, Helmst., mille sept cent trente-sept, in-huit, trente-deux et cent soixante pag.
+BUERGA (A.).
+Pasilasie oder Grundriss einer allgemeinen Sprache, Berlin, mille huit cent huit.
+CARLET (J.
+du).
+La Cryptographie, contenant la manière d'écrire secrètement, Tolose, mille six cent quarante-quatre, in-douze.
+COLORNI (Abr.).
+Scotografia italica, Praga, mille cinq cent quatre-vingt-treize, in-quatre.
+COMIER (d'Ambrun).
+Traité de la parole, langues et écritures, contenant la sténographie impénétrable, ou l'Art d'écrire et de parler occultement de loin et sans soupçon.
+Bruxelles, mille six cent quatre-vingt-onze, in-douze.
+CONRADI (Dav.
+Arn.).
+Cryptographia denudata, sive ars deciferandi quæ occulte scripta sunt in quocunque linguarum genere, Lugd.
+Bat., mille sept cent trente-neuf, in-huit, soixante-treize pag.
+L'Interprétation des chiffres, ou Reigle (sic) pour bien entendre et expliquer facilement toutes sortes de chiffres simples, tiré de l'italien du sieur A.
+Monsieur Cospi, secrétaire du grand-duc de Toscane.
+Augmenté et accommodé particulièrement à l'usage des langues française et espagnole, par F.
+nord P.
+Monsieur Paris, mille six cent quarante et un, in-huit, quatre-vingt-dix pag.
+CRELLII (L.
+C.) Diss.
+de scytala laconica, Lipsiæ, mille six cent quatre-vingt-dix-sept, in quatre.
+DALGARNO (George).
+Ars signorum, vulgo character universalis et lingua philosophica, Londini, mille six cent soixante-sept, in-huit.
+Cet écrit a paru à M.
+Nodier extrêmement remarquable (voir les Mélanges extraits d'une petite bibliothèque, pag.
+deux cent soixante-huit, et les Notions de linguistique, mille huit cent trente-quatre, pag.
+trente et un).
+Les ouvrages de Dalgarno ont été réimprimés à Edimbourg en mille huit cent trente-quatre; la Revue d'Edimbourg, nº cent vingt-quatre, juillet mille huit cent trente-cinq, leur a consacré un article.
+Le Contr'espion ou les clefs de toutes les correspondances secrètes, Paris, mille sept cent quatre-vingt-quatorze, soixante-six pag.
+FIRMAS-PERIÈS (Le comte).
+Pasitélégraphie, Stuttgard, mille huit cent onze, in-huit.
+FORELIUS (H.).
+Dissertatio de modis occulte scribendi et præcipue de scytala laconica, Holmiæ, mille six cent quatre-vingt-dix-sept, in-huit.
+FRIDERICI (J.
+B.).
+Cryptographia, oder geheimer Schriftmund und wirkliche Correspondenz, Hamburg, mille six cent quatre-vingt-quatre, in-quatre.
+FUNKS (Chr.
+B.).
+Natürliche Magie, Berlin, mille sept cent quatre-vingt-trois, in-huit.
+(Il s'y trouve quelques détails sur l'art de déchiffrer.) GERRAR (DI).
+Siglarium romanum sive explicatio notarum ac litterarum, Londres, mille sept cent quatre-vingt-treize, in-quatre.
+GODEVIN (François), évêque d'Hereford, Nuncius inanimatus Utopiæ, mille six cent vingt-neuf.
+L'auteur expose mystérieusement les avantages d'une méthode secrète de correspondance au moyen de signes convenus.
+S'GRAVESAND, Introductio in philosophiam (Lugd.
+Bat., mille sept cent trente-sept).
+Il y est question, ch.
+trente-cinq, de l'écriture en chiffres.
+GRISCHOW (Aug.).
+Introductio in philologiam generalem, Jenæ, mille sept cent quatre, in-huit.
+Le chap.
+quatre roule sur l'art d'écrire en chiffres avec rapidité, et sur les moyens de découvrir pareils secrets.
+HANEDI, Steganologia et Steganographia nova.
+Geheime, magische, natürliche Red- und Schreibekunst, Nuremberg (sans date), in-huit, deux cent quatre-vingt-dix-neuf pag.
+Le véritable nom de l'auteur est Daniel Schwenter, professeur de mathématiques à Altorf, mort en mille six cent trente-six.
+HILLERI (L.
+H.) Mysterium artis steganographicæ novissimum, Ulmæ, mille six cent quatre-vingt-deux, in-huit, quatre cent soixante-dix-huit pag.
+Un errata de six pag.
+termine le volume.
+Cette multitude de fautes contribua sans doute au peu de succès de ce traité plus ample que celui de Breithaupt, mais moins méthodique.
+Il ne s'adapte spécialement qu'au latin, à l'italien, à l'allemand et au français, et seulement aux chiffres à clef simple ou dont l'alphabet n'est pas variable.
+L'auteur avait donné un aperçu de son travail dans son Opusculum steganographicum, publié à Tubingue en mille six cent soixante-quinze.
+HINDENBURG (C.
+F.).
+Archiv der reinen und angewandten Mathematik.
+(Les cahiers trois et cinq roulent sur l'art de chiffrer.) HOTTINGA (Domin.
+de).
+Polygraphie ou méthode universelle de l'écriture cachée et cabalistique, Groningue, mille six cent vingt, in-quatre.
+C'est la reproduction textuelle de la traduction de la Polygraphie de Trithème, publiée en mille cinq cent quarante et un par Gabriel de Collange.
+Hottinga n'a point hésité à donner ce travail comme étant entièrement son oeuvre, et il déclare, dans sa préface, qu'il lui a consacré de longues et pénibles veilles.
+Il existe peu d'exemples d'un plagiat aussi effronté.
+Hieroglyphic or a grammatical introduction to an universal hieroglyphic language, London, mille sept cent soixante-huit.
+KALMAR (Georgius).
+Præcepta grammatica atque Specimina linguæ philosophicæ sive universalis ad omne vitæ genus adcommodatæ.
+Berolini, mille sept cent soixante-douze, in-quatre, cinquante-six pag.
+KIRCHERI (Athan.) Artificium cryptographicum, seu abacus numeralis, dans la Magia universalis de Schott, part.
+quatre, lib.
+--Polygraphia seu artificium linguarum, quocum omnibus totius mundi populis poterit quis correspondere, Rome, mille six cent soixante-trois, in-folio, Amsterd., mille six cent quatre-vingts.
+Cet ouvrage curieux est divisé en trois parties; la première offre une pasigraphie en écriture universelle que chacun peut lire dans sa langue.
+Le principe d'où il part est un dictionnaire numéroté tel que Becher l'avait proposé sans l'exécuter; Kircher l'exécuta en petit sur cinq langues (le latin, le français, l'allemand, l'italien, l'espagnol).
+Son vocabulaire a environ un virgule six mots; les formes variables des noms et des verbes sont exprimées par des signes de convention.
+La seconde partie donne une sténographie plus ingénieuse que celle de Trithème.
+La troisième partie concerne l'invention d'une boîte ou bureau stéganographique pour écrire ou lire très-promptement en chiffre quelconque.
+KLÜBER (Lud.).
+Kryptographik, Lehrbuch der Geheimschreibekunst, Tubingue, mille huit cent neuf, in-huit, quatre cent soixante-dix p.
+KORTUM (C.
+A.).
+Anfangsgründe der Entzifferungskunst deutscher Zifferschriften, Duisburg, mille sept cent quatre-vingt-deux, in-huit, cent quarante-quatre pag.
+Langage (Le) muet, ou l'Art de faire l'amour sans se parler, sans écrire et sans se voir, Middelbourg, mille six cent quatre-vingt-huit, in-douze.
+LATOUR (Charlotte de).
+Le Langage des fleurs, Paris, mille huit cent vingt; sixième éd., mille huit cent quarante-cinq, in-douze, trois cent vingt-huit p.
+(L'auteur de cet ouvrage, en prose et en vers, est Monsieur Aimé Martin.) LEIBNITZ.
+Historia et commendatio linguæ characteristicæ universalis, dans ses Oeuvres posthumes, éditées par Rashe, cent quarante-quatre pag.
+(LEMANG).
+Die Kunst der Geheimschreiberei,...
+Leipzig, mille sept cent quatre-vingt-dix-sept, in-quatre, quarante pag.
+LENNEP (D.
+de).
+de Monsieur Tullio Tirone, Amsterdam, mille huit cent quatre.
+LINDNER (Sam.).
+Elementa artis decifratoriæ, Regiomontani, mille sept cent soixante-dix, in-huit.
+Mysterienbuch alter und neuer Zeit, oder Anleitung geheimer Schriften zu lesen, Leipzig, mille sept cent quatre-vingt-dix-sept, in-huit, cent quinze pag.
+NEYRIN (J.
+P.).
+Principes du droit des gens.
+(Brunswick, mille sept cent quatre-vingt-trois, in-huit), pag.
+cent soixante et suiv.
+Nouveau Traité de diplomatique, par deux religieux bénédictins (D.
+Toussaint et D.
+Tassin).
+Paris, mille sept cent cinquante-soixante-cinq.
+six vol.
+trois, p.
+quatre cent quatre-vingt-dix-neuf-six cent vingt-deux.
+NIETHAMMER (J.
+M.).
+Ueber Pasigraphie und Ideographie, Nurnberg, mille huit cent huit, in-huit.
+Nouvelle Découverte d'une langue universelle pour les négociants, Paris, mille six cent quatre-vingt-sept, in-douze.
+Opus novum, præfectis arcium, imperatoribus exercituum, exploratoribus, peregrinis, inventoribus, militibus ac omnis industriæ et litteraturæ studiosis, principibus maxime utilissimum pro cipharis lingua latina, græca, italica et quavis alia multiformiter describentibus interpretandisque.
+(En latin et en italien, in-huit, quarante-quatre feuillets.) À la fin on lit: Impressum Romæ, anno MDXXVI.
+Au second feuillet, l'auteur se donne le nom de Jacques Silvestre, citoyen de Florence.
+OZANAM (Jacques).
+Récréations mathématiques et physiques, mille sept cent soixante-dix-huit, quatre vol.
+On y trouve diverses méthodes de Sténographie.
+PANCIROLLI (Guidonis).
+Rerum memorabilium sive deperditarum commentarius, mille six cent soixante, in-quatre.
+Il parle des chiffres, pag.
+deux cent soixante-deux et suiv.
+Polizeischrift, geheime, des Grafen von Vergennes, mille sept cent quatre-vingt-treize, in-huit, quarante-six pag.
+PORTA (J.
+B.).
+De furtivis litterarum notis vulgo de ziferis libri quinque, Neapoli, mille cinq cent soixante-trois, in-quatre.
+Autres éditions: Londres, mille cinq cent quatre-vingt-onze, in-quatre.--Montbelliard, mille cinq cent quatre-vingt-treize, in-huit.--Naples, mille six cent deux, in-folio.--Strasbourg, mille six cent trois, in-huit.
+--Magia naturalis, Naples, mille cinq cent cinquante-huit.--Anvers, mille cinq cent soixante et un.--Naples, mille cinq cent quatre-vingt-neuf.--Leyde, mille six cent quarante-quatre et mille six cent cinquante et un.
+Il est question, dans le livre seize, de l'art de chiffrer.
+PRASSE (Monsieur de).
+De reticulis cryptographicis, Lipsiæ, mille sept cent quatre-vingt-dix-neuf, in-quatre, quatorze pag.
+RAMSAY (C.
+A.).
+Art d'écrire aussi vite qu'on parle, Paris, mille sept cent quatre-vingt-trois, in-douze.
+L'original est en latin; il parut dès mille six cent soixante-dix-huit et fut réimprimé avec une version française (par A.
+G.).
+Paris, mille six cent quatre-vingt-un.
+Depuis cette dernière date, ce livre a été souvent réimprimé en France et à l'étranger, dans la fin du dix-septième siècle.
+Les anciennes éditions portaient pour titre: Tacheographie ou l'Art d'écrire, etc.
+On en connaît une traduction allemande, Leipzig, mille sept cent quarante-cinq, in-huit.
+SARPE, Prolegomena ad tachygraphiam romanam, Rostock, mille huit cent vingt-neuf, in-quatre.
+SCHMIDT (J.
+M.).
+Vollstændiges wissenschaftliches Gedankenverzeichniss zum Behuf einer allgemeinen Schriftsprache, Dillingen, mille huit cent sept, in-huit.
+--Grundsætze für eine allgemeine Schriftlehre, mille huit cent seize-mille huit cent dix-huit, deux vol.
+SCHOTT (Gaspard).
+Schola steganographica in classes octo distributa, Nuremberg, mille six cent soixante-cinq, in-quatre.
+D'autres éditions de mille six cent soixante-six et de mille six cent quatre-vingts sont indiquées par les bibliographes.
+--Thaumaturgus physicus seu magia universalis naturæ et artis, mille six cent cinquante-sept-mille six cent cinquante-neuf, quatre vol.
+in-quatre; mille six cent soixante-dix-sept.
+On trouve, dans le quatrième volume de cet ouvrage curieux, des notions détaillées sur les divers moyens imaginés par les anciens et les modernes, pour se communiquer leurs pensées à l'aide de l'écriture secrète.
+SELENI, Gustavi (id est, Augusti, ducis Brunsvicensis), Cryptomenyticis et Cryptographiæ libri neuf, in quibus et planissima Steganographiæ J.
+Trithemii enodatio traditur, inspersis ubique auctoris et aliorum non contemnendis inventis, Luneburgi, mille six cent vingt-quatre, in-folio.
+SOLBRIT (Dav.).
+Ratio scribendi per zifras, mille sept cent vingt-six, in-huit.
+--Allgemeine Schrift oder Art durch Ziffern zu schreiben, Coburg, mille sept cent trente-six, in-huit.
+C'est la traduction de l'ouvrage latin précédent.
+Steganographia recens detecta, Ulm, mille sept cent soixante-quatre, in-huit, quatre-vingt-dix-sept p.
+Malgré son titre latin, cet ouvrage est en allemand (semblable circonstance n'est pas rare pour d'anciens écrits publiés au delà du Rhin).
+L'auteur a gardé l'anonyme, mais il a signé la préface des lettres C.
+STEIN (A.).
+Ueber Schriftsprache und Pasigraphie, München, mille huit cent neuf, in-huit.
+STIELER (C.
+von).
+Deutsche Secretariatskunst.
+Nuremberg, mille six cent soixante-dix-huit, in-quatre.
+Voir tom.
+un, pag.
+cinq cent quarante-sept-cinq cent cinquante-cinq.
+Histoire abrégée de la Cryptographie.
+Il s'en trouve un extrait dans les Mémoires de l'Académie de Berlin, t.
+un, mille sept cent quarante-cinq, p.
+cent cinq et suiv.
+TOD (Al.).
+The olive-leafe or an universal A.
+C., London, mille six cent trois, in-huit.
+TRITHEMII (J.).
+Polygraphiæ libri six, Oppenheim, mille cinq cent dix-huit, in-folio.--Francof., mille cinq cent cinquante.--Colon., mille cinq cent soixante-quatre.--Argent., mille six cents et mille six cent treize.--Colon., mille six cent soixante et onze.
+--Steganographia, Francof., mille six cent six.--Darmst., mille six cent six,--Francof., mille six cent huit.--Darmst., mille six cent vingt et un--Colon., mille six cent trente-cinq.
+--La Polygraphie et universelle écriture de Trithème, traduit du latin par Gabriel de Collange, Paris, mille cinq cent soixante et un, mille six cent vingt et un, mille six cent vingt-cinq, in-huit.
+[Note huit: La triste destinée de Collange mérite qu'on en fasse mention.
+Trithemii, genuina declaratio, auctore J.
+Caramuele, Colon., mille six cent trente-quatre, in-quatre.
+TRITHEMII Stenographia vindicata et illustrata, auctore W.
+est Heidel, Mayence, mille six cent soixante-seize, in-quatre.
+Une édition de Nuremberg, mille sept cent vingt et un, in-quatre, est citée.
+UKEN (M.).
+Steganometrographia, sive artificium novum et inauditum, Francof., mille sept cent cinquante et un, in-huit, trois cent vingt-huit p.
+Il en existe une traduction allemande, Ulm, mille sept cent cinquante-neuf.
+URQUHART (Thomas).
+Logopandecteision, or an introduction to the universal language, London, mille six cent cinquante-trois, in-quatre.
+VATER (J.
+sud).
+Pasigraphie und Antipasigraphie...
+ou sur la découverte récente d'une langue universelle pouvant servir à tous les peuples, Leipzig, mille sept cent quatre-vingt-dix-neuf, in-douze, deux cent soixante-huit pag.
+WALLIS (J.).
+Opera miscellanea, Oxoniæ, mille six cent quatre-vingt-dix-neuf, in-folio.
+Dans son traité De combinationibus et alternationibus, ce célèbre mathématicien donne des exemples de déchiffrement, sans expliquer toutefois les méthodes dont il fait usage.
+WILDVOGEL (Ch.).
+de scripturis terribilibus, Francof., mille sept cent dix-neuf, in-quatre.
+WILKINS (évêque de Chester).
+Mercure ou le Messager secret et prompt où l'on montre comment on peut communiquer vite et sûrement ses pensées à un ami éloigné, Londres, mille six cent quarante et un, in-quatre.
+(L'ouvrage est en anglais.) --Essay towards a real charater and a philosophical language, Londres, mille six cent soixante-huit, in-folio.
+Un extrait de cet ouvrage, devenu fort rare, se trouve dans les Transactions philosophiques, nº trente-cinq.
+WOLKE (C.
+H.).
+Erklærung wie wechselseitige Gedankenmittheilunen aller cultivirten Voelker des Erdkreises, oder die Paxiphrasie möglich und ausüblich sey, ohne Erlernung irgend einer neuen besondern, oder einer allgemeinen Wortschrift oder Zeichensprache, Dessau, mille sept cent quatre-vingt-dix-sept.
+CHAPITRE Ier.
+Définition de la Cryptographie, son origine; CHAP.
+Auteurs qui ont écrit sur la Cryptographie.
+            trente-cinq CHAP.
+Règles et procédés de Cryptographie.
+                  quatre-vingt-onze CHAP.
+Des diverses sortes d'écritures et des différents CHAP.
+Du rôle de la Cryptographie dans la littérature.
+       cent quatre-vingt-six CHAP.
+Des livres à clef.
+                                    deux cent deux CHAP.
+Du déchiffrement.
+                                    deux cent huit CHAP.
+Des écritures occultes.
+                             deux cent vingt-cinq Bibliographie.
+                                                  deux cent quarante-deux [Notes au lecteur de ce fichier numérique: --De nombreuses erreurs ont été imprimées dans cet ouvrage; peu d'entre elles ont été corrigées lors de la création de ce fichier.
+--Les mots contenus dans [] sont imprimés dans des cases (ex: page cent vingt).
+--Cet ouvrage contient de nombreux signes qui ne peuvent être reproduit dans ce fichier; ils ont été remplacés par [Gl.] pour Glyphe, [Pt.] pour Point, etc.
+--Les signes enclos dans [= =] sont encadrés dans l'ouvrage.
+--Chiffres précédés par [- sont surmontés d'un trait; ceux précédés

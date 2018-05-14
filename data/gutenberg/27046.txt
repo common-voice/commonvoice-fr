@@ -1,0 +1,501 @@
+NEF, University of Toronto & Project Gutenberg, deux mille huit Copyright © deux mille huit Marie Lebert Cet article est disponible en anglais: Project Gutenberg (mille neuf cent soixante et onze-deux mille huit).
+En juillet mille neuf cent soixante et onze, Michael Hart crée le Projet Gutenberg pour diffuser gratuitement sous forme électronique les oeuvres littéraires du domaine public.
+Un projet longtemps considéré par ses détracteurs comme impossible à grande échelle.
+Site pionnier à tous égards, le Projet Gutenberg est à la fois le premier site d'information sur un réseau encore embryonnaire et la première bibliothèque numérique.
+Les livres sont numérisés en mode texte (TXT) en utilisant le code ASCII (American standard code for information interchange).
+Lorsque l'utilisation du web se généralise, au milieu des années mille neuf cent quatre-vingt-dix, le projet trouve un second souffle et un rayonnement international.
+En octobre deux mille un, la principale source des livres devient Distributed Proofreaders, mis sur pied par Charles Franks pour gérer la correction partagée entre volontaires.
+D'abord essentiellement anglophones, le Projet Gutenberg s'internationalise et les collections deviennent multilingues.
+Le Projet Gutenberg Europe est lancé en janvier deux mille quatre par le Projet Rastko, basé à Belgrade, en Serbie.
+Suivent le Project Gutenberg Canada et bien d'autres.
+= En quelques mots Si le livre imprimé a cinq siècles et demi, le livre numérique a tout juste trente-sept ans.
+Il est né avec le Projet Gutenberg, créé en juillet mille neuf cent soixante et onze par Michael Hart pour diffuser gratuitement sous forme électronique les oeuvres littéraires du domaine public.
+Site pionnier à tous égards, le Projet Gutenberg est à la fois le premier site d'information sur un réseau encore embryonnaire et la première bibliothèque numérique.
+Longtemps considéré par ses détracteurs comme totalement irréaliste, le Projet Gutenberg compte vingt-cinq.00 titres en avril deux mille huit, avec des dizaines de milliers de téléchargements quotidiens.
+A ce jour, personne n'a fait mieux pour mettre les classiques de la littérature mondiale à la disposition de tous, ni pour créer à moindres frais un immense réseau de volontaires de par le monde, sans gâchis de compétences ni d'énergie.
+Les vingt premières années, Michael Hart numérise lui-même les cent premiers livres, avec l'aide occasionnelle de telle ou telle personne.
+Lorsque l'utilisation du web se généralise au milieu des années mille neuf cent quatre-vingt-dix, le projet trouve un second souffle et un rayonnement international.
+Tout en continuant de numériser des livres, Michael Hart coordonne désormais le travail de dizaines puis de centaines de volontaires de par le monde.
+Les collections atteignent un.000 livres en août mille neuf cent quatre-vingt-dix-sept, deux.000 livres en mai mille neuf cent quatre-vingt-dix-neuf, trois.000 livres en décembre deux mille et quatre.000 livres en octobre deux mille un.
+Trente ans après ses débuts, le Projet Gutenberg fonctionne à plein régime.
+Avec trois cent quarante nouveaux livres par mois, quarante sites miroirs dans de nombreux pays, plusieurs dizaines de milliers de téléchargements par jour et des dizaines de milliers de volontaires toutes équipes confondues.
+Qu'ils aient été numérisés il y a trente ans ou qu'ils soient numérisés maintenant, tous les livres sont numérisés en mode texte, en utilisant l'ASCII (American standard code for information interchange) original sur sept bits, avec des règles précises pour le formatage.
+Grâce à quoi les textes peuvent être lus sans problème quels que soient la machine, la plateforme et le logiciel utilisés, y compris sur un PDA ou sur une tablette de lecture.
+Libre ensuite à chacun de convertir les livres dans d'autres formats, après avoir vérifié que les oeuvres sont également du domaine public dans le pays concerné.
+En janvier deux mille quatre, le Projet Gutenberg essaime outre-Atlantique avec la création du Projet Gutenberg Europe.
+A la mission originelle s'ajoute le rôle de passerelle entre les langues et les cultures, avec de nombreuses sections nationales et linguistiques.
+Tout en conservant la même ligne de conduite, à savoir la lecture pour tous à moindres frais, par le biais du texte électronique gratuit, indéfiniment utilisable et reproductible.
+Et, dans un deuxième temps, la numérisation de l'image et du son, dans le même esprit.
+= Gestation puis persévérance Revenons aux tous débuts du projet.
+Alors étudiant à l'Université d'Illinois (Etats-Unis), Michael Hart se voit attribuer cent millions de dollars de "temps machine" par le laboratoire informatique (Materials Research Lab) de son université.
+Le quatre juillet mille neuf cent soixante et onze, jour de la fête nationale, il saisit The United States Declaration of Independence (Déclaration de l'indépendance des Etats-Unis, signée le quatre juillet mille sept cent soixante-seize) sur le clavier de son ordinateur.
+En caractères majuscules, puisque les caractères minuscules n'existent pas encore.
+Le texte électronique représente cinq Ko (kilo-octets).
+Mais l'envoi d'un fichier de cinq Ko à la centaine de personnes que représente le réseau de l'époque aurait fait imploser celui-ci, la bande passante étant infime.
+Michael Hart diffuse donc un message indiquant où le texte est stocké - sans lien hypertexte toutefois, puisque le web ne voit le jour que vingt ans après - suite à quoi le fichier est téléchargé par six personnes.
+Le Projet Gutenberg est né.
+Dans la foulée, Michael Hart décide de consacrer ce crédit-temps de cent millions de dollars à la recherche des oeuvres du domaine public disponibles en bibliothèque et à la numérisation de celles-ci.
+Il décide aussi de stocker les textes électroniques de la manière la plus simple possible, au format ASCII, pour que ces textes puissent être lus sans problème quels que soient la machine, la plateforme et le logiciel utilisés.
+Au lieu d'un ensemble de pages reliées, le livre devient un texte électronique que l'on peut dérouler en continu, avec des lettres capitales pour les termes en italique, en gras et soulignés de la version imprimée.
+Peu après, il définit la mission du Projet Gutenberg: mettre à la disposition de tous, par voie électronique, le plus grand nombre possible d'oeuvres du domaine public.
+"Nous considérons le texte électronique comme un nouveau médium, sans véritable relation avec le papier", explique-t-il beaucoup plus tard, en août mille neuf cent quatre-vingt-dix-huit.
+Cette Déclaration des droits comprend les dix premiers amendements ajoutés en mille sept cent quatre-vingt-neuf à la Constitution des Etats-Unis (qui date elle-même de mille sept cent quatre-vingt-sept), et définissant les droits individuels des citoyens et les pouvoirs respectifs du gouvernement fédéral et des Etats.
+En mille neuf cent soixante-treize, Michael Hart saisit The United States Constitution (Constitution des Etats-Unis) dans son entier.
+D'année en année, la capacité de la disquette augmente régulièrement - le disque dur n'existe pas encore - si bien qu'il est possible d'envisager des fichiers de plus en plus volumineux.
+Michael Hart entreprend la numérisation de la Bible, composée elle-même de plusieurs livres, qui peuvent être traités séparément et occuper chacun un fichier différent.
+Il débute aussi la saisie des oeuvres complètes de Shakespeare, une pièce après l'autre, avec un fichier pour chaque pièce.
+D'autres éditions annotées appartenant au domaine public sont mises en ligne quelques années après.
+Parallèlement, l'internet, qui était encore embryonnaire en mille neuf cent soixante et onze, débute véritablement en mille neuf cent soixante-quatorze, suite à la création du protocole TCP/IP (transmission control protocol / internet protocol).
+En mille neuf cent quatre-vingt-trois, le réseau est en plein essor.
+En mille neuf cent quatre-vingt-dix, les internautes sont au nombre de deux cent cinquante.000, et le standard en vigueur est la disquette de trois cent soixante Ko (kilo-octets).
+En janvier mille neuf cent quatre-vingt-onze, Michael Hart saisit Alice's Adventures in Wonderland (Alice au pays des merveilles) de Lewis Carroll (paru en mille huit cent soixante-cinq).
+En juillet de la même année, il saisit Peter Pan de James Monsieur Barrie (paru en mille neuf cent quatre).
+Ces deux classiques de la littérature enfantine tiennent chacun sur une disquette standard.
+Arrive ensuite le web, opérationnel en mille neuf cent quatre-vingt-onze.
+Le premier navigateur, Mosaic, apparaît en novembre mille neuf cent quatre-vingt-treize.
+Lorsque l'utilisation du web se généralise, il devient plus facile de faire circuler les textes électroniques et de recruter des volontaires.
+En janvier mille neuf cent quatre-vingt-quatorze, le Projet Gutenberg fête son centième livre avec la mise en ligne de The Complete Works of William Shakespeare (Les oeuvres complètes de William Shakespeare).
+Shakespeare aurait écrit l'essentiel de son oeuvre entre mille cinq cent quatre-vingt-dix et mille six cent treize.
+La production continue ensuite d'augmenter, avec une moyenne de huit textes par mois en mille neuf cent quatre-vingt-quatorze, seize textes par mois en mille neuf cent quatre-vingt-quinze et trente-deux textes par mois en mille neuf cent quatre-vingt-seize.
+Comme on le voit, entre mille neuf cent quatre-vingt-onze et mille neuf cent quatre-vingt-seize, la production double chaque année.
+Tout en continuant de numériser des livres, Michael Hart coordonne désormais le travail de dizaines de volontaires.
+Cette présentation en trois secteurs est abandonnée par la suite pour laisser place à un classement par rubriques plus détaillé.
+Le Projet Gutenberg se veut universel, aussi bien pour les oeuvres choisies que pour le public visé, le but étant de mettre la littérature à la disposition de tous, en dépassant largement le public habituel des étudiants et des enseignants.
+Pratiquement tous les épisodes de Star Trek citent des livres ayant leur correspondant numérique dans les collections du Projet Gutenberg.
+L'objectif est donc que tous les publics, qu'ils soient familiers ou non avec le livre imprimé, puissent facilement retrouver des textes entendus dans des conversations, des films, des musiques, ou alors lus dans d'autres livres, journaux et magazines.
+Les fichiers électroniques prennent peu de place grâce à l'utilisation du format ASCII.
+On peut facilement les télécharger par le biais de la ligne téléphonique.
+La recherche textuelle est tout aussi simple.
+Il suffit d'utiliser la fonction "recherche" présente dans n'importe quel logiciel.
+En mille neuf cent quatre-vingt-dix-sept, la production est toujours de trente-deux titres par mois.
+En juin mille neuf cent quatre-vingt-dix-sept, le Projet Gutenberg met en ligne The Merry Adventures of Robin Hood (Les aventures de Robin des Bois) de Howard Pyle (paru en mille huit cent quatre-vingt-trois).
+En août mille neuf cent quatre-vingt-dix-sept, il met en ligne son millième texte électronique, La Divina Commedia di Dante (La Divine Comédie de Dante, parue en mille trois cent vingt et un), dans sa langue d'origine, en italien.
+En août mille neuf cent quatre-vingt-dix-huit, Michael Hart écrit: "Mon projet est de mettre dix.000 textes électroniques sur l'internet.
+En mai mille neuf cent quatre-vingt-dix-neuf, les collections comptent deux.000 livres.
+Le deux.000e texte est Don Quijote (Don Quichotte) de Cervantès (paru en mille six cent cinq), dans sa langue d'origine, en espagnol.
+Disponible en décembre deux mille, le trois.000e titre est le troisième volume de A l'ombre des jeunes filles en fleurs de Marcel Proust (paru en mille neuf cent dix-neuf), dans sa langue d'origine, en français.
+La moyenne passe à cent quatre livres par mois en deux mille un.
+Mis en ligne en octobre deux mille un, le quatre.000e texte est The French Immortals Series (La série des Immortels français), dans sa traduction anglaise.
+Publié en mille neuf cent cinq par la Maison Mazarin (Paris), ce livre rassemble plusieurs fictions d'écrivains couronnés par l'Académie française, comme Emile Souvestre, Pierre Loti, Hector Malot, Charles de Bernard, Alphonse Daudet, etc.
+Disponible en avril deux mille deux, le cinq.000e texte est The Notebooks of Leonardo da Vinci (Les Carnets de Léonard de Vinci), qui datent du début du seizee siècle.
+Un texte qui, en deux mille huit, se trouve toujours dans le Top cent des livres téléchargés.
+En mille neuf cent quatre-vingt-huit, Michael Hart choisit de numériser Alice's Adventures in Wonderland et Peter Pan parce que, dans l'un et l'autre cas, leur version numérisée tient sur la disquette standard de l'époque de trois cent soixante Ko (kilo-octets).
+Quinze ans plus tard, en deux mille deux, on dispose de disquettes de un virgule quatre quatre Mo (mégaoctets) et on peut aisément compresser les fichiers en les zippant.
+Un fichier standard peut désormais comporter trois millions de caractères, plus qu'il n'en faut pour un livre de taille moyenne.
+Un roman de trois cents pages numérisé au format ASCII représente un mégaoctet.
+Un livre volumineux représente deux fichiers ASCII, téléchargeables tels quels ou en version zippée.
+Cinquante heures environ sont nécessaires pour sélectionner un livre de taille moyenne, vérifier qu'il est bien du domaine public, le scanner, le corriger, le formater et le mettre en page.
+Quelques numéros de livres sont réservés pour l'avenir, par exemple le numéro mille neuf cent quatre-vingt-quatre (eBook #mille neuf cent quatre-vingt-quatre) pour le roman éponyme de George Orwell, publié en mille neuf cent quarante-neuf, et qui est donc loin d'être tombé dans le domaine public.
+En deux mille deux, les collections s'accroissent de deux cent trois titres par mois.
+Au printemps deux mille deux, elles représentent le quart des oeuvres du domaine public en accès libre sur le web, recensées de manière pratiquement exhaustive par l'Internet Public Library (IPL).
+Un beau résultat dû au patient travail de milliers de volontaires actifs dans plusieurs pays.
+Le dix.000e livre est The Magna Carta, qui fut le premier texte constitutionnel anglais, signé en mille deux cent quinze.
+Entre avril deux mille deux et octobre deux mille trois, les collections doublent, passant de cinq.000 à dix.000 livres en dix-huit mois.
+La moyenne mensuelle est de trois cent quarante-huit livres numérisés en deux mille trois.
+Dix mille livres.
+Un chiffre impressionnant quand on pense à ce que cela représente de pages scannées, relues et corrigées.
+Cette croissance rapide est due à l'activité de Distributed Proofreaders (DP), un site conçu en deux mille par Charles Franks pour permettre la correction partagée.
+Les volontaires choisissent un livre en cours de traitement pour relire et corriger une page donnée.
+Chacun travaille à son propre rythme.
+A titre indicatif, le site conseille de relire une page par jour.
+C'est peu de temps sur une journée, et c'est beaucoup pour le projet.
+En août deux mille trois, un CD Best of Gutenberg est disponible avec une sélection de six cents livres.
+En décembre deux mille trois, date à laquelle le Projet Gutenberg franchit la barre des dix.000 livres, la quasi-totalité des livres (neuf.quatre cents livres) est gravée sur un DVD.
+CD et DVD sont envoyés gratuitement à qui en fait la demande.
+Libre ensuite à chacun de faire autant de copies que possible et de les distribuer autour de soi.
+= De dix mille à vingt mille livres En décembre deux mille trois, les collections approchent les onze.000 livres.
+Plusieurs formats sont désormais présents, à commencer par les formats HTML, XML et RTF, le format principal (et obligatoire) restant l'ASCII.
+Le tout représente quarante-six.000 fichiers, soit une capacité totale de cent dix gigaoctets.
+Le treize février deux mille quatre, date de la conférence de Michael Hart au siège de l'UNESCO à Paris, les collections comprennent très exactement onze.trois cent quarante livres dans vingt-cinq langues différentes.
+Parallèlement, le Project Gutenberg Consortia Center (PGCC), qui avait été lancé en mille neuf cent quatre-vingt-dix-sept pour rassembler des collections de livres numériques avec point d'accès unique, est officiellement affilié au Projet Gutenberg en deux mille trois.
+Par ailleurs, à l'instigation du Projet Rastko, basé à Belgrade (Serbie), les activités de Distributed Proofreaders Europe débutent en décembre deux mille trois, et celle du Projet Gutenberg Europe en janvier deux mille quatre, avec cent livres disponibles en avril deux mille cinq.
+Les livres sont en plusieurs langues pour refléter la diversité linguistique prévalant en Europe, avec cent langues prévues sur le long terme.
+En janvier deux mille cinq, le Projet Gutenberg fête ses quinze.000 livres, avec la mise en ligne de The Life of Reason de George Santayana (paru en mille neuf cent six).
+En juin deux mille cinq, le nombre de livres s'élève à seize.000.
+Si vingt-cinq langues seulement étaient présentes en février deux mille quatre, quarante-deux langues sont représentées en juillet deux mille cinq, dont l'iroquois, le sanscrit et les langues mayas.
+En décembre deux mille six, on compte cinquante langues.
+Lancé en août deux mille un, le Project Gutenberg of Australia fête ses cinq cents livres en juillet deux mille cinq, tandis que le Project Gutenberg Canada est en gestation, tout comme un Projet Gutenberg au Portugal et aux Philippines.
+En décembre deux mille six, le Projet Gutenberg franchit la barre des vingt.000 livres.
+Le vingt.000e livre est un livre audio, Twenty Thousand Leagues Under the Sea, version anglaise de Vingt mille lieues sous les mers de Jules Verne (publié en mille huit cent soixante-neuf).
+Sur ces vingt.000 livres, dix.000 ont été produits par Distributed Proofreaders depuis octobre deux mille.
+La moyenne est de trois cent quarante-cinq nouveaux livres par mois en deux mille six.
+A la même date, le Project Gutenberg of Australia approche les un.cinq cents livres (c'est chose faite en avril deux mille sept) et le Projet Gutenberg Europe compte quatre cents livres.
+Cette section comprend trois cent soixante-dix-neuf titres en décembre deux mille six.
+= De vingt mille à vingt-cinq mille livres Le site Project Gutenberg News débute en novembre deux mille six à l'instigation de Mike Cook, en tant que complément de la lettre d'information hebdomadaire et mensuelle existant déjà depuis nombre d'années.
+Le site offre par exemple les statistiques de production hebdomadaires, mensuelles et annuelles depuis deux mille un.
+Le Project Gutenberg Canada (PGC) voit le jour le premier juillet deux mille sept, le jour de la fête nationale, à l'instigation de Michael Shepard et David Jones.
+Distributed Proofreaders Canada (DPC) suit et la production débute en décembre deux mille sept.
+Les cent premiers livres sont disponibles en mars deux mille huit, avec des livres en anglais, en français et en italien.
+Le total pour les différents sites (USA, Australie, Europe) est de vingt-six.cent soixante et un titres en deux mille sept.
+Le Project Gutenberg Consortia Center (PGCC) - dont le but est de rassembler des collections de livres déjà numérisés - comptabilise soixante-quinze.000 livres en décembre deux mille sept.
+Le Projet Gutenberg envoie quinze millions de livres par voie postale en deux mille sept, sous forme de CD et DVD.
+Daté de juillet deux mille six, le dernier DVD comprend dix-sept.000 livres.
+Les images de ces CD et DVD peuvent aussi être téléchargées sur le site de BitTorrent pour gravage individuel.
+Distributed Proofreaders (DP), lancé en octobre deux mille, comptabilise cinquante-deux.000 volontaires en janvier deux mille huit, avec un nombre total de onze.neuf cent trente-quatre livres traités en sept ans et trois mois.
+Distributed Proofreaders Europe (DP Europe), lancé en décembre deux mille trois, comptabilise un.cinq cents volontaires.
+Distributed Proofreaders Canada (DPC), lancé en décembre deux mille sept, comptabilise deux cent cinquante volontaires en janvier deux mille huit.
+Le Projet Gutenberg franchit la barre des vingt-cinq.000 livres en avril deux mille huit.
+Le vingt-cinq.000e livre est English Book Collectors, de William Younger Fletcher (publié en mille neuf cent deux).
+Qu'ils aient été numérisés il y a des années ou qu'ils soient numérisés maintenant, tous les livres sont numérisés en mode texte, en utilisant l'ASCII original.
+Présent dès les débuts de l'informatique et dénommé Plain Vanilla ASCII, cet ASCII sur sept bits traite cent vingt-huit caractères, dont quatre-vingt-dix-sept caractères imprimables correspondant aux touches du clavier anglais ou américain (A-Z, a-z, chiffres, ponctuation et quelques symboles).
+Dans le cas de langues autres que l'anglais, on utilise des extensions de l'ASCII (appelées ISO-huit mille huit cent cinquante-neuf ou ISO-Latin) prenant en compte les caractères accentués.
+Mais, même dans ce cas, le Projet Gutenberg propose systématiquement en complément une version ASCII sur sept bits sans accents.
+Sauf, bien entendu, dans le cas de langues non traduisibles en ASCII, comme le chinois, qui est encodé au format Big-cinq.
+Dénommé à juste titre le plus petit dénominateur commun, l'ASCII sur sept bits est le seul format compatible avec quatre-vingt-dix-neufpourcent des machines et des logiciels, et pouvant être converti dans d'autres formats.
+Il sera toujours utilisé quand d'autres formats auront disparu, à commencer par les formats éphémères liés aux tablettes de lecture commercialisées depuis mille neuf cent quatre-vingt-dix-neuf et déjà disparues du marché.
+Il est l'assurance que les collections ne deviendront jamais obsolètes, et survivront aux changements technologiques des prochaines décennies ou même des prochains siècles.
+Il n'existe pas d'autre standard aussi largement utilisé pour le moment, y compris l'Unicode, système d'encodage universel créé en mille neuf cent quatre-vingt-onze.
+Le Projet Gutenberg propose toutefois certains livres dans d'autres formats, notamment dans les trois formats répandus que sont les formats HTML, XML et RTF.
+Des fichiers Unicode sont également présents.
+De plus, tout format proposé par tel ou tel volontaire - PDF, LIT, TeX et beaucoup d'autres - est généralement accepté, dans la mesure où un fichier ASCII est également présent.
+Pour une conversion à grande échelle dans un format donné, le relais est passé à d'autres organismes.
+Par exemple Blackmask Online, qui puise dans les collections du Projet Gutenberg pour proposer des milliers de livres gratuits dans huit formats différents, tous issus du format Open eBook (OeB).
+Ou encore Manybooks.net, qui convertit les collections du Projet Gutenberg dans des formats lisibles sur PDA.
+Ou encore GutenMark, un outil permettant de reformater les livres aux formats HTML et LaTEX pour une lecture plus attractive ou bien de les reformater au format PDF pour une impression à la demande.
+Ou encore MobileBooks, qui propose cinq.000 livres en Java pour lecture sur l'écran d'un téléphone portable.
+Ou encore Wattpad, un service gratuit permettant un accès immédiat aux livres du Projet Gutenberg sur son téléphone portable.
+Il consiste ensuite à relire le contenu du fichier texte au regard de l'original (image scannée ou livre imprimé) en corrigeant les erreurs, à savoir dix erreurs par page en moyenne quand le logiciel OCR est de qualité.
+Le livre est relu et corrigé à deux reprises par deux personnes différentes.
+Les livres anciens sont parfois saisis ligne après ligne si le texte original manque de clarté.
+Certains volontaires préfèrent taper eux-mêmes des textes courts ou des oeuvres qu'ils aiment particulièrement.
+Mais les livres sont le plus souvent scannés et OCRisés, puis relus et corrigés.
+Contrairement à la numérisation en mode image, qui s'arrête à l'étape du scanner, la numérisation en mode texte permet la copie du texte, l'indexation, la recherche plein texte, l'analyse textuelle, une étude comparative entre plusieurs textes, etc.
+On peut aussi lancer une recherche à partir de la fonction "chercher" proposée par n'importe quel programme, sans logiciel de recherche intermédiaire.
+Les avantages de la numérisation en mode texte sont multiples.
+Les fichiers prennent peu de place et circulent d'autant plus facilement.
+Contrairement à d'autres formats, le téléchargement d'un livre au format texte ne requiert pas de bande passante large.
+Le fichier texte peut être copié à l'infini, et constituer la base de centaines de nouvelles versions numériques et imprimées, pour un coût pratiquement nul.
+A tout moment, on peut corriger les erreurs typographiques qui auraient pu subsister.
+Les lecteurs peuvent changer à volonté la taille et la police des caractères, ainsi que les marges ou le nombre de lignes par page.
+Le lecteur malvoyant peut grossir la taille des polices et le lecteur aveugle utiliser un logiciel de reconnaissance vocale.
+Tout ceci est nettement plus difficile, sinon impossible, avec nombre d'autres formats.
+Le Projet Gutenberg insiste régulièrement sur la nécessité de la relecture, qu'il juge essentielle.
+Utiliser directement des livres scannés puis convertis au format texte par un logiciel OCR, sans relecture, donne un résultat de bien moindre qualité, avec une fiabilité de quatre-vingt-dix-neufpourcent dans le meilleur des cas.
+L'étape de la relecture avec correction permet d'atteindre une fiabilité de quatre-vingt-dix-neuf virgule neuf cinqpourcent, un pourcentage élevé qui est aussi le standard de la Library of Congress.
+Le Projet Gutenberg s'inscrit donc dans une perspective assez différente de la bibliothèque de l'Internet Archive (qui héberge également les collections du Projet Gutenberg, en tant que deuxième site de distribution et site de sauvegarde).
+Dans le cas de l'Internet Archive, les livres sont scannés puis OCRisés, mais ils ne sont pas relus par des correcteurs s'attachant à traquer les erreurs.
+Plus rapide et moins fiable quant au résultat, la numérisation des livres sans relecture est aussi la méthode adoptée par Google, Microsoft et bien d'autres pour leurs propres bibliothèques numériques.
+Le Projet Gutenberg dispose d'un moteur de recherche pour l'ensemble de ses collections, grâce à un partenariat avec Google, avec mise à jour mensuelle.
+Tout comme une recherche sur les métadonnées (auteur, titre, descriptif, mots-clés) grâce à un partenariat avec Yahoo!, avec mise à jour hebdomadaire.
+Pour la recherche avancée (Advanced Search), la recherche multicritères (auteur, titre, sujet, langue, catégorie, classification, format, numéro) inclut désormais un critère supplémentaire de recherche plein texte (Full Text), à titre expérimental.
+Disponible sur le site du Projet Gutenberg, le File Recode Service permet de convertir les fichiers d'un système d'encodage (ASCII, ISO-huit mille huit cent cinquante-neuf, Unicode, etc.) à un autre.
+A l'avenir, un logiciel de conversion beaucoup plus puissant devrait permettre la conversion automatique dans bien d'autres formats (XML, HTML, PDF, TeX, RTF, BRF, etc.).
+Il sera également possible de choisir d'emblée la taille et la police des caractères, ainsi que le fonds d'écran.
+Une autre conversion très attendue est la conversion d'une langue à une autre par le biais d'un logiciel de traduction automatique.
+Une telle conversion pourrait être possible dans quelques années, quand ce type de logiciel aura gagné en qualité.
+La croissance rapide des collections depuis deux mille un est due à l'activité de Distributed Proofreaders, site lancé en octobre deux mille par Charles Franks pour gérer la correction partagée entre les volontaires.
+A l'origine, il s'agit seulement d'intensifier la production de livres du Projet Gutenberg.
+Mais le succès est tel que le site devient la principale source des collections.
+En deux mille deux, Distributed Proofreaders est officiellement affilié au Projet Gutenberg.
+En mai deux mille six, Distributed Proofreaders devient une entité indépendante tout en poursuivant une collaboration étroite avec le Projet Gutenberg.
+Les volontaires n'ont aucun quota à respecter.
+A titre indicatif, il est suggéré de relire une page par jour, si possible.
+Cela semble peu, mais une page multipliée par des centaines de volontaires représente un chiffre considérable.
+La progression est rapide.
+En deux mille trois, une moyenne de deux cent cinquante à trois cents relecteurs quotidiens permet de produire entre deux.cinq cents et trois.000 pages par jour, ce qui représente deux pages par minute.
+En deux mille quatre, la moyenne est de trois cents à quatre cents relecteurs quotidiens produisant entre quatre.000 et sept.000 pages par jour, à savoir quatre pages par minute.
+Le premier mai deux mille huit, le site recense treize.trente-neuf livres versés dans le Projet Gutenberg, un.huit cent quarante livres prêts à y être versés (en cours de dernière relecture et assemblage) et un.000 livres en cours de correction.
+Le site a pour but de permettre à plusieurs correcteurs de travailler simultanément au même livre, sur des pages différentes.
+Le volontaire commence par s'inscrire.
+Il reçoit des directives détaillées.
+Ces directives concernent par exemple les parties en gras, en italique et soulignées, ou les notes, qui sont toutes traitées de la même manière.
+Un forum permet de poser des questions et de demander de l'aide si nécessaire.
+Quand le volontaire se connecte au site, il sélectionne le livre de son choix à partir d'une liste donnée.
+Une page du livre choisi apparaît simultanément en deux versions: d'une part l'image scannée, d'autre part le texte issu de cette image, produit par un logiciel OCR.
+Le relecteur compare les deux versions et corrige les différences.
+Un logiciel OCR étant fiable à quatre-vingt-dix-neufpourcent, ceci représente une moyenne de dix erreurs à corriger par page.
+La page est ensuite sauvegardée.
+Le relecteur peut soit cesser le travail, soit opter pour la correction d'une autre page.
+Tous les livres sont relus et corrigés deux fois de suite et, la deuxième fois, uniquement par des correcteurs expérimentés.
+Les pages corrigées sont ensuite formatées selon des règles précises et assemblées par d'autres volontaires pour obtenir un livre numérique.
+Durant tout le processus, un livre donné est suivi par un responsable (project manager) qui s'assure du bon déroulement des opérations.
+Après la mise en forme suit la mise en ligne, avec indexation (titre, sous-titre, numéro de l'ebook et format) puis catalogage (dates de naissance et de décès de l'auteur, classification de la Library of Congress, etc.).
+Les volontaires peuvent aussi travailler de manière indépendante, en s'adressant directement au Projet Gutenberg.
+Ils peuvent saisir leur livre préféré de bout en bout sur le traitement de texte de leur choix.
+Ils peuvent aussi scanner eux-mêmes un livre, le convertir en texte par le biais d'un logiciel OCR et faire les corrections nécessaires en comparant le résultat à l'original.
+Dans les deux cas, une deuxième relecture est faite par une autre personne.
+Toute participation est bienvenue, quelle que soit la méthode adoptée.
+Il est tout à fait possible d'envoyer des fichiers dans d'autres formats en complément du fichier ASCII.
+Aussi bien pour Distributed Proofreaders (DP) que pour Distributed Proofreaders Europe (DP Europe), de nouveaux volontaires sont bienvenus, y compris pour les livres en français.
+La tâche est immense.
+Comme indiqué sur les deux sites, "DP ne s'attend pas à un engagement inconditionnel de votre part.
+Corrigez des textes aussi souvent que vous le voulez, et le nombre de pages que vous voulez.
+Nous encourageons les gens à corriger une page par jour, mais vous êtes tout à fait libre de faire ce qui vous plaît.
+Sa vocation multilingue débute en mille neuf cent quatre-vingt-dix-sept.
+En octobre mille neuf cent quatre-vingt-dix-sept, Michael Hart annonce son intention de produire des livres dans d'autres langues que l'anglais.
+Début mille neuf cent quatre-vingt-dix-huit, le catalogue comprend quelques oeuvres en allemand, en espagnol, en français (dix titres), en italien et en latin.
+Outre l'anglais, six langues disposent de plus de cinquante livres: le français, l'allemand, le finnois, le hollandais, l'espagnol et le chinois.
+cinquante langues sont représentées en décembre deux mille six.
+Les langues comprenant plus de cinquante livres incluent désormais l'italien, le portugais et le tagalogue.
+cinquante-cinq langues sont représentées en avril deux mille huit.
+Le latin s'ajoute aux langues ayant plus de cinquante livres.
+L'espéranto est en bonne place avec quarante-cinq livres, tout comme le suédois avant quarante livres.
+Le français se trouve être la deuxième langue du Projet Gutenberg, après l'anglais.
+Le treize février deux mille quatre, on compte seulement cent quatre-vingt-un livres en français (sur un total de onze.trois cent quarante livres).
+Le seize mai deux mille cinq, on compte cinq cent quarante-sept livres en français (sur un total de quinze.cinq cent cinq livres).
+Soit trois fois plus en quinze mois.
+Le vingt-sept juillet deux mille cinq, on compte cinq cent soixante-dix-sept livres en français (sur un total de seize.huit cents livres).
+Le seize décembre deux mille six, on compte neuf cent soixante-six livres en français (sur un total de dix-neuf.neuf cent quatre-vingt-seize livres), soit un peu moins du double en dix-huit mois.
+Le vingt et un avril deux mille huit, on compte un.cent soixante-huit livres en français (sur un total de vingt-cinq.quatre livres).
+Le mouvement devrait sensiblement s'accélérer dans quelques années, quand le Projet Gutenberg Europe tournera à plein régime.
+Les premiers titres disponibles dans la langue de Molière sont six romans de Stendhal et deux romans de Jules Verne, tous mis en ligne au début de mille neuf cent quatre-vingt-dix-sept.
+Stendhal et Jules Verne sont suivis par Edmond Rostand, avec Cyrano de Bergerac, mis en ligne en mars mille neuf cent quatre-vingt-dix-huit.
+A la fin de mille neuf cent quatre-vingt-dix-neuf, le Top vingt, à savoir la liste des vingt auteurs les plus lus, mentionne Jules Verne à la onzième place, et Emile Zola à la seizième place.
+Ils sont toujours en bonne position dans le Top cent actuel.
+A titre anecdotique, le premier document illustré disponible toutes langues confondues est French Cave Paintings (Peintures des cavernes en France), mis en ligne dès avril mille neuf cent quatre-vingt-quinze, avec une version XHTML ajoutée en novembre deux mille.
+Il s'agit de quatre photos de peintures paléolithiques retrouvées dans une grotte de l'Ardèche (département de la région Rhône-Alpes).
+Ces photos sous droits ont été mises à la disposition du Projet Gutenberg par Jean Clottes, conservateur général du patrimoine, pour être largement diffusées.
+En deux mille quatre, le multilinguisme devient l'une des priorités du Projet Gutenberg, tout comme l'internationalisation.
+Michael Hart prend son bâton de pèlerin vers l'Europe, avec des étapes à Bruxelles, Paris et Belgrade.
+Le douze février deux mille quatre, il donne une conférence au siège de l'UNESCO (Organisation des Nations Unies pour l'éducation, la science et la culture) à Paris.
+Le lendemain, toujours à Paris, il anime un débat à l'Assemblée nationale.
+La semaine suivante, il s'adresse au Parlement européen à Bruxelles.
+Puis il rend visite à l'équipe du Projet Rastko à Belgrade, pour soutenir la création du Projet Gutenberg Europe et de Distributed Proofreaders Europe.
+Le lancement de Distributed Proofreaders Europe par le Projet Rastko en décembre deux mille trois représente une étape importante.
+Le site est calqué sur le site original de Distributed Proofreaders, pour gérer la relecture partagée du Projet Gutenberg Europe.
+Dès ses débuts, il s'agit d'un site multilingue, qui prend en compte les principales langues nationales.
+Grâce à des traducteurs volontaires, le site est disponible en douze langues en avril deux mille quatre et vingt-deux langues en mai deux mille huit.
+L'objectif à moyen terme est soixante langues - et donc soixante équipes linguistiques - avec prise en compte de toutes les langues européennes.
+Quand il aura atteint sa vitesse de croisière, Distributed Proofreaders Europe devrait alimenter plusieurs bibliothèques numériques nationales et/ou linguistiques, par exemple le Projet Gutenberg France pour la France.
+Quelques mots maintenant sur le Projet Rastko, qui s'est porté volontaire pour un pari aussi fou, catalysant du même coup les bonnes volontés européennes à l'est comme à l'ouest.
+Fondé en mille neuf cent quatre-vingt-dix-sept, le Projet Rastko est une initiative non gouvernementale à vocation culturelle et pédagogique.
+L'un de ses objectifs est la mise en ligne de la culture serbe.
+Il fait partie de la Balkans Cultural Network Initiative, un réseau culturel régional couvrant la péninsule des Balkans, située au sud-est de l'Europe.
+En mai deux mille cinq, Distributed Proofreaders Europe compte cent livres numérisés par ses soins, avec mise en ligne de ces cent livres le mois suivant sur le site du Projet Gutenberg Europe.
+En décembre deux mille six, DP Europe comptabilise quatre cents livres numérisés.
+La règle utilisée pour définir le domaine public est l'équation "décès de l'auteur + cinquante ans", qui correspond à la législation en vigueur en Serbie.
+DP Europe utilise l'Unicode pour pouvoir traiter des livres dans un grand nombre de langues.
+Le trois août deux mille cinq, le site recense cent trente-cinq livres versés dans le Projet Gutenberg Europe, quatre cent dix-huit livres prêts à y être versés (en cours de dernière relecture et assemblage) et cent vingt-cinq livres en cours de correction.
+Le dix mai deux mille huit, le site recense quatre cent quatre-vingt-seize livres versés dans le Projet Gutenberg Europe, six cent cinquante-trois livres prêts à y être versés (en cours de dernière relecture et assemblage) et quatre-vingt-onze livres en cours de correction.
+Chose inquiétante à l'heure d'une société dite de l'information, le domaine public se réduit comme peau de chagrin.
+A une époque qui n'est pas si lointaine, cinquantepourcent des oeuvres appartenaient au domaine public, et pouvaient donc être librement utilisées par tous.
+Mais le domaine public se dégrade régulièrement au fil des siècles, particulièrement au vingte siècle.
+D'ici deux mille cent, quatre-vingt-dix-neufpourcent des oeuvres devraient être régies par le droit d'auteur, avec un maigre 1pourcent laissé au domaine public.
+Un problème épineux pour tous ceux qui gèrent des bibliothèques numériques.
+La tâche du Projet Gutenberg ne se trouve donc guère facilitée par les coups de boutoir portés au domaine public.
+Michael Hart se penche sur la question depuis quelque trente ans, avec l'aide d'un groupe d'avocats spécialisés dans le droit d'auteur.
+Dans la section Copyright HowTo, le Projet Gutenberg détaille les calculs à faire pour déterminer si un titre publié aux Etats-Unis appartient ou non au domaine public.
+Les oeuvres publiées avant mille neuf cent vingt-trois sont soumises au droit d'auteur pendant soixante-quinze ans à partir de leur date de publication (elles sont donc maintenant du domaine public).
+Les oeuvres publiées entre mille neuf cent vingt-trois et mille neuf cent soixante-dix-sept sont soumises au droit d'auteur pendant quatre-vingt-quinze ans à partir de leur date de publication (rien ne tombera dans le domaine public avant deux mille dix-neuf).
+Tout ceci dans les grandes lignes.
+D'autres règles viennent s'ajouter à ces règles de base, et la loi sur le copyright est retouchée onze fois au cours des quarante dernières années.
+Nettement plus contraignante que la précédente, la législation actuelle est entérinée par le Congrès le vingt-sept octobre mille neuf cent quatre-vingt-dix-huit pour contrer le formidable véhicule de diffusion qu'est l'internet.
+"Le copyright a été augmenté de vingt ans, explique Michael Hart en juillet mille neuf cent quatre-vingt-dix-neuf.
+Auparavant on devait attendre soixante-quinze ans, on est maintenant passé à quatre-vingt-quinze ans.
+Bien avant, le copyright durait vingt-huit ans (plus une extension de vingt-huit ans si on la demandait avant l'expiration du délai) et, avant cela, le copyright durait quatorze ans (plus une extension de quatorze ans si on la demandait avant l'expiration du délai).
+Suite aux législations de mille neuf cent soixante-seize et mille neuf cent quatre-vingt-dix-huit, ce classique ne devrait désormais tomber dans le domaine public qu'en deux mille trente-cinq.
+Nombre de titres doivent être retirés des collections.
+Les débats actuels sont totalement irréalistes.
+Ils sont menés par 'l'aristocratie terrienne de l'âge de l'information' et servent uniquement ses intérêts.
+Ceci signifie que les auteurs devraient avoir le droit d'utiliser de manière exclusive et pour un temps limité les oeuvres qu'ils ont créées, comme ceci est spécifié dans la loi actuelle sur le copyright.
+Mais ceci signifie également que leurs lecteurs ont le droit de copier et de réutiliser ce travail autant qu'ils le veulent à l'expiration de ce copyright.
+La contradiction est flagrante.
+Le copyright est passé d'une durée de trente ans en moyenne en mille neuf cent neuf à une durée de quatre-vingt-quinze ans en moyenne en mille neuf cent quatre-vingt-dix-huit, explique Michael Hart sur son blog.
+En quatre-vingt-neuf ans, de mille neuf cent neuf à mille neuf cent quatre-vingt-dix-huit, le copyright a subi une extension de soixante-cinq ans qui affecte les trois quarts de la production du vingte siècle.
+Seul un livre publié avant mille neuf cent vingt-trois peut être considéré avec certitude comme du domaine public.
+Un durcissement similaire touche les pays de l'Union européenne.
+La règle générale est désormais un copyright de soixante-dix ans après le décès de l'auteur, alors qu'il était auparavant de cinquante ans.
+Ceci suite aux pressions exercées par les éditeurs de contenu, sous le prétexte d'harmoniser les lois nationales relatives au copyright pour répondre à la mondialisation du marché.
+Pour éviter les poursuites judiciaires, le Projet Gutenberg se lance régulièrement dans des recherches pouvant durer des années pour déterminer si tel ou tel livre est du domaine public ou non.
+A ce jour, il peut s'enorgueillir d'un résultat exact à quatre-vingt-dix-neuf virgule neufpourcent pour l'ensemble de ses collections, ce pourcentage signifiant que vingt livres seulement sur les vingt.000 livres que comptent les collections (en décembre deux mille six) pourraient poser problème.
+Quant au discours un Have a Dream de Martin Luther King, tombé pendant un temps court dans le domaine public, il a dû être retiré des collections suite à une législation plus contraignante sur le copyright.
+Une lueur d'espoir existe toutefois pour les livres parus après mille neuf cent vingt-trois.
+Les livres dont le copyright n'a pas été renouvelé peuvent donc légalement intégrer les collections du Projet Gutenberg.
+Pour un titre donné, comment savoir si le copyright a été renouvelé ou non? Pour les livres aux copyrights renouvelés en mille neuf cent soixante-dix-huit et après, on dispose de la base de données en ligne du US Copyright Office.
+Pour les livres aux copyrights renouvelés entre mille neuf cent cinquante et mille neuf cent soixante-dix-sept, on ne disposait que des publications imprimées bisannuelles (deux fois par an) du même Copyright Office.
+En deux mille quatre, ces listes sont numérisées par Distributed Proofreaders et mises en ligne sur le site du Projet Gutenberg.
+Si un livre publié entre mille neuf cent vingt-trois et mille neuf cent soixante-trois ne figure sur aucune de ces listes, cela signifie que son copyright n'a pas été renouvelé, qu'il est tombé dans le domaine public et qu'on peut donc le traiter.
+En avril deux mille sept, l'Université de Stanford (Californie) convertit les listes numérisées du Projet Gutenberg en base de données - la Copyright Renewal Database - avec recherche possible par titre, auteur, date du copyright et date de renouvellement du copyright.
+Le pari fait par Michael Hart en mille neuf cent soixante et onze est donc réussi.
+Mais les résultats du Projet Gutenberg ne se mesurent pas seulement à ces chiffres, qui restent assez modestes par rapport à la production imprimée.
+Les résultats se mesurent également à l'influence du projet, qui est considérable.
+Premier site d'information sur l'internet et première bibliothèque numérique, le Projet Gutenberg a inspiré bien d'autres bibliothèques numériques depuis, par exemple le Projekt Runeberg pour la littérature scandinave ou le Projekt Gutenberg-DE pour la littérature allemande, pour n'en citer que deux.
+Fondé en décembre mille neuf cent quatre-vingt-douze par Lysator, un club informatique d'étudiants, en collaboration avec la Linköping University Library (Suède), le Projekt Runeberg regroupe deux cents oeuvres appartenant à la littérature nordique.
+Créé en mille neuf cent quatre-vingt-quatorze, le Projekt Gutenberg-DE - désormais hébergé sur le site de l'hebdomadaire Der Spiegel - comprend deux cents titres de littérature allemande et de littérature étrangère en allemand.
+Le but est d'assurer la pérennité du projet indépendamment des crédits, des coupures de crédits et des priorités politiques et culturelles du moment.
+Pas de pression possible donc par le pouvoir et par l'argent.
+Et respect à l'égard des volontaires, qui sont assurés de voir leur travail utilisé pendant de nombreuses années, si ce n'est pour plusieurs générations, d'où l'intérêt d'un format numérique qui soit toujours valable dans quelques siècles.
+Le suivi régulier du projet est assuré grâce à une lettre d'information hebdomadaire et mensuelle, des forums de discussion, des wikis et des blogs.
+Les dons servent à financer des ordinateurs et des scanners, et à envoyer des CD et DVD gratuits à ceux qui en font la demande.
+En deux mille cinq, CD et DVD sont disponibles sous forme d'images ISO sur le site de BitTorrent, ces images pouvant être téléchargées pour graver des CD et DVD sur place à titre personnel.
+En deux mille sept, le Projet Gutenberg envoie quinze millions de livres par voie postale sous forme de CD et DVD.
+Chose souvent passée sous silence, Michael Hart est le véritable inventeur de l'ebook.
+Si on considère l'ebook dans son sens étymologique, à savoir un livre numérisé pour diffusion sous forme de fichier électronique, celui-ci aurait trente-sept ans et serait né avec le Projet Gutenberg en juillet mille neuf cent soixante et onze.
+Une paternité beaucoup plus réconfortante que les divers lancements commerciaux dans un format propriétaire ayant émaillé le début des années deux mille.
+Il n'y a aucune raison pour que la dénomination "ebook" ne désigne que l'ebook commercial et soit réservée aux Amazon, Barnes & Noble, et autres.
+L'ebook non commercial est un ebook à part entière, et non un parent pauvre, tout comme l'édition électronique non commerciale est une forme d'édition à part entière, et tout aussi valable que l'édition commerciale.
+En deux mille trois, les etexts du Projet Gutenberg deviennent des ebooks, pour coller à la terminologie ambiante.
+En juillet mille neuf cent soixante et onze, l'envoi d'un fichier de cinq Ko (kilo-octets) à cent personnes aurait fait sauter l'embryon de réseau disponible à l'époque.
+En novembre deux mille deux, le Projet Gutenberg peut mettre en ligne les soixante-quinze fichiers du Human Genome Project (Le séquençage du génome humain), chaque fichier se chiffrant en dizaines sinon en centaines de mégaoctets.
+Ceci peu de temps après sa parution initiale en février deux mille un, puisqu'il appartient d'emblée au domaine public.
+En deux mille quatre, la capacité de stockage des disques durs est telle qu'il serait possible de faire tenir l'intégralité de la Library of Congress sur un support de stockage coûtant cent quarante dollars US.
+Et quelques années seulement nous sépareraient d'une clé USB permettant de stocker l'intégralité du patrimoine écrit de l'humanité.
+Qu'en est-il des documents autres que l'écrit? En septembre deux mille trois, le Projet Gutenberg se lance dans la diffusion de livres audio.
+En décembre deux mille six, on compte trois cent soixante-sept livres lus par une synthèse vocale (Audio Book, computer-generated) et cent trente-deux livres lus par l'être humain (Audio Book, human-read).
+Le nombre de ces derniers devrait fortement augmenter dans un proche avenir.
+Ils sont au nombre de quatre cent douze en mai deux mille huit.
+Par contre, les livres lus par une synthèse vocale ne sont plus être stockés dans une section spécifique, mais réalisés à la demande à partir des fichiers électroniques existant dans les collections générales.
+Les lecteurs aveugles ou malvoyants pourront utiliser une commande vocale pour demander le texte de tel ou tel livre.
+Lancée à la même époque, la section The Sheet Music Subproject est consacrée aux partitions musicales numérisées (Music, Sheet).
+Elle est complétée par une section d'enregistrements musicaux (Music, recorded).
+Des sections sont également disponibles pour les images fixes (Pictures, still) et animées (Pictures, moving).
+Ces nouvelles collections devraient être développées dans les prochaines années.
+Mais la numérisation des livres reste prioritaire.
+Et la demande est énorme.
+En témoigne le nombre de téléchargements, qui se comptent désormais en dizaines de milliers par jour.
+A la date du trente et un juillet deux mille cinq, on compte trente-sept.cinq cent trente-deux fichiers téléchargés dans la journée, deux cent quarante-trois.huit cent huit fichiers téléchargés dans la semaine et un.cent cinquante-quatre.sept cent soixante-cinq fichiers téléchargés dans le mois.
+Courant mai, ce nombre atteint les trois millions.
+A la date du huit mai deux mille huit, on compte cent quinze.cent trente-huit fichiers téléchargés dans la journée, sept cent quatorze.trois cent vingt-trois fichiers téléchargés dans la semaine et trois.cinquante-cinq.trois cent vingt-sept fichiers téléchargés dans le mois.
+Ceci uniquement pour le principal site de téléchargement, ibiblio.org (basé à l'Université de Caroline du Nord, Chapel Hill, Etats-Unis), qui héberge aussi le site du Projet Gutenberg.
+Le deuxième site de téléchargement est l'Internet Archive, qui est aussi le site de sauvegarde et qui met à la disposition du Projet Gutenberg une capacité de stockage illimitée.
+Le Projet Gutenberg dispose de quarante sites miroirs répartis dans de nombreux pays, et il en cherche d'autres.
+La circulation des fichiers se fait aussi en mode P2P (peer-to-peer), qui permet d'échanger des fichiers directement d'un utilisateur à l'autre.
+Un Top cent recense les cent titres et les cent auteurs les plus téléchargés dans la journée, dans la semaine et dans le mois.
+Les livres du Projet Gutenberg peuvent aider à combler la fracture numérique.
+Ils sont aisément téléchargeables sur PDA.
+Un ordinateur ou un PDA d'occasion ne coûte que quelques dollars ou quelques dizaines de dollars, en fonction du modèle.
+Certains PDA fonctionnent à l'énergie solaire, permettant la lecture dans les régions reculées et les pays en développement.
+Plus tard, il sera peut-être possible d'envisager une traduction simultanée dans une centaine de langues.
+En utilisant la traduction automatique qui, d'ici là, pourrait avoir atteint un taux de fiabilité de l'ordre de quatre-vingt-dix-neufpourcent, un pourcentage dont on est encore loin.
+trente-sept ans après les débuts du Projet Gutenberg, Michael Hart se définit toujours comme un fou de travail dédiant toute sa vie à son projet, qu'il voit comme étant à l'origine d'une révolution néo-industrielle.
+Il se définit aussi comme altruiste, pragmatique et visionnaire.
+Après avoir été traité de toqué pendant de nombreuses années, il force maintenant le respect.
+Au fil des ans, la mission du Projet Gutenberg reste la même, à savoir changer le monde par le biais de l'ebook gratuit indéfiniment utilisable et reproductible.
+L'objectif reste lui aussi le même, à savoir la lecture et la culture pour tous à moindres frais.
+Quant à la mission, elle se résume en quelques mots: "encourager la création et la distribution d'ebooks", par autant de personnes que possible, et par tous les moyens.
+Tout en prenant les virages nécessaires pour intégrer de nouvelles idées, de nouvelles méthodes et de nouveaux supports.
+D'après Michael Hart, le patrimoine écrit de l'humanité représenterait vingt-cinq millions de livres appartenant au domaine public, qui pourraient être collectés auprès des grandes bibliothèques nationales et régionales, à raison d'un exemplaire par livre, sans tenir compte des nombreuses éditions annotées et commentées.
+Si Gutenberg a permis à chacun d'avoir des livres grâce à l'invention de l'imprimerie, le Projet Gutenberg permet à chacun d'avoir une bibliothèque de livres grâce au stockage de ceux-ci sur un support numérique tenant dans un sac sinon dans une poche.
+En avril deux mille huit, le Projet Gutenberg permet d'ores et déjà à chacun d'avoir une bibliothèque numérique de vingt-cinq.000 livres au contenu parfaitement fiable.
+Laissons le mot de la fin à Michael Hart, à qui je demandais en août mille neuf cent quatre-vingt-dix-huit quel était son meilleur souvenir.
+A l'époque, il répondait: "Le courrier que je reçois me montre combien les gens apprécient que j'aie passé ma vie à mettre des livres sur l'internet.
+Certaines lettres sont vraiment émouvantes, et elles me rendent heureux pour toute la journée." Dix ans après, il confirme que sa réponse serait toujours la même.
+[*mille neuf cent soixante et onze/sept = année/mois] mille neuf cent soixante et onze/sept: Saisie par Michael Hart de The United States Declaration of Independence (ebook #un) et diffusion d'un message auprès des cent premiers usagers du réseau.
+Le Projet Gutenberg est né.
+mille neuf cent soixante-douze: Saisie de The United States Bill of Rights (eBook #deux).
+mille neuf cent soixante-treize: Saisie de The United States Constitution (eBook #cinq).
+mille neuf cent soixante-quatorze-quatre-vingt-huit: Saisie de la Bible et de plusieurs pièces de Shakespeare.
+mille neuf cent quatre-vingt-neuf/huit: The King James Bible (eBook #dix).
+mille neuf cent quatre-vingt-onze/un: Alice's Adventures in Wonderland (eBook #onze).
+mille neuf cent quatre-vingt-onze/six: Peter Pan (eBook #seize).
+mille neuf cent quatre-vingt-onze: Numérisation d'un livre par mois.
+mille neuf cent quatre-vingt-douze: Numérisation de deux livres par mois.
+mille neuf cent quatre-vingt-treize: Numérisation de quatre livres par mois.
+mille neuf cent quatre-vingt-treize/douze: Constitution de trois grands secteurs: Light Literature, Heavy Literature, Reference Literature.
+mille neuf cent quatre-vingt-quatorze: Numérisation de huit livres par mois.
+mille neuf cent quatre-vingt-quatorze/un: The Complete Works of William Shakespeare (eBook #cent).
+mille neuf cent quatre-vingt-quinze: Numérisation de seize livres par mois.
+mille neuf cent quatre-vingt-seize-quatre-vingt-dix-sept: Numérisation de trente-deux livres par mois.
+mille neuf cent quatre-vingt-dix-sept/huit: La Divina Commedia di Dante, en italien (eBook #mille).
+mille neuf cent quatre-vingt-dix-sept: Lancement du Project Gutenberg Consortia Center (PGCC).
+mille neuf cent quatre-vingt-dix-huit-deux mille: Numérisation de trente-six livres par mois.
+mille neuf cent quatre-vingt-dix-neuf/cinq: Don Quijote, de Cervantès, en espagnol (eBook #deux mille).
+deux mille: Création de la Project Gutenberg Literary Archive Foundation (PGLAF).
+deux mille/dix: Lancement de Distributed Proofreaders par Charles Franks pour permettre la correction partagée.
+deux mille/douze: A l'ombre des jeunes filles en fleurs (vol.
+trois), de Proust, en français (eBook #trois mille).
+deux mille un/huit: Création du Project Gutenberg of Australia.
+deux mille un/dix: The French Immortals Series, en anglais (eBook #quatre mille).
+deux mille un: Numérisation de cent quatre livres par mois.
+deux mille deux: Affiliation officielle de Distributed Proofreaders au Projet Gutenberg.
+deux mille deux/quatre: The Notebooks of Leonardo da Vinci, en anglais (eBook #cinq mille).
+deux mille deux: Numérisation de deux cent trois livres par mois.
+deux mille trois/huit: Edition d'un CD «Best of Gutenberg» contenant six cents livres.
+deux mille trois/neuf: Lancement de la section Project Gutenberg Audio eBooks.
+deux mille trois/dix: Les collections doublent en dix-huit mois, passant de cinq.000 à dix.000 livres.
+deux mille trois/dix: The Magna Carta (eBook # dix mille).
+deux mille trois/douze: Edition du premier DVD, qui contient neuf.quatre cents livres.
+deux mille trois: Numérisation de trois cent quarante-huit livres par mois.
+deux mille trois: Affiliation officielle du Project Gutenberg Consortia Center (PGCC) au Projet Gutenberg.
+deux mille trois/douze: Lancement de Distributed Proofreaders Europe (DP-EU) par le Projet Rastko.
+deux mille quatre/un: Lancement du Projet Gutenberg Europe par le Projet Rastko.
+deux mille quatre/deux: Voyage de Michael Hart en Europe (Paris, Bruxelles, Belgrade).
+deux mille quatre/deux: Conférence de Michael Hart au siège de l'UNESCO, à Paris.
+deux mille quatre/deux: Visite de Michael Hart au Parlement européen, à Bruxelles.
+deux mille quatre/dix: cinq.000 livres produits par Distributed Proofreaders.
+deux mille quatre: Numérisation de trois cent trente-huit livres par mois.
+deux mille cinq/un: The Life of Reason, par George Santayana (eBook #quinze mille).
+deux mille cinq/cinq: sept.000 livres produits par Distributed Proofreaders.
+deux mille cinq/cinq: cent premiers livres produits par Distributed Proofreaders Europe.
+deux mille cinq/six: Le Projet Gutenberg compte seize.000 livres.
+deux mille cinq/six: Le Projet Gutenberg Europe compte cent livres.
+deux mille cinq/sept: Le Project Gutenberg of Australia compte cinq cents livres.
+deux mille cinq/dix: cinquième anniversaire de Distributed Proofreaders.
+deux mille cinq: Numérisation de deux cent cinquante-deux livres par mois.
+deux mille six/un:  Lancement de la section Project Gutenberg PrePrints.
+deux mille six/deux: huit.000 livres produits par Distributed Proofreaders.
+deux mille six/cinq: Création de la Distributed Proofreaders Foundation.
+deux mille six/sept: trente-cinqe anniversaire du Projet Gutenberg.
+deux mille six/sept: Edition d'un nouveau DVD, qui contient dix-sept.000 livres.
+deux mille six/onze: Lancement du site Project Gutenberg News.
+deux mille six/douze: Le Projet Gutenberg compte vingt.000 livres.
+deux mille six/douze: Twenty Thousand Leagues Under the Sea, par Jules Verne, audiobook en anglais (eBook #vingt mille).
+deux mille six/douze: quatre cents livres produits par Distributed Proofreaders Europe.
+deux mille six: Numérisation de trois cent quarante-cinq livres par mois.
+deux mille sept/trois: dix.000 livres produits par Distributed Proofreaders.
+deux mille sept/quatre: Le Project Gutenberg of Australia compte un.cinq cents livres.
+deux mille sept/sept: Création de Project Gutenberg Canada (PGC).
+deux mille sept/douze: Lancement de Distributed Proofreaders Canada (DPC).
+deux mille sept: Numérisation de trois cent trente-huit livres par mois.
+deux mille huit/trois: Le Project Gutenberg of Canada compte cent livres.
+deux mille huit/quatre: Le Projet Gutenberg compte vingt-cinq.000 livres.
+deux mille huit/quatre: English Book Collectors, par William Younger Fletcher (eBook #vingt-cinq mille).
+deux mille huit/cinq: Le Projet Gutenberg Europe compte cinq cents livres.
+*Ces statistiques concernent uniquement le site original du Projet Gutenberg.
+Des statistiques relatives aux autres sites du Projet Gutenberg (Australie, Europe, Canada) sont disponibles dans Project Gutenberg News.
+= Quelques chiffres un.000 livres en août mille neuf cent quatre-vingt-dix-sept.
+deux.000 livres en mai mille neuf cent quatre-vingt-dix-neuf.
+trois.000 livres en décembre deux mille.
+quatre.000 livres en octobre deux mille un.
+cinq.000 livres en avril deux mille deux.
+dix.000 livres en octobre deux mille trois.
+quinze.000 livres en janvier deux mille cinq.
+vingt.000 livres en décembre deux mille six.
+vingt-cinq.000 livres en avril deux mille huit.
+= Nouveaux livres: moyennes annuelles deux mille un: un.deux cent quarante-quatre livres par an.
+deux mille deux: deux.quatre cent trente-deux livres par an.
+deux mille trois: quatre.cent soixante-seize livres par an.
+deux mille quatre: quatre.cinquante-huit livres par an.
+deux mille cinq: trois.dix-neuf livres par an.
+deux mille six: quatre.cent quarante et un livres par an.
+deux mille sept: quatre.quarante-neuf livres par an.
+= Nouveaux livres: moyennes mensuelles deux mille un: cent quatre livres par mois.
+deux mille deux: deux cent trois livres par mois.
+deux mille trois: trois cent quarante-huit livres par mois.
+deux mille quatre: trois cent trente-huit livres par mois.
+deux mille cinq: deux cent cinquante-deux livres par mois.
+deux mille six: trois cent quarante-cinq livres par mois.
+deux mille sept: trois cent trente-huit livres par mois.
+= Nouveaux livres: moyennes hebdomadaires deux mille un: vingt-quatre livres par semaine.
+deux mille deux: quarante-sept livres par semaine.
+deux mille trois: soixante-dix-neuf livres par semaine.
+deux mille quatre: soixante-dix-huit livres par semaine.
+deux mille cinq: cinquante-huit livres par semaine.
+deux mille six: quatre-vingts livres par semaine.
+deux mille sept: soixante-dix-huit livres par semaine.
+= Quelques eBooks eBook #un: The United States Declaration of Independence (mille sept cent soixante-seize) [en ligne en juillet mille neuf cent soixante et onze].
+eBook #deux: The United States Bill of Rights (mille sept cent quatre-vingt-neuf) [en ligne en mille neuf cent soixante-douze].
+eBook #cinq: The United States Constitution (mille sept cent quatre-vingt-sept) [en ligne en mille neuf cent soixante-treize].
+eBook #dix: The King James Bible (mille sept cent soixante-neuf) [en ligne en août mille neuf cent quatre-vingt-neuf].
+eBook #onze: Alice's Adventures in Wonderland, de Lewis Caroll (mille huit cent soixante-cinq) [en ligne en janvier mille neuf cent quatre-vingt-onze].
+eBook #seize: Peter Pan, de James Barrie  (mille neuf cent quatre) [en ligne en juin mille neuf cent quatre-vingt-onze].
+eBook #cent: The Complete Works of William Shakespeare (mille cinq cent quatre-vingt-dix-mille six cent treize) [en ligne en janvier mille neuf cent quatre-vingt-quatorze].
+eBook #mille: La Divina Commedia di Dante (mille trois cent vingt et un, en italien) [en ligne en août mille neuf cent quatre-vingt-dix-sept].
+eBook #deux mille: Don Quichote, de Cervantès (mille six cent cinq, en espagnol) [en ligne en mai mille neuf cent quatre-vingt-dix-neuf].
+eBook #trois mille: A l'ombre des jeunes filles en fleurs, vol.
+trois, de Marcel Proust (mille neuf cent dix-neuf) [en ligne en décembre deux mille].
+eBook #quatre mille: The French Immortals Series (mille neuf cent cinq) [en ligne en octobre deux mille un].
+eBook #cinq mille: The Notebooks of Leonardo da Vinci (début seizee s.) [en ligne en avril deux mille deux].
+eBook #dix mille: The Magna Carta (début treizee s.) [en ligne en octobre deux mille trois].
+eBook #quinze mille: The Life of Reason, de George Santayana (mille neuf cent six) [en ligne en janvier deux mille cinq].
+eBook #vingt mille: Twenty Thousand Leagues Under the Sea, de Jules Verne (mille huit cent soixante-neuf), livre audio [en ligne en décembre deux mille six].
+eBook #vingt-cinq mille: English Book Collectors, de William Younger Fletcher (mille neuf cent deux) [en ligne en avril deux mille huit].
+= Nombre de langues avec cinquante+ livres Janvier deux mille quatre: vingt-cinq langues.
+Juillet deux mille cinq: quarante-deux langues.
+Décembre deux mille six: cinquante langues.
+Avril deux mille huit: cinquante-cinq langues.
+= Langues majeures Juillet deux mille cinq: anglais, français, allemand, finnois, hollandais, espagnol, chinois.
+Les téléchargements des quarante sites miroirs ne sont pas comptabilisés ici.
+trente et un juillet deux mille cinq: trente-sept.cinq cent trente-deux fichiers téléchargés dans la journée, deux cent quarante-trois.huit cent huit fichiers téléchargés dans la semaine, un.cent cinquante-quatre.sept cent soixante-cinq fichiers téléchargés dans le mois.
+six mai deux mille sept: quatre-vingt-neuf.huit cent quarante et un fichiers téléchargés dans la journée, six cent quatre-vingt-dix-sept.huit cent dix-huit fichiers téléchargés dans la semaine, deux.neuf cent quatre-vingt-quinze.quatre cent trente-six fichiers téléchargés dans le mois.
+huit mai deux mille huit: cent quinze.cent trente-huit fichiers téléchargés dans la journée, sept cent quatorze.trois cent vingt-trois fichiers téléchargés dans la semaine, trois.cinquante-cinq.trois cent vingt-sept fichiers téléchargés dans le mois

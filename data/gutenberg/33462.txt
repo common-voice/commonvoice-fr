@@ -1,0 +1,542 @@
+Version actualisée en novembre deux mille dix Copyright © deux mille dix Marie Lebert.
+Tous droits réservés.
+--- Marie Lebert, chercheuse et journaliste, s'intéresse aux technologies pour le livre et les langues.
+Elle est l'auteure de «Le livre, de l'imprimé au numérique» (NEF, Université de Toronto, deux mille dix), «L'internet et les langues» (NEF, deux mille neuf) et «Le Livre dix mille cent un» (NEF, deux mille trois).
+Ses livres sont librement disponibles dans le Projet Gutenberg  et dans ManyBooks.net http://manybooks.net, dans divers formats permettant leur lecture sur tout appareil électronique (ordinateur, PDA, téléphone mobile, smartphone ou tablette de lecture).
+--- De mille neuf cent soixante et onze à deux mille dix > Booknologie, une chronologie du livre numérique Le livre numérique a bientôt quarante ans.
+Le premier livre numérique est l'eText #un du Projet Gutenberg, un projet visionnaire créé en mille neuf cent soixante et onze par Michael Hart pour distribuer gratuitement les oeuvres littéraires par voie électronique.
+quarante ans après, les livres numériques font partie de notre vie.
+Nous les lisons sur nos ordinateurs, PDA, téléphones mobiles, smartphones ou tablettes.
+Au seizee siècle, Gutenberg avait permis à chacun d'avoir des livres imprimés pour un prix relativement modique.
+Au vingt et une siècle, le Projet Gutenberg permettrait à chacun d'avoir une bibliothèque numérique gratuite.
+D'abord considéré comme complètement irréaliste, ce projet trouve un second souffle et un rayonnement international avec l'apparition du web en mille neuf cent quatre-vingt-dix puis la création de Distributed Proofreaders en deux mille, pour partager la relecture des livres entre des milliers de volontaires.
+En deux mille dix, le Projet Gutenberg propose trente-trois.000 ebooks téléchargés par dizaines de milliers chaque jour et des sites web aux États-Unis, en Australie, en Europe et au Canada, ainsi que quarante sites miroirs répartis sur toute la planète.
+mille neuf cent soixante-quatorze > Les débuts de l'internet L'internet, embryonnaire en mille neuf cent soixante et onze, naît en mille neuf cent soixante-quatorze.
+Vinton Cerf est souvent appelé le père de l'internet parce qu'il est l'auteur en mille neuf cent soixante-quatorze (avec Robert Kahn) des protocoles nécessaires au bon fonctionnement du réseau.
+Sur le site de l'Internet Society (ISOC), qu'il fonde en mille neuf cent quatre-vingt-douze pour promouvoir le développement de l'internet, il explique: «Le réseau fait deux choses (...): comme les livres, il permet d'accumuler de la connaissance.
+Mais, surtout, il la présente sous une forme qui la met en relation avec d'autres informations.
+Il s'agit d'un code standard de cent vingt-huit caractères traduits en langage binaire sur sept bits (A est traduit par «un million un», B est traduit par «un million dix», etc.).
+L'ASCII permet uniquement la lecture de l'anglais et du latin.
+Des variantes de l'ASCII (norme ISO-huit mille huit cent cinquante-neuf ou ISO-Latin) sur huit bits prennent ensuite en compte les caractères accentués de quelques langues européennes.
+La variante pour le français est définie par la norme ISO huit mille huit cent cinquante-neuf-un (Latin-un).
+Ce format favorise les échanges de données entre la vingtaine de formats MARC existants, qui correspondent chacun à une pratique nationale de catalogage (INTERMARC en France, UKMARC au Royaume-Uni, USMARC aux États-Unis, CAN/MARC au Canada, etc.).
+Les notices dans le format MARC d'origine sont d'abord converties au format UNIMARC avant d'être converties à nouveau dans le format MARC de destination.
+UNIMARC peut aussi être utilisé comme standard pour le développement de nouveaux formats MARC.
+mille neuf cent quatre-vingt-quatre > Le copyleft adapte le copyright à l'internet Des créateurs souhaitent respecter la vocation première de l'internet, réseau de diffusion à l'échelon mondial.
+L'idée du copyleft est lancée dès mille neuf cent quatre-vingt-quatre par Richard Stallman, ingénieur en informatique et défenseur inlassable du mouvement Open Source au sein de la Free Software Foundation (FSF).
+Conçu à l'origine pour les logiciels, le copyleft est formalisé par la GPL (General Public License) et étendu par la suite à toute oeuvre de création.
+Il contient la déclaration normale du copyright affirmant le droit d'auteur.
+Son originalité est de donner au lecteur le droit de librement redistribuer le document et de le modifier.
+Le lecteur s'engage toutefois à ne revendiquer ni le travail original, ni les changements apportés par d'autres.
+De plus, tous les travaux dérivés de l'oeuvre originale sont eux-mêmes soumis au copyleft.
+mille neuf cent quatre-vingt-quatre > Le Psion Organiser, vétéran des agendas électroniques Lancé dès mille neuf cent quatre-vingt-quatre par la société britannique Psion, le Psion Organiser est le premier modèle d'agenda électronique.
+Au fil des ans, la gamme des appareils s'étend avec les Psion Série trois et Série cinq, et la société se développe à l'international.
+En deux mille, les divers modèles (Série sept, Série cinquième, Revo, Revo Plus) sont concurrencés par le Palm Pilot et le Pocket PC.
+Les ventes baissent et la société décide de diversifier ses activités.
+Suite au rachat de Teklogix par Psion, Psion Teklogix est créé en septembre deux mille pour développer des solutions mobiles sans fil à destination des entreprises.
+Psion Software est créé en deux mille un pour développer les logiciels de la nouvelle génération d'appareils mobiles utilisant la plateforme Symbian OS, par exemple ceux du smartphone Nokia neuf mille deux cent dix, modèle précurseur commercialisé la même année.
+mille neuf cent quatre-vingt-six > Les dictionnaires de Franklin sur machine de poche Basée dans le New Jersey (États-Unis), la société Franklin commercialise dès mille neuf cent quatre-vingt-six le premier dictionnaire consultable sur une machine de poche.
+Quinze ans plus tard, Franklin distribue deux cents ouvrages de référence sur des machines de poche: dictionnaires unilingues et bilingues, encyclopédies, Bibles, manuels d'enseignement, ouvrages médicaux et livres de loisirs.
+mille neuf cent quatre-vingt-dix > Le World Wide Web Le World Wide Web est conçu en mille neuf cent quatre-vingt-neuf-quatre-vingt-dix par Tim Berners-Lee, alors chercheur au CERN (Centre européen pour la recherche nucléaire, devenu ensuite l'Organisation européenne pour la recherche nucléaire) à Genève, en Suisse.
+En mille neuf cent quatre-vingt-neuf, Tim Berners-Lee met en réseau des documents utilisant l'hypertexte.
+En mille neuf cent quatre-vingt-dix, il met au point le premier serveur HTTP (HyperText Transfer Protocol) et le premier navigateur web.
+En mille neuf cent quatre-vingt-onze, le web est opérationnel et change radicalement l'utilisation de l'internet.
+Des liens hypertextes permettent désormais de passer d'un document textuel ou visuel à un autre au moyen d'un simple clic de souris.
+Devenue interactive, l'information devient soudain beaucoup plus attractive.
+Plus tard, cette interactivité est encore accrue avec la possibilité de liens hypermédias permettant de lier des textes et des images avec des graphiques, vidéos ou bandes sonores.
+Le World Wide Web Consortium (W3C) est fondé en octobre mille neuf cent quatre-vingt-quatorze pour développer les protocoles communs du web.
+Janvier mille neuf cent quatre-vingt-onze > L'Unicode, un système d'encodage pour toutes les langues Publié pour la première fois en janvier mille neuf cent quatre-vingt-onze, l'Unicode est  un système d'encodage «universel» sur seize bits spécifiant un nombre unique pour chaque caractère.
+Ce nombre est lisible quels que soient la plateforme, le logiciel et la langue utilisés.
+L'Unicode peut traiter soixante-cinq.000 caractères uniques et prendre en compte tous les systèmes d'écriture de la planète.
+L'Unicode est maintenu par l'Unicode Consortium, tout comme ses variantes UTF-huit (UTF: Unicode Transformation Format), UTF-seize et UTF-trente-deux, et devient une composante des spécifications du W3C (World Wide Web Consortium), l'organisme international chargé du développement du web.
+Janvier mille neuf cent quatre-vingt-treize > L'Online Books Page, un répertoire de livres en accès libre L'Online Books Page est créée en janvier mille neuf cent quatre-vingt-treize par John Mark Ockerbloom pour répertorier les oeuvres de langue anglaise en accès libre sur le web.
+A cette date, John Mark Ockerbloom est doctorant à l'Université Carnegie Mellon (Pittsburgh, Pennsylvanie, États-Unis).
+En mille neuf cent quatre-vingt-dix-neuf, il rejoint l'Université de Pennsylvanie pour travailler à la R&D (recherche et développement) de la bibliothèque numérique de l'université.
+A la même époque, il y transfère l'Online Books Page, tout en gardant la même présentation, très sobre, et il poursuit son travail d'inventaire dans le même esprit.
+Ses membres  bénévoles scannent ou dactylographient eux-mêmes des oeuvres francophones du domaine public.
+En janvier deux mille deux, les collections comprennent deux cent quatre-vingt-huit textes de cent un auteurs.
+Il ne semble pas que d'autres textes aient été ajoutés depuis.
+Le format PDF permet de figer les documents numériques dans une présentation donnée, pour conserver les polices, les couleurs et les images du document source, quelle que soit la plateforme utilisée pour le créer et pour le lire.
+Le logiciel Adobe Acrobat (payant) permet de convertir n'importe quel document au format PDF.
+Au fil des ans, le format PDF devient une norme internationale de diffusion des documents électroniques, et l'Acrobat Reader est disponible dans plusieurs langues et pour diverses plateformes (Windows, Mac, Linux).
+Il s'enrichit aussi d'une version PDA pour le Palm Pilot (en mai deux mille un) puis pour le Pocket PC (en décembre deux mille un).
+En deux mille trois, dixpourcent des documents disponibles sur l'internet seraient au format PDF.
+Juillet mille neuf cent quatre-vingt-treize > L'E-zine-list, une liste de zines électroniques Abrégé de fanzine ou magazine, un zine est généralement l'oeuvre d'une personne ou d'un petit groupe.
+Quant au e-zine, abrégé de zine électronique, il est uniquement diffusé par courriel ou sur un site web.
+Le plus souvent, il ne contient pas de publicité, ne vise pas un profit commercial et n'est pas dirigé vers une audience de masse.
+Les e-zines sont répertoriés dans l'E-zine-list, une liste créée en été mille neuf cent quatre-vingt-treize par John Labovitz.
+Début mille neuf cent quatre-vingt-quatorze, une partie de l'équipe de Mosaic émigre dans la Netscape Communications Corporation pour développer un nouveau logiciel sous le nom de Netscape Navigator.
+En mille neuf cent quatre-vingt-quinze, pour concurrencer le Netscape Navigator, Microsoft crée l'Internet Explorer.
+Viennent ensuite d'autres navigateurs, comme Opera ou Safari, le navigateur d'Apple.
+L'annuaire de l'UREC a pour but de se familiariser avec le web sans se noyer dans la masse d'informations mondiale, et de faire connaître les sites qui fleurissent en langue française sur la toile.
+D'autres annuaires voient ensuite le jour, dont certains débutés avec l'aide de l'UREC.
+Le nombre de sites web, y compris commerciaux, augmente de manière exponentielle, si bien que la gestion d'un annuaire généraliste devient difficile.
+En juillet mille neuf cent quatre-vingt-dix-sept, considérant sa mission comme accomplie, l'UREC arrête la mise à jour de cet annuaire généraliste, et le remplace par un annuaire spécialisé consacré à l'enseignement supérieur et à la recherche.
+Février mille neuf cent quatre-vingt-quatorze > Le premier site web lancé par une bibliothèque La première bibliothèque présente sur le web est la Bibliothèque municipale d'Helsinki (Finlande), qui inaugure son site en février mille neuf cent quatre-vingt-quatorze.
+Par ailleurs, des bibliothèques mettent sur pied des «cyberespaces» à destination de leurs lecteurs.
+D'autres bibliothèques font connaître les joyaux de leurs collections par le biais du web, en créant des bibliothèques numériques.
+Des bibliothèques nationales unissent leurs efforts pour créer un portail commun.
+Et enfin les catalogues migrent en ligne et deviennent collectifs à l'échelle d'une région, d'un pays ou de la planète.
+Au printemps deux mille un, la Human- Languages Page fusionne avec le Languages Catalog, une section de la WWW Virtual Library, pour devenir iLoveLanguages.
+iLoveLanguages offre deux.000 ressources linguistiques dans une centaine de langues en septembre deux mille trois, et deux.quatre cents ressources linguistiques en septembre deux mille sept.
+mille neuf cent quatre-vingt-quatorze > Athena, une bibliothèque numérique multilingue Fondée en mille neuf cent quatre-vingt-quatorze par Pierre Perroud, professeur au collège Voltaire à Genève (Suisse), Athena est une bibliothèque numérique multilingue hébergée sur le site de l'Université de Genève.
+Elle propose à la fois des séries de liens vers des oeuvres en accès libre sur le web et des oeuvres numérisées par les soins d'Athena.
+En mille neuf cent quatre-vingt-dix-sept, le site bilingue français-anglais donne accès à trois.cinq cents textes électroniques dans des domaines aussi variés que la philosophie, les sciences, la période classique, la littérature, l'histoire, l'économie, etc.
+En décembre mille neuf cent quatre-vingt-dix-huit, les collections comprennent huit.000 textes.
+Un des objectifs d'Athena est de mettre en ligne des textes de langue française.
+Une section spécifique (Swiss Authors and Texts) regroupe les auteurs et textes suisses.
+On y trouve aussi un répertoire mondial des ressources littéraires en ligne (Athena Literature Resources).
+Par ailleurs, Athena propose une table de minéralogie qui est l'oeuvre de Pierre Perroud et qui est consultée dans le monde entier.
+En mille neuf cent quatre-vingt-quatorze, l'éditeur choisit de mettre en accès libre sur le web le texte intégral de plusieurs centaines de livres, avec l'accord de leurs auteurs, afin que les lecteurs puissent les «feuilleter» à l'écran, comme ils l'auraient fait dans une librairie.
+Pour l'éditeur, le web est un nouvel outil de marketing face aux cinquante.000 ouvrages publiés chaque année aux États-Unis.
+Une réduction de vingtpourcent est accordée pour toute commande faite en ligne.
+La présence de ces livres sur le web entraîne aussi une augmentation des ventes par téléphone.
+L'expérience est un succès.
+En mille neuf cent quatre-vingt-dix-huit, le site de la NAP propose le texte intégral d'un millier de titres.
+Faute de temps, Tyler cesse d'actualiser ce projet en janvier deux mille sept, tout en laissant les dictionnaires existants tels quels sur le web pour consultation ou téléchargement.
+mille neuf cent quatre-vingt-quinze > NetGlos, un glossaire collaboratif en ligne de l'internet NetGlos - abrégé de «The Multilingual Glossary of Internet Terminology» -- est lancé en mille neuf cent quatre-vingt-quinze à l'initiative du WorldWide Language Institute, un institut enseignant les langues via l'internet.
+NetGlos est un projet collaboratif en treize langues (allemand, anglais, chinois, croate, espagnol, français, grec, hébreu, hollandais/flamand, italien, maori, norvégien et portugais), avec la participation de nombreux traducteurs volontaires et autres professionnels des langues dans le monde entier.
+Il se poursuit pendant plusieurs années avant de disparaître.
+Février mille neuf cent quatre-vingt-quinze > Le site web du Monde diplomatique En février mille neuf cent quatre-vingt-quinze est mis en ligne le site web du mensuel Le Monde diplomatique, premier site d'un périodique imprimé français.
+Monté dans le cadre d'un projet expérimental avec l'Institut national de l'audiovisuel (INA), ce site est inauguré lors du forum des images Imagina.
+Il donne accès à l'ensemble des articles depuis janvier mille neuf cent quatre-vingt-quatorze, par date, par sujet et par pays.
+L'intégralité du mensuel en cours est consultable gratuitement pendant deux semaines suivant sa parution.
+Un forum de discussion permet au journal de discuter avec ses lecteurs.
+Quelques mois après, plusieurs quotidiens imprimés mettent en ligne un site web: Libération à la fin de mille neuf cent quatre-vingt-quinze, Le Monde et L'Humanité en mille neuf cent quatre-vingt-seize, etc., tout comme la presse régionale, par exemple Ouest-France ou Les Nouvelles d'Alsace.
+Février mille neuf cent quatre-vingt-quinze > La presse anglophone en ligne Au Royaume-Uni, le Times et le Sunday Times font web commun sur un site dénommé Times Online, avec possibilité de créer une édition personnalisée.
+Aux États-Unis, la version en ligne du Wall Street Journal est payante, avec cent.000 abonnés en mille neuf cent quatre-vingt-dix-huit.
+Celle du New York Times est disponible sur abonnement gratuit.
+Le Washington Post propose l'actualité quotidienne en ligne et de nombreux articles archivés, le tout avec images, sons et vidéos.
+Pathfinder (rebaptisé ensuite Time) est le site web du groupe Time-Warner, éditeur de Time Magazine, Sports Illustrated, Fortune, People, Southern Living, Money, Sunset, etc.
+On peut y lire les articles «maison» et les rechercher par date ou par sujet.
+Lancé en mille neuf cent quatre-vingt-douze en Californie, Wired, premier magazine imprimé entièrement consacré à la culture cyber, est bien évidemment présent sur le web.
+Avril mille neuf cent quatre-vingt-quinze > Éditel, pionnier de l'édition littéraire francophone En avril mille neuf cent quatre-vingt-quinze, Pierre François Gagnon, poète et essayiste québécois, crée Éditel, site pionnier de l'édition littéraire francophone.
+Après avoir été le premier site web d'auto-édition collective de langue française, Éditel devient un site de cyberédition non commerciale, en partenariat avec quelques auteurs maison, ainsi qu'un webzine littéraire.
+Un blog succédera à ces projets quelques années plus tard.
+Juillet mille neuf cent quatre-vingt-quinze > Amazon.com, pionnier du cyber-commerce Amazon.com est lancé en juillet mille neuf cent quatre-vingt-quinze par Jeff Bezos à Seattle, sur la côte ouest des États-Unis.
+La librairie en ligne débute avec dix salariés et trois millions d'articles, et devient vite un géant du commerce électronique.
+Une cinquième filiale est ouverte au Canada (en juin deux mille deux), suivie d'une sixième filiale, Joyo, en Chine (en septembre deux mille quatre).
+Présent dans sept pays et devenu une référence mondiale du commerce en ligne (avec eBay), Amazon fête ses dix ans d'existence en juillet deux mille cinq, avec neuf.000 salariés et quarante et un millions de clients.
+Décembre mille neuf cent quatre-vingt-quinze > La Kotoba Home Page, ou les langues sur l'écran de son ordinateur En décembre mille neuf cent quatre-vingt-quinze, Yoshi Mikami est informaticien chez Asia Info Network à Fujisawa (Japon).
+La Kotoba Home Page donne un bref historique de chaque langue, ses caractéristiques, son système d'écriture, son jeu de caractères et enfin la configuration du clavier dans la langue donnée.
+La Kotoba Home Page est actualisée jusqu'en septembre deux mille un.
+En août mille neuf cent quatre-vingt-dix-neuf, il fonde la société de cyberpresse FTPress (French Touch Press), basée à Paris.
+En septembre mille neuf cent quatre-vingt-dix-neuf, il lance Internet Actu, qui remplace LMB Actu.
+D'autres publications suivent, ainsi que des réalisations multimédias et des émissions de télévision, dont certaines suivent de près l'actualité du livre.
+En avril deux mille deux, Internet Actu est racheté par INIST Diffusion (INIST: Institut de l'information scientifique et technique).
+FTPress cesse ses activités en mai deux mille trois.
+Internet Actu devient ensuite une publication de la FING (Fondation internet nouvelle génération).
+Son système d'exploitation est le Palm OS et son logiciel de lecture le Palm Reader.
+En mars deux mille un, les usagers peuvent lire aussi des livres sur le Mobipocket Reader.
+A la même date, Palm rachète Peanutpress.com, son Peanut Reader, et ses deux.000 titres pour PDA qui sont transférés dans Palm Digital Media, la librairie numérique de Palm.
+Si certains professionnels du livre s'inquiètent de la petitesse de l'écran, les adeptes de la lecture sur PDA assurent que la taille de l'écran n'est pas un problème.
+L'objectif est d'offrir un outil de travail aux universitaires, chercheurs et historiens, et de préserver un historique de l'internet pour les générations futures.
+En octobre deux mille un, l'Internet Archive met ses archives en accès libre sur le web grâce à la Wayback Machine.
+Sa tâche est de définir une norme internationale, déterminer les conditions de production, d'échange et d'utilisation du livre audionumérique, et organiser la numérisation du matériel audio à l'échelle mondiale.
+La norme DAISY se base sur le format DTB (Digital Talking Book), qui permet l'indexation du livre audio et l'ajout de signets pour une navigation facile au niveau du paragraphe, de la page et du chapitre.
+Juin mille neuf cent quatre-vingt-seize > Zazieweb, un site indépendant sur l'actualité du livre Fondé en juin mille neuf cent quatre-vingt-seize par Isabelle Aveline, Zazieweb est un site indépendant conçu pour tous les amoureux du livre, professionnels et amateurs.
+Le succès est immédiat.
+Suivant de près l'actualité du livre sur le réseau, le site devient peu à peu un portail avec un espace de documentation, d'orientation et de ressources internet.
+L'annuaire de Zazieweb recense plus de cinq.000 sites littéraires.
+Zazieweb offre aussi «des espaces d'échanges et de rencontres pour lecteurs communicants et actifs».
+Y participe une communauté active de plus de dix.000 membres ou e-lecteurs.
+«Qu'est-ce qu'un e-lecteur? Un e-lecteur est un lecteur actif et communicant qui souhaite échanger, discuter, polémiquer avec d'autres lecteurs.» Zazieweb cesse malheureusement ses activités en deux mille neuf.
+Juin mille neuf cent quatre-vingt-seize > La Bibliothèque électronique de Lisieux La Bibliothèque électronique de Lisieux est l'une des premières bibliothèques francophones du réseau.
+Elle est créée en juin mille neuf cent quatre-vingt-seize par Olivier Bogros, directeur de la médiathèque municipale de Lisieux (Normandie), qui l'héberge pendant deux ans sur les pages de son compte personnel CompuServe avant d'enregistrer un nom de domaine en juin mille neuf cent quatre-vingt-dix-huit.
+En juillet mille neuf cent quatre-vingt-dix-neuf, la bibliothèque électronique comprend trois cent soixante-dix textes courts, numérisés en mode texte à partir des collections de la médiathèque.
+On y trouve des oeuvres littéraires, des brochures et des opuscules documentaires, ainsi que des manuscrits, livres et brochures sur la Normandie.
+En décembre deux mille six, les collections comprennent neuf cent trente oeuvres et vingt galeries d'images.
+Vendus uniquement sur le web, les livres sont imprimés à la commande et envoyés directement au client, ce qui permet d'éviter le stock et les intermédiaires.
+Fin mille neuf cent quatre-vingt-dix-neuf, CyLibris compte quinze.000 visites mensuelles sur son site et trois.cinq cents livres vendus tous exemplaires confondus, avec une année financièrement équilibrée.
+Au printemps deux mille, CyLibris devient membre du Syndicat national de l'édition (SNE).
+En deux mille un, certains titres sont également vendus en version imprimée par un réseau de librairies partenaires, notamment la Fnac, et en version numérique par Mobipocket et Numilog.
+En deux mille trois, le catalogue de CyLibris comprend une cinquantaine de titres.
+CyLibris (à ne pas confondre avec CyberLibris, une autre société) cesse ses activités en deux mille sept.
+Issu de la collaboration entre Hachette et l'AUPELF-UREF (devenu depuis l'AUF: Agence universitaire de la Francophonie), il correspond à la partie «noms communs» du dictionnaire imprimé disponible chez Hachette.
+L'équivalent pour la langue anglaise est le site Merriam-Webster OnLine, qui donne librement accès au Collegiate Dictionary et au Collegiate Thesaurus.
+(La version CD-ROM sera plus tard abandonnée.) Ce catalogue exhaustif des langues parlées dans le monde fournit des informations géographiques, statistiques, socio-linguistiques et démographiques, ainsi que des index et des cartes géographiques.
+En plus de l'équipe de base travaillant à Dallas (Texas, États-Unis), des milliers de linguistes y participent en glanant et vérifiant des informations dans le monde entier, avec une nouvelle version publiée tous les quatre ans environ.
+En deux mille neuf, la seizee édition de cette encyclopédie répertorie six.neuf cent neuf langues selon plusieurs critères (pays, nom de la langue, code de la langue attribué par le SIL, famille de langues, etc.).
+De petite taille, il cherche à mimer, sous forme électronique, le dispositif technique du livre, afin d'offrir une mémoire de fac-similés reliés en hypertexte pour faciliter le feuilletage.
+Pour développer @folio et Mot@mot, Pierre fait valider un brevet international en avril deux mille un puis crée la start-up française iCodex en juillet deux mille deux.
+Nicolas Pewny crée lui-même le site du Choucas fin novembre mille neuf cent quatre-vingt-seize, au prix d'un grand nombre de nuits sans sommeil.
+Les manuscrits affluent par courriel, et les livres se réalisent désormais par ce moyen: corrections, illustrations, envoi des documents à l'imprimeur.
+Le Choucas cesse malheureusement ses activités en mars deux mille un, une disparition de plus à déplorer chez les petits éditeurs indépendants.
+Nicolas Pewny devient consultant en édition électronique et met ses compétences au service d'autres organismes.
+mille neuf cent quatre-vingt-seize > Les méthodes de travail changent dans l'édition La numérisation permet de créer, enregistrer, combiner, stocker, rechercher et transmettre des textes, des sons et des images par des moyens simples et rapides.
+Des procédés similaires permettent le traitement de l'écriture, de la musique et du cinéma alors que, par le passé, ce traitement était assuré par des procédés différents sur des supports différents (papier pour l'écriture, bande magnétique pour la musique, celluloïd pour le cinéma).
+De plus, des secteurs distincts comme l'édition (qui produit des livres) et l'industrie musicale (qui produit des disques) travaillent de concert pour produire des CD-ROM.
+La numérisation accélère considérablement le processus matériel de production.
+Dans l'édition, le rédacteur, le concepteur artistique et l'infographiste travaillent souvent simultanément sur le même ouvrage.
+Dans la presse, les journalistes envoient désormais directement leurs textes pour une mise en page, sans passer par un personnel de production dactylographiant leurs textes.
+Janvier mille neuf cent quatre-vingt-dix-sept > La convergence multimédia, convergence des secteurs liés à l'information La convergence multimédia est la convergence de tous les secteurs liés à l'information: imprimerie, édition, presse, conception graphique, enregistrements sonores, films, radiodiffusion, etc.
+La convergence multimédia a de nombreux revers, à savoir des contrats occasionnels et précaires pour les salariés, l'absence de syndicats pour les télétravailleurs, le droit d'auteur souvent mis à mal pour les auteurs, etc.
+Avril mille neuf cent quatre-vingt-dix-sept > E Ink, une technologie d'encre électronique En avril mille neuf cent quatre-vingt-dix-sept, des chercheurs du Media Lab du MIT (Massachusetts Institute of Technology) créent la société E Ink pour développer une technologie d'encre électronique.
+Très schématiquement, la technologie est la suivante: prises entre deux feuilles de plastique souple, des millions de micro-capsules contiennent chacune des particules noires et blanches en suspension dans un fluide clair.
+Un champ électrique positif ou négatif permet de faire apparaître le groupe de particules souhaité à la surface du support, pour afficher, modifier ou effacer les données.
+En juillet deux mille deux, E Ink présente le prototype du premier écran utilisant cette technologie, qui sera commercialisé en deux mille quatre.
+Suivent d'autres écrans pour diverses tablettes de lecture, puis les premiers écrans souples en noir et blanc, qui annoncent le futur papier électronique.
+Barnes & Noble lance sa librairie en ligne en mai mille neuf cent quatre-vingt-dix-sept, en partenariat avec le géant des médias allemand Bertelsmann.
+Dès les débuts du site, Barnes & Noble se livre à une guerre des prix avec Amazon, à la grande joie des clients qui profitent de cette course aux rabais pour faire une économie de vingt à quarantepourcent sur certains titres.
+Barnes & Noble.com ouvre son eBookStore en août deux mille.
+Barnes & Noble rachète la part détenue par Bertelsmann (trente-six virgule huitpourcent) en juillet deux mille trois pour cent soixante-quatre millions de dollars US.
+Juin mille neuf cent quatre-vingt-dix-sept > L'internet est encore anglophone à plus de quatre-vingtspourcent À ses débuts, l'internet est anglophone à pratiquement centpourcent, puisqu'il se développe d'abord aux États-Unis grâce aux investissements considérables du gouvernement, avant de conquérir le Canada puis le monde entier.
+En mille neuf cent quatre-vingt-dix-sept, Babel, initiative conjointe d'Alis Technologies et de l'Internet Society, mène la première étude relative à la répartition des langues sur l'internet.
+mille neuf cent quatre-vingt-dix-sept > La numérisation des livres imprimés, un vaste chantier En mille neuf cent quatre-vingt-dix-sept, qui dit livre numérique dit numérisation, la presque totalité des livres existant seulement en version imprimée.
+Pour pouvoir être consulté à l'écran, un livre peut être numérisé soit en mode texte soit en mode image, les deux modes de numérisation étant complémentaires.
+La version informatique du livre ne conserve pas la présentation originale du livre ou de la page.
+(deux) La numérisation en mode image correspond à la photographie du livre page après page, la version informatique  étant le fac-similé numérique de la version imprimée.
+La présentation originale étant conservée, on peut feuilleter le texte page après page à l'écran.
+Si cette méthode est beaucoup plus économique, et convient par exemple aux beaux livres avec illustrations, elle a l'inconvénient de ne pas permettre la recherche textuelle.
+Octobre mille neuf cent quatre-vingt-dix-sept > Gallica, bibliothèque numérique de la Bibliothèque nationale de France En octobre mille neuf cent quatre-vingt-dix-sept, la Bibliothèque nationale de France (BnF) met en ligne sa bibliothèque numérique Gallica.
+En accès libre, elle devient rapidement l'une des plus importantes bibliothèques numériques du réseau.
+On y trouve les documents libres de droits du fonds numérisé de la BnF, qui vont du Moyen-Âge au début du vingte siècle.
+Pour des raisons de coût, les documents sont essentiellement numérisés en mode image.
+En décembre deux mille six, les collections de Gallica comprennent quatre-vingt-dix.000 ouvrages (fascicules de presse compris), quatre-vingts.000 images et des dizaines d'heures de ressources sonores.
+Gallica débute la conversion en mode texte des livres numérisés en mode image pour favoriser l'accès à leur contenu.
+En mars deux mille dix, Gallica franchit la barre du million de documents, dont la plupart sont accessibles gratuitement.
+Gallica inaugure ensuite un nouveau site avec une interface en quatre langues (français, anglais, espagnol, portugais).
+mille neuf cent quatre-vingt-dix-sept > Le premier blog sur la toile Un blog (ou blogue) est un journal en ligne tenu par une personne ou un groupe.
+Ce journal est le plus souvent présenté par ordre chronologique inversé (du plus récent au plus ancien) et il est actualisé au gré du rédacteur, d'heure en heure ou bien une fois par mois.
+Le premier blog apparaît en mille neuf cent quatre-vingt-dix-sept.
+En deux mille quatre, Le Monde.fr, site du quotidien Le Monde, lance ses propres blogs, «un formidable format d'expression journalistique qui permet un dialogue quasi-instantané avec son lecteur», selon Yann Chapellon, directeur du Monde interactif.
+En juillet deux mille cinq, il y aurait plus de quatorze millions de blogs dans le monde, avec quatre-vingts.000 nouveaux blogs par jour.
+En décembre deux mille six, Technorati, moteur de recherche pour blogs puis site spécialisé, recense soixante-cinq millions de blogs, avec cent soixante-quinze.000 nouveaux blogs par jour.
+Certains blogs sont consacrés aux photos (photoblogs ou blogs photo), à la musique (audioblogs, blogs audio ou podcasts) ou aux vidéos (vlogs ou blogs vidéo).
+Fin deux mille trois, Eurodicautom annonce son intégration dans une base terminologique plus vaste regroupant les bases de plusieurs institutions de l'Union européenne.
+Cette nouvelle base traiterait non plus douze langues, mais une vingtaine du fait de l'élargissement de l'Union européenne prévu l'année suivante vers l'Europe de l'Est.
+La base IATE (InterActive Terminology for Europe) est lancée en interne au printemps deux mille quatre puis pour tous sur la toile en juin deux mille sept.
+mille neuf cent quatre-vingt-dix-sept > L'interface de Yahoo! disponible en sept langues En mille neuf cent quatre-vingt-dix-sept, Yahoo! propose un classement en soixante-trois grandes catégories thématiques, tout comme une interface en sept langues: anglais, allemand, coréen, français, japonais, norvégien et suédois.
+Yahoo! est lancé en janvier mille neuf cent quatre-vingt-quatorze par Jerry Lang et David Filo, deux étudiants de l'Université de Stanford (Californie), pour recenser les sites web et les classer par thèmes.
+Leur annuaire rencontre un succès immédiat, avec un classement plus pointu que celui de moteurs de recherche comme AltaVista, où ces tâches sont entièrement automatisées.
+Toutefois, quand une recherche ne donne pas de résultat dans Yahoo!, elle est automatiquement aiguillée vers AltaVista, et réciproquement.
+Babel Fish -- appelé aussi AltaVista Translation - est l'oeuvre de SYSTRAN, une société franco-américaine pionnière dans le traitement automatique des langues.
+Babel Fish est alimenté par des dictionnaires multilingues comprenant deux virgule cinq millions de termes.
+Le Logos Dictionary est un dictionnaire multilingue de sept virgule cinq millions d'entrées.
+La Wordtheque est une base de données multilingue de trois cent vingt-huit millions de termes, constituée à partir de milliers de traductions, notamment des romans et des documents techniques.
+La recherche dans la Wordtheque est possible par langue, mot, auteur ou titre.
+Linguistic Resources offre un point d'accès unique à cinq cent cinquante-trois glossaires.
+L'Universal Conjugator propose des tableaux de conjugaison dans dix-sept langues.
+Destinée à rassembler puis divulguer les connaissances de l'époque, l'Encyclopédie porte la marque des courants intellectuels et sociaux du Siècle des Lumières, et c'est grâce à elle que se propagent les idées nouvelles qui inspireront la Révolution française de mille sept cent quatre-vingt-neuf.
+Avril mille neuf cent quatre-vingt-dix-huit > Le rêve derrière le web, selon Tim Berners-Lee, son inventeur Le web est une formidable aventure.
+Selon les termes mêmes de Tim Berners-Lee, son inventeur en mille neuf cent quatre-vingt-dix, dans un texte qu'il rédige en avril mille neuf cent quatre-vingt-dix-huit, «le rêve derrière le web est un espace d'information commun dans lequel nous communiquons en partageant l'information.
+Son universalité est essentielle, à savoir le fait qu'un lien hypertexte puisse pointer sur quoi que ce soit, quelque chose de personnel, de local ou de global, aussi bien une ébauche qu'une réalisation très sophistiquée.
+Deuxième partie de ce rêve, le web deviendrait d'une utilisation tellement courante qu'il serait un miroir réaliste (sinon la principale incarnation) de la manière dont nous travaillons, jouons et nouons des relations sociales.
+En deux mille, le catalogue comprend six cents titres, avec quatre-vingt-cinqpourcent des ventes pour les versions numériques (au format PDF), les quinzepourcent restants étant des versions imprimées à la demande du client.
+Pas de stock, pas de contrainte physique de distribution, mais un lien direct avec le lecteur et entre les lecteurs.
+Sur le site au très beau design, les internautes/lecteurs peuvent créer leur espace personnel pour y rédiger leurs commentaires, participer à des forums, s'abonner à la lettre d'information de 00h00 ou regarder les clips littéraires produits par l'éditeur pour présenter les nouveautés publiées.
+En septembre deux mille, 00h00 est racheté par la société américaine Gemstar.
+Gemstar met fin à ses activités eBook en juin deux mille trois.
+«Nous considérons le texte électronique comme un nouveau médium, sans véritable relation avec le papier, explique-t-il en août mille neuf cent quatre-vingt-dix-huit.
+Il écrit en septembre mille neuf cent quatre-vingt-dix-huit: «Je me suis passionné pour l'énorme potentiel qu'a l'internet de rendre la littérature accessible au plus grand nombre.
+Maintenant il y a tant de livres mis en ligne que j'ai du mal à rester à jour.
+Je pense pourtant poursuivre cette activité d'une manière ou d'une autre.
+Je suis très intéressé par le développement de l'internet en tant que médium de communication de masse dans les prochaines années.
+Il écrit en septembre mille neuf cent quatre-vingt-dix-huit: «Le web sera une encyclopédie du monde faite par le monde pour le monde.
+Il n'y aura plus d'informations ni de connaissances utiles qui ne soient pas disponibles, si bien que l'obstacle principal à la compréhension internationale et interpersonnelle et au développement personnel et institutionnel sera levé.
+Il faudrait une imagination plus débordante que la mienne pour prédire l'effet de ce développement sur l'humanité.» (Entretien du NEF) En février deux mille, Robert Beard co-fonde yourDictionary, qui se veut un portail de référence pour toutes les langues.
+Cet amendement au copyright est entériné par le Congrès le vingt-sept octobre mille neuf cent quatre-vingt-dix-huit pour contrer le formidable véhicule de diffusion qu'est l'internet.
+Contradiction flagrante, les instances politiques n'ont de cesse de parler d'Âge de l'Information tout en durcissant la réglementation relative à la mise à disposition du patrimoine.
+Le copyright est passé d'une durée de trente ans en moyenne en mille neuf cent neuf à une durée de quatre-vingt-quinze ans en moyenne en mille neuf cent quatre-vingt-dix-huit.
+En quatre-vingt-dix ans, de mille neuf cent neuf à mille neuf cent quatre-vingt-dix-huit, le copyright a subi une extension de soixante-cinq ans qui affecte les trois quarts de la production du vingte siècle.
+Seul un livre publié avant mille neuf cent vingt-trois peut désormais être considéré avec certitude comme appartenant au domaine public.
+Cette tablette de lecture dispose d'un écran à cristaux liquides (ou écran LCD: Liquid Cristal Display) rétro-éclairé ou non, noir et blanc ou en couleur.
+Elle fonctionne sur batterie et dispose d'un modem intégré et d'un port USB, pour connexion à l'internet et téléchargement des livres à partir d'une librairie numérique présente sur le site de NuvoMedia.
+mille neuf cent quatre-vingt-dix-neuf > D'autres modèles de tablettes de lecture suivent Lancé lui aussi en mille neuf cent quatre-vingt-dix-neuf, le SoftBook Reader est développé par la société SoftBook Press, financée par deux grandes maisons d'édition, Random House et Simon & Schuster.
+Plusieurs autres modèles ont une durée de vie assez courte, par exemple l'EveryBook, appareil à double écran créé par la société du même nom, ou encore le Millennium eBook, créé par la société Librius.com.
+Toutes ces tablettes de lecture pèsent entre sept cents grammes et deux kilos et peuvent stocker une dizaine de livres.
+La librairie Ulysse est la plus ancienne librairie de voyage au monde, avec plus de vingt.000 livres, cartes et revues, neufs et anciens.
+«Mon site est embryonnaire et en construction, raconte Catherine en décembre mille neuf cent quatre-vingt-dix-neuf.
+Il se veut à l'image de ma librairie, un lieu de rencontre avant d'être un lieu commercial.
+Il sera toujours en perpétuel devenir! Internet me prend la tête, me bouffe mon temps et ne me rapporte presque rien mais cela ne m'ennuie pas...
+Internet tue les librairies spécialisées.
+Michael raconte beaucoup plus tard sur son site: «J'ai débuté ce site en mille neuf cent quatre-vingt-dix-neuf pour procurer des dictionnaires bilingues gratuits en ligne et d'autres outils pour tous sur l'internet.
+Depuis, le site s'est progressivement développé pour devenir l'un des sites de dictionnaires en ligne les plus utilisés, et le principal dictionnaire en ligne pour les paires de langues anglais- espagnol, anglais-français, anglais-italien, espagnol-français et espagnol-portugais.
+Ce site est toujours classé sans interruption parmi les cinq cents sites les plus visités du web.» WordReference.com offre également des forums linguistiques très actifs, tout comme des versions allégées de ses dictionnaires pour téléphone portable et smartphone.
+mille neuf cent quatre-vingt-dix-neuf > Wordfast, logiciel de traduction Lancé en mille neuf cent quatre-vingt-dix-neuf à Paris par Yves Champollion, Wordfast est un logiciel de traduction avec gestion de la terminologie en temps réel et contrôle typographique.
+Il est compatible avec d'autres logiciels très utilisés comme le WebSphere Translation Server d'IBM et les logiciels de Trados.
+Pendant quelques années, une version simplifiée de Wordfast est même téléchargeable gratuitement, avec un manuel d'utilisation disponible en seize langues.
+Le format OeB est défini par l'OeBPS (Open eBook Publication Structure), avec une version ouverte et gratuite appartenant au domaine public et une version originale destinée aux professionnels de la publication.
+Le format OeB devient rapidement un standard du livre numérique et sert lui-même de base à de nombreux formats, par exemple le format LIT (pour le Microsoft Reader) ou le format PRC (pour le Mobipocket Reader).
+Décembre mille neuf cent quatre-vingt-dix-neuf > WebEncyclo, première grande encyclopédie francophone en ligne WebEncyclo (aujourd'hui disparu), publié par les éditions Atlas, est la première grande encyclopédie francophone en accès libre, avec mise en ligne en décembre mille neuf cent quatre-vingt-dix-neuf.
+La recherche est possible par mots-clés, thèmes, médias (à savoir les cartes, liens internet, photos et illustrations) et idées.
+Un appel à contribution incite les spécialistes d'un sujet donné à envoyer des articles, qui sont regroupés dans la section «WebEncyclo contributif».
+Après avoir été libre, l'accès est ensuite soumis à une inscription préalable gratuite.
+Décembre mille neuf cent quatre-vingt-dix-neuf > L'Encylopedia Universalis sur le web La version web de l'Encyclopaedia Universalis est mise en ligne en décembre mille neuf cent quatre-vingt-dix-neuf, soit un ensemble de vingt-huit.000 articles signés de quatre.000 auteurs.
+Si la consultation est payante sur la base d'un abonnement annuel, de nombreux articles sont également en accès libre.
+Décembre mille neuf cent quatre-vingt-dix-neuf > Britannica.com, première grande encyclopédie anglophone en ligne Le site Britannica.com est mis en ligne en décembre mille neuf cent quatre-vingt-dix-neuf.
+Le site propose l'équivalent numérique des trente-deux volumes de la quinzee édition de l'Encyclopaedia Britannica, en accès libre et gratuit, en complément de la version imprimée et de la version CD-ROM, toutes deux payantes.
+Le site web offre aussi une sélection d'articles issus de soixante-dix magazines, un guide des meilleurs sites, un choix de livres, etc., le tout étant accessible à partir d'un moteur de recherche unique.
+En septembre deux mille, le site fait partie des cent sites les plus visités sur la toile.
+En juillet deux mille un, la consultation devient payante sur la base d'un abonnement annuel ou mensuel.
+En deux mille neuf, Britannica.com ouvre son site à des contributeurs extérieurs, avec inscription obligatoire pour écrire et modifier des articles.
+Le projet est terminé en deux mille sept, avec un million de livres disponibles sur le site de l'université, sous forme de fichiers image dans les formats DjVu et TIFF, et trois sites miroirs en Chine du nord, en Chine du sud et en Inde.
+Il est possible que ce projet ait inspiré l'Open Content Alliance (OCA), un projet de bibliothèque numérique publique mondiale lancé par l'Internet Archive en octobre deux mille cinq.
+Robert Beard co-fonde ensuite le portail yourDictionary.com en y intégrant son site précédent, avec mise en ligne en février deux mille.
+Devenu un portail de référence, yourDictionary.com répertorie un.huit cents dictionnaires dans deux cent cinquante langues en septembre deux mille trois, et deux.cinq cents dictionnaires dans trois cents langues en avril deux mille sept.
+Soucieux de servir toutes les langues sans exception, le portail propose aussi l'Endangered Language Repository, une section spécifique consacrée aux langues menacées.
+Mars deux mille > L'Oxford English Dictionary en ligne En mars deux mille, les vingt volumes de l'Oxford English Dictionary (OED) sont mis en ligne par l'Oxford University Press (OUP).
+La consultation du site est payante.
+Le dictionnaire bénéficie d'une mise à jour trimestrielle d'environ un.000 entrées nouvelles ou révisées.
+En mars deux mille deux, deux ans après cette première expérience, l'Oxford University Press met en ligne l'Oxford Reference Online (ORO), une vaste encyclopédie conçue directement pour le web et consultable elle aussi sur abonnement payant.
+Avec soixante.000 pages et un million d'entrées, elle représente l'équivalent d'une centaine d'ouvrages de référence.
+Mars deux mille > Mobipocket, spécialiste de la lecture sur PDA Fondé à Paris en mars deux mille par Thierry Brethes et Nathalie Ting, Mobipocket se spécialise d'emblée dans la distribution sécurisée de livres pour PDA (assistant personnel).
+La société est financée en partie par Viventures, branche de la multinationale française Vivendi.
+Mobipocket conçoit d'abord le Mobipocket Reader, logiciel de lecture permettant la lecture de fichiers au format PRC.
+Gratuit et disponible en plusieurs langues (français, anglais, allemand, espagnol et italien), ce logiciel est «universel», c'est-à-dire utilisable sur tout PDA (Palm Pilot, Pocket PC, eBookMan, Psion, etc.).
+En avril deux mille deux, la société lance un Mobipocket Reader pour ordinateur.
+Au printemps deux mille trois, le Mobipocket Reader équipe les premiers smartphones de Nokia et Sony Ericsson.
+À la même date, six.000 titres dans plusieurs langues (français, anglais, allemand, espagnol) sont distribués soit sur le site de Mobipocket soit dans les librairies partenaires.
+En avril deux mille cinq, Mobipocket est racheté par la librairie en ligne Amazon.com.
+Ses caractéristiques sont un affichage utilisant la technologie ClearType, le choix de la taille des caractères, la mémorisation des mots-clés pour des recherches ultérieures, et l'accès d'un clic au Merriam-Webster Dictionary.
+Ce logiciel étant téléchargeable gratuitement, Microsoft facture les éditeurs et distributeurs pour l'utilisation de sa technologie de gestion des droits numériques (ou DRM: Digital Rights Management), et touche une commission sur la vente de chaque titre.
+Quatre mois plus tard, en août deux mille, le Microsoft Reader est utilisable sur toute plateforme Windows, et donc aussi bien sur ordinateur que sur PDA.
+En octobre deux mille un, Windows CE - le système d'exploitation du Pocket PC - est remplacé par Pocket PC deux mille deux, qui permet entre autres de lire des livres numériques sous droits.
+En deux mille deux, la gamme Pocket PC propose plusieurs modèles et permet la lecture sur trois logiciels: le Microsoft Reader bien sûr, le Mobipocket Reader et le Palm Reader.
+Bien sûr, les deux sont possibles avec l'imprimé.
+Mais la différence saute aux yeux: feuilleter n'est pas cliquer.
+L'internet n'a donc pas changé ma vie, mais mon rapport à l'écriture.
+On n'écrit pas de la même manière pour un site que pour un scénario, une pièce de théâtre, etc.
+(...) Depuis, j'écris (compose, mets en page, en scène) directement à l'écran.
+L'état "imprimé" de mon travail n'est pas le stade final, le but; mais une forme parmi d'autres, qui privilégie la linéarité et l'image, et qui exclut le son et les images animées.
+Un an plus tard, en été deux mille, cinquantepourcent des usagers de l'internet sont non anglophones.
+Le cap des cinquantepourcent désormais franchi, il reste à diversifier les langues sur une toile dont les pages sont encore en anglais à près de quatre-vingtspourcent.
+Juillet deux mille > Stephen King, auteur de best-sellers et pionnier numérique En juillet deux mille débute l'auto-publication électronique de The Plant, roman épistolaire de Stephen King, premier auteur de best-sellers à se lancer dans un tel pari.
+Cette expérience est précédée quelques mois plus tôt par la distribution en mars deux mille de sa nouvelle Riding The Bullet uniquement en version numérique.
+quatre cents.000 exemplaires sont téléchargés en vingt-quatre heures.
+Suite à ce succès à la fois médiatique et financier, Stephen King crée donc un site web spécifique pour auto- publier The Plant en épisodes.
+Les chapitres paraissent à intervalles réguliers et sont téléchargeables dans plusieurs formats (PDF, OeB, HTML, TXT).
+En décembre deux mille, après la parution du sixième chapitre, l'auteur décide d'interrompre cette expérience, le nombre de téléchargements et de paiements ayant régulièrement baissé au fil des chapitres.
+Stephen King poursuit toutefois ses expériences numériques dans les années qui suivent, mais cette fois en partenariat avec son éditeur.
+Barnes & Noble passe aussi un partenariat avec Adobe en août deux mille afin de proposer des titres lisibles sur l'Acrobat Reader et le Glassbook Reader, Adobe ayant racheté la société Glassbook à la même date.
+Septembre deux mille > Le Grand dictionnaire terminologique, bilingue français-anglais Initiative de l'Office québécois de la langue française (OQLF), le Grand dictionnaire terminologique (GDT) est un dictionnaire bilingue français-anglais de trois millions de termes appartenant au vocabulaire industriel, scientifique et commercial.
+Sa mise en ligne en septembre deux mille est le résultat d'un partenariat entre l'OQLF, auteur du dictionnaire, et Semantix, société spécialisée dans les solutions logicielles linguistiques.
+Cette mise en ligne est à la fois un défi technologique et un succès.
+Dès le premier mois, le GDT est consulté par un virgule trois million de personnes, avec des pointes de soixante.000 requêtes quotidiennes.
+La gestion de la base est ensuite assurée par Convera Canada.
+En février deux mille trois, les requêtes sont au nombre de trois virgule cinq millions par mois.
+Une nouvelle version du GDT est mise en ligne en mars deux mille trois, sa gestion étant désormais assurée par l'OQLF lui-même, et non plus par une société prestataire,  avec l'ajout du latin comme troisième langue.
+Septembre deux mille > La librairie Numilog se consacre aux livres numériques Lancée en septembre deux mille, la librairie Numilog vend exclusivement des livres numériques, par téléchargement et dans plusieurs formats.
+Fondée à Paris en avril deux mille par Denis Zwirn, la société Numilog est à la fois une librairie en ligne, un studio de fabrication et un diffuseur de livres numériques.
+En deux mille trois, le catalogue comprend trois.cinq cents titres (livres et périodiques) en français et en anglais, lisibles sur l'Adobe Reader, le Microsoft Reader ou le Mobipocket Reader, grâce à un partenariat avec une quarantaine d'éditeurs.
+En décembre deux mille six, le catalogue de Numilog comprend trente-cinq.000 livres numériques grâce à un partenariat avec soixante éditeurs.
+Au fil des ans, Numilog devient la principale librairie francophone de livres numériques.
+Octobre deux mille > Distributed Proofreaders, ou la relecture partagée des livres numérisés Conçu en octobre deux mille par Charles Franks pour aider à la numérisation des livres du Projet Gutenberg, Distributed Proofreaders (DP) en devient rapidement la principale source.
+Les volontaires n'ont aucun quota à respecter.
+A titre indicatif, il est suggéré de relire une page par jour.
+Distributed Proofreaders est officiellement affilié au Projet Gutenberg en deux mille deux, puis devient une entité séparée en mai deux mille six tout en conservant des liens étroits avec le Projet Gutenberg.
+Distributed Proofreaders compte dix.000 livres numérisés et relus par ses soins en décembre deux mille six et dix-huit.000 livres en juin deux mille dix.
+Distributed Proofreaders Europe (DP Europe) voit le jour en janvier deux mille quatre, et Distributed Proofreaders Canada (DP Canada) en juillet deux mille sept.
+La réponse de la communauté scientifique internationale est remarquable.
+Au cours des deux années suivantes, la lettre ouverte de PLoS est signée par trente-quatre.000 chercheurs dans cent quatre-vingts pays.
+Le réponse des éditeurs est beaucoup moins enthousiaste, si bien que ce projet ne voit finalement pas le jour.
+Mais PLoS poursuit ses activités en décidant de devenir lui-même éditeur de périodiques scientifiques et médicaux en ligne et gratuits, et débute ses activités éditoriales en janvier deux mille trois.
+Octobre deux mille > L'eBookMan est l'assistant personnel multimédia de Franklin En octobre deux mille, Franklin lance l'eBookMan, un assistant personnel multimédia qui - entre autres fonctionnalités (agenda, dictaphone, etc.) - permet la lecture de livres numériques sur le Franklin Reader.
+Nettement plus grand que celui de ses concurrents, l'écran n'existe toutefois qu'en noir et blanc, contrairement à la gamme Pocket PC ou à certains modèles Palm avec écran couleur.
+L'eBookMan permet aussi l'écoute de livres audionumériques et de fichiers musicaux au format MPtrois.
+En octobre deux mille un, Franklin intègre le Mobipocket Reader à l'eBookMan, et le Franklin Reader intègre les gammes d'appareils mobiles Psion, Palm, Pocket PC et Nokia.
+Ces deux modèles - le REB mille cent (écran noir et blanc, successeur du Rocket eBook) et le REB mille deux cents (écran couleur, successeur du SoftBook Reader) - sont construits et vendus sous le label RCA, appartenant à Thomson Multimedia.
+Le système d'exploitation, le navigateur et le logiciel de lecture sont spécifiques au produit, tout comme le format de lecture, basé sur le format OeB (Open eBook).
+ À l'automne deux mille deux, ses successeurs, le GEB mille cent cinquante et le GEB deux mille cent cinquante, sont produits sous la marque Gemstar et vendus avec un abonnement ou non à la librairie numérique de Gemstar.
+Gemstar met fin à ses activités eBook en juin deux mille trois.
+Novembre deux mille > La Bible de Gutenberg originale numérisée et disponible en ligne En novembre deux mille, la British Library met en ligne la version numérique du premier livre à avoir jamais été imprimé.
+Datant de mille quatre cent cinquante-quatre ou mille quatre cent cinquante-cinq, cette Bible aurait été imprimée par Gutenberg en cent quatre-vingts exemplaires dans son atelier de Mayence, en Allemagne.
+quarante-huit exemplaires, dont certains incomplets, existeraient toujours.
+La British Library en possède deux versions complètes, et une partielle.
+Novembre deux mille > Frederick Forsyth, romancier anglais, tente l'aventure numérique À la suite de l'auteur de best-sellers Stephen King, Frederick Forsyth, le maître britannique du thriller, décide lui aussi de tenter l'aventure numérique, avec l'appui d'Online Originals, un éditeur électronique londonien.
+En novembre deux mille, Online Originals publie The Veteran, histoire d'un crime violent commis à Londres et premier volet de Quintet, une série de cinq nouvelles électroniques (annoncées dans l'ordre suivant: The Veteran, The Miracle, The Citizen, The Art of the Matter, Draco).
+Novembre deux mille > Citation de Frederick Forsyth, maître britannique du thriller «La publication en ligne sera essentielle à l'avenir, déclare Frederick Forsyth en novembre deux mille sur le site de son éditeur électronique.
+Elle crée un lien simple et surtout rapide et direct entre le producteur original (l'auteur) et le consommateur final (le lecteur), avec très peu d'intermédiaires.
+Il est passionnant de participer à cette expérience.
+Je ne suis absolument pas un spécialiste des nouvelles technologies.
+Je n'ai jamais vu de livre électronique.
+Le nouveau titre à paraître fin deux mille s'intitule El Oro del Rey (L'Or du Roi).
+En novembre deux mille, en collaboration avec son éditeur Alfaguara, l'auteur décide de diffuser El Oro del Rey en version numérique sur un site spécifique du portail Inicia, en exclusivité pendant un mois, avant la sortie du livre imprimé en librairie.
+Le roman est disponible au format PDF pour deux virgule neuf euros, un prix très inférieur aux quinze virgule un euros annoncés pour le livre imprimé.
+Résultat de l'expérience, le nombre de téléchargements est très satisfaisant, mais pas celui des paiements.
+Un mois après la mise en ligne du roman, on compte trois cent trente-deux.000 téléchargements, avec paiement par douze.000 lecteurs seulement.
+Amazon.com passe aussi un partenariat avec Adobe en août deux mille afin de proposer des titres lisibles sur l'Acrobat Reader et le Glassbook Reader, Adobe ayant racheté la société Glassbook à la même date.
+En avril deux mille un, Adobe conclut un partenariat avec Amazon, qui met en vente deux.000 livres numériques lisibles sur l'Acrobat eBook Reader: titres de grands éditeurs, guides de voyages, livres pour enfants, etc.
+Très schématiquement, la technologie est la suivante: prises entre deux feuilles de plastique souple, des millions de micro-alvéoles contiennent des micro-billes bicolores en suspension dans un liquide clair.
+Chaque bille est pourvue d'une charge électrique.
+Une impulsion électrique extérieure permet la rotation des billes, et donc le changement de couleur, afin d'afficher, de modifier ou d'effacer des données.
+En deux mille quatre, le marché pressenti est d'abord celui de l'affichage commercial, avec vente d'affichettes fonctionnant sur piles.
+La société disparaît en deux mille cinq, les activités de recherche et développement se poursuivant au sein de Xerox.
+deux mille > Le wiki, un site web collaboratif Issu du terme hawaïen «wiki» (qui signifie: vite, rapide), un wiki est un site web permettant à plusieurs utilisateurs de collaborer en ligne sur un même projet.
+Le concept du wiki devient très populaire en deux mille.
+A tout moment, ces utilisateurs peuvent contribuer à la rédaction du contenu, modifier ce contenu et l'enrichir en permanence.
+Le wiki est utilisé par exemple pour créer et gérer des dictionnaires, des encyclopédies ou encore des sites d'information sur un sujet donné.
+Le programme présent derrière l'interface d'un wiki est plus ou moins élaboré.
+Un programme simple gère du texte et des hyperliens.
+Un programme élaboré permet d'inclure des images, des graphiques, des tableaux, etc.
+L'encyclopédie wiki la plus connue est Wikipédia.
+Janvier deux mille un > Wikipédia, grande encyclopédie collaborative gratuite en ligne Fondée en janvier deux mille un à l'initiative de Jimmy Wales et de Larry Sanger (Larry quitte ensuite l'équipe), Wikipédia est une encyclopédie gratuite écrite collectivement et dont le contenu est librement réutilisable.
+Sans publicité et financée par des dons, elle est rédigée par des milliers de volontaires, avec possibilité pour tout un chacun de corriger ou compléter les articles.
+Les articles restent la propriété de leurs auteurs.
+La libre utilisation des articles est régie par la licence GFDL (GNU Free Documentation licence) et la licence Creative Commons.
+En mai deux mille sept, Wikipédia compte sept millions d'articles dans cent quatre-vingt-douze langues, dont un virgule huit million en anglais, cinq cent quatre-vingt-neuf.000 en allemand, cinq cents.000 en français, deux cent soixante.000 en portugais et deux cent trente-six.000 en espagnol.
+En deux mille huit, Wikipédia est l'un des cinq sites les plus visités du web.
+En septembre deux mille dix, Wikipédia compte quatorze millions d'articles dans deux cent soixante-douze langues, dont trois virgule quatre millions en anglais, un virgule un million en allemand et un million en français, qui est donc la troisième langue de l'encyclopédie.
+Janvier deux mille un > L'UNL (Universal Networking Language), un projet de métalangage numérique La Fondation UNDL (Universal Networking Digital Language) est fondée en janvier deux mille un à Genève (Suisse) pour développer et promouvoir le projet UNL (Universal Networking Language).
+Comme expliqué sur le wiki du projet en langue française, «l'UNL est une langue artificielle créée pour prendre en compte les informations et connaissances véhiculées par les langues humaines.
+Elle est dotée de composantes lexicales, grammaticales et sémantiques, comme les langues naturelles.
+Sa mémoire - trente-deux Mo de mémoire SDRAM et seize Mo de mémoire flash - permet de stocker quinze.000 pages de texte, soit trente livres de cinq cents pages.
+Mais les ventes sont très inférieures aux pronostics, le marché n'étant pas encore mûr pour ce genre d'appareil, et forcent la société à se déclarer en cessation de paiement.
+Cytale est mis en liquidation judiciaire en juillet deux mille deux et cesse ses activités à la même date.
+La commercialisation du Cybook est reprise quelques mois plus tard par la société Bookeen, créée en deux mille trois à l'initiative de Michael Dahan et Laurent Picard, deux ingénieurs de Cytale.
+Le Cybook deuxième génération est disponible en juin deux mille quatre, avec divers modèles.
+En juillet deux mille sept, Bookeen lance le Cybook Gentrois, avec un écran utilisant pour la première fois la technologie E Ink.
+Janvier deux mille un > Adobe lance l'Acrobat eBook Reader En janvier deux mille un, Adobe lance deux nouveaux produits en complément de l'Acrobat Reader (logiciel gratuit permettant de lire les fichiers PDF) et de l'Adobe Acrobat (logiciel payant permettant de les créer).
+L'Acrobat eBook Reader (gratuit) est un logiciel de lecture pour les livres numériques sous droits, avec gestion des droits par l'Adobe Content Server.
+L'Adobe Content Server (payant) est un système de DRM (Digital Rights Management) destiné aux éditeurs et distributeurs pour la gestion des droits numériques, à savoir le conditionnement, la protection, la distribution et la vente sécurisée des livres numériques au format PDF.
+En mai deux mille trois, l'Acrobat eBook Reader (deuxième version) fusionne avec l'Acrobat Reader (cinquième version) pour devenir l'Adobe Reader (qui débute à la sixième version).
+Il explique en février deux mille un: «Mes activités de recherche, autrefois menées dans une tour d'ivoire, se font maintenant presque uniquement par des collaborations locales ou à distance.
+(...) Tout mon enseignement exploite au maximum les ressources d'internet (le web et le courriel): les deux lieux communs d'un cours sont la salle de classe et le site du cours, sur lequel je mets tous les matériaux des cours.
+Je mets toutes les données de mes recherches des vingt dernières années sur le web (réédition de livres, articles, textes intégraux de dictionnaires anciens en bases de données interactives, de traités du seizee siècle, etc.).
+Ce logiciel traduit instantanément en plusieurs langues (allemand, anglais, chinois, coréen, espagnol, français, italien, japonais) les pages web, courriels et chats.
+Il interprète cinq cents mots à seconde et permet l'ajout de vocabulaires spécifiques.
+Mars deux mille un > Palm lance le Palm Reader, son logiciel de lecture En mars deux mille un, la société Palm fait l'acquisition de Peanutpress.com, éditeur et distributeur de livres numériques pour assistant personnel (PDA), qui appartenait jusque-là à la société netLibrary.
+Le Peanut Reader devient le Palm Reader, utilisable aussi bien sur le Palm Pilot que sur le Pocket PC, et les deux.000 titres de Peanutpress.com sont transférés dans la librairie numérique Palm Digital Media.
+En juillet deux mille deux, le Palm Reader est utilisable sur ordinateur.
+A la même date, Palm Digital Media distribue cinq.cinq cents titres dans plusieurs langues.
+En deux mille trois, le catalogue approche les dix.000 titres.
+Avril deux mille un > PDA et tablettes de lecture: quelques chiffres En avril deux mille un, on compte dix-sept millions de PDA dans le monde pour seulement cent.000 tablettes de lecture, d'après un Seybold Report en ligne.
+treize virgule deux millions de PDA sont vendus en deux mille un.
+En deux mille deux, la gamme Palm Pilot est toujours le leader du marché (trente-six virgule huitpourcent des machines vendues), suivi de la gamme Pocket PC de Microsoft et des modèles de Hewlett- Packard, Sony, Handspring, Toshiba et Casio.
+Les systèmes d'exploitation utilisés sont essentiellement le Palm OS (pour cinquante-cinqpourcent des machines) et le Pocket PC (pour vingt-cinq virgule septpourcent des machines).
+En deux mille quatre, les trois principaux fabricants de PDA sont Palm, Sony et Hewlett-Packard.
+Suivent Handspring, Toshiba, Casio et d'autres.
+Mais le PDA est de plus en plus concurrencé par le smartphone, qui est un téléphone portable doublé d'un PDA, et les ventes commencent à baisser.
+En février deux mille cinq, Sony décide de se retirer complètement du marché des PDA.
+Avril deux mille un > Le premier mail-roman francophone, lancé par Jean-Pierre Balpe Jean-Pierre Balpe est chercheur, écrivain et directeur du département hypermédia de l'Université Paris huit.
+Pendant très exactement cent jours, entre le onze avril et le dix-neuf juillet deux mille un, il diffuse quotidiennement par courriel un chapitre de son mail-roman «Rien n'est sans dire» auprès de cinq cents personnes - sa famille, ses amis, ses collègues, etc.
+- en y intégrant les réponses et réactions des lecteurs.
+Racontée par un narrateur, l'histoire est celle de Stanislas et Zita, qui vivent une passion tragique déchirée par une sombre histoire politique.
+Cette expérience renforce la conviction de Jean-Pierre Balpe que «les technologies numériques sont une chance extraordinaire du renouvellement du littéraire».
+Fondée en avril mille neuf cent quatre-vingt-seize par Brewster Kahle à San Francisco (Californie), l'Internet Archive a pour but de constituer, stocker, préserver et gérer une bibliothèque de l'internet, en archivant régulièrement la totalité du web.
+En deux mille quatre, les archives du web représentent plus de trois cents To (téraoctets) de données, avec une croissance de douze To par mois.
+L'organisme du même nom propose des licences-type, qui sont des contrats flexibles de droit d'auteur compatibles avec une diffusion sur l'internet.
+L'auteur peut par exemple choisir d'autoriser ou non la reproduction et la rediffusion de ses oeuvres.
+Ces contrats peuvent être utilisés pour tout type de création: texte, film, photo, musique, site web, etc.
+Finalisée en février deux mille sept, la version trois.0 de la Creative Commons instaure une licence internationale et la compatibilité avec d'autres licences similaires, dont le copyleft et la GPL (General Public License).
+deux mille un > Le Nokia neuf mille deux cent dix est le premier smartphone Le Nokia neuf mille deux cent dix est le premier smartphone du marché, lancé dès deux mille un par la société finlandaise Nokia, grand fabricant mondial de téléphones portables.
+Apparaissent ensuite le Nokia Series soixante, le Sony Ericsson Phuit cents, puis les modèles de Motorola et de Siemens.
+Ces différents modèles permettent de lire des livres numériques sur le Mobipocket Reader, le logiciel de lecture de Mobipocket.
+Appelé aussi téléphone multimédia, téléphone multifonctions ou encore téléphone intelligent, le smartphone dispose d'un écran couleur, du son polyphonique et de la fonction appareil photo, qui viennent s'ajouter aux fonctions habituelles du PDA  (assistant personnel): agenda, dictaphone, lecteur de livres numériques, lecteur de musique, etc.
+Les smartphones représentent trois virgule septpourcent des ventes de téléphones mobiles en deux mille quatre et 9pourcent de ces ventes en deux mille six, à savoir quatre-vingt-dix millions de smartphones pour un milliard de téléphones portables.
+Une équipe éditoriale de haut niveau est constituée pour lancer des périodiques de qualité - PLoS Biology en octobre deux mille trois puis PLoS Medicine en deux mille quatre - selon un nouveau modèle d'édition en ligne basé sur la diffusion libre du savoir.
+Trois nouveaux titres voient le jour en deux mille cinq: PLoS Genetics, PLoS Computational Biology et PLoS Pathogens.
+PLoS Clinical Trials est lancé en mai deux mille six.
+PLoS Neglected Tropical Diseases est lancé en automne deux mille sept en tant que première publication scientifique consacrée aux maladies tropicales négligées.
+Librement accessibles en ligne, tous les articles peuvent être diffusés et réutilisés ailleurs, y compris pour des traductions, selon les termes de la licence Creative Commons, la seule contrainte étant la mention des auteurs et de la source.
+Utopique? Invraisemblable? Peut-être pas tant que cela!» (Entretien du Février deux mille trois > Le portail de Handicapzéro, ou l'internet pour tous L'association Handicapzéro a pour but d'améliorer l'autonomie des personnes ayant un problème visuel, à savoir dixpourcent de la population francophone.
+Ce portail est précédé d'un premier site web mis en ligne en septembre deux mille et qui devient rapidement le site adapté le plus visité, avec dix.000 requêtes mensuelles.
+Plus de deux millions de visiteurs utilisent les services du portail au cours de l'année deux mille six.
+Mars deux mille trois > Paulo Coelho diffuse des romans gratuitement au format PDF Le romancier brésilien Paulo Coelho est devenu mondialement célèbre après la parution de L'Alchimiste.
+Début deux mille trois, ses livres, traduits en cinquante-six langues, ont été vendus en cinquante-trois millions d'exemplaires dans cent cinquante-cinq pays, dont six virgule cinq millions d'exemplaires dans les pays francophones.
+En mars deux mille trois, Paulo Coelho décide de distribuer plusieurs romans gratuitement en version PDF, en diverses langues, avec l'accord de ses éditeurs respectifs, dont Anne Carrière, son éditrice en France.
+Trois romans sont disponibles en français: Manuel du guerrier de la lumière, La cinquième montagne et Veronika décide de mourir.
+Adobe lance aussi Adobe eBooks Central, un service permettant de lire, publier, vendre et prêter des livres numériques, et l'Adobe eBook Library, qui se veut un prototype de bibliothèque de livres numériques.
+Les versions récentes d'Adobe Acrobat - logiciel payant lancé en mille neuf cent quatre-vingt-treize pour créer des fichiers PDF - permettent de créer des PDF compatibles avec le format OeB, ce format étant devenu entre temps un autre standard du livre numérique.
+Septembre deux mille trois > Le contenu des cours du MIT disponible gratuitement en ligne En septembre deux mille trois, le MIT (Massachusetts Institute of Technology) lance officiellement le MIT OpenCourseWare pour offrir le matériel d'enseignement de  ses cours en ligne, avec accès libre et gratuit.
+Ce matériel d'enseignement comprend des textes de conférences, des travaux pratiques, des exercices et corrigés, des bibliographies, des documents audio et vidéo, etc.
+Mise en ligne un an plus tôt, la version pilote du MIT OpenCourseWare a d'abord offert le matériel d'enseignement de trente-deux cours représentatifs des cinq facultés du MIT.
+Le matériel d'enseignement d'une centaine de cours est disponible en septembre deux mille trois lors du lancement officiel du site, avec cinq cents cours dans trente-trois disciplines en mars deux mille quatre et un.quatre cents cours dans trente-quatre disciplines en mai deux mille six.
+La totalité des un.huit cents cours dispensés par le MIT est en ligne en novembre deux mille sept, avec actualisation régulière.
+En novembre deux mille cinq est lancé en parallèle l'OpenCourseWare Consortium (OCW Consortium), qui propose les cours en accès libre de nombreuses universités selon le même schéma.
+Février deux mille quatre > Facebook, réseau social Facebook est un réseau social fondé en février deux mille quatre par Mark Zuckerberg et ses collègues étudiants.
+Facebook est depuis devenu le deuxième site mondial en nombre de visites, après Google, avec cinq cents millions d'usagers en juin deux mille dix, tout en suscitant des débats sur le respect de la vie privée.
+Avril deux mille quatre > Le Librié, première tablette de lecture de Sony En avril deux mille quatre, Sony lance au Japon son premier Reader, le Librié mille- EP, produit en partenariat avec les sociétés Philips et E Ink.
+Cette tablette est d'ailleurs la première à utiliser la technologie d'affichage développée par E Ink et dénommée encre électronique.
+L'appareil pèse trois cents grammes (avec piles et protection d'écran) pour une taille de douze virgule six x dix-neuf x un virgule trois centimètres.
+Sa mémoire est de dix Mo - avec possibilité d'extension - et sa capacité de stockage de cinq cents livres.
+Son écran de six pouces a une définition de cent soixante-dix DPI et une résolution de huit cents x six cents pixels.
+Un port USB permet le téléchargement des livres à partir de l'ordinateur.
+L'appareil comprend aussi un clavier, une fonction enregistrement et une synthèse vocale.
+Il fonctionne avec quatre piles alcalines, qui permettraient la consultation de dix.000 pages.
+Son prix est de trois cent soixante-quinze dollars US.
+Le Librié est l'ancêtre du Sony Reader, lancé aux États-Unis en octobre deux mille six.
+Wikipédia, Facebook et Twitter, bien sûr, mais aussi des dizaines de milliers d'autres.
+L'expression «web deux.0» émane d'un éditeur puisqu'elle est utilisée pour la première fois en deux mille quatre par Tim O'Reilly, fondateur des éditions O'Reilly Media, en tant que titre pour une série de conférences qu'il organise.
+Le débat n'est pas prêt d'être clos en deux mille dix, bien qu'on ne parle plus de publics différents pour l'une et l'autre machine.
+Une chose est certaine: la compétition risque d'être rude sur un marché très prometteur.
+Avril deux mille cinq > Le format ePub, un standard du livre numérique En avril deux mille cinq, l'Open eBook Forum devient l'International Digital Publishing Forum (IDPF), et le format OeB laisse la place au format ePub, acronyme de «electronic publication».
+Ce format est un standard ouvert pour les livres numériques, largement utilisé par les éditeurs pour la distribution de leurs livres.
+Il est destiné à faciliter la mise en page du contenu sur tout appareil de lecture (ordinateur, téléphone mobile, smartphone, tablette de lecture).
+Les fichiers PDF créés avec des versions récentes du logiciel Adobe Acrobat sont compatibles avec le format ePub.
+Mai deux mille cinq > Google Print, ancêtre de Google Books Avant de lancer le fameux Google Books, Google lance Google Print en mai deux mille cinq.
+Ce lancement est précédé de deux étapes.
+En octobre deux mille quatre, Google lance la première partie de son programme, établi en partenariat avec les éditeurs pour pouvoir consulter à l'écran des extraits de livres, puis commander les livres auprès d'une librairie en ligne.
+Google prévoit de numériser dix millions de livres sur six ans, avec un chantier d'une durée totale de dix ans.
+Août deux mille six > Google Books, le service livres de Google Le programme reprend en août deux mille six sous le nom de Google Books (Google Livres).
+La numérisation des fonds de grandes bibliothèques se poursuit, tout comme le développement de partenariats avec les éditeurs qui le souhaitent.
+Les livres libres de droit sont consultables à l'écran en texte intégral, leur contenu est copiable et l'impression est possible page à page.
+Ils sont aussi téléchargeables sous forme de fichiers PDF et imprimables dans leur entier.
+Le conflit avec les associations d'auteurs et d'éditeurs se poursuit lui aussi, puisque Google continue de numériser des livres sous droits sans l'autorisation préalable des ayants droit, en invoquant le droit de citation pour présenter des extraits sur le web.
+L'Authors Guild et l'Association of American Publishers (AAP) invoquent pour leur part le non respect de la législation relative au copyright pour attaquer Google en justice.
+Un accord entre les deux parties sera proposé en novembre deux mille huit.
+De même, l'OCA ne numérise les livres sous droits que si les éditeurs (ou auteurs) de ces livres ont donné leur accord.
+Les premiers organismes participants sont les bibliothèques des Universités de Californie et de Toronto, les Archives européennes, les Archives nationales du Royaume- Uni, O'Reilly Media et les Prelinger Archives.
+Un million de livres numérisés sont disponibles dans la partie Text Archive de l'Internet Archive en décembre deux mille huit, et deux millions de livres en mars deux mille dix.
+Août deux mille six > Le catalogue collectif mondial WorldCat lance une version web gratuite En août deux mille six, le catalogue collectif mondial WorldCat -- géré depuis nombre d'années par l'association OCLC (Online Computer Library Center) -- lance sa version web bêta en accès libre.
+WorldCat est par ailleurs disponible sur abonnement, avec soixante-treize millions de notices (permettant de localiser un milliard de documents) émanant de dix.000 bibliothèques dans cent douze pays en deux mille six.
+À la notice bibliographique du document s'ajoutent les informations suivantes: table des matières, résumé, couverture, illustrations et courte biographie de l'auteur.
+La migration de WorldCat sur le web est progressive.
+La consultation des notices est d'abord possible par le biais de plusieurs moteurs de recherche (Yahoo!, Google et d'autres) avant le lancement d'une version web gratuite.
+Les bibliothèques membres y proposent non seulement leur catalogue mais aussi un accès direct (gratuit ou payant) à leurs documents électroniques: livres du domaine public, articles, photos, vidéos, musique et livres audio.
+En avril deux mille dix, WorldCat permet de localiser un virgule cinq milliard de documents.
+Parfois décrit comme le SMS de l'internet, Twitter a depuis gagné une popularité mondiale, avec cent six millions d'utilisateurs en avril deux mille dix et trois cents.000 nouveaux usagers par jour.
+Octobre deux mille six > Le Sony Reader, nouvelle tablette de lecture de Sony Le Sony Reader est une tablette de lecture lancée en octobre deux mille six aux États-Unis au prix de trois cent cinquante dollars.
+Un autre avantage de cette tablette sur ses concurrentes est la durée de vie de la batterie, avec plus de sept.000 pages consultables, ou deux semaines sans nécessité de la recharger.
+Cette tablette est aussi la première à utiliser Adobe Digital Editions.
+Le Sony Reader est progressivement disponible au Canada, au Royaume-Uni, en Allemagne et en France, avec de nouveaux modèles meilleur marché.
+Microsoft compte aussi ajouter des livres sous droits, mais uniquement avec l'accord préalable des éditeurs.
+En mai deux mille sept, Microsoft annonce des accords avec plusieurs grands éditeurs, dont Cambridge University Press et McGraw Hill.
+Microsoft met finalement un terme à ce projet en mai deux mille huit, pour concentrer ses efforts sur d'autres activités.
+Les sept cent cinquante.000 livres déjà numérisés sont versés dans les collections de l'Open Content Alliance (OCA) sur le site de l'Internet Archive.
+Décembre deux mille six > Citation de Marc Autret, journaliste et infographiste Marc Autret, journaliste et infographiste, écrit en décembre deux mille six: «J'imagine  l'e-book de demain comme une sorte de wiki cristallisé, empaqueté dans un format.
+Il écrit en décembre deux mille six: «La chance qu'on a tous est de vivre là, ici et maintenant cette transformation fantastique.
+Quand je suis né en mille neuf cent soixante-trois, les ordinateurs avaient comme mémoire quelques pages de caractères à peine.
+Aujourd'hui, mon baladeur de musique pourrait contenir des milliards de pages, une vraie bibliothèque de quartier.
+Demain, par l'effet conjugué de la loi de Moore et de l'omniprésence des réseaux, l'accès instantané aux oeuvres et aux savoirs sera de mise.
+Le support de stockage lui- même n'aura plus beaucoup d'intérêt.
+Citizendium est une encyclopédie coopérative et gratuite, tout comme Wikipédia, mais sans ses travers, à savoir le vandalisme, le manque de rigueur et l'utilisation d'un pseudonyme pour y contribuer.
+Les auteurs signent leurs articles de leur vrai nom, et ces articles sont relus et corrigés par des experts («editors») âgés d'au moins vingt-cinq ans et titulaires d'une licence universitaire.
+De plus, des «constables» sont chargés de la bonne marche du projet et du respect du règlement.
+Le jour de son lancement le vingt-cinq mars deux mille sept, Citizendium comprend un.cent articles, huit cent vingt auteurs et cent quatre-vingts experts.
+onze.huit cents articles sont disponibles en juillet deux mille neuf et quinze.000 articles en septembre deux mille dix.
+D'après Larry Sanger, le web deux.0 peut également permettre de créer des structures pour des collaborations scientifiques, et Citizendium peut servir de prototype dans ce domaine.
+Le directeur honoraire du projet est Edward Wilson, professeur émérite à l'Université de Harvard, qui, dans un essai daté de deux mille deux, fut le premier à émettre le voeu d'une telle encyclopédie.
+Cinq ans plus tard, en deux mille sept, c'est désormais chose possible grâce aux avancées technologiques en matière de gestion de contenu à vaste échelle.
+L'encyclopédie se donne dix ans pour être complète, c'est-à-dire à jour.
+Des versions en plusieurs langues seront gérées par des organismes partenaires.
+La base IATE est administrée par le Centre de traduction des organes de l'Union européenne à Luxembourg.
+IATE comprend huit virgule quatre millions de termes en deux mille neuf, dont cinq cent quarante.000 abréviations et cent trente.000 expressions.
+L'iPhone est lancé en juin deux mille sept au prix de quatre cent quatre-vingt-dix-neuf dollars US pour le modèle de quatre Go (giga-octets) et cinq cent quatre-vingt-dix-neuf dollars pour le modèle de huit Go.
+Son lancement en Europe a lieu fin deux mille sept et  son lancement en Asie en deux mille huit.
+D'autres modèles suivent.
+Le dernier en date est l'iPhone quatre, disponible en juin deux mille dix.
+Et de les proposer de manière industrielle.
+Vendu quatre cents dollars US (soit deux cent soixante-treize euros), le Kindle peut contenir jusqu'à deux cents livres parmi les quatre-vingts.000 disponibles dans le catalogue d'Amazon, dont le catalogue de Mobipocket, société rachetée par Amazon en avril deux mille cinq.
+cinq cent trente-huit.000 tablettes sont vendues en deux mille huit.
+Deux autres modèles, le Kindle deux et le Kindle DX (avec un écran plus grand), sont lancés respectivement en février et mai deux mille neuf.
+Le catalogue d'Amazon comptabiliserait quatre cent cinquante.000 ebooks en mars deux mille dix, y compris le catalogue d'Audible.com (livres, journaux et magazines audio) racheté en janvier deux mille neuf.
+Ce magazine littéraire consacre une grande part de ses investigations aux nouveaux secteurs du livre, comme les lecteurs ebooks, la numérisation ou l'évolution numérique de l'édition.» Au fil des mois, ce magazine devient incontournable pour la profession.
+Suite à cet accord, Google pourrait proposer de plus larges extraits des livres - jusqu'à vingtpourcent d'un même ouvrage -, avec un lien commercial pour acheter une copie - numérique ou non - de l'oeuvre.
+Les ayants droit auront la possibilité de participer ou non au projet Google Books, et donc de retirer leurs livres des collections.
+Novembre deux mille huit > Europeana, bibliothèque numérique européenne Europeana, bibliothèque numérique européenne, voit le jour sur la toile en novembre deux mille huit.
+Bien avant Europeana, la Bibliothèque européenne est tout d'abord un portail commun aux quarante-trois bibliothèques nationales lancé en janvier deux mille quatre par la CENL (Conference of European National Librarians) et hébergé sur le site de la Bibliothèque nationale des Pays-Bas.
+En septembre deux mille cinq, la Commission européenne lance une vaste consultation sur un projet de bibliothèque numérique européenne, avec réponse requise en janvier deux mille six et lancement officiel du projet en mars deux mille six.
+Novembre deux mille neuf > Le Nook, première tablette de lecture de Barnes & Noble En novembre deux mille neuf, la grande chaîne de librairies Barnes & Noble lance le Nook, sa propre tablette de lecture, pour deux cent cinquante-neuf dollars US, après l'avoir annoncée le mois précédent.
+La tablette dispose de la plateforme Android et d'un écran E Ink de six pouces,, avec une connexion WiFi et 3G.
+En Juin deux mille dix, le prix du premier modèle passe à cent quatre-vingt-dix-neuf dollars, et un nouveau modèle disposant de la seule connexion WiFi est lancé au prix de cent cinquante-neuf dollars.
+Le Nook Color est annoncé en octobre deux mille dix pour pouvoir apprécier les illustrations en couleur des magazines et livres d'images.
+En novembre deux mille dix, la catalogue de Barnes & Noble propose deux millions de livres numériques pour le Nook.
+Avril deux mille dix > L'iPad, la tablette multifonctions d'Apple L'iPad est lancé par Apple le trois avril deux mille dix aux États-Unis, en tant que tablette numérique multifonctions.
+Son prix initial est de quatre cent quatre-vingt-dix-neuf dollars US, avec un iBookstore de soixante.000 livres numériques qui devrait s'étoffer rapidement.
+Un lancement mondial suit en juin deux mille dix.
+Après l'iPod (lancé en octobre deux mille un) puis l'iPhone (lancé en juin deux mille sept), deux objets cultes auprès de toute une génération, Apple devient lui aussi un acteur de poids pour le livre numérique.
+Elle écrit à la même date: «Internet a pris de plus en plus de place dans ma vie! Il me permet depuis le premier avril d'être éditeur grâce à de laborieuses formations Photoshop, InDesign et autres.
+Décidément il y aura toujours des rebondissements inattendus aux inventions, entre autres.
+Copyright © deux mille dix Marie Lebert.
+Tous droits réservés.
