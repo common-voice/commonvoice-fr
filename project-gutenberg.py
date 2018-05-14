@@ -13,6 +13,7 @@ from gutenberg._domain_model.exceptions import UnknownDownloadUriException
 
 from markdown import markdown
 from bs4 import BeautifulSoup
+from random import shuffle
 
 from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sentences, check_output_dir
 
@@ -23,7 +24,10 @@ def remove_markup(t):
 
 def get_books_by_lang():
     try:
-        return list(get_etexts('language', 'fr'))
+        if args.random:
+            return shuffle(list(get_etexts('language', 'fr')))
+        else:
+            return list(get_etexts('language', 'fr'))
     except InvalidCacheException:
         print("""
     You need to create a Gutenberg cache first:
@@ -139,6 +143,7 @@ parser = argparse.ArgumentParser(description='Project Gutenberg text content ext
 parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
 parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
 
+parser.add_argument('--random', action='store_true', default=True, help='Randomize the list of book IDs.')
 parser.add_argument('--min-words', type=int, default=2, help='Minimum number of words to accept a sentence')
 parser.add_argument('--max-words', type=int, default=45, help='Maximum number of words to accept a sentence')
 parser.add_argument('--numbooks', type=int, default=100, help='Number of books to process')
