@@ -24,10 +24,10 @@ def remove_markup(t):
 
 def get_books_by_lang():
     try:
+        bookids = list(get_etexts('language', 'fr'))
         if args.random:
-            return shuffle(list(get_etexts('language', 'fr')))
-        else:
-            return list(get_etexts('language', 'fr'))
+            shuffle(bookids)
+        return bookids
     except InvalidCacheException:
         print("""
     You need to create a Gutenberg cache first:
