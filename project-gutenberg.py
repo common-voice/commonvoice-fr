@@ -16,6 +16,8 @@ from bs4 import BeautifulSoup
 
 from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sentences, check_output_dir
 
+GUTENBERG_MIRROR = 'http://aleph.gutenberg.org/'
+
 def remove_markup(t):
     return ''.join(BeautifulSoup(markdown(t), 'html.parser').findAll(text=True))
 
@@ -82,7 +84,7 @@ def parse_one_book(bookid):
     has_start_mainpage = False
     has_end_mainpage   = False
 
-    raw_text = remove_markup(strip_headers(load_etext(bookid)).strip()).split('\n')
+    raw_text = remove_markup(strip_headers(load_etext(bookid, mirror=GUTENBERG_MIRROR)).strip()).split('\n')
     search_for_mainpage_marker = len(list(filter(lambda x: x.startswith(mainpage_marker), raw_text))) > 0
     #print('search_for_mainpage_marker', search_for_mainpage_marker)
     
