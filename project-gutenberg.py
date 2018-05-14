@@ -9,6 +9,7 @@ from gutenberg.acquire import load_etext
 from gutenberg.cleanup import strip_headers
 from gutenberg.query import get_etexts
 from gutenberg._domain_model.exceptions import InvalidCacheException
+from gutenberg._domain_model.exceptions import UnknownDownloadUriException
 
 from markdown import markdown
 from bs4 import BeautifulSoup
@@ -126,17 +127,20 @@ print('Querying index')
 for book in get_books_by_lang()[:args.numbooks]:
     print('Treating bookid #{}'.format(book))
 
-    sentences = extract_sentences(parse_one_book(book), args.min_words, args.max_words)
+    try:
+        sentences = extract_sentences(parse_one_book(book), args.min_words, args.max_words)
 
-    output_book_name = os.path.join(args.output, "{}.txt".format(book))
-    print('output_book_name', output_book_name)
-    if not args.dry:
-        with open(output_book_name, 'w') as output_book:
-            bytes = output_book.write('.\n'.join(sentences))
-            if bytes == 0:
-                print('Empty content for bookid #{}'.format(book))
-    else:
-        print('.\n'.join(sentences))
+        output_book_name = os.path.join(args.output, "{}.txt".format(book))
+        print('output_book_name', output_book_name)
+        if not args.dry:
+            with open(output_book_name, 'w') as output_book:
+                bytes = output_book.write('.\n'.join(sentences))
+                if bytes == 0:
+                    print('Empty content for bookid #{}'.format(book))
+        else:
+            print('.\n'.join(sentences))
 
-    if args.one:
-        break
+        if args.one:
+            break
+    except UnknownDownloadUriException:
+        print('Unable to get bookid #{}'.format(book))
