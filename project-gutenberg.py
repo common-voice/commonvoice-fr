@@ -33,6 +33,23 @@ python -c 'from gutenberg.acquire import get_metadata_cache; get_metadata_cache(
                 """)
         return list()
 
+def dump_one_book(book):
+    print('Treating bookid #{}'.format(book))
+    try:
+        sentences = extract_sentences(parse_one_book(book), args.min_words, args.max_words)
+
+        output_book_name = os.path.join(args.output, "{}.txt".format(book))
+        print('output_book_name', output_book_name)
+        if not args.dry:
+            with open(output_book_name, 'w') as output_book:
+                bytes = output_book.write('.\n'.join(sentences))
+                if bytes == 0:
+                    print('Empty content for bookid #{}'.format(book))
+        else:
+            print('.\n'.join(sentences))
+    except UnknownDownloadUriException:
+        print('Unable to get bookid #{}'.format(book))
+
 mapping_specific = [
   [ u'N.-N.-E.', u'nord-nord-est'    ],
   [ u'E.-N.-E.', u'est-nord-est'     ],
@@ -64,16 +81,22 @@ def parse_one_book(bookid):
     has_mainpage       = False
     has_start_mainpage = False
     has_end_mainpage   = False
+
+    raw_text = remove_markup(strip_headers(load_etext(bookid)).strip()).split('\n')
+    search_for_mainpage_marker = len(list(filter(lambda x: x.startswith(mainpage_marker), raw_text))) > 0
+    #print('search_for_mainpage_marker', search_for_mainpage_marker)
     
     finaltext = []
-    for line in remove_markup(strip_headers(load_etext(bookid)).strip()).split('\n'):
+    for line in raw_text:
+        #print('LINE=="{}"'.format(line))
+
         this_line += 1
         
         if len(line) == 0:
             continue
     
         if not has_title:
-            if line.startswith(mainpage_marker):
+            if (search_for_mainpage_marker and line.startswith(mainpage_marker)) or True:
                 if line.isupper():
                     has_title = True
                     #print('FOUND TITLE @', this_line, "'{}'".format(line))
@@ -81,12 +104,12 @@ def parse_one_book(bookid):
     
         if not has_mainpage:
             if not has_start_mainpage:
-                if line.startswith(mainpage_marker):
+                if (search_for_mainpage_marker and line.startswith(mainpage_marker)) or True:
                     has_start_mainpage = True
                     #print('FOUND MAIN PAGE START @', this_line, "'{}'".format(line))
                 continue
             else:
-                if not line.startswith(mainpage_marker):
+                if (search_for_mainpage_marker and line.startswith(mainpage_marker)) or True:
                     has_end_mainpage = True
                     #print('FOUND MAIN PAGE END @', this_line, "'{}'".format(line))
                 else:
@@ -117,30 +140,19 @@ parser.add_argument('--dry', action='store_true', default=False, help='Dry run, 
 parser.add_argument('--min-words', type=int, default=2, help='Minimum number of words to accept a sentence')
 parser.add_argument('--max-words', type=int, default=45, help='Maximum number of words to accept a sentence')
 parser.add_argument('--numbooks', type=int, default=100, help='Number of books to process')
+parser.add_argument('--bookid', type=int, default=-1, help='Specific book to fetch')
 
 parser.add_argument('output', type=str, help='Output directory')
 
 args = parser.parse_args()
 check_output_dir(args.output)
 
-print('Querying index')
-for book in get_books_by_lang()[:args.numbooks]:
-    print('Treating bookid #{}'.format(book))
-
-    try:
-        sentences = extract_sentences(parse_one_book(book), args.min_words, args.max_words)
-
-        output_book_name = os.path.join(args.output, "{}.txt".format(book))
-        print('output_book_name', output_book_name)
-        if not args.dry:
-            with open(output_book_name, 'w') as output_book:
-                bytes = output_book.write('.\n'.join(sentences))
-                if bytes == 0:
-                    print('Empty content for bookid #{}'.format(book))
-        else:
-            print('.\n'.join(sentences))
-
+if args.bookid == -1:
+    print('Querying index')
+    for book in get_books_by_lang()[:args.numbooks]:
+        dump_one_book(book)
         if args.one:
             break
-    except UnknownDownloadUriException:
-        print('Unable to get bookid #{}'.format(book))
+else:
+    print('Query ONE book: {}', args.bookid)
+    dump_one_book(args.bookid)
