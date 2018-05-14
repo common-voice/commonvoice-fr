@@ -249,6 +249,10 @@ def recursive_text(root, finaltext=""):
         finaltext += recursive_text(c)
   return finaltext
 
+def extract_sentences(arr, min_words, max_words):
+  raw_sentences = (' '.join(arr)).split('. ')
+  return filter(lambda x: len(splitIntoWords(x)) >= min_words and len(splitIntoWords(x)) <= max_words, raw_sentences)
+
 def check_output_dir(output):
   if not os.path.isdir(output):
     print('Directory does not exists', output, file=sys.stderr)

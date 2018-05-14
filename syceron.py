@@ -8,7 +8,7 @@ import datetime
 from xml.dom.pulldom import START_ELEMENT, CHARACTERS, END_ELEMENT, parse
 from xml.dom.minidom import Element, Text
 
-from utils import splitIntoWords, filter_numbers, recursive_text, check_output_dir
+from utils import splitIntoWords, filter_numbers, recursive_text, extract_sentences, check_output_dir
 
 parser = argparse.ArgumentParser(description='SyceronBrut text content extraction for Common Voice')
 parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
@@ -66,8 +66,7 @@ for event, node in doc:
 
           output_seance_name += '.txt'
           print('output_seance_name', output_seance_name)
-          raw_sentences = (' '.join(seance_context['texte'])).split('. ')
-          sentences = filter(lambda x: len(splitIntoWords(x)) >= args.min_words and len(splitIntoWords(x)) <= args.max_words, raw_sentences)
+          sentences = extract_sentences(seance_context['texte'], args.min_words, args.max_words)
           if not args.dry:
             with open(output_seance_name, 'w') as output_seance:
               output_seance.write('.\n'.join(sentences))
