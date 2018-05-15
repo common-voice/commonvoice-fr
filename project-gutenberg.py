@@ -143,23 +143,28 @@ parser = argparse.ArgumentParser(description='Project Gutenberg text content ext
 parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
 parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
 
-parser.add_argument('--random', action='store_true', default=True, help='Randomize the list of book IDs.')
 parser.add_argument('--min-words', type=int, default=2, help='Minimum number of words to accept a sentence')
 parser.add_argument('--max-words', type=int, default=45, help='Maximum number of words to accept a sentence')
-parser.add_argument('--numbooks', type=int, default=100, help='Number of books to process')
-parser.add_argument('--bookid', type=int, default=-1, help='Specific book to fetch')
+
+gr_query_index = parser.add_argument_group("Gutenberg index-based query")
+gr_query_index.add_argument('--numbooks', type=int, default=100, help='Number of books to process')
+gr_query_index.add_argument('--random', action='store_true', default=True, help='Randomize the list of book IDs.')
+
+gr_direct = parser.add_argument_group("Gutenberg direct-access")
+gr_direct.add_argument('--bookid', type=int, default=-1,  nargs='+', help='Space-separated list of books ID')
 
 parser.add_argument('output', type=str, help='Output directory')
 
 args = parser.parse_args()
 check_output_dir(args.output)
 
-if args.bookid == -1:
+if len(args.bookid) == 1 and args.bookid == -1:
     print('Querying index')
     for book in get_books_by_lang()[:args.numbooks]:
         dump_one_book(book)
         if args.one:
             break
 else:
-    print('Query ONE book: {}', args.bookid)
-    dump_one_book(args.bookid)
+    print('Query THOSE book: {}', args.bookid)
+    for book in args.bookid:
+        dump_one_book(book)
