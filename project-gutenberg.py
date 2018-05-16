@@ -47,8 +47,8 @@ def dump_one_book(book):
         output_book_name = os.path.join(args.output, "{}.txt".format(book))
         print('output_book_name', output_book_name)
         if not args.dry:
-            with open(output_book_name, 'w') as output_book:
-                bytes = output_book.write('.\n'.join(sentences))
+            with open(output_book_name, 'wb') as output_book:
+                bytes = output_book.write('.\n'.join(sentences).encode('utf-8'))
                 if bytes == 0:
                     print('Empty content for bookid #{}'.format(book))
         else:
@@ -88,7 +88,8 @@ def parse_one_book(bookid):
     has_start_mainpage = False
     has_end_mainpage   = False
 
-    raw_text = remove_markup(strip_headers(load_etext(bookid, refresh_cache=True, mirror=GUTENBERG_MIRROR)).strip()).split('\n')
+    ebook = load_etext(bookid, refresh_cache=True, mirror=GUTENBERG_MIRROR).replace('\r\n', '\n')
+    raw_text = remove_markup(strip_headers(ebook).strip()).split('\n')
     search_for_mainpage_marker = len(list(filter(lambda x: x.startswith(mainpage_marker), raw_text))) > 0
     #print('search_for_mainpage_marker', search_for_mainpage_marker)
     
