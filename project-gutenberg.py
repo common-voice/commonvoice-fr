@@ -88,7 +88,7 @@ def parse_one_book(bookid):
     has_start_mainpage = False
     has_end_mainpage   = False
 
-    raw_text = remove_markup(strip_headers(load_etext(bookid, mirror=GUTENBERG_MIRROR)).strip()).split('\n')
+    raw_text = remove_markup(strip_headers(load_etext(bookid, refresh_cache=True, mirror=GUTENBERG_MIRROR)).strip()).split('\n')
     search_for_mainpage_marker = len(list(filter(lambda x: x.startswith(mainpage_marker), raw_text))) > 0
     #print('search_for_mainpage_marker', search_for_mainpage_marker)
     
@@ -130,7 +130,7 @@ def parse_one_book(bookid):
         if line.isupper():
             #print('FOUND ONE CHAPTER @', this_line, "'{}'".format(line))
             continue
-    
+
         line = maybe_normalize(line)
         line = maybe_normalize(line, mapping=mapping_specific)
         line = filter_numbers(line)
