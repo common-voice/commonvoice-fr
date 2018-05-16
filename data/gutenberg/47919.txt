@@ -1,32 +1,36 @@
-C'est un recueil de chansons patoises sur les sujets, les mÅurs et les usages les plus caractÃ©ristiques de la Bresse.
-Quelques-unes m'ont Ã©tÃ© inspirÃ©es par mes relations frÃ©quentes avec les rares familles qui ont su conserver Ã  peu prÃ¨s intactes les vieilles traditions de nos aÃ¯eux, tandis que d'autres font dÃ©jÃ  partie du rÃ©pertoire populaire.
-Seulement ces derniÃ¨res ont subi de telles altÃ©rations, en passant par les Ã¢ges, que, Ã©crites comme elles se chantent actuellement, leurs auteurs ne les reconnaÃ®traient peut-Ãªtre plus.
-C'est pourquoi j'ai voulu essayer de les reconstituer pour les rendre plus comprÃ©hensibles.
-Elles sont Ã©crites en patois avec la traduction franÃ§aise en regard: traduction littÃ©rale qui demande bien souvent l'emploi de mots vicieux et d'expressions triviales.
-La partie de chant est l'Åuvre d'un ami, pur Bressan aussi, Monsieur de la GirodiÃ¨re, qui a bien voulu, sur ma demande se charger de noter ces chansons telles qu'elles se chantent dans nos campagnes, sans-souci des rÃ¨gles musicales.
-Me n'affauzhe che pache vÃ¨ on barbiâde Veria.
-âOh! Ã©yeu faudre bin que repond lon pÃ©zhe Crainlafra, Ã©ye greu ple dreulou de chequeurre la pocha de cha quelauta que de rauliau la gueullie de che caboute.
-premier Refrain DÃ¨ tou pays quÃ¨ la dimÃ¨she On tin d'aprÃ¨de lou nouvÃ© VÃ© lou barbi Ã¨ faut che rÃ¨dre    } _bis_ E vÃ© lui qu'Ã¨ s'Ã¨ di lou mÃ©.
-âOh! oh! qu'y repond, Ã¨ seureyÃ¨ dÃ¨ cha barba que frije quemÃ¨ le dÃ© d'on pienou Ã  dÃ¨quati le z'Ã©toupe.
-MÃ© Ã© ne pau tou de bourdou-nau latou Ã© chazi de betau la mon dessu; pi vou peute contau qu'Ã©yÃ¨ faudra on dÃ©gredi pe pouva y arrevau...
-âLa premizhe venia que reprÃ¨ vitou Crainlabise, oh non va vou z'eu peute crazhe, touta zheuna que le, le ne che zhin-ne pau greu pe repondre marda Ã  cha mÃ©zhe.
-Avouai cÃ¨ pe na fellie peupra comptau qu'eyÃ¨ne yena.
-CÃ¨ ne che moushe touzhou rÃ¨qu'avoua leu da pe ne pau chauli chon moushio de cafa.
-Pi pe l'Ã©conomie on n'Ã¨ parle pau, Ã© ne la zhin-ne pau de pachau leu ma Ã¨ti sÃ¨ che lavau lou nau rÃ¨que pe zh'Ã©parmau lou chavon.
-Mais Ã¨ ne pau tou...
-che vou deja que le fa Ã©peli leu juÃ« rÃ©qu'Ã¨ leu pourtÃ¨ dÃ¨ che cafe, quÃ¨ dezhau-vou hein? Eye pretÃ¨ taulou que de vou z'eu deyou.
-Betin che vou veli qu'Ã© ne pau brauvou Ã  ma de vou z'eu dezhe mais qu'Ã©peurte, Ã¨ n'Ã¨pashe pau que pe na femala tein de mariau contau qu'eyÃ¨ne yena.
-âMÃ¨ l'azha biau bramau pi bio rÃ©lau, le ne lou tin poncouzhe la peuvra fellie va! Ã¨ faudra bin na gaillarda oncouzhe ple rÃ©shodau que l'atie pe dÃ©zhelau chomagna, contau z'i.....
+C'est un recueil de chansons patoises sur les sujets, les mœurs et les usages les plus caractéristiques de la Bresse.
+Quelques-unes m'ont été inspirées par mes relations fréquentes avec les rares familles qui ont su conserver à peu près intactes les vieilles traditions de nos aïeux, tandis que d'autres font déjà partie du répertoire populaire.
+Seulement ces dernières ont subi de telles altérations, en passant par les âges, que, écrites comme elles se chantent actuellement, leurs auteurs ne les reconnaîtraient peut-être plus.
+C'est pourquoi j'ai voulu essayer de les reconstituer pour les rendre plus compréhensibles.
+Elles sont écrites en patois avec la traduction française en regard: traduction littérale qui demande bien souvent l'emploi de mots vicieux et d'expressions triviales.
+La partie de chant est l'œuvre d'un ami, pur Bressan aussi, Monsieur de la Girodière, qui a bien voulu, sur ma demande se charger de noter ces chansons telles qu'elles se chantent dans nos campagnes, sans-souci des règles musicales.
+Vé lou Barbi Allon meu j'ami, quemè è vous voyé bauliau vous éte l'air de vou j'amouije su veutre chale quemè ch'amouijezhon na frelia de gouafon qu'on fazhe banië dè on leni d'étale, é fau que vous raconta quauque seuja pe zh'assuizhe de vou j'èdremi.
+Me n'affauzhe che pache vè on barbi—de Veria.
+—Oh! éyeu faudre bin que repond lon pézhe Crainlafra, éye greu ple dreulou de chequeurre la pocha de cha quelauta que de rauliau la gueullie de che caboute.
+premier Refrain Dè tou pays què la dimèshe On tin d'aprède lou nouvé Vé lou barbi è faut che rèdre    } _bis_ E vé lui qu'è s'è di lou mé.
+    } Allon pèzhe Binlaisi de crayou qu'éye t'a veutron tou; veni va que de vou rauselia on peu che la vieillie pé de beya pédé que Piarou Crainlabise va nou dezhe s'èye vra va qui che décide cheu co à mariau cha fellie.
+—Oh! oh! qu'y repond, è seureyè dè cha barba que frije quemè le dé d'on pienou à dèquati le z'étoupe.
+Sè ne chazive que de mariau, è sezhe bin éja vé nou, è ne pau leu galon que mèquon, éyè n'a petétre bin mé de quinje que bûlon latou de Claudine quemè na troupa de bourdon nea latou de na greucha boja fréshe.
+Mé é ne pau tou de bourdou-nau latou é chazi de betau la mon dessu; pi vou peute contau qu'éyè faudra on dégredi pe pouva y arrevau...
+—Voua, é pazha bin que ne pau vra la premizhe venia que repond Grégueula que raboutauve lou pèzhe Binlaisi è lou teniè pe lou nau de la mon gaushe quemin neutra fena tin seu poule pe la créta que le leu j'abouque.
+—La premizhe venia que reprè vitou Crainlabise, oh non va vou z'eu peute crazhe, touta zheuna que le, le ne che zhin-ne pau greu pe repondre marda à cha mézhe.
+Avouai cè pe na fellie peupra comptau qu'eyène yena.
+Cè ne che moushe touzhou rèqu'avoua leu da pe ne pau chauli chon moushio de cafa.
+Pi pe l'économie on n'è parle pau, é ne la zhin-ne pau de pachau leu ma èti sè che lavau lou nau rèque pe zh'éparmau lou chavon.
+Mais è ne pau tou...
+che vou deja que le fa épeli leu juë réqu'è leu pourtè dè che cafe, què dezhau-vou hein? Eye pretè taulou que de vou z'eu deyou.
+Betin che vou veli qu'é ne pau brauvou à ma de vou z'eu dezhe mais qu'épeurte, è n'èpashe pau que pe na femala tein de mariau contau qu'eyène yena.
+—Mè l'azha biau bramau pi bio rélau, le ne lou tin poncouzhe la peuvra fellie va! è faudra bin na gaillarda oncouzhe ple réshodau que l'atie pe dézhelau chomagna, contau z'i.....
 troisième refrain, sur l'air de la Liaudinna.
-Depi qui venu de la gara De l'ila de Mezhagaspa Mon Bena ple feu que na barra Y caujÃ© quemÃ¨ n'avouca Toute le felliÃ« du vellazhou Ne couzhon qu'aprÃ¨ cho gailla Le che vÃ¨dron bin tout'u grÃ¨ diablou Si pouve le z'y fauzhe ava.
-Ardi pÃ©zhe Sinlourinchou, que dit tout pe zhon co la mÃ¨ze GrÃ¨gueula que chavounove lou nau de zÃ¨ Crinlafra, raconto nous va azhi lou nouvÃ¨ de veutron carrou.
-Ma, vous racontau de nouvÃ©, mÃ© vous plaizÃ¨tau mÃ¨zhe GrÃ©geula; vous sÃ¨te bin que n'Ã¨ sai point.
-D'azha bin voulu coure va chela bÃªte, mais lou coualion de ma shemije se trouvi bin che biÃª Ãªtrefeshia dÃª cho moumÃª avouai cho de neu tra cha maÃ®tre que ne poussi pÃ´ me relevau tout de suite.
-PÃ©dÃª cho tein la servÃ¨ta Ã©zhe recouria Ã  chon peustou pe zhatÃªdre l'Ã©venemÃª.
-Ah, mÃ© le ne perdi pau chon tein.....
-quatrième refrain, sur l'air du refrain de ma babÃ©.
-Ami qu'amau le po belete Vous n'a don qu'a betau lou nau U cu d'on vÃ© quÃ¨ y trompete    } _bis_ Vou sezha servu quemÃ© fau.
-    } Air: de l'Â«Abdication de NapolÃ©on premier» un QuÃ© l'Allemand, seurtÃ¨ de la BaviÃ©zhe, deux Mais cÃ© gari, Ã¨nivrau de couzhazhou, trois De cÃ© hÃ©ros, victime de la garra, (Revue et complÃ©tÃ©e) air connu.
-huit S'Ã©ya de caÃ¯e vÃ© nou, neuf AprÃ¨ s'Ã©tre tout creÃ¯au, dix Le fajon bin tÃ¨ de train, onze AprÃ¨ cÃ¨, chon ne vu pau  TÃ¢âsang viciÃ©.
- Racheâsorte de gale.
-Page quatorze: Â«reudez-vousÂ» remplacÃ© par Â«rendez-vousÂ» (A neutron
+Depi qui venu de la gara De l'ila de Mezhagaspa Mon Bena ple feu que na barra Y caujé quemè n'avouca Toute le fellië du vellazhou Ne couzhon qu'aprè cho gailla Le che vèdron bin tout'u grè diablou Si pouve le z'y fauzhe ava.
+Ardi pézhe Sinlourinchou, que dit tout pe zhon co la mèze Grègueula que chavounove lou nau de zè Crinlafra, raconto nous va azhi lou nouvè de veutron carrou.
+Ma, vous racontau de nouvé, mé vous plaizètau mèzhe Grégeula; vous sète bin que n'è sai point.
+D'azha bin voulu coure va chela bête, mais lou coualion de ma shemije se trouvi bin che biê êtrefeshia dê cho moumê avouai cho de neu tra cha maître que ne poussi pô me relevau tout de suite.
+Pédê cho tein la servèta ézhe recouria à chon peustou pe zhatêdre l'évenemê.
+Ah, mé le ne perdi pau chon tein.....
+quatrième refrain, sur l'air du refrain de ma babé.
+Ami qu'amau le po belete Vous n'a don qu'a betau lou nau U cu d'on vé què y trompete    } _bis_ Vou sezha servu quemé fau.
+    } Air: de l'«Abdication de Napoléon premier» un Qué l'Allemand, seurtè de la Baviézhe, deux Mais cé gari, ènivrau de couzhazhou, trois De cé héros, victime de la garra, (Revue et complétée) air connu.
+huit S'éya de caïe vé nou, neuf Aprè s'étre tout creïau, dix Le fajon bin tè de train, onze Aprè cè, chon ne vu pau  Tâ—sang vicié.
+ Rache—sorte de gale.
+Page quatorze: «reudez-vous» remplacé par «rendez-vous» (A neutron
