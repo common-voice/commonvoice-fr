@@ -1,0 +1,175 @@
+#!/usr/bin/env python3
+
+import sys
+import re
+import os
+import argparse
+import requests
+
+from bs4 import BeautifulSoup, Comment
+from random import shuffle
+
+from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sentences, check_output_dir
+
+# - prose
+# - 19è + 20è siècle
+LIBRETHEATRE_URL = 'https://data.libretheatre.fr/ajax?__fromnavigation=1&rql=DISTINCT+Any+X%2CA%2CX%2CG%2CX%2CF%2CM%2CW+ORDERBY+XAT+WHERE+X+genre+G%2C+A+author_of+X%2C+X+preferred_form+XA%2C+X+text_form+F%2C+XA+title+XAT%2C+X+nb_men+M%2C+X+nb_women+W%2C+X+text_form+%22Prose%22%2C+X+timespan+B%2C+B+eid+IN(1742%2C+3181)&__force_display=1&vid=table.work.no-filter&divid=table_work_no_filter_28fab344fb3a4775b10b359c84710a16&fname=view&pageid=1403154733050406ce179a062b74023961c80756d6f8349'
+WORK_TEMPLATE = 'https://data.libretheatre.fr/work/%(workid)d'
+PD_LICENCE = 'https://data.libretheatre.fr/license/1747'
+
+def parse_result_page(page):
+    content = requests.get(page)
+
+    if not content.status_code == 200:
+        raise
+
+    html = BeautifulSoup(content.content, 'html.parser')
+
+    listing = html.findAll('table', class_='listing')
+
+    if not listing:
+        raise
+
+    entries = listing[0].findAll('tbody')[0].findAll('tr')
+
+    if not entries:
+        raise
+
+    all = []
+    for e in entries:
+        all_a = e.findAll('a')
+
+        work_a = list(filter(lambda x: '/work/' in x.get('href'), all_a))
+        assert len(work_a) == 1
+
+        work_id = int(work_a[0].get('href').split('/work/')[1])
+        assert work_id > 0
+
+        all.append(work_id)
+
+    return all
+
+def fetch_play_text(url):
+    text = None
+
+    if 'libretheatre.fr' in url:
+        text = fetch_play_text_libretheatre(url)
+    elif 'wikisource.org' in url:
+        text = fetch_play_text_wikisource(url)
+
+    finaltext = []
+    for line in text:
+        line = maybe_normalize(line)
+        #line = maybe_normalize(line, mapping=mapping_specific)
+        line = filter_numbers(line)
+
+        finaltext += [ line ]
+
+    return finaltext
+
+def fetch_play_text_libretheatre(url):
+    return ''
+
+def fetch_play_text_wikisource(url):
+    content = requests.get(url)
+    if not content.status_code == 200:
+        raise
+
+    html = BeautifulSoup(content.content, 'html.parser')
+
+    for comments in html.findAll(text=lambda text:isinstance(text, Comment)):
+        comments.extract()
+
+    content = html.findAll('div', class_='mw-parser-output')
+    assert len(content) == 1
+
+    for _class in [ 'mw-headline', 'ws-noexport', 'mw-editsection' ]:
+        for e in content[0].findAll(class_=_class):
+            e.decompose()
+
+    return list(filter(lambda x: x != '\n', content[0].findAll(text=True)))
+
+def get_one_play(id):
+    assert id > 0
+
+    content = requests.get(WORK_TEMPLATE % { 'workid': id })
+    if not content.status_code == 200:
+        raise
+
+    html = BeautifulSoup(content.content, 'html.parser')
+
+    entry = html.findAll('table', class_='cw-table-primary-entity')
+    if not entry:
+        raise
+    assert len(entry) == 1
+
+    src = None
+    rows = entry[0].findAll('tr')
+    for row in rows:
+        th = row.findAll('th')[0]
+        td = row.findAll('td')[0]
+
+        if th.text == 'licence':
+            if td.findAll('a')[0].get('href') != 'https://data.libretheatre.fr/license/1747':
+                raise ValueError('Non Public-Domain licence: %s' % td.get('href'))
+
+        if th.text == 'texte en ligne':
+            url = td.findAll('a')[0].get('href')
+
+            # Check attachment
+            if 'libretheatre.fr' in url:
+                attachment = html.findAll('div', class_='rsetbox')
+                assert len(attachment) == 1
+
+                attachment = attachment[0].findAll('div', class_='panel-body')
+                assert len(attachment) == 1
+
+                src = attachment[0].findAll('a')[0].get('href')
+
+            # Looks like WikiSource
+            elif 'wikisource' in url:
+                src = url
+
+            else:
+                raise ValueError('Unsupported URL:', url)
+
+    return fetch_play_text(src)
+
+
+def dump_one_play(play):
+    print('Treating playid #{}'.format(play))
+    sentences = extract_sentences(get_one_play(play), args.min_words, args.max_words)
+
+    output_play_name = os.path.join(args.output, "{}.txt".format(play))
+    print('output_play_name', output_play_name)
+    if not args.dry:
+        with open(output_play_name, 'wb') as output_play:
+            bytes = output_play.write('.\n'.join(sentences).encode('utf-8'))
+            if bytes == 0:
+                print('Empty content for playid #{}'.format(play))
+    else:
+        print('.\n'.join(sentences))
+
+parser = argparse.ArgumentParser(description='LibreTheatre text content extraction for Common Voice')
+parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
+parser.add_argument('--this', type=int, default=-1, help='Fetch this specific ID')
+parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
+
+parser.add_argument('--min-words', type=int, default=2, help='Minimum number of words to accept a sentence')
+parser.add_argument('--max-words', type=int, default=45, help='Maximum number of words to accept a sentence')
+
+parser.add_argument('output', type=str, help='Output directory')
+
+args = parser.parse_args()
+check_output_dir(args.output)
+
+if not args.this:
+    all_ids = parse_result_page(LIBRETHEATRE_URL)
+else:
+    all_ids = [ args.this ]
+
+if args.one:
+    all_ids = [ all_ids[0] ]
+
+for entry in all_ids:
+    dump_one_play(entry)
