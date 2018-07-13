@@ -50,18 +50,20 @@ def parse_result_page(page):
     return all
 
 def fetch_play_text(url):
-    text = None
+    text = []
 
-    if 'libretheatre.fr' in url:
-        text = fetch_play_text_libretheatre(url)
-    elif 'wikisource.org' in url:
-        text = fetch_play_text_wikisource(url)
+    if len(url) > 0:
+        if 'libretheatre.fr' in url:
+            text = fetch_play_text_libretheatre(url)
+        elif 'wikisource.org' in url:
+            text = fetch_play_text_wikisource(url)
 
     finaltext = []
     for line in text:
         line = maybe_normalize(line)
         #line = maybe_normalize(line, mapping=mapping_specific)
         line = filter_numbers(line)
+        line = line.replace(')', '').replace('(', '')
 
         finaltext += [ line ]
 
@@ -103,6 +105,8 @@ def get_one_play(id):
         raise
     assert len(entry) == 1
 
+    is_public_domain = False
+
     src = None
     rows = entry[0].findAll('tr')
     for row in rows:
@@ -110,21 +114,36 @@ def get_one_play(id):
         td = row.findAll('td')[0]
 
         if th.text == 'licence':
-            if td.findAll('a')[0].get('href') != 'https://data.libretheatre.fr/license/1747':
-                raise ValueError('Non Public-Domain licence: %s' % td.get('href'))
+            try:
+                if td.findAll('a')[0].get('href') == 'https://data.libretheatre.fr/license/1747':
+                    is_public_domain = True
+                else:
+                    raise ValueError('Non Public-Domain licence: %s' % td.get('href'))
+            except IndexError:
+                pass
+
+        if th.text == 'domaine public':
+            if td.text == 'oui':
+                is_public_domain = True
 
         if th.text == 'texte en ligne':
-            url = td.findAll('a')[0].get('href')
+            try:
+                url = td.findAll('a')[0].get('href')
+            except IndexError:
+                raise ValueError('No valid URL available')
 
             # Check attachment
             if 'libretheatre.fr' in url:
-                attachment = html.findAll('div', class_='rsetbox')
-                assert len(attachment) == 1
+                attachments = html.findAll('div', class_='rsetbox')
+                for attach in attachments:
+                    title = attach.findAll('div', class_='panel-heading')
+                    if title[0].text != 'pièce jointe':
+                        continue
 
-                attachment = attachment[0].findAll('div', class_='panel-body')
-                assert len(attachment) == 1
+                    attachment = attach.findAll('div', class_='panel-body')
+                    assert len(attachment) == 1
 
-                src = attachment[0].findAll('a')[0].get('href')
+                    src = attachment[0].findAll('a')[0].get('href')
 
             # Looks like WikiSource
             elif 'wikisource' in url:
@@ -133,22 +152,29 @@ def get_one_play(id):
             else:
                 raise ValueError('Unsupported URL:', url)
 
+    if not is_public_domain:
+        raise ValueError('Non Public-Domain licence.')
+
     return fetch_play_text(src)
 
 
 def dump_one_play(play):
     print('Treating playid #{}'.format(play))
-    sentences = extract_sentences(get_one_play(play), args.min_words, args.max_words)
+    try:
+        sentences = extract_sentences(get_one_play(play), args.min_words, args.max_words)
 
-    output_play_name = os.path.join(args.output, "{}.txt".format(play))
-    print('output_play_name', output_play_name)
-    if not args.dry:
-        with open(output_play_name, 'wb') as output_play:
-            bytes = output_play.write('.\n'.join(sentences).encode('utf-8'))
-            if bytes == 0:
-                print('Empty content for playid #{}'.format(play))
-    else:
-        print('.\n'.join(sentences))
+        output_play_name = os.path.join(args.output, "{}.txt".format(play))
+        print('output_play_name', output_play_name)
+        if not args.dry:
+            with open(output_play_name, 'wb') as output_play:
+                bytes = output_play.write('.\n'.join(sentences).encode('utf-8'))
+                if bytes == 0:
+                    print('Empty content for playid #{}'.format(play))
+        else:
+            print('.\n'.join(sentences))
+    except ValueError as e:
+        print('Unable to fetch play because of', e)
+
 
 parser = argparse.ArgumentParser(description='LibreTheatre text content extraction for Common Voice')
 parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
@@ -163,7 +189,7 @@ parser.add_argument('output', type=str, help='Output directory')
 args = parser.parse_args()
 check_output_dir(args.output)
 
-if not args.this:
+if args.this == -1:
     all_ids = parse_result_page(LIBRETHEATRE_URL)
 else:
     all_ids = [ args.this ]
