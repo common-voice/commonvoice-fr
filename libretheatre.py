@@ -17,6 +17,16 @@ LIBRETHEATRE_URL = 'https://data.libretheatre.fr/ajax?__fromnavigation=1&rql=DIS
 WORK_TEMPLATE = 'https://data.libretheatre.fr/work/%(workid)d'
 PD_LICENCE = 'https://data.libretheatre.fr/license/1747'
 
+mapping_specific = [
+  [ u'(', u''],
+  [ u')', u''],
+  [ re.compile('\. $'), u'.' ],
+  [ re.compile(' \.'), u'.' ],
+  [ u' ,  ', u', ' ],
+  [ u' , ', u', ' ],
+  [ u'  ', u' ' ],
+]
+
 def parse_result_page(page):
     content = requests.get(page)
 
@@ -61,9 +71,9 @@ def fetch_play_text(url):
     finaltext = []
     for line in text:
         line = maybe_normalize(line)
-        #line = maybe_normalize(line, mapping=mapping_specific)
+        line = maybe_normalize(line, mapping=mapping_specific)
         line = filter_numbers(line)
-        line = line.replace(')', '').replace('(', '')
+        line = line.strip()
 
         finaltext += [ line ]
 
@@ -192,8 +202,8 @@ parser.add_argument('--one', action='store_true', default=False, help='Stop afte
 parser.add_argument('--this', type=int, default=-1, help='Fetch this specific ID')
 parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
 
-parser.add_argument('--min-words', type=int, default=2, help='Minimum number of words to accept a sentence')
-parser.add_argument('--max-words', type=int, default=45, help='Maximum number of words to accept a sentence')
+parser.add_argument('--min-words', type=int, default=3, help='Minimum number of words to accept a sentence')
+parser.add_argument('--max-words', type=int, default=15, help='Maximum number of words to accept a sentence')
 
 parser.add_argument('output', type=str, help='Output directory')
 
