@@ -93,11 +93,12 @@ def fetch_play_text_wikisource(url):
 
 def get_one_play(id):
     assert id > 0
+    play_url = WORK_TEMPLATE % { 'workid': id }
 
-    content = requests.get(WORK_TEMPLATE % { 'workid': id })
+    content = requests.get(play_url)
     if not content.status_code == 200:
         if content.status_code == 404:
-            print('URL returned 404: %s' % ( WORK_TEMPLATE % { 'workid': id }))
+            print('URL returned 404: %s' % play_url)
         else:
             raise Exception('HTTP error code: %d' % content.status_code)
 
@@ -148,6 +149,8 @@ def get_one_play(id):
 
                     src = attachment[0].findAll('a')[0].get('href')
 
+                    raise ValueError('LibreTheatre URL: %s' % play_url)
+
             # Looks like WikiSource
             elif 'wikisource' in url:
                 src = url
@@ -168,7 +171,7 @@ def dump_one_play(play):
         nb_sents = len(sentences)
 
         if nb_sents < 2:
-            print('Too few content: %d' % nb_sents)
+            print('Too few content: %d. Check %s' % (nb_sents, WORK_TEMPLATE % { 'workid': play }))
             return
 
         output_play_name = os.path.join(args.output, "{}.txt".format(play))
