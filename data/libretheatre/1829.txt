@@ -1,77 +1,46 @@
-DRAME EN CINQ ACTES Représenté pour la première fois sur le théâtre de la Porte-Saint-Martin, le quatorze mars mille huit cent quarante.
 DÉDICACE À MONSIEUR LAURENT JAN, Son ami, DE BALZAC.
 vingt-neuf mars mille huit cent quarante.
 Un coup de canon ne vaudra jamais un feu d’artifice.
 L’auteur expliquerait-il son œuvre ? Mais elle ne pouvait avoir que Monsieur Frédérick-Lemaitre pour commentateur.
-Se plaindrait-il de la défense qui arrête la représentation de son drame ? Mais il ne connaitrait donc ni son temps ni son pays.
-Cependant, au milieu de ce désastre que l’énergie du gouvernement a causé, mais que, dit-on, le fer d’un coiffeur aurait pu réparer, l’auteur a trouvé quelques compensations dans les preuves d’intérêt qui lui ont été données.
-Entre tous, Monsieur Victor Hugo s’est montré aussi serviable qu’il est grand poète ; et l’auteur est d’autant plus heureux de publier combien il fut obligeant, que les ennemis de Monsieur Hugo ne se font pas faute de calomnier son caractère.
-Enfin,  Vautrin  a presque deux mois, et dans la serre parisienne, une nouveauté de deux mois prend deux siècles.
-La véritable et meilleure préface de  Vautrin  sera donc le drame de  Richard-cœur-d’Éponge  , que l’administration permet de représenter, afin de ne pas laisser les rats occuper exclusivement les planches si fécondes du théâtre de la Porte-Saint-Martin.
-Paris, un er  mai mille huit cent quarante.
-PERSONNAGES 
-JACQUES COLLIN, dit VAUTRIN.
+Paris, un er mai mille huit cent quarante.
+PERSONNAGES JACQUES COLLIN, dit VAUTRIN.
 LE DUC DE MONTSOREL.
 LE MARQUIS ALBERT son fils.
 RAOUL DE FRESCAS.
 CHARLES BLONDET, dit LE CHEVALIER DE SAINT-CHARLES.
 FRANÇOIS CADET, dit PHILOSOPHE, cocher.
-FIL-DE-SOIE, cuisinier.
-BUTEUX, portier.
 PHILIPPE BOULARD, dit LAFOURAILLE.
-UN COMMISSAIRE.
 JOSEPH BONNET, valet de chambre de la duchesse de Montsorel.
-LA DUCHESSE DE MONTSOREL  Louise de Vaudrey .
+LA DUCHESSE DE MONTSOREL Louise de Vaudrey .
 MADEMOISELLE DE VAUDREY, sa tante.
 LA DUCHESSE DE CHRISTOVAL.
 INÈS DE CHRISTOVAL, princesse d’Arjos.
 FÉLICITÉ, femme de chambre de la duchesse de Montsorel.
 domestiques, gendarmes, agents , etc.
-La scène se passe à Paris, en mille huit cent seize, après le second retour des Bourbons.
 VAUTRIN Un salon à l’hôtel de Montsorel.
 LA DUCHESSE DE MONTSOREL, MADEMOISELLE DE VAUDREY.
-LA DUCHESSE.
 Ah ! vous m’avez attendue, combien vous êtes bonne ! MADEMOISELLE DE VAUDREY.
-Qu’avez-vous, Louise ? Depuis douze ans que nous pleurons ensemble, voici le premier moment où je vous vois joyeuse ; et pour qui vous connaît, il y a de quoi trembler.
-LA DUCHESSE.
-Il faut que cette joie s’épanche, et vous, qui avez épousé mes angoisses, pouvez seule comprendre le délire que me cause une lueur d’espérance.
 MADEMOISELLE DE VAUDREY.
 Seriez-vous sur les traces de votre fils ? LA DUCHESSE.
 Retrouvé ! MADEMOISELLE DE VAUDREY.
-Impossible ! Et s’il n’existe plus, à quelle horrible torture vous êtes-vous condamnée ?  LA DUCHESSE.
-Un enfant mort a une tombe dans le cœur de sa mère ; mais l’enfant qu’on nous a dérobé, il y existe, ma tante.
 MADEMOISELLE DE VAUDREY.
 Si l’on vous entendait ? LA DUCHESSE.
-Eh ! que m’importe ! Je commence une nouvelle vie, et me sens pleine de force pour résister à la tyrannie de Monsieur de Montsorel.
 MADEMOISELLE DE VAUDREY.
 Après vingt-deux années de larmes, sur quel événement peut se fonder cette espérance ? LA DUCHESSE.
 MADEMOISELLE DE VAUDREY.
 Et sur ce faible indice, vous vous exaltez ainsi ! LA DUCHESSE.
-Pour une mère, une révélation n’est-elle pas le plus grand des témoignages ? À son aspect, il m’a passé comme une flamme devant les yeux, ses regards ont ranimé ma vie, et je me suis sentie heureuse.
-Enfin, s’il n’était pas mon fils, ce serait une passion insensée ! MADEMOISELLE DE VAUDREY.
 Vous vous serez perdue ! LA DUCHESSE.
-Oui, peut-être ! On a dû nous observer : une force irrésistible m’entrainait ; je ne voyais que lui, je voulais qu’il me parlât, et il m’a parlé, et j’ai su son âge : il a vingt-trois ans, l’âge de Fernand ! MADEMOISELLE DE VAUDREY.
 Mais le duc était là ? LA DUCHESSE.
 Ai-je pu songer à mon mari ? J’écoutais ce jeune homme, qui parlait à Inès.
 Je crois qu’ils s’aiment.
 MADEMOISELLE DE VAUDREY.
-Inès, la prétendue de votre fils le marquis ? Et pensez-vous que le duc n’ait pas été frappé de cet accueil fait à un rival de son fils ?  LA DUCHESSE.
 Vous avez raison, et j’aperçois maintenant à quels dangers Fernand est exposé.
-Mais je ne veux pas vous retenir davantage, je vous parlerais de lui jusqu’au jour.
 Vous le verrez.
-Je lui ai dit de venir à l’heure où Monsieur de Montsorel va chez le roi, et nous le questionnerons sur son enfance.
 MADEMOISELLE DE VAUDREY.
 Vous ne pourrez dormir, calmez-vous, de grâce.
 Et d’abord renvoyons Félicité, qui n’est pas accoutumée à veiller.
- elle sonne.
-FÉLICITE , entrant.
 Monsieur le duc rentre avec Monsieur le marquis.
-LA DUCHESSE.
-
-Je vous ai déjà dit, Félicité, de ne jamais m’instruire de ce qui se passe chez Monsieur.
-Allez.
- Félicité sort MADEMOISELLE DE VAUDREY.
-LA DUCHESSE.
+Félicité sort MADEMOISELLE DE VAUDREY.
 Vous craignez mon désespoir, et moi, je crains ma joie.
 MADEMOISELLE DE VAUDREY , regardant la duchesse sortir.
 Si elle se trompe, elle peut devenir folle.
@@ -80,65 +49,35 @@ Ma tante, Fernand se nomme Raoul de Frescas.
 MADEMOISELLE DE VAUDREY , seule.
 Elle ne voit pas qu’il faudrait un miracle pour qu’elle retrouvât son fils.
 Les mères croient toutes à des miracles.
-Veillons sur elle ! Un regard, un mot la perdraient ; car si elle avait raison, si Dieu lui rendait son fils, elle marcherait vers une catastrophe plus affreuse encore que la déception qu’elle s’est préparée.
-Pensera-t-elle à se contenir devant ses femmes ?…  MADEMOISELLE DE VAUDREY, FÉLICITÉ.
+Pensera-t-elle à se contenir devant ses femmes ?… MADEMOISELLE DE VAUDREY, FÉLICITÉ.
 MADEMOISELLE DE VAUDREY.
-Déjà ? FÉLICITÉ.
 Madame la duchesse avait bien hâte de me renvoyer.
 MADEMOISELLE DE VAUDREY.
 Ma nièce ne vous a pas donné d’ordres pour ce matin ? FÉLICITÉ.
-Non, Mademoiselle.
 MADEMOISELLE DE VAUDREY.
-
-Il viendra pour moi, vers midi, un jeune homme nommé Monsieur Raoul de Frescas : il demandera peut-être la duchesse ; prévenez-en Joseph, il le conduira chez moi.
- Elle sort.
-FÉLICITÉ , seule.
 Un jeune homme pour elle ? Non, non.
-Si c’est là l’avenir des femmes de chambre sous ce gouvernement-ci, ma foi, je ne vois pas ce que nous pourrons faire.
- Une porte latérale s’ouvre, on voit deux hommes, la porte se referme aussitôt  Au reste, nous verrons le jeune homme.
- Elle sort.
-JOSEPH, VAUTRIN.
-Vautrin paraît avec un surtout couleur de tan, garni de fourrures, dessous noir ; Il a la tenue d’un ministre diplomatique étranger en soirée.
 Maudite fille ! nous étions perdus.
- VAUTRIN.
 Tu étais perdu.
-Ah ! ça ! mais tu tiens donc beaucoup à ne pas te reperdre, toi ? Tu jouis donc de la paix du cœur ici ? JOSEPH.
 Ma foi, je trouve mon compte à être honnête.
 Et entends-tu bien l’honnêteté ? JOSEPH.
 Mais, ça et mes gages, je suis content.
 Je te vois venir, mon gaillard.
-Tu prends peu et souvent, tu amasses, et tu auras encore l’honnêteté de prêter à la petite semaine.
-Eh bien tu ne saurais croire quel plaisir j’éprouve à voir une de mes vieilles connaissances arriver à.
 une position honorable.
-Tu le peux, tu n’as que des défauts, et c’est la moitié de la vertu.
-Moi, j’ai eu des vices, et je les regrette… comme ça passe ! Et maintenant plus rien ! il ne me reste que les dangers et la lutte.
-Après tout, c’est la vie d’un Indien entouré d’ennemis, et je défends mes cheveux.
 Et les miens ? VAUTRIN.
 Les tiens ?… Ah ! c’est vrai.
-Quoi qu’il arrive ici, tu as la parole de Jacques Collin de n’être jamais compromis mais tu m’obéiras en tout ! JOSEPH.
 En tout ?… cependant… VAUTRIN.
 On connaît son Code.
 S’il y a quelque méchante besogne, j’aurai mes fidèles, mes vieux.
 Es-tu depuis longtemps ici ? JOSEPH.
-Madame la duchesse m’a pris pour valet de chambre en allant à Gand, et j’ai la confiance de ces dames.
 Ça me va ! J’ai besoin de quelques notes sur les Montsorel.
 Que sais-tu ? JOSEPH.
 La confiance des grands ne va jamais plus loin.
-Qu’as-tu découvert ?  JOSEPH.
+Qu’as-tu découvert ? JOSEPH.
 VAUTRIN , à part.
 Il devient aussi par trop honnête homme.
-Peut-être croit-il ne rien savoir ? Quand on cause pendant cinq minutes avec un homme, on en tire toujours quelque chose.
- Haut.
- Où sommes-nous ici ? JOSEPH.
-Chez madame la duchesse, et voici ses appartements ; ceux de Monsieur le duc sont ici au-dessous la chambre de leur fils unique le marquis est au-dessus, et donne sur la cour.
-Je t’ai demandé les empreintes de toutes les serrures du cabinet de Monsieur le duc, où sont-elles ? JOSEPH , avec hésitation.
-Les voici.
-Toutes les fois que je voudrai venir ici, tu trouveras une croix faite à la craie sur la porte du jardin ; tu iras l’examiner tous les soirs.
-On est vertueux ici, les gonds de cette porte sont bien rouillés ; mais Louis dix-huit ne peut pas être Louis quinze ! Adieu, mon garçon ; je viendrai la nuit prochaine.
- À part.
- Il faut aller rejoindre mes gens à l’hôtel de Christoval.
+Où sommes-nous ici ? JOSEPH.
+Il faut aller rejoindre mes gens à l’hôtel de Christoval.
 JOSEPH , à part.
-Depuis que ce diable d’homme m’a retrouvé, je suis dans des transes… VAUTRIN , revenant.
 Le duc ne vit donc pas avec sa femme ? JOSEPH.
 Brouillés depuis vingt ans.
 Et pourquoi ? JOSEPH.
@@ -146,387 +85,200 @@ Leur fils lui-même ne le sait pas.
 Et ton prédécesseur, pourquoi fut-il renvoyé ? JOSEPH.
 Je ne sais, je ne l’ai pas connu.
 Ils n’ont monté leur maison que depuis le second retour du roi.
-Voici les avantages de la société nouvelle : il n’y a plus de liens  entre les maitres et les domestiques ; plus d’attachement, par conséquent, plus de trahisons possibles.
- À Joseph.
- Se dit-on des mots piquants à table ? JOSEPH.
+Se dit-on des mots piquants à table ? JOSEPH.
 Jamais rien devant les gens.
 Que pensez-vous d’eux, à l’office, entre vous ! JOSEPH.
 La duchesse est une sainte.
 Pauvre femme ! et le duc ? JOSEPH.
-Un égoïste.
 Oui, un homme d’État.
- À part.
- Il doit avoir des secrets, nous verrons dans son jeu.
-Tout grand seigneur a de petites passions par lesquelles on le mène ; et si je le tiens une fois, il faudra bien que son fils…  À Joseph.
- Que dit-on du mariage du marquis de Monsorel avec Inès de Christoval ? JOSEPH.
+Il doit avoir des secrets, nous verrons dans son jeu.
+Que dit-on du mariage du marquis de Monsorel avec Inès de Christoval ? JOSEPH.
 Pas un mot ! La duchesse semble s’y intéresser fort peu.
 Elle n’a qu’un fils ! Ceci n’est pas naturel.
 Entre nous, je crois qu’elle n’aime pas son fils.
 Elle fait toutes ses dévotions en secret.
-Bien ! je saurai tout les secrets sont comme les jeunes filles, plus on les garde, mieux on les trouve.
-Je mettrai deux de mes drôles de planton à Saint-Thomas d’Aquin : ils ne feront pas leur salut, mais… ils feront autre chose.
- JOSEPH , seul.
-Voilà un vieil ami, c’est bien ce qu’il y a de pis au monde… il me fera perdre ma place.
-Ah ! si je n’avais pas peur d’être empoisonné comme un chien par Jacques Collin, qui le ferait, je dirais tout au duc ; mais, dans ce bas monde, chacun son écot ! je ne veux payer pour personne.
 Que le duc s’arrange avec Jacques, je vais me coucher.
 Du bruit ? la duchesse se lève.
 Que veut-elle ?… Tâchons d’écouter.
-LA DUCHESSE DE MONTSOREL Où cacher l’acte de naissance de mon fils ?…  Elle lit.
-Chez moi, le duc ferait tout fouiller en mon absence, il dispose de la police à son gré.
+LA DUCHESSE DE MONTSOREL Où cacher l’acte de naissance de mon fils ?… Elle lit.
 On n’a rien à refuser à un homme en faveur.
-Si Joseph me voyait à cette heure allant chez mademoiselle de Vaudrey, tout l’hôtel en causerait.
-Ah ! seule au monde, seule contre tous, toujours prisonnière chez moi ! LA DUCHESSE DE MONTSOREL, MADEMOISELLE DE VAUDREY.
-LA DUCHESSE.
-Il ne vous est donc pas plus possible qu’à moi de dormir ? MADEMOISELLE DE VAUDREY.
-Louise ! mon enfant, si je reviens, c’est pour dissiper un rêve dont le réveil sera funeste.
 Je regarde comme un devoir de vous arracher à des pensées folles.
-Plus j’ai réfléchi à ce que vous m’avez  dit, plus vous avez excité ma compassion.
-Je dois vous dire une cruelle vérité : le duc a certainement jeté Fernand dans une situation si précaire, qu’il lui est impossible de se retrouver dans le monde où vous êtes.
 Le jeune homme que vous avez vu n’est point votre fils.
-LA DUCHESSE.
-Ah ! vous ne connaissez pas Fernand ! Moi, je le connais : en quelque lieu qu’il soit, sa vie agite ma vie.
 Je l’ai vu mille fois… MADEMOISELLE DE VAUDREY.
 En rêve ! LA DUCHESSE.
-Fernand a dans les veines le sang des  Montsorel  et des Vaudrey.
-La place qu’il aurait tenue de sa naissance, il a su la conquérir ; partout où il se trouve, on lui cède.
+Fernand a dans les veines le sang des Montsorel et des Vaudrey.
 S’il a commencé par être soldat, il est aujourd’hui colonel.
-Mon fils est fier, il est beau, on l’aime ! Je suis sûre, moi, qu’il est aimé.
-Ne me dites pas non, ma tante, Fernand existe ; autrement, le duc aurait manqué à sa foi de gentilhomme, et il met à un trop haut prix les vertus de sa race pour les démentir.
 MADEMOISELLE DE VAUDREY.
-L’honneur et la vengeance du mari ne lui étaient-ils pas plus chers que la loyauté du gentilhomme ? LA DUCHESSE.
 Ah ! vous me glacez.
 MADEMOISELLE DE VAUDREY.
-Louise, vous le savez, l’orgueil de leur race est héréditaire chez les Montsorel, comme l’esprit chez les Mortemart.
-LA DUCHESSE.
-Je ne le sais que trop ! Le doute sur la légitimité de son enfant l’a rendu fou.
 MADEMOISELLE DE VAUDREY.
-Le duc a le cœur ardent et la tête froide en ce qui touche les sentiments par lesquels ils vivent, les hommes de cette trempe vont vite dans l’exécution de ce qu’ils ont conçu.
-LA DUCHESSE.
 MADEMOISELLE DE VAUDREY.
-Le duc doit savoir déjà les démarches que vous avez faites, et malheur à votre fils ! Depuis son retour il s’est mis à travailler, il travaille encore.
-LA DUCHESSE.
-Si je secoue l’opprobre dont il a essayé de me couvrir, si je renonce à pleurer dans le silence, ne croyez pas que rien puisse me faire plier.
-Je suis femme, je suis duchesse de Montsorel, je suis mère ! nous sommes riches, nous avons un vertueux prêtre pour conseil et le bon droit pour nous, et si j’ai demandé l’acte de naissance de mon fils… les mêmes , LE DUC.
 Il est entré pendant que la duchesse prononçait les dernières paroles.
-LE DUC.
 C’est pour me le remettre, Madame.
- LA DUCHESSE.
-Depuis quand, Monsieur, entrez-vous chez moi sans vous faire annoncer et sans ma permission ? LE DUC.
-Depuis que vous manquez à nos conventions, Madame ; vous aviez juré de ne faire aucune démarche pour retrouver ce… votre fils… À cette condition seulement j’ai promis de le laisser vivre.
-LA DUCHESSE.
-Et n’y a-t-il pas plus d’honneur à trahir un pareil serment qu’à tenir tous les autres ? LE DUC.
 Nous sommes dès lors déliés tous deux de nos engagements.
-LA DUCHESSE.
 Avez-vous respecté les vôtres jusqu’à ce jour ? LE DUC.
-Oui, Madame.
-LA DUCHESSE.
 Vous l’entendez, ma tante, et vous témoignerez de ceci.
 MADEMOISELLE DE VAUDREY.
 Mais, Monsieur, n’avez-vous jamais pensé que Louise est innocente ? LE DUC.
-Mademoiselle de Vaudrey, vous devez le croire, vous ! Et que ne donnerai-je pas pour avoir cette opinion ? Madame a eu vingt ans pour me prouver son innocence.
-LA DUCHESSE.
 Depuis vingt ans, vous frappez sur mon cœur, sans pitié, sans relâche.
 Vous n’étiez pas un juge, vous êtes un bourreau.
-LE DUC.
 Madame, si vous ne me remettez cet acte, votre Fernand aura tout à craindre.
-À peine rentrée en France, vous vous êtes procuré cette pièce, vous voulez vous en faire une arme contre moi.
 Et que votre fils Albert continuera dignement.
-LE DUC.
 Imprudente ! vous excitez de terribles souvenirs.
-Et ce dernier  mot me dit assez que vous ne reculerez pas devant un scandale qui nous couvrira tous de honte.
-Irons-nous dérouler devant les tribunaux un passé qui ne me laisse pas sans reproche, mais où vous êtes infâme ?  Il se tourne vers mademoiselle de Vaudrey.
 Confiant dans leur mutuelle noblesse, je l’accepte pure de ses mains.
 Ah ! j’aurais donné ma vie pour lui, je l’ai prouvé.
-Le misérable fait, au dix août, des prodiges de valeur qui le signalent à la rage du peuple ; je le confie à l’un de mes gens ; il est découvert, mis à l’Abbaye.
-Quand je le sais là, tout l’or destiné à notre fuite, je le donne à ce Boulard, que je décide à se mêler aux septembriseurs pour arracher le vicomte à la mort, je le sauve !  À madame de Montsorel.
- Et il a bien payé sa dette, n’est-ce pas madame ? Jeune, ivre d’amour, violent, je n’ai pas écrasé cet enfant ! Vous me récompensez aujourd’hui de ma pitié comme votre amant m’a récompensé de ma confiance.
-Eh bien ! voici les choses au point où elles en étaient, il y a vingt ans — moins la pitié.
 Et je vous dirai comme autrefois : Oubliez votre fils, il vivra.
 MADEMOISELLE DE VAUDREY.
 Et ses souffrances pendant vingt ans, ne les comptez-vous pour rien ? LE DUC.
 La grandeur du repentir accuse la grandeur de la faute.
-LA DUCHESSE.
-LE DUC.
 Vous avez acheté la vie de votre fils en me disant le contraire.
-LA DUCHESSE.
 Un marché conseillé par la terreur peut-il compter pour un aveu ? LE DUC.
 Me donnez-vous cet acte de naissance ? LA DUCHESSE.
 Je ne l’ai plus.
- LE DUC.
 Je ne réponds plus de votre fils, Madame.
-LA DUCHESSE.
 Avez-vous bien pesé cette menace ? LE DUC.
 Vous devez me connaître.
-LA DUCHESSE.
-Mais vous ne me connaissez pas, vous ! Vous ne répondez plus de mon fils ? eh bien ! prenez garde au vôtre.
 Albert me répond des jours de Fernand.
-Si vous surveillez mes démarches, je ferai surveiller les vôtres ; si vous avez la police du royaume, moi, j’aurai mon adresse et le secours de Dieu ! Si vous portez un coup à Fernand, craignez pour Albert.
 Blessure pour blessure ! Allez ! LE DUC.
 Vous êtes chez vous, Madame, je me suis oublié.
 Daignez m’excuser, j’ai tort.
-LA DUCHESSE.
-Vous êtes plus gentilhomme que votre fils ; quand il s’emporte, il ne s’excuse pas, lui ! LE DUC , à part.
-Sa résignation jusqu’à ce jour était-elle de la ruse ? Attendait-on le moment actuel ? Oh ! les femmes conseillées par les bigots font des chemins sous terre comme le feu des volcans ; on ne s’en aperçoit que quand il éclate.
-Elle a mon secret, je ne tiens plus 
-son enfant, je puis être vaincu.
- Il sort.
+Elle a mon secret, je ne tiens plus son enfant, je puis être vaincu.
 les mêmes , excepté LE DUC.
 MADEMOISELLE DE VAUDREY.
-Louise, vous aimez l’enfant que vous n’avez jamais vu, vous haïssez celui qui est sous vos yeux.
-Ah ! vous me direz vos raisons de haine contre Albert, à moins que vous ne teniez plus à mon estime ni à ma tendresse.
-LA DUCHESSE.
 Pas un mot de plus ce sujet.
 MADEMOISELLE DE VAUDREY.
 Le calme de votre mari, quand vous manifestez votre aversion pour votre fils, est étrange.
- LA DUCHESSE.
 Il y est habitué.
 MADEMOISELLE DE VAUDREY.
 Vous ne pouvez être mauvaise mère ? LA DUCHESSE.
 Mauvaise mère ? Non.
- Elle réfléchit.
- Je ne puis me résoudre a perdre votre affection.
- Elle l’attire à elle.
- Albert n’est pas mon fils.
+Je ne puis me résoudre a perdre votre affection.
+Elle l’attire à elle.
+Albert n’est pas mon fils.
 MADEMOISELLE DE VAUDREY.
-Un étranger a usurpé la place, le nom, le titre, les biens du véritable enfant ? LA DUCHESSE.
-Étranger, non.
 C’est son fils.
-Après la fatale nuit où Fernand me fut enlevé, il y eut entre le duc et moi une séparation éternelle.
 La femme était aussi cruellement outragée que la mère.
 Mais il me vendit encore ma tranquillité.
 MADEMOISELLE DE VAUDREY.
 Je n’ose comprendre.
-LA DUCHESSE.
-Je me suis prêtée à donner comme de moi cet Albert, l’enfant d’une courtisane espagnole.
 Le duc voulait un héritier.
-À travers les secousses que la révolution française causait à l’Espagne, cette supercherie n’a jamais été soupçonnée.
-Et vous ne voulez pas que tout mon sang bouillonne à la vue du fils de l’étrangère qui occupe la place de l’enfant légitime ! MADEMOISELLE DE VAUDREY.
 Voilà que j’embrasse vos espérances.
 Ah ! je voudrais que vous eussiez raison, et que ce jeune homme fût votre fils.
 Eh bien ! qu’avez-vous ? LA DUCHESSE.
-Mais il est perdu, je l’ai signalé à son père, qui va le… Oh ! mais, que faisons-nous donc là ? Je veux savoir où il demeure, aller lui dire de ne pas venir demain matin ici.
 MADEMOISELLE DE VAUDREY.
 Sortir à cette heure, Louise, êtes-vous folle ? LA DUCHESSE.
 Venez ! car il faut le sauver à tout prix.
 MADEMOISELLE DE VAUDREY.
 Qu’allez-vous faire ? LA DUCHESSE.
-Aucune de nous deux ne pourra sortir demain sans être   observée.
+Aucune de nous deux ne pourra sortir demain sans être observée.
 Allons devancer le duc en achetant avant lui ma femme de chambre.
 MADEMOISELLE DE VAUDREY.
 Ah ! Louise ! allez-vous employer de tels moyens ? LA DUCHESSE.
-Si Raoul est l’enfant désavoué par son père, l’enfant que je pleure depuis vingt-deux ans, on verra ce que peut une femme, une mère injustement accusée.
- Même décoration que dans l’acte précédent.
+Même décoration que dans l’acte précédent.
 JOSEPH, LE DUC.
 Joseph achève de faire le salon.
 JOSEPH , à part.
 Couché si tard, levé si matin, et déjà chez Madame : il y a quelque chose.
 Ce diable de Jacques aurait-il raison ? LE DUC.
-Joseph, je ne suis visible que pour une seule personne ; si elle se présente, vous l’introduirez ici.
 C’est un Monsieur de Saint-Charles.
 Sachez si Madame peut me recevoir.
- Joseph sort.
- Ce réveil d’une maternité que je croyais éteinte m’a surpris sans défense.
+Ce réveil d’une maternité que je croyais éteinte m’a surpris sans défense.
 Il faut que cette lutte encore secrète soit promptement étouffée.
-La résignation de Louise rendait notre vie supportable ; mais elle est odieuse avec de pareils débats.
-En pays étranger, je pouvais dominer ma femme, ici ma seule force est dans l’adresse et dans le concours du pouvoir.
-J’irai tout dire au roi, je soumettrai ma conduite à son jugement, et madame de Montsorel sera forcée de lui obéir.
 J’attendrai cependant encore.
 Je me suis emporté cette nuit.
 Si je reste tranquille, elle sera sans défiance et livrera ses secrets.
- JOSEPH , rentrant.
 Madame la duchesse n’a pas encore sonné.
-LE DUC.
 C’est bien.
 JOSEPH, LE DUC, FÉLICITÉ.
-Le duc examine par contenance ce qu’il y a sur la table et trouve une lettre dans un livre.
-LE DUC.
-« À mademoiselle Inès de Christoval. »  Il se lève.
- Pourquoi ma femme a-t-elle caché une lettre si peu importante ? Elle est sans doute écrite depuis notre querelle.
-Y serait-il question de ce Raoul ? Cette lettre ne doit pas aller à l’hôtel de Christoval.
+« À mademoiselle Inès de Christoval. » Il se lève.
 FÉLICITÉ , cherchant la lettre dans le livre.
 Où donc est la lettre de Madame ? l’aurait-elle oubliée ? LE DUC.
 Ne cherchez-vous pas une lettre ? FÉLICITÉ.
 Ah ! — Oui, monsieur le duc.
-LE DUC.
 N’est-ce pas celle-ci ? FÉLICITÉ.
-LE DUC.
-Il est étonnant que vous sortiez au moment où Madame doit avoir besoin de vous ; elle va se lever.
-Madame la duchesse a Thérèse ; et, d’ailleurs, je sors par son  ordre .
-LE DUC.
+Madame la duchesse a Thérèse ; et, d’ailleurs, je sors par son ordre .
 Oh ! c’est bien, vous n’avez pas de comptes à me rendre.
- LE DUC, JOSEPH, SAINT-CHARLES, FÉLICITÉ.
+LE DUC, JOSEPH, SAINT-CHARLES, FÉLICITÉ.
 Joseph et Saint-Charles arrivent par la porte du fond en s’étudiant attentivement.
-JOSEPH ,  à part.
-
+JOSEPH , à part.
 Le regard de cet homme est bien malsain pour moi.
- Au duc.
- Monsieur le chevalier de Saint-Charles.
- Le duc fait signe que Saint-Charles peut approcher et l’examine.
+Monsieur le chevalier de Saint-Charles.
+Le duc fait signe que Saint-Charles peut approcher et l’examine.
 SAINT-CHARLES , lui remet une lettre.
-À part.
 A-t-il eu connaissance de mes antécédents, ou veut-il seulement se servir de Saint-Charles ? LE DUC.
 Mon cher… SAINT-CHARLES , À part.
 Je ne suis que Saint-Charles.
-LE DUC.
-On vous recommande à moi comme un homme dont l’habileté, sur un théâtre plus élevé, devrait s’appeler du génie.
-Que monsieur le duc daigne m’offrir une occasion, et je ne démentirai pas ce qu’une telle parole a de flatteur pour moi.
-LE DUC.
 À l’instant même.
 Que m’ordonnez-vous ? LE DUC.
-Vous voyez cette fille, elle va sortir, je ne veux pas l’en empêcher elle ne doit pourtant pas franchir la porte de mon hôtel jusqu’à nouvel ordre  Appelant.
- Félicité ! FÉLICITÉ.
-
 Monsieur le duc.
- Le duc lui remet la lettre, elle sort.
+Le duc lui remet la lettre, elle sort.
 SAINT-CHARLES , à Joseph.
-Je te connais, je sais tout : que cette fille reste à l’hôtel avec la lettre, je ne te connaîtrai plus, je ne saurai rien, et te laisse dans cette maison si tu t’y comportes bien.
 , à part.
-
-L’un d’un côté, Jacques Collin de l’autre, tâchons de les servir tous deux honnêtement.
- Joseph sort, courant après Félicité.
+Joseph sort, courant après Félicité.
 LE DUC, SAINT-CHARLES.
 C’est fait, monsieur le duc.
 Désirez-vous savoir ce que contient la lettre ? LE DUC.
 Mais, mon cher, vous exercez une puissance terrible et miraculeuse.
 Vous nous remettez un pouvoir absolu, nous en usons avec adresse.
-LE DUC.
 Et si vous en abusez ? SAINT-CHARLES.
 Impossible : on nous briserait.
-LE DUC.
 Comment des hommes doués de facultés si précieuses les exercent-ils dans une pareille sphère ? SAINT-CHARLES.
-On veut d’abord que pour nous les choses ne soient que des mots : ainsi la délicatesse est une niaiserie, l’honneur une convention, la traîtrise diplomatie ! Nous sommes des gens de confiance ; et cependant l’on nous donne beaucoup à deviner.
-Penser et agir, déchiffrer le passé dans le présent, ordonner l’avenir dans les plus petites choses, comme je viens de le faire, voilà notre programme, il épouvanterait un homme de talent.
-Le but une fois atteint, les mots redeviennent des choses, monsieur le duc, et l’on commence à soupçonner que nous pourrions bien être infâmes.
-LE DUC.
-Tout ceci, mon cher, peut ne pas manquer de justesse ; mais vous n’espérez pas, je crois, faire changer l’opinion du monde, ni la mienne ?  SAINT-CHARLES.
 Je serais un grand sot, monsieur le duc.
-Ce n’est pas l’opinion d’autrui, c’est ma position que je voudrais faire changer.
-LE DUC.
 Et, selon vous, la chose serait très-facile ? SAINT-CHARLES.
-Je suis vraiment désespéré, mon cher, d’employer de si grands talents dans un cercle si étroit, mais je saurai vous y juger, et plus tard nous verrons.
 SAINT-CHARLES , à part.
 Ah nous verrons ? — C’est tout vu.
-LE DUC.
 Je veux marier mon fils.
-À mademoiselle Inès de Christoval, princesse d’Arjos, beau mariage Le père a fait la faute de servir Joseph Buonaparté, il est banni par le roi Ferdinand, serait-il pour quelque chose dans la révolution du Mexique ? LE DUC.
 Madame de Christoval et sa fille reçoivent un aventurier qui a nom… SAINT-CHARLES.
 Raoul de Frescas.
-LE DUC.
 Je n’ai donc rien à vous apprendre ? SAINT-CHARLES.
 Si monsieur le duc le désire, je ne saurai rien.
-LE DUC.
-Parlez, au contraire, afin que je sache quels sont les secrets que vous nous permettez d’avoir.
-Convenons d’une chose, monsieur le duc : quand ma franchise  vous déplaira, appelez-moi chevalier, je rentrerai dans l’humble rôle d’observateur payé.
-LE DUC.
 Continuez, mon cher.
- À part.
- Ces gens-là sont bien amusants ! SAINT-CHARLES.
-Monsieur de Frescas ne sera un aventurier que le jour où il ne pourra plus mener le train d’un homme qui a cent mille livres de rente.
-LE DUC.
+Ces gens-là sont bien amusants ! SAINT-CHARLES.
 Quel qu’il soit, il faut que vous perciez le mystère dont il s’enveloppe.
 Ce que demande monsieur le duc est chose difficile.
-Nous sommes obligés à beaucoup de circonspection avec les étrangers, ils sont les maîtres ; ils nous ont bouleversé notre Paris.
-LE DUC.
 Ah ! quelle plaie ! SAINT-CHARLES.
 Monsieur le duc serait de l’opposition T LE DUC.
 J’aurais voulu ramener le roi sans son cortége, voilà tout.
-Le roi n’est parti, monsieur le duc, que parce qu’on a désorganisé la magnifique police asiatique créée par Buonaparté ! On veut la faire aujourd’hui avec des gens comme il faut, c’est à donner sa démission.
-Entravés par la police militaire de l’invasion, nous n’osons arrêter personne, dans la crainte de mettre la main sur quelque prince en bonne fortune ou sur quelque margrave qui a trop dîné.
 Mais pour vous, monsieur le duc, on fera l’impossible.
 Ce jeune homme a-t-il des vices ? Joue-t-il ? LE DUC.
 Oui, dans le monde.
-
-.
- Loyalement ? LE DUC.
+Loyalement ? LE DUC.
 Monsieur le chevalier… SAINT-CHARLES.
 Ce jeune homme doit être bien riche.
-LE DUC.
 Prenez vous-même vos information.
- SAINT-CHARLES.
 Pardon, monsieur le duc ; mais, sans les passions, nous ne pourrions pas savoir grand’chose.
-Monsieur le duc serait-il assez bon pour me dire si ce jeune homme aime sincèrement mademoiselle de Christoval ? LE DUC.
 Une princesse ! une héritière ! Vous m’inquiétez, mon cher.
-LE DUC.
-Prenez garde ! votre mission n’est pas ordinaire, n’y mêlez point de femmes : une indiscrétion vous aliénerait ma bienveillance, car tout ce qui regarde Monsieur de Frescas doit mourir entre vous et moi.
-Le secret que je vous demande est absolu, il comprend ceux que vous employez et ceux qui vous emploient.
 Enfin, vous seriez perdu, si madame de Montsorel pouvait soupçonner une seule de vos démarches.
-Madame de Montsorel s’intéresse donc à ce jeune homme ? Dois-je la surveiller, car cette fille est sa femme de chambre.
-LE DUC.
-Monsieur le chevalier de Saint-Charles, l’ordonner est indigne de moi, le demander est bien peu digne de vous.
 Monsieur le duc, nous nous comprenons parfaitement.
 Quel est maintenant l’objet principal de mes recherches ? LE DUC.
-Sachez si Raoul de Frescas est le vrai nom de ce jeune homme ; sachez le lieu de sa naissance, fouillez toute sa vie, et tenez tout ceci pour un secret d’État.
 Je ne vous demande que jusqu’à demain, Monseigneur.
-LE DUC.
 C’est peu de temps.
 Non, monsieur le duc, c’est beaucoup d’argent.
- LE DUC.
-Ne croyez pas que je désire savoir des choses mauvaises ; votre habitude, à vous autres, est de servir les passions au lieu de les éclairer, vous aimez mieux inventer que de n’avoir rien à dire.
-Je serais enchanté d’apprendre que ce jeune homme a une famille…  Le marquis entre, voit son père occupé et fait une démonstration pour sortir ; le duc l’invite à rester.
 les mêmes , LE MARQUIS.
 LE DUC , continuant.
-Si Monsieur de Frescas est gentilhomme, si la princesse d’Arjos le préfère décidément à mon fils, le marquis se retirera.
-LE MARQUIS.
 Mais j’aime Inès, mon père.
 LE DUC , à Saint-Charles.
 Adieu, mon cher.
 SAINT-CHARLES , à part.
-
-Il ne s’ intéresse  pas au mariage de son fils, il ne peut plus être jaloux de sa femme ; il y a quelque chose de bien grave : ou je suis perdu, ou ma fortune est refaite.
- Il sort.
 LE DUC, LE MARQUIS.
-LE DUC.
-Épouser une femme qui ne nous aime pas est une faute, Albert, que, moi vivant, vous ne commettrez jamais.
-LE MARQUIS.
-Mais rien ne dit encore, mon père, qu’Inès repousse mes vœux ; et d’ailleurs, une fois qu’elle sera ma femme, m’en faire aimer est mon affaire, et, sans trop de vanité, je puis croire que je réussirai.
-LE DUC.
-Laissez-moi vous dire, mon fils, que ces opinions de mousquetaire sont ici tout à fait déplacées.
- LE MARQUIS.
-En toute autre chose, mon père, vos paroles seraient des arrêts pour moi, mais chaque époque a son art d’aimer… Je vous en conjure, hâtez mon mariage.
-Inès est volontaire comme une fille unique, et la complaisance avec laquelle elle accueille l’amour d’un aventurier doit vous inquiéter.
 En vérité, vous êtes ce matin d’une froideur inconcevable.
-Mettez à part mon amour pour Inès, puis-je rencontrer mieux ? Je serai, comme vous l’êtes, grand d’Espagne, et de plus je serai prince.
-En seriez-vous donc fâché, mon père ? LE DUC , à part Le sang de sa mère reparaîtra donc toujours ! Oh ! Louise a bien su deviner où je suis blessé  Haut.
- Songez, Monsieur, qu’il n’y a rien au-dessus du glorieux titre de duc de Montsorel.
-LE MARQUIS.
 Vous aurais-je offensé ? LE DUC.
 Assez ! Vous oubliez que j’ai ménagé ce mariage dès mon séjour en Espagne.
 D’ailleurs, madame de Christoval ne peut pas marier Inès sans le consentement du père.
-Le Mexique vient de proclamer son indépendance, et cette révolution explique assez le retard de la réponse.
-LE MARQUIS.
 Eh bien ! mon père, vos projets seront déjoués.
-Vous n’avez donc pas vu hier ce qui s’est passé chez l’ambassadeur d’Espagne ? Ma mère y a protégé visiblement ce Raoul de Frescas, Inès lui en a su gré.
-LE DUC , à part le recueille donc ce que j’ai semé on se devine pour la haine aussi bien que pour l’amour !  Au marquis.
- Mon fils, vous ne devez pas juger votre mère, vous ne pouvez pas la comprendre.
-Elle a vu chez moi pour vous une tendresse aveugle, elle tâche d’y remédier par sa sévérité.
-Que je n’entende pas une seconde fois semblables paroles, et brisons là ! Vous êtes aujourd’hui de service au château, allez-y promptement : j’obtiendrai une permission pour ce soir, et vous serez libre d’aller au bal retrouver princesse d’Arjos.
- LE MARQUIS.
-Avant de partir, ne puis-je voir ma mère, pour la supplier de prendre mes intérêts auprès d’Inès qui doit la venir voir ce matin ? LE DUC.
+Mon fils, vous ne devez pas juger votre mère, vous ne pouvez pas la comprendre.
 Demandez si elle est visible, je l’attends moi-même.
- Le marquis sort.
- Tout m’accable à la fois ; hier l’ambassadeur me demande où est mort mon premier fils ; cette nuit, sa mère croit l’avoir retrouvé ; ce matin, le fils de Juana Mendès me blesse encore ! Ah ! d’instinct la princesse le devine.
-Les lois ne peuvent jamais être impunément violées, la nature n’est pas moins impitoyable que le monde.
-Serai-je assez fort, même avec l’appui du roi, pour conduire les événements ? LE MARQUIS, LA DUCHESSE DE MONTSOREL, LE DUC.
-LA DUCHESSE.
+Le marquis sort.
 Des excuses ! Mais, Albert, je suis trop heureuse.
 Quelle surprise vous venez embrasser votre mère avant d’aller au château, uniquement par tendresse.
-Ah ! si jamais une mère pouvait douter de son fils, cet élan, auquel vous ne m’avez pas habituée, dissiperait toute crainte, et je vous en remercie, Albert.
 Enfin nous nous comprenons.
-LE MARQUIS.
-Ma mère, je suis heureux de ce mot-la ; si je paraissais manquer à un devoir, ce n’était pas oubli, mais la crainte de vous déplaire.
 LA DUCHESSE , apercevant le duc.
-Eh quoi ! vous aussi, monsieur le duc, comme votre fils, vous vous êtes empressé… Mais c’est une fête aujourd’hui que mon lever.
-LE DUC.
 Et que vous aurez tous les jours.
 LA DUCHESSE , au duc.
-Ah ! je comprends…  Au marquis.
- Adieu ! le roi devient sévère pour sa maison rouge, je serais désespérée d’être la cause d’une réprimande.
- LE DUC.
+Ah ! je comprends… Au marquis.
 Pourquoi le renvoyer ! Inès va venir.
-LA DUCHESSE.
 Je ne le pense pas, je viens de lui écrire.
 les mêmes , JOSEPH.
-JOSEPH , annonçant.
 Madame la duchesse de Christoval et la princesse d’Arjos.
 LA DUCHESSE , à part.
 Quelle affreuse contrariété… LE DUC.
@@ -544,84 +296,47 @@ Une de vos femmes me la remet à l’instant.
 LA DUCHESSE DE MONTSOREL.
 , à part Ainsi, Raoul peut venir.
 LE DUC , à la duchesse de Chrlstoval, la conduisant au canapé.
-Nous est-il permis de voir dans cette visite sans cérémonie un commencement à notre intimité de famille ? LA DUCHESSE DE CHRISTOVAL.
 Ne donnons pas tant d’importance à ce que je regarde comme un plaisir.
-LE MARQUIS.
-Vous craignez donc bien, madame, d’encourager mes   espérances ? N’ai-je donc pas été assez malheureux hier ? Mademoiselle ne m’a rien accordé, pas même un regard.
-Je ne pensais pas, Monsieur, avoir le plaisir de vous rencontrer sitôt, je sous croyais de service ; je suis toute heureuse de me justifier ; je ne vous ai aperçu qu’en sortant du bal, et mon excuse  elle montre la duchesse de Montsorel , la voici.
-LE MARQUIS.
-Vous avez deux excuses, Mademoiselle, et je vous sais un gré infini de ne parler que de ma mère.
-LE DUC.
 Mademoiselle, ne voyez dans ce reproche qu’une excessive modestie.
-Albert a des craintes comme si Monsieur de Frescas devait lui en inspirer ! À son âge, la passion est une fée qui grandit des riens.
-Mais ni votre mère, ni vous, Mademoiselle, vous ne pouvez prendre au sérieux un jeune homme dont le nom est problématique et qui se tait si soigneusement sur sa famille.
 LA DUCHESSE DE MONTSOREL , à la duchesse de Christoval.
 Ignorez-vous également le lieu de sa naissance ? LA DUCHESSE DE CHRISTOVAL.
 Nous n’en sommes pas encore à lui demander de semblables renseignements.
-LE DUC.
 Nous sommes cependant trois ici qui ne serions pas fâchés de les avoir.
-Vous seules, Mesdames, seriez discrètes la discrétion est une vertu qui ne profite qu’à ceux qui la recommandent.
 LA DUCHESSE DE MONTSOREL.
 Et moi, Monsieur, je ne crois pas à l’innocence de certaines curiosités.
-LE MARQUIS.
-Ma mère, la mienne est-elle donc hors de propos ? Et ne puis-je m’enquérir auprès de Madame si les Frescas d’Aragon ne sont pas éteints ? LA DUCHESSE DE CHRISTOVAL , au duc.
 Nous avons connu tous deux le vieux commandeur à Madrid, le dernier de cette maison.
-LE DUC.
 Il est mort nécessairement sans enfant.
 Mais il existe une branche à Naples.
- LE MARQUIS.
-Oh ! Mademoiselle, comment ignorez-vous que les Médina-Cœli, vos cousins, en ont hérité ? LA DUCHESSE DE CHRISTOVAL.
 Mais vous avez raison, il n’y a plus de Frescas.
 LA DUCHESSE DE MONTSOREL.
-Eh bien si ce jeune homme est sans nom, sans famille, sans pays, ce n’est pas un rival dangereux pour Albert, et je ne vois pas pourquoi vous vous en occupez.
-LE DUC.
 Mais il occupe beaucoup les femmes.
 Je commence à ouvrir les yeux… LE MARQUIS.
-Ah ! INÈS.
-LE DUC.
-Il exagère aussi, je crois, sa fortune ; mais c’est un mensonge difficile à soutenir longtemps à Paris.
 LA DUCHESSE DE MONTSOREL , à la duchesse de Christoval.
 Vous allez, m’a-t-on dit, donner des fêtes superbes ? LE MARQUIS.
 Monsieur de Frescas, Mesdames, parle-t-il espagnol ? INÈS.
 Absolument comme nous.
-LE DUC.
-Taisez-vous, Albert : ne voyez-vous donc pas que Monsieur de Frescas est un jeune homme accompli ? LA DUCHESSE DE CHRISTOVAL.
-Il est vraiment très-aimable, et si vos doutes étaient fondés, je vous avoue, mon cher duc, que je serais presque chagrine de ne plus le recevoir.
 LA DUCHESSE DE MONTSOREL , à la duchesse de Christoval.
-Vous êtes aussi belle ce matin qu’hier ; vraiment j’admire que vous résistiez ainsi aux fatigues du monde.
- LA DUCHESSE DE CHRISTOVAL.
-,  à Inès Ma fille, ne parlez plus de Monsieur de Frescas, ce sujet de conversation déplaît à madame de Montsorel.
+LA DUCHESSE DE CHRISTOVAL.
 Il lui plaisait hier.
-les mêmes , JOSEPH, RAOUL JOSEPH ,  à la duchesse de Montsorel.
-Mademoiselle de Vaudrey n’y est pas, Monsieur de Frescas se présente, madame la duchesse veut-elle le recevoir ? LA DUCHESSE DE CHRISTOVAL.
+les mêmes , JOSEPH, RAOUL JOSEPH , à la duchesse de Montsorel.
 Raoul, ici ! LE DUC.
 Déjà chez elle ! LE MARQUIS.
 , à son père.
 Ma mère nous trompe.
 LA DUCHESSE DE MONTSOREL.
 Je n’y suis pas.
-LE DUC.
-Si vous avez déjà prié Monsieur de Frescas de venir, pourquoi commencer par une impolitesse avec un si grand personnage ?  La duchesse de Montsorel fait un geste.
-À Joseph.
- Faites entrer !  Au marquis.
- Soyez prudent et calme.
+Faites entrer ! Au marquis.
+Soyez prudent et calme.
 LA DUCHESSE DE MONTSOREL , à part.
 Eu voulant le sauver, c’est moi qui l’aurai perdu.
 Monsieur Raoul de Frescas.
-Mon empressement à me rendre à vos ordres vous prouve, madame la duchesse, combien je suis fier de cette faveur et désireux de la mériter.
 LA DUCHESSE DE MONTSOREL.
 Je vous sais gré, Monsieur, de votre exactitude.
- À part, bas.
- Mais elle peut vous être funeste.
+À part, bas.
+Mais elle peut vous être funeste.
 RAOUL , saluant la duchesse de Christoval et sa fille à part.
-Comment ! Inès chez eux ? Raoul salue le duc, qui lui rend son salut ; mais le marquis a pris les journaux sur la table, et feint de na pas voir Raoul.
-  LE DUC.
-Vous êtes un de ces rivaux de qui l’on est fier si l’on est vainqueur, et par lesquels on peut être vaincu sans trop de déplaisir.
+ LE DUC.
 , là où je pouvais me croire importun.
-LE DUC.
-Vous arrivez, au contraire, très à propos, nous parlions de votre famille et de ce vieux commandeur de Frescas que Madame et moi avons beaucoup vu jadis.
-Vous aviez la bonté de vous occuper de moi ; mais c’est un honneur qui se paye ordinairement par un peu de médisance.
-LE DUC.
 On ne peut dire du mal que des gens qu’on connaît bien.
 LA DUCHESSE DE CHRISTOVAL.
 Et nous voudrions bien avoir le droit de médire de vous.
@@ -631,176 +346,99 @@ Je connais un moyen sûr.
 Et lequel ? LA DUCHESSE DE MONTSOREL.
 Restez le personnage mystérieux que vous êtes.
 LE MARQUIS , revenant avec un journal.
-Voici, Mesdames, quelque chose d’étrange chez le feld-maréchal, où vous étiez sans doute, on a surpris un de ces soi-disant seigneurs étrangers qui volait au jeu.
-Et c’est là cette grande nouvelle qui vous absorbait ?  RAOUL.
+Et c’est là cette grande nouvelle qui vous absorbait ? RAOUL.
 En ce moment, qui est-ce qui n’est pas étranger ? LE MARQUIS.
-Mademoiselle, ce n’est pas précisément la nouvelle qui me préoccupe, mais l’inconcevable facilité avec laquelle on accueille des gens sans savoir ce qu’ils sont ni d’où ils viennent.
 LA DUCHESSE DE MONTSOREL , à part.
 Veulent-ils l’insulter chez moi ? RAOUL.
-S’il faut se défier des gens qu’on connait peu, n’en est-il pas qu’on connaît beaucoup trop en un instant ? LE DUC.
-Albert, en quoi ceci peut-il nous intéresser ? Admettons-nous jamais quelqu’un sans bien connaître sa famille ? RAOUL.
 Monsieur le duc connaît la mienne.
-LE DUC.
 Vous êtes chez madame de Montsorel, et cela me suffit.
-Nous savons trop ce que nous vous devons, pour qu’il vous soit possible d’oublier ce que vous nous devez.
 Le nom de Frescas oblige, et vous le portez dignement.
 LA DUCHESSE DE CHRISTOVAL , à Raoul.
-Ne voulez vous pas dire en ce moment qui vous êtes, sinon pour vous, du moins pour vos amis ? RAOUL.
-Je serais au désespoir, Messieurs, si ma présence ici devenait la cause de la plus légère discussion mais comme certains ménagements peuvent blesser autant que les demandes les plus directes, nous finirons ce jeu, qui n’est digne ni de vous ni de moi.
-Madame la duchesse ne m’a pas, je crois, invité pour me faire subir des interrogatoires.
-Je ne reconnais à personne le droit de me demander compte d’un silence que je veux garder.
-LE MARQUIS.
 Et nous laissez-vous le droit de l’interpréter ? RAOUL.
-Si je réclame la liberté de ma conduite, ce n’est pas pour enchaîner la vôtre.
 LA DUCHESSE DE MONTSOREL.
 Il y va, Monsieur, de votre dignité de ne rien répondre.
- LE DUC Vous êtes un noble jeune homme, vous avez des distinctions naturelles qui signalent en vous le gentilhomme, ne vous offensez pas de la curiosité du monde : elle est notre sauvegarde à tous.
-Votre épée ne fermera pas la bouche à tous les indiscrets, et le monde, si généreux pour des modesties bien placées, est impitoyable pour des prétentions injustifiables.
 Monsieur ! LA DUCHESSE DE MONTSOREL , vivement et bas à Raoul.
-Pas un mot sur votre enfance ; quittez Paris, et que je sache seule où vous serez… caché ! Il y va de tout votre avenir.
-LE DUC.
 Je veux être votre ami, moi, quoique vous soyez le rival de mon fils.
 Accordez votre confiance à un homme qui a celle de son roi.
 Comment appartenez-vous à la maison de Frescas, que nous croyions éteinte ? RAOUL , au duc.
-Monsieur le duc, vous êtes trop puissant pour manquer de protégés, et je ne suis pas assez faible pour avoir besoin de protecteurs.
 LA DUCHESSE DE CHRISTOVAL.
-Monsieur, n’en veuillez pas à une mère d’avoir attendu cette discussion pour s’apercevoir qu’il y avait de l’imprudence à vous admettre souvent à l’hôtel de Christoval.
-Une parole nous sauvait, et vous avez gardé le silence : il y a donc quelque chose que vous aimez mieux que moi ? RAOUL.
-Inès, je pouvais tout supporter, hors ce reproche !  À part.
- O ! Vautrin, pourquoi m’avoir ordonné ce silence absolu ?  il salue les femmes.
+Inès, je pouvais tout supporter, hors ce reproche ! À part.
+O ! Vautrin, pourquoi m’avoir ordonné ce silence absolu ? il salue les femmes.
 À la duchesse de Montsorel.
- Vous me devez compte de tout mon bonheur.
+Vous me devez compte de tout mon bonheur.
 LA DUCHESSE DE MONTSOREL.
 Obéissez-moi, je réponds de tout.
 RAOUL , au marquis.
 Je suis à vos ordres, Monsieur.
-LE MARQUIS.
 Au revoir, monsieur Raoul.
 De Frescas, s’il vous plaît.
-LE MARQUIS.
-
-De Frescas, soit !
- Raoul sort.
+De Frescas, soit ! Raoul sort.
 les mêmes , excepté RAOUL.
 LA DUCHESSE DE MONTSOREL , à la duchesse de Christoral.
 Vous avez été bien sévère.
 LA DUCHESSE DE CHRISTOVAL.
-Vous ignorez, Madame, que ce jeune homme s’est pendant trois mois trouvé partout où allait ma fille, et que sa présentation s’est faite un peu trop légèrement peut-être.
 LE DUC , à la duchesse de Christoval.
 On pouvait facilement le prendre pour un prince déguisé.
-LE MARQUIS.
-N’est-ce pas plutôt un homme de rien qui voudrait se déguiser en prince ? LA DUCHESSE DE MONTSOREL.
 Votre père vous dira, Monsieur, que ces déguisements-là sont bien difficiles.
 , au marquis.
 Un homme de rien, Monsieur ? On peut nous élever, mais nous ne savons pas descendre.
 LA DUCHESSE DE CHRISTOVAL.
 Que dites-vous, Inès ? INÈS.
-Mais il n’est pas là, ma mère ! Ou ce jeune homme est insensé, ou ces messieurs ont voulu manquer de générosité.
 MADAME DE CHRISTOVAL , à la duchesse de Montsorel.
-Je comprends, Madame, que toute explication est impossible, surtout devant Monsieur de Montsorel ; mais il s’agit de notre honneur, et je vous attends.
 LA DUCHESSE DE MONTSOREL.
 À demain donc.
 Monsieur de Montsorel reconduit la duchesse de Christoval et sa fllle.
 LE MARQUIS, LE DUC.
-LE MARQUIS.
-Mon père, l’apparition de cet aventurier vous cause, ainsi qu’à  ma mère, des émotions bien violentes on dirait qu’au lieu d’un mariage compromis, vos existences elles-mêmes sont menacées.
 La duchesse et sa fille s’en vont frappées… LE DUC.
 Ah ! pourquoi sont-elles venues au milieu de ce débat ? LE MARQUIS.
 Ce Raoul vous intéresse donc aussi ? LE DUC.
-Et toi donc ? Ta fortune, ton nom, ton avenir et ton mariage, tout ce qui est plus que la vie, voilà ce qui s’est joué devant toi ! LE MARQUIS.
 Si toutes ces choses dépendent de ce jeune homme, j’en aurai promptement raison.
-LE DUC.
-Un duel, malheureux ! Si tu avais le triste bonheur de le tuer, c’est alors que la partie serait perdue.
-LE MARQUIS.
 Que dois-je donc faire ? LE DUC.
 Ce que font les politiques : attendre ! LE MARQUIS.
 Si vous êtes eu péril, Mon père, croyez-vous que je puisse rester impassible ? LE DUC.
 Laissez-moi ce fardeau, mon fils, il vous écraserait.
-LE MARQUIS.
 Ah ! vous parlerez, mon père, vous me direz… LE DUC.
 Rien ! nous aurions trop à rougir tous deux.
 les mêmes , VAUTRIN.
-Vautrin est babillé tout en noir ; il affecte un air de componction et d’humilité pendant une partie de la scène.
-Monsieur le duc, daignez m’excuser d’avoir forcé votre porte, mais  bas et à lui seul  nous venons d’être l’un et l’autre victimes d’un  abus de confiance.
 Permettez-moi de vous dire deux mots à vous seul.
 LE DUC , faisant un signe à son fils, qui se retire.
-Parlez, Monsieur.
-Monsieur le duc, en ce moment, c’est à qui s’agitera pour obtenir des emplois, et cette ambition a gagné toutes les classes.
-Chacun en France veut être colonel, et je ne sais ni où, ni comment on y trouve des soldats.
-Vraiment, la société tend à une dissolution prochaine, qui sera causée par cette aptitude générale pour les hauts grades et par ce dégoût pour l’infériorité.
 Voilà le fruit de l’égalité révolutionnaire.
 La religion est le seul remède à opposer à cette corruption.
-LE DUC.
 Où voulez-vous en venir ? VAUTRIN.
-Pardon, il m’a été impossible de ne pas expliquer à l’homme d’État avec lequel je vais travailler la cause d’une méprise qui me chagrine.
-Avez-vous, monsieur le duc, confié quelques secrets à celui de mes gens qui est venu ce matin à ma place dans la folle pensée de me supplanter et dans l’espoir de se faire connaître de vous en vous rendant service ? LE DUC.
 Comment… vous êtes le chevalier de Saint-Charles ? VAUTRIN.
 Monsieur le duc, nous sommes tout ce que nous voulons être.
-Ni lui, ni moi n’avons la simplicité d’être nous mêmes… nous y perdrions trop.
-LE DUC.
 Songez, Monsieur, qu’il me faut des preuves.
-Monsieur le duc, si vous lui avez confié quelque secret important, je dois le faire immédiatement surveiller.
 LE DUC , à part.
-Celui-ci a l’air, en effet, bien plus honnête homme et plus posé que l’autre.
 Nous appelons cela de la contre-police.
-LE DUC.
 Vous auriez dû, Monsieur, ne pas venir ici sans pouvoir justifier vos assertions.
- VAUTRIN.
 Monsieur le duc, j’ai rempli mon devoir.
-Je souhaite que l’ambition de cet homme, capable de se vendre au plus offrant, vous soit utile.
-LE DUC , à part Comment peut-il savoir si promptement le secret de mon entrevue de ce matin ? VAUTRIN , à part Il hésite : Joseph a raison, il s’agit d’un secret important.
-LE DUC.
-Monsieur… VAUTRIN.
 Monsieur le duc… LE DUC.
 Il nous importe à l’un comme à l’autre de confondre cet homme.
 Ce sera dangereux, s’il a votre secret ; car il est rusé.
-LE DUC.
 Oui, le drôle a de l’esprit.
 A-t-il une mission ? LE DUC.
 Rien de grave : je veux savoir ce qu’est au fond un Monsieur de Frescas.
-VAUTRIN , à part Rien que cela  Haut.
- Je puis vous le dire, monsieur le duc, Raoul de Frescas est un jeune seigneur dont la famille est compromise dans une affaire de haute trahison, et qui ne veut pas porter le nom de son père.
-LE DUC.
+VAUTRIN , à part Rien que cela Haut.
 Il a un père ? VAUTRIN.
 Il a un père.
-LE DUC.
 Et d’où vient-il ? quelle est sa fortune ? VAUTRIN.
-Nous changeons de rôle, monsieur le duc, et vous me permettrez de ne pas répondre jusqu’à ce que je sache quelle espèce d’intérêt votre Seigneurie porte à Monsieur de Frescas.
-LE DUC.
-Vous vous oubliez, Monsieur…  VAUTRIN , quittant son air humble.
-Oui, monsieur le duc, j’oublie qu’il y a une distance énorme entre ceux qui font espionner et ceux qui espionnent.
-LE DUC.
-Joseph  ! VAUTRIN.
+Vous vous oubliez, Monsieur… VAUTRIN , quittant son air humble.
 Ce duc a mis des espions après nous, il faut se dépêcher.
 Vautrin disparaît dans la porte de côté, par laquelle il est entré au premier acte.
 LE DUC , revenant.
 Vous ne sortirez pas d’ici.
-Eh bien ! où est-il ?  Il sonne et Joseph paraît.
- Faites fermer toutes les portes de mon hôtel, il s’est introduit un homme ici.
+Eh bien ! où est-il ? Il sonne et Joseph paraît.
+Faites fermer toutes les portes de mon hôtel, il s’est introduit un homme ici.
 Allons, cherchez-le tous, et qu’il soit arrêté.
 Il entre chez la duchesse.
 JOSEPH , regardant par la petite porte.
 Il est déjà loin.
 FIN DU DEUXIÈME ACTE.
 Un salon chez Raoul de Frescas.
-LAFOURAILLE , seul.
-Le nôtre a dansé avec un beau brin de fille dont les cheveux étaient saupoudrés d’un million de diamants, et il ne faisait attention qu’au bouquet qu’elle avait à sa main ; simple jeune homme, va ! nous aurons de l’esprit pour toi.
-Notre vieux Jacques Collin… Bon ! me voilà encore pris, je ne peux pas me faire à ce nom de bourgeois, Monsieur Vautrin y mettra bon ordre.
-Avant peu les diamants et la dot prendront l’air, et ils en ont besoin : toujours dans les mêmes coffres, c’est contre les lois de la circulation.
 Quel gaillard ! il vous pose un jeune homme qui a des moyens.
-— Il est gentil, il gazouille très-bien, l’héritière s’y prend, le tour est fait, et nous partagerons.
 Ah ! ce sera de l’argent bien gagné.
 Voilà six mois que nous y sommes.
-Avons-nous pris des figures d’imbéciles ! enfin tout le monde dans le quartier nous croit de bonnes gens tout simples.
-Enfin, pour Vautrin que ne ferait-on pas ? Il nous a dit : « Soyez vertueux, » on l’est.
-J’en ai peur comme de la gendarmerie, et cependant je l’aime encore plus que l’argent VAUTRIN , appelant dans la coulisse.
-Lafouraille ?  LAFOURAILLE.
-
-Le voici ! Sa figure ne me revient pas ce matin, le temps est a l’orage, j’aime mieux que ça tombe sur un autre, donnons-nous de l’air.
- Il va pour sortir.
-VAUTRIN, LAFOURAILLE.
-Vautrin paraît en pantalon a pieds de molleton blanc, avec un gilet rond de pareille étoffe, pantoufles de maroquin rouge, enfin, la tenue d’un homme d’affaires, le matin.
-Lafouraille ? LAFOURAILLE.
+Il va pour sortir.
 Où vas-tu ? LAFOURAILLE.
 Chercher vos lettres.
 Je les ai.
@@ -811,19 +449,14 @@ J’ai toujours vu que des jambes inquiètes ne portaient pas de conscience tran
 Tu vas rester là, nous avons à causer.
 Je suis à vos ordres.
 Je l’espère bien.
-Viens ici.
-Tu nous rabâchais, sous le beau ciel de la Provence, certaine histoire peu flatteuse pour toi.
 Un intendant t’avait joué par-dessous jambe : te rappelles-tu bien ? LAFOURAILLE.
-L’intendant ? ce Charles Blondet, le seul homme qui m’ait volé ! Est-ce que cela s’oublie ? VAUTRIN.
 Ne lui avais-tu pas vendu ton maître une fois ? C’est assez commun.
- LAFOURAILLE.
 Une fois ? Je l’ai vendu trois fois, mon maître.
 C’est mieux.
 Et quel commerce faisait donc l’intendant ? LAFOURAILLE.
 Vous allez voir.
 J’étais piqueur à dix-huit ans dans la maison de Langeac… VAUTRIN.
 Je croyais que c’était chez le duc de Montsorel.
-Non ; heureusement le duc ne m’a vu que deux fois, et j’espère qu’il m’a oublié.
 L’as-tu volé ? LAFOURAILLE.
 Mais, un peu.
 Eh bien ! comment veux-tu qu’il t’oublie ? LAFOURAILLE.
@@ -831,54 +464,35 @@ Je l’ai vu hier à l’ambassade, et je puis être tranquille.
 Ah ! c’est donc le même ? LAFOURAILLE.
 Nous avons chacun vingt-cinq ans de plus, voilà toute la différence.
 Eh bien ! parle donc ? Je savais bien que tu m’avais dit ce nom-là.
-Le vicomte de Langeac, un de mes maîtres, et ce duc de Montsorel étaient les deux doigts de la main.
-Quand il fallut opter entre la cause du peuple et celle des grands, mon choix ne fut pas douteux : de simple piqueur, je passai citoyen, et le citoyen Philippe Boulard fut un chaud travailleur.
 J’avais de l’enthousiasme, j’eus de l’autorité dans le faubourg.
 Toi ! tu as été un homme politique ? LAFOURAILLE.
-Pas longtemps.
 J’ai fait une belle action, ça m’a perdu.
-Ah ! mon garçon, il faut se délier des belles actions autant  que des belles femmes : on s’en trouve souvent mal.
 Était-elle belle, au moins, cette action ? LAFOURAILLE.
 Vous allez voir.
-Dans la bagarre du dix août, le duc me confie le vicomte de Langeac ; je le déguise, je le cache, je le nourris, au risque de perdre ma popularité et ma tête.
-Le duc m’avait bien encouragé par des bagatelles, un millier de louis, et ce Blondet a l’infamie de venir me proposer davantage pour livrer notre jeune maître.
 Tu le livres ? LAFOURAILLE.
 À l’instant.
-On le coffre à l’Abbaye, et je me trouve à la tête de soixante bonnes mille livres en or, en vrai or.
 En quoi cela regarde-t-il le duc de Montsorel ? LAFOURAILLE.
-Attendez donc.
-Quand je vois venir les journées de septembre, ma conduite me semble un peu répréhensible et, pour mettre ma conscience en repos, je vais proposer au duc, qui partait, de resauver son ami.
 As-tu du moins bien placé tes remords ? LAFOURAILLE.
-Je le crois bien, ils étaient rares à cette époque-là ! Le duc me promet vingt mille francs si j’arrache le vicomte aux mains de mes camarades, et j’y parviens.
 Un vicomte, vingt mille francs ! c’était donné.
 D’autant plus que c’était alors le dernier.
 Je l’ai su trop tard.
-L’intendant avait fait disparaître tous les autres Langeac, même une pauvre grand’mère qu’il avait envoyée aux Carmes.
 Il allait bien, celui-là ! LAFOURAILLE.
-Il allait toujours ! Il apprend mon dévouement, se met à ma piste, me traque et me découvre aux environs de Mortagne, où mon maître attendait, chez un de mes oncles, une occasion de gagner la mer.
-Ce gueux-là m’offre autant d’argent qu’il m’en avait  déjà donné.
+Ce gueux-là m’offre autant d’argent qu’il m’en avait déjà donné.
 Je me vois une existence honnête pour le reste de mes jours, je suis faible.
-Mon Blondet fait fusiller le vicomte comme espion, et nous fait mettre en prison, mon oncle et moi, comme complices.
 Nous n’en sommes sortis qu’en regorgeant tout mon or.
 Voilà comment on apprend à connaître le cœur humain.
 Tu avais affaire à plus fort que toi.
 Peut ! il m’a laissé en vie, un vrai finassier.
 En voilà bien assez ! Il n’y a rien pour moi dans ton histoire.
 Je peux m’en aller ? VAUTRIN.
-Ah çà ! tu éprouves bien vivement le besoin d’être là où je ne suis pas.
 Tu as été dans le monde, hier ; t’y es-tu bien tenu ? LAFOURAILLE.
-Il se disait des choses si drôles sur les maîtres, que je n’ai pas quitté l’antichambre.
 Je t’ai cependant vu rôdant près du buffet, qu’as-tu pris ? LAFOURAILLE.
 Rien… Ah si, un petit verre de vin de Madère.
-Où as-tu mis les douze couverts de vermeil que tu as consommés avec le petit verre ? LAFOURAILLE.
 Du vermeil ! J’ai beau chercher, je ne trouve rien de semblable dans ma mémoire.
 Eh bien tu les trouveras dans ta paillasse.
 Et Philosophe a-t-il eu aussi ses petites distractions ? LAFOURAILLE.
-Oh ! ce pauvre Philosophe, depuis ce matin, se moque-t-on assez de lui en bas ? Figurez-vous, il avise un cocher très-jeune, et il lui découd ses galons.
-En dessous, c’est tout faux ! Les maîtres, aujourd’hui, volent la moitié de leur considération.
 On n’est plus sûr de rien, ça fait pitié.
 VAUTRIN , il siffle.
-Ça n’est pas drôle de prendre comme ça ? Vous allez me perdre  la maison, il est temps d’en finir.
 Ici, père Buteux ! holà, Philosophe ! à moi, Fil-de-soie ! Mes bons amis, expliquons-nous à l’amiable.
 Vous êtes tous des misérables.
 les mêmes , BUTEUX, PHILOSOPHE et FIL-DE-SOIE.
@@ -892,47 +506,22 @@ Ce n’est pas pour moi, je ne sors point.
 VAUTRIN , à Fil-de-Soie.
 Toi ! le soir que je t’ai fait quitter ton bonnet de coton, empoisonneur… FIL-DE-SOIE.
 Passons les titres.
-Et que tu m’as accompagné en chasseur chez le feld-maréchal, tu as, tout en me passant ma pelisse, enlevé sa montre à l’hetman des Cosaques.
 Tiens ! les ennemis de la France.
-Toi, Buteux, vieux malfaiteur, tu as volé la lorgnette de la princesse d’Arjos, le soir où elle avait mis votre jeune maître à notre porte.
 Elle était tombée sur le marchepied.
- VAUTRIN.
-Tu devais la rendre avec respect ; mais l’or et les perles ont réveillé tes griffes de chat-tigre.
-Ah çà, l’on ne peut donc pas s’amuser un peu ? Que diable ! Jacques, tu veux… VAUTRIN.
-Hein ? LAFOURAILLE.
-Vous voulez, monsieur Vautrin, pour trente mille francs, que ce jeune homme mène un train de prince ? Nous y réussissons à la manière des gouvernements étrangers, par l’emprunt et par le crédit.
-Tous ceux qui viennent demander de l’argent nous en laissent, et vous n’êtes pas content.
-Moi, si je ne peux plus rapporter de l’argent du marché quand je vais aux provisions sans le sou, je donne ma démission.
-Et moi donc, j’ai vendu cinq mille francs notre pratique à plusieurs carrossiers, et le favorisé va tout perdre.
-Un soir, Monsieur de Frescas part brouetté par deux rosses, et nous ramenons, Lafouraille et moi, avec deux chevaux de dix mille francs qui n’ont coûté que vingt petits verres de schnick.
 Non, c’était du kirsch ! PHILOSOPHE.
 Enfin, si c’est pour ça que vous vous emportez… FIL-DE-SOIE.
 Comment entendez-vous tenir votre maison ? VAUTRIN.
-Et vous comptez marcher longtemps de ce train-là ? Ce que j’ai permis pour fonder notre établissement, je le défends aujourd’hui.
-Vous voulez donc tomber du vol dans l’escamotage ? Si je ne suis pas compris, je chercherai de meilleurs valets.
 BUTEUX Et où les trouvera-t-il ? LAFOURAILLE.
 Qu’il en cherche ! VAUTRIN.
-Vous devez avoir un air si complètement innocent, que c’était à toi, Philosophe, à te laisser découdre tes galons.
-N’oubliez donc jamais votre rôle vous êtes des honnêtes gens, des domestiques fidèles, et qui adorez Monsieur Raoul de Frescas, votre maître.
-Vous faites de ce jeune homme un dieu ? vous nous avez attelés à sa brouette ; mais nous ne le connaissons pas plus qu’il ne nous connaît.
 Enfin, est-il des nôtres ? FIL-DE-SOIE.
 Où ça nous mène-t-il ! LAFOURAILLE.
-Nous vous obéissons à la condition de reconstituer la  Société des Dix Mille , de ne jamais nous attribuer moins de dix mille francs d’un coup, et nous n’avons pas encore le moindre fonds social.
 Quand serons-nous capitalistes ? BUTEUX.
-Si les camarades savaient que je me déguise en vieux portier depuis six mois, gratis, je serais déshonoré.
-Si je veux bien risquer mon cou, c’est afin de donner du pain à mon Adèle, que vous m’avez défendu de voir, et qui depuis six mois sera devenue sèche comme une allumette.
 , aux deux autres.
 Elle est en prison.
 Pauvre homme ménageons sa sensibilité.
-Avez-vous fini ? Ah çà, vous faites la noce ici depuis six mois, vous mangez comme des diplomates, vous buvez comme des Polonais, rien ne vous manque.
 On se rouille ! VAUTRIN.
-Grâce à moi, la police vous a oubliés ! c’est à moi seul que vous devez cette existence heureuse ! j’ai effacé sur vos fronts cette  marque rouge qui vous signalait.
 Je suis la tête qui conçoit, vous n’êtes que les bras.
-Suffit ! VAUTRIN.
 Obéissez-moi tous aveuglément ! LAFOURAILLE.
-Sans murmurer.
-Sans murmurer.
-Ou rompons notre pacte et laissez-moi ! Si je dois trouver de l’ingratitude chez vous autres, à qui désormais peut-on rendre service ? PHILOSOPHE.
 Jamais, mon empereur ! LAFOURAILLE.
 Plus souvent, notre grand homme ! BUTEUX.
 Je t’aime plus que je n’aime Adèle.
@@ -944,86 +533,51 @@ Ah ! mais ici, je joue des couteaux ! VAUTRIN.
 Eh bien tue-moi donc tout de suite.
 On ne peut pas se fâcher avec cet homme-là.
 Voulez-vous que je rende la lorgnette ? c’était pour Adèle ! TOUS , l’entourant.
-Nous abandonnerais-tu, Vautrin ?  LAFOURAILLE.
+Nous abandonnerais-tu, Vautrin ? LAFOURAILLE.
 Vautrin ! notre ami.
 Grand Vautrin ! FIL-DE-SOIE.
 Notre vieux compagnon, fais de nous tout ce que tu voudras.
 Oui, je puis faire de tous tout ce que je veux.
-Quand je pense à ce que vous dérangez pour prendre des breloques, j’éprouve l’envie de tous renvoyer d’où je vous ai tirés.
-Vous êtes ou au dessus ou en dessous de la société, la lie ou l’écume ; moi, je voudrais vous y faire rentrer.
-On vous huait quand vous passiez, je veux qu’on vous salue ; vous étiez des scélérats, je veux que vous soyez plus que d’honnêtes gens.
 Il y a donc mieux ? BUTEUX.
 Il y a ceux qui ne sont rien du tout.
 Il y a ceux qui décident de l’honnêteté des autres.
-Vous ne serez jamais d’honnêtes bourgeois, vous ne pouvez être que des malheureux ou des riches ; il vous faut donc enjamber la moitié du monde ! Prenez un bain d’or, et vous en sortirez vertueux.
 Oh ! moi, quand je n’aurai besoin de rien, je serai bon prince.
-Eh bien ! toi, Lafouraille, tu peux être, comme l’un de nous, comte de Sainte-Hélène ; et toi, Buteux, que veux-tu ? BUTEUX.
 Je veux être philanthrope, on devient millionnaire.
 Et moi banquier.
 Il vent être patenté.
-Soyez donc, à propos, aveugles et clairvoyants, adroits et gauches, niais et spirituels comme tous ceux qui veulent faire fortune.
 Ne me jugez jamais, et n’entendez que ce que je veux dire.
 Oh ! dès que nous connaissons ses antécédents et sa position sociale… VAUTRIN.
 À ta loge ! BUTEUX.
 La petite Nini, la fille à Giroflée, y est.
 Elle peut laisser passer une mouche.
 Elle ! c’est une petite fouine à laquelle il ne faudra pas indiquer les pigeons.
-Par ce que je suis en train de faire de Raoul, voyez ce que je puis.
 J’aime à faire des heureux, moi qui ne peux plus l’être.
-Je respire par sa bouche, je vis de sa vie ; ses passions sont les miennes, je ne puis avoir d’émotions nobles et pures que dans le cœur de cet être qui n’est souillé d’aucun crime.
-Vous avez vos fantaisies, voilà la mienne ! En échange de la flétrissure que la société m’a imprimée, je lui rends un homme d’honneur, j’entre en lutte avec le destin ; voulez-vous être de la partie ? obéissez ! TOUS.
 À la vie, à la mort VAUTRIN , à part.
-Voilà mes bêtes féroces encore une fois domptées !  Haut.
- Philosophe, tâche de prendre l’air, la figure et le costume d’un employé aux recouvrements, tu iras reporter les couverts empruntés par Lafouraille à l’ambassade.
- À Fil-de-Soie.
- Toi, Fil-de-Soie, Monsieur de Frescas aura quelques amis, prépare un somptueux déjeuner, nous ne dînerons pas.
+Voilà mes bêtes féroces encore une fois domptées ! Haut.
 Après, tu t’habilleras en homme respectable, aie l’air d’un avoué.
-Tu iras rue Oblin, numéro six, au quatrième étage, tu sonneras sept coups, un à un.
-Tu demanderas le  père Giroflée.
+Tu demanderas le père Giroflée.
 On te répondra : D’où venez-vous ? Tu diras : D’un port de mer en Bohême.
 Tu seras introduit.
-Il me faut des lettres et divers papiers de Monsieur le duc Christoval voilà le texte et les modèles, je veux une imitation absolue dans le plus bref délai.
-Lafouraille, tu verras à faire mettre quelques lignes aux journaux sur l’arrivée…  Il lui parle à l’oreille.
- Cela fait partie de mon plan.
+Cela fait partie de mon plan.
 Eh bien ! êtes-vous content ? VAUTRIN.
 Vous ne nous en voulez plus ? VAUTRIN.
 Enfin, plus d’émeute, on sera sage.
 Soyez tranquille, on ne se bornera pas à être poli, on sera honnête.
 Allons, enfants, un peu de probité, beaucoup de tenue, et vous serez considérés.
-VAUTRIN , seul.
-Il suffit, pour les mener, de leur faire croire qu’ils ont de l’honneur et un avenir.
-Lafouraille et Philosophe me seront nécessaires dans le pays où je vais lui donner une famille.
 Ah ! cet amour a détruit la vie que je lui arrangeais.
-Je le voulais glorieux par lui-même, domptant, pour mon compte et par mes conseils, ce monde où il m’est interdit de rentrer.
-Raoul n’est pas seulement le fils de mon  esprit et de mon fiel, il est ma vengeance.
 On nous demande de nous repentir, et l’on nous refuse le pardon.
-Les hommes ont entre eux l’instinct des bêtes sauvages : une fois blessés, ils ne reviennent plus, et ils ont raison.
-D’ailleurs, réclamer la protection du monde quand on en a foulé toutes les lois aux pieds, c’est vouloir revenir sous un toit qu’on a ébranlé et qui vous écraserait.
 Et l’amour brise aujourd’hui cet immense échafaudage.
 il devait être grand, il ne sera plus qu’heureux.
-J’irai donc vivre dans un coin, au soleil de sa prospérité : son bonheur sera mon ouvrage.
-Voilà deux jours que je me demande s’il ne vaudrait pas mieux que la princesse d’Arjos mourût d’une petite fièvre… cérébrale.
 C’est inconcevable, tout ce que les femmes détruisent.
-VAUTRIN, LAFOURAILLE.
 Que me veut-on ? ne puis-je être un moment seul ? ai-je appelé ? LAFOURAILLE.
 La griffe de la justice va nous chatouiller les épaules.
 Quelle nouvelle sottise avez-vous faite ? LAFOURAILLE.
-Eh bien ! la petite Nini a laissé entrer un monsieur bien vêtu qui demande à vous parler.
-Buteux siffle l’air :  Où peut-on être mieux qu’au sein de sa famille ?  Ainsi c’est un limier.
- VAUTRIN.
-
 Ce n’est que ça, je sais ce que c’est, fais-le attendre.
-Tout le monde sous les armes ! Allons, plus de Vautrin, je vais me dessiner en baron de Vieux-Chêne.
-Ainzi barle l’y ton hallemant, travaille-le, enfin le grand jeu !
- Il sort.
-LAFOURAILLE, SAINT-CHARLES.
-Meinherr ti Vraissegasse n’y être basse, menne sire, hai zon haindandante, le paron de Fieil-Chêne, il être oguipai afecque ein hargidecde ki toite pattir eine crante odelle à nodre maidre.
+Ainzi barle l’y ton hallemant, travaille-le, enfin le grand jeu ! Il sort.
 Pardon, mon cher, vous dites ?… LAFOURAILLE.
 Ché tis paron de Fié-Chêne.
-Baron ! LAFOURAILLE.
 Fi ! fi ! SAINT-CHARLES.
 Il est baron ? LAFOURAILLE.
-Te Fieille-Chêne.
 Vous êtes Allemand ? LAFOURAILLE.
 Ti doute ! ti doute ! chez sis Halzazien, et il èdre ein crante tifferance.
 Lé Hâllemands d’Allemagne tisent ein follére, les Halzaziens tisent haine follèrre.
@@ -1034,160 +588,88 @@ Je connais cet homme-là.
 — Oh ! SAINT-CHARLES.
 Si Monsieur le baron de Vieux-Chêne est occupé, j’attendrai.
 LAFOURAILLE , à part.
-
-Ah ! Blondet, mon mignon, tu déguises ta figure et tu ne   déguises pas ta voix ! si tu te tires de nos pattes, tu auras de la chance.
- Haut.
- Ké toiche tire à mennesire pire l’encacher à guider zes okipazions ?
- Il fait un mouvement pour sortir.
 Attendez, mon cher, vous parlez allemand, je parle français, nous pourrions nous tromper.
- Il lui met une bourse dans la main.
- Avec ça il n’y aura plus d’équivoque.
-Ya, menner.
+Il lui met une bourse dans la main.
+Avec ça il n’y aura plus d’équivoque.
 Ce n’est qu’un à-compte.
 LAFOURAILLE , à part.
 Sur mes quatre-vingt mille francs.
- Haut.
- Et fous foulez que chespionne mon maidre ? SAINT-CHARLES.
+Et fous foulez que chespionne mon maidre ? SAINT-CHARLES.
 Non, mon cher, j’ai seulement besoin de quelques renseignements qui ne vous compromettront pas.
 Chapelle za haisbionner an pon allemante.
 Mais non, c’est… LAFOURAILLE.
 Et qué toische tire té fous à mennesir le paron ? SAINT-CHARLES.
 Annoncez Monsieur le chevalier de Saint-Charles.
-
-Ninis andantons.
-Ché fais fous l’amenaire ; mais nai lui tonnez boind te l’archant à stil indandante : il èdre plis honnède ké nous teusses.
- il lui donne un petit coup de coude.
+il lui donne un petit coup de coude.
 C’est-à-dire qu’il coûte davantage.
-
-Ia, meinherr.
- Il sort.
-SAINT-CHARLES , seul.
 Mal débuté ! dix louis dans l’eau.
-Espionner ?… appeler les choses  tout de suite par leur nom, c’est trop bête pour ne pas être très-spirituel.
-Si le prétendu intendant, car il n’y a plus d’intendant, si le baron est de la force de son valet, ce n’est guère que sur ce qu’ils voudront me cacher que je pourrai baser mes inductions.
 Ce salon est très-bien.
 Ni portrait du roi, ni souvenir impérial, allons ! ils n’encadrent pas leurs opinions.
 Les meubles disent-ils quelque chose ? non.
 C’est même encore trop neuf pour être déjà payé.
-Sans l’air que le portier a sifflé, et qui doit être un signal, je commencerais à croire aux Frescas.
 SAINT-CHARLES, VAUTRIN, LAFOURAILLE.
 VAUTRIN , à Lafouraille.
 C’est bien, laissez-nous.
- Lafouraille sort.
-À part.
- À nous deux, monsieur Blondet.
- Haut.
- Monsieur, je suis bien votre serviteur.
+À nous deux, monsieur Blondet.
+Monsieur, je suis bien votre serviteur.
 SAINT-CHARLES , à part.
 Un renard usé, c’est encore dangereux.
- Haut.
- Excusez-moi, monsieur le baron, si je vous dérange sans avoir l’honneur d’être connu de vous.
 Je devine, Monsieur, ce dont il s’agit.
 SAINT-CHARLES , à part.
-Bah ! VAUTRIN.
-Vous êtes architecte, et vous venez traiter avec moi ; mais j’ai déjà des offres superbes.
 Pardon, votre Allemand vous aura mal dit mon nom.
 Je suis le chevalier de Saint-Charles.
 VAUTRIN , levant ses lunettes.
-Oh ! mais attendez donc… nous sommes de vieilles   connaissances.
-Vous étiez au congrès de Vienne, et l’on vous nommait alors le comte de Gorcum… joli nom ! SAINT-CHARLES , à part.
-Enfonce-toi, mon vieux !  Haut.
- Vous y êtes donc allé aussi ? VAUTRIN.
+Oh ! mais attendez donc… nous sommes de vieilles connaissances.
+Enfonce-toi, mon vieux ! Haut.
+Vous y êtes donc allé aussi ? VAUTRIN.
 Parbleu ! Et je suis charmé de vous retrouver, car vous êtes un rusé compère.
 Les avez-vous roulés !… ah ! vous les avez roulés.
 SAINT-CHARLES , à part.
-Va pour Vienne !  Haut.
- Moi, monsieur le baron, je vous remets parfaitement à cette heure, et vous y avez bien habilement mené votre barque.
-Que voulez-vous ? nous avions les femmes pour nous ! Ah çà mais avez-vous encore votre belle Italienne ? SAINT-CHARLES.
+Va pour Vienne ! Haut.
 Vous la connaissez aussi ? c’est une femme d’une adresse… VAUTRIN.
 Eh ! mon cher, à qui le dites-vous ! Elle a voulu savoir qui j’étais.
 Alors, elle le sait.
 Eh bien, mon cher !… — Vous ne m’en voudrez pas ? — Elle n’a rien su.
-Eh bien ! baron, puisque nous sommes dans un moment de franchise, je vous avouerai de mon côté que votre admirable Polonaise… VAUTRIN.
 Aussi ! vous ? SAINT-CHARLES.
 Ma foi, oui ! VAUTRIN , riant.
-
-.
- Ah ! ah ! ah ! ah ! SAINT-CHARLES , riant.
-
-.
- Oh ! oh ! oh ! oh ! VAUTRIN.
-Nous pouvons en rire à notre aise, car je suppose que vous l’avez laissée là ? SAINT-CHARLES.
+Ah ! ah ! ah ! ah ! SAINT-CHARLES , riant.
+Oh ! oh ! oh ! oh ! VAUTRIN.
 Comme vous, tout de suite.
-Je vois que nous sommes revenus  tous deux manger notre argent à Paris, et nous avons bien fait ; mais il me semble, baron, que vous avez pris une position bien secondaire, et qui cependant attire l’attention.
 Ah ! je vous remercie, chevalier.
 J’espère que nous voici maintenant amis pour longtemps ? SAINT-CHARLES.
-Pour toujours.
-Vous pouvez m’être extrêmement utile, je puis vous servir énormément, entendons-nous ! Que je sache l’intérêt qui vous amène, et je vous dirai le mien.
 SAINT-CHARLES , à part.
-Ah çà, est-ce lui qu’on lâche sur moi, ou moi sur lui ? VAUTRIN , à part.
 Ça peut aller longtemps comme ça.
 Je vais commencer.
 Allons donc ! SAINT-CHARLES.
 Baron, de vous à moi, je vous admire.
 Quel éloge dans votre bouche ? SAINT-CHARLES.
-Non, d’honneur ! créer un de Frescas à la face de tout Paris, est une invention qui passe de mille piques celle de nos comtesses au congrès.
 Vous pêchez à la dot avec une rare audace.
 Je pêche à la dot ? SAINT-CHARLES.
-Mais, mon cher, vous seriez découvert, si ce n’était pas moi, votre ami, qu’on eût chargé de vous observer, car je vous suis détaché de très-haut.
-Comment aussi, permettez-moi de vous le reprocher, osez-vous disputer une héritière à la famille de Montsorel ? VAUTRIN.
-De hautes raisons l’empêchent encore pour vingt-quatre heures de déclarer sa famille, que je connais : leurs biens sont immenses, je les ai vus, j’en reviens.
-Ne vous emportez pas, respectable intendant ! cessons de nous entortiller de mensonges plus ou moins agréables, vous n’avez pas la prétention de m’en faire avaler davantage.
-Notre caisse se porte mieux que la vôtre, venez donc à nous ! Votre jeune homme est Frescas comme je suis chevalier et comme vous êtes baron.
-Vous l’avez rencontré sur les côtes d’Italie ; c’était alors un vagabond, aujourd’hui c’est un aventurier, voilà tout ! VAUTRIN.
-Vous avez raison, cessons de nous entortiller de mensonges plus ou moins agréables, disons-nous la vérité.
 Je vous la paye.
 Je vous la donne.
 Vous êtes une infâme canaille, mon cher.
- Bonjour, drôle ! Comment as-tu fait pour dévorer cette fortune si spirituellement acquise ? Elle était colossale ; où l’as-tu perdue ? SAINT-CHARLES.
 Dans les malheurs.
- VAUTRIN.
 Je comprends… Que veux-tu maintenant ? SAINT-CHARLES.
-Qui que tu sois, tape là, je te rends les armes, je n’ai pas de chance aujourd’hui : tu es le diable ou Jacques Collin.
 Je suis et ne veux être pour toi que le baron de Vieux-Chêne.
-Écoute bien mon ultimatum ; je puis te faire enterrer dans une de mes caves à l’instant, à la minute ; on ne te réclamera pas.
 C’est vrai.
-Ce serait prudent ! Veux-tu faire pour moi chez les Montsorel ce que les Montsorel t’envoient faire ici ? SAINT-CHARLES.
 Accepté ! Quels avantages ? VAUTRIN.
 Tout ce que tu prendras.
 Des deux côtés ? VAUTRIN.
-Soit ! Tu remettras à celui de mes gens qui t’accompagnera tous les actes qui concernent la famille de Langeac ; tu dois les avoir encore.
-Si Monsieur de Frescas épouse mademoiselle de Christoval, tu ne seras pas son intendant, mais tu recevras cent mille francs.
 Tu as affaire à des gens difficiles, ainsi marche droit, on ne te trahira pas.
-Marché conclu.
-Je ne le ratifierai qu’avec les pièces en main jusque-là, prends garde !  il sonne ; tous les gens paraissent.
- Reconduisez monsieur le chevalier avec tous les égards dus à son rang.
- À Saint-Charles, lui montrant Philosophe.
- Voici l’homme qui vous accompagnera.
- À Philosophe.
- Ne le quitte pas.
+Reconduisez monsieur le chevalier avec tous les égards dus à son rang.
+À Saint-Charles, lui montrant Philosophe.
+Voici l’homme qui vous accompagnera.
+Ne le quitte pas.
 SAINT-CHARLES , à part.
-Si je me tire sain et sauf de leurs griffes, je ferai main-basse sur ce nid de voleurs.
 Monsieur le chevalier, je vous suis tout acquis.
- VAUTRIN, LAFOURAILLE.
 Monsieur Vautrin ! VAUTRIN.
 Eh bien ! LAFOURAILLE.
 Vous le laissez aller ? VAUTRIN.
-S’il ne se croyait pas libre, que pourrions-nous savoir ? Mes instructions sont données : on va lui apprendre à ne pas mettre de cordes chez les gens à pendre.
-Quand Philosophe me rapportera les pièces que cet homme doit lui remettre, on me les donnera partout où je serai.
 Mais après, le laisserez-vous en vie ? VAUTRIN.
-Vous êtes toujours un peu trop vifs, mes mignons ne savez-vous donc pas combien les morts inquiètent les vivants ? Chut ! j’entends Raoul… laisse-nous.
 VAUTRIN, RAOUL DE FRESCAS.
-Vautrin rentre vers la fin du monologue : Raoul, qui est sur devant de la scène, ne le voit pas.
- Vautrin paraît avec une perruque noire, simple, un habit bleu, pantalon de couleur grisâtre, gilet ordinaire, noir, la tenue d’un agent de change.
- Oh je connaissais l’amour ; mais je ne savais pas  encore ce que c’était que la vengeance, et je ne voudrais pas mourir sans m’être vengé de ces deux Montsorel ! VAUTRIN.
-Il souffre.
 Raoul, qu’as-tu, mon enfant ? RAOUL.
 Eh ! je n’ai rien, laissez-moi.
-Tu me rebutes encore ? tu abuses du droit que tu as de maltraiter ton ami… À quoi pensais-tu là ? RAOUL.
-À rien.
-Ne plus jouer, ne plus rentrer ivre, quitter la ménagerie de l’Opéra, devenir un homme sérieux, étudier, vouloir une position… tu appelles cela dissimuler.
-Tu n’es encore qu’un pauvre diplomate, tu seras grand quand tu m’auras trompé.
-Raoul, tu as commis la faute contre laquelle je t’avais mis le plus en garde.
-Mon enfant, qui devait prendre les femmes pour ce qu’elles sont, des êtres sans conséquence, enfin s’en servir et non les servir, est devenu un berger de Monsieur de Florian ; mon Lovelace se heurte contre une Clarisse.
-Ah ! les jeunes gens doivent frapper longtemps sur ces idoles, avant d’en reconnaître le creux.
 Un sermon ? VAUTRIN.
- RAOUL.
 Voulez-vous savoir ce que je pensais ?… Mais non, ce serait accuser mon bienfaiteur.
 Ton bienfaiteur ! tu m’insultes.
 Parle, je comprends tout, même une lâcheté.
@@ -1196,141 +678,97 @@ C’est possible.
 Je vais tout te dire.
 Eh bien ! mon enfant, asseyons-nous.
 Tu as été cause de mon opprobre et de mon désespoir.
-Où ? quand ? Sang d’un homme ! qui t’a blessé ? qui t’a manqué ? Dis le lieu, nomme les gens… la colère de Vautrin passera par là ! RAOUL.
 Tu ne peux rien.
 Enfant, il y a deux espèces d’hommes qui peuvent tout.
 Et qui sont ? VAUTRIN.
-Les rois, qui sont ou doivent être au-dessus des lois ; et… tu vas te fâcher… les criminels, qui sont au-dessous.
 Et comme tu n’es pas roi… VAUTRIN.
 Eh bien ! je règne en dessous.
- RAOUL.
 Quelle affreuse plaisanterie me fais-tu là, Vautrin ? VAUTRIN.
-N’as-tu pas dit que le diable et Dieu s’étaient cotisés pour me fondre ? RAOUL.
 Ah ! Monsieur, vous me glacez.
 Rassieds-toi ! Du calme, mon enfant.
 Tu ne dois t’étonner de rien, sous peine d’être un homme ordinaire.
 On m’y demande une famille, et tu me défends toute réponse.
-Eh ! qui resterait froid devant la générosité de cette belle jeunesse ? Comme son courage s’allume ! Allez, tous les sentiments, au grand galop ! Oh tu es l’enfant d’une noble race.
 Eh bien ! Raoul, voilà ce que j’appelle des raisons.
-Ah ! VAUTRIN.
 Tu me demandes des comptes de tutelle ? les voici.
- RAOUL.
 Mais en ai-je le droit ? sans toi vivrais-je ? VAUTRIN.
 Tu n’avais rien, je t’ai fait riche.
 Tu ne savais rien, je t’ai donné une belle éducation.
 Oh ! je ne suis pas encore quitte envers toi.
-Un père… tous les pères donnent la vie à leurs enfants, moi, je te dois le bonheur… Mais est-ce bien là le motif de la mélancolie ? n’y a-t—il pas là… dans ce coffret…  Il montre un coffret.
- certain portrait et certaines lettres cachées.
+certain portrait et certaines lettres cachées.
 et que nous lisons avec des… Ah !… RAOUL.
 Vous avez… VAUTRIN.
 Oui, j’ai… Tu es donc touché à fond ? RAOUL.
-À fond.
 Imbécile ! L’amour vit de tromperie, et l’amitié de conﬁance.
 — Enﬁn, sois heureux à ta manière.
-Eh ! le puis-je ? Je me ferai soldat, et… partout où grondera le canon, je saurai conquérir un nom glorieux, ou mourir.
 Hein !… de quoi ? qu’est-ce que cet enfantillage ? RAOUL.
-Tu t’es fait trop vieux pour pouvoir comprendre, et ce n’est pas la peine de te le dire.
 Je te le dirai donc.
-Tu aimes Inès de Christoval, de son chef princesse d’Arjos, fille d’un duc banni par le roi Ferdinand, une Andalouse qui t’aime et qui me plaît, non comme femme.
 Ne me la ﬂétris pas de tes horribles sarcasmes.
- VAUTRIN.
 Allons, on mettra une sourdine à son esprit, et un crêpe à son chapeau.
-Car il est impossible à l’enfant jeté dans le ménage d’un pêcheur d’Alghero de devenir prince d’Arjos, et perdre Inès, c’est mourir de douleur.
-Douze cent mille livres de rente, le titre de prince, des grandesses et des économies, mon vieux, il ne faut pas voir cela trop en noir.
 Si tu m’aimes, pourquoi des plaisanteries quand je suis au désespoir ? VAUTRIN.
 Et d’où vient donc ton désespoir ? RAOUL.
-Le duc et le marquis m’ont tout à l’heure insulté chez eux, devant elle, et j’ai vu s’éteindre toutes mes espérances… On m’a fermé la porte de l’hôtel de Christoval.
 J’ignore encore pourquoi la duchesse de Montsorel m’a fait venir.
 Depuis deux jours elle me témoigne un intérêt que je ne puis m’expliquer.
 Et qu’allais-tu donc faire chez ton rival ? RAOUL.
 Mais tu sais donc tout ? VAUTRIN.
-Et bien d’autres choses Enfin, tu veux Inès de Christoval ? tu peux te passer cette fantaisie.
 Si tu te jouais de moi ? VAUTRIN.
-Raoul, on t’a fermé la porte de l’hôtel de Christoval… tu seras demain le prétendu de la princesse d’Arjos, et les Montsorel seront renvoyés, tout Montsorel qu’ils sont.
 Ma douleur vous rend fou.
 Toi, mon ami, mon père, ma famille ! VAUTRIN.
 Bien, bien, merci ! Oh ! tu me récompenses de tous mes sacrifices.
-Mais, hélas ! une fois riche, une fois grand d’Espagne, une fois que tu feras partie de ce monde, tu m’oublieras : en changeant d’air, on change d’idées tu me mépriseras, et… tu auras raison.
-Est-ce un génie sorti des  Mille et une Nuits  ? Je me demande si j’existe.
+Est-ce un génie sorti des Mille et une Nuits ? Je me demande si j’existe.
 Mais, mon ami, mon protecteur, il me faut une famille.
-Eh ! on te la fabrique en ce moment, ta famille ! Le Louvre ne contiendrait pas les portraits de tes aïeux, ils encombrent les quais.
 Tu rallumes toutes mes espérances.
 Tu veux Inès ? RAOUL.
 Par tous les moyens possibles.
 Tu ne recules devant rien ? la magie et l’enfer ne t’effrayent pas ? RAOUL.
 Va pour l’enfer, s’il me donne le paradis.
-L’enfer ! c’est le monde des bagues et des forçats décorés par la justice et par la gendarmerie de marques et de menottes, conduits où ils vont par la misère, et qui ne peuvent jamais en sortir.
 Le paradis, c’est un bel hôtel, de riches voitures, des femmes délicieuses, des honneurs.
-Dans ce monde, il y a deux mondes ; je te jette dans le plus beau, je reste dans le plus laid ; et si tu ne m’oublies pas, je te tiens quitte.
 Vous me donnez le frisson, et vous venez de faire passer devant moi le délire.
 VAUTRIN , lui frappant sur l’épaule.
-Tu es un enfant !  À part.
- Ne lui en ai-je pas trop dit ?  Il sonne.
-  RAOUL , à part.
+Tu es un enfant ! À part.
+Ne lui en ai-je pas trop dit ? Il sonne.
+ RAOUL , à part.
 Que dis-tu là ? RAOUL.
 Je dis que je n’accepte rien, si mon honneur… VAUTRIN.
-On en aura soin, de ton honneur ! N’est-ce pas moi qui l’ai développé ? A-t-il jamais été compromis ? RAOUL.
 Tu m’expliqueras.
-Rien ? VAUTRIN.
-N’as-tu pas dit, par tous les moyens possibles ?… Inès une fois à toi, qu’importe ce que j’aurai fait ou ce que je suis ? Tu emmèneras Inès, tu voyageras.
 La famille de Christoval protégera le prince d’Arjos.
- À Lafouraille.
- Frappez des bouteilles de vin de Champagne, votre maître se marie, il va dire adieu à la vie de garçon, ses amis sont invités, allez chercher ses maîtresses, s’il lui en reste ! deux y a noce pour tout le monde.
 Branle-bas général, et la grande tenue.
 Son intrépidité m’épouvante ; mais il a toujours raison.
 À table ! RAOUL.
 À table ! VAUTRIN.
-N’aie pas le bonheur triste, viens rire une dernière fois dans toute ta liberté ; je ne te ferai servir que des vins d’Espagne, c’est gentil.
 FIN DU TROISIÈME ACTE.
 La scène est à l’hôtel de Christoval.
 LA DUCHESSE DE CHRISTOVAL, INÈS.
-Si la naissance de Monsieur de Frescas est obscure, je saurai, ma mère, renoncer à lui ; mais, de votre côté, soyez assez bonne pour ne plus insister sur mon mariage avec le marquis de Montsorel.
 LA DUCHESSE DE CHRISTOVAL.
-Si je repousse cette alliance insensée, je ne souffrirai pas non plus que vous soyez sacrifiée à l’ambition d’une famille.
-Insensée ? qui le sait ? Vous le croyez un aventurier, je le crois gentilhomme, et nous n’avons aucune preuve à nous opposer.
 LA DUCHESSE DE CHRISTOVAL.
 Les preuves ne se feront pas attendre.
 Les Montsorel sont trop intéressés à dévoiler sa honte.
-Et lui ! m’aime trop pour tarder à vous prouver qu’il est digne de nous.
 Sa conduite, hier, n’a-t-elle pas été d’une noblesse parfaite ? LA DUCHESSE DE CHRISTOVAL.
-Mais, chère folle, ton bonheur n’est-il pas le mien ? Que Raoul satisfasse le monde, et je suis prête à lutter pour vous contre les Montsorel à la cour d’Espagne.
-Ah ! ma mère, vous l’aimez donc aussi ?  LA DUCHESSE DE CHRISTOVAL.
+Ah ! ma mère, vous l’aimez donc aussi ? LA DUCHESSE DE CHRISTOVAL.
 Ne l’as-tu pas choisi ? les mêmes , UN VALET, puis VAUTRIN.
 Le valet apporte a la duchesse une carte enveloppée et cachetée.
 LA DUCHESSE DE CHRISTOVAL , à Inès.
 Le général Crustamente, envoyé secret de Sa Majesté don Augustin un er , empereur du Mexique.
 Qu’est-ce que cela veut dire ? INÈS.
-Du Mexique ! il nous apporte sans doute des nouvelles de mon père ! LA DUCHESSE DE CHRISTOVAL , au valet.
-Faites entrer.
-Est-ce bien à madame la duchesse de Christoval que j’ai l’honneur de parler ? LA DUCHESSE DE CHRISTOVAL.
-Oui, Monsieur.
 Et Mademoiselle ? LA DUCHESSE DE CHRISTOVAL.
 Ma fille, Monsieur.
 Mademoiselle est la señora Inès, de son chef princesse d’Arjos.
 En vous voyant, l’idolâtrie de Monsieur de Christoval pour sa fille se comprend parfaitement.
-Mesdames, avant tout, je demande une discrétion absolue : ma mission est déjà difficile, et si l’on soupçonnait qu’il pût exister des relations entre vous et moi, nous serions tous compromis.
 LA DUCHESSE DE CHRISTOVAL.
 Je sous promets le secret et sur votre nom et sur votre visite.
 Général, il s’agit de mon père, vous me permettez de rester.
- VAUTRIN.
 Vous êtes nobles et Espagnoles, je compte sur votre parole.
 LA DUCHESSE DE CHRISTOVAL.
 Je vais recommander à mes gens de se taire.
 Pas un mot ; réclamer leur silence, c’est souvent provoquer leur indiscrétion.
 Je réponds des miens.
-J’avais pris l’engagement de vous donner à mon arrivée des nouvelles de Monsieur de Christoval, et voici ma première visite.
 LA DUCHESSE DE CHRISTOVAL.
 Parlez-nous promptement de mon mari, général ! Où se trouve-t-il ? VAUTRIN.
-Le Mexique, Madame, est devenu ce qu’il devait être tôt ou tard, un État indépendant de l’Espagne.
-Au moment où je parle, il n’y a plus un seul Espagnol, il ne s’y trouve plus que des Mexicains.
 LA DUCHESSE DE CHRISTOVAL.
 En ce moment ? VAUTRIN.
 Tout se fait en un moment pour qui ne voit pas les causes.
-Que voulez-vous ? Le Mexique éprouvait le besoin de son indépendance, il s’est donné un empereur ! Cela peut surprendre encore, rien cependant de plus naturel : partout les principes peuvent attendre, partout les hommes sont pressés.
 LA DUCHESSE DE CHRISTOVAL.
 Qu’est-il donc arrivé à Monsieur de Christoval ? VAUTRIN.
 Rassurez-vous, Madame, il n’est pas empereur.
-Monsieur le duc a failli, par une résistance désespérée, maintenir le royaume sous l’obéissance de Ferdinand sept.
 LA DUCHESSE DE CHRISTOVAL.
 Mais, Monsieur, mon mari n’est pas militaire.
 Non, sans doute ; mais c’est un habile courtisan, et c’était bien joué.
@@ -1339,293 +777,181 @@ Ferdinand ne pouvait se dispenser de le nommer vice-roi.
 LA DUCHESSE DE CHRISTOVAL.
 Dans quel siècle étrange vivons-nous ? VAUTRIN.
 Les révolutions se succèdent et ne se ressemblent pas.
-Partout  on imite la France.
+Partout on imite la France.
 Mais, je vous en supplie, ne parlons pas politique, c’est un terrain brûlant.
 Mon père, général, avait-il reçu nos lettres ? VAUTRIN.
-Dans une pareille bagarre, les lettres peuvent bien se perdre, quand les couronnes ne se retrouvent pas.
 LA DUCHESSE DE CHRISTOVAL.
 Et qu’est devenu Monsieur de Christoval ? VAUTRIN.
-Le viel Amoagos, qui là-bas exerce une énorme influence, a sauvé votre mari, au moment où j’allais le faire fusiller… LA DUCHESSE DE CHRISTOVAL et SA FILLE.
-Ah ! VAUTRIN.
 C’est ainsi que nous nous sommes connus.
 LA DUCHESSE DE CHRISTOVAL.
 Vous, général ? INÈS.
 Mon père, Monsieur ! VAUTRIN.
-Eh ! Mesdames, j’étais ou pendu par lui comme un rebelle, ou l’un des héros d’une nation délivrée, et me voici ! En arrivant à l’improviste à la tête des ouvriers de ses mines, Amoagos décidait la question.
-Le salut de son ami le duc de Christoval a été le prix de son concours.
-Entre nous, l’empereur Iturbide, mon maître, n’est qu’un nom : l’avenir du Mexique est tout entier dans le parti du vieil Amoagos.
 LA DUCHESSE DE CHRISTOVAL.
-Quel est donc, Monsieur, cet Amoagos qui, selon vous, est l’arbitre des destinées du Mexique ? VAUTRIN.
-Vous ne le connaissez pas ici ? Vraiment non ? Je ne sais pas ce qui pourra souder l’ancien monde au nouveau ? Oh ! ce sera la vapeur.
-Exploitez donc des mines d’or ! soyez don Inigo, Jan Varaco Cardaval de los Amoagos, las Frescas y Peral… mais dans la kirielle de nos noms espagnols, vous le savez, nous n’en disons jamais qu’un.
 Je m’appelle simplement Crustamente.
 Enfin, soyez le futur président de la république mexicaine, et la France vous ignore.
-Mesdames, le vieil Amoagos a reçu là-bas Monsieur de Christoval,  comme un vieux gentilhomme d’Aragon qu’il est, devait accueillir un grand d’Espagne banni pour avoir été séduit par le beau nom de Napoléon.
 N’avez-vous pas dit Frescas dans les noms ? VAUTRIN.
-Oui, Frescas est le nom de la seconde mine exploitée par don Cardaval ; mais vous allez connaître toutes les obligations de Monsieur le duc envers son hôte par les lettres que je vous apporte.
 Elles sont dans mon portefeuille.
 J’ai besoin de mon portefeuille.
- À part.
- Elles ont assez bien mordu à mon vieil Amoagos.
- Haut.
- Permettez-moi de demander un de mes gens ?  La duchesse ait signe à Inès de sonner.
+Elles ont assez bien mordu à mon vieil Amoagos.
+Permettez-moi de demander un de mes gens ? La duchesse ait signe à Inès de sonner.
 À la duchesse.
- Accordez-moi, Madame, un moment d’entretien.
- À un valet.
- Dites à mon nègre ; mais non, il ne comprend que son affreux patois, faites-lui signe de venir.
+Accordez-moi, Madame, un moment d’entretien.
+À un valet.
 LA DUCHESSE DE CHRISTOVAL.
 Mon enfant, vous me laisserez seule un moment.
- Lafouraille parait.
 VAUTRIN , à Lafouraille.
 Jiji roro flouri.
 INÈS , à Vautrin.
-La confiance de mon père suffirait à vous mériter un bon accueil ; mais, général, votre empressement à dissiper nos inquiétudes vous vaut ma reconnaissance.
-De la re… connais… sance ! Ah ! señora, si nous comptions, je me croirais le débiteur de votre illustre père, après avoir eu le bonheur de vous voir.
 Caracas, y mouli joro, fistas, ip souri.
-Souri joro.
 VAUTRIN , aux dames.
 Mesdames, voici vos lettres.
- À part à Lafouraille.
- Circule de l’antichambre à la cour, bouche close, l’oreille ouverte, les mains au repos, l’œil au guet, et du nez.
- LAFOURAILLE.
+À part à Lafouraille.
 Ia, mein herr.
 VAUTRIN , en colère.
 Souri joro, fistas.
- Bas.
- Voici les papiers de Langeac.
-Je ne suis pas pour l’émancipation des nègres quand il n’y en aura plus, nous serons forcés d’en faire avec les blancs.
+Voici les papiers de Langeac.
 INÈS , à sa mère.
-
 Permettez-moi, ma mère, d’aller lire la lettre de mon père.
- À Vautrin.
- Général…
- Elle salue.
-Elle est charmante, puisse-t-elle être heureuse ! Inès sort, sa mère la conduit en faisant quelques pas avec elle.
+Général… Elle salue.
 LA DUCHESSE DE CHRISTOVAL, VAUTRIN.
 VAUTRIN , à part.
-Si le Mexique se voyait représenter comme ça, il serait capable de me condamner aux ambassades à perpétuité.
- Haut.
- Oh ! excusez-moi, Madame, j’ai tant de sujets de réflexions ! LA DUCHESSE.
+Oh ! excusez-moi, Madame, j’ai tant de sujets de réflexions ! LA DUCHESSE.
 Si les préoccupations sont permises, n’est-ce pas à vous autres diplomates ? VAUTRIN.
 Aux diplomates par état, oui ; mais je compte rester militaire et franc.
 Je veux réussir par la franchise.
 Nous voilà seuls, causons, car j’ai plus d’une mission délicate.
-LA DUCHESSE.
 Auriez-vous des nouvelles que ma fille ne devrait pas entendre ? VAUTRIN.
-Allons droit au fait : la señora est jeune et belle, elle est riche et noble ; elle peut avoir quatre fois plus de prétendants que toute autre.
 On se dispute sa main.
-Eh bien ! son père me charge de savoir si elle a plus particulièrement remarqué quelqu’un.
- LA DUCHESSE.
 Avec un homme franc, général, je serai franche.
 L’étrangeté de votre demande ne me permet pas d’y répondre.
-Ah ! prenez garde ! Pour ne jamais nous tromper, nous autres diplomates, nous interprétons toujours le silence en mauvaise part.
-LA DUCHESSE.
 Monsieur, vous oubliez qu’il s’agit d’Inès de Christoval.
 Elle n’aime personne.
 Eh bien ! elle pourra donc obéir aux vœux de son père.
-LA DUCHESSE.
 Comment, Monsieur de Christoval aurait disposé de sa fille ? VAUTRIN.
 Vous le voyez ? votre inquiétude vous trahit.
-Elle a donc fait un choix ! Eh bien ! maintenant je tremble autant de vous interroger que vous de répondre.
-Ah ! si le jeune homme aimé par votre fille était un étranger, riche, en apparence sans famille, et qui cachât son pays… LA DUCHESSE.
-Ce nom de Frescas, dit par vous, est celui que prend un jeune homme qui recherche Inès.
 Se nommerait-il aussi Raoul ? LA DUCHESSE.
 Oui, Raoul de Frescas.
 Un jeune homme fin, spirituel, élégant, vingt-trois ans.
-LA DUCHESSE.
 Doué de ces manières qui ne s’acquièrent pas.
-Romanesque au point d’avoir eu l’ambition d’être aimé pour lui-même, en dépit d’une immense fortune ; il a voulu la passion dans le mariage, une folie ! Le jeune Amoagos, car c’est lui, Madame… LA DUCHESSE.
 Mais ce nom de Raoul n’est pas… VAUTRIN.
 Mexicain, vous avez raison.
-Il lui a été donné par sa mère, une Française, une émigrée, une demoiselle de Granville, venue de Saint-Domingue.
-L’imprudent est-il aimé ?  LA DUCHESSE.
+L’imprudent est-il aimé ? LA DUCHESSE.
 Préféré à tous ! VAUTRIN.
-Mais ouvrez cette lettre, lisez-la, Madame ; et vous verrez que j’ai pleins pouvoir des seigneurs Amoagos et Christoval pour conclure ce mariage.
-LA DUCHESSE.
-
 Oh ! laissez-moi, Monsieur, rappeler Inès.
- Elle sort.
-VAUTRIN , seul.
 Le majordome est à moi, les véritables lettres, s’il en vient, me seront remises.
 Raoul est trop fier pour revenir ici ; d’ailleurs, il m’a promis d’attendre.
-Me voilà maître du terrain ; Raoul, une fois prince, ne manquera pas d’aïeux : le Mexique et moi nous sommes là.
 VAUTRIN, LA DUCHESSE DE CHRISTOVAL, INÈS.
 LA DUCHESSE , à sa fille.
-
 Mon enfant, vous avez des remercîments à faire au général.
- Elle lit sa lettre pendant une partie de la scène.
-Des remercîments, Monsieur ? Et mon père me dit que dans le nombre de vos missions vous avez celle de me marier avec un seigneur Amoagos, sans tenir compte de mes inclinations.
+Elle lit sa lettre pendant une partie de la scène.
 Rassurez-vous, il se nomme ici Raoul de Frescas.
 Raoul de Frescas, lui ! Mais, alors, pourquoi son silence obstiné ? VAUTRIN.
-Faut-il que le vieux soldat vous explique le cœur du jeune homme ? Il voulait de l’amour, et non de l’obéissance ; il voulait… INÈS.
 Ah ! général, je le punirai de sa modestie et de sa défiance.
- Hier, il aimait mieux dévorer une offense que de révéler le nom de son père.
-Mais, Mademoiselle, il ignore encore si le nom de son père est celui d’un coupable de haute trahison ou celui d’un libérateur de l’Amérique.
+Hier, il aimait mieux dévorer une offense que de révéler le nom de son père.
 Ah ma mère, entendez-vous ? VAUTRIN , à part.
 Comme elle l’aime ! Pauvre fille, ça ne demande qu’à être abusé.
-LA DUCHESSE.
 La lettre de mon mari vous donne, en effet, général, de pleins pouvoirs.
 J’ai les actes authentiques et les papiers de famille… UN VALET , entrant.
 Madame la duchesse veut-elle recevoir Monsieur de Frescas ? VAUTRIN , à part.
 Raoul ici ! LA DUCHESSE , au valet.
-Faites entrer.
 Bon ! le malade vient tuer le médecin.
-LA DUCHESSE.
-
 Inès, vous pouvez recevoir seule Monsieur de Frescas, il est agréé par votre père.
- Inès baise la main de sa mère.
+Inès baise la main de sa mère.
 les mêmes , RAOUL.
 Raoul salue les deux dames, Vautrin va vers lui.
 VAUTRIN , à Raoul.
 Don Raoul de Cardaval.
-Vautrin ! VAUTRIN.
 Non, le général Crustamente.
-Crustamente !  VAUTRIN.
 Envoyé du Mexique.
-Retiens bien le nom de ton père : Amoagos, un seigneur d’Aragon, un ami du duc de Christoval.
 Ta mère est morte ; j’apporte les titres, les papiers de famille authentiques, reconnus.
 Inès est à toi.
 Et vous voulez que je consente à de pareilles infamies ? jamais ! VAUTRIN , aux deux femmes.
-Il est stupéfait de ce que je lui apprends, il ne s’attendait pas à un si prompt dénoûment.
 Si la vérité me tue, tes mensonges me déshonorent, j’aime mieux mourir.
-Tu voulais Inès par tous les moyens possibles, et tu recules devant un innocent stratagème ? RAOUL , exaspéré.
-Mesdames !… VAUTRIN.
 La joie le transporte.
- À Raoul.
- Parler, c’est perdre Inès et me livrer à la justice : tu le peux, ma vie est à toi.
 Ô Vautrin ! dans quel abîme m’as-tu plongé ? VAUTRIN.
 Je t’ai fait prince, n’oublie pas que tu es au comble du bonheur.
- À part.
- Il ira.
-INÈS, près de la porte où elle a quitté sa mère, RAOUL, de l’autre côté du théâtre.
 RAOUL , à part.
-L’honneur veut que je parle, la reconnaissance veut que je me taise ; eh bien ! j’accepte mon rôle d’homme heureux, jusqu’à ce qu’il ne soit plus en péril ; mais j’écrirai ce soir et Inès saura qui je suis.
 Vautrin, un pareil sacrifice m’acquitte bien envers toi : nos liens sont rompus.
 J’irai chercher je ne sais où la mort du soldat.
- INÈS , s’approchant après avoir examiné.
-Mon père et le vôtre sont amis ; ils consentent à notre mariage, nous nous aimons comme s’ils s’y opposaient, et vous voilà rêveur, presque triste ! RAOUL.
+INÈS , s’approchant après avoir examiné.
 Vous avez votre raison, et moi, je n’ai plus la mienne.
 Au moment où vous ne voyez plus d’obstacle, il peut en surgir d’insurmontables.
 Raoul, quelles inquiétudes jetez-vous dans notre bonheur ! RAOUL.
-Notre bonheur !  À part.
- Il m’est impossible de feindre.
- Haut.
- Au nom de notre amour, je vous demande de croire en ma loyauté.
-Ma confiance en vous n’était-elle pas infinie ? Et le général a tout justifié, jusqu’à votre silence chez les Montsorel.
+Notre bonheur ! À part.
+Il m’est impossible de feindre.
+Au nom de notre amour, je vous demande de croire en ma loyauté.
 Aussi vous pardonné-je les petits chagrins que vous étiez obligé de me causer.
 RAOUL , à part.
-Ah ! Vautrin ! je me livre à toi !  Haut.
- Inès, vous ne savez pas quelle est la puissance de vos paroles : elles m’ont donné la force de supporter le ravissement que vous me causez.
+Ah ! Vautrin ! je me livre à toi ! Haut.
 Eh bien ! oui, soyons heureux ! les mêmes , LE MARQUIS DE MONTSOREL.
 LE VALET , annonçant.
 Monsieur le marquis de Montsorel.
 RAOUL , à part.
 Ah ! ce nom me rappelle à moi-même.
- À Inès.
- Quoi qu’il arrive, Inès, attendez pour juger ma conduite l’heure où je vous la soumettrai moi-même, et pensez que j’obéis en ce moment à une invincible fatalité.
 Raoul, je ne vous comprends plus mais je me fie toujours à vous.
 LE MARQUIS , à part.
-Encore ce petit monsieur !  Il salue Inès.
- Je vous croyais avec votre mère, Mademoiselle, et j’étais loin de penser que ma visite pût être importune.
-Faites-moi la grâce de m’excuser…  INÈS.
-Restez, je vous prie il n’y a plus d’étranger ici, monsieur Raoul est agréé par ma famille.
-LE MARQUIS.
+Encore ce petit monsieur ! Il salue Inès.
+Faites-moi la grâce de m’excuser… INÈS.
 Monsieur Raoul de Frescas veut-il alors agréer mes compliments ? RAOUL.
-Vos compliments ? je les accepte  Il lui tend la main et le marquis la lui serre.
- d’aussi bon cœur que vous me les offrez.
-LE MARQUIS.
+d’aussi bon cœur que vous me les offrez.
 Nous nous entendons.
 INÈS , à Raoul.
 Faites en sorte qu’il parte, et restez.
- Au marquis.
- Ma mère a besoin de moi pour quelques instants, j’espère vous la ramener.
+Ma mère a besoin de moi pour quelques instants, j’espère vous la ramener.
 LE MARQUIS, RAOUL, puis VAUTRIN.
-LE MARQUIS.
 Acceptez-vous une rencontre à mort et sans témoins ? RAOUL.
 Sans témoins, Monsieur ? LE MARQUIS.
 Ne savez-vous pas qu’un de nous est de trop en ce monde ? RAOUL.
-Votre famille est puissante en cas de succès, votre proposition m’expose à sa vengeance, permettez-moi de ne pas échanger l’hôtel de Christoval contre une prison,  Vautrin paraît.
- À mort, soit ! mais avec des témoins.
-LE MARQUIS.
+À mort, soit ! mais avec des témoins.
 Les vôtres n’arrêteront point le combat ? RAOUL.
 Nous avons chacun une garantie dans notre haine.
 VAUTRIN , à part.
-Ah çà, mais nous trébucherons donc toujours dans le succès ! À mort ? cet enfant joue sa vie comme si elle lui appartenait.
-LE MARQUIS.
-Eh bien ! Monsieur, demain à huit heures, sur la terrasse de Saint-Germain, nous irons dans la forêt.
- VAUTRIN.
 Vous n’irez pas.
- À Raoul.
- Un duel ? la partie est-elle égale ? Monsieur est-il comme vous le fils unique d’une grande maison ? Votre père, don Inigo, Juan, Varago des los Amoagos de Cardaval, las Frescas, y Péral vous le permettrait-il, don Raoul ? LE MARQUIS.
-Je consentais à me battre avec un inconnu, mais la grande maison de Monsieur ne gâte rien à l’affaire.
 RAOUL , au marquis.
-Il me semble que maintenant, Monsieur, nous pouvons nous traiter avec courtoisie et en gens qui s’estiment assez l’un l’autre pour se haïr et se tuer.
 LE MARQUIS , regardant Vautrin.
 Peut-on savoir le nom de votre mentor ? VAUTRIN.
 À qui aurais-je l’honneur de répondre ? LE MARQUIS.
 Au marquis de Montsorel, monsieur.
 VAUTRIN , le toisant.
-J’ai le droit de me taire ; mais je vous dirai mon nom, une seule fois, bientôt, et vous ne le répéterez pas.
 Je serai le témoin de Monsieur de Frescas.
- À part.
- Et Buteux sera l’autre.
+Et Buteux sera l’autre.
 RAOUL, VAUTRIN, LE MARQUIS, LA DUCHESSE DE MONTSOREL ; puis LA DUCHESSE DE CHRISTOVAL, INÈS.
 UN VALET , annonçant.
 Madame la duchesse de Montsorel, VAUTRIN , à Raoul.
 Pas d’enfantillage : de l’aplomb et au pas ! je suis devant l’ennemi.
-LE MARQUIS.
 Ah ! ma mère, venez-vous assister à ma défaite ? Tout est conclu.
 La famille de Christoval se jouait de nous.
-Monsieur  Il montre Vautrin  apporte les pouvoirs des deux pères.
+Monsieur Il montre Vautrin apporte les pouvoirs des deux pères.
 LA DUCHESSE DE MONTSOREL.
-Raoul a une famille ?  Madame de Christoval et sa fille entrent et saluent la     duchesse.
+Raoul a une famille ? Madame de Christoval et sa fille entrent et saluent la   duchesse.
 À madame de Christoval.
- Madame, mon fils vient de m’apprendre l’événement inattendu qui renverse toutes nos espérances.
+Madame, mon fils vient de m’apprendre l’événement inattendu qui renverse toutes nos espérances.
 LA DUCHESSE DE CHRISTOVAL.
-L’intérêt que vous paraissez témoigner à Monsieur de Frescas s’est donc affaibli depuis hier ? LA DUCHESSE DE MONTSOREL , examinant Vautrin.
-Et c’est grâce à monsieur que tous les doutes ont été levés ? Qui est-il ? LA DUCHESSE DE CHRISTOVAL.
 Le représentant du père de Monsieur de Frescas, don Amoagos, et de Monsieur de Christoval.
-Il nous a donné les nouvelles que nous attendions, et nous a remis enfin les lettres de mon mari.
 VAUTRIN , à part.
 Ah çà, vais-je poser longtemps comme ça ? LA DUCHESSE DE MONTSOREL , à Vautrin.
 Monsieur connait sans doute depuis longtemps la famille de Monsieur de Frescas ? VAUTRIN.
-Elle est très-restreinte un père, un oncle…  À Raoul.
- Vous n’avez même pas la douloureuse consolation de vous rappeler votre mère.
- À la duchesse.
- Elle est morte au Mexique peu de temps après son mariage.
+Elle est très-restreinte un père, un oncle… À Raoul.
+Vous n’avez même pas la douloureuse consolation de vous rappeler votre mère.
+À la duchesse.
+Elle est morte au Mexique peu de temps après son mariage.
 LA DUCHESSE DE MONTSOREL.
 Monsieur est né au Mexique ? VAUTRIN.
 En plein Mexique.
 LA DUCHESSE DE MONTSOREL , à la duchesse de Christoval.
 Ma chère, on nous trompe.
- À Raoul.
- Monsieur, vous n’êtes pas venu du Mexique, votre mère n’est pas morte, et vous avez été dès votre enfance abandonné, n’est-ce pas ? RAOUL.
 Ma mère vivrait ! VAUTRIN.
-Pardon, Madame, j’arrive moi, et si vous souhaitez apprendre des secrets, je me fais fort de vous en révéler qui vous dispenseront d’interroger monsieur.
- À Raoul.
- Pas un mot.
+Pas un mot.
 LA DUCHESSE DE MONTSOREL.
-C’est lui ! Et cet homme en fait l’enjeu de quelque sinistre partie…  Elle va au marquis.
- Mon fils…  LE MARQUIS.
-Vous les avez troublés, ma mère, et nous avons sur cet homme  il montre Vautrin  la même pensée ; mais une femme a seule le droit de dire tout ce qui pourra faire découvrir cette horrible imposture.
+Mon fils… LE MARQUIS.
 LA DUCHESSE DE MONTSOREL.
-Horrible ! oui.
-Mais laissez-nous.
-LE MARQUIS.
-Mesdames, malgré tout ce qui s’élève contre moi, ne m’en veuillez pas si j’espère encore.
- À Vautrin.
- Entre la coupe et les lèvres il y a souvent… VAUTRIN.
-
-La mort !
- Le marquis et Raoul se saluent, et le marquis sort.
+Entre la coupe et les lèvres il y a souvent… VAUTRIN.
+La mort ! Le marquis et Raoul se saluent, et le marquis sort.
 LA DUCHESSE DE MONTSOREL , à madame de Christoval.
-Chère duchesse, je vous en supplie, renvoyez Inès, nous ne  saurions  nous expliquer en sa présence.
 LA DUCHESSE DE CHRISTOVAL , à sa fille, en lui faisant signe de sortir.
 Je vous rejoins dans un moment.
 RAOUL , à Inès, en lui baisant la main.
-
-C’est peut-être un éternel adieu !
- Inès sort.
+C’est peut-être un éternel adieu ! Inès sort.
 LA DUCHESSE DE CHRISTOVAL, LA DUCHESSE DE MONTSOREL, RAOUL, VAUTRIN.
 VAUTRIN , à la duchesse de Christoval.
 Ne soupçonnez-vous donc pas quel intérêt amène ici madame ? LA DUCHESSE DE CHRISTOVAL.
@@ -1636,78 +962,49 @@ J’étouffe dans cette atmosphère de mensonge.
 VAUTRIN , à Raoul.
 Un seul moment encore.
 LA DUCHESSE DE MONTSOREL.
-Madame, je sais tout ce que ma conduite a d’étrange en cet instant, et je n’essayerai pas de la justifier.
-Il est des devoirs   sacrés devant lesquels s’abaissent toutes les convenances et même les lois du monde.
-Quel est le caractère ? quels sont donc les pouvoirs de monsieur ? LA DUCHESSE DE CHRISTOVAL , à qui Vautrin a fait un signe.
 Il m’est interdit de vous répondre.
 LA DUCHESSE DE MONTSOREL.
-Eh bien ! je vous le dirai : monsieur est ou le complice ou la dupe d’une imposture dont nous sommes les victimes.
-En dépit des lettres, en dépit des actes qu’il vous apporte, tout ce qui donne à Raoul un nom et une famille est faux.
-Madame, en vérité, je ne sais de quel droit vous vous jetez ainsi dans ma vie ? LA DUCHESSE DE CHRISTOVAL.
 Madame, vous avez sagement agi en renvoyant ma fille et le marquis.
 VAUTRIN , à Raoul.
-De quel droit ?  À madame de Montsorel.
- Mais vous ne devez pas l’avouer, et nous le devinons.
-Je conçois trop bien, Madame, la douleur que vous cause ce mariage pour m’offenser de vos soupçons sur mon caractère et de vous voir contredire des actes authentiques, que madame de Christoval et moi nous sommes tenus de produire.
- À part.
- Je vais l’asphyxier.
- Il la prend à part.
- Avant d’être Mexicain, j’étais Espagnol, je sais la cause de votre haine contre Albert ; et quant à l’intérêt qui vous amène ici, nous en causerons bientôt chez votre directeur.
+De quel droit ? À madame de Montsorel.
+Mais vous ne devez pas l’avouer, et nous le devinons.
+Je vais l’asphyxier.
+Il la prend à part.
 LA DUCHESSE DE MONTSOREL.
 Vous sauriez ? VAUTRIN.
- À part.
- Il y a quelque chose.
- Haut.
- Allez voir les actes.
+Il y a quelque chose.
+Allez voir les actes.
 LA DUCHESSE DE CHRISTOVAL.
 Eh bien ! ma chère ? LA DUCHESSE DE MONTSOREL.
 Allons retrouver Inès.
-Et, je vous en conjure, examinons bien les pièces, c’est la prière d’une mère au désespoir.
 LA DUCHESSE DE CHRISTOVAL.
 Une mère au désespoir ! LA DUCHESSE DE MONTSOREL , regardant Raoul et Vautrin.
-Comment cet homme a-t-il mon secret et lient-il mon fils ?  LA DUCHESSE DE CHRISTOVAL.
+Comment cet homme a-t-il mon secret et lient-il mon fils ? LA DUCHESSE DE CHRISTOVAL.
 Venez, Madame ! RAOUL, VAUTRIN, LAFOURAILLE.
 J’ai cru que notre étoile pâlissait, mais elle brille.
-Suis-je assez humilié ? Je n’avais au monde que mon honneur, je te l’ai livré.
 Ta puissance est infernale, je le vois.
-Mais à compter de cette heure, je m’y soustrais, tu n’es plus en danger, adieu.
 LAFOURAILLE , qui est entré pendant que Raoul parlait.
-Personne ! bon, il était temps ! Ah ! Monsieur, Philosophe est en bas, tout est perdu ! l’hôtel est envahi par la police.
 Un autre se lasserait ! Voyons ? Personne n’est pris ? LAFOURAILLE.
 Oh ! nous avons de l’usage.
 Philosophe est en bas, mais en quoi ? LAFOURAILLE.
-En chasseur.
 Bien, il montera derrière la voiture.
-Je vous donnerai mes ordres pour coffrer le prince d’Arjos, qui croit se battre demain.
 Vous êtes menacé, je le vois, je ne vous quitte plus et veux savoir… VAUTRIN.
 Ne te mêle pas de ton salut.
 Je réponds de toi, malgré toi.
 Oh ! je connais mon lendemain.
 Et moi aussi.
-Ça chauffe.
-Ça brûle.
- LAFOURAILLE.
-Pas d’attendrissement, il ne faut pas flâner, ils sont à notre piste, et vont à cheval.
-Et nous donc !  Il prend lafouraille à part.
- Si le gouvernement nous fait l’honneur de loger ses gendarmes chez nous, notre devoir est de ne pas les troubler.
-On est libre de se disperser ; mais qu’on soit à minuit chez la mère Giroflée au grand complet Soyez à jeun, car je ne veux pas avoir de Waterloo, et voilà les Prussiens.
+Et nous donc ! Il prend lafouraille à part.
 Roulons ! FIN DU QUATRIEME ACTE.
 La scène se passe à l’hôtel de Montsorel, dans un salon du rez-de-chaussée.
-JOSEPH , seul.
 Il a fait ce soir la maudite marque blanche à la petite porte du jardin.
-Ça ne peut pas aller longtemps comme ça, le diable sait seul ce qu’il veut faire.
-J’aime mieux le voir ici que dans les appartements, du moins le jardin est là ; et, en cas d’alerte, on peut se promener.
 JOSEPH, LAFOURAILLE, BUTEUX ; puis VAUTRIN.
 On entend pendant un instant faire prrrrrr.
 Allons, bon ! v’là notre air national, ça me fait toujours trembler.
- Lafouraille entre.
- Qui êtes-vous ?  Lafouraille fait un signe.
- Un nouveau ? LAFOURAILLE.
-Un vieux.
+Qui êtes-vous ? Lafouraille fait un signe.
+Un nouveau ? LAFOURAILLE.
 Il est là.
-
 Est-ce qu’il attendrait ? il va venir.
- Buteux se montre.
+Buteux se montre.
 Comment, vous serez trois ! LAFOURAILLE , montrant Joseph.
 Nous serons quatre.
 Que venez-vous donc faire à cette heure ? Voulez-vous tout prendre ici ? LAFOURAILLE.
@@ -1715,38 +1012,23 @@ Il nous croit des voleurs ! BUTEUX.
 Ça se prouve quelquefois, quand on est malheureux ; mais ça ne se dit pas… LAFOURAILLE.
 On fait comme les autres, on s’enrichit, voilà tout ! JOSEPH.
 Mais monsieur le duc va… LAFOURAILLE.
-Ton duc ne peut pas rentrer avant deux heures, et ce temps nous suffit ; ainsi ne viens pas entrelarder d’inquiétudes le plat de notre métier que nous avons à servir… BUTEUX.
-Et chaud.
-VAUTRIN , vêtu d’une redingote brune, pantalon bleu, gilet noir, les cheveux courts, un faux air de Napoléon en bourgeois.
 Il entre, éteint brusquement la chandelle et et tire sa lanterne sourde.
-De la lumière ici ! vous vous croyez donc encore dans la vie bourgeoise ! Que ce niais ait oublié les premiers éléments, cela se conçoit ; mais vous autres ?  À Buteux, en lui montrant Joseph.
- Mets-lui du coton dans les oreilles, allez causer là-bas.
- À Lafouraille.
- Et le petit ? LAFOURAILLE.
+Mets-lui du coton dans les oreilles, allez causer là-bas.
+Et le petit ? LAFOURAILLE.
 Gardé à vue ! VAUTRIN.
 Dans quel endroit ? LAFOURAILLE.
 Dans l’autre pigeonnier de la femme à Giroflée, ici près, derrière les Invalides.
-Et qu’il ne s’en échappe pas comme cette anguille de   Saint-Charles, cet enragé, qui vient de démolir notre établissement… car je… je ne fais pas de menaces… LAFOURAILLE.
-Pour le petit, je vous engage ma tête ! Philosophe lui a mis des cothurnes aux mains et des manchettes aux pieds, il ne le rendra qu’à moi.
-Quant à l’autre, que voulez-vous ? la pauvre Giroflée est bien faible contre les liqueurs fortes, et Blondet l’a deviné, VAUTRIN.
 Qu’a dit Raoul ? LAFOURAILLE.
 Des horreurs ! il se croit déshonoré.
 Heureusement, Philosophe n’adore pas les métaphores.
-Conçois-tu que cet enfant veuille se battre à mort ? Un jeune homme a peur, il a le courage de ne pas le laisser voir et la sottise de se laisser tuer.
 J’espère qu’on l’a empêché d’écrire ? LAFOURAILLE.
 , à part.
-Aïe ! aïe !  Haut.
- Il ne faut rien vous cacher : avant d’être serré le prince avait envoyé la petite Nini porter une lettre à l’hôtel de Christoval.
+Aïe ! aïe ! Haut.
 À Inès ? LAFOURAILLE.
-À Inès.
 Ah ! puff !… des phrases ! LAFOURAILLE.
 Ah ! puff !… des bêtises ! VAUTRIN , à Joseph.
 Eh ! là-bas ! l’honnête homme ! BUTEUX , amenant Joseph à Vautrin.
 Donnez-donc à monsieur des raisons, il en veut.
-Il me semble que ce n’est pas trop exiger que de demander ce que je risque et ce qui me reviendra.
-Le temps est court, la parole est longue, employons l’un et dispensons-nous de l’autre.
-Il y a deux existences en péril, celle d’un homme qui m’intéresse et celle d’un mousquetaire que je juge inutile : nous venons le supprimer.
- JOSEPH.
 Comment ! monsieur le marquis ? — Je n’en suis plus.
 Ton consentement n’est pas à toi.
 Nous l’avons pris.
@@ -1755,156 +1037,107 @@ S’il est mauvais, il ne faut pas le boire.
 Ah ! tu refuses de trinquer avec moi ? Qui réﬂéchit calcule, et qui calcule trahit.
 Vos calculs sont à faire perdre la tête.
 Assez, tu m’ennuies ! Ton maître doit se battre demain.
-Dans ce duel, l’un des deux adversaires doit rester sur le terrain ; figure-toi que le duel a eu lieu, et que ton maître n’a pas eu de chance.
 Comme c’est juste ! LAFOURAILLE.
 Et profond ! Monsieur remplace le Destin.
-Joli état.
 Et pas de patente à payer.
 VAUTRIN , à Joseph, lui désignant Lafouraille et Buteux.
 Tu vas les cacher.
-Où ? VAUTRIN.
 Je te dis de les cacher.
 Quand tout dormira dans l’hôtel, excepté nous, fais-les monter chez le mousquetaire.
- À Buteux et Lafouraille.
- Tâchez d’y aller sans lui ; vous serez deux et adroits ; la fenêtre de sa chambre donne sur la cour.
- Il lui parle à l’oreille.
- Précipitez-le, comme tous les gens au désespoir.
- Il se tourne vers Joseph.
- Le suicide est une raison.
+À Buteux et Lafouraille.
+Il lui parle à l’oreille.
+Précipitez-le, comme tous les gens au désespoir.
+Il se tourne vers Joseph.
+Le suicide est une raison.
 personne ne sera compromis.
- VAUTRIN , seul.
-Tout est sauvé, il n’y avait de suspect chez nous que le  personnel , je le changerai.
-Le Blondet en est pour ses frais de trahison, et comme les mauvais comptes font les bons amis, je le signalerai au duc comme l’assassin du vicomte de Langeac.
-Je vais donc enfin connaître les secrets des Montsorel et la raison de la singulière conduite de la duchesse.
-Si ce que je vais apprendre pouvait justifier le suicide du marquis, quel coup de professeur ! VAUTRIN, JOSEPH.
-Vos hommes sont casés dans la serre, mais vous ne comptez sans doute pas rester là ? VAUTRIN.
 Non, je vais étudier dans le cabinet de Monsieur de Montsorel.
 Et s’il arrive, vous ne craignez pas… VAUTRIN.
 Si je craignais quelque chose, serais-je votre maître à tous ? JOSEPH.
 Mais où irez-vous ? VAUTRIN.
 Tu es bien curieux ! JOSEPH , seul.
-Le voilà chambré pour l’instant, ses deux hommes aussi ; je les tiens, et comme je ne veux pas tremper la-dedans, je vais…  JOSEPH, UN VALET ; puis SAINT-CHARLES.
-LE VALET.
 Monsieur Joseph, quelqu’un vous demande.
 À cette heure ? SAINT-CHARLES.
 C’est moi.
 Laisse-nous, mon garçon.
 Monsieur le duc ne peut revenir qu’après le coucher du roi.
 La duchesse va rentrer, je veux lui parler en secret, et je l’attends ici.
-Ici ? SAINT-CHARLES.
 JOSEPH , à part.
 Ô mon Dieu ! et Jacques… SAINT-CHARLES.
 Si ça te dérange… JOSEPH.
-Au contraire.
 Dis-le moi, tu pourrais attendre quelqu’un.
 J’attends madame.
 Et si c’était Jacques Collin ? JOSEPH.
 Oh ne me parlez-donc pas de cet homme-là, vous me donnez le frisson.
 Collin est mêlé à des affaires qui peuvent l’amener ici.
 Tu dois l’avoir revu ? entre vous autres, ça se fait, et je le comprends.
-Je  n’ai pas le temps de te sonder, je n’ai pas besoin de te corrompre, choisis entre nous deux, et promptement.
 Que voulez-vous donc de moi ? SAINT-CHARLES.
 Savoir les moindres petites choses qui se passent ici.
-Eh bien ! en fait de nouveauté, nous avons le duel du marquis il se bat demain avec Monsieur de Frescas.
-Après ? JOSEPH.
 Voici madame la duchesse qui rentre.
-SAINT-CHARLES , seul.
 Oh ! le trembleur ! Ce duel est un excellent prétexte pour parler à la duchesse.
-Le duc ne m’a pas compris, il n’a vu en moi qu’un instrument qu’on prend et qu’on laisse à volonté.
-M’ordonner le silence envers sa femme, n’était-ce pas m’indiquer une arme contre lui ? Exploiter les fautes du prochain, voilà le patrimoine des hommes forts.
 J’ai déjà mangé bien des patrimoines, et j’ai toujours bon appétit.
 SAINT-CHARLES, LA DUCHESSE DE MONTSOREL, MADEMOISELLE DE VAUDREY.
-Saint-Charles s’efface pour laisser passer les deux femme, Il reste en haut de la scène pendant qu’elles la descendent.
 MADEMOISELLE DE VAUDREY.
 Vous êtes bien abattue.
 LA DUCHESSE DE MONTSOREL , se laissant aller dans un fauteuil.
 Morte ! plus d’espoir ! vous aviez raison.
 SAINT-CHARLES , s’avançant.
 Madame la duchesse.
- LA DUCHESSE DE MONTSOREL.
-Ah ! j’avais oublié ! Monsieur, il m’est impossible de vous accorder le moment d’audience que vous m’aviez demandé.
+LA DUCHESSE DE MONTSOREL.
 Demain… plus tard.
 MADEMOISELLE DE VAUDREY , à Saint-Charles.
 Ma nièce, Monsieur, est hors d’état de vous entendre SAINT-CHARLES.
-Demain, Mesdames, il ne serait plus temps ! la vie de votre fils, le marquis de Montsorel, qui se bat demain avec Monsieur de Frescas, est menacée.
 LA DUCHESSE DE MONTSOREL.
 Mais ce duel est une horrible chose ! MADEMOISELLE DE VAUDREY , bas à la duchesse.
 Vous oubliez déjà que Raoul vous est étranger.
 LA DUCHESSE DE MONTSOREL , à Saint-Charles.
 Monsieur, mon fils saura faire son devoir.
-Viendrais-je, Mesdames, vous instruire de ce qui se cache toujours à une mère, s’il ne s’agissait que d’un duel ? Votre fils sera tué sans combat.
 Son adversaire a pour valets des spadassins, des misérables auxquels il sert d’enseigne.
 LA DUCHESSE DE MONTSOREL.
 Et quelle preuve en avez-vous ? SAINT-CHARLES.
-Un soi-disant intendant de Monsieur Frescas m’a offert des sommes énormes pour tremper dans la conspiration ourdie contre la famille de Christoval.
-En présence de ce nouveau péril, j’ai retrouvé mon sang-froid, je me suis tiré de ma prison, et me suis mis à la piste de ces hardis coquins.
 MADEMOISELLE DE VAUDREY.
 Vous venez ici pour Monsieur de Montsorel, à ce que nous a dit Joseph ? SAINT-CHARLES.
-Oui, Madame.
- LA DUCHESSE DE MONTSOREL.
+LA DUCHESSE DE MONTSOREL.
 Et qui donc êtes-vous, Monsieur ? SAINT-CHARLES.
-Un homme de confiance dont monsieur le duc se défie, et je reçois des appointements pour éclaircir les choses mystérieuses.
 MADEMOISELLE DE VAUDREY , à la la duchesse.
 Oh ! Louise ! LA DUCHESSE DE MONTSOREL , regardant fixement Saint-Charles.
 Et qui vous a donné l’audace de me parler, Monsieur ? SAINT-CHARLES.
 Votre danger, Madame.
-On me paye pour être votre ennemi Ayez autant de discrétion que moi, daignez me prouver que votre protection sera plus efficace que les promesses un peu creuses de monsieur le duc, et je puis vous donner la victoire.
-Mais le temps presse, le duc va venir, et s’il nous trouvait ensemble, le succès serait étrangement compromis.
 LA DUCHESSE DE MONTSOREL , à Mademoiselle de Vaudrey.
-Ah ! quelle nouvelle espérance !  À Saint-Charles.
- Et qu’alliez-vous donc faire chez Monsieur de Frescas ? SAINT-CHARLES.
+Ah ! quelle nouvelle espérance ! À Saint-Charles.
+Et qu’alliez-vous donc faire chez Monsieur de Frescas ? SAINT-CHARLES.
 Ce que je fais en ce moment auprès de vous, Madame.
 LA DUCHESSE DE MONTSOREL.
 Ainsi, vous vous taisez.
-Madame la duchesse ne me répond pas : le duc a ma parole et il est tout-puissant.
 LA DUCHESSE DE MONTSOREL.
 Et moi, Monsieur, je suis immensément riche ; mais n’espérez pas m’abuser.
- Elle se lève.
- Je ne serai point la dupe de Monsieur de Montsorel, je reconnais toute sa finesse dans cet entretien secret que vous me demandez ; je vais compléter, Monsieur, vos documents.
- Avec finesse.
- Monsieur de Frescas n’est pas un misérable, ses domestiques ne sont pas des assassins, il appartient à une famille aussi riche que noble, et il épouse la princesse d’Arjos.
-Oui, Madame, un envoyé du Mexique a produit des lettres de Monsieur de Christoval, des actes extraordinairement authentiques.
-Vous avez mandé un secrétaire de la légation d’Espagne qui les a reconnus les cachets, les timbres, les légalisations… ah ! tout est parfait.
- LA DUCHESSE DE MONTSOREL.
+Elle se lève.
+LA DUCHESSE DE MONTSOREL.
 Oui, Monsieur, ces actes sont irrécusables.
-Vous aviez donc un bien grand intérêt, Madame, a ce qu’ils fussent faux ? LA DUCHESSE DE MONTSOREL , à mademoiselle de Vaudrey.
 Oh ! jamais pareille torture n’a brisé le cœur d’aucune mère.
 SAINT-CHARLES , à part.
 De quel côté passer ? à la femme ou au mari.
 LA DUCHESSE DE MONTSOREL.
-Monsieur, la somme que vous me demanderez est à vous si vous pouvez me prouver que Monsieur Raoul de Frescas… SAINT-CHARLES.
 Est un misérable ? LA DUCHESSE DE MONTSOREL.
 Non, mais un enfant… SAINT-CHARLES.
 Le vôtre, n’est-ce pas ? LA DUCHESSE DE MONTSOREL , s’oubliant.
 Eh bien, oui ! Soyez mon sauveur, et je vous protégerai toujours, moi.
- À mademoiselle de Vaudrey.
- Eh ! qu’ai-je donc dit ?  À Saint-Charles.
- Où est Raoul ? SAINT-CHARLES.
-Disparu ! Et cet intendant qui a fait faire ces actes, rue Oblin, et qui sans doute a joué le personnage de l’envoyé du Mexique, est un de nos plus rusés scélérats.
- La duchesse fait un mouvement.
- Oh ! rassurez-vous, il est trop habile pour verser du sang ; mais il est aussi redoutable que ceux qui le prodiguent ! et cet homme est son gardien.
+À mademoiselle de Vaudrey.
+Eh ! qu’ai-je donc dit ? À Saint-Charles.
+Où est Raoul ? SAINT-CHARLES.
+La duchesse fait un mouvement.
 LA DUCHESSE DE MONTSOREL.
 Ah ! votre fortune contre sa vie.
 Je suis à vous, Madame.
- À part.
- Je saurai tout et je pourrai choisir.
- les mêmes , LE DUC, UN VALET.
-LE DUC.
-Eh bien ! vous triomphez, Madame : il n’est bruit que de la fortune et du mariage de Monsieur de Frescas ; mais il a sa famille…  Bas à madame de Montsorel et pour elle seule.
- Il a une mère.
- Il aperçoit Saint-Charles.
- Vous ici, près de madame, Monsieur le chevalier ? SAINT-CHARLES , au duc, en le prenant a part.
+Je saurai tout et je pourrai choisir.
+les mêmes , LE DUC, UN VALET.
+Il a une mère.
+Il aperçoit Saint-Charles.
 Monsieur le duc m’approuvera.
- Haut.
- Vous étiez au château, ne devais-je pas avertir madame des dangers que court votre fils unique, monsieur le marquis ? il sera peut-être assassiné.
-LE DUC.
-Assassiné ? SAINT-CHARLES.
 Mais si monsieur le duc daigne écouter mes avis… LE DUC.
 Venez dans mon cabinet, mon cher, et prenons sur-le-champ des mesures efficaces.
 SAINT-CHARLES , en faisant un signe d’intelligence à la duchesse.
 J’ai d’étranges choses à vous dire, monsieur le duc.
- À part.
- Décidément, je suis pour le duc.
+Décidément, je suis pour le duc.
 LA DUCHESSE, MADEMOISELLE DE VAUDREY, VAUTRIN.
 MADEMOISELLE DE VAUDREY.
 Si Raoul est votre fils, dans quelle infâme compagnie se trouve-t-il ? LA DUCHESSE DE MONTSOREL.
@@ -1912,20 +1145,17 @@ Un seul ange purifierait l’enfer.
 VAUTRIN a entrouvert avec précaution une des portes-fenêtres du jardin.À part.
 Je sais tout.
 Deux frères ne peuvent se battre.
-Ah ! voilà ma duchesse,  Haut.
- Mesdames…  MADEMOISELLE DE VAUDREY.
+Ah ! voilà ma duchesse, Haut.
+Mesdames… MADEMOISELLE DE VAUDREY.
 Un homme ! au secours ! LA DUCHESSE DE MONTSOREL.
 C’est lui ! VAUTRIN , à la duchesse.
 Silence ! les femmes ne savent que crier.
- À mademoiselle de Vaudrey.
- Mademoiselle de Vaudrey, courez chez le marquis, il s’y trouve deux infâmes assassins ! allez donc ! empêchez qu’on ne l’égorge ! Mais faites saisir les deux misérables sans esclandre.
- À la duchesse.
- Restez, Madame.
+À mademoiselle de Vaudrey.
+À la duchesse.
 LA DUCHESSE DE MONTSOREL.
 Allez, ma tante, et ne craignez rien pour moi.
-
 Mes drôles vont être bien surpris Que croiront-ils ? Je vais les juger.
- On entend du bruit.
+On entend du bruit.
 LA DUCHESSE, VAUTRIN.
 LA DUCHESSE DE MONTSOREL.
 Toute la maison est sur pied ! Que dira-t-on en me sachant ici ? VAUTRIN.
@@ -1935,13 +1165,10 @@ Mais on sait qui vous êtes, et Monsieur de Montsorel est avec… VAUTRIN.
 Le chevalier de Saint-Charles.
 Je suis tranquille, vous me défendrez.
 LA DUCHESSE DE MONTSOREL.
-Moi ! VAUTRIN.
 Ou vous ne reverrez jamais votre fils, Fernand de Montsorel.
 LA DUCHESSE DE MONTSOREL.
 Raoul est donc bien mon fils ? VAUTRIN.
-Hélas ! oui… Je tiens entre mes mains, Madame, les preuves complètes de votre innocence, et… votre fils.
- LA DUCHESSE DE MONTSOREL.
-Vous ! mais alors vous ne me quitterez pas que.… les mêmes , MADEMOISELLE DE VAUDREY, d’un côté ; SAINT-CHARLES, de l’autre ;  domestiques .
+LA DUCHESSE DE MONTSOREL.
 MADEMOISELLE DE VAUDREY.
 Le voici ! sauvez-la.
 LA DUCHESSE DE MONTSOREL , à mademoiselle de Vaudrey.
@@ -1961,173 +1188,115 @@ Faites-le garder bien étroitement, car il vous coule dans les mains comme de l�
 LA DUCHESSE DE MONTSOREL.
 Joseph ! VAUTRIN , à Joseph.
 Qu’est-il arrivé là-haut ? JOSEPH.
-Monsieur le marquis examinait ses armes ; attaqué par derrière, il s’est défendu, et n’a reçu que deux blessures peu dangereuses.
 Monsieur le duc est auprès de lui.
- LA DUCHESSE , à sa tante.
+LA DUCHESSE , à sa tante.
 Retournez auprès d’Albert, je vous en prie.
- À Joseph, lui montrant Saint-Charles.
- Vous me répondez de cet homme.
+À Joseph, lui montrant Saint-Charles.
+Vous me répondez de cet homme.
 VAUTRIN , à Joseph.
 Tu m’en réponds aussi.
 SAINT-CHARLES , à Vautrin.
 Je comprends, tu m’as prévenu.
 Sans rancune, bonhomme ! SAINT-CHARLES , à Joseph.
-
 Mène-moi près du duc.
- Ils sortent.
 VAUTRIN, LA DUCHESSE DE MONTSOREL.
 VAUTRIN , à part.
 Il a un père, une famille, une mère.
-Quel désastre ! À qui puis-je maintenant m’intéresser, qui pourrais-je aimer ? Douze ans de paternité, ça ne se refait pas.
 LA DUCHESSE , venant à Vautrin.
 Eh bien ? VAUTRIN.
-Eh bien ! non, je ne vous rendrai pas votre fils, Madame, je ne me sens pas assez fort pour survivre à sa perte ni à son dédain.
 Un Raoul ne se retrouve pas ! je ne vis que par lui, moi ! LA DUCHESSE.
 Mais peut-il vous aimer, vous, un criminel que nous pouvons livrer… VAUTRIN.
 À la justice, n’est-ce pas ? Je vous croyais meilleure.
-Mais vous ne voyez donc pas que je vous entraîne, vous, votre fils et le duc dans un abîme, et que nous y roulerons ensemble ? LA DUCHESSE.
 Oh ! qu’avez-vous fait de mon pauvre enfant ? VAUTRIN.
 Un homme d’honneur.
- LA DUCHESSE.
 Et il vous aime ? VAUTRIN.
-LA DUCHESSE.
-Mais a-t-il dit vrai, ce misérable, en découvrant qui vous êtes et d’où vous sortez ? VAUTRIN.
-Oui, Madame.
-LA DUCHESSE.
 Et vous avez eu soin de mon fils ? VAUTRIN.
 Votre fils ? notre fils.
 Ne l’avez-vous pas vu, il est pur comme un ange.
-LA DUCHESSE.
-Ah ! quoi que tu aies fait, sois béni que le monde te pardonne ! Mon Dieu !…  Elle plie le genou sur un fauteuil  la voix d’une mère doit aller jusqu’à vous, pardonnez ! pardonnez tout à cet homme.
- Elle le regarde.
- Mes pleurs laveront ses mains ! Oh ! il se repentira !  Se tournant vers Vautrin.
- Vous m’appartenez, je vous changerai ! Mais les hommes se sont trompés, vous n’êtes pas criminel, et d’ailleurs toutes les mères vous absoudront ! VAUTRIN.
+Elle le regarde.
+Mes pleurs laveront ses mains ! Oh ! il se repentira ! Se tournant vers Vautrin.
 Allons, rendons-lui son fils.
-LA DUCHESSE.
-Vous aviez encore l’horrible pensée de ne pas le rendre à sa mère ? Mais je l’attends depuis vingt-deux ans.
-Et moi, depuis dix ans, ne suis-je pas son père ? Raoul, mais c’est mon âme ! Que je souffre, que l’on me couvre de honte ; s’il est heureux et glorieux, je le regarde, et ma vie est belle.
-LA DUCHESSE.
 Ah ! je suis perdue ! Il l’aime comme une mère.
-Je ne me rattachais au monde et à la vie que par ce brillant anneau, pur comme de l’or.
-LA DUCHESSE.
-Et… sans souillure ?…  VAUTRIN.
+Et… sans souillure ?… VAUTRIN.
 Ah ! nous nous connaissons en vertu, nous autres !… et — nous sommes difficiles.
-À moi l’infamie, à lui l’honneur ! Et songez que je l’ai trouvé sur la grande route de Toulon à Marseille, à douze ans, sans pain, en haillons.
-LA DUCHESSE.
 Nu-pieds, peut-être ? VAUTRIN.
 Mais joli ! les cheveux bouclés… LA DUCHESSE.
 Vous l’avez vu ainsi ? VAUTRIN.
 Pauvre ange ! il pleurait.
 Je l’ai pris avec moi.
-LA DUCHESSE.
 Et vous l’avez nourri ? VAUTRIN.
 Moi ! j’ai volé pour le nourrir ! LA DUCHESSE.
 Oh ! je l’aurais fait peut-être aussi, moi ! VAUTRIN.
 J’ai fait mieux ! LA DUCHESSE.
 Oh ! il a donc bien souffert ? VAUTRIN.
-Jamais ! Je lui ai caché les moyens par lesquels je lui rendais la vie heureuse et facile.
 Ah ! je ne lui voulais pas un soupçon… ça l’aurait flétri.
 Vous le rendez noble avez des parchemins, moi je l’ai fait noble de cœur.
-LA DUCHESSE.
 Mais c’était mon fils !… VAUTRIN.
-Oui, plein de grandeur, de charmes, de beaux instincts il n’y avait qu’à lui montrer le chemin.
 LA DUCHESSE , serrant la main de Vautrin.
-Oh ! que vous devez être grand pour avoir accompli la tâche d’une mère !  VAUTRIN.
+Oh ! que vous devez être grand pour avoir accompli la tâche d’une mère ! VAUTRIN.
 Et mieux que vous autres ! Vous aimez quelquefois bien mal vos enfants.
-— Vous me le gâterez ! — Il était d’un courage imprudent, il voulait se faire soldat, et l’empereur l’aurait accepté.
 Je lui ai montré le monde et les hommes sous leur vrai jour.
 Aussi va-t-il me renier.
-LA DUCHESSE.
 Mon fils ingrat ? VAUTRIN.
 Non, le mien.
-LA DUCHESSE.
 Mais rendez-le-moi donc sur-le-champ ! VAUTRIN.
-Et ces deux hommes là-haut, et moi, ne sommes-nous pas compromis ? Monsieur le duc ne doit-il pas nous assurer le secret et la liberté ? LA DUCHESSE.
 Ces deux hommes sont à vous, vous veniez donc… VAUTRIN.
-Dans quelques heures, du bâtard et du fils légitime, il ne devait vous rester qu’un enfant.
 Et ils pouvaient se tuer tous les deux.
-LA DUCHESSE.
 Ah ! vous êtes une horrible providence.
-Et qu’auriez-vous donc fait ? les mêmes , LE DUC, LAFOURAILLE, BUTEUX, SAINT-CHARLES,  tous les domestiques .
 LE DUC , désignant Vautrin.
-Emparez-vous de lui !  Il montre Saint-Charles.
- et n’obéissez qu’à Monsieur.
- LA DUCHESSE.
+Emparez-vous de lui ! Il montre Saint-Charles.
+et n’obéissez qu’à Monsieur.
 Mais vous lui devez la vie de votre Albert ! Il a donné l’alarme.
-LE DUC.
 Lui ! BUTEUX , à Vautrin.
 Ah ! tu nous as trahis ! pourquoi donc nous amenais-tu ? SAINT-CHARLES , au duc.
 Vous les entendez, monsieur le duc ? LAFOURAILLE , à Buteux.
-Tais-toi donc.
 Devons-nous le juger ? BUTEUX.
 Quand il nous condamne.
 VAUTRIN , au duc.
 Monsieur le duc, ces deux hommes sont à moi, je les réclame.
 Voilà les gens de Monsieur Frescas.
 VAUTRIN , à Saint-Charles.
-Intendant de la maison de Langeac, tais-toi, tais-toi !  Il montre Lafouraille.
- Voici Philippe Boulard.
- Lafouraille salue.
- Monsieur le duc, faites éloigner tout le monde.
-LE DUC.
+Intendant de la maison de Langeac, tais-toi, tais-toi ! Il montre Lafouraille.
+Voici Philippe Boulard.
+Monsieur le duc, faites éloigner tout le monde.
 Quoi ! chez moi, vous osez commander ? LA DUCHESSE.
 Ah ! Monsieur, il est maître ici.
-LE DUC.
 Comment ? ce misérable ! VAUTRIN.
-Monsieur le duc veut de la compagnie, parlons donc du fils de dona Mendès… LE DUC.
-Silence ! VAUTRIN.
 Que vous faites passer pour celui de… LE DUC.
-Encore une fois, silence !  VAUTRIN.
+Encore une fois, silence ! VAUTRIN.
 Vous voyez bien, monsieur le duc, qu’il y avait trop de monde.
-LE DUC.
 Sortez tous ! VAUTRIN , au duc.
-Faites garder toutes les issues de votre hôtel, et que personne n’en sorte, excepté ces deux hommes.
- À Saint-Charles.
- Restez là.
- Il tire un poignard, et va couper les liens de Lafouraille et de Buteux.
- Sauvez-vous par la petite porte dont voici la clef, et allez chez la mère Giroflée.
- À Lafouraille.
- Tu m’enverras Raoul.
-LAFOURAILLE , sortant.
+Il tire un poignard, et va couper les liens de Lafouraille et de Buteux.
+Sauvez-vous par la petite porte dont voici la clef, et allez chez la mère Giroflée.
+Tu m’enverras Raoul.
 Oh ! notre véritable empereur.
 Vous recevrez de l’argent et des passe-ports.
-BUTEUX , sortant.
 J’aurai donc de quoi pour Adèle ! LE DUC.
 Maintenant, comment savez-vous ces choses ? VAUTRIN , rendant des papiers au duc.
 Voici ce que j’ai pris dans votre cabinet.
-LE DUC.
 Ma correspondance et les lettres de madame an vicomte de Langeac ! VAUTRIN.
 Fusillé par les soins de Charles Blondet, à Mortagne, en octobre mille sept cent quatre-vingt-douze.
 Mais vous savez bien, monsieur le duc.
-LE DUC.
-Ainsi Fernand ?  VAUTRIN.
+Ainsi Fernand ? VAUTRIN.
 L’enfant déporté en Sardaigne est bien votre fils.
-LE DUC.
 Et madame ?… VAUTRIN.
-LE DUC.
-Ah !  Tombant dans un fauteuil.
- Qu’ai-je fait ? LA DUCHESSE.
+Ah ! Tombant dans un fauteuil.
+Qu’ai-je fait ? LA DUCHESSE.
 Quelle horrible preuve !… mort.
 Et l’assassin est là.
-Monsieur le duc, j’ai été le père de Fernand, et je viens de sauver vos deux fils l’un de l’autre, vous seul êtes l’auteur de tout, ici.
-LA DUCHESSE.
-Arrêtez ! je le connais, il souffre en cet instant tout ce que j’ai souffert en vingt ans.
 De grâce, mon fils ? LE DUC.
 Comment, Raoul de Frescas ?… VAUTRIN.
 Fernand de Montsorel va venir.
- À Saint-Charles.
- Qu’en dis-tu ? SAINT-CHARLES.
+Qu’en dis-tu ? SAINT-CHARLES.
 Tu es un héros, laisse-moi être ton valet de chambre.
 Tu as de l’ambition.
 Et tu me suivras ? SAINT-CHARLES.
 Je le verrai bien.
 Ah ! quel artiste tu trouves et quelle perte le gouvernement va faire.
 Allons, va m’attendre au bureau des passe-ports.
- les mêmes , LA DUCHESSE DE CHRISTOVAL, INÈS, MADEMOISELLE DE VAUDREY.
+les mêmes , LA DUCHESSE DE CHRISTOVAL, INÈS, MADEMOISELLE DE VAUDREY.
 MADEMOISELLE DE VAUDREY.
 Les voici ! LA DUCHESSE DE CHRISTOVAL.
-Ma fille a reçu, Madame, une lettre de Monsieur Raoul, où ce noble jeune homme aime mieux renoncer à Inès que de nous tromper : il nous a dit toute sa vie.
-Il doit se battre demain avec votre fils, et comme Inès est la cause involontaire de ce duel, nous venons l’empêcher ; car il est maintenant sans motif.
 LA DUCHESSE DE MONTSOREL.
 Ce duel est fini, Madame.
 Il vivra donc ! LA DUCHESSE DE MONTSOREL.
@@ -2136,50 +1305,33 @@ les mêmes , RAOUL et LAFOURAILLE, qui sort aussitôt.
 RAOUL , à Vautrin.
 M’enfermer pour m’empêcher de me battre ! LE DUC.
 Avec ton frère ? RAOUL.
-Mon frère ?  LA DUCHESSE DE MONTSOREL.
-Tu étais donc bien mon enfant ! Mesdames,  elle saisit Raoul  voici Fernand de Montsorel, mon fils, le… LE DUC , prenant Raoul par la main et interrompant sa femme.
-L’aîné, l’enfant qui nous avait été enlevé, Albert n’est plus que le comte de Monsorel.
+Mon frère ? LA DUCHESSE DE MONTSOREL.
 Depuis trois jours je crois rêver ! vous, ma mère ! vous Monsieur… LE DUC.
 Eh bien ! oui.
 Oh ! là, où on me demandait une famille… VAUTRIN.
 Elle s’y trouve.
 Et… y êtes-vous encore pour quelque chose ? VAUTRIN , à la duchesse de Montsorel.
-Que vous disais-je ?  À Raoul.
- Souvenez-vous, monsieur le marquis, que je vous ai d’avance absous de toute ingratitude.
- À la duchesse.
- L’enfant m’oubliera, et la mère ? LA DUCHESSE DE MONTSOREL.
-LE DUC.
+Que vous disais-je ? À Raoul.
+Souvenez-vous, monsieur le marquis, que je vous ai d’avance absous de toute ingratitude.
+À la duchesse.
+L’enfant m’oubliera, et la mère ? LA DUCHESSE DE MONTSOREL.
 Mais quels sont donc les malheurs qui vous ont plongé dans l’abîme ? VAUTRIN.
 Est-ce qu’on explique le malheur ? LA DUCHESSE DE MONTSOREL.
 Mon ami, n’est-il pas en votre pouvoir d’obtenir sa grâce ? LE DUC.
 Des arrêts comme ceux qui l’ont frappé sont irrévocables.
- VAUTRIN.
 Ce mot me raccommode avec vous, il est d’un homme d’État.
-Eh ! monsieur le duc, tâchez donc de faire comprendre que la déportation est votre dernière ressource contre nous.
-Monsieur… VAUTRIN.
 Vous vous trompez, je ne suis pas même monsieur.
-Je crois comprendre que vous êtes un banni, que mon ami vous doit beaucoup et ne peut s’acquitter.
-Au delà des mers, j’ai de grands biens, qui, pour être régis, veulent un homme plein d’énergie : allez y exercer vos talents, et devenez… VAUTRIN.
-Riche, sous un nom nouveau ? Enfant, ne venez-vous donc pas d’apprendre qu’il est en ce monde des choses impitoyables.
-Oui, je puis acquérir une fortune, mais qui me donnera le pouvoir ?…  Au duc de Montsorel.
- Le roi, monsieur le duc, peut me faire grâce ; mais qui me serrera la main ? RAOUL.
-Moi ! VAUTRIN.
 Ah ! voilà ce que j’attendais pour partir.
 Vous avez une mère, adieu ! les mêmes , UN COMMISSAIRE.
 Les portes-fenêtres s’ouvrent : on voit un commissaire, un officier : dans le fond, des gendarmes.
 UN COMMISSAIRE , au duc.
-Au nom du roi, de la loi, j’arrête Jacques Collin, convaincu d’avoir rompu… Tous les personnages se jettent entre la force armée et Jacques, pour le taire sauver.
-LE DUC.
-Messieurs, je prends sur moi de…  VAUTRIN.
+Messieurs, je prends sur moi de… VAUTRIN.
 Chez vous, monsieur le duc, laissez passer la justice du roi.
 C’est une affaire entre ces messieurs et moi.
- Au commissaire.
- Je vous suis.
- À la duchesse.
- C’est Joseph qui les amène, il est des nôtres, renvoyez-le.
+Je vous suis.
+À la duchesse.
+C’est Joseph qui les amène, il est des nôtres, renvoyez-le.
 Sommes-nous séparés à jamais ? VAUTRIN.
 Tu te maries bientôt.
-Dans dix mois, le jour du baptême, à la porte de l’église, regarde bien parmi les pauvres, il y aura quelqu’un qui veut être certain de ton bonheur.
- Aux agents.
- Marchons ! FIN DE VAUTRIN.
-↑   Cette pièce n’a été ni représentée ni imprimée.
+Marchons ! FIN DE VAUTRIN.
+↑  Cette pièce n’a été ni représentée ni imprimée.

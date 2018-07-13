@@ -1,18 +1,9 @@
- Merci d’indiquer quelle est la source de  ce texte .
- Pour un texte qui provient d’un site, indiquer l’adresse de la page consultée.
+Merci d’indiquer quelle est la source de ce texte .
+Pour un texte qui provient d’un site, indiquer l’adresse de la page consultée.
 Si vous avez consulté un fac-similé en ligne, indiquez le lien vers le fac-similé.
-Dans tous les cas, si vous le pouvez, donnez un lien vers la notice du livre dans le  catalogue de la BNF .
-Au fond, au milieu de la scène, porte à deux vantaux, ouvrant sur l’intérieur battant droit fixé par une ferrure extérieure.
-Cette porte donne sur le vestibule, au fond duquel, juste en face, on aperçoit la porte d’entrée ouvrant elle-même sur le palier battant droit fixe.
-A droite de la porte du salon sur vestibule, également face au public, porte à un vantail ouvrant sur la coulisse, et menant à la chambre de Clarisse.
-A gauche de la scène, premier plan, un pan de mur contre lequel un meuble d’appui quelconque.
-Au deuxième plan, formant pan coupé, porte à caisson, à deux vantaux, conduisant dans le cabinet de travail de Ventroux.
 A droite de la scène, premier plan.
 La cheminée avec sa garniture et sa glace ; deuxième plan, grande fenêtre avec imposte.
-Entre rideaux et fenêtre, grand store de guipure descendant jusqu’en bas, et glissant sur tringle de l’avant-scène au lointain.
 Cordon de tirage, pour la manœuvre dudit store, côté gauche de la fenêtre.
-A l’avant-scène, près de la cheminée, dos au public, un fauteuil bergère à dossier bas.
-A gauche de la scène, une grande table de salon, placée perpendiculairement au spectateur ; une chaise de salon de chaque côté.
 Chaise à droite et à gauche de la porte du fond.
 Bouton de sonnette électrique au coin de la cheminée, côté de la fenêtre.
 Sur la table, un bloc-notes, Lustre, écran de foyer, chenets, etc.
@@ -20,1438 +11,531 @@ Le reste du mobilier ad libitum.
 Victor puis Ventroux Au lever du rideau.
 Victor, sur un escabeau, arrange le cordon de tirage du store de la fenêtre.
 Le battant gauche de la porte sur vestibule est ouvert.
-A la cantonade, dans la chambre de Clarisse, on entend des bribes de conversation où domine la voix de Ventroux et de son fils, la voix de Clarisse étant plus lointaine, comme venant d’une pièce plus éloignée.
 Au bout d’un moment, on distingue ceci : Voix de Ventroux .
-— Comment ? Qu’est-ce que tu dis Clarisse ?
- Voix de Clarisse ,  trop lointaine pour qu’on comprenne ce qu’elle dit.
- - ??? ?
- Voix de Ventroux .
-— Oh ! bien, je ne sais pas ; aussitôt la fin de la session, nous partirons pour Cabourg.
- Voix du fils de Ventroux .
-— Oh ! c’est ça, papa ! Oh ! oui, pour Cabourg !
- Voix de Ventroux .
-— Oh ! ben, quoi ! Attends que la Chambre soit en vacances !
- Voix de Clarisse ,  au même diapason que les autres.
- - Attendez, mes enfants, que je prenne ma chemise de nuit !
- Voix indignée de Ventroux .
-— Oh ! Clarisse ! Clarisse ! Voyons, tu perds la tête !
- Voix de Clarisse .
-— Pourquoi ?
- Voix de Ventroux .
-— Mais je t’en prie ! Voyons, regarde-toi ! il y a ton fils !!
- Voix de Clarisse .
-— Eh ! ben, oui ! ben oui ! le temps de prendre ma chemise de nuit, et…
- Voix de Ventroux .
-— Mais non ! Mais non ! Je t’en prie, voyons ! tu es folle ! On te voit.
-Va-t’en !
- Voix de Clarisse .
-— Ah ! Et puis, tu m’ennuies ! Si tu dois faire des scènes…
- Voix de Ventroux .
- - Ils se bouffent !
- Voix de Ventroux .
-— Allez, fiche-moi le camp !
- Voix du fils de Ventroux .
+- ??? ? Voix de Ventroux .
+Voix du fils de Ventroux .
+— Oh ! c’est ça, papa ! Oh ! oui, pour Cabourg ! Voix de Ventroux .
+— Oh ! Clarisse ! Clarisse ! Voyons, tu perds la tête ! Voix de Clarisse .
+— Pourquoi ? Voix de Ventroux .
+Va-t’en ! Voix de Clarisse .
+- Ils se bouffent ! Voix de Ventroux .
+— Allez, fiche-moi le camp ! Voix du fils de Ventroux .
 — Oui, papa.
- Ventroux ,  paraissant en scène et faisant claquer la porte sur lui.
- - Non ! Ce manque de pudeur !…  A Victor.
- Et puis, qu’est-ce que vous faites là, vous ?
- Victor ,  toujours sur son escabeau.
- - J’arrange les cordons de tirage.
- Ventroux .
-— Vous ne pouvez pas vous en aller quand vous entendez que je… que je cause avec Madame ?
- Victor .
+Ventroux , paraissant en scène et faisant claquer la porte sur lui.
+- Non ! Ce manque de pudeur !… A Victor.
+Et puis, qu’est-ce que vous faites là, vous ? Victor , toujours sur son escabeau.
+- J’arrange les cordons de tirage.
 — Je voulais finir, Monsieur.
- Ventroux .
-— Oui ! pour mieux écouter aux portes ?
- Victor .
+— Oui ! pour mieux écouter aux portes ? Victor .
 — Aux portes !… Je suis à la fenêtre.
- Ventroux .
-— C’est bon ! allez-vous en !
- Victor ,  abandonnant son store, qu’il laisse tiré grand ouvert, et descendant de son escabeau.
- - Oui, Monsieur.
- Il fait basculer les marches inférieures de l’escabeau, de façon à le replier.
-Ventroux .
-— Et emportez votre escabeau !
- Victor .
+- Oui, Monsieur.
+Il fait basculer les marches inférieures de l’escabeau, de façon à le replier.
+— Et emportez votre escabeau ! Victor .
 — Oui, Monsieur.
- Il sort en emportant l’escabeau.
-Ventroux ,  lui refermant avec humeur le battant de la porte sur le dos.
- - Il faut toujours qu’on l’ait dans les jambes, celui-là
- Il descend et, maussade, va s’asseoir à droite de la table.
-Ventroux, Clarisse Clarisse ,  surgissant en coup de vent de sa chambre.
+Il sort en emportant l’escabeau.
+Ventroux , lui refermant avec humeur le battant de la porte sur le dos.
+Ventroux, Clarisse Clarisse , surgissant en coup de vent de sa chambre.
 Elle est en chemise de nuit, mais elle a son chapeau et ses bottines.
 Descendant vers son mari.
- - Ah çà ! veux-tu me dire ce qui t’a pris ? après qui tu en as ? 
- Ventroux ,  le coude droit sur la table, le menton sur la paume de la main, sans se retourner.
- - Apparemment après qui le demande !  Se retournant vers sa femme et apercevant sa tenue.
- Ah ! non ! non ! tu ne vas pas aussi te promener dans l’appartement en chemise de nuit !… avec ton chapeau sur la tête !
- Clarisse .
-— Oui, eh bien ! d’abord, je te prie de m’expliquer… J’enlèverai mon chapeau tout à l’heure.
- Ventroux .
-— Eh ! ton chapeau ! je m’en fiche pas mal, de ton chapeau ! C’est pas après lui que j’en ai !
- Clarisse .
-— Enfin, qu’est-ce que j’ai encore fait ?
- Ventroux .
-— Oh ! rien ! rien ! tu n’as jamais rien fait !
- Clarisse ,  remontant vers le canapé.
- - Je ne vois pas !…
- Ventroux ,  se levant.
- - Tant pis, alors ! car c’est encore plus grave, si tu n’as même plus conscience de la portée de tes actes.
- Clarisse ,  s’asseyant sur le canapé.
- - Quand tu voudras m’expliquer !…
- Ventroux .
-— Alors, tu trouves que c’est une tenue pour une mère d’aller changer de chemise devant son fils ?
- Clarisse .
-— C’est pour ça que tu fais cette sortie ?
- Ventroux .
-— Evidemment, c’est pour ça !
- Clarisse .
+- Apparemment après qui le demande ! Se retournant vers sa femme et apercevant sa tenue.
+— Enfin, qu’est-ce que j’ai encore fait ? Ventroux .
+— Oh ! rien ! rien ! tu n’as jamais rien fait ! Clarisse , remontant vers le canapé.
+- Je ne vois pas !… Ventroux , se levant.
+Clarisse , s’asseyant sur le canapé.
+- Quand tu voudras m’expliquer !… Ventroux .
+— C’est pour ça que tu fais cette sortie ? Ventroux .
+— Evidemment, c’est pour ça ! Clarisse .
 — Eh ! bien, vrai ! J’ai cru que j’avais commis un crime, moi.
- Ventroux .
-— Alors, tu trouves ça naturel ?
- Clarisse ,  avec insouciance.
- - Pffeu ! Quelle importance ça a-t-il ? Auguste est un enfant… Si tu crois seulement qu’il regarde, le pauvre petit ! Mais, une mère, ça ne compte pas.
- Ventroux ,  tranchant.
- - Il n’y a pas à savoir si ça compte ; ça ne se fait pas.
- Il remonte au-dessus du canapé.
-Clarisse .
-— Un gamin de douze ans !
- Ventroux ,  derrière elle.
- - Non, pardon, treize !
- Clarisse .
-— Non, douze !
- Ventroux .
+— Alors, tu trouves ça naturel ? Clarisse , avec insouciance.
+Il remonte au-dessus du canapé.
+— Un gamin de douze ans ! Ventroux , derrière elle.
+- Non, pardon, treize ! Clarisse .
+— Non, douze ! Ventroux .
 — Treize, je te dis ! il les a depuis trois jours.
- Clarisse .
 — Eh ! bien, oui, trois jours ! ça ne compte pas.
- Ventroux ,  redescendant au milieu de la scène.
- - Oui, oh ! rien ne compte avec toi.
- Clarisse .
-— Si tu crois qu’il sait seulement ce que c’est qu’une femme !
- Ventroux .
-— En tout cas, ce n’est pas à toi à le lui apprendre ! Mais, enfin, qu’est-ce que c’est que cette manie que tu as de te promener toujours toute nue ?
- Clarisse .
+Ventroux , redescendant au milieu de la scène.
+- Oui, oh ! rien ne compte avec toi.
 — Où ça, toute nue ? J’avais ma chemise de jour.
- Ventroux .
-— C’est encore plus indécent ! On te voit au travers comme dans du papier calque.
- Clarisse ,  se levant et allant à lui.
- - Ah ! Voilà ! Voilà, dis-le donc ! Voilà où tu veux en venir : tu voudrais que j’aie des chemises en calicot !
- Ventroux ,  abasourdi.
- - Quoi ? Quoi des chemises en calicot ? Qui est-ce qui te parle d’avoir des chemises en calicot ?
- Clarisse .
-— Je suis désolée, mon cher ! mais toutes les femmes de ma condition ont des chemises en linon, je ne vois pas pourquoi j’aurais les miennes en madapolam.
- En parlant, elle passe n o  un.
-Ventroux ,  descendant à droite.
- - Ah ! bon ! les voilà en madapolam, à présent.
- Clarisse .
-— Ah ! ben, merci ! Qu’est-ce que diraient les gens !
- Ventroux ,  se retournant à ce mot.
- - Les gens ! Quels gens ? Tu vas donc montrer tes chemises aux gens ?
- Clarisse ,  faisant brusquement volte-face et marchant sur son mari.
- - Moi !… Moi, je vais montrer mes chemises aux gens ! Tu m’accuses de montrer mes chemises aux gens ! Voilà où tu en arrives !
- Ventroux ,  appuyant sur chaque "non".
- - Ah ! bien, tu as de l’aplomb ! C’est juste ce que j’ai fait.
- Ventroux ,  abasourdi par tant de toupet, la regarde, se prend le crâne comme pour l’empêcher d’éclater, puis, remonte en agitant ses mains au-dessus de sa tête.
- - Ah ! bien, non, tu sais, tu parles d’aplomb !…
- Clarisse ,  remontant vers lui.
- - Absolument ! Et c’est encore une preuve de ton éternelle injustice !  Descendant n o  deux.
- Essayez donc de faire plaisir aux gens !  S’asseyant sur le fauteuil, dos au public, près de la cheminée.
- Comme je sais tes idées étroites et que vous étiez tous les deux dans ma chambre, j’ai été exprès me déshabiller dans mon cabinet de toilette.
- Ventroux ,  assis sur le canapé.
- - Oui, seulement, une fois que tu as été en chemise de jour, tu es arrivée dans ta chambre.
+Clarisse , se levant et allant à lui.
+En parlant, elle passe n o un.
+Ventroux , descendant à droite.
+- Ah ! bon ! les voilà en madapolam, à présent.
+- Ah ! bien, non, tu sais, tu parles d’aplomb !… Clarisse , remontant vers lui.
+Ventroux , assis sur le canapé.
 Au choix, j’aurais préféré le contraire.
- Clarisse .
-— Mais c’était pour prendre ma chemise de nuit !
- Ventroux .
-— Oui, oh ! tu as toujours de bonnes raisons ! Mais, d’abord, quel besoin as-tu de te mettre en chemise de nuit à quatre heures de l’après-midi ?
- Clarisse .
-— Tiens ! tu es bon, toi ! on voit que ce n’est pas toi qui es allé crever de chaleur au mariage de la petite Duchômier.
- Se levant.
-Et tiens, encore ça, pour qui y ai-je été ? Hein ? C’est pour toi, c’est pas pour moi, bien sûr !  Elle gagne le milieu de la scène tout en parlant.
- Pour t’épargner une corvée !… comme toujours !… Car enfin, ce n’est pas moi qui suis le collègue du père à la Chambre ! Je ne suis pas député, moi ! c’est toi.
-Tu as une façon de me remercier !
- Ventroux ,  haussant les épaules.
- - Il ne s’agit pas de te remercier !…
- Clarisse ,  lui coupant la parole.
- - Oh ! je sais, tout t’est dû ! Un remerciement de ta part, je suis encore à l’attendre !  Remontant vers lui.
- N’empêche que quand je suis rentrée, en transpiration, j’ai éprouvé le besoin de me mettre à l’aise.
-Je crois que c’est permis ?
- Ventroux .
-— Eh bien ! oui, ça… ! ça, j’admets !
- Clarisse ,  remontant au-dessus du canapé.
- - C’est encore heureux ! Parbleu, tu es au frais, ici ! Tu ne te doutes pas que dehors nous avons au moins… trente-cinq au trente-six degrés… de latitude !
- Ventroux ,  ironique.
- - De latitude ?
- Clarisse ,  à qui l’intention de son mari échappe.
- - Trente-six degrés, parfaitement !
- Ventroux .
-— Quoi, "de latitude" Qu’ça veut dire, ça : "de latitude" ?
- Clarisse ,  au-dessus du canapé, sur un ton d’ironie légèrement méprisante.
- - Tu ne sais pas ce que c’est que… "latitude" ?  Descendant.
- Eh bien !… c’est triste, à ton âge !  Arrivée à droite de la table, se retournant vers son mari et l’écrasant de sa supériorité.
- "Latitude", c’est le thermomètre.
- Ventroux ,  sur un ton moqueur.
- - Ah ?… Je te demande pardon ! J’ignorais.
- Clarisse .
+— Mais c’était pour prendre ma chemise de nuit ! Ventroux .
+Tu as une façon de me remercier ! Ventroux , haussant les épaules.
+- Il ne s’agit pas de te remercier !… Clarisse , lui coupant la parole.
+Je crois que c’est permis ? Ventroux .
+— Eh bien ! oui, ça… ! ça, j’admets ! Clarisse , remontant au-dessus du canapé.
+- De latitude ? Clarisse , à qui l’intention de son mari échappe.
+- Trente-six degrés, parfaitement ! Ventroux .
+- Tu ne sais pas ce que c’est que… "latitude" ? Descendant.
+"Latitude", c’est le thermomètre.
+Ventroux , sur un ton moqueur.
+- Ah ?… Je te demande pardon ! J’ignorais.
 — C’est pas la peine d’avoir été au collège.
- S’asseyant sur la chaise, à droite de la table.
-Clarisse .
-— Eh ben ! La belle affaire ! Ça n’en irait pas plus mal ! C’est toujours quand la Chambre est en vacances que le pays est le plus tranquille ; alors !…
- Ventroux , qui est redescendu à gauche de la table.
+S’asseyant sur la chaise, à droite de la table.
 En appuyant sur les mots.
-Clarisse .
-— Je te demande pardon, ça en a ! Parce que, à cause de ton Parlement, nous sommes encore à Paris par trente-six degrés… de latitude…
- Ventroux , narquois - Tu y tiens.
- Clarisse .
-— Je ne t’ai pas attrapée parce que tu as changé de chemise ; je t’ai attrapée parce que tu te promenais devant ton fils en chemise transparente.
- Clarisse ,  presque crié.
- - Est-ce que c’est de ma faute si on voit au travers ?
- Ventroux .
+Il s’assied face à sa femme.
+Clarisse , presque crié.
+- Est-ce que c’est de ma faute si on voit au travers ? Ventroux .
 — Non ! mais c’est de ta faute si tu entres avec dans ta chambre.
- Clarisse .
-— Ah ! non, ça, c’est le comble ! Je n’ai plus le droit d’entrer dans ma chambre maintenant ?
- Ventroux .
-— Mais je n’ai jamais parlé de ça ! Ne me fais donc pas dire ce que je ne dis pas !
- Clarisse ,  sans l’écouter.
- - Où veux-tu que j’aille me déshabiller ? A la cuisine ? A l’office ? Devant les domestiques ? Ah ! C’est pour le coup que tu crierais comme un putois.
- Ventroux .
-— Cette mauvaise foi dans la discussion !…
- Clarisse ,  se levant et remontant vers le canapé.
- - Il n’y a pas de mauvaise foi ! Je suis chez moi dans ma chambre ! C’est vous qui n’aviez pas besoin d’y être ! Je ne vous ai pas demandé d’y venir, n’est-ce pas ?  S’asseyant sur le canapé.
- Eh ! bien, si ma tenue vous gênait, vous n’aviez qu’à vous en aller.
- Ventroux ,  se levant.
- - Voilà ! Voilà sa logique !
- Clarisse .
-— C’est vrai, ça !… Me faire une scène parce que je suis entrée en chemise de jour !  Brusquement et presque crié.
- Mais comment voulais-tu que je fasse, puisque ma chemise de nuit était dans ma chambre ?
- Ventroux ,  allant à elle.
- - Eh ! bien, j’étais là ! Tu n’avais qu’à me la demander ! Je te l’aurais apportée !
- Clarisse ,  avec une logique déconcertante.
- - Alors, c’était la même chose : tu m’aurais vue toute nue.
- Ventroux .
-— Mais moi, moi ! je suis ton mari !
- Clarisse .
-— Eh ! bien, lui ! c’est mon fils !
- Ventroux ,  se prend les cheveux à se les arracher, et, d’une voix larmoyante.
- - Ah ! non ! C’est à décourager !  A Clarisse.
- Alors, tu trouves que c’est pareil ?
- Clarisse .
-— Mais… c’est plus près !
- Ventroux .
-— Oh !
- Clarisse .
-— En somme, toi, quoi ? tu es un étranger pour moi ! Tu es mon mari, mais c’est une convention ! Quand je t’ai épousé, — je ne sais pas pourquoi…
- Ventroux ,  s’incline, puis.
- - Merci.
- Clarisse ,  sans s’interrompre.
- -… je ne te connaissais pas ; et, crac, du jour au lendemain, parce qu’il y avait un gros monsieur en ceinture tricolore devant qui on avait dit "oui", c’était admis ! tu me voyais toute nue.
+— Cette mauvaise foi dans la discussion !… Clarisse , se levant et remontant vers le canapé.
+Eh ! bien, si ma tenue vous gênait, vous n’aviez qu’à vous en aller.
+Ventroux , se levant.
+- Voilà ! Voilà sa logique ! Clarisse .
+- Alors, c’était la même chose : tu m’aurais vue toute nue.
+— Mais moi, moi ! je suis ton mari ! Clarisse .
+- Ah ! non ! C’est à décourager ! A Clarisse.
+Alors, tu trouves que c’est pareil ? Clarisse .
+— Mais… c’est plus près ! Ventroux .
+— Oh ! Clarisse .
+Clarisse , sans s’interrompre.
 Eh ! ben, ça, c’est indécent.
- Ventroux .
-— Ah ! tu trouves !
- Clarisse .
-— Tandis que mon fils, quoi ? C’est ma chair ! C’est mon sang ! Eh ben !… que la chair de ma chair voie ma chair, il n’y rien d’inconvenant !  Se levant.
- A part les préjugés !
- Ventroux .
-— Mais c’est tout, les préjugés ! C’est tout !
- Clarisse ,  passant devant lui, avec hauteur.
- - Pour les esprits mesquins, oui ! Mais, Dieu merci ! je suis au-dessus de ça !
- Ventroux ,  s’effondrant sur le fauteuil, près de la cheminée.
- - Voilà ! Voilà ! elle est au-dessus de ça ! elle arrange tout comme ça !
- Clarisse ,  revenant à la charge, tout en allant s’asseoir sur le canapé.
- - Non, mais enfin… est-ce que, depuis la plus tendre enfance du petit, il n’a pas vingt-cinq mille fois assisté à ma toilette ? Et tu n’as jamais rien dit !
- Ventroux .
-— Il y a tout de même un jour où il faut que ces choses-là cessent.
- Clarisse ,  exaspérante de calme.
- - Oui.
-Oh !… J’te dis pas !
- Ventroux .
-— Eh ben ! alors !
- Clarisse ,  les yeux au plafond.
- - Bon !… Quand ?
- Ventroux .
-— Quoi, "quand" ?
- Clarisse ,  même jeu.
- - Quel jour ?… A quelle heure ?
- Ventroux .
-— Quoi ? quoi ? "Quel jour ? A quelle heure ? "
- Clarisse .
+— Ah ! tu trouves ! Clarisse .
+A part les préjugés ! Ventroux .
+Clarisse , exaspérante de calme.
+Oh !… J’te dis pas ! Ventroux .
+— Eh ben ! alors ! Clarisse , les yeux au plafond.
+- Bon !… Quand ? Ventroux .
+— Quoi, "quand" ? Clarisse , même jeu.
+- Quel jour ?… A quelle heure ? Ventroux .
+— Quoi ? quoi ? "Quel jour ? A quelle heure ? " Clarisse .
 — Cesse-t-on ? Il doit y avoir un jour, une heure spéciale.
-Pourquoi particulièrement aujourd’hui ? Pourquoi pas hier ? Pourquoi pas demain ? Alors, je te demande : "Quel jour ?… Quelle heure ? "
- Ventroux ,  répétant sur le même ton.
- - "Quel jour, quelle heure ! " Elle vous a de ces questions !… Est-ce que je sais, moi ? Comment veux-tu que je précise ?
- Clarisse .
-— Tu ne peux pas préciser !  Se levant et s’avançant sur son mari.
- - Mon Dieu, que c’est bête, ce que tu dis là !
- Clarisse ,  gagnant la gauche.
- - Mais non ! tu m’attaques, je me défends.
- Ventroux ,  se levant, et allant à elle.
- - Enfin, qu’est-ce que tu veux me prouver ? Qu’une mère a raison de se montrer en chemise à son fils ?
- Clarisse ,  adossée contre le devant de la table de gauche.
- - Mais ce n’est pas là-dessus que j’en suis ! Ça t’est désagréable, eh ! bien, c’est bon !… tu n’as qu’à me le dire sans t’emporter ; je ferai attention.
- Ventroux ,  peu convaincu.
- - Oui, oh ! tu feras attention !  S’asseyant à droite de la table.
- Tu sais très bien que non ! tu ne peux pas ne pas traîner en chemise ; c’est plus fort que toi.
- Clarisse .
-— Oh ! que c’est exagéré !
- Ventroux .
+— Tu ne peux pas préciser ! Se levant et s’avançant sur son mari.
+- Mais non ! tu m’attaques, je me défends.
+Ventroux , se levant, et allant à elle.
+Ventroux , peu convaincu.
+- Oui, oh ! tu feras attention ! S’asseyant à droite de la table.
+— Oh ! que c’est exagéré ! Ventroux .
 — Tous les jours je t’en fais l’observation.
- Clarisse .
-— Je t’assure, non ! Si tu me vois quelquefois comme ça le matin, c’est que ma toilette n’est pas faite, mais une fois que je suis habillée, je te certifie…
- Ventroux .
--… Que tu n’es plus en chemise ; oh ! ça, évidemment ! Seulement, tu ne l’es jamais, habillée !
- Clarisse ,  s’emportant.
- - Enfin, quoi ? Qu’est-ce que tu veux ? Que je ne fasse pas ma toilette ?
- Ventroux .
-— Mais si ! Mais si ! Fais-la, ta toilette ! mais reste chez toi pour la faire !… et ferme la porte ! Elle est toujours ouverte dans ces moments-là ! Comme c’est convenable pour les domestiques !
- Clarisse .
 — Quoi ? Ils n’entrent pas.
- Ventroux .
-— Ils n’ont pas besoin d’entrer pour te voir, ils n’ont qu’à regarder.
- Clarisse .
-— Si tu crois qu’un domestique ça regarde !
- Ventroux .
- - Ah ! oui, parce que, là, je n’aime pas être dérangée quand je mets ma voilette ; j’aime pas qu’on tourne autour de moi, j’en viens pas à bout.
- Ventroux ,  se levant et remontant au-dessus du canapé.
- - C’est vraiment dommage qu’il n’en soit pas de même pour tes ablutions !… Mais pas seulement ça ! Tu fais mieux encore : tu allumes dans ton cabinet de toilette… et tu ne fermes même pas tes rideaux !
- Clarisse ,  avec un geste indigné.
- - Oh ! quand ?
- Ventroux .
-— Mais… hier !
- Clarisse ,  subitement calmée.
- - Ah ! bien, oui, hier.
- Ventroux .
-— Parce que tu ne vois plus au dehors, tu es comme l’autruche : tu t’imagines qu’on ne te voit pas du dehors.
- Clarisse ,  allant s’adosser contre le devant de la table.
- - Avec insouciance.
-— Oh ! qui veux-tu qui regarde ?
- Ventroux .
+— Si tu crois qu’un domestique ça regarde ! Ventroux .
+Ventroux , se levant et remontant au-dessus du canapé.
+- Oh ! quand ? Ventroux .
+— Mais… hier ! Clarisse , subitement calmée.
+- Ah ! bien, oui, hier.
+Clarisse , allant s’adosser contre le devant de la table.
+- Avec insouciance.
+— Oh ! qui veux-tu qui regarde ? Ventroux .
 — Qui ? Indiquant la fenêtre du geste.
-Mais Clemenceau, ma chère amie !… Clémenceau, qui demeure en face !… et qui est tout le temps à sa fenêtre !
- Clarisse .
-— Bah ! il en a vu bien d’autres, Clemenceau !
- Ventroux .
-— C’est possible !… C’est possible, qu’il en ait vu d’autres, mais j’aime autant qu’il ne voie pas celle-là.
-Ah ! ben, je serais propre !
- Il s’assied sur le canapé.
-Clarisse .
-— En quoi ?
- Ventroux .
+— Bah ! il en a vu bien d’autres, Clemenceau ! Ventroux .
+Ah ! ben, je serais propre ! Il s’assied sur le canapé.
+— En quoi ? Ventroux .
 — T’as pas ça à craindre, il est de ton parti.
- Ventroux .
- - Toi ?
- Ventroux ,  se levant.’ - Quoi ? Tu le sais bien ! Tu sais bien que, dans une des dernières combinaisons, à la suite de mon discours sur la question agricole, on est venu tout de suite m’offrir… le portefeuille… de la Marine.
-Clarisse ,  s’asseyant à droite de la table.
- - Oui, oh !…
- Ventroux .
-— Ministre de la Marine ! tout de même, hein ? tu me vois ?
- Clarisse .
+Clarisse , s’asseyant à droite de la table.
+- Oui, oh !… Ventroux .
+— Ministre de la Marine ! tout de même, hein ? tu me vois ? Clarisse .
 — Pas du tout.
- Ventroux ,  vexé.
- - Naturellement.
- Clarisse .
-— Ministre de la Marine ! tu ne sais même pas nager !
- Ventroux .
-— Qu’ça prouve, ça ? Est-ce qu’on a besoin de savoir nager pour administrer les affaires de l’État ?
- Clarisse .
-— Pauvres affaires !
- Ventroux ,  tout en parlant, gagnant par le fond, la gauche de la scène, de façon à descendre à gauche de la table.
- - Oui, c’est entendu ! Oh ! d’ailleurs, je me demande pourquoi je discute ? On n’est jamais prophète dans son pays.
-Heureusement que ceux qui ne me connaissent pas me jugent d’autre façon que toi !  S’asseyant sur la chaise, à gauche de la table et face à sa femme.
- Eh ! bien, je t’en supplie ! n’entrave pas ma carrière en compromettant une si belle situation par des imprudences dont l’effet peut être irréparable.
- Clarisse ,  haussant les épaules.
- - Irréparable !…
- Ventroux .
-— Songe que tu es la femme d’un ministre de demain ! Eh bien ! quand tu seras ministresse, est-ce que tu te baladeras dans les couloirs du ministère en chemise ?
- Clarisse .
-— Mais non ! bien entendu !
- Ventroux .
-— Et quand je dis ministre ! On ne sait pas ! C’est le beau du régime : tout le monde peut aspirer quelque jour à devenir… président de la République.
-Eh bien ! que je le devienne !  Elevant la main comme pour parer à une objection.
- Mettons ! On reçoit des rois !… des reines ! Est-ce que tu les recevras en chemise ?
- Clarisse .
-— Oh ! non ! non !
- Ventroux .
-— Est-ce que tu te montreras à eux comme ça ?
- Clarisse .
+— Ministre de la Marine ! tu ne sais même pas nager ! Ventroux .
+Clarisse , haussant les épaules.
+- Irréparable !… Ventroux .
+— Mais non ! bien entendu ! Ventroux .
+Eh bien ! que je le devienne ! Elevant la main comme pour parer à une objection.
+— Oh ! non ! non ! Ventroux .
+— Est-ce que tu te montreras à eux comme ça ? Clarisse .
 — Mais non, voyons !… Je mettrai ma robe de chambre.
- Ventroux ,  se levant en se prenant la tête à deux mains.
- - Sa robe de chambre ! elle mettra sa robe de chambre !…
- Clarisse .
-— Enfin, je mettrai ce que tu voudras !
- Ventroux ,  devant la table.
- - Non, c’est effrayant, ma pauvre enfant ! tu n’as aucune idée de ce que c’est que la correction.
- Clarisse ,  se dressant avec un geste indigné.
- - Moi ?
- Ventroux ,  avec indulgence, en lui prenant amicalement les épaules entre les mains.
- - Oh ! Je ne t’en veux pas ! Ce n’est pas du vice, chez toi ; au contraire, c’est de l’ingénuité.
+Ventroux , se levant en se prenant la tête à deux mains.
+- Sa robe de chambre ! elle mettra sa robe de chambre !… Clarisse .
+— Enfin, je mettrai ce que tu voudras ! Ventroux , devant la table.
+Clarisse , se dressant avec un geste indigné.
+- Moi ? Ventroux , avec indulgence, en lui prenant amicalement les épaules entre les mains.
 N’empêche que, par deux chemins opposés, on arrive quelquefois au même résultat.
- Il passe au n o deux.
-Clarisse .
-— Oh ! cite-moi un cas !… cite-moi un cas où j’ai été incorrecte !
- Ventroux .
-— Oh ! pas bien loin à chercher ! pas plus tard qu’hier, tiens, quand Deschanel est venu me voir.
- Clarisse .
-— Eh ben ?
- Ventroux .
-Clarisse ,  se dérobant.
- - Oh ! les cuisses, les cuisses ! Je ne m’occupais que de l’étoffe.
- Ventroux .
-— Oui, mais les cuisses étaient dessous ! Tu trouves que c’est une tenue ?
- Clarisse .
-— Eh ben ! comment voulais-tu que je fasse ? Je ne pouvais pourtant pas lui demander d’ôter son pantalon, à ce monsieur que je voyais pour la première fois !
- Ventroux ,  écartant de grands bras.
- - Oh ! tu vois du mal dans tout.
- Ventroux ,  haussant les épaules, tout en remontant.
- - Ah ! oui, je vois du mal dans tout !
- Clarisse ,  se retournant brusquement et allant s’asseoir, à gauche de la table, face à Ventroux.
- - Non, mais je te conseille de critiquer, toi qui es si sévère pour les autres ! Tu parles de ma tenue ! Eh ! bien, et la tienne… l’autre jour… au déjeuner sur l’herbe ?… avec mademoiselle Dieumamour ?
- Ventroux .
-— Quoi ? Quoi ? mademoiselle Dieumamour ?
- Clarisse .
-— Quand tu lui as sucé la nuque ? Tu trouves cela convenable ?
- Ventroux .
-— Quand je lui ai…  Se prenant le front à deux mains.
- Ah ! non, non ! Quand les femmes se mêlent d’écrire l’histoire !…
- Il s’assied à droite de la table.
-Clarisse .
-— Quoi ? Tu ne lui as pas sucé la nuque ?
- Ventroux ,  avec force.
- - Si je lui ai sucé la nuque ! Evidemment, je lui ai sucé la nuque ! Je lui ai sucé la nuque, et je m’en vante ! C’est tout à mon honneur !
- Clarisse .
-— Ah ?… tu trouves !
- Ventroux .
-— Tu ne penses pas que ce soir par un désir inspiré par ses quarante printemps, et les trous de petite vérole qu’elle a sur le nez, que… ?
- Clarisse .
-— Est-ce qu’on sait jamais, avec les hommes ! c’est si vicieux !
- Ventroux .
-— Oui, oh ben ! je t’assure !… Seulement, elle avait été piquée par une mauvaise mouche ; la piqûre avait un sale aspect ! c’était déjà tout enflé ! je ne pouvais pas la laisser crever du charbon par respect des convenances !
- Clarisse ,  haussant les épaules.
- - Du charbon ! Qu’est-ce que tu en sais, si la mouche était charbonneuse ?
- Ventroux ,  sur un ton coupant.
- - Je n’en sais rien !… Mais, dans le doute, je n’avais pas à hésiter.
-Une piqûre de mouche peut être mortelle si on ne cautérise pas ou si on ne suce pas immédiatement la plaie.
-Il n’y avait rien pour cautériser, je me suis dévoué ! J’ai fait ce que commandait la charité chrétienne !…  Geste large, puis :  J’ai sucé !
- Clarisse .
-— Oui, ah ! c’est commode ! Avec ce système-là, il n’y a plus qu’à sucer la nuque à toutes les femmes qui vous plaisent, sous prétexte qu’elles ont peut-être été piquées par une mouche charbonneuse.
- Ventroux .
-— Là ! là ! Qu’est-ce que tu vas chercher ? Alors tu crois que c’est pour mon agrément que j’ai fait ça ?
- Clarisse ,  sans conviction.
- - Non ! non !
- Ventroux .
-— J’en ai gardé pendant deux heures un goût de vieille chandelle et de cosmétique rance dans la bouche ! Si tu trouves que ce n’est pas méritoire !
- Clarisse .
-— Oh ! si ! si ! Tout ce que les autres font, c’est mal ! mais, toi ! c’est toujours admirable !
- Elle se lève.
-Ventroux .
-— Je ne dis pas ça !
- Clarisse ,  au-dessus de la table, en se penchant vers son mari toujours assis.
- - Tout de même, moi, si j’avais été sucer la nuque à Monsieur Deschanel !… Ah ! ben, merci ! qu’est-ce que j’aurais pris pour mon rhume !
- Elle descend n o deux Ventroux .
-— Oh ! ben, tiens, naturellement !
- Clarisse .
-— Voilà ! voilà ! Qu’est-ce que je disais ?  Se campant devant son mari.
- Et tu appelles cela de la justice ?
- Ventroux ,  lui prend la main, la regarde en dodelinant de la tête avec un rire indulgent, puis.
- - Oh ! tiens ! tu as un mode de discussion qui vous désarme !
- Clarisse .
-— Quoi ! C’est pas vrai ?
- Ventroux ,  l’attirant à lui, et à pleine voix, en appuyant sur les mots.
- - Oui, là ! oui !… tu as raison !… tu as toujours raison ! c’est la dernière fois que je suce la nuque à mademoiselle Dieumamour !
- Clarisse ,  vivement.
- - Oh ! je ne te demande pas ça ! Si elle est repiquée, cette malheureuse, ton devoir d’homme !…
- Ventroux .
-— Là, eh ! bien, tu vois bien que tu es de mon avis !
- Clarisse ,  tout contre lui, et sur un ton pleurnichard.
- - Mais c’est qu’aussi tu m’irrites ! tu me dis des choses blessantes ; alors, c’est plus fort que moi, je me bute.
- Ventroux .
-— Moi, je te dis des choses blessantes !
- Clarisse .
-— Oui ! que je me promène toute nue et que j’ai sucé la nuque à monsieur Deschanel.
- Ventroux .
-— Je ne t’ai jamais dit ça !
- Clarisse .
+Il passe au n o deux.
+— Oh ! cite-moi un cas !… cite-moi un cas où j’ai été incorrecte ! Ventroux .
+— Eh ben ? Ventroux .
+Clarisse , se dérobant.
+- Oh ! les cuisses, les cuisses ! Je ne m’occupais que de l’étoffe.
+Clarisse , gagnant l’extrême gauche.
+- Oh ! tu vois du mal dans tout.
+Ventroux , haussant les épaules, tout en remontant.
+— Quoi ? Quoi ? mademoiselle Dieumamour ? Clarisse .
+— Quand tu lui as sucé la nuque ? Tu trouves cela convenable ? Ventroux .
+— Quand je lui ai… Se prenant le front à deux mains.
+— Quoi ? Tu ne lui as pas sucé la nuque ? Ventroux , avec force.
+— Ah ?… tu trouves ! Ventroux .
+— Est-ce qu’on sait jamais, avec les hommes ! c’est si vicieux ! Ventroux .
+- Non ! non ! Ventroux .
+— Oh ! ben, tiens, naturellement ! Clarisse .
+— Voilà ! voilà ! Qu’est-ce que je disais ? Se campant devant son mari.
+- Oh ! tiens ! tu as un mode de discussion qui vous désarme ! Clarisse .
+— Moi, je te dis des choses blessantes ! Clarisse .
+— Je ne t’ai jamais dit ça ! Clarisse .
 — Non, enfin, que j’ai pincé les cuisses à monsieur Deschanel.
- Ventroux .
-— Enfin, sapristi ! quand tu fais des choses que je désapprouve, j’ai bien le droit de te faire des observations.
- Clarisse ,  s’appuyant sur son genou.
- - Je ne dis pas le contraire, mais tu peux me les faire gentiment ! Tu sais bien que, quand tu me parles avec douceur, tu fais de moi tout ce que tu veux.
- Ventroux .
-— Eh ! bien, soit ! gentiment, là ! Je te supplie de ne plus te promener toujours en chemise comme tu le fais.
- Clarisse .
-— Eh ! bien, oui ! dis-moi ça comme ça !
- Ventroux .
-— A la bonne heure ! Voilà comme j’aime à t’entendre parler !
- Clarisse ,  la tête sur son épaule.
- - Tu vois comme je suis raisonnable quand tu veux.
- A ce moment, Victor, arrivant du fond, entre carrément dans le salon.
-Les Mêmes, Victor Victor ,  en voyant Clarisse en chemise sur les genoux de Ventroux, se détournant vivement.
- - Oh !
- Clarisse ,  se retournant au cri ; puis, à la vue de Victor.
- - Oh !
- Elle ne fait qu’un bond vers la fenêtre, bousculant au passage, à le renverser, Victor, qui, le dos tourné, lui obstrue la route par sa présence.
-Ventroux ,  toujours assis ! mais se redressant sur la paume des mains.
- - Hein ? Quoi ? Qui est là ?
- Victor ,  sans se retourner.
- - Moi, monsieur !
- Clarisse ,  dans la fenêtre, ramenant contre elle le bas du rideau sans défaire l’embrasse.
- - Ne regardez pas ! Ne regardez pas !
- Victor ,  sur le ton blasé d’un homme qui en a vu d’autres.
- - Oh !…
- Ventroux ,  traversant la scène et avec rage.
- - Ah ! "Ne regardez pas ! Ne regardez pas ! " Il est bien temps !
- Clarisse ,  pour le calmer.
- - Mais je suis derrière le rideau !
- Ventroux ,  devant le canapé.
- - Qu’ça fait, ça ? Il t’a vue en chemise, maintenant, ce garçon.
- Victor ,  sur le même ton blasé.
- - Oh !… je ne suis pas nouveau dans la maison !…
- Ventroux ,  descendant à l’extrême droite.
- - Ça y est ! voilà ! c’est clair ! ce n’est pas la première fois qu’il te voit en chemise ! C’est charmant !
- Clarisse .
-— Je t’assure, mon ami !…
- Ventroux ,  remontant près du canapé.
- - Oh ! laisse-moi tranquille ! Quand tu sais qu’une chose m’est désagréable !…
- Victor ,  dans un bon sentiment.
- - Que monsieur ne se fasse pas de mauvais sang ! J’ai ma payse, alors !…
- Ventroux ,  bondissant sur lui.
- - Qu’est-ce que vous dites ? Ah çà ! dites donc, vous, "Vous avez votre payse" ! Est-ce que vous supposez que madame ?…
- Victor ,  protestant.
- - Oh ! monsieur !…
- Ventroux .
-— Enfin, quoi ? Qu’est-ce qu’il y a ? Qu’est-ce que vous voulez ?
- Victor .
-— C’est pour dire à monsieur qu’il était venu ce matin un monsieur qui a laissé sa carte.
- Ventroux ,  lui arrachant la carte d’un geste sec.
- - Qui ça ?  Passant n o  un tout en maugréant.
- Cette façon de fourrer son nez partout ?…  Ayant lu.
- Ah ! non ! c’est pas possible ? Ah ! bien, celle-là ! Il est venu, lui ?…
- Victor .
-— Lui, parfaitement !
- Ventroux ,  pour le rappeler à l’ordre, sur un ton bourru.
- - Quoi ? Quoi "lui" ? Qui, "lui" ?
- Victor ,  sans se déconcerter.
- - Ç’ui là ! enfin ce monsieur ; et il a dit qu’il repasserait à quatre heures et demie.
- Ventroux ,  hochant la tête avec un sourire intérieur qui éclaire sa physionomie.
- - Ah ! bien, celle-là !…  Se retournant et apercevant Victor tout près de lui qui hoche également la tête avec un sourire approbateur.
- Voulez-vous me fiche le camp, vous ?
- Victor ,  détalant.
- - Oui, monsieur.
- Il sort.
-Clarisse, Ventroux
- Clarisse , sortant de derrière son rideau en poussant un soupir de soulagement.
- - Ah !… ouf !
- Ventroux ,  tout en descendant vers le fauteuil de droite .
-— Oui, ah ! je t’engage à dire "ouf" !… Ah ! je ne suis pas fâché de ce qui t’arrive !
- Clarisse ,  qui a longé le canapé pour redescendre milieu scène .
-— Oui ? Ah ! ben, tant mieux ! Je craignais que ça t’ait mécontenté ?
- Ventroux ,  ahuri par cette interprétation .
-— Hein ?…  Avec colère .
-Mais oui, ça m’a mécontenté ! Sûrement, que ça m’a mécontenté !
- Clarisse ,  gagnant vers son mari .
-— Mais, alors, pourquoi dis-tu que tu n’es pas fâché ?
- Ventroux ,  même jeu .
-— Je ne suis pas fâché de ce qui t’arrive, parce que, peut-être, ce te sera une leçon pour l’avenir.
- Il s’assied avec humeur sur le fauteuil près de la cheminée .
- Clarisse ,  devant la cheminée .
+Clarisse , s’appuyant sur son genou.
+— Eh ! bien, oui ! dis-moi ça comme ça ! Ventroux .
+- Tu vois comme je suis raisonnable quand tu veux.
+A ce moment, Victor, arrivant du fond, entre carrément dans le salon.
+- Oh ! Clarisse , se retournant au cri ; puis, à la vue de Victor.
+Ventroux , toujours assis ! mais se redressant sur la paume des mains.
+- Hein ? Quoi ? Qui est là ? Victor , sans se retourner.
+- Oh !… Ventroux , traversant la scène et avec rage.
+- Mais je suis derrière le rideau ! Ventroux , devant le canapé.
+- Qu’ça fait, ça ? Il t’a vue en chemise, maintenant, ce garçon.
+Victor , sur le même ton blasé.
+— Je t’assure, mon ami !… Ventroux , remontant près du canapé.
+- Oh ! monsieur !… Ventroux .
+Ventroux , lui arrachant la carte d’un geste sec.
+- Qui ça ? Passant n o un tout en maugréant.
+Cette façon de fourrer son nez partout ?… Ayant lu.
+Ah ! non ! c’est pas possible ? Ah ! bien, celle-là ! Il est venu, lui ?… Victor .
+— Lui, parfaitement ! Ventroux , pour le rappeler à l’ordre, sur un ton bourru.
+- Quoi ? Quoi "lui" ? Qui, "lui" ? Victor , sans se déconcerter.
+Ventroux , hochant la tête avec un sourire intérieur qui éclaire sa physionomie.
+Voulez-vous me fiche le camp, vous ? Victor , détalant.
+- Oui, monsieur.
+Clarisse, Ventroux Clarisse , sortant de derrière son rideau en poussant un soupir de soulagement.
+- Ah !… ouf ! Ventroux , tout en descendant vers le fauteuil de droite .
+— Hein ?… Avec colère .
+— Mais, alors, pourquoi dis-tu que tu n’es pas fâché ? Ventroux , même jeu .
+Il s’assied avec humeur sur le fauteuil près de la cheminée .
+Clarisse , devant la cheminée .
 — Ah ! J’avais pas compris ça.
 J’avais cru à un mot gentil de ta part.
- Ventroux .
-— C’est ça ! à un mot d’encouragement ?
- Clarisse .
-— Oh ! ben, qu’est-ce que tu veux, c’est un petit malheur !  Se penchant vers son mari.
- Qui c’est le monsieur dont on t’a remis la carte ?
- Ventroux ,  ronchonnant .
-— Un petit malheur, voilà ! C’est tout l’effet que ça lui fait !
- Clarisse .
-— Mais quand je m’arracherais les cheveux !…  Sans transition.
- Qui c’est le monsieur dont…
- Ventroux ,  rageur .
-— Qui ? Quoi ? Quel monsieur ?
- Clarisse .
+— C’est ça ! à un mot d’encouragement ? Clarisse .
+Qui c’est le monsieur dont on t’a remis la carte ? Ventroux , ronchonnant .
+— Mais quand je m’arracherais les cheveux !… Sans transition.
+Qui c’est le monsieur dont… Ventroux , rageur .
+— Qui ? Quoi ? Quel monsieur ? Clarisse .
 — Dont on t’a remis la carte.
- Ventroux ,  se levant, et avec humeur .
-— Eh ! Qu’est-ce que ça te fait ?
- Il gagne le milieu de la scène.
- Clarisse ,  vexée .
-— Ah ! je te demande pardon !…
- Elle s’assied à la place laissée vacante par Ventroux .
- Ventroux ,  revenant à sa femme .
-Clarisse .
-— Pourquoi ?
- Ventroux .
-— Parce que si je prêtais le flanc à ses commérages, à celui-là !… Ah ! Ah !…  Changeant de ton.
- C’est l’homme qui a mené la campagne la plus acharnée contre moi au moment de mon élection.
- Clarisse .
-— Non ?… Ce n’est pas monsieur Hochepaix ?
- Ventroux .
-— Le maire de Moussillon-les-Indrets lui-même !
- Clarisse .
-— Comment ! cet homme qui a tout fait pour faire passer ton concurrent, le marquis de Berneville !
- Ventroux .
-— Le socialiste unifié ! parfaitement !
- Clarisse , se levant et gagnant la gauche.
-— Ah ! ben ! il a du culot !  S’adossant au devant de la table.
- Cet homme qui a dit de toi… ping pong !
- Ventroux ,  la regarde, étonné, puis, lentement, se lève et va vers elle.
+Ventroux , se levant, et avec humeur .
+— Eh ! Qu’est-ce que ça te fait ? Il gagne le milieu de la scène.
+Clarisse , vexée .
+Ventroux , revenant à sa femme .
+— Pourquoi ? Ventroux .
+— Non ?… Ce n’est pas monsieur Hochepaix ? Ventroux .
+— Le maire de Moussillon-les-Indrets lui-même ! Clarisse .
+— Le socialiste unifié ! parfaitement ! Clarisse , se levant et gagnant la gauche.
+— Ah ! ben ! il a du culot ! S’adossant au devant de la table.
 Une fois arrivé près de Clarisse, sur un ton narquois.
- - Comment dis-tu ça ?
- Clarisse ,  le plus naturellement du monde .
-— Ping pong !
- Ventroux ,  répétant en riant .
-— "Ping pong" !  Corrigeant .
-"Pis que pendre" !… pas "ping pong" !
- Clarisse ,  même jeu .
-— On ne dit pas ping pong ?
- Ventroux ,  du tac au tac .
+- Comment dis-tu ça ? Clarisse , le plus naturellement du monde .
+— Ping pong ! Ventroux , répétant en riant .
+— "Ping pong" ! Corrigeant .
+"Pis que pendre" !… pas "ping pong" ! Clarisse , même jeu .
+— On ne dit pas ping pong ? Ventroux , du tac au tac .
 — On ne dit pas ping pong.
- Clarisse .
-— J’ai toujours entendu dire ping pong !
- Ventroux ,  sur le même ton qu’elle .
 — Tu as toujours mal entendu.
- Clarisse .
-— Ah ! bien, c’est donc ça que je ne comprenais pas l’expression…
- Ventroux ,  ironique .
-— C’est donc ça, évidemment !
- Clarisse .
-— D’ailleurs, ça m’est égal ! ping pong ou pis que pendre, j’espère que tu vas le mettre à la porte, ce monsieur, avec tous les honneurs qui lui sont dus !
- Ventroux .
-— Au contraire, je serai le plus aimable possible ! et même, si tu le vois, je te prie également  Appuyant sur le mot .
+— C’est donc ça, évidemment ! Clarisse .
 d’affecter la plus grande amabilité.
- Clarisse , étonnée.
-— Ah !
- Ventroux .
+— Ah ! Ventroux .
 — Hochepaix chez moi ! C’est ma revanche.
-Ensuite, ça a beau être le dernier des chameaux…
- Clarisse .
-— Oh ! oui, des chameaux !
- Ventroux .
--… il faut penser que c’est un gros industriel ; que, dans sa fabrique de tissus, il emploie de cinq à six cents ouvriers, autant de voix dont il dispose, il est bon de se le ménager.
+Ensuite, ça a beau être le dernier des chameaux… Clarisse .
+— Oh ! oui, des chameaux ! Ventroux .
 Il faut être pratique dans la vie.
- Tirant sa montre .
-En attendant, il est près de quatre heures et demie ; il ne va pas tarder ; va, va t’habiller !
- Il la fait passer n o  deux .
- Clarisse ,  remontant .
-— C’est ça ! c’est ça !  Se ravisant et redescendant au-dessus du canapé .
-Ah !
- Elle va presser le bouton électrique .
- Ventroux ,  qui a gagné la gauche .
-— Qu’est-ce que tu fais ?
- Clarisse .
+Tirant sa montre .
+Clarisse , remontant .
+— C’est ça ! c’est ça ! Se ravisant et redescendant au-dessus du canapé .
+Ah ! Elle va presser le bouton électrique .
+Ventroux , qui a gagné la gauche .
+— Qu’est-ce que tu fais ? Clarisse .
 — Je sonne Victor.
- Ventroux ,  narquois .
-— Tu trouves qu’il ne t’a pas assez vue ?
- Clarisse ,  battant l’air de la main d’un geste gentil, comme pour envoyer une tape à son mari, puis .
-— Méchant !… c’est pour qu’il emporte ton plateau ;  Contournant le canapé pour aller, tout en parlant, devant le petit guéridon sur lequel est le café.
-Allez ! allez !… Allez, les mouches !… allez les guêpes !… allez, mesdames !…  A Ventroux .
-Je ne peux pas voir le désordre ; j’aime la tenue dans ma maison ; j’aime la tenue !
- Ventroux ,  montrant la tenue de sa femme .
-— Elle aime la tenue !
- Clarisse ,  qui est remontée au-dessus du canapé .
-— Et, maintenant, comme je ne veux pas que Victor me voie en chemise…
- Ventroux ,  moqueur .
-— Non, vraiment ?
- Clarisse ,  du même geste gentil que précédemment, elle lui envoie de loin une tape de la main, puis .
-— Ne sois pas taquin !  Tout en appuyant, par dessus le canapé, sur le bouton électrique.
- Quand il viendra, tu lui diras d’enlever tout ça, hein ?
- Ventroux .
-— Oui, eh ben ! c’est pas la peine de te fatiguer ; la sonnette ne marche pas.
+Ventroux , narquois .
+Allez ! allez !… Allez, les mouches !… allez les guêpes !… allez, mesdames !… A Ventroux .
+— Elle aime la tenue ! Clarisse , qui est remontée au-dessus du canapé .
+Quand il viendra, tu lui diras d’enlever tout ça, hein ? Ventroux .
 Il sera arrivé quelque chose dans la pile.
- Clarisse .
-— Ah ! ben, sans doute qu’elle est à sec ! elle a soif ; il n’y a qu’à remettre de l’eau !
- Ventroux .
-— Peut-être ! j’en sais rien !
- Il remonte .
- Clarisse .
+— Peut-être ! j’en sais rien ! Il remonte .
 — Je vais lui donner à boire.
- Ventroux ,  l’accompagnant .
-— C’est ça ! va ! va !
- Clarisse .
-— Oui.
- Elle sort par le fond à droite .
- Ventroux ,  au moment de refermer la porte, la rouvrant pour une derrière recommandation .
-— Et passe ta robe de chambre !
- Voix de Clarisse ,  dans sa chambre .
-A ce moment son regard s’arrête sur un point que le public n’aperçoit pas.
+Ventroux , l’accompagnant .
+— C’est ça ! va ! va ! Clarisse .
+Elle sort par le fond à droite .
+Ventroux , au moment de refermer la porte, la rouvrant pour une derrière recommandation .
+— Et passe ta robe de chambre ! Voix de Clarisse , dans sa chambre .
 Il fait : "Ah ! " puis, tout en saluant de la main .
-— Bonjour ! bonjour !  Au public, avec un ricanement amer.
- Clemenceau !  Avec rage, il referme le store .
-Il n’a donc rien à faire, c’t'homme-là !  A ce moment on entend un timbre résonner extérieurement .
-Ah !… L’autre maintenant !
- En ce disant, il a traversé la scène ; il remonte côté gauche de la table, contre laquelle il se campe dans une attitude de dignité .
- Victor  n o  deux ,  annonçant .
-— Monsieur Hochepaix !
- Hochepaix entre et s’arrête sur le pas de la porte, un peu hésitant .
- Ventroux ,  sans même tourner la tête et d’un ton détaché .
-— Entrez !
- Hochepaix ,  s’avançant .
-— Pardon !
- Ventroux ,  sur le même ton, à Victor .
-— Laissez-nous !  Tandis que Victor, après avoir jeté sur son maître un regard d’étonnement, quitte la pièce .
-—  Sur un ton froid et dédaigneux, à Hochepaix .
-Seyez-vous, je vous prie !
- Hochepaix ,  à droite de la table .
-— Mon cher député !…
- Ventroux ,  l’arrêtant du geste .
-— Oh !… "cher" !
- Hochepaix ,  qui déjà esquissait le geste de s’asseoir, se redressant à l’observation de Ventroux .
-— Pourquoi donc pas ?
- Ventroux ,  sur un ton pincé .
-— Après la campagne que vous avez menée contre moi !…
- Hochepaix .
-— Oh ! oh ! "la campagne" !
- Ventroux .
-— Vous m’avez traité partout de vendu ! de pourri ! de mouchard ! de résidu de la décadence !
- Hochepaix ,  vivement en étendant les mains comme pour enserrer celles de Ventroux .
-— Ça n’enlève rien à l’estime, croyez-le bien !
- Ventroux ,  caustique .
-— Ah ! très touché !
- En voyant Hochepaix qui esquisse le mouvement de s’asseoir, il fait mine de s’asseoir aussi mais se redresse aussitôt, en voyant qu’Hochepaix s’est arrêté dans son mouvement .
- Hochepaix .
-— Qu’est-ce que vous voulez ! je l’avoue, vous n’étiez pas mon candidat !
- Il fait mine de s’asseoir .
- Ventroux .
+— Bonjour ! bonjour ! Au public, avec un ricanement amer.
+Clemenceau ! Avec rage, il referme le store .
+Victor n o deux , annonçant .
+Ventroux , sans même tourner la tête et d’un ton détaché .
+— Entrez ! Hochepaix , s’avançant .
+— Pardon ! Ventroux , sur le même ton, à Victor .
+— Sur un ton froid et dédaigneux, à Hochepaix .
+Seyez-vous, je vous prie ! Hochepaix , à droite de la table .
+— Mon cher député !… Ventroux , l’arrêtant du geste .
+— Pourquoi donc pas ? Ventroux , sur un ton pincé .
+— Après la campagne que vous avez menée contre moi !… Hochepaix .
+— Oh ! oh ! "la campagne" ! Ventroux .
+— Ça n’enlève rien à l’estime, croyez-le bien ! Ventroux , caustique .
 — Je m’en suis aperçu.
- Il fait mine de s’asseoir mais se redresse en voyant qu’Hochepaix ne s’est pas assis .
- Hochepaix .
 — Ben ! oui, mon homme à moi, c’était le marquis de Berneville.
- Ventroux ,  avec un rire pincé .
-— Mais c’est votre droit !
- Hochepaix .
-— Vous comprenez : c’est un vieil ami à moi ; il est socialiste unifié, comme moi ! Ajoutez à cela que c’est lui qui a tenu ma fille sur les fonts baptismaux…
- Ventroux .
+Ventroux , avec un rire pincé .
+— Mais c’est votre droit ! Hochepaix .
 — Vous m’en direz tant.
- Hochepaix .
-— Enfin, un tas de raisons !  Faisant mine de s’asseoir et se redressant aussitôt ; même jeu de la part de Ventroux.
- Sans compter celle-ci, qu’il est plusieurs fois millionnaire et que l’intérêt de mes administrés !… Vous devez comprendre, n’est-ce pas ?…
- Ventroux .
-— Mais, je vous en prie, ne vous défendez pas !
- Hochepaix .
+— Mais, je vous en prie, ne vous défendez pas ! Hochepaix .
 — D’autant qu’en somme c’est vous qui avez été élu.
- Ventroux .
 — Ce qui pour moi est l’important.
- Hochepaix .
-— Evidemment !  Même jeu de faire mine de s’asseoir et de se relever aussitôt chez les deux hommes.
 Je n’ai pas douté un instant de votre bon accueil.
- Ventroux .
-— Et vous avez raison !  Face à lui, dos au public.
- La meilleure preuve, c’est que je disais tout à l’heure à madame Ventroux…
- Hochepaix .
+— Et vous avez raison ! Face à lui, dos au public.
 — Oh ! pardon ! Je ne vous ai pas demandé de ses nouvelles.
-Est-ce que je n’aurai pas le plaisir de lui être présenté ?
- Ventroux ,  s’écartant, de façon à être n o  deux .
-— Oh ! vous tombez mal ! ma femme est en train de s’habiller ; et, vous savez, quand les femmes sont à leur toilette, ça dure longtemps !
- Hochepaix ,  gagnant la gauche .
-— Oh ! c’est dommage !
- Voix de Clarisse ,  à la cantonade .
-— Ah ! vous trouvez que vous avez enlevé les tasses !… vous trouvez que vous avez enlevé les tasses !
- Ventroux ,  remontant à la voix de Clarisse et parlant aussitôt sur elle .
+— Oh ! c’est dommage ! Voix de Clarisse , à la cantonade .
 — Ah ! bien, non, tenez ! je la calomniais ! j’entends sa voix.
- Redescendant.
- Déjà prête ! c’est un miracle !
- Hochepaix .
-— Oh ! bien, je serai enchanté…
- Les mêmes, Clarisse, Victor Clarisse ,  toujours dans la même tenue que précédemment, surgissant du vestibule, suivie de Victor ; elle va droit au petit guéridon.
- - Oui, eh bien ! venez voir comme vous avez enlevé les tasses !
- Ventroux ,  se retournant tout en parlant.
- - Ma chère amie, je…  Apercevant la tenue de sa femme.
- Ah !
- Clarisse ,  sursautant au cri de Ventroux et, instinctivement, pirouettant sur elle-même pour se sauver ; elle donne ainsi contre le canapé sur lequel elle tombe à genoux.
- - Ah !… Oh ! Tu m’as fait peur !
- Ventroux ,  se précipitant vers elle et entre chair et cuir.
- - Nom d’un petit bonhomme ! veux-tu fiche le camp ! veux-tu fiche le camp !
- Clarisse ,  étonnée et en se remettant debout.
- - Qu’est-ce qu’il y a ?
- Ventroux .
-— Tu n’es pas folle ? Tu viens ici en chemise quand j’ai du monde ?
- Clarisse ,  à Hochepaix, par-dessus l’épaule de Ventroux.
- - Oh ? pardon, Monsieur ! je n’avais pas entendu sonner !
- Hochepaix ,  galant.
- - Mais, Madame, je ne me plains pas !
- Ventroux ,  reculant un peu, pour donner libre cours à ses gestes d’indignation.
- - Tu n’as pas honte ! te montrer comme ça, avec un domestique à tes trousses !
- Clarisse ,  à mi-voix à Ventroux, et sur le ton le plus naturel.
- - Mais non, c’est parce que Victor n’avait pas enlevé les tasses.
- A Victor.
- Tenez, mon garçon, regardez comme vous avez enlevé les tasses.
- Ventroux ,  hors de ses gonds.
- - Mais, je m’en fous des tasses.
- A Victor.
- Voulez-vous me foute le camp, vous !
- Il le pousse dehors.
-Victor .
-— Oui, Monsieur !
- Clarisse ,  descendant vers Hochepaix pendant que Ventroux exécute son jeu de scène avec Victor.
- - Oui, parce que je ne sais pas si vous êtes comme moi, Monsieur ? mais quand je vois des tasses…
- Ventroux ,  sautant sur sa femme et la faisant passer au n o trois.
- - Oui, oui, c’est bon ! Allez ! hop ! hop ! va-t-en !
- Clarisse ,  roulée pour ainsi dire dans les bras de Ventroux qui la pousse vers la porte du fond.
-Se dégageant.
- - Ah ! mais je t’en prie, ne me parle pas comme ça ! Je ne suis pas un chien !
- Ventroux ,  remontant en s’arrachant les cheveux, dos au public.
-- Oh !
- Clarisse .
-— C’est vrai ça !  Changeant brusquement de physionomie et très aimable, à Hochepaix en descendant vers lui tandis que Ventroux renferme la porte du fond.
- Monsieur Hochepaix sans doute ?
- Hochepaix ,  à gauche de la table.
- - Oui, Madame, oui !
- Ventroux ,  se retournant abasourdi par l’inconscience de sa femme.
- - Quoi ?
- Clarisse ,  très maîtresse de maison.
- - Enchanté, Monsieur ! Asseyez-vous donc, je vous en prie !
- En ce disant, elle s’assied à droite de la table, tandis qu’Hochepaix s’assied à gauche et face à Clarisse.
-Ventroux ,  courant à sa femme.
- - Ah ! non, non ! tu n’as pas la prétention de recevoir dans cette tenue !
- Clarisse ,  sans se déconcerter, se levant.
- - Oh ! En effet ! C’est un peu incorrect !
- Ventroux ,  au public, en haussant les épaules.
- - Incorrect !
- Clarisse .
-— Mais vraiment il fait si chaud !  Appliquant ses deux mains à plat sur le dos des deux mains de Hochepaix que celui-ci a sur la table.
- Tenez, tâtez mes mains, si j’ai la fièvre !
- Ventroux ,  écartant de grands bras.
- - C’est ça ! c’est ça ! tu vas recommencer comme avec Deschanel !
- Clarisse ,  toujours ses mains sur celles de Hochepaix, son buste ainsi penché par dessus la table.
- - Mais quoi ? c’est ses mains ! c’est pas ses cuisses !
- Hochepaix .
-— Comment ?
- Clarisse .
+Déjà prête ! c’est un miracle ! Hochepaix .
+- Ma chère amie, je… Apercevant la tenue de sa femme.
+- Qu’est-ce qu’il y a ? Ventroux .
+- Oh ? pardon, Monsieur ! je n’avais pas entendu sonner ! Hochepaix , galant.
+- Mais non, c’est parce que Victor n’avait pas enlevé les tasses.
+Tenez, mon garçon, regardez comme vous avez enlevé les tasses.
+Ventroux , hors de ses gonds.
+- Mais, je m’en fous des tasses.
+Voulez-vous me foute le camp, vous ! Il le pousse dehors.
+- Oh ! Clarisse .
+Monsieur Hochepaix sans doute ? Hochepaix , à gauche de la table.
+- Oui, Madame, oui ! Ventroux , se retournant abasourdi par l’inconscience de sa femme.
+- Quoi ? Clarisse , très maîtresse de maison.
+Ventroux , courant à sa femme.
+- Incorrect ! Clarisse .
+Tenez, tâtez mes mains, si j’ai la fièvre ! Ventroux , écartant de grands bras.
+- Mais quoi ? c’est ses mains ! c’est pas ses cuisses ! Hochepaix .
+— Comment ? Clarisse .
 — Pour lui montrer combien les miennes sont brûlantes.
- Hochepaix ,  ahuri, se méprenant.
- - Vos c… ?
- Clarisse ,  comprenant aussitôt la confusion de Hochepaix et corrigeant vivement.
- - Mes mains ! mes mains !
- Hochepaix .
-— Ah !
- Ventroux ,  saisissant sa femme par le bras et l’envoyant n o  trois.
- - Oui ! Eh bien ! il s’en fiche, Monsieur Hochepaix ! il s’en fiche de tes mains.
- Hochepaix ,  vivement, très galant.
- - Mais pas du tout !
- Clarisse ,  en se frottant son bras meurtri par la brutalité de son mari.
- - Là, tu vois !
- Ventroux ,  éclatant et en marchant sur sa femme de façon à la faire remonter.
- - Oui ! Eh ! bien, en voilà assez ! je te prie de t’en aller !
- Clarisse ,  tout en remontant.
- - C’est bien ! c’est bien ! mais alors c’était pas la peine de me demander d’être aimable.
- Ventroux ,  redescendant.
- - Eh ! qui est-ce qui te demande d’être aimable ?
- Clarisse .
-— Comment qui ? Mais toi ! toi ! C’est toi qui m’as bien recommandé : "Et si tu vois Monsieur Hochepaix…"
- Ventroux ,  flairant la gaffe, ne faisant qu’un bond vers sa femme, et vivement à voix basse.
- - Oui ! bon ! bon ! Ça va bien !
- Clarisse ,  sans merci.
- - Il n’y a pas de : "Bon, bon ! ça va bien ! "  Poursuivant  "… Je te prie au contraire d’affecter la plus grande amabilité !… "
- Ventroux ,  allant protester vers Hochepaix.
- - Moi ! Moi ! mais jamais de la vie ! jamais de la vie !
- Clarisse ,  de même .
-— C’est trop fort ! tu as même ajouté : "Ça a beau être le dernier des chameaux…"
- Ventroux ,  avec le mouvement du corps d’un monsieur qui recevrait un coup de pied quelque part.
- - Oh !
- Hochepaix ,  avec une inclination de tête qu’accompagne un sourire de malice.
- - Ah ?
- Clarisse ,  poursuivant sans pitié.
- - "… n’empêche que c’est un gros industriel qui occupe de cinq à six cents ouvriers, il est bon de se le ménager ! "
- Ventroux ,  parlant en même temps que Clarisse et de façon à couvrir sa voix.
- - Mais non ! mais non ! Mais jamais de la vie ! jamais de la vie je n’ai parlé de ça ! Monsieur Hochepaix ! vous ne croyez pas, j’espère ?…
- Hochepaix ,  indulgent.
- - Ah ! bah ! quand vous auriez dit !…
- Ventroux .
-— Mais non ! mais non !
- Clarisse ,  par dessus l’épaule de son mari.
- - Monsieur Hochepaix ! J’espère que vous me faites l’honneur de me croire ?
- Ventroux ,  au comble de l’exaspération, virevoltant vers sa femme.
- - Ah ! et puis, toi, tu m’embêtes !  Lui désignant la porte.
- Allez, fous-moi le camp ! Fous-moi le camp !
- Clarisse ,  tout en remontant.
- - Ah ! mais dites donc ! je te prie de me parler autrement !
- Ventroux ,  n’admettant plus de réplique.
- - Allez ! allez ! débarrasse le plancher !
- Clarisse ,  obéissant tout en voulant avoir raison.
- - Oui, mais quant à dire que tu n’as pas dit…
- Ventroux ,  de même.
- - Allez ! hop ! hop ! file !
- Clarisse .
-— Il n’y a pas de "hop ! hop ! " Si tu ne sais plus ce que tu dis !
- Ventroux ,  la poussant dehors.
- - Mais vas-tu filer à la fin !
- Clarisse ,  effrayée, se sauvant.
- - Oh !
- Ventroux ,  referme violemment la porte et redescend ; exaspéré.
- - Oh !
- A peine est-il redescendu que la porte se rouvre.
-Clarisse ,  redescendant dans le dos de Ventroux.
- - Je ne vous ai pas dit au revoir, monsieur Hochepaix ! très heureuse !…
- Hochepaix ,  s’inclinant.
- - Madame !
- Ventroux ,  pirouettant sur lui-même à la voix de sa femme, et s’élançant sur elle comme s’il allait lui donner un coup de pied quelque part.
- - Mais, nom de d’là, veux-tu !…
- Clarisse ,  détalant, effrayée.
- - Je suis indigné, Monsieur ! je suis indigné !
- Hochepaix ,  avec désinvolture.
-- Oh ! ben !…
- Ventroux .
-— Monsieur Hochepaix, ne croyez pas un mot de tout ça ! C’est une plaisanterie ! "Le dernier des chameaux ! " Vous ne supposez pas que j’aie jamais dit !…
- Hochepaix .
-— Bah ! laissez donc ! je vous ai bien traité de vendu, de pourri, de résidu de la décadence !
- Ventroux .
-— Oui, je sais bien ! je serais en droit ! mais tout de même !… C’est comme ma femme, je vous prie de l’excuser ; vraiment elle s’est présentée d’une façon !…
- Hochepaix ,  très talon rouge.
- - Mais… tout à son avantage !
- Ventroux .
-— Oui, oui !
- Ventroux .
-— D’ailleurs, moi-même !… tâtez les miennes !  Lui manipulant la main entre les deux siennes.
- elles sont tout en moiteur !
- Hochepaix ,  dégageant sa main pour la soustraire au contact de celles de Ventroux et l’essuyant contre l’étoffe de son vêtement.
- - Ah ! oui !… oui !
- Ventroux .
-— C’est très désagréable !…
- Hochepaix ,  achevant de s’essuyer et avec conviction.
- - Très désagréable, en effet !
- Ventroux .
-— Alors, naturellement, ma femme… comme elle avait trop chaud ; elle a… elle a éprouvé le besoin de se mettre en… en… comment dirais-je ?… Mon Dieu, il y a pas deux mots : en… en chemise.
- Hochepaix .
-— Ah ! comme je la comprends !
- Ventroux .
-— N’est-ce pas ?  Remontant.
- N’est-ce pas ?
- Hochepaix .
-— Si je pouvais en faire autant !
- Ventroux ,  se retournant et sans réfléchir.
- - Faites donc ! je vous en prie !
- Hochepaix .
-— Hein ? Ah ! Non !… non ! vraiment, tout de même !…
- Ventroux ,  redescendant.
- - Oui ! Oui ! évidemment !… Et alors, n’est-ce pas ? comme elle n’avait pas entendu sonner, naturellement… elle est entrée.
- Hochepaix .
-— Mais voyons !
- Ventroux .
+Hochepaix , ahuri, se méprenant.
+- Vos c… ? Clarisse , comprenant aussitôt la confusion de Hochepaix et corrigeant vivement.
+- Mes mains ! mes mains ! Hochepaix .
+— Ah ! Ventroux , saisissant sa femme par le bras et l’envoyant n o trois.
+Hochepaix , vivement, très galant.
+- Eh ! qui est-ce qui te demande d’être aimable ? Clarisse .
+- Oui ! bon ! bon ! Ça va bien ! Clarisse , sans merci.
+- Oh ! Hochepaix , avec une inclination de tête qu’accompagne un sourire de malice.
+- Ah ? Clarisse , poursuivant sans pitié.
+- Ah ! bah ! quand vous auriez dit !… Ventroux .
+— Mais non ! mais non ! Clarisse , par dessus l’épaule de son mari.
+- Ah ! et puis, toi, tu m’embêtes ! Lui désignant la porte.
+Allez, fous-moi le camp ! Fous-moi le camp ! Clarisse , tout en remontant.
+- Allez ! allez ! débarrasse le plancher ! Clarisse , obéissant tout en voulant avoir raison.
+- Oui, mais quant à dire que tu n’as pas dit… Ventroux , de même.
+- Allez ! hop ! hop ! file ! Clarisse .
+- Mais vas-tu filer à la fin ! Clarisse , effrayée, se sauvant.
+- Oh ! Ventroux , referme violemment la porte et redescend ; exaspéré.
+- Oh ! A peine est-il redescendu que la porte se rouvre.
+Clarisse , redescendant dans le dos de Ventroux.
+- Mais, nom de d’là, veux-tu !… Clarisse , détalant, effrayée.
+- Je suis indigné, Monsieur ! je suis indigné ! Hochepaix , avec désinvolture.
+- Oh ! ben !… Ventroux .
+- Mais… tout à son avantage ! Ventroux .
+— Oui, oui ! Ventroux .
+— D’ailleurs, moi-même !… tâtez les miennes ! Lui manipulant la main entre les deux siennes.
+- Ah ! oui !… oui ! Ventroux .
+— C’est très désagréable !… Hochepaix , achevant de s’essuyer et avec conviction.
+- Très désagréable, en effet ! Ventroux .
+— Ah ! comme je la comprends ! Ventroux .
+— N’est-ce pas ? Remontant.
+N’est-ce pas ? Hochepaix .
+— Si je pouvais en faire autant ! Ventroux , se retournant et sans réfléchir.
+- Faites donc ! je vous en prie ! Hochepaix .
+— Hein ? Ah ! Non !… non ! vraiment, tout de même !… Ventroux , redescendant.
+— Mais voyons ! Ventroux .
 — Elle se croyait seule.
- Hochepaix ,  sournoisement, et comme la chose la plus naturelle du monde.
- - Mais c’est évident !… avec le domestique.
- Ventroux ,  répétant après lui sans réfléchir à ce qu’il dit.
- - Avec le dom…  Interloqué.
- Ah ! oui, le… le domestique…  Voulant se donner l’air dégagé.
- Ah ! mais le domestique, ça, vous pensez bien que… que… il y a une raison.
- Hochepaix .
-— Je pense bien, voyons !
- Ventroux .
-— Ce serait un domestique ordinaire, évidemment !…
- Hochepaix .
-— Evidemment, ce serait un domestique ordinaire !…
- Ventroux .
+Hochepaix , sournoisement, et comme la chose la plus naturelle du monde.
+- Mais c’est évident !… avec le domestique.
+Ventroux , répétant après lui sans réfléchir à ce qu’il dit.
+- Avec le dom… Interloqué.
+Ah ! oui, le… le domestique… Voulant se donner l’air dégagé.
+Ah ! mais le domestique, ça, vous pensez bien que… que… il y a une raison.
+— Je pense bien, voyons ! Ventroux .
+— Ce serait un domestique ordinaire, évidemment !… Hochepaix .
+— Evidemment, ce serait un domestique ordinaire !… Ventroux .
 — Mais là !… Ils ont été élevés ensemble.
- Hochepaix .
 — Vous m’en direz tant.
- Ventroux ,  avec aplomb.
- - C’est… c’est son frère de lait !  Répétant.
- Son frère de lait.
- Hochepaix ,  approuvant.
- - Son frère de lait.
- Ventroux .
-— Alors, n’est-ce pas, un frère de lait !…
- Hochepaix ,  remontant à gauche de la table .
-— Ça ne compte pas, parbleu !
- Ventroux .
-— C’est ce que je dis : ça ne compte pas !… Ça ne…  Pressé de faire diversion.
- Et alors, voyons, de quoi s’agit-il ? parce qu’enfin tout ça, c’est des balivernes ! Qu’est-ce que vous venez me demander pour vos administrés ?
- Tout en parlant il s’assied à droite de la table.
-Hochepaix ,  s’asseyant en face de lui.
- - Eh bien, voilà ! c’est à propos de l’express de Paris, n’est-ce pas ? qui s’arrête à Morinville et qui brûle Moussillon-les-Indrets… qui est un centre au moins aussi important.
- Ventroux ,  approuvant.
- - Mais comment !
- Hochepaix .
-— Alors, voilà : mes bonshommes se sont mis en tête d’obtenir que l’express s’arrête à notre station.
- Ventroux ,  hochant la tête.
- - Ah ! diable ! c’est difficile !
- Hochepaix ,  sans se déconcerter.
- - Ne dites pas ça ! On a eu deux fois l’occasion de constater que c’était possible.
- Ventroux .
-— L’express s’est déjà arrêté ?
- Hochepaix .
-— Deux fois !… Une fois à la suite d’un déraillement ; une autre, après un sabotage.
- Ventroux .
-— Ah ?
- Hochepaix .
+Ventroux , avec aplomb.
+- C’est… c’est son frère de lait ! Répétant.
+Son frère de lait.
+- Son frère de lait.
+— Ça ne compte pas, parbleu ! Ventroux .
+Hochepaix , s’asseyant en face de lui.
+- Mais comment ! Hochepaix .
+Ventroux , hochant la tête.
+- Ah ! diable ! c’est difficile ! Hochepaix , sans se déconcerter.
+— L’express s’est déjà arrêté ? Hochepaix .
+— Ah ? Hochepaix .
 — Eh bien ! ça n’a pas dérangé grand’chose dans le service.
- Ventroux .
 — Evidemment… c’est un argument.
- Hochepaix .
-— Seulement, n’est-ce pas ? ce sont des éventualités qui n’arrivent pas assez régulièrement, pour que nos voyageurs puissent se baser là-dessus.
- Ventroux .
 — Oui !… Vous préféreriez un arrêt réglementaire.
-Ecoutez ! Je veux bien m’en occuper ! Vous me rédigerez un petit exposé de tout ça ! En attendant, pour ne pas oublier, je vais toujours prendre note…  Tout en parlant, il a pris le bloc-notes ; écrivant.
- Nous disons : Monsieur Ho-che-paix !
- Hochepaix ,  qui s’est levé, et suit des yeux ce qu’il écrit.
- - C’est ça ! C’est ça !  Brusquement et vivement.
- Ah ! non ! non !… paix :  Epelant.
- p-a-i-x !
- Ventroux ,  confus .
-— Oh ! je vous demande pardon !  Corrigeant.
- p-a-i-x ! p-a-i-x ! Croyez bien que c’est sans intention !
- Hochepaix ,  avec bonhomie.
- - Il n’y a pas de mal ! Je suis habitué ! C’est la première orthographe qui vient tout de suite à l’idée.
- Ventroux ,  facétieux.
- - Comme la plus naturelle !
- Hochepaix ,  riant.
- - Oui ! Oui !
- A ce moment on entend un bruit de voix mêlé de chocs d’objets derrière la porte du vestibule.
-On entend vaguement cet échange de dialogue à la cantonade entre Clarisse et Victor : "Là ! Là ! passez-moi la bouillotte ! — Voilà ! voilà, Madame ! — Ah ! mais tenez-moi ! ne me lâchez pas ! pas de bêtise ! — Je tiens, Madame ! je tiens !…" etc., etc.
-Ventroux ,  qui a prêté l’oreille, parlant sur le dialogue extérieur.
-- Non, mais, qu’est-ce que c’est que ce potin ? Vous croyez qu’on peut être tranquille un instant ?  Allant brusquement tirer la porte qui s’ouvre à deux battants.
-Poussant un cri avec un sursaut en recul qui le porte à droite de la porte.
-- Ah !
- Clarisse ,  se baissant au cri de son mari de façon à passer la tête ; elle tient une bouillotte à la main.
+- C’est ça ! C’est ça ! Brusquement et vivement.
+Ah ! non ! non !… paix : Epelant.
+p-a-i-x ! Ventroux , confus .
+— Oh ! je vous demande pardon ! Corrigeant.
+p-a-i-x ! p-a-i-x ! Croyez bien que c’est sans intention ! Hochepaix , avec bonhomie.
+- Comme la plus naturelle ! Hochepaix , riant.
+Ventroux , qui a prêté l’oreille, parlant sur le dialogue extérieur.
 Du ton le plus naturel, à Ventroux.
- - Ah ! c’est toi !
- Ventroux ,  d’une voix étranglée par l’indignation.
- - Ah çà ! qu’est-ce que vous faites là ?…
- Clarisse ,  même jeu.
- - Eh ! bien, tu vois : j’arrange la pile.
- Ventroux ,  écumant.
- - Non, mais vous vous foutez de moi, tous les deux ? Qu’est-ce que c’est que cette façon de tenir Madame ?
- Victor .
+- Ah ! c’est toi ! Ventroux , d’une voix étranglée par l’indignation.
+- Ah çà ! qu’est-ce que vous faites là ?… Clarisse , même jeu.
+- Eh ! bien, tu vois : j’arrange la pile.
 — Pour pas qu’elle tombe.
- Ventroux .
-— Quoi ?
- Clarisse .
+— Quoi ? Clarisse .
 — Oui, parce que, quand on ne me tient pas, moi, j’ai le vertige.
- Ventroux ,  se précipitant sur Victor.
- - Mais n… de D… ! vous ne voyez pas que vous avez vos deux mains sur son… sur ses… C’est indécent !
- Victor ,  avec une moue d’insouciance.
- - Oh !
- Ventroux ,  le secouant.
- - Voulez-vous lâcher ça, à la fin ! voulez-vous lâchez ça ! Il l’écarte.
- Clarisse ,  qui manque de perdre l’équilibre.
- - Oh ! mais fais donc attention, voyons ! tu vas me faire tomber.
- Ventroux ,  la faisant brutalement descendre.
- - Eh bien, descends ! Qu’est-ce que tu as à fiche là-haut ? Est-ce que c’est ton affaire ?
- Il la fait avec brusquerie descendre en scène n o quatre.
-Clarisse ,  qui, aussitôt en bas de l’escabeau, a passé sa bouillotte à Victor.
- - Mais c’est parce qu’il ne sait pas !
- Ventroux .
-— Eh bien, qu’il apprenne ! Non, non, cette tenue !  Descendant vers Hochepaix qui est devant la table et en appelant à lui.
- C’est convenable, hein ? C’est convenable ?… là ! avec le domestique !
- Hochepaix .
+Ventroux , se précipitant sur Victor.
+- Oh ! Ventroux , le secouant.
+- Voulez-vous lâcher ça, à la fin ! voulez-vous lâchez ça ! Il l’écarte.
+Clarisse , qui manque de perdre l’équilibre.
+- Oh ! mais fais donc attention, voyons ! tu vas me faire tomber.
+Ventroux , la faisant brutalement descendre.
+Clarisse , qui, aussitôt en bas de l’escabeau, a passé sa bouillotte à Victor.
+- Mais c’est parce qu’il ne sait pas ! Ventroux .
+C’est convenable, hein ? C’est convenable ?… là ! avec le domestique ! Hochepaix .
 — Oh ! ben !… puisque c’est son frère de lait.
- Ventroux ,  tressaillant.
- - Oh !
- Clarisse .
-— Qui ?
- Victor .
-— Moi ?
- Ventroux ,  bondissant rouge de colère sur Victor.
- - Oui, vous ! Qu’est-ce que ça veut dire, "moi" !  Le poussant dehors, ce qui l’envoie donner sur l’escabeau sur lequel il manque de tomber.
- Allez-vous-en donc ! Qu’est-ce qui vous prie de vous mêler de ce qui ne vous regarde pas ?
- Victor .
+- Oh ! Clarisse .
+— Qui ? Victor .
+— Moi ? Ventroux , bondissant rouge de colère sur Victor.
 — Oui, Monsieur.
- Ventroux ,  faisant claquer la porte sur lui.
- - Je finirai par le fiche à la porte, cet animal-là :  Descendant vers Hochepaix.
- Je vais vous dire, c’est son frère de lait !… c’est son frère de lait, mais… pas du même père !
- Hochepaix .
+Ventroux , faisant claquer la porte sur lui.
+- Je finirai par le fiche à la porte, cet animal-là : Descendant vers Hochepaix.
 — Comment, "pas du même père ? ".
- Ventroux ,  interloqué.
- - Hein ?  Revenant.
- Non, non ! je vais vous expliquer ! Quand je dis : "pas du même père", j’entends que… que…  Exaspéré de ne trouver aucune explication, éclatant.
- Ah ! et puis vous m’embêtez avec vos questions ! Est-ce que ça vous regarde ?
- Hochepaix .
-— Mais… mais…
- Ventroux .
-— Vous devez bien penser que si je tolère ça, c’est que j’ai de bonnes raisons.
- Hochepaix .
+- Hein ? Revenant.
+— Mais… mais… Ventroux .
 — Mais je vous ferai remarquer que je ne vous demande rien.
- Ventroux .
-— Oui, oh ! mais je sais ce que c’est ! vous ne me demandez rien, et puis une fois là-bas… avec le marquis : "ta-ta-ta ! ta-ta-ta ! " vous allez clabauder !
- Hochepaix .
-— Mais non, mais non ! quelle idée !
- Clarisse ,  à son mari qui tout en parlant est arrivé jusqu’à elle.
-Très calme.
- - Je t’assure, mon ami, tu devrais te soigner !
- Ventroux ,  hors de lui, à sa femme.
- - Enfin, nom d’un tonnerre ! vas-tu aller t’habiller, toi !
- Clarisse .
+- Enfin, nom d’un tonnerre ! vas-tu aller t’habiller, toi ! Clarisse .
 — Eh ! bien, oui, quoi ? donne-moi le temps.
- Ventroux ,  remontant.
- - "Donne-moi le temps ! donne-moi le temps ! " Voilà une heure que…
- Clarisse .
-— Ben quoi, maintenant que Monsieur Hochepaix m’a vue !  Remontant au-dessus du canapé, pour s’adresser à Hochepaix qui est remonté également pendant ce qui précède.
- Enfin, monsieur Hochepaix ! je suis en chemise, c’est entendu ! mais enfin, est-ce que je suis inconvenante ? Est-ce que j’en montre plus qu’en robe de bal ?
- Hochepaix ,  conciliant.
- - Mais non, Madame !
- Ventroux ,  s’asseyant en désespoir de cause sur la chaise à gauche de la porte du fond.
- - Ah ! , vous trouvez, vous !
- Hochepaix .
-— C’est-à-dire même que là, en chemise, avec votre chapeau sur la tête, vous avez presque l’air d’être en visite.
- Clarisse .
-— Là, tu entends ! C’est vrai ça !  Virevoltant de façon à se faire voir sur toutes ses faces.
- Qu’est-ce qu’on voit, je vous le demande ? Qu’est-ce qu’on voit ?
- Hochepaix .
-— Oh ! rien ! Là, évidemment, je vous vois… en ombre chinoise, parce que vous êtes devant la fenêtre !
- Ventroux,  bondissant sur sa femme et la tirant hors de la fenêtre.
- - Oh !
- Clarisse ,  dans le mouvement.
- - Ah ! parce qu’il y a la fenêtre !  A Ventroux.
- Tu es brusque, toi !  A Hochepaix.
- Mais sans ça… !
- Hochepaix .
-— Oh ! sans ça, rien !
- Clarisse ,  s’asseyant sur le canapé sur la fin de la phrase.
- - Là, je ne suis pas fâchée !  Poussant un cri strident et se relevant d’un bond.
- Ah !
- Hochepaix.
- - Quoi ?
- Ventroux .
-— Quoi ? Qu’est-ce qu’il y a encore ?
- Clarisse ,  d’une voix angoissée.
- - Ah ! je ne sais pas ! j’ai senti comme un coup de poignard !…
- Ventroux .
-— Comme un coup de poignard ?
- Clarisse .
-— Qui est monté au cœur !
- En ce disant, elle se retourne, et l’on aperçoit une guêpe écrasée sur le côté gauche de sa chemise, à hauteur de la croupe.
-Ventroux .
-— Ah ! là ! "au cœur ! " C’est ça que tu appelle ton cœur !  Retirant la guêpe écrasée et la lui présentant par les ailes.
- Tiens, le voilà ton coup de poignard ! C’est un guêpe qui t’a piquée.
- Il la dépose par terre et l’écrase avec le pied.
-Clarisse ,  suffoquée et hurlante.
- - Qui m’a piquée ! Ah ! mon Dieu ! j’ai été piquée par une guêpe !
- Hochepaix .
-— Pauvre Madame !
- Ventroux ,  rageusement ravi.
- - C’est bien fait ! ça t’apprendra à te promener toute nue !
- Il descend à l’extrême gauche.
-Clarisse ,  allant au guéridon.
- - Voilà ! C’est ta faute ! Qu’est-ce que je t’avais dit, qu’en laissant traîner les tasses… !
- Ventroux ,  de même.
- - Eh bien ! tant mieux ! Ça te servira peut-être de leçon !
- Clarisse ,  indignée.
- - "Tant mieux ! " il est content ! il est content ! Affolée.
- - Mais non ! mais non !
- Clarisse ,  allant à son mari.
- - Oh ! Julien ! Julien, je t’en prie ! Faisant volte-face de façon à lui présenter la croupe et tout en faisant mine de relever sa chemise.
-Suce-moi, veux-tu ? Suce-moi !
- Ventroux .
-— Moi !  La repoussant.
- Non, mais tu ne m’as pas regardé !
- Clarisse .
-— Oh ! Julien ! Julien ! Sois bon !  Revenant à la charge.
- Suce-moi, voyons ! Suce-moi !
- Ventroux,   la repoussant à nouveau, tout en se levant pour descendre à gauche.
- - Mais fiche-moi la paix, toi !
- Clarisse .
-— Mais suce-moi, enfin ! tu l’as bien fait à mademoiselle Dieumamour !
- Ventroux ,  revenant vers Clarisse.
- - Mais d’abord, elle, c’était à la nuque, ça n’était pas au… Et puis c’était une mouche ! c’était pas une guêpe !
- Il remonte au fond.
+- "Donne-moi le temps ! donne-moi le temps ! " Voilà une heure que… Clarisse .
+- Ah !, vous trouvez, vous ! Hochepaix .
+- Oh ! Clarisse , dans le mouvement.
+- Ah ! parce qu’il y a la fenêtre ! A Ventroux.
+Tu es brusque, toi ! A Hochepaix.
+Mais sans ça… ! Hochepaix .
+- Quoi ? Ventroux .
+— Quoi ? Qu’est-ce qu’il y a encore ? Clarisse , d’une voix angoissée.
+— Comme un coup de poignard ? Clarisse .
+Tiens, le voilà ton coup de poignard ! C’est un guêpe qui t’a piquée.
+Il la dépose par terre et l’écrase avec le pied.
+Clarisse , suffoquée et hurlante.
+— Pauvre Madame ! Ventroux , rageusement ravi.
+Clarisse , allant au guéridon.
+- Eh bien ! tant mieux ! Ça te servira peut-être de leçon ! Clarisse , indignée.
+- "Tant mieux ! " il est content ! il est content ! Affolée.
+Mon Dieu, une guêpe ! pourvu qu’elle ne soit pas charbonneuse.
+- Mais non ! mais non ! Clarisse , allant à son mari.
+Suce-moi, veux-tu ? Suce-moi ! Ventroux .
+— Moi ! La repoussant.
+Non, mais tu ne m’as pas regardé ! Clarisse .
+— Oh ! Julien ! Julien ! Sois bon ! Revenant à la charge.
+- Mais fiche-moi la paix, toi ! Clarisse .
 Clarisse , l a voix étranglée par l’émotion.
- - Mais une guêpe, c’est aussi dangereux ! Encore il y a deux jours, dans le journal, tu as vu qu’un monsieur était mort d’une piqûre de guêpe.
- Ventroux .
 — Mais ça n’a aucun rapport ! C’est en buvant ! Il est mort étouffé.
- Clarisse ,  près du fauteuil à côté de la cheminée.
- - Mais je vais peut-être étouffer.
-Ah ! j’étouffe ! j’étouffe !
- Ventroux ,  peu troublé, en s’asseyant sur le canapé.
- - Mais non ! mais non ! C’est une idée !
- Clarisse .
-— Si ! Si !  Se laissant tomber sur le fauteuil, et se relevant aussitôt en poussant un cri de douleur.
- Ah !  Allant à son mari.
- Oh !… Je t’en supplie, Julien !  Se retournant comme précédemment de façon à lui présenter sa croupe.
- Suce-moi, voyons ! suce-moi !
- Ventroux ,  la repoussant n o  deux.
- - Mais non ! mais non ! tu m’embêtes !
- Clarisse ,  affolée.
- - Oh ! sans cœur, va ! sans cœur !  Ne sachant à quel saint se vouer.
- Ah ! mon Dieu ! mon Dieu !  Apercevant Hochepaix redescendu à l’extrême gauche et toujours plongé dans l’examen des bibelots.
- Ah !…  Descendant vers lui.
- Monsieur Hochepaix !…
- Hochepaix ,  se retournant vers elle.
- - Madame ?…
- Clarisse ,  se retournant pour lui présenter sa croupe.
- - S’il vous plaît, monsieur Hochepaix ! s’il vous plaît !
- Hochepaix .
-— Moi !
- Ventroux ,  bondissant sur elle et l’entraînant par le poignet sans changer de numéro.
- - Ah çà ! tu n’es pas folle ? Tu vas demander à monsieur Hochepaix, maintenant ?
- Clarisse .
-— Eh ! bien, quoi ? J’aime mieux ça que de risquer la mort !
- Hochepaix .
-— Certainement, Madame, je suis très honoré, mais vraiment !…
- Clarisse ,  revenant à Hochepaix.
- - Monsieur Hochepaix, au nom de la charité chrétienne !
- Ventroux ,  la saisissant par le bras et la faisant pivoter sur elle-même.
- - Non, mais t’as pas fini ?
- Clarisse ,  qui par ce mouvement se trouve tournée pour se présenter à Hochepaix comme il convient dans l’occurrence.
- - S’il vous plaît ?… S’il vous plaît ?
- Hochepaix .
-— Je vous assure, Madame, vraiment ! sans cérémonie !
- Ventroux ,  éclatant, et l’entraînant au milieu de la scène toujours sans changer de numéro.
- - Ah ! et puis fiche-nous la paix, avec tes "s’il vous plaît !… S’il vous plaît !…" Va faire ça toi-même !
- Il la lâche et gagne la droite.
-Clarisse ,  avec des larmes dans la voix.
- - Mais, est-ce que je peux !
- Ventroux ,  revenant sur elle.
- - Eh bien ! Va mettre une compresse ! et ne nous rase pas ! "S’il vous plaît ! s’il vous plaît ! "
- Clarisse ,  lui crispant ses mains devant la figure.
- - Ah ! Va-t’en, toi ! Va-t’en ! je ne veux plus te voir ! et si je meurs, que ma mort retombe sur toi !
- Ventroux ,  s’asseyant sur le fauteuil à droite de la scène.
- - Eh bien ! c’est ça ! c’est entendu !
- Clarisse ,  au moment de sortir au fond.
- - Voilà des hommes, tenez ! Voilà des hommes !  Sortant précipitamment par le fond gauche, en appelant.
- Victor ! Victor !
- Elle referme la porte sur elle.
-Ventroux, Hochepaix Ventroux ,  effondré sur son fauteuil.
- - Non, elle est à lier, ma parole ! elle est à lier !
- Hochepaix ,  debout devant la table de gauche, après une seconde d’hésitation.
- - Monsieur Ventroux !
- Ventroux .
-— Quoi ?
- Hochepaix .
-— Vous m’excuserez, n’est-ce pas, de n’avoir pas cru devoir…
- Ventroux ,  n’en croyant pas ses oreilles.
- - Quoi ?
- Hochepaix .
-— Mais vraiment, nous ne sommes pas encore assez liés !…
- Ventroux .
-— Mais comment ! Ah ! ben !
- Hochepaix .
+Clarisse , près du fauteuil à côté de la cheminée.
+- Mais je vais peut-être étouffer.
+Ah ! j’étouffe ! j’étouffe ! Ventroux , peu troublé, en s’asseyant sur le canapé.
+- Mais non ! mais non ! C’est une idée ! Clarisse .
+Ah ! Allant à son mari.
+Suce-moi, voyons ! suce-moi ! Ventroux , la repoussant n o deux.
+- Mais non ! mais non ! tu m’embêtes ! Clarisse , affolée.
+- Oh ! sans cœur, va ! sans cœur ! Ne sachant à quel saint se vouer.
+Ah !… Descendant vers lui.
+Monsieur Hochepaix !… Hochepaix , se retournant vers elle.
+- Madame ?… Clarisse , se retournant pour lui présenter sa croupe.
+- S’il vous plaît, monsieur Hochepaix ! s’il vous plaît ! Hochepaix .
+— Eh ! bien, quoi ? J’aime mieux ça que de risquer la mort ! Hochepaix .
+— Certainement, Madame, je suis très honoré, mais vraiment !… Clarisse , revenant à Hochepaix.
+- S’il vous plaît ?… S’il vous plaît ? Hochepaix .
+Clarisse , avec des larmes dans la voix.
+- Mais, est-ce que je peux ! Ventroux , revenant sur elle.
+Victor ! Victor ! Elle referme la porte sur elle.
+Ventroux, Hochepaix Ventroux , effondré sur son fauteuil.
+- Monsieur Ventroux ! Ventroux .
+— Quoi ? Hochepaix .
+- Quoi ? Hochepaix .
+— Mais vraiment, nous ne sommes pas encore assez liés !… Ventroux .
+— Mais comment ! Ah ! ben ! Hochepaix .
 — N’est-ce pas ? C’est ce que j’ai pensé.
- Ventroux .
-— Il n’aurait plus manqué que ça !…
- Voix de Clarisse ,  à la cantonade.
- - Oui ; eh ! bien, je vais un peu le dire à Monsieur ! je vais un peu le dire à Monsieur !
- Ventroux .
-— Allons bon, qu’est-ce qu’elle a fabriqué encore ?
- Les Mêmes, Clarisse, Victor Clarisse ,  surgissant et dos au public, à Victor qui la suit.
- - Vous êtes tous des lâches !  Se tournant en même temps vers son mari et vers Hochepaix.
- Vous êtes tous des assassins !… Et Victor ne vaut pas mieux que vous !
- Ventroux .
-— Quoi ? Quoi ? Qu’est-ce qu’il y a encore ?
- Clarisse ,  derrière le canapé.
- - Lui non plus n’a pas voulu sucer !
- Ventroux ,  bondissant .
-— Victor !
- Victor ,  penaud, dans l’embrasure de la porte.
- - J’ai pas osé, Monsieur !
- Ventroux .
-— Enfin, nom d’un chien ! est-ce que tu vas aller comme ça t’offrir à sucer à tout le monde ?
- Clarisse .
+— Il n’aurait plus manqué que ça !… Voix de Clarisse , à la cantonade.
+Vous êtes tous des assassins !… Et Victor ne vaut pas mieux que vous ! Ventroux .
+— Quoi ? Quoi ? Qu’est-ce qu’il y a encore ? Clarisse , derrière le canapé.
+- Lui non plus n’a pas voulu sucer ! Ventroux , bondissant .
+— Victor ! Victor , penaud, dans l’embrasure de la porte.
+- J’ai pas osé, Monsieur ! Ventroux .
 — Oh ! ça m’élance ! ça m’élance ! Je dois avoir une fluxion.
- Ventroux .
-— Eh ! bien, si tu as une fluxion, va chez le dentiste !
- Clarisse .
-— Mais c’est pas dans la bouche !
- Ventroux .
-— Eh ben ! va chez le médecin !
- Clarisse .
-— Ah ! oui ! oui ! il y a un docteur dans la maison, au-dessus !…
- Ventroux ,  bourru, s’asseyant sur le fauteuil qu’il vient de quitter.
- - Eh ! C’est pas un docteur ! c’est un officier de santé ! il n’a pas le droit au titre.
- Clarisse .
+— Eh ! bien, si tu as une fluxion, va chez le dentiste ! Clarisse .
+— Mais c’est pas dans la bouche ! Ventroux .
+— Eh ben ! va chez le médecin ! Clarisse .
 — Ça m’est égal, il a fait de la médecine.
-Vite, Victor, montez et ramenez-le !
- Victor .
-— Bien, Madame !
- Clarisse ,  la main sur la partie endolorie.
- - Oh ! je vais mettre une compresse ! je vais mettre une compresse.
- Elle rentre ainsi dans sa chambre.
-Victor ,  sur le pas de la porte, après un instant d’hésitation, une fois qu’il a constaté la sortie de Clarisse.
- - Monsieur ne m’en veut pas, au moins, de ne pas avoir…
- Ventroux ,  bondissant.
- - Hein ! Lui aussi !  Le poussant dehors.
- Voulez-vous !… Voulez-vous chercher l’officier de santé !
- Victor ,  s’élançant vers la porte sur palier, sans refermer la porte du salon.
- - Oui, Monsieur, oui !
- Au moment où il va ouvrir la porte sur le palier, on sonne et Victor va donner dans de Jaival qui est dans l’embrasure attendant qu’on ouvre.
+Vite, Victor, montez et ramenez-le ! Victor .
+— Bien, Madame ! Clarisse , la main sur la partie endolorie.
+- Oh ! je vais mettre une compresse ! je vais mettre une compresse.
+Elle rentre ainsi dans sa chambre.
+- Monsieur ne m’en veut pas, au moins, de ne pas avoir… Ventroux , bondissant.
+- Hein ! Lui aussi ! Le poussant dehors.
 Les Mêmes, Romain de Jaival De Jaival .
-— Ah ! ben, on n’est pas long à ouvrir !
- Victor .
-— Monsieur ?
- De Jaival .
-— Monsieur Ventroux, s’il vous plaît !
- Ventroux ,  du salon.
- - C’est ici.
-Vous désirez, Monsieur ?
- De Jaival .
-— Ah ! pardon !  Descendant en scène.
- Je suis monsieur Romain de Jaival, du Figaro.
- Ventroux .
-— Ah ! parfaitement, Monsieur !  A Victor qui est au seuil du salon.
- Eh bien ! allez-vous-en !
- Victor .
+— Ah ! ben, on n’est pas long à ouvrir ! Victor .
+— Monsieur ? De Jaival .
+— Monsieur Ventroux, s’il vous plaît ! Ventroux , du salon.
+- C’est ici.
+Vous désirez, Monsieur ? De Jaival .
+— Ah ! pardon ! Descendant en scène.
+Je suis monsieur Romain de Jaival, du Figaro.
+— Ah ! parfaitement, Monsieur ! A Victor qui est au seuil du salon.
+Eh bien ! allez-vous-en ! Victor .
 — Oui, Monsieur.
- Il sort et referme la porte sur lui.
-Ventroux  - Qu’y a-t-il pour votre service ?
- De Jaival .
+Il sort et referme la porte sur lui.
+Ventroux - Qu’y a-t-il pour votre service ? De Jaival .
 — Voici : je vous suis envoyé par mon journal pour vous demander une interview.
- Ventroux.
- - Aha !
- De Jaival .
-— Sur la politique en général… Comme vos derniers discours vous ont mis très en vue !…
- Ventroux ,  flatté.
- - Ah ! Monsieur…
- De Jaival .
-— Je dis ce que tout le monde pense !… et en particulier sur le projet de loi dont vous êtes un des promoteurs : "Les accouchements ouvriers".
+- Aha ! De Jaival .
+- Ah ! Monsieur… De Jaival .
 L’accouchement gratuit et l’État sage-femme.
- Ventroux .
 — Oui, oh ! très intéressant ! et qui me tient très à cœur.
- De Jaival .
-— Seulement, je voudrais faire quelque chose de pimpant, de pittoresque, de pas tout le monde ! Je m’attache à faire des chroniques brillantes ; si vous m’avez déjà lu !…
- Ventroux  - Mais, certainement, certainement ! Monsieur de…
- De Jaival  - Jaival !… Romain de Jaival !
- Ventroux.
- - De Jaival, parfaitement ! Eh bien ! mais je suis à votre disposition.
+De Jaival .
+- De Jaival, parfaitement ! Eh bien ! mais je suis à votre disposition.
 Seulement, j’ai une petite affaire à terminer avec Monsieur.
- Présentant.
- Monsieur Hochepaix.
- De Jaival ,  s’inclinant .
-— Hochepaix ?
- Hochepaix ,  épelant vivement.
- - P-a-i-x !
- Ventroux .
-— Maire de Moussillon-les-Indrets !
- De Jaival .
-— Oh ! parfaitement, je connais !
- Hochepaix ,  étonné et flatté.
- - Moi ?
- De Jaival .
+De Jaival , s’inclinant .
+— Hochepaix ? Hochepaix , épelant vivement.
+- P-a-i-x ! Ventroux .
+— Maire de Moussillon-les-Indrets ! De Jaival .
+— Oh ! parfaitement, je connais ! Hochepaix , étonné et flatté.
+- Moi ? De Jaival .
 — J’y ai souvent pêché à la ligne.
- Hochepaix .
-— Ah ! à Moussillon-les… oui, oui ! Non, je comprenais… Oui, oui !
- Ventroux .
-— Alors, si vous voulez m’attendre un instant, nous passons, Monsieur et moi, dans mon cabinet ; dans cinq minutes, je suis à vous.
- De Jaival .
-— Mais je vous en prie ! Vous permettez seulement que je m’installe à cette table ; je prendrai quelques notes pendant ce temps-là.
- Ventroux ,  très aimable.
-- Vous êtes chez vous !
- De Jaival ,  descendant pour contourner la table et aller s’asseoir sur la chaise à gauche de celle-ci.
- - Pardon !
- Ventroux.
- - Venez, mon cher maire !… de Moussillon-les-Indrets !
- Hochepaix .
+— Ah ! à Moussillon-les… oui, oui ! Non, je comprenais… Oui, oui ! Ventroux .
+De Jaival .
+Ventroux , très aimable.
+- Pardon ! Ventroux.
+- Venez, mon cher maire !… de Moussillon-les-Indrets ! Hochepaix .
 — Tout à vous, mon cher député.
- Ils sortent pan coupé à gauche.
-De Jaival, Clarisse, puis Ventroux, et Hochepaix De Jaival s’est installé à la table, a tiré son calepin, et, jetant un coup d’œil circulaire, de façon à s’imprégner du cadre, inscrit quelques notes.
-Voix de Clarisse ,  à la cantonade.
- - Il n’est pas encore là ?  Sortant de sa chambre en descendant en scène sans voir de Jaival attablé.
- Mais enfin qu’est-ce qu’il fait, cet homme ?
- De Jaival ,  ne pouvant réprimer un petit cri d’étonnement en voyant paraître une femme en chemise.
- - Oh !
- Clarisse ,  se retournant au son de la voix.
- - Ah ! le voilà !  Allant à de Jaival.
- Oh ! vite vite ! docteur !
- De Jaival ,  étonné de cette dénomination  - Comment ?
- Clarisse ,  le prenant par la main et l’entraînant vers la fenêtre.
- - Vite, vite, venez voir !
- De Jaival ,  se laissant conduire.
- - Que je vienne voir ? Quoi donc, Madame ?
- Clarisse .
-— Où j’ai été piquée
- De Jaival .
-— Où vous avez été piquée ?
- Clarisse ,  faisant manœuvrer le store.
- - Tenez, nous allons tirer le store pour que vous voyiez plus clair.
- De Jaival ,  sans comprendre où elle veut en venir.
- - Ah ?… Oui, Madame, oui.
- Clarisse .
-— Vous verrez, docteur !…
- De Jaival ,  l’arrêtant.
- - Mais pardon, Madame ! pardon ! je ne suis pas docteur !
- Clarisse ,  derrière le canapé.
- - Oui, oui, je sais ! vous n’avez pas le titre ! Ça n’a aucune importance.
-Tenez, regardez !
- Elle se retrousse.
-De Jaival ,  qui face au public, se retournant à l’invite et sursautant d’ahurissement.
- - Ah !
- Clarisse ,  toujours retroussée, le corps courbé en avant, le bras droit appuyé sur le dossier du canapé.
- - Vous voyez ?
- De Jaival ,  d’une voix rieuse et étonnée.
- - Ah ! oui, Madame !… Ça, je vois !… Je vois !
- Clarisse .
-— Eh bien ?
- De Jaival ,  ravi au public.
- - Tout à fait pittoresque ! pimpant ! Quel chapeau de chronique !
- Clarisse ,  tournant la tête de son côté, mais sans changer de position  - Comment ?
- De Jaival .
-Vous permettez que je prenne quelques notes ?
- Clarisse .
-— Mais non, mais non, voyons !… Tenez, touchez ?
- De Jaival .
-— Que je…
- Clarisse .
-— Touchez, quoi ? Rendez-vous compte !
- De Jaival , de plus en plus surpris.
+Ils sortent pan coupé à gauche.
+Voix de Clarisse , à la cantonade.
+- Oh ! Clarisse , se retournant au son de la voix.
+- Ah ! le voilà ! Allant à de Jaival.
+- Vite, vite, venez voir ! De Jaival , se laissant conduire.
+- Que je vienne voir ? Quoi donc, Madame ? Clarisse .
+— Où j’ai été piquée De Jaival .
+— Où vous avez été piquée ? Clarisse , faisant manœuvrer le store.
+- Tenez, nous allons tirer le store pour que vous voyiez plus clair.
+De Jaival , sans comprendre où elle veut en venir.
+- Ah ?… Oui, Madame, oui.
+— Vous verrez, docteur !… De Jaival , l’arrêtant.
+- Mais pardon, Madame ! pardon ! je ne suis pas docteur ! Clarisse , derrière le canapé.
+Tenez, regardez ! Elle se retrousse.
+De Jaival , qui face au public, se retournant à l’invite et sursautant d’ahurissement.
+- Vous voyez ? De Jaival , d’une voix rieuse et étonnée.
+- Ah ! oui, Madame !… Ça, je vois !… Je vois ! Clarisse .
+— Eh bien ? De Jaival , ravi au public.
+Vous permettez que je prenne quelques notes ? Clarisse .
+— Mais non, mais non, voyons !… Tenez, touchez ? De Jaival .
+— Que je… Clarisse .
+— Touchez, quoi ? Rendez-vous compte ! De Jaival , de plus en plus surpris.
 — Ah ?… Oui, Madame ! Oui.
- Il est face au public, et de la main gauche renversée, il palpe Clarisse du côté droit.
-A part.
- Très pittoresque !
- Clarisse .
-— Mais, pas là, Monsieur ! C’est l’autre côté !
- De Jaival , transportant sa main de l’autre côté.
-— Oh ! pardon !
- Clarisse .
+Très pittoresque ! Clarisse .
+— Oh ! pardon ! Clarisse .
 — J’ai été piquée par une guêpe.
- De Jaival .
-— Là ? Oh !… quel aplomb !
- Clarisse .
+De Jaival .
+— Là ? Oh !… quel aplomb ! Clarisse .
 — L’aiguillon doit être sûrement resté.
- De Jaival .
-— Est-il possible !
- Clarisse .
-— Voyez donc !
- De Jaival ,  se faisant à la situation.
- - Ah ! que je ?… Oui, Madame, oui !
- Il se fixe son monocle dans l’œil et s’accroupit.
-Clarisse .
-— Vous l’apercevez ?
- De Jaival .
-— Attendez ! Oui, oui ! Je le vois !
- Clarisse .
-— Ah ? Ah ?
- De Jaival.
- - Oui, oui ! même il dépasse tellement, que je crois qu’avec les ongles…
- Clarisse .
-— Oh ! essayez, docteur, essayez !
- De Jaival .
-— Oui, Madame, oui !
- A ce moment, sort du cabinet de travail, Hochepaix suivi de Ventroux.
-Hochepaix ,  à la vue de la scène.
- - Ah !
- Ventroux ,  scandalisé.
- - Oh !
- Il se précipite sur Hochepaix et lui fait faire volte-face.
-Clarisse ,  sans se troubler, ni changer de position.
- - Dérangez pas ! Dérangez pas !
- De Jaival ,  arrachant l’aiguillon, et se relevant.
- - Tenez, Madame ! le voilà ! le voilà ! le mâtin !
- Ventroux ,  bondissant sur de Jaival et l’envoyant pirouetter n o  deux.
- - Ah çà ! Voulez-vous, vous !…
- Clarisse  et  De Jaival ,  en même temps.
- - Qu’est-ce qu’il y a ?
- Ventroux .
-— Tu fais voir ton derrière à un rédacteur du Figaro !
- Clarisse .
-— Du Figaro ! du Figaro !
- Ventroux ,  furieux.
- - Oui, monsieur Romain de Jaival, du Figaro !
- Clarisse ,  passant trois pour marcher sur de Jaival à croire qu’elle va l’attraper.
- - De Jaival ! Vous êtes monsieur de Jaival !  Changeant de ton et bien lent.
- Oh ! monsieur ! que vous avez fait une chronique amusante, hier, dans votre journal !  A son mari.
- N’est-ce pas ?
- Ventroux ,  levant de grands bras.
- - Voilà !… Voilà ! Ça n’a pas plus d’importance que ça, pour elle !  A ce moment, ses yeux se portent sur la fenêtre, dont le store est grand tiré.
+De Jaival .
+— Est-il possible ! Clarisse .
+— Voyez donc ! De Jaival , se faisant à la situation.
+— Vous l’apercevez ? De Jaival .
+— Attendez ! Oui, oui ! Je le vois ! Clarisse .
+— Ah ? Ah ? De Jaival.
+— Oh ! essayez, docteur, essayez ! De Jaival .
+Hochepaix , à la vue de la scène.
+- Ah ! Ventroux , scandalisé.
+- Oh ! Il se précipite sur Hochepaix et lui fait faire volte-face.
+Clarisse , sans se troubler, ni changer de position.
+- Dérangez pas ! Dérangez pas ! De Jaival , arrachant l’aiguillon, et se relevant.
+- Ah çà ! Voulez-vous, vous !… Clarisse et De Jaival , en même temps.
+- Qu’est-ce qu’il y a ? Ventroux .
+— Tu fais voir ton derrière à un rédacteur du Figaro ! Clarisse .
+— Du Figaro ! du Figaro ! Ventroux , furieux.
+- De Jaival ! Vous êtes monsieur de Jaival ! Changeant de ton et bien lent.
+N’est-ce pas ? Ventroux , levant de grands bras.
 Poussant un cri strident.
- Ah !… Clemenceau !
- Clarisse .
-— Où ça, Clemenceau ?
- Ventroux ,  redescendant comme un homme ivre.
- - Clemenceau !
- Clarisse ,  regardant dans la direction indiquée.
- - Ah ! tiens, oui !
- Elle adresse des sourires et des "bonjours" de la tête au personnage invisible en question.
-Ventroux .
-— Et il rit ! il ricane !  Tombant sur le canapé.
- Ah ! je suis foutu ! Ma carrière politique est dans l’eau !
- Clarisse ,  pendant que le rideau tombe, adressant des petits saluts à Clemenceau.
- - Bonjour, monsieur Clemenceau ! mais très bien, monsieur Clemenceau ! et vous de même, monsieur Clemenceau ? Ah ! tant mieux ! tant mieux, monsieur Clemenceau !
- RIDEAU
- Avis.
-— Pour les guêpes artificielles, s’adresser à la maison Bérard, huit, rue de la Michodière, Paris.
+Ah !… Clemenceau ! Clarisse .
+— Où ça, Clemenceau ? Ventroux , redescendant comme un homme ivre.
+- Clemenceau ! Clarisse , regardant dans la direction indiquée.
+— Et il rit ! il ricane ! Tombant sur le canapé
