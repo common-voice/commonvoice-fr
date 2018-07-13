@@ -52,7 +52,7 @@ def parse_result_page(page):
 def fetch_play_text(url):
     text = []
 
-    if len(url) > 0:
+    if url and len(url) > 0:
         if 'libretheatre.fr' in url:
             text = fetch_play_text_libretheatre(url)
         elif 'wikisource.org' in url:
