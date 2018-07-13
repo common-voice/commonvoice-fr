@@ -96,7 +96,10 @@ def get_one_play(id):
 
     content = requests.get(WORK_TEMPLATE % { 'workid': id })
     if not content.status_code == 200:
-        raise Exception('HTTP error code: %d' % content.status_code)
+        if content.status_code == 404:
+            print('URL returned 404: %s' % ( WORK_TEMPLATE % { 'workid': id }))
+        else:
+            raise Exception('HTTP error code: %d' % content.status_code)
 
     html = BeautifulSoup(content.content, 'html.parser')
 
@@ -161,7 +164,12 @@ def get_one_play(id):
 def dump_one_play(play):
     print('Treating playid #{}'.format(play))
     try:
-        sentences = extract_sentences(get_one_play(play), args.min_words, args.max_words)
+        sentences = list(extract_sentences(get_one_play(play), args.min_words, args.max_words))
+        nb_sents = len(sentences)
+
+        if nb_sents < 2:
+            print('Too few content: %d' % nb_sents)
+            return
 
         output_play_name = os.path.join(args.output, "{}.txt".format(play))
         print('output_play_name', output_play_name)
