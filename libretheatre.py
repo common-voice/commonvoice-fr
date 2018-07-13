@@ -96,7 +96,7 @@ def get_one_play(id):
 
     content = requests.get(WORK_TEMPLATE % { 'workid': id })
     if not content.status_code == 200:
-        raise
+        raise Exception('HTTP error code: %d' % content.status_code)
 
     html = BeautifulSoup(content.content, 'html.parser')
 
