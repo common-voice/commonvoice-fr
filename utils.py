@@ -302,6 +302,8 @@ def maybe_clean(sentence, most_common_expressions):
   #nettoyer le début de la phrase (supprimer ponctuations et espaces en tête de phrase)
   while sentence[0].pos_ in ["PUNCT", "SPACE"]:
     sentence = sentence[1:]
+    if sentence.text == "":
+        break
     
   #on ne garde pas les phrases de moins de 4 mots  
   if len([word for word in sentence if word.is_punct == False and word.is_space == False]) < 4: 
