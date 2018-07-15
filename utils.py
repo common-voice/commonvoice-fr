@@ -6,6 +6,13 @@ import sys
 from num2words import num2words
 from typing.re import Pattern
 
+from collections import Counter
+from nltk.tokenize import word_tokenize
+from nltk.collocations import BigramCollocationFinder
+from nltk.collocations import BigramAssocMeasures
+from nltk.collocations import TrigramCollocationFinder
+from nltk.collocations import TrigramAssocMeasures
+
 mapping_normalization = [
   #[ u'\xa0 ', u' ' ],
 #  [ u'«\xa0', u'«' ],
@@ -249,11 +256,97 @@ def recursive_text(root, finaltext=""):
         finaltext += recursive_text(c)
   return finaltext
 
-def extract_sentences(arr, min_words, max_words):
-  raw_sentences = (' '.join(arr)).split('. ')
+def extract_sentences(arr, min_words, max_words, nlp=None):
+  full_text = ' '.join(arr)
+  if nlp == None: #si on n'a passé aucun object nlp (cf. librairie spacy), on utilise la manière basique de couper les phrases
+    raw_sentences = (full_text).split('. ')
+  else: #nécessite de passer un objet nlp --> utilise la librairie spacy. Voir exemple dans libretheatre.py
+    doc = nlp(full_text, disable=["ner", "parser"])  
+    #récuperér une liste des noms et pronoms les plus fréquents du document. On s'en servira pour repérer les didascalies.
+    most_common_expressions = common_nouns(doc) + common_collocations(full_text)
+    #récupérer une liste des phrases, en supprimant une partie des didascalies (voir fonction "maybe_clean)
+    raw_sentences = [maybe_clean(sent, most_common_expressions) for sent in doc.sents]
+    #la fonction maybe_clean retourne "None" quand elle repère une didascalien, il faut donc supprimer les items None de la liste
+    raw_sentences = [sentence for sentence in raw_sentences if sentence != None]
   return filter(lambda x: len(splitIntoWords(x)) >= min_words and len(splitIntoWords(x)) <= max_words, raw_sentences)
 
 def check_output_dir(output):
   if not os.path.isdir(output):
     print('Directory does not exists', output, file=sys.stderr)
     sys.exit(1)
+
+#détecter les didascalies / detecting stage directions
+def common_collocations(text, occurences=20):
+  tokens = word_tokenize(text)
+  final_results = []
+  for measures, collocationFinder, min_size in [(BigramAssocMeasures(), BigramCollocationFinder, 2), (TrigramAssocMeasures(), TrigramCollocationFinder, 3)]:
+    m = measures
+    finder = collocationFinder.from_words(tokens, window_size=min_size)
+    finder.apply_word_filter(lambda w: len(w) < 2) # or w.lower() in ignored_words)
+    finder.apply_freq_filter(1)
+    results = finder.nbest(m.student_t, occurences)
+    final_results += [" ".join(gram) for gram in results]
+  return final_results
+  
+def common_nouns(doc):
+       
+  nouns = [token.text for token in doc if token.is_stop != True and token.is_punct != True and token.pos_ in ["NOUN", "PROPN"]]
+  word_freq = Counter(nouns)
+  word_list = [word for word, occ in word_freq.most_common(15) if occ > 2]
+  return word_list #it's rare when there's so many different characters!
+
+def maybe_clean(sentence, most_common_expressions):
+  """ Fonction destinée à supprimer les didascalies du texte
+      et à faire quelques nettoyages divers sur les phrases
+  """
+  #nettoyer le début de la phrase (supprimer ponctuations et espaces en tête de phrase)
+  while sentence[0].pos_ in ["PUNCT", "SPACE"]:
+    sentence = sentence[1:]
+    
+  #on ne garde pas les phrases de moins de 4 mots  
+  if len([word for word in sentence if word.is_punct == False and word.is_space == False]) < 4: 
+    return None  
+  
+  #mot en majuscule suivi d'une ponctuation : certainement une didascalie (Exemple : "ALFRED, déconcerté")
+  if sentence[0].is_upper and sentence[1].is_punct: 
+    return None
+  #mot fréquent dans le document et débutant la phrase, suivi d'une ponctuation (virgule, etc) -> didascalie
+  elif sentence[0].text in most_common_expressions and sentence[1].is_punct: 
+    return None
+  #collocation commune dans le document, suivie d'une ponctuation (virgule, etc) -> didascalie. Exemple: "Le marquis, hésitant".
+  elif sentence[0:2].text in most_common_expressions and sentence[3].is_punct: 
+    return None
+  #deux mots en majuscules en début de phrase :
+  elif sentence[0].is_upper and sentence[1].is_upper: 
+    #suivis d'une ponctuation -> didascalie  . Exemple : "LA COMTESSE, troublée".
+    if sentence[2].is_punct: 
+      return None    
+    #suivi d'un mot capitalisé : certainement le nom d'un personnage suivi de sa réplique. 
+    elif sentence[2].text[0].isupper() and sentence[2].is_upper == False: 
+      #on supprime le nom du personnage
+      return sentence[2:].text  
+  #Si c'est une phrase commençant par un mot tout en majuscules, suivi d'un mot capitalisé, et non suivi d'une ponctuation, c'est probablement le nom d'un personnage suivi de sa réplique
+  elif sentence[0].is_upper and sentence[1].text[0].isupper() and sentence[1].is_punct == False:
+    return sentence[1:].text #on supprime le nom du personnage en début de ligne
+  #idem ci-dessus, sauf qu'on vérifie les 3 premiers mots
+  elif sentence[0].is_upper and sentence[1].is_upper and sentence[1].text[0].isupper() and sentence[1].is_punct == False: 
+    return sentence[2:].text  
+  #Si c'est une phrase intégralement en majuscules, c'est certainement une didascalie. Exemple : "A L'ATELIER"
+  elif sentence.text.isupper(): 
+    return None
+  #Si c'est une phrase qui fait partie des expressions les plus communes du texte, c'est certainement une didascalie
+  elif sentence.text in most_common_expressions: 
+    return None
+  else:
+    return sentence.text
+
+def set_custom_boundaries(doc):
+  for token in doc[:-1]:
+    next_token = doc[token.i+1]  
+    if token.text in [";", ","] or next_token.text[0].islower():
+      doc[token.i+1].is_sent_start = False
+    elif doc[token.i+1].is_punct and doc[token.i+1].text not in ["-"]:
+      doc[token.i+1].is_sent_start = False  
+    elif token.text in ['.', '!', '?', "...", "…"]: 
+      doc[token.i+1].is_sent_start = True    
+  return doc
