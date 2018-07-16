@@ -258,15 +258,16 @@ def recursive_text(root, finaltext=""):
 
 def extract_sentences(arr, min_words, max_words, nlp=None):
   full_text = ' '.join(arr)
-  if nlp == None: #si on n'a passé aucun object nlp (cf. librairie spacy), on utilise la manière basique de couper les phrases
+  if nlp == None: #if no nlp object were passed, we use basic sentence splitting      
     raw_sentences = (full_text).split('. ')
-  else: #nécessite de passer un objet nlp --> utilise la librairie spacy. Voir exemple dans libretheatre.py
+  else: 
+      #if we pass a nlp object, we use the Spacy library. See example in libretheatre.py
     doc = nlp(full_text, disable=["ner", "parser"])  
-    #récuperér une liste des noms et pronoms les plus fréquents du document. On s'en servira pour repérer les didascalies.
+    #Retrieve a list of common nouns, pronouns, and expressions in the doc. We'll use them to spot stage directions
     most_common_expressions = common_nouns(doc) + common_collocations(full_text)
-    #récupérer une liste des phrases, en supprimant une partie des didascalies (voir fonction "maybe_clean)
-    raw_sentences = [maybe_clean(sent, most_common_expressions) for sent in doc.sents]
-    #la fonction maybe_clean retourne "None" quand elle repère une didascalien, il faut donc supprimer les items None de la liste
+    #Retrieve a sentence list, removing stage directions (see maybe_clean_stage_directions function )
+    raw_sentences = [maybe_clean_stage_directions(sent, most_common_expressions) for sent in doc.sents]
+    #maybe_clean_stage_directions function returns "None" when a stage direction is spotted, so we have to remove None items from the list
     raw_sentences = [sentence for sentence in raw_sentences if sentence != None]
   return filter(lambda x: len(splitIntoWords(x)) >= min_words and len(splitIntoWords(x)) <= max_words, raw_sentences)
 
@@ -275,14 +276,13 @@ def check_output_dir(output):
     print('Directory does not exists', output, file=sys.stderr)
     sys.exit(1)
 
-#détecter les didascalies / detecting stage directions
 def common_collocations(text, occurences=20):
   tokens = word_tokenize(text)
   final_results = []
   for measures, collocationFinder, min_size in [(BigramAssocMeasures(), BigramCollocationFinder, 2), (TrigramAssocMeasures(), TrigramCollocationFinder, 3)]:
     m = measures
     finder = collocationFinder.from_words(tokens, window_size=min_size)
-    finder.apply_word_filter(lambda w: len(w) < 2) # or w.lower() in ignored_words)
+    finder.apply_word_filter(lambda w: len(w) < 2)
     finder.apply_freq_filter(1)
     results = finder.nbest(m.student_t, occurences)
     final_results += [" ".join(gram) for gram in results]
@@ -292,51 +292,51 @@ def common_nouns(doc):
        
   nouns = [token.text for token in doc if token.is_stop != True and token.is_punct != True and token.pos_ in ["NOUN", "PROPN"]]
   word_freq = Counter(nouns)
-  word_list = [word for word, occ in word_freq.most_common(15) if occ > 2]
-  return word_list #it's rare when there's so many different characters!
+  word_list = [word for word, occ in word_freq.most_common(15) if occ > 2] 
+  return word_list 
 
-def maybe_clean(sentence, most_common_expressions):
+def maybe_clean_stage_directions(sentence, most_common_expressions):
   """ Fonction destinée à supprimer les didascalies du texte
       et à faire quelques nettoyages divers sur les phrases
   """
-  #nettoyer le début de la phrase (supprimer ponctuations et espaces en tête de phrase)
+  #cleaning the beginning of the sentence (removing punctuations and spaces)
   while sentence[0].pos_ in ["PUNCT", "SPACE"]:
     sentence = sentence[1:]
     if sentence.text == "":
         break
     
-  #on ne garde pas les phrases de moins de 4 mots  
+  #Don't keep sentences longer than 4 words
   if len([word for word in sentence if word.is_punct == False and word.is_space == False]) < 4: 
     return None  
   
-  #mot en majuscule suivi d'une ponctuation : certainement une didascalie (Exemple : "ALFRED, déconcerté")
+  #All-caps word followed by a punctuation mark: certainly a stage direction (Example : "ALFRED, déconcerté")
   if sentence[0].is_upper and sentence[1].is_punct: 
     return None
-  #mot fréquent dans le document et débutant la phrase, suivi d'une ponctuation (virgule, etc) -> didascalie
+  #Frequent word starting the sentence, and followed by a punctuation mark -> stage direction
   elif sentence[0].text in most_common_expressions and sentence[1].is_punct: 
     return None
-  #collocation commune dans le document, suivie d'une ponctuation (virgule, etc) -> didascalie. Exemple: "Le marquis, hésitant".
+  #Frequent collocation starting the sentence, and followed by a punctuation mark -> stage direction. Example: "Le marquis, hésitant".
   elif sentence[0:2].text in most_common_expressions and sentence[3].is_punct: 
     return None
-  #deux mots en majuscules en début de phrase :
+  #Two all-caps word starting the sentence
   elif sentence[0].is_upper and sentence[1].is_upper: 
-    #suivis d'une ponctuation -> didascalie  . Exemple : "LA COMTESSE, troublée".
+    #followed by a punctuation mark: stage direction. Example : "LA COMTESSE, troublée".
     if sentence[2].is_punct: 
       return None    
-    #suivi d'un mot capitalisé : certainement le nom d'un personnage suivi de sa réplique. 
+    #followed by a capitalized word: probably a character's name followed by her line. 
     elif sentence[2].text[0].isupper() and sentence[2].is_upper == False: 
-      #on supprime le nom du personnage
+      #let's remove the character's name
       return sentence[2:].text  
-  #Si c'est une phrase commençant par un mot tout en majuscules, suivi d'un mot capitalisé, et non suivi d'une ponctuation, c'est probablement le nom d'un personnage suivi de sa réplique
+  #All-caps word starting a sentence, followed by a capitalized word, not followed by a punctuation mark: probably a character's name followed by her line
   elif sentence[0].is_upper and sentence[1].text[0].isupper() and sentence[1].is_punct == False:
-    return sentence[1:].text #on supprime le nom du personnage en début de ligne
-  #idem ci-dessus, sauf qu'on vérifie les 3 premiers mots
+    return sentence[1:].text #Removing the character's name at the sentence's start
+  #Like above, except we check the 3 first words instead
   elif sentence[0].is_upper and sentence[1].is_upper and sentence[1].text[0].isupper() and sentence[1].is_punct == False: 
     return sentence[2:].text  
-  #Si c'est une phrase intégralement en majuscules, c'est certainement une didascalie. Exemple : "A L'ATELIER"
+  #If it's an all-caps sentence, then it's certainly a stage direction. Example: "IN THE WORKSHOP"
   elif sentence.text.isupper(): 
     return None
-  #Si c'est une phrase qui fait partie des expressions les plus communes du texte, c'est certainement une didascalie
+  #If it's a sentence among the most common expressions in the text, it's certainly a stage direction
   elif sentence.text in most_common_expressions: 
     return None
   else:
