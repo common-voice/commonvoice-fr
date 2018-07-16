@@ -1,14 +1,4 @@
-Cependant la tradition nous apprend que cette pièce, aujourd'hui repoussée de la scène, a excité à plusieurs reprises les applaudissements du parterre anglais.
-que je le dévore.» Titus Andronicus, tel que nous l'imprimons aujourd'hui, n'a déjà que trop de traits de cette force, et plusieurs fois, nous l'avouerons, un frémissement involontaire nous en a fait interrompre la révision.
-Hâtons-nous de dire que presque tous les commentateurs ont mis en doute que cette pièce fût de Shakspeare, et quelques-uns en ont donné des raisons assez concluantes.
-Le style a une tout autre couleur que celle de ses autres tragédies; il y a dans les vers une prétention à l'élégance, des abréviations vulgaires, et un vice de construction grammaticale, qui ne ressemblent en rien à la manière de Shakspeare.
-Ceux qui admettent Titus Andronicus au nombre des véritables ouvrages de Shakspeare sont obligés de considérer celui-ci comme la première production de sa jeunesse; mais Titus Andronicus n'est point un coup d'essai; on y reconnaît une habitude, un système calculé de composition.
-Cependant le troisième acte entièrement tragique, le caractère original, quoique toujours horrible, d'Aaron le More, quelques pensées, quelques descriptions, semblent appartenir à l'auteur du Roi Lear.
-La fable qui fait le fond de Titus Andronicus est tout entière de l'invention du poëte ou de quelqu'un de ces compilateurs du treizième siècle, qui confondaient les lieux, les noms et les époques dans leurs prétendues nouvelles historiques.
-On trouve aussi dans le recueil de Percy, une ballade que quelques-uns ont cru plus ancienne que la pièce, ce qui n'est pas facile à décider: nous la plaçons en note.
 [Note un: Relics of anc.
-poets, v.
-un, p.
 deux cent vingt-deux.]  SATURNINUS, fils du dernier empereur  de Rome, et ensuite proclamé  lui-même empereur.
  BASSIANUS, frère de Saturninus,  amoureux de Lavinia.
  TITUS ANDRONICUS, noble romain,  général dans la guerre contre les  Goths.
@@ -28,648 +18,238 @@ deux cent vingt-deux.]  SATURNINUS, fils du dernier empereur  de Rome, et ensuit
 La scène est à Rome, et dans la campagne environnante.
 Rome.--Devant le Capitole.
 On aperçoit le monument des Andronicus.
-Les SÉNATEURS et les TRIBUNS assis dans la partie supérieure du temple; ensuite SATURNINUS avec ses partisans se présente à une des portes; BASSIANUS et les siens à l'autre porte: les tambours battent, et les enseignes sont déployées.
-SATURNINUS.--Nobles patriciens, protecteurs de mes droits, défendez par les armes la justice de ma cause; et vous, mes concitoyens, mes fidèles partisans, soutenez par l'épée mes droits héréditaires.
-Je suis le fils aîné du dernier empereur qui ait porté le diadème impérial de Rome: faites donc revivre en moi la dignité de mon père, et ne souffrez pas l'injure qu'on veut faire à mon âge.
-La ville ne renferme point aujourd'hui dans son enceinte un homme d'un plus noble caractère, un plus brave guerrier.
-Le sénat l'a rappelé dans cette ville, à la fin des longues et sanglantes guerres qu'il a soutenues contre les barbares Goths.
-Ce général, la terreur de nos ennemis, secondé de ses fils, a enfin enchaîné cette nation robuste et nourrie dans les armes.
-(Il congédie ses soldats.) SATURNINUS, aux siens.--Amis, qui vous êtes montrés si zélés pour mes droits, je vous rends grâces, et vous licencie tous.
-J'abandonne à l'affection et à la faveur de ma patrie, moi-même, ma personne et ma cause.
-Rome, sois juste et favorable envers moi, comme je suis confiant et généreux envers toi.--Ouvrez les portes et laissez-moi entrer.
 BASSIANUS.--Et moi aussi, tribuns, son pauvre compétiteur.
-(Saturninus et Bassianus entrent dans le Capitole, accompagnés de Marcus, des sénateurs, etc., etc.) UN CAPITAINE, ET foule.
 (On entend les trompettes.
-Paraissent Mutius et Martius: suivent deux soldats portant un cercueil drapé de noir, ensuite marchent Quintus et Lucius.
-Après eux paraît Titus Andronicus, suivi de Tamora, reine des Goths, d'Alarbus, Chiron et Démétrius, avec le More Aaron, prisonniers.
-(On ouvre la tombe de sa famille.) Saluons-les dans le silence qui convient aux morts! dormez en paix, vous qui êtes morts dans les guerres de votre patrie.
-TITUS.--Je vous donne celui-ci, le plus noble de ceux qui survivent, le fils aîné de cette malheureuse reine.
-TAMORA.--Arrêtez, Romains!--Généreux conquérant, victorieux Titus, prends pitié des larmes que je verse, larmes d'une mère qui supplie pour son fils.
-Et si jamais tes enfants te furent chers, ah! songe que mon fils m'est aussi cher.
 Andronicus, ne souille point de sang ta tombe.
-Veux-tu te rapprocher de la nature des dieux? Rapproche-toi d'eux en étant miséricordieux: la douce pitié est le symbole de la vraie grandeur.
 Trois fois noble Titus, épargne mon fils premier-né.
 TITUS.--Modérez-vous, madame, et pardonnez-moi.
-Ceux que vous voyez autour de moi sont les frères de ceux que les Goths ont vus vivre et mourir, et leur piété demande un sacrifice pour leurs frères immolés.
-Votre fils est marqué pour être la victime; il faut qu'il meure pour apaiser les ombres plaintives de ceux qui ne sont plus.
-LUCIUS.--Qu'on l'emmène, et qu'on allume à l'instant le bûcher: coupons ses membres avec nos épées, jusqu'à ce qu'il soit entièrement consumé.
-(Mutius, Marcus, Quintus, Lucius, sortent emmenant Alarbus.) TAMORA.--O piété impie et barbare! CHIRON.--Jamais la Scythie fut-elle à moitié aussi féroce? DÉMÉTRIUS.--Ne compare point la Scythie à l'ambitieuse Rome.
 TITUS.--Qu'il en soit ainsi, et qu'Andronicus adresse à leurs ombres le dernier adieu.
-(Les trompettes sonnent, tandis qu'on dépose les cercueils dans la tombe.) Reposez ici, mes fils, dans la paix et l'honneur; intrépides défenseurs de Rome, reposez ici, à l'abri des vicissitudes et des malheurs de ce monde.
-Ici ne se cache pas la trahison, ici ne respire pas l'envie: ici n'entre point l'infernale haine; ici nulle tempête, nul bruit ne troubleront votre repos; vous y goûterez un silence, un sommeil éternels.
-Ah! bénissez-moi ici de votre main victorieuse, dont les plus illustres citoyens de Rome célèbrent les succès.
-TITUS.--Bienfaisante Rome, tu m'as conservé avec amour la consolation de ma vieillesse, pour réjouir mon coeur.--Vis, Lavinia: que tes jours surpassent les jours de ton père, et que l'éloge de tes vertus survive à l'éternité de la gloire.
-(Entrent Marcus Andronicus, Saturninus, Bassianus et autres.) MARCUS.--Vive à jamais le seigneur Titus, mon frère chéri, héros triomphant sous les yeux de Rome! TITUS.--Je vous rends grâces, généreux tribun, mon noble frère Marcus.
-MARCUS.--Et vous, soyez les bienvenus, mes neveux, qui revenez d'une guerre heureuse, vous qui survivez, et vous qui dormez dans la gloire.
-Placez-vous donc au nombre des candidats; mettez cette robe et aidez à donner un chef à Rome, aujourd'hui sans maître.
-[Note trois: Allusion à la maxime de Solon: «Nul homme ne peut être estimé heureux qu'après sa mort.»] [Note quatre: Candidatus.
 MARCUS.--Titus, tu demanderas l'empire, et tu l'obtiendras.
 SATURNINUS.--Orgueilleux et ambitieux tribun, peux-tu oser...
 MARCUS.--Modérez-vous, prince Saturninus.
 SATURNINUS.--Romains, rendez-moi justice.
-Patriciens tirez vos épées et ne les remettez dans le fourreau que lorsque Saturninus sera empereur de Rome.--Andronicus, il vaudrait mieux que tu te fusses embarqué pour les enfers que de venir me voler les coeurs du peuple.
 LUCIUS.--Présomptueux Saturninus, qui interromps le bien que te veut faire le généreux Titus.....
-TITUS.--Calmez-vous, prince: je vous restituerai le coeur du peuple et je le sévrerai de sa propre volonté.
-SATURNINUS.--Andronicus, je ne te flatte point; mais je t'honore et je t'honorerai tant que je vivrai.
-Si tu veux fortifier mon parti de tes amis, j'en serai reconnaissant; et la reconnaissance est une noble récompense pour les âmes généreuses.
-TITUS.--Peuple romain, et vous tribuns du peuple, je demande vos voix et vos suffrages; voulez-vous en accorder la faveur à Andronicus? LES TRIBUNS.--Pour satisfaire le brave Andronicus et le féliciter de son heureux retour à Rome, le peuple acceptera l'empereur qu'il aura nommé.
 SATURNINUS.--Je te rends grâces, noble Titus, père de mon existence.
-Rome se souviendra combien je suis fier de toi et de tes dons, et lorsqu'il m'arrivera d'oublier jamais le moindre de tes inappréciables services, Romains, oubliez aussi vos serments de fidélité envers moi.
-TITUS, à Tamora.--Maintenant, madame, vous êtes la prisonnière de l'empereur; de celui qui, en considération de votre rang et de votre mérite, vous traitera avec noblesse, ainsi que votre suite.
-SATURNINUS.--Une belle princesse, assurément, et du teint dont je voudrais choisir mon épouse, si mon choix était encore à faire.
-Belle reine, chassez ces nuages de votre front; quoique les hasards de la guerre vous aient fait subir ce changement de fortune, vous ne venez point pour être méprisée dans Rome; partout vous serez traitée en reine.
 Reposez-vous sur ma parole; et que l'abattement n'éteigne pas toutes vos espérances.
-Madame, celui qui vous console peut vous faire plus grande que n'est la reine des Goths.--Lavinia, ceci ne vous déplaît pas? LAVINIA.--Moi, seigneur? Non.
 Vos nobles intentions me garantissent que ces paroles sont une courtoisie royale.
-SATURNINUS.--Je vous rends grâces, aimable Lavinia.--Romains, sortons; nous rendons ici la liberté à nos prisonniers sans aucune rançon; vous, seigneur, faites proclamer notre élection au son des tambours et des trompettes.
 BASSIANUS, s'emparant de Lavinia.--Seigneur Titus, avec votre permission, cette jeune fille est à moi.
-TITUS.--Comment? seigneur, agissez-vous sérieusement, seigneur? BASSIANUS.--Oui, noble Titus, et je suis résolu de me faire justice à moi-même, et de réclamer mes droits.
-(L'empereur fait sa cour à Tamora par signes.) MARCUS.--Suum cuique est le droit de notre justice romaine; ce prince en use et ne reprend que son bien.
-[Note six: Chacun son droit.] LUCIUS.--Et il en restera le possesseur, tant que Lucius vivra.
 TITUS.--Traîtres, loin de moi.
 Où est la garde de l'empereur? Trahison, seigneur! Lavinia est ravie.
-SATURNINUS.--Ravie? par qui? BASSIANUS.--Par celui qui peut avec justice enlever au monde entier sa fiancée.
-(Marcus et Bassianus sortent avec Lavinia.) MUTIUS.--Mes frères, aidez à la conduire hors de cette enceinte; et moi, avec mon épée, je me charge de garder cette porte.
 TITUS, à Saturninus.--Suivez-moi, seigneur, et bientôt je la ramènerai dans vos bras.
 MUTIUS, à Titus.--Seigneur, vous ne passerez point cette porte.
-TITUS.--Quoi, traître, tu me fermeras le chemin à Rome! (Il le poignarde.) MUTIUS, tombant.--Au secours, Lucius, au secours? LUCIUS.--Seigneur, vous êtes injuste, et plus que cela; vous avez tué votre fils dans une querelle mal fondée.
-TITUS.--Ni toi, ni lui, vous n'êtes plus mes fils: mes fils n'auraient jamais voulu me déshonorer.
 Traître, rends Lavinia à l'empereur.
-LUCIUS.--Morte, si vous le voulez; mais non pas pour être son épouse, puisqu'elle est légitimement promise à la tendresse d'un autre.
 (Il sort.) SATURNINUS.--Non, Titus, non.
-N'y avait-il donc dans Rome que Saturninus, dont tu pusses faire l'objet de tes insultes? Cette conduite, Andronicus, cadre bien avec tes insolentes vanteries lorsque tu dis que j'ai mendié l'empire de tes mains.
 TITUS.--Ces paroles sont autant de rasoirs pour mon coeur blessé.
-TAMORA.--Et ici, à la vue du ciel, je jure à Rome, que si Saturninus élève à cet honneur la reine des Goths, elle sera l'humble servante, la tendre nourrice et la mère de sa jeunesse.
 SATURNINUS.--Montez, belle reine, au Panthéon.
-Seigneurs, accompagnez votre illustre empereur, et sa charmante épouse, envoyée par le ciel au prince Saturninus, dont la sagesse répare l'injustice de sa fortune: là, nous accomplirons les cérémonies de notre hymen.
-Indigne frère! indignes enfants! LUCIUS.--Mais accordez-lui du moins la sépulture convenable, donnez à Mutius une place dans le tombeau de nos frères.
 TITUS.--Traîtres, écartez-vous: il ne reposera point dans cette tombe.
-MARCUS.--Mon frère, c'est en vous une impiété; les exploits de mon neveu Mutius parlent en sa faveur; il doit être enseveli avec ses frères.
 QUINTUS ET MARTIUS.--Il le sera, ou nous le suivrons.
-TITUS.--Il le sera, dites-vous? Quel est l'insolent qui a proféré ce mot? QUINTUS.--Celui qui le soutiendrait en tout autre lieu que celui-ci.
-TITUS.--Quoi! voudriez-vous l'y ensevelir malgré moi? MARCUS.--Non, noble Titus, mais nous te supplions de pardonner à Mutius, et de lui accorder la sépulture.
-TITUS.--Marcus, c'est toi-même qui as abattu mon cimier, c'est toi qui, avec ces enfants, as blessé mon honneur: je vous tiens tous pour mes ennemis: ne m'importunez plus davantage, mais allez-vous-en.
 LUCIUS.--Il est hors de lui.--Retirons-nous.
 QUINTUS.--Moi, non, jusqu'à ce que les ossements de Mutius soient ensevelis.
-(Le frère et les enfants se jettent aux genoux d'Andronicus.) MARCUS.--Mon frère, la nature parle dans ce titre.
 QUINTUS.--Mon père, la nature parle dans ce nom.
 TITUS.--Ne me parlez plus, si vous tenez à votre bonheur.
 MARCUS.--Illustre Titus, toi qui es plus que la moitié de mon âme.
 LUCIUS.--Mon bon père, l'âme et la vie de nous tous...
-MARCUS.--Permets que ton frère Marcus enterre ici dans l'asile de la vertu son noble neveu, qui est mort dans la cause de l'honneur et de Lavinia: tu es Romain, ne sois donc pas barbare.
-Les Grecs, mieux conseillés, consentirent à ensevelir Ajax, qui s'était tué lui-même, et le sage fils de Laërte plaida éloquemment pour ses funérailles: ne refuse donc pas l'entrée de ce tombeau au jeune Mutius qui faisait ta joie.
-[Note sept: «Allusion évidente à l'Ajax de Sophocle, dont il n'existait aucune traduction du temps de Shakspeare» (STEVENS.)] TITUS.--Lève-toi, Marcus, lève-toi.--Le plus triste jour que j'aie vu jamais, c'est celui-ci; être déshonoré par mes enfants à Rome! Allons, ensevelissez-le...
 et moi après.
-(Ses frères déposent Mutius dans le tombeau.) LUCIUS.--Cher Mutius, repose ici avec tes frères jusqu'à ce que nous venions orner ta tombe de trophées.
-TOUS.--Que personne ne verse des larmes sur le noble Mutius: celui-là vit dans la renommée qui mourut pour la cause de la vertu.
-MARCUS.--Mon frère, pour faire diversion à ce mortel chagrin, dis-moi comment il arrive que la rusée reine des Goths se trouve soudain la souveraine de Rome? TITUS.--Je l'ignore, Marcus; mais je sais que cela est.
-Si c'était prémédité ou non, le ciel peut le dire; mais n'a-t-elle donc pas des obligations à l'homme qui l'a amenée de si loin pour monter ici à cette fortune suprême? Oui, et elle le récompensera généreusement.
-SATURNINUS.--Traître, si Rome a des lois ou nous quelque pouvoir, toi et ta faction vous vous repentirez de ce rapt.
-BASSIANUS.--Appelez-vous un rapt, seigneur, de prendre mon bien, celle qui fut ma fiancée fidèle et qui est à présent ma femme? Mais que les lois de Rome en décident; en attendant, je suis possesseur de ce qui est à moi.
-SATURNINUS.--Fort bien, fort bien, vous êtes bref, seigneur, mais si nous vivons, je serai aussi tranchant avec vous.
-BASSIANUS.--Seigneur, je dois répondre de ce que j'ai fait, du mieux que je pourrai, et j'en répondrai sur ma tête.
-Rendez-lui donc vos bonnes grâces, Saturninus, à lui, qui s'est montré dans toutes ses actions le père et l'ami de Rome et de vous.
 TITUS.--Prince Bassianus, laisse-moi le soin de rappeler mes actions.
 C'est toi, et mes fils qui m'avez déshonoré.
-Que Rome et le juste ciel soient mes juges, et disent combien j'ai chéri et honoré Saturninus.
-TAMORA, à l'empereur.--Mon digne souverain, si jamais Tamora a pu plaire aux yeux de Votre Majesté, daignez m'entendre parler avec impartialité pour tous, et à ma prière, cher époux, pardonnez le passé.
-SATURNINUS.--Quoi, madame, me voir déshonoré publiquement, et le souffrir lâchement sans en tirer vengeance! TAMORA.--Non pas, seigneur; que les dieux de Rome me préservent d'être jamais l'auteur de votre déshonneur.
-Mais, sur mon honneur, j'ose protester de l'innocence du brave Titus dans ce qui s'est passé; et sa fureur, qu'il n'a pas dissimulée, atteste son chagrin.
-Daignez donc, à ma prière, le regarder d'un oeil favorable: ne perdez pas, sur un soupçon injuste, un si noble ami, et n'affligez pas de vos regards irrités son coeur généreux.
 Cédez à leurs prières, et laissez-moi faire.
-(Haut.) Allons, allons, mon cher empereur.--Approchez, Andronicus.--Saturninus, relevez ce bon vieillard, et consolez son coeur, accablé sous les menaces de votre front courroucé.
 SATURNINUS.--Levez-vous, Titus, levez-vous, mon impératrice a triomphé.
 TITUS.--Je rends grâces à Votre Majesté, et à elle, seigneur.
 Ces paroles et ces regards me redonnent la vie.
-TAMORA.--Titus, je suis incorporée à Rome; je suis maintenant devenue Romaine par une heureuse adoption, et je dois conseiller l'empereur pour son bien.
-LUCIUS.--Nous l'implorons, et nous prenons le ciel et Sa Majesté à témoin, que nous avons agi avec toute la modération qui nous a été possible, en défendant l'honneur de notre soeur et le nôtre.
 MARCUS.--J'atteste la même chose sur mon honneur.
 SATURNINUS.--Retirez-vous, et ne me parlez plus; ne m'importunez plus.
 TAMORA.--Non, non, généreux empereur.
 Il faut que nous soyons tous amis.
-Le tribun et ses neveux vous demandent grâce à genoux; vous ne refuserez pas, cher époux, ramenez vos regards sur eux.
-SATURNINUS.--Marcus, à ta considération, à celle de ton frère Titus, et cédant aux sollicitations de Tamora, je pardonne à ces jeunes gens leurs attentats odieux.--Levez-vous, Lavinia, quoique vous m'ayez abandonné comme un rustre.
-TITUS.--Demain, si c'est le bon plaisir de Votre Majesté, que nous chassions la panthère et le cerf ensemble, nous irons donner à Votre Majesté le bonjour avec les cors et les meutes.
 SATURNINUS.--Volontiers, Titus; et je vous en remercie.
 (Ils sortent.) Rome.--La scène est devant le palais impérial.
 Loin de moi ces vêtements d'esclave, loin de moi les vaines pensées.
 AARON.--Des massues, des massues!--Ces amoureux ne pourront pas se tenir en paix.
-CHIRON.--En attendant, avec le peu d'adresse que je puis avoir, tu vas connaître jusqu'où va mon courage.
 Ayez honte de vous-mêmes et remettez vos épées dans le fourreau.
-CHIRON.--Non pas, moi, que je n'aie enfoncé ma rapière dans son sein, et que je ne lui aie fait rentrer dans la gorge tous les insultants reproches qu'il a prononcés ici à mon déshonneur.
 DÉMÉTRIUS.--Je suis tout prêt et déterminé...
-CHIRON.--Je ne m'embarrasse guère qu'elle le sache, elle et le monde entier: j'aime Lavinia plus que le monde entier.
-DÉMÉTRIUS.--Enfant, apprends à faire un choix plus humble: Lavinia est l'espérance de ton frère aîné.
-AARON.--Quoi! êtes-vous fous?--Ne savez-vous pas combien ces Romains sont furieux et impatients, et qu'ils ne peuvent souffrir de rivaux dans leurs amours? Je vous le dis, princes, vous tramez vous-mêmes votre mort par ce dessein.
 CHIRON.--Aaron, je donnerais mille morts pour jouir de celle que j'aime.
 AARON.--Pour jouir d'elle! hé! comment?...
-DÉMÉTRIUS.--Et qu'y a-t-il là de si étrange? C'est une femme, par conséquent elle peut être recherchée; c'est une femme, par conséquent elle peut être conquise; c'est Lavinia, par conséquent elle doit être aimée.
-Allez, allez; il passe plus d'eau par le moulin que n'en voit le meunier; et nous savons de reste qu'il est aisé d'enlever une tranche au pain entamé sans qu'il y paraisse.
-Quoique Bassianus soit le frère de l'empereur, des gens qui valaient mieux que lui ont porté les insignes de Vulcain.
 AARON, à part.--Oui, des gens comme Saturninus pourraient bien les porter aussi.
 CHIRON.--Oui, certes.
 DÉMÉTRIUS.--Aaron, tu as touché le but.
 AARON.--Je voudrais que vous l'eussiez touché aussi.
 Nous ne serions plus fatigués de ce bruit.
-Eh bien, écoutez, écoutez-moi.--Etes-vous donc assez fous pour vous quereller pour cela? Un moyen qui vous ferait réussir tous deux vous offenserait-il? CHIRON.--Non pas moi, d'honneur.
 DÉMÉTRIUS.--Ni moi, pourvu que j'aie ma part.
-AARON.--Allons, rougissez de votre querelle, et soyez amis; unissez-vous pour l'objet même qui vous divise.
 C'est la dissimulation et la ruse qui doivent faire ce que vous désirez.
-Et il faut vous dire que ce qu'on ne peut faire comme on le voudrait, il faut le faire comme on peut.
 Apprenez ceci de moi; Lucrèce n'était pas plus chaste que cette Lavinia, l'amante de Bassianus.
-Il faut tracer une marche plus rapide que ces lentes langueurs et j'ai trouvé le chemin.
 Espérez le succès par ce moyen, ou renoncez-y.
-La cour de l'empereur ressemble au temple de la Renommée; son palais est rempli d'yeux, d'oreilles et de langues; les bois, au contraire, sont impitoyables, effrayants, sourds et insensibles.
-C'est là, braves jeunes gens, qu'il faut parler, qu'il faut frapper et saisir votre avantage; assouvissez votre passion à l'abri des regards du ciel, et rassasiez-vous à loisir des trésors de Lavinia.
 CHIRON.--Ton conseil, ami, ne sent pas la lâcheté.
-DÉMÉTRIUS.--Sit fas aut nefas, peu importe; jusqu'à ce que je trouve le ruisseau qui peut apaiser mes ardeurs, et le charme qui peut calmer ces transports, per Stygia et manes vehor.
-[Note dix: Permis ou non.] [Note onze: Je suis transporté à travers le Styx et les mânes.] Forêt près de Rome.--Cabane de garde à quelque distance: on entend des cors et les cris d'une meute.
 Mes enfants, chargez-vous, avec nous, du soin d'accompagner et de protéger la personne de l'empereur.
-J'ai été troublé cette nuit dans mon sommeil; mais le jour naissant a consolé mon coeur.
 (Fanfares des cors.
-Entrent Saturninus, Tamora, Bassianus, Lavinia, Chiron, Démétrius et leur suite.) Mille heureux jours à Votre Majesté!--Et à vous aussi, madame! J'avais promis à Vos Majestés l'appel d'un chasseur.
-SATURNINUS.--Et vous l'avez, rigoureusement sonné, seigneur, et peut-être un peu trop matin pour de nouvelles mariées.
-BASSIANUS.--Qu'en dites-vous, Lavinia? LAVINIA.--Je dis que non: il y avait deux heures et plus que j'étais tout éveillée.
-SATURNINUS.--Allons, qu'on amène nos chariots et nos chevaux, et partons pour notre chasse.--(A Tamora.) Madame, vous allez voir notre chasse romaine.
-MARCUS.--Seigneur, j'ai des chiens qui réclameront la plus fière panthère, et qui monteront jusqu'à la cime du promontoire le plus élevé.
-TITUS.--Et moi, j'ai un cheval qui suivra le gibier dans tous ses détours, et qui rasera la plaine comme une hirondelle.
-DÉMÉTRIUS, à son frère.--Chiron, nous ne chassons pas, nous, avec des chevaux ni des chiens; mais nous espérons forcer une jolie biche.
 (Tous partent.) On voit une partie de la forêt déserte et sauvage.
 AARON, avec un sac d'or.
-AARON.--Un homme qui aurait du sens croirait que je n'en ai pas d'ensevelir tant d'or sous un arbre, pour ne jamais le posséder ensuite.
-Que celui qui concevra de moi une si pauvre opinion sache que cet or doit forger un stratagème qui, adroitement ménagé, produira un excellent tour de scélératesse.
-Ainsi, repose ici, cher or, pour ôter le repos à ceux qui recevront l'aumône de la cassette de l'impératrice.
-La vengeance est dans mon coeur, la mort est dans mes mains; mon cerveau ne roule que projets de sang et de carnage.
-Que Jupiter préserve aujourd'hui votre époux des poursuites de sa meute! Il serait malheureux qu'ils le prissent pour un cerf.
-BASSIANUS.--Croyez-moi, reine, votre noir Cimmérien donne à Votre Honneur la couleur de son corps; il le rend comme lui, souillé, détesté et abominable.
-Pourquoi êtes-vous ici séparée de toute votre suite; pourquoi êtes-vous descendue de votre beau coursier blanc comme la neige, et errez-vous ici dans un coin écarté, accompagnée d'un barbare More, si vous n'y avez pas été conduite par d'impurs désirs? [Note treize: Cimmeriæ tenebræ.
-Cimmérien ici veut dire noir, par l'analogie qui existe entre le pays nébuleux des Cimmériens et la couleur noire.] LAVINIA.--Et vous voyant troublée dans vos passe-temps, il est bien naturel que vous taxiez mon noble époux d'insolence.
-(A Bassianus.) Je vous en prie, quittons, ces lieux, et laissons-la jouir à son gré de son amant noir comme le corbeau: cette vallée convient à merveille à ses desseins.
 BASSIANUS.--Le roi, mon frère, sera informé de ceci.
 LAVINIA.--Oui, car ces écarts l'ont déjà fait remarquer.
-Si une bonne fortune merveilleuse ne vous eût pas conduits dans ce lieu, ils allaient exécuter sur moi cette vengeance.
-Vengez-moi si vous aimez la vie de votre mère, ou renoncez à vous appeler jamais mes enfants.
-[Note quatorze: On prétendait que la mandragore poussait un cri plaintif quand on l'ouvrait.] DÉMÉTRIUS, poignardant Bassianus.--Voilà la preuve que je suis votre fils.
-CHIRON, lui portant aussi un coup de poignard.--Et ce coup, enfoncé jusqu'au coeur, pour prouver ma force.
-LAVINIA.--Courage, Sémiramis, ou plutôt barbare Tamora; car il n'est point d'autre nom que le tien qui convienne à ta nature.
-TAMORA, à son fils.--Donnez-moi votre poignard: vous verrez, mes enfants, que la main de votre mère saura venger l'outrage fait à votre mère.
-DÉMÉTRIUS.--Arrêtez, madame: nous lui devons d'autres vengeances: d'abord battons le blé, et après brûlons la paille; cette mignonne fonde son orgueil sur sa chasteté, sur son voeu nuptial, sur sa fidélité; et, fière de ces spécieuses apparences, elle brave Votre Majesté.
-Eh! emportera-t-elle cet orgueil au tombeau? CHIRON.--Si elle l'y emporte, je consens qu'on me fasse eunuque: traînons son époux hors de ce lieu, dans quelque fosse cachée, et que son cadavre serve d'oreiller à nos voluptés.
-TAMORA.--Mais lorsque vous aurez savouré le miel qui vous tente, ne laissez pas survivre cette guêpe pour nous piquer de son aiguillon.
-CHIRON.--Je vous promets, madame, d'y mettre bon ordre.--Allons, ma belle, la violence va nous faire jouir de cet honneur si scrupuleusement conservé.
 LAVINIA.--O Tamora! tu portes la figure d'une femme...
 TAMORA.--Je ne veux pas l'entendre parler davantage: entraînez-la loin de moi.
 LAVINIA.--Chers seigneurs, priez-la d'entendre seulement un mot de moi.
-DÉMÉTRIUS.--Écoutez-la, belle reine: faites-vous un triomphe de voir couler ses larmes: mais que votre coeur les reçoive comme le rocher insensible les gouttes de pluie.
-LAVINIA, à Démétrius.--Depuis quand les jeunes tigres donnent-t-ils des leçons à leur mère? Oh! ne lui apprends pas la cruauté: c'est elle qui te l'a enseignée.
-Le lait que tu as sucé de son sein s'est changé en marbre: tu as puisé dans ses mamelles même ta tyrannie.--(A Chiron.) Et cependant toutes les mères n'enfantent pas des fils qui leur ressemblent.
 Prie-la de montrer la pitié d'une femme.
-CHIRON.--Quoi! voudrais-tu que je prouvasse par ma conduite que je suis un bâtard! LAVINIA.--Il est vrai le noir corbeau n'engendre pas l'alouette.
-Cependant j'ai ouï dire (oh! si je pouvais le voir vérifier aujourd'hui!) que le lion, touché de pitié, souffrit qu'on coupât ses griffes royales; on dit que les corbeaux nourrissent les enfants abandonnés, tandis que leurs propres petits oiseaux sont affamés dans leur nid.
-En dépit de ton coeur barbare, montre-toi, non pas aussi généreux, mais susceptible de quelque pitié.
 TAMORA.--Je ne sais ce que cela veut dire: entraînez-la.
-LAVINIA.--Ah! permets que je te l'enseigne: au nom de mon père qui t'a donné la vie; lorsqu'il aurait pu te tuer, ne t'endurcis point; ouvre tes oreilles sourdes.
-LAVINIA.--C'est la mort à l'instant que j'implore; et une grâce encore, que la pudeur empêche ma langue de nommer.
-Ah! sauve-moi de leur passion, plus fatale pour moi que le coup de la mort, et jette-moi dans quelque abîme odieux, où jamais l'oeil de l'homme ne puisse considérer mon corps: fais cela et sois un meurtrier charitable.
-TAMORA.--Je volerais à mes chers fils leur salaire! non; qu'ils assouvissent sur toi leurs désirs.
 DÉMÉTRIUS, l'entraînant.--Allons, viens: tu n'es restée ici que trop longtemps.
-LAVINIA.--Point de grâce, point de pitié de femme! Ah! brutale créature, l'opprobre et l'ennemie de tout notre sexe! que la destruction tombe....
 CHIRON.--Ah! je vais te fermer la bouche.
-(Il la saisit et l'entraîne.) (A son frère.) Toi, traîne son mari; voici la fosse où Aaron nous a dit de le cacher.
-(Ils sortent en traînant leur victime.) TAMORA.--Adieu, mes enfants: songez à la bien mettre en sûreté.
-Que jamais mon coeur ne goûte un véritable sentiment de joie jusqu'à ce que la race entière des Andronicus soit détruite.
 Maintenant je vais chercher mon aimable More et laisser mes enfants irrités déshonorer cette malheureuse.
-(Elle sort.) (Entrent Aaron, Quintus et Martius.) AARON.--Venez, mes seigneurs, mettez en avant votre meilleur pied; je vais tout à l'heure vous conduire à la fosse dégoûtante où j'ai découvert la panthère profondément endormie.
 QUINTUS.--Ma vue est extrêmement obscurcie, quel qu'en soit le présage.
-MARTIUS.--Et la mienne aussi, je vous le proteste; si ce n'était pas une honte, je laisserais volontiers la chasse pour dormir quelques instants.
-AARON, à part.--Maintenant je vais chercher le roi et l'amener ici, afin qu'il les y trouve; il verra là un indice probable que ce sont eux qui ont assassiné son frère.
-MARTIUS.--Pour te prouver que ton coeur devine juste, Aaron et toi, regardez dans cette caverne, et voyez un affreux spectacle de mort et de sang.
-QUINTUS.--Aaron est parti: et mon coeur compatissant ne peut permettre à mes yeux de regarder l'objet dont le soupçon seul le fait frissonner; oh! dis-moi ce que c'est: jamais, jusqu'à ce moment, je n'ai jamais été assez enfant pour craindre sans savoir pourquoi.
-MARTIUS.--Le prince Bassianus est gisant en un monceau, comme un agneau égorgé, dans cet antre détestable, ténébreux et abreuvé de sang.
 si la crainte t'a rendu aussi faible que je le suis.....
-Aide-moi à sortir de ce cruel et dévorant repaire, aussi odieux que la bouche obscure du Cocyte.
-[Note quinze: «On suppose ici que cette bague jette non pas une lumière réfléchie mais une lumière qui lui est propre.» (JOHNSON)] QUINTUS.--Tends-moi la main, afin que je puisse t'aider à remonter...
-ou, si la force me manque pour te rendre ce service, je serai entraîné par ton poids dans le sein de cet abîme, tombeau du pauvre Bassianus.
 Ah! je n'ai pas la force de t'attirer sur le bord.
 MARTIUS.--Et moi, je n'ai pas la force de monter sans ton secours.
-QUINTUS.--Donne-moi ta main encore une fois, je ne la lâcherai pas cette fois que tu ne sois dehors, ou moi au fond.--Tu ne peux venir à moi, je viens à toi.
-SATURNINUS.--Mon frère mort? Tu ne parles pas sérieusement; son épouse et lui sont vers le nord de la forêt, au rendez-vous de cette agréable chasse; il n'y a pas encore une heure que je l'y ai laissé.
-MARCUS.--Nous ne savons pas où vous l'avez laissé vivant, mais, hélas! nous l'avons trouvé mort ici.
-(Entrent Tamora et sa suite, Andronicus et Lucius.) TAMORA.--Où est mon époux, où est l'empereur? SATURNINUS.--Ici, Tamora; mais navré d'un chagrin mortel.
-TAMORA.--Où est votre frère Bassianus? SATURNINUS.--Oh! vous touchez au fond de ma blessure; l'infortuné Bassianus est ici assassiné.
-TAMORA.--Alors je vous apporte trop tard ce fatal écrit, le plan de cette tragédie prématurée; et je suis bien étonnée que le visage d'un homme puisse cacher dans les replis d'un sourire gracieux tant de cruauté et de barbarie.
 AARON, cherchant.--Mon digne souverain, voici le sac d'or.
-(Il le montre.) SATURNINUS, à Titus.--Deux dogues nés de toi, dogues cruels et sanguinaires, ont ôté ici la vie à mon frère.
-(A sa suite.) Arrachez-les de la fosse pour les traîner en prison; qu'ils y restent jusqu'à ce que nous ayons inventé pour leur supplice des tortures nouvelles et inouïes.
-SATURNINUS.--S'il est prouvé! vous voyez qu'il est manifeste.--Qui a trouvé cette lettre? Tamora, est-ce vous? TAMORA.--C'est Andronicus lui-même qui l'a ramassée.
-TITUS.--Oui, c'est moi, seigneur; et cependant souffrez que je sois leur caution, car je fais voeu, par la tombe de mon vénérable père qu'ils seront toujours prêts à se présenter sur l'ordre de Votre Majesté; et à répondre sur leurs vies de vos soupçons.
 SATURNINUS.--Tu ne seras pas leur caution; allons, suis-moi.
-Que les uns enlèvent le corps, et que d'autres emmènent les meurtriers; qu'ils ne disent pas une parole; la culpabilité est évidente; sur mon âme, s'il était une fin plus cruelle que la mort, je la leur ferais subir.
-TAMORA.--Andronicus, je prierai le roi pour toi; ne crains rien pour tes fils, ils se tireront d'affaire.
 TITUS.--Viens, Lucius, viens; ne t'arrête pas à leur parler.
-(Ils sortent par différents côtés.) DÉMÉTRIUS et CHIRON, avec LAVINIA violée, les mains et la langue coupées.
-DÉMÉTRIUS.--Va maintenant; dis, si tu peux parler, qui t'a coupé la langue et t'a déshonorée.
-CHIRON.--Écris ta pensée, trahis ainsi tes sentiments; et, si tes moignons te le permettent, fais l'office d'écrivain.
-DÉMÉTRIUS, à Chiron.--Vois, comme elle peut manifester son ressentiment avec des signes et des indices.
 CHIRON, à Lavinia.--Va chez toi, demande de l'eau de senteur et lave tes mains.
-DÉMÉTRIUS.--Elle n'a point de langue pour appeler ni de mains à laver; ainsi laissons-la à ses promenades silencieuses.
 CHIRON.--Si j'étais à sa place, j'irais me pendre.
 DÉMÉTRIUS.--Oui, si tu avais des mains pour t'aider à nouer la corde.
-(Démétrius et Chiron sortent.) (Entre Marcus.) MARCUS.--Que vois-je? Serait-ce ma nièce qui fuit si vite? Ma nièce, un mot: où est ton mari? Si c'est un songe, je voudrais me réveiller au prix de tout ce que je possède.
-Sûrement quelque nouveau Térée a profané ta fleur, et, pour t'empêcher de découvrir son forfait, t'a coupé la langue.
-Ah! voilà que tu détournes ton visage confus,--et malgré tout ce sang que tu perds, et qui sort comme des trois bouches d'un conduit, tes joues se colorent encore comme la face de Titan lorsqu'il rougit d'être assailli par un nuage.
-La belle Philomèle ne perdit que la langue; et elle parvint à broder ses sentiments sur un ennuyeux canevas; mais, toi, mon aimable nièce, cette ressource t'a été enlevée.
-Tu as rencontré un Térée plus rusé, qui a coupé ces jolis doigts qui auraient brodé bien mieux que ceux de Philomèle.
-Ah! si le monstre avait vu ces mains de lis trembler, comme les feuilles du tremble, sur un luth, et faire frémir ses cordes de soie du plaisir d'en être caressées, il n'eût pu les toucher, au prix même de sa vie.
-Les SÉNATEURS et les JUGES, suivis de MARCUS et de QUINTUS enchaînés passent sur le théâtre, se rendant au lieu de l'exécution: TITUS les précède, parlant pour ses enfants.
 TITUS.--Écoutez-moi, vénérables pères.
-(Entre Lucius avec son épée nue.) Tribuns révérés; bons vieillards, délivrez mes enfants de leurs chaînes, révoquez l'arrêt de leur mort, et faites-moi dire, à moi, qui n'avais jamais pleuré, que mes larmes sont douées d'une éloquence persuasive.
-LUCIUS.--Mon noble père, vous vous lamentez en vain; les tribuns ne vous entendent point; il n'y a personne ici, et vous racontez vos douleurs à une pierre.
-TITUS.--Ah! Lucius, laisse-moi plaider la cause de tes frères.--Respectables tribuns, je vous conjure encore une fois.
 LUCIUS.--Mon vénérable père, il n'y a pas de tribuns pour vous entendre.
-Si elles étaient vêtues de longues robes de deuil, Rome n'aurait point de tribun qui leur fût comparable.
 TITUS.--Que tu es heureux! Ils t'ont traité avec amitié.
-Quoi! Lucius insensé, ne vois-tu pas que Rome n'est qu'un repaire de tigres? Il faut aux tigres une proie; et Rome n'en a point d'autre à leur offrir que moi et les miens.
 TITUS.--Me dévorera-t-il? Alors, montre-le-moi.
 MARCUS, montrant Lavinia.--Ce fut là ta fille.
 TITUS.--Oui, Marcus, et elle l'est encore.
 LUCIUS.--Ah! malheureux que je suis! cet objet me tue.
-MARCUS.--Hélas! je l'ai trouvée ainsi errante dans la forêt, cherchant à se cacher, comme la biche timide qui a reçu une blessure incurable.
-TITUS.--Elle était ma biche chérie, et celui qui l'a blessée m'a fait plus de mal que s'il m'eût étendu mort.
-Maintenant je suis comme un homme sur un rocher environné d'une vaste étendue de mer, et qui voit la marée monter vague après vague, attendant le moment où un flot ennemi l'engloutira dans ses entrailles salées.
-Quand j'ai nommé ses frères, de nouvelles larmes ont coulé sur ses joues comme une douce rosée sur un lis cueilli et déjà flétri.
-MARCUS.--Peut-être pleure-t-elle parce qu'ils ont tué son mari: peut-être aussi parce qu'elle les sait innocents.
-LUCIUS.--Mon tendre père, cessez vos pleurs: car voyez comme votre désespoir fait pleurer et sangloter ma pauvre soeur.
 MARCUS.--Prends patience, chère nièce.--Bon Titus, sèche tes yeux.
-TITUS.--Ah! Marcus, Marcus! mon frère, je sais bien que ton mouchoir ne peut plus boire une seule de mes larmes; car toi, homme infortuné, tu l'as tout trempé des tiennes.
 LUCIUS.--Ah! ma chère Lavinia, je veux essuyer tes joues.
-AARON.--Allons, convenez promptement; quelle main sera sacrifiée, de crainte qu'ils ne meurent, avant que leur pardon arrive.
 MARCUS.--Ce sera ma main.
 LUCIUS.--Non, par le ciel, ce ne sera pas la vôtre.
-TITUS.--Mes amis, ne vous disputez plus; des herbes si flétries (montrant ses mains) sont bonnes à arracher, et ce doit être la mienne.
-LUCIUS.--Mon tendre père, si l'on doit me croire ton fils, laisse-moi racheter mes deux frères de la mort.
-MARCUS.--Pour l'amour de notre père, au nom de l'affection de notre mère, laisse-moi te prouver en ce moment la tendresse d'un frère.
 TITUS.--Arrangez-vous entre vous; je veux bien épargner ma main.
 LUCIUS.--Je vais chercher une hache.
 MARCUS.--Mais c'est à moi qu'elle servira.
-(Lucius et Marcus sortent.) TITUS.--Approche, Aaron, je veux les tromper tous deux; prête-moi ta main, et je vais te donner la mienne.
-AARON.--Si cela s'appelle tromper, je veux être honnête, et ne jamais tromper ainsi les hommes, tant que je vivrai.
-(A part.) Mais je te tromperai d'une autre manière, et tu le verras avant qu'il se passe une demi-heure.
-(Il coupe la main à Titus.) (Lucius et Marcus reviennent.) TITUS.--Maintenant cessez votre dispute; ce qui devait être est fait.
 Bon Aaron, va, donne ma main à l'empereur.
-Dis-lui que c'est une main qui l'a protégé contre mille dangers; qu'il l'enterre; elle a mérité davantage; qu'elle obtienne du moins cela.
-Quant à mes fils, dis-lui que je les regarde comme des joyaux achetés à peu de frais, et cependant bien chèrement aussi, puisque je n'ai racheté que ce qui est à moi.
-AARON.--Je pars, Andronicus; et, au prix de ta main, attends-toi à voir incessamment tes fils t'être rendus, (à part) leurs têtes, je veux dire.
-Oh! comme cette scélératesse me nourrit par sa seule idée! Que les fous fassent du bien, et que les beaux hommes cherchent à plaire; Aaron veut avoir l'âme aussi noire que son visage.
-(Il sort.) TITUS, à sa fille.--Je lève cette main qui me reste vers le ciel, et je fléchis jusqu'à terre ce corps caduc; s'il est quelque puissance qui prenne pitié des larmes des malheureux, c'est elle que j'implore.
-MARCUS.--Mon frère, demande des choses possibles, et ne te jette point dans cet abîme de chagrins.
-TITUS.--Mon malheur n'est-il donc pas un abîme, puisqu'il n'a point de fond? que ma douleur soit donc sans fond comme lui.
 MARCUS.--Mais pourtant que ta raison gouverne ta douleur.
-TITUS.--S'il était quelque raison pour mes misères, je pourrais contenir ma souffrance dans quelques bornes.
-Ma fille est le firmament en pleurs, et moi la terre; il faut donc que la mer soit émue de ses soupirs; il faut donc que ma terre submergée et noyée par ses larmes continuelles devienne un déluge.
-Mes entrailles ne peuvent contenir mon désespoir; il faut donc que, comme un ivrogne, je le vomisse.
-Ainsi, laisse-moi en liberté, ceux qui perdent doivent avoir la liberté de se soulager le coeur par la méchanceté de leur langue.
-(Entre un messager, portant deux têtes et une main.) LE MESSAGER.--Digne Andronicus, tu es mal payé de cette noble main que tu as envoyée à l'empereur: voici les têtes de tes deux braves fils, et voilà ta main qu'on te renvoie avec mépris.
 Tes chagrins vont faire leur amusement, et ils se moquent de ton courage.
-Je souffre plus de penser à tes maux que du souvenir de la mort de mon père.
-Ah! je ne veux plus chercher à modérer ton désespoir: arrache tes cheveux argentés, ronge de tes dents ton autre main, et que cet affreux spectacle ferme enfin tes yeux trop infortunés! Voilà le moment de t'emporter: pourquoi restes-tu calme? TITUS, riant.--Ha, ha, ha.
 MARCUS.--Pourquoi ris-tu? ce n'est guère le moment.
-TITUS.--Il ne me reste plus une seule larme à verser; d'ailleurs, ce désespoir est un ennemi qui veut envahir mes yeux humides, et les rendre aveugles en les forçant de payer le tribut de leurs larmes.
-Par quel chemin alors trouverais-je la caverne de la vengeance? car ces deux têtes semblent me parler et me menacer de ne jamais entrer dans le séjour du bonheur, jusqu'à ce que tous ces malheurs retombent sur ceux qui les ont commis.
-Allons, voyons quelle tâche j'ai à remplir.--Vous, tristes compagnons, entourez-moi, afin que je puisse me tourner vers chacun de vous, et jurer à mon âme de venger vos affronts.
-Le voeu est prononcé.--Allons, mon frère, prends une tête, et moi je porterai l'autre dans cette main.
 Lavinia, tu seras employée à cette oeuvre: porte ma main, chère fille, entre tes dents.
-Toi, jeune homme, va-t'en, éloigne-toi de ma vue: tu es banni, et tu ne dois pas rester ici; cours chez les Goths, lève parmi eux une armée; et si tu m'aimes, comme je le crois, embrassons-nous et séparons-nous, car nous avons beaucoup à faire.
-(Ils sortent tous, excepté Lucius.) LUCIUS, seul.--Adieu, Andronicus, mon noble père, l'homme le plus malheureux qui ait jamais vécu dans Rome! Adieu, superbe Rome: Lucius laisse ici, jusqu'à son retour, des gages plus chers que sa vie.
-Adieu, Lavinia, ma noble soeur; ah! plût aux dieux que tu fusses ce que tu étais auparavant! Mais à présent Lucius et Lavinia ne vivent plus que dans l'oubli et dans des chagrins insupportables.
-Si Lucius vit, il vengera vos outrages et forcera le fier Saturninus et son impératrice à mendier aux portes de Rome, comme autrefois Tarquin et sa reine.
-Je vais chez les Goths, et je lèverai une armée pour me venger de Rome et de Saturninus.
 (Il sort.) On voit un appartement dans la maison de Titus.
 Un banquet est dressé.
 TITUS, MARCUS, LAVINIA et le jeune LUCIUS, enfant de Lucius.
-TITUS.--Bon, bon.--Maintenant asseyons-nous, et songez à ne prendre de nourriture que ce qu'il en faut pour conserver en nous assez de forces pour venger nos affreux malheurs.
-Marcus, dénoue le noeud de ton douloureux embrassement; ta nièce et moi, pauvres créatures, sommes privés de nos mains, et nous ne pouvons exprimer notre profond chagrin en nous pressant de nos bras.
-Cette pauvre main droite qui me reste ne m'est laissée que pour tourmenter mon sein; et lorsque mon coeur, rendu fou par la souffrance, bat violemment dans cette prison de chair, je le réprime ainsi par mes coups.
-(A Lavinia.) Toi, carte de douleurs, qui me parles par signes, tu ne peux, quand ton coeur précipite ses battements douloureux, le frapper comme moi pour l'apaiser.
-MARCUS.--Fi donc! mon frère, fi donc! N'enseigne point à ta fille à porter des mains homicides sur sa frêle vie! TITUS.--Quoi, le chagrin te fait-il déjà extravaguer, Marcus? ce n'est qu'à moi seul qu'il appartient d'être fou.
-Quelles mains homicides peut-elle porter sur sa vie? Ah! pourquoi prononces-tu le nom de mains? c'est presser Énée de raconter deux fois l'embrasement de Troie et l'histoire de ses cruelles infortunes.
-Elle dit qu'elle ne boit d'autre boisson que ses larmes brassées avec ses chagrins et fermentées sur ses joues.
-Muette infortunée, j'apprendrai tes pensées et je saurai aussi bien tes gestes muets que les ermites mendiants savent leurs saintes prières.
-[Note seize: _Brew'd with her sorrows, mesh'd upon her cheeks; Grossière allusion à l'art du brasseur.] LE JEUNE ENFANT.--Mon bon grand-père, laisse là ces plaintes amères, et égaye ma tante par quelque belle histoire.
-MARCUS.--Hélas! ce pauvre enfant, ému de nos douleurs, pleure de voir le chagrin de son grand-père.
-TITUS.--Calme-toi, tendre rejeton, tu es fait de larmes, et ta vie s'écoulerait bientôt avec elles.
-(Marcus frappe le plat avec un couteau.) Que frappes-tu de ton couteau, Marcus? MARCUS.--Ce que j'ai tué, seigneur, une mouche.
-TITUS.--Malédiction sur toi, meurtrier, tu assassines mon coeur: mes yeux sont rassasiés de voir la tyrannie.
-Un acte de mort exercé sur un être innocent ne sied point au frère de Titus.--Sors de ma présence, je vois que tu n'es pas fait pour être en ma société.
 MARCUS.--Hélas! seigneur, je n'ai tué qu'une mouche.
 TITUS.--Oh! oh! alors pardonne-moi de t'avoir blâmé, car tu as fait une action charitable.
-Donne-moi ton couteau; je veux outrager son cadavre, me faisant illusion comme si je voyais en lui le More qui serait venu exprès pour m'empoisonner.
-MARCUS.--Hélas, pauvre homme! la douleur a fait tant de ravages en lui, qu'il prend de vains fantômes pour des objets réels.
 (Ils sortent.) La scène est devant la maison de Titus.
 Entrent TITUS et MARCUS; survient en même temps le JEUNE LUCIUS, après lequel court LAVINIA.
-L'ENFANT.--Au secours, mon grand-père, au secours! ma tante Lavinia me suit partout, je ne sais pourquoi.
-Mon cher oncle Marcus, voyez comme elle court vite.--Hélas, chère tante, je ne sais pas ce que vous voulez.
 MARCUS.--Reste près de moi, Lucius; n'aie pas peur de ta tante.
 TITUS.--Elle t'aime trop, mon enfant, pour te faire du mal.
 L'ENFANT.--Oh! oui, quand mon père était à Rome, elle m'aimait bien.
-MARCUS.--Que veut dire ma nièce Lavinia par ces signes? TITUS, à l'enfant.--N'aie pas peur d'elle, Lucius.--Elle veut dire quelque chose.--Vois, Lucius, vois comme elle t'invite.--Elle veut que tu ailles quelque part avec elle.
-Ah! mon enfant, jamais Cornélie ne mit plus de soin à lire à ses enfants, que Lavinia à te lire de belles poésies et les harangues de Cicéron.
-C'est ce qui m'a fait jeter mes livres, et fuir sans raison, peut-être; mais pardon, chère tante; oui, madame, si mon oncle Marcus veut venir, je vous accompagnerai bien volontiers.
 MARCUS.--Lucius, je le veux bien.
-TITUS.--Lucius, quel est ce livre qu'elle agite ainsi? L'ENFANT.--Mon grand-père, ce sont les Métamorphoses d'Ovide: c'est ma mère qui me l'a donné.
-MARCUS.--C'est peut-être par tendresse pour celle qui n'est plus qu'elle a choisi ce livre entre tous les autres.
-(Il écrit son nom avec son bâton, qu'il tient dans sa bouche et qu'il conduit avec ses pieds.) Ce sable est uni; tâche de conduire comme moi le bâton, si tu le peux, après que j'aurai écrit mon nom sans le secours des mains.
-MARCUS.--Quoi! quoi! ce sont les enfants dissolus de Tamora qui sont les auteurs de cet abominable et sanglant forfait! TITUS.--Magne dominator poli, tam lentus audis scelera? tam lentus vides.
 TITUS.--C'est assez sûr, si nous savions comment.
-MARCUS.--Oui, voilà mon enfant! Ton père en a souvent agi ainsi pour cette ingrate patrie.
 L'ENFANT.--Et moi, mon oncle, j'en ferai autant, si je vis.
 TITUS.--Viens, viens avec moi dans mon arsenal.
-Lucius, je veux t'équiper; et ensuite, mon enfant, tu porteras de ma part aux fils de l'impératrice les présents que j'ai l'intention de leur envoyer à tous deux.
-Viens, viens: tu feras ce message; n'est-ce pas? L'ENFANT.--Oui, avec mon poignard dans leur sein, grand-père.
 TITUS.--Non, non, mon enfant; non pas cela: je t'enseignerai un autre moyen.
-Viens, Lavinia.--Marcus, veille sur la maison: Lucius et moi, nous allons faire les braves à la cour: oui, seigneur, nous le ferons comme je le dis, et on nous rendra honneur.
 (Il sort.) Appartement du palais.
-Entrent AARON, CHIRON et DÉMÉTRIUS par une des portes du palais; LUCIUS et un serviteur entrent par l'autre porte avec un faisceau d'armes sur lesquelles sont gravés des vers.
 CHIRON.--Démétrius, voilà le fils de Lucius: il est chargé de quelque message pour nous.
 AARON.--Oui, de quelque message extravagant de la part de son extravagant grand-père.
-L'ENFANT.--Seigneurs, avec toute l'humilité possible, je salue Vos Grandeurs de la part d'Andronicus; (à part) et je prie tous les dieux de Rome qu'ils vous confondent tous deux.
 AARON.--Oui, fort bien.
 C'est un passage d'Horace: justement, vous y êtes.
-(A part.) Ce que c'est que d'être un âne! Ceci n'est pas une bonne plaisanterie, le vieillard a découvert leur crime, et il leur envoie ces armes enveloppées de ces vers, qui les blessent au vif, sans qu'ils le sentent.
-AARON.--N'a-t-il pas raison, seigneur Démétrius? N'avez-vous pas traité sa fille en ami? DÉMÉTRIUS.--Je voudrais que nous eussions un millier de dames romaines à notre merci, pour assouvir tour à tour nos désirs de volupté.
-CHIRON.--Voilà un souhait charitable et plein d'amour! AARON.--Il ne manque ici que votre mère pour dire: Amen! CHIRON.--Et elle le dirait, y eût-il vingt mille Romaines de plus dans le même cas.
-DÉMÉTRIUS.--Allons, venez: allons prier les dieux pour notre mère bien-aimée qui est à présent dans les souffrances.
 AARON, à part.--Priez plutôt tous les démons; les dieux nous ont abandonnés.
-(On entend une fanfare.) DÉMÉTRIUS.--Pourquoi les trompettes de l'empereur sonnent-elles ainsi? CHIRON.--Apparemment pour la joie qu'il ressent d'avoir un fils.
 AARON.--A qui? [Note dix-neuf: Delivered, veut dire: livrée, délivrée et accouchée.
 De là l'équivoque.] LA NOURRICE.--Je veux dire qu'elle est accouchée.
-AARON.--Eh bien, que Dieu lui donne bon repos! Que lui a-t-il envoyé? LA NOURRICE.--Un démon.
-AARON.--Eh bien! alors elle est la femelle de Pluton? une heureuse lignée! LA NOURRICE.--Dites une malheureuse, hideuse, noire et triste lignée.
-Le voilà l'enfant, aussi dégoûtant qu'un crapaud, au milieu des beaux nourrissons de notre climat.--L'impératrice vous l'envoie, c'est votre image, scellée de votre sceau, et vous ordonne de le baptiser avec la pointe de votre poignard.
-AARON.--Fi donc! fi donc! prostituée! Le noir est-il une si vilaine couleur? Cher joufflu, tu fais une jolie fleur, cela est sûr.
 DÉMÉTRIUS.--Misérable, qu'as-tu fait? AARON.--Ce que tu ne peux défaire.
 CHIRON.--Tu as perdu notre mère.
 [Note vingt: Thou hast undone our mother;...
 to undo, défaire et perdre de réputation.
-Le More répond: je l'ai faite ou je lui ai fait....] AARON.--Misérable, j'ai trouvé ta mère.
 DÉMÉTRIUS.--Oui, chien d'enfer, et c'est ainsi que tu l'as perdue.
-Malheur à son fruit, et maudit soit son détestable choix! maudit soit le rejeton d'un si horrible démon.
 CHIRON.--Il ne vivra pas.
 AARON.--Il ne mourra pas.
 LA NOURRICE.--Aaron, il le faut; sa mère le veut ainsi.
-AARON.--Le faut-il absolument, nourrice? En ce cas, qu'aucun autre que moi n'attente à la vie de ma chair et de mon sang.
 DÉMÉTRIUS.--J'embrocherai le petit têtard sur la pointe de ma rapière.
 Nourrice, donne-le-moi, mon épée l'aura bientôt expédiée.
 DÉMÉTRIUS.--Cet enfant déshonore à jamais notre mère.
 CHIRON.--Rome la méprisera pour cette indigne faiblesse.
 LA NOURRICE.--L'empereur, dans sa rage, la condamnera à la mort.
 CHIRON.--Je rougis quand je songe à cette ignominie.
-AARON.--Voilà donc le privilége de votre beauté; malheur à cette couleur traîtresse, qui trahit par la rougeur les secrètes pensées du coeur! Voilà un petit garçon formé d'une autre nuance.
-Oui, il est votre frère, et du côté le plus certain, quoique mon sceau soit empreint sur son visage.
-LA NOURRICE.--Aaron, que dirai-je à l'impératrice? DÉMÉTRIUS.--Réfléchis, Aaron, sur le parti qu'il faut prendre, et nous souscrirons tous à ton avis.
 Sauve l'enfant, pourvu que nous soyons tous en sûreté.
-AARON.--Asseyons-nous et délibérons tous ensemble; mon fils et moi nous nous placerons au vent de vous; restez là; maintenant parlez à loisir de votre sûreté.
-(Ils s'asseyent à terre.) DÉMÉTRIUS.--Combien de femmes ont déjà vu cet enfant? AARON.--Allons, fort bien, braves seigneurs.
 Quand nous sommes tous unis, je suis un agneau.
-AARON.--L'impératrice, la sage-femme et vous.--Deux peuvent garder le secret, quand le troisième n'est plus là, va trouver l'impératrice, dis-lui ce que je viens de dire.
-(Il poignarde la nourrice.) Aïe! aïe! voilà comme crie un cochon de lait qu'on arrange pour la broche.
-[Note vingt et un: Secret de deux, secret de Dieu, secret de trois, secret de tous.
-Tre tacerano se due vi non sono.] DÉMÉTRIUS.--Que prétends-tu donc, Aaron? pourquoi as-tu fait cela? AARON.--Seigneur, c'est un acte de politique; la laisserai-je vivre pour trahir notre crime? Une commère bavarde avec la langue longue? Non, seigneur, non.
 Et maintenant connaissez tous mes desseins.
 Près d'ici habite un certain Mulitéus, mon compatriote; sa femme n'est accouché que d'hier.
-Vous entendez, seigneurs? Et voyez (montrant la nourrice), je lui ai donné sa potion.--Il faut que vous preniez soin de ses funérailles.
 Les champs ne sont pas loin, et vous êtes de braves compagnons.
 Cela fait, songez à ne pas prolonger les délais, mais envoyez-moi sur-le-champ la sage-femme.
-Une fois débarrassés de la sage-femme et de la nourrice, libre alors aux dames de jaser à leur gré.
 CHIRON.--Aaron, je vois que tu ne veux pas confier aux vents tes secrets.
-DÉMÉTRIUS.--Pour le soin que tu prends de l'honneur de Tamora, elle et les siens te doivent une grande reconnaissance.
 (Il sort.) Place publique de Rome.
-TITUS, MARCUS père, le jeune LUCIUS ET autres Romains tenant des arcs; Titus porte les flèches, lesquelles ont des lettres à leurs pointes.
-TITUS.--Viens, Marcus, viens.--Cousins, voici le chemin.--Allons, mon enfant,--voyons ton adresse à tirer.
 Vraiment, tu ne manques pas le but, et la flèche y arrive tout droit.
 MARCUS.--Cousins, ses chagrins sont au-dessus de tous les remèdes.
-Joignons-nous aux Goths; et par une guerre vengeresse, punissons Rome de son ingratitude, et que la vengeance atteigne le traître Saturninus.
-TITUS.--Eh bien, Publius? eh bien, messieurs, l'avez-vous rencontré? PUBLIUS.--Non, seigneur; mais Pluton vous envoie dire que si vous voulez obtenir vengeance de l'enfer vous l'aurez.
-Quant à la Justice, elle est occupée, à ce qu'il croit, dans le ciel avec Jupiter, ou quelque part ailleurs; en sorte que vous êtes forcé d'attendre un peu.
 Allons, à l'ouvrage.--Vous êtes un habile archer, Marcus.
-(Il lui donne des flèches.) Ad Jovem, voilà pour toi.--Ici, ad Apollinem, ad Martem.
-C'est pour moi-même.--Ici, mon enfant, à Pallas.--Ici, à Mercure.--A Saturne, Caïus, et non pas à Saturninus.--Il vaudrait autant tirer contre le vent.--Allons, à l'oeuvre, enfant.
 Marcus, tire quand je te l'ordonnerai.
-Sur ma parole, j'ai écrit cette liste à merveille: il ne reste pas un dieu qui n'ait sa requête.
-[Note vingt-trois: A Jupiter] [Note vingt-quatre: à Apollon] [Note vingt-cinq: à Mars, etc.] MARCUS.--Cousins, lancez toutes vos flèches vers la cour, nous mortifierons l'empereur dans son orgueil.
 TITUS.--Allons amis, tirez.
 (Ils tirent.) A merveille, Lucius.
 Cher enfant, c'est dans le sein de la Vierge, envoie-la à Pallas.
-MARCUS.--Seigneur, je vise un mille par delà la lune: de ce coup, votre lettre est arrivée à Jupiter.
-TITUS.--Ah! Publius, Publius, qu'as-tu fait? Vois, vois, tu as coupé une des cornes du Taureau.
-[Note vingt-six: Au lieu de Jupiter, le paysan entend Gibbet-Maker, faiseur de potences.] TITUS.--Que dit Jupiter? Voilà ce que je te demande.
-LE PAYSAN.--Hélas! monsieur, je ne connais pas Jupiter, je n'ai bu jamais avec lui de ma vie.
-TITUS.--Comment, coquin, n'es-tu pas le porteur? LE PAYSAN.--Oui, monsieur, de mes pigeons: de rien autre chose.
-[Note vingt-sept: Tribunal peuple est ici pour tribun du peuple, impérial pour l'empereur.] MARCUS.--Allons, seigneur, cela est juste ce qu'il faut pour votre harangue.
 Qu'il aille remettre les pigeons à l'empereur de votre part.
-TITUS.--Dis-moi, peux-tu débiter une harangue à l'empereur avec grâce? LE PAYSAN.--Franchement, monsieur, je n'ai jamais pu dire grâces de ma vie.
 TITUS.--Allons, drôle, approche: ne fais plus de difficulté; mais donne tes pigeons à l'empereur.
-Par moi, tu obtiendras de lui justice.--Arrête, arrête!--En attendant, voilà de l'argent pour ta commission.--Donnez-moi une plume et de l'encre.--L'ami, peux-tu remettre une supplique avec grâce? LE PAYSAN,--Oui, monsieur.
 TITUS.--Eh bien, voilà une supplique pour toi.
-Et quand tu seras introduit près de l'empereur, dès le premier abord il faut te prosterner; ensuite lui baiser les pieds; et alors remets-lui tes pigeons, et alors attends ta récompense.
 Je serai tout près, l'ami: vois à t'acquitter bravement de ce message.
 LE PAYSAN.--Oh! je vous le garantis, monsieur: laissez-moi faire.
-TITUS.--Dis, as-tu un couteau? Voyons-le.--Marcus, plie-le dans la harangue: car tu l'as faite sur le ton d'un humble suppliant.--Et lorsque tu l'auras donnée à l'empereur, reviens frapper à ma porte, et dis-moi ce qu'il t'aura dit.
 LE PAYSAN.--Dieu soit avec vous, monsieur! Je le ferai.
 TITUS.--Venez, Marcus, allons.--Publius, suis-moi.
 (Ils sortent.) La scène est devant le palais.
 Entrent SATURNINUS, TAMORA, CHIRON, DÉMÉTRIUS, seigneurs et autres.
 Saturninus porte à la main les flèches lancées par Titus.
-Et parce que ses chagrins ont troublé sa raison, faudra-t-il que nous soyons ainsi persécutés de ses vengeances, de ses accès de frénésie, et de ses insultes amères? Le voilà maintenant qui appelle le ciel pour le venger.
-Voyez, voici une lettre à Jupiter, une autre à Mercure; celle-ci à Apollon; celle-là au dieu de la guerre.
 Mais si je vis, sa feinte démence ne servira pas de protection à ces outrages.
-Lui et les siens apprendront que la justice respire dans Saturninus; et si elle sommeille, il la réveillera si bien, que dans sa fureur elle fera disparaître le plus impudent des conspirateurs qui soient en vie.
-Prenez pitié de son déplorable état, plutôt que de poursuivre pour ces insultes le plus faible ou le plus honnête homme de Rome.
-(A part.) Oui, il convient à la pénétrante Tamora de les flatter tous.--Mais, Titus, je t'ai touché au vif, et tout le sang de ta vie s'écoule: si Aaron est seulement prudent, tout va bien, et l'ancre est dans le port.
-(Entre le paysan avec sa paire de colombes.)--Eh bien, qu'y a-t-il, mon ami? Veux-tu nous parler? LE PAYSAN.--Oui, vraiment, si vous êtes la Majesté impériale.
 TAMORA.--Je suis l'impératrice.--Mais voilà l'empereur assis là-bas.
 LE PAYSAN.--C'est lui que je demande.
 (A l'empereur.)--Que Dieu et saint Étienne vous donnent le bonheur.
 Je vous ai apporté une lettre, et une paire de colombes que voilà.
 (L'empereur lit la lettre.) SATURNINUS.--Qu'on le saisisse et qu'on le pende sur l'heure.
 LE PAYSAN.--Combien aurai-je d'argent? TAMORA.--Allons, misérable, tu vas être pendu.
-Va, pour cette audacieuse insulte, je serai moi-même ton bourreau, rusé et frénétique misérable, qui m'aidas à monter au faîte des grandeurs dans l'espérance que tu gouvernerais et Rome et moi.
-SATURNINUS.--Le belliqueux Lucius est-il le général des Goths? Cette nouvelle me glace; et je penche ma tête comme les fleurs frappées de la gelée ou l'herbe battue par la tempête.
-TAMORA.--Pourquoi trembleriez-vous? Votre ville n'est-elle pas forte? SATURNINUS.--Oui, mais les citoyens favorisent Lucius, et ils se révolteront pour lui venir en aide.
 TAMORA.--Roi, prenez les sentiments d'un empereur, comme vous en portez le titre.
-Le soleil est-il éclipsé par les insectes qui volent devant ses rayons? L'aigle permet aux petits oiseaux de chanter et ne s'embarrasse pas de ce qu'ils veulent dire par là, certain qu'il peut, de l'ombre de ses ailes, faire taire à son gré leurs voix.
 Vous pouvez en faire autant pour la populace insensée de Rome.
-[Note vingt-huit: «Cette herbe mangée en abondance est nuisible aux troupeaux.» (JOHNSON.)] SATURNINUS.--Mais il ne voudra pas prier son fils pour nous.
-Dites-lui que l'empereur demande une conférence avec le brave Lucius, et fixe le lieu du rendez-vous dans la maison de son père, le vieil Andronicus.
-SATURNINUS.--Émilius, acquittez-vous honorablement de ce message; et s'il exige des otages pour sa sûreté, dites-lui de demander les gages qu'il préfère.
 ÉMILIUS.--Je vais exécuter vos ordres.
-(Il sort.) TAMORA.--Moi, je vais aller trouver le vieux Andronicus, et l'adoucir par toutes les ressources de l'art que je possède, pour arracher aux belliqueux Goths le fier Lucius.
-Allons, cher empereur, reprenez votre gaieté; ensevelissez toutes vos alarmes dans la confiance en mes desseins.
 SATURNINUS.--Allez; puissiez-vous réussir et le persuader! (Ils sortent.) Plaine aux environs de Rome.
 LUCIUS, à la tête des Goths; tambours, drapeaux.
-LUCIUS.--Guerriers éprouvés, mes fidèles amis, j'ai reçu des lettres de la superbe Rome, qui m'annoncent la haine que les Romains portent à leur empereur, et combien ils aspirent de nous voir.
-Ainsi, nobles chefs, soyez ce qu'annoncent vos titres, fiers et impatients de venger vos affronts, et tirez une triple vengeance de tous les maux que Rome vous a causés.
-TOUS ENSEMBLE.--Et ce qu'il dit, nous le disons tous avec lui, nous le répétons tous d'une voix.
-LUCIUS.--O vaillant Goth! voilà le démon incarné qui a privé Andronicus de sa main glorieuse: voilà la perle qui charmait les yeux de votre impératrice, et voilà le vil fruit de ses passions déréglées.
-(A Aaron.)--Réponds, esclave à l'oeil blanc, où voulais-tu porter cette vivante image de ta face infernale? Pourquoi ne parles-tu pas?--Quoi! es-tu sourd? Non; pas un mot? Une corde, soldats; pendez-le à cet arbre, et à côté de lui son fruit de bâtardise.
 AARON.--Ne touche pas à cet enfant: il est de sang royal.
 LUCIUS.--Il ressemble trop à son père pour valoir jamais rien.
-Allons, commencez par pendre l'enfant, afin qu'il le voie s'agiter; spectacle fait pour affliger son coeur de père.
 Apportez-moi une échelle.
-(On apporte une échelle sur laquelle on force Aaron de monter.) AARON.--Lucius, épargne l'enfant, et porte-le de ma part à l'impératrice.
-Tous ces secrets seront ensevelis par ma mort, si tu ne me jures pas que mon enfant vivra.
 LUCIUS.--Révèle ta pensée; je te dis que ton enfant vivra.
 AARON.--Jure-le, et puis, je commencerai.
-C'est là le serment que j'exige.--Ainsi tu jureras par ce dieu, quel qu'il soit, que tu adores et que tu vénères, de sauver mon enfant, de le nourrir et de l'élever; ou je ne te révèle rien.
 LUCIUS.--Eh bien, je te jure par mon dieu que je le ferai.
 AARON.--D'abord, apprends que j'ai eu cet enfant de l'impératrice.
-LUCIUS.--O femme impudique et d'une luxure insatiable! AARON.--Arrête, Lucius! Ce n'est là qu'une action charitable, en comparaison de ce que tu vas entendre.
-Ce sont ses deux fils qui ont massacré Bassianus; ils ont coupé la langue à ta soeur, ils lui ont fait violence, lui ont coupé les mains, et l'ont parée comme tu l'as vue.
-LUCIUS.--O exécrable scélérat! tu appelles cela parer? AARON.--Eh! elle a été lavée, et taillée et parée, et cela fut même un fort agréable exercice pour ceux qui l'ont fait.
-LUCIUS.--Oh! les brutaux et barbares scélérats, semblables à toi! AARON.--C'est moi qui ai été leur maître, et qui les ai instruits.
-UN GOTH.--Comment peux-tu dire tout cela sans rougir? AARON.--Je rougis comme un chien noir, comme dit le proverbe.
-En un mot, j'ai fait mille choses horribles avec l'indifférence qu'un autre met à tuer une mouche; et rien ne me fait vraiment de la peine que la pensée de ne plus pouvoir en commettre dix mille autres.
-LUCIUS.--Descendez ce démon: il ne faut pas qu'il meure d'une mort aussi douce que d'être pendu sur-le-champ.
-AARON.--S'il existe des démons, je voudrais être un démon pour vivre et brûler dans le feu éternel; pourvu seulement que j'eusse ta compagnie en enfer, et que je pusse te tourmenter de mes paroles amères.
 LUCIUS, aux soldats.--Amis, fermez-lui la bouche et qu'il ne parle plus.
-(Entre un Goth.) LE GOTH.--Seigneur, voici un messager de Rome qui désire être admis en votre présence.
 LUCIUS.--Qu'il vienne.
-(Entre Émilius.) Salut, Émilius; quelles nouvelles apportez-vous de Rome? ÉMILIUS.--Seigneur Lucius, et vous, princes des Goths, l'empereur romain vous salue tous par ma voix: ayant appris que vous êtes en armes, il demande une entrevue avec vous à la maison de votre père.
 Vous pouvez choisir vos otages, ils vous seront remis sur-le-champ.
-UN CHEF DES GOTHS.--Que dit notre général? LUCIUS.--Émilius, que l'empereur donne ses otages à mon père et à mon oncle Marcus, et nous viendrons.
 (A ses troupes.)--Marchez.
 (Ils sortent.) Rome.--La scène est devant la maison de Titus.
 TAMORA, CHIRON ET DÉMÉTRIUS déguisés.
-TAMORA.--C'est dans cet étrange et singulier habillement que je veux me présenter à Andronicus, et lui dire que je suis la Vengeance envoyée du fond de l'abîme pour me joindre à lui et venger ses cruels outrages.
-Frappez la porte de son cabinet, où l'on dit qu'il se renferme pour méditer les étranges plans de terribles représailles.
-Dites-lui que la Vengeance elle-même est venue pour se liguer avec lui et travailler à la ruine de ses ennemis.
 TAMORA.--Titus, je suis venue pour te parler.
 TITUS.--Non, pas un seul mot.
-Comment puis-je donner de la grâce à mon discours, lorsqu'il me manque une main pour y joindre les gestes? Tu as l'avantage sur moi; ainsi retire-toi.
 TAMORA.--Si tu me connaissais, tu voudrais me parler.
-Je suis la Vengeance, envoyée du royaume des enfers pour te soulager du vautour qui te ronge le coeur, en exerçant d'horribles représailles sur tes ennemis.
-Descends et souhaite-moi la bienvenue dans ce royaume de la lumière: viens t'entretenir avec moi de meurtre et de mort.
 TITUS.--Es-tu la Vengeance? m'es-tu envoyée pour tourmenter mes ennemis.
 TAMORA.--Oui; ainsi descends et reçois-moi.
 TITUS.--Commence par me rendre quelque service avant que j'aille te recevoir.
-A tes côtés sont le Meurtre et le Viol: donne-moi quelque assurance que tu es en effet la Vengeance: poignarde-les ou écrase-les sous les roues de ton char; alors j'irai te trouver, et je serai ton cocher, et je roulerai avec toi autour des globes.
-Procure-toi deux coursiers fougueux, noirs comme le jais, pour entraîner rapidement ton char vengeur, et déterrer les meurtriers dans leurs coupables repaires.
 TAMORA.--Ce sont mes ministres, et ils m'accompagnent.
-TITUS.--Sont-ils tes ministres? Comment s'appellent-ils? TAMORA.--Le Rapt et le Meurtre: ils portent ces noms parce qu'ils punissent ceux qui sont coupables de ces crimes.
-TITUS.--Grand Dieu! comme ils ressemblent aux fils de l'impératrice! Mais nous autres, pauvres humains, nous avons de pauvres yeux insensés qui nous trompent.
-O douce Vengeance, maintenant je viens à toi; et si l'étreinte d'un seul bras peut te satisfaire, je vais te presser tout à l'heure avec celui qui me reste.
 Voyez: le voilà qui vient; il faut que je joue mon rôle.
-Mais soyez les bienvenus, tels que vous êtes; que ferons-nous? TAMORA.--Que voudrais-tu que nous fissions, Andronicus? DÉMÉTRIUS.--Montre-moi un meurtrier, et je me charge de lui.
-CHIRON.--Montre-moi un scélérat qui ait commis un rapt; je suis envoyé pour en tirer vengeance.
 TAMORA.--Montre-moi mille méchants qui t'aient fait du mal, et je te vengerai d'eux tous.
-Que répond Andronicus à cette proposition? TITUS appelant.--Marcus, mon frère!--C'est le triste Titus qui t'appelle.
-(Entre Marcus.) Pars, cher Marcus, va trouver ton neveu Lucius; tu le chercheras parmi des Goths.
-Dis-lui de venir me trouver, et d'amener avec lui quelques-uns des principaux princes des Goths; dis-lui de faire camper ses soldats là où ils sont; dis-lui que l'empereur et l'impératrice viennent à une fête chez moi, et qu'il la partagera avec eux.
-Fais cela pour l'amitié que tu me portes, et qu'il fasse ce que je dis s'il tient à la vie de son vieux père.
 MARCUS.--Je vais faire ton message, et revenir aussitôt.
-(Il sort.) TAMORA.--Je vais te quitter pour m'occuper de tes affaires, et j'emmène avec moi mes ministres.
-TITUS.--Non, non, que le Meurtre et le Rapt restent avec moi; autrement je rappelle mon frère, et je ne cherche plus d'autre vengeance que par les mains de Lucius.
-TAMORA, à part, à ses deux fils.--Qu'en dites-vous, mes enfants? Voulez-vous rester, tandis que je vais informer l'empereur de la manière dont j'ai conduit le stratagème que nous avons résolu? Cédez à sa fantaisie, flattez-le, caressez-le, et demeurez avec lui jusqu'à mon retour.
-TITUS, à part.--Je les connais bien tous, quoiqu'ils me croient fou; et j'attraperai par leur propre ruse ce couple de maudits chiens d'enfer et leur mère.
 DÉMÉTRIUS.--Madame, partez quand il vous plaira, laissez-nous ici.
 TAMORA.--Adieu, Andronicus; la Vengeance va ourdir un plan pour surprendre tes ennemis.
 (Elle sort.) TITUS.--Je le sais que tu vas t'en occuper; adieu, chère Vengeance.
 CHIRON.--Dis-nous, vieillard, à quoi tu nous emploieras.
 TITUS.--Ne vous mettez pas en peine; j'ai assez d'ouvrage pour vous.
-(Il appelle.)--Publius, Caïus, Valentin, venez ici! (Entrent Publius et autres.) PUBLIUS.--Que désirez-vous? TITUS.--Connais-tu ces deux hommes? PUBLIUS.--Ce sont les fils de l'impératrice, je crois, Chiron et Démétrius.
 TITUS.--Fi donc, Publius, fi donc, tu te trompes étrangement.
-L'un est le Meurtre, et l'autre s'appelle le Rapt; en conséquence, enchaîne-les, bon Publius.--Caïus, Valentin, mettez la main sur eux.
 Vous m'avez souvent entendu désirer cet instant, je le trouve enfin.
 Liez-les bien, et fermez-leur la bouche s'ils veulent crier.
-(Titus Andronicus rentre tenant un poignard, et Lavinia tenant un bassin.) TITUS.--Viens, viens, Lavinia.
-Il me reste encore cette main pour vous couper la gorge; tandis que Lavinia tiendra entre ses moignons le bassin qui va recevoir votre sang criminel.
 Voilà le repas auquel je l'ai conviée, et voilà le mets dont elle se gorgera.
-Vous avez traité ma fille plus cruellement que ne le fut Philomèle; je veux m'en venger plus cruellement que Progné.
-Allons, tendez la gorge.--(Il les égorge.) Viens, Lavinia, reçois leur sang; et, quand ils seront morts, je vais réduire leurs os en poudre imperceptible, les humecter de cette odieuse liqueur, et faire cuire leurs têtes dans cette horrible pâte.
-Viens, que chacun m'aide à préparer ce banquet; je désire qu'il puisse être plus terrible et plus sanglant que la fête des centaures.
-Allons, apportez-les ici; je veux être le cuisinier, et les tenir prêts pour le retour de leur mère.
 (Ils sortent en emportant les cadavres.) Un pavillon avec des tables.
 LUCIUS, MARCUS, OFFICIERS GOTHS, AARON prisonnier.
-LUCIUS.--Mon oncle Marcus, puisque c'est la volonté de mon père que je vienne à Rome, je suis satisfait.
 UN GOTH.--Et notre volonté est la tienne, arrive ce que voudra la Fortune.
-AARON.--Que quelque démon murmure ses malédictions à mon oreille, et m'inspire afin que ma langue puisse exhaler tout le venin dont mon coeur est gonflé.
 LUCIUS.--Va-t'en, chien barbare, esclave infâme.--Amis, aidez à mon oncle à l'emmener.
 (Les Goths sortent avec Aaron.
 Fanfares.)--Ces trompettes annoncent l'approche de l'empereur.
-(Entrent Saturninus et Tamora avec les tribuns et les sénateurs.) SATURNINUS.--Quoi, le firmament a-t-il donc plus d'un soleil? LUCIUS.--Que te sert-il de t'appeler un soleil? MARCUS.--Empereur de Rome, et vous, mon neveu, entamez le pourparler.
 Cette querelle doit être discutée paisiblement.
-Tout est prêt pour le festin que le soigneux Titus a ordonné dans des vues honorables, pour la paix, pour l'amitié, pour l'union, et pour le bien de Rome.
 Veuillez donc avancer, et prendre vos places.
 SATURNINUS.--Volontiers, Marcus.
 (Les hautbois sonnent.
 La compagnie prend place à table.
-Titus paraît en habit de cuisinier, plaçant les mets sur la table, Lavinia voilée l'accompagne, avec le jeune Lucius.) TITUS.--Soyez le bienvenu, mon gracieux souverain.--Soyez la bienvenue, redoutable reine.--Salut, Goths belliqueux.--Salut, Lucius; soyez tous les bienvenus.
 Quoique la chère soit peu splendide, elle suffira pour vous remplir l'estomac: veuillez bien manger.
-SATURNINUS.--Pourquoi êtes-vous ainsi accoutré, Andronicus? TITUS.--Parce que je voulais m'assurer que tout serait en ordre pour fêter Votre Majesté et votre impératrice.
 TAMORA.--Nous vous sommes obligés, bon Andronicus.
 TITUS.--Vous le seriez sûrement si Votre Majesté pouvait lire au fond de mon coeur.
-Seigneur empereur, résolvez-moi cette question: Le fougueux Virginius fit-il bien de tuer sa fille de sa propre main, parce qu'elle avait été violée, souillée et déshonorée? SATURNINUS.--Il fit bien, Andronicus.
-TITUS.--Votre raison, mon souverain? SATURNINUS.--Parce que sa fille ne devait pas survivre à son déshonneur, et renouveler sans cesse par sa présence les douleurs de son père.
 TITUS.--Cette raison est forte, décisive et convaincante.
-C'est un exemple, un précédent, un modèle à suivre pour moi, le plus malheureux des pères.
-SATURNINUS.--Quoi, est-ce qu'elle a été violée? Dis, qui a fait cette action? TITUS.--Voudriez-vous manger? Que Votre Majesté daigne se nourrir.
-TAMORA.--Pourquoi as-tu tué ainsi ta fille unique? TITUS.--Ce n'est pas moi: c'est Chiron et Démétrius, ils l'ont violée, ils lui ont tranché la langue; ce sont eux, oui, eux, qui lui ont fait tout ce mal.
 SATURNINUS.--Qu'on aille les chercher sur-le-champ.
-TITUS.--Bon! ils sont là tous deux assaisonnés dans ce pâté, dont leur mère s'est délicatement nourrie: elle a mangé la chair qu'elle a enfantée elle-même.
 C'est la vérité, c'est la vérité: j'en atteste la lame affilée de mon couteau.
 (Il perce Tamora.) SATURNINUS.--Meurs, misérable fou, pour cet abominable forfait.
-(Saturninus tue Titus.) LUCIUS.--L'oeil d'un fils peut-il voir couler le sang de son père? Voilà salaire pour salaire, mort pour mort.
-Voici un général: qu'il fasse lui-même ce récit; vos coeurs palpiteront et vous pleurerez en l'entendant parler.
-LUCIUS.--Apprenez donc, nobles auditeurs, que les exécrables Chiron et Démétrius sont ceux qui ont massacré le frère de notre empereur, que ce sont eux qui ont déshonoré notre soeur, et que nos deux frères ont été décapités pour leurs atroces forfaits.
-Apprenez que les larmes de notre père ont été méprisées; et qu'il a été, par une lâche fraude, privé de cette main fidèle qui avait soutenu les guerres de Rome et précipité ses ennemis dans le tombeau.
-Hélas! vous savez que je ne suis pas homme à me vanter; mes blessures, toutes muettes qu'elles sont, peuvent attester que mon témoignage est juste et plein de vérité.
-Mais, arrêtons, il me semble que je m'écarte trop en parlant ici de mon faible mérite.
 Oh! pardonnez-moi, les hommes se louent eux-mêmes quand ils n'ont plus d'amis pour le faire.
 MARCUS.--C'est maintenant à mon tour de parler.
 Voyez cet enfant.
-(Il montre l'enfant qu'un serviteur porte dans ses bras.) Tamora est sa mère; c'est la progéniture d'un More impie, le premier artisan et l'auteur de tous ces maux.
-Le scélérat est vivant dans la maison de Titus, et il est là, tout homme qu'il est, pour attester la vérité de ce fait.
-Jugez maintenant quelle raison avait Titus de se venger de ces outrages inexprimables, au-dessus de la patience, au delà de ce que peut supporter l'homme.
-Parlez, Romains, parlez, et si vous l'ordonnez, voyez, Lucius et moi, nous allons, la main dans la main, nous précipiter.
-ÉMILIUS.--Viens, viens, respectable citoyen de Rome, et conduis doucement par la main notre empereur, notre empereur Lucius; car je suis bien sûr que toutes les voix vont le nommer d'un cri unanime.
 TOUS LES ROMAINS s'écrient.--Salut, Lucius; salut, royal empereur de Rome.
-(Lucius et ses amis descendent.) MARCUS.--Allez dans la triste maison du vieux Titus, et traînez ici ce More impie pour le condamner à quelque mort sanglante, cruelle, en punition de sa méchante vie.
 LES ROMAINS.--Salut, Lucius; salut, gracieux maître de Rome.
-Oh! lorsque la somme de ceux que je devais te donner serait infinie, impossible à compter, cependant je m'acquitterais encore.
 LUCIUS, à son fils.--Approche, enfant: viens apprendre de nous à fondre en pleurs.
-LE JEUNE LUCIUS.--O grand-père, grand-père! oui, je voudrais de tout mon coeur être mort, et qu'à ce prix vous fussiez encore vivant.
-O seigneur! mes larmes m'empêchent de pouvoir lui parler: mes larmes m'étoufferont si j'ouvre la bouche.
-(Entrent des serviteurs entraînant Aaron.) UN DES ROMAINS.--Enfin, triste famille d'Andronicus, finissez-en avec le malheur.
 Prononcez la sentence de cet exécrable scélérat, qui a été l'auteur de ces tragiques événements.
-LUCIUS.--Enfouissez-le jusqu'à la poitrine dans la terre, et laissez-le mourir de faim: qu'il reste là, qu'il crie et demande de la nourriture: si quelqu'un le soulage et le plaint, il mourra pour ce crime.
-Tel est notre arrêt: que quelques-uns de vous demeurent et veillent à ce qu'il soit enfoui dans la terre.
-Je voudrais, si je pouvais faire ma volonté, commettre dix mille forfaits pis que tous ceux que j'ai commis; et si jamais il m'arriva dans le cours de ma vie de faire une seule bonne action, je m'en repens de toute mon âme.
-LUCIUS.--Que quelques bons amis emportent d'ici le corps de l'empereur, et lui donnent la sépulture dans le tombeau de son père.
-Mon père et Lavinia seront sans délai enfermés dans le monument de notre famille.
-Quant à cette odieuse tigresse, cette Tamora, nuls rites funèbres ne lui seront accordés, nul homme ne prendra pour elle les habits de deuil: nul glas funéraire n'annoncera ses obsèques: qu'on la jette aux bêtes sauvages et aux oiseaux de proie.
-Sa vie fut celle d'une bête féroce; elle vécut sans pitié; et par conséquent elle n'en trouvera point.
-Veillez à ce qu'il soit fait justice d'Aaron, de cet infernal More, l'auteur de tous nos désastres: ensuite nous allons travailler à bien ordonner l'État, afin que de pareils événements ne viennent jamais hâter sa ruine.
-Vous, âmes nobles et guerrières, qui n'épargnez pas votre sang pour la patrie, écoutez-moi, moi qui, pendant dix longues années, ai combattu pour Rome, et n'en ai reçu que de l'ingratitude pour récompense.
-Je vécus soixante ans à Rome dans la plus grande considération, j'y étais aimé des nobles, j'avais vingt-cinq fils dont la vertu naissante faisait tout mon plaisir.
-Je combattis toujours avec mes fils contre l'essaim furieux des ennemis de Rome; nous avons combattu dix ans les Goths, nous avons essuyé mille fatigues et reçu beaucoup de blessures.
-L'empereur épousa la reine, source de maux funestes qui désolèrent Rome; car les deux princes et le More le trompèrent lâchement, sans égard pour personne.
-Le More plut à l'impératrice, qui prêta l'oreille à sa passion; elle oublia ses serments jurés à l'empereur, et elle mit au monde un enfant more.
-Jour et nuit ils ne pensaient tous les deux qu'à répandre le sang, et à me plonger moi et les miens dans le tombeau par un assassinat.
-J'espérais enfin vivre en repos, lorsque de nouveaux chagrins vinrent m'assaillir; il me restait une fille de qui j'attendais le soulagement de mes maux, et la consolation de ma vieillesse.
-Cette enfant, appelée Lavinia, était fiancée au noble fils de l'empereur: dans une chasse, il fut massacré par les indignes complices de la cruelle impératrice.
-On eut la méchanceté de jeter son corps dans une profonde et sombre fosse; le scélérat more passa peu de temps après par cet endroit avec mes fils, et ils tombèrent dans la fosse.
-Le More y fit passer ensuite l'empereur, et leur imputa tout le crime de ce meurtre; comme ils furent trouvés dans la fosse, on les arrêta et on les enchaîna.
-Mais ce qui mit le comble à mon malheur, les deux princes eurent la cruauté d'enlever ma fille sans pitié, et souillèrent sa chasteté dans leurs bras impudiques.
-Et quand ils l'eurent déshonorée, ils firent tout ce qu'ils purent pour tenir leur crime secret; ils lui coupèrent la langue, afin qu'elle ne pût les accuser.
-Ils lui coupèrent aussi les deux mains, afin qu'elle ne pût ni mettre ses plaintes par écrit, ni trahir les deux complices de ce forfait, en brodant avec l'aiguille sur son métier.
-Mon frère Marcus la rencontra dans la forêt où son sang arrosait la terre, la vit les deux bras coupés, sans langue, et ne pouvant se plaindre de son malheur.
-Et lorsque je la vis dans cet affreux état, je versai des larmes; je poussai pour Lavinia plus de plaintes que je n'en avais poussé pour mes vingt-deux fils.
-Et quand je vis qu'elle ne pouvait ni écrire, ni parler, ce fut alors que mon coeur se brisa de douleur; nous répandîmes du sable sur la terre, afin de parvenir à dévoiler l'auteur de tant d'atrocités.
-Le More, toujours occupé de scélératesses, dit que si je voulais délivrer mes fils, il fallait que je donnasse ma main droite à l'empereur, et qu'alors il laisserait vivre mes fils.
-J'ordonnai au More de me couper sur-le-champ la main, et je la vis séparée de mon bras sans crainte et sans horreur; car j'aurais volontiers donné au tyran mon coeur sanglant pour la vie de mes enfants.
-Bientôt on me rapporte ma main qu'on avait refusée, et les têtes de mes fils séparées de leurs corps: je les contemplai, et mes larmes coulèrent encore à plus grands flots.
-Alors en proie à ma misère, je m'en allai sans secours, je traçai ma douleur sur le sable avec mes larmes, je décochai ma flèche vers le ciel, et j'invoquai à grands cris les puissances de l'enfer pour me venger.
-Je la laissai quelque temps dans cette idée, jusqu'à ce que mes amis, ayant épié le lieu et le moment, attachèrent les princes à un poteau, pour infliger la punition due à leur crime.
-Je les égorgeai; Lavinia, des restes de ses bras mutilés, tint le bassin pour recevoir leur sang; je râpai ensuite leurs os, pour faire de cette poussière une pâte épaisse dont je fis deux pâtés.
-Je les remplis de leur chair et les fis servir sur la table un jour de festin; je les plaçai devant l'impératrice qui mangea la chair et les os de ses deux fils.
-Ensuite j'égorgeai ma fille sans pitié, et j'enfonçai le poignard dans le sein de l'impératrice, j'en fis de même à l'empereur, puis à moi-même, et terminai ainsi ma fatale vie.
+Mon père et Lavinia seront sans délai enfermés dans le monument de notre famille
