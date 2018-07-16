@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 import sys
 import re
 import os
@@ -9,8 +8,15 @@ import requests
 from bs4 import BeautifulSoup, Comment
 from random import shuffle
 
-from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sentences, check_output_dir
-
+from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sentences, check_output_dir, set_custom_boundaries
+import spacy
+try:
+    import fr_core_news_sm #if it doesn't work, an alternative is: nlp = spacy.load('fr_core_news_sm') https://spacy.io/models/fr. See also line nlp = fr_core_news_sm.load(), at the bottom of the page
+    nlp = fr_core_news_sm.load()   #if it doesn't work, try: nlp = spacy.load('fr_core_news_sm'). See  imports, and https://spacy.io/models/fr, https://spacy.io/models/fr, etc.
+except ModuleNotFoundError:
+    from spacy.cli import download as spacy_model_download
+    spacy_model_download('fr_core_news_sm')
+    nlp = spacy.load('fr_core_news_sm')
 # - prose
 # - 19è + 20è siècle
 LIBRETHEATRE_URL = 'https://data.libretheatre.fr/ajax?__fromnavigation=1&rql=DISTINCT+Any+X%2CA%2CX%2CG%2CX%2CF%2CM%2CW+ORDERBY+XAT+WHERE+X+genre+G%2C+A+author_of+X%2C+X+preferred_form+XA%2C+X+text_form+F%2C+XA+title+XAT%2C+X+nb_men+M%2C+X+nb_women+W%2C+X+text_form+%22Prose%22%2C+X+timespan+B%2C+B+eid+IN(1742%2C+3181)&__force_display=1&vid=table.work.no-filter&divid=table_work_no_filter_28fab344fb3a4775b10b359c84710a16&fname=view&pageid=1403154733050406ce179a062b74023961c80756d6f8349'
@@ -74,6 +80,8 @@ def fetch_play_text(url):
         line = maybe_normalize(line, mapping=mapping_specific)
         line = filter_numbers(line)
         line = line.strip()
+        line = line.replace("\n", " ")
+        
 
         finaltext += [ line ]
 
@@ -174,10 +182,10 @@ def get_one_play(id):
     return fetch_play_text(src)
 
 
-def dump_one_play(play):
+def dump_one_play(play,nlp=None):
     print('Treating playid #{}'.format(play))
     try:
-        sentences = list(extract_sentences(get_one_play(play), args.min_words, args.max_words))
+        sentences = list(extract_sentences(get_one_play(play), args.min_words, args.max_words, nlp=nlp))
         nb_sents = len(sentences)
 
         if nb_sents < 2:
@@ -188,11 +196,11 @@ def dump_one_play(play):
         print('output_play_name', output_play_name)
         if not args.dry:
             with open(output_play_name, 'wb') as output_play:
-                bytes = output_play.write('.\n'.join(sentences).encode('utf-8'))
+                bytes = output_play.write('\n'.join(sentences).encode('utf-8'))
                 if bytes == 0:
                     print('Empty content for playid #{}'.format(play))
         else:
-            print('.\n'.join(sentences))
+            print('\n'.join(sentences))
     except ValueError as e:
         print('Unable to fetch play because of', e)
 
@@ -218,5 +226,7 @@ else:
 if args.one:
     all_ids = [ all_ids[0] ]
 
+
+nlp.add_pipe(set_custom_boundaries, before='parser') 
 for entry in all_ids:
-    dump_one_play(entry)
+    dump_one_play(entry, nlp)
