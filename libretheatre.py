@@ -17,6 +17,10 @@ except ModuleNotFoundError:
     from spacy.cli import download as spacy_model_download
     spacy_model_download('fr_core_news_sm')
     nlp = spacy.load('fr_core_news_sm')
+
+    import nltk
+    nltk.download('punkt')
+
 # - prose
 # - 19è + 20è siècle
 LIBRETHEATRE_URL = 'https://data.libretheatre.fr/ajax?__fromnavigation=1&rql=DISTINCT+Any+X%2CA%2CX%2CG%2CX%2CF%2CM%2CW+ORDERBY+XAT+WHERE+X+genre+G%2C+A+author_of+X%2C+X+preferred_form+XA%2C+X+text_form+F%2C+XA+title+XAT%2C+X+nb_men+M%2C+X+nb_women+W%2C+X+text_form+%22Prose%22%2C+X+timespan+B%2C+B+eid+IN(1742%2C+3181)&__force_display=1&vid=table.work.no-filter&divid=table_work_no_filter_28fab344fb3a4775b10b359c84710a16&fname=view&pageid=1403154733050406ce179a062b74023961c80756d6f8349'
