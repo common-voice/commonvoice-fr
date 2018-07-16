@@ -144,8 +144,8 @@ parser = argparse.ArgumentParser(description='Project Gutenberg text content ext
 parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
 parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
 
-parser.add_argument('--min-words', type=int, default=2, help='Minimum number of words to accept a sentence')
-parser.add_argument('--max-words', type=int, default=45, help='Maximum number of words to accept a sentence')
+parser.add_argument('--min-words', type=int, default=3, help='Minimum number of words to accept a sentence')
+parser.add_argument('--max-words', type=int, default=15, help='Maximum number of words to accept a sentence')
 
 gr_query_index = parser.add_argument_group("Gutenberg index-based query")
 gr_query_index.add_argument('--numbooks', type=int, default=100, help='Number of books to process')

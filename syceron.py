@@ -14,8 +14,8 @@ parser = argparse.ArgumentParser(description='SyceronBrut text content extractio
 parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
 parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
 
-parser.add_argument('--min-words', type=int, default=2, help='Minimum number of words to accept a sentence')
-parser.add_argument('--max-words', type=int, default=45, help='Maximum number of words to accept a sentence')
+parser.add_argument('--min-words', type=int, default=3, help='Minimum number of words to accept a sentence')
+parser.add_argument('--max-words', type=int, default=15, help='Maximum number of words to accept a sentence')
 
 parser.add_argument('file', type=str, help='Source XML file')
 parser.add_argument('output', type=str, help='Output directory')
