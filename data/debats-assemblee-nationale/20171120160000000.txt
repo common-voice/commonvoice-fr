@@ -1,1335 +1,387 @@
 La séance est ouverte.
-L’ordre du jour appelle la suite de la discussion de la seconde partie du projet de loi de finances pour deux mille dix-huit (numéros deux cent trente-cinq, deux cent soixante-treize).
-Vendredi soir, l’Assemblée a poursuivi l’examen des articles non rattachés à des missions, s’arrêtant à l’article quarante-six.
 Deux orateurs sont inscrits sur l’article quarante-six.
 La parole est à Madame Cendra Motin.
-Cette obligation, décidée à la fin de l’année deux mille quinze, doit s’appliquer au premier janvier deux mille dix-huit.
-Devant la diversité des logiciels de comptabilité et la difficulté à appliquer cette solution, nous proposons de limiter cette obligation aux seuls logiciels de caisse, tout en conservant le délai.
-En effet, le délai de deux ans accordé aux éditeurs de logiciels leur ont permis de se mettre aux normes.
-Quant aux mises à jour des applicatifs des entreprises, fréquentes en début d’année, elles ne poseront pas de problèmes de délai.
-De plus, les solutions en mode SAAS – software as a service –, de plus en plus répandues, mutualisent les mises à jour et le développement, ce qui permet de limiter les coûts pour les éditeurs et leurs clients.
 Il semble donc superflu de décaler cette mesure d’une année supplémentaire.
-La lutte contre toutes sortes de fraudes à l’impôt nous semble être une priorité absolue.
-Le présent dispositif, quoiqu’il vise des fraudes moins importantes que les affaires en cours, n’en reste pas moins l’un des vecteurs de cette lutte.
-Voilà pourquoi nous proposons de soutenir l’article quarante-six, qui vise à la fois à limiter la certification aux logiciels de caisse et à maintenir la date d’application de cette obligation au premier janvier deux mille dix-huit.
 (Applaudissements sur quelques bancs du groupe REM.) La parole est à Madame Véronique Louwagie.
 Mon propos sera un peu différent de celui de Madame Motin.
-L’article quarante-six modifie les dispositions de la loi de finances pour deux mille seize introduisant notamment certaines obligations relatives aux logiciels pour les assujettis à la TVA, dans le but de lutter contre la fraude.
 Cette volonté de lutter contre la fraude est vertueuse.
 Je veux redire ici que je l’approuve.
-En revanche, il importe que les dispositions votées soient applicables, ce qui suppose de prendre en compte la nature et la diversité des entreprises et des situations du monde économique, notamment celles des très petites entreprises – TPE – et des petites et moyennes entreprises – PME.
-Plusieurs exploitants agricoles nous ont ainsi indiqué que leurs activités de vente à la ferme disparaîtraient probablement.
-Ces craintes, monsieur le secrétaire d’État, nous ont conduits à déposer certains amendements : j’espère qu’ils retiendront votre attention car il y va de l’activité économique de l’ensemble de nos TPE.
 Nous en venons aux amendements.
-La parole est à Monsieur Bruno Millienne, pour soutenir l’amendement numéro mille six cent quarante-neuf.
-La volonté politique de lutter contre la fraude se heurte à une rédaction technique de l’article quarante-six du projet de loi de finances pour deux mille dix-huit.
-En effet, le renvoi à l’article deux cent quatre-vingt-neuf du code général des impôts – CGI – ne vise que les cas d’émission de factures obligatoires au sens fiscal pour les opérations entre assujettis ou personnes morales.
-En l’état, le texte conduirait à appliquer le dispositif de certification ou d’attestation à toutes les opérations réalisées avec les particuliers, même lorsqu’elles donnent lieu à l’émission de factures conformes au CGI, par exemple dans le cadre du commerce électronique.
 Ce texte serait inapplicable pour tous les autres assujettis – entreprises, associations, organismes ou entités publiques.
-Les entreprises disposent généralement d’un système de facturation unique, non de plusieurs systèmes spécifiques en fonction du destinataire.
-En conséquence, elles émettent les mêmes factures quelle que soit la qualité du destinataire – entreprise, particulier, organisme du secteur public.
 En pratique, tous les logiciels de facturation devraient être certifiés.
-Ces remarques s’appliquent également aux sites de commerce électronique : tous les processus de ventes en ligne devraient donc être certifiés.
-En conclusion, l’entreprise souhaitant obtenir une certification ou une attestation ne peut pas déterminer quels logiciels ou quelles fonctionnalités relèvent de l’obligation.
-À ce jour, seuls les systèmes de caisse enregistreuse disposent d’une procédure de certification, mais pas les logiciels de facturation.
-Ce texte serait inapplicable en l’état pour les éditeurs, lesquels ne connaissent pas l’utilisation qui est faite de leurs logiciels, donc ne savent pas si les factures sont émises pour des professionnels, des particuliers ou des établissements publics.
 L’éditeur deviendrait ainsi responsable du mode d’utilisation de son logiciel par l’assujetti.
-Il est impossible de transposer les exigences d’un logiciel de caisse à un logiciel de facturation : leurs fonctionnalités respectives sont totalement différentes.
-Actuellement, il existe des dispositifs de certification en matière de caisse, mais pas en matière de facturation.
-La parole est à Monsieur Joël Giraud, rapporteur général de la commission des finances, de l’économie générale et du contrôle budgétaire, pour donner l’avis de la commission.
-Avis défavorable.
-L’article quarante-six précise que l’obligation de certification ne vaut que pour les logiciels ou systèmes de caisse.
-L’obligation ne concernera plus les progiciels de gestion intégrée ou de comptabilité : pour ces logiciels multifonctions qui traitent à la fois la comptabilité, la gestion et la caisse, seuls les modules caisse enregistreuse et encaissement devront être certifiés, non l’ensemble du logiciel.
-Si votre dispositif s’appliquait, monsieur le député, on déshabillerait tellement le processus qu’il n’y aurait plus de lutte contre la fraude à la TVA.
-La parole est à Monsieur le secrétaire d’État auprès du ministre de l’économie et des finances, pour donner l’avis du Gouvernement.
-Avis défavorable.
-Une facture n’est obligatoire, au sens fiscal, que dans le cadre d’une relation B to B – business to business, c’est-à-dire d’entreprise à entreprise.
-L’administration fiscale peut la contrôler car elle dispose d’un droit de communication envers l’entreprise cliente.
 A contrario, elle ne peut exercer de droit de communication auprès des particuliers.
-Cet amendement conduirait donc à exclure du dispositif de sécurisation les entreprises qui émettent des factures contenant les mentions légales, qu’elles soient adressées à des entreprises ou à des particuliers.
-Je suis donc l’avis du rapporteur général quant au risque de fraude accrue que cet amendement ferait courir.
 La parole est à Madame Véronique Louwagie.
-Après avoir entendu ces arguments, je voudrais apporter le témoignage d’entreprises concernées par l’amendement numéro mille six cent quarante-neuf, déposé par Monsieur Laqhila.
-Aujourd’hui, cent trente-quatre mille TPE et PME du e-commerce réalisent un chiffre d’affaires inférieur à trente mille euros.
-Elles utilisent très souvent des logiciels open source ou développés en interne, pour construire leur site de vente en ligne.
-Or, par définition, ces logiciels ne sont pas certifiables, puisque leurs utilisateurs peuvent en modifier le code source.
 Ainsi, le dispositif mis en place empêchera ces entreprises de fonctionner avec leurs logiciels.
-Pour certaines entreprises, les coûts de la certification sont évalués à trois mille ou quatre mille euros.
-Voire cinq mille euros ! J’ai recueilli le témoignage d’une entreprise, près de mon territoire, qui sera conduite à arrêter son activité du fait de ces coûts.
-On ne peut pas ignorer cette difficulté, ni laisser penser que les logiciels du e-commerce ne sont pas concernés, puisqu’ils entrent bien dans la définition des logiciels que donne l’article quarante-six.
 Pour toutes ces raisons, je voterai pour cet amendement.
 La parole est à Madame Véronique Louwagie, pour soutenir l’amendement numéro mille soixante-dix-neuf.
 Cet amendement est proche, dans son esprit, de celui qui vient d’être défendu.
-Il vise à simplifier le dispositif, en laissant les entreprises du e-commerce utiliser leur logiciels open source sans certification.
 Les entreprises du e-commerce ne réalisent presque pas de mouvements en espèces.
-Puisque d’autres moyens de contrôle de ces entreprises existent, il s’agit d’apporter une souplesse, en prenant en compte l’absence de règlement en espèces.
-Quel est l’avis de la commission ? Il est défavorable, pour des raisons identiques à celles que j’ai développées tout à l’heure.
-La fraude à la TVA ne concerne pas uniquement les paiements en espèces : il existe bien d’autres manières de frauder.
 C’est d’ailleurs un « produit » qui se développe bien.
-Quel est l’avis du Gouvernement ? Avis défavorable, pour les mêmes raisons que celles du rapporteur général.
 Permettre l’auto-attestation vide de son sens le dispositif.
-Il comporte un risque de fraude à la TVA qui, comme vous le savez, madame la députée, n’est pas seulement réalisée à partir des espèces.
 Je vous l’accorde, monsieur le secrétaire d’État.
 Je suis saisi de deux amendements identiques, numéros cinq cents et mille cent soixante-neuf.
 La parole est à Madame Véronique Louwagie, pour soutenir l’amendement numéro cinq cents.
-Cet amendement vise à prendre en compte les difficultés que pose la certification aux entreprises, sans pour autant renoncer au dispositif – voyez, chers collègues, la manière dont nous essayons de participer de manière constructive à l’élaboration de ce projet de loi.
 La parole est à Monsieur Philippe Dunoyer, pour soutenir l’amendement numéro mille cent soixante-neuf.
 Cette charge administrative qui pèse sur les entreprises est injuste.
-Nous proposons donc, à travers notre amendement, que le code général des impôts impose au fournisseur de l’équipement ou à l’éditeur du logiciel l’obligation de fournir l’attestation de conformité soit lors de l’installation, soit à la première demande.
-Quel est l’avis de la commission sur ces deux amendements ? L’application de cette mesure est déjà différée depuis deux ans, puisqu’elle était prévue pour deux mille seize.
-Si nous continuons à la reporter, je me demande où nous nous arrêterons et si elle adviendra un jour.
-Sur le second point, c’est bien aux fournisseurs d’équipement et aux éditeurs de logiciels qu’incombe la charge de la certification, et non aux entreprises.
-Avis défavorable.
-Quel est l’avis du Gouvernement ? Un délai de deux ans a été laissé aux assujettis et aux éditeurs de logiciels pour se mettre en conformité avec le dispositif proposé.
-La DGFIP tiendra notamment compte des démarches engagées et des diligences effectuées par les entreprises pour obtenir le certificat ou l’attestation.
 C’est dans cet esprit que nous travaillerons.
-Les deux organismes certificateurs prendront également leur part de cet effort de pédagogie, qui est normal.
 Pour l’ensemble de ces raisons, avis défavorable.
 La parole est à Madame Véronique Louwagie.
-Monsieur le secrétaire d’État, monsieur le rapporteur général, vous avez fait valoir que les logiciels n’étaient pas uniquement destinés à contrôler les mouvements en espèces ; je suis tout à fait d’accord, et ce cas n’était qu’un exemple.
-Le fait, pour les entreprises, de les contacter pour obtenir la certification aura indéniablement un coût.
-Aujourd’hui, on parle de trois mille à quatre mille euros ; je m’appuie pour le dire sur les devis qui m’ont été communiqués par certaines entreprises.
-Prenons l’exemple d’exploitants agricoles qui proposent la vente à la ferme de leurs produits.
 Ce ne sont pas de gros montants qui sont en jeu.
-Ils vont renoncer à ce type d’activité, alors même que l’on incite par ailleurs nos agriculteurs à se diversifier, en lien avec le développement du tourisme et au nom de l’attractivité de nos territoires.
 Je vous le dis : ce sont des cas que nous rencontrons sur le terrain.
-Dès lors, on peut regretter que vous n’entendiez pas nos arguments en faveur d’un report, qui aurait été un signal positif.
 Je suis très inquiète.
 La parole est à Madame Cendra Motin.
 Moi, je ne suis pas inquiète du tout.
-D’abord parce que je n’ai pas les mêmes devis que vous, ma chère collègue : les estimations s’échelonnent plutôt de cinq cents à mille cinq cents euros.
-Je vous apporterai les miens ! Il s’agit du coût de l’achat d’un nouveau logiciel aux normes.
-Il existe aussi un petit logiciel très utilisé sur le marché, pour beaucoup de choses, et qui coûtera dix-neuf euros par mois en mode SAAS, ce qui correspond à une sorte de location de service.
-D’après mon expérience dans mon domaine – la paie –, quand une obligation légale incombait à une entreprise, la mise aux normes obligatoire figurait dans le contrat de l’éditeur, qui, dès lors, ne facturait pas nécessairement un montant supplémentaire à son client.
-Visiblement, nous ne connaissons pas les mêmes… On pourra avoir affaire à des éditeurs responsables qui seront en mesure de délivrer les certificats, puisqu’ils travaillent aux développements nécessaires depuis deux ans.
-Quant aux agriculteurs, un amendement que nous avons examiné en commission devrait lui aussi vous rassurer.
 Nous en reparlerons tout à l’heure.
-La parole est à Madame Christine Pires Beaune, pour soutenir l’amendement numéro mille cinq cent soixante-sept.
-Le dispositif dont nous parlons a été adopté au cours de la précédente législature afin de limiter la fraude à la TVA ; je crois qu’il est bon et que les entreprises pourront s’y adapter assez facilement.
-L’article quarante-six a pour objet de soustraire certaines entreprises à l’obligation d’utiliser un logiciel de caisse certifié.
-Notre amendement tend à préciser que les organismes HLM ne sont pas, eux non plus, concernés par cette obligation, mais aussi à étendre la dispense aux opérateurs ayant une activité de promotion immobilière, laquelle donne de toute façon lieu à l’établissement d’actes notariés.
-Quant aux notaires, compte tenu de ce que j’ai dit précédemment sur les logiciels multifonctions, je doute qu’ils soient nombreux à être concernés par l’obligation.
-Avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis, pour les mêmes raisons.
-Je suis saisi de cinq amendements, numéros deux cent quatre-vingt-deux, quatre cent cinquante-cinq, mille cinq cent sept, mille trois cent dix et mille cinq cent dix-neuf, pouvant être soumis à une discussion commune.
-Les amendements numéros deux cent quatre-vingt-deux et quatre cent cinquante-cinq sont identiques ainsi que les amendements numéros mille cinq cent sept, mille trois cent dix et mille cinq cent dix-neuf.
 La parole est à Monsieur Julien Aubert, pour soutenir l’amendement numéro deux cent quatre-vingt-deux.
-L’article limite l’obligation de certification aux seuls systèmes de caisse et y soustrait les personnes relevant du régime de la franchise en base de TVA du régime général.
 La parole est à Madame Véronique Louwagie, pour soutenir l’amendement numéro quatre cent cinquante-cinq.
 Il est identique à celui dont Julien Aubert vient de nous proposer une excellente présentation.
-Nous en arrivons à la seconde série d’amendements identiques, numéros mille cinq cent sept, mille trois cent dix et mille cinq cent dix-neuf.
-La parole est à Monsieur le rapporteur général, pour soutenir l’amendement numéro mille cinq cent sept.
-La proposition qui vient d’être présentée a fait l’objet en commission de plusieurs amendements identiques qui ont été adoptés, ce qui a donné lieu au présent amendement.
-Je ne vois d’ailleurs pas très bien pourquoi il n’est pas tout simplement identique aux deux précédents.
-Quoi qu’il en soit, cette proposition, formulée par des parlementaires siégeant sur tous les bancs, est parfaitement légitime.
-Monsieur Aubert, peut-on considérer que vous avez défendu l’amendement identique numéro mille trois cent dix ? Oui, monsieur le président.
-Monsieur Dunoyer, l’amendement identique numéro mille cinq cent dix-neuf est-il défendu ? Oui, monsieur le président.
 Quel est l’avis du Gouvernement ? Favorable à l’amendement numéro mille cinq cent sept.
-C’est pourtant l’occasion de voter un amendement de l’opposition ! (Sourires.) Vous êtes cosignataire de celui de la commission ! Et l’objet est le même ! La parole est à Monsieur Bruno Millienne, pour soutenir l’amendement numéro mille six cent quarante-sept.
-Pour faire respecter l’obligation d’utiliser un logiciel ou système de caisse sécurisé et certifié, une amende de sept mille cinq cents euros par manquement constaté est prévue.
-Initialement fixé à cinq mille euros, son montant a été relevé afin de la rendre plus dissuasive.
-Ce montant nous paraît excessif et disproportionné s’agissant d’une amende fiscale, a fortiori pour les commerçants dont le chiffre d’affaires est limité.
 Nous proposons donc de le ramener à cinq mille euros.
-Quel est l’avis de la commission ? Compte tenu des enjeux de la lutte contre la fraude à la TVA, le montant de l’amende a semblé raisonnable à la commission.
-Avis défavorable.
 Quel est l’avis du Gouvernement ? Même avis.
-Le montant de l’amende, arrêté en commission mixte paritaire en deux mille quinze, semble suffisamment incitatif, sans être démesuré.
 L’amendement est-il maintenu ? Oui, monsieur le président.
 La parole est à Madame Véronique Louwagie, pour soutenir l’amendement numéro quatre cent cinquante-trois.
-Il s’agit en quelque sorte d’un amendement de repli : le montant de l’amende serait maintenu, mais son application reportée au premier janvier deux mille dix-neuf.
-Nous en avons parlé en commission : les uns et les autres ont constaté que toutes les entreprises ne pourraient pas s’être dotées d’un logiciel de caisse certifié au premier janvier deux mille dix-huit, c’est-à-dire dans quarante jours.
 Ce sera impossible à beaucoup d’entre elles, pour des raisons techniques.
-Dans ce contexte, il ne paraît pas très raisonnable de maintenir une amende renouvelable de sept mille cinq cents euros par logiciel ou par système de caisse.
-L’amendement laisserait du temps aux entreprises et allégerait un peu l’épée de Damoclès que ce délai place au-dessus de leur tête.
-Quel est l’avis de la commission ? Vous le savez, Gérald Darmanin, ministre de l’action et des comptes publics, nous a assuré ici même qu’une politique d’accompagnement des entreprises serait mise en œuvre l’année suivant la mise en application du dispositif.
-Reporter l’amende d’un an adresserait un mauvais signal aux entreprises : celles qui, de bonne foi, n’ont pas réussi seront « couvertes » par cette phase de pédagogie, mais il faut bien sanctionner celles qui sont de mauvaise foi.
-Avis défavorable.
 Quel est l’avis du Gouvernement ? Avis défavorable.
-Notre administration maniera avec parcimonie l’épée de Damoclès ; elle privilégiera l’accompagnement et la pédagogie.
-Je suis saisi de deux amendements identiques, numéros mille deux cent soixante-six et mille six cent quarante-six.
-La parole est à Monsieur Éric Alauzet, pour soutenir l’amendement numéro mille deux cent soixante-six.
 Je le retire.
-La parole est à Monsieur Bruno Millienne, pour soutenir l’amendement numéro mille six cent quarante-six.
-Puisque nous avons confiance dans la clémence du Gouvernement pour la première année, nous le retirons.
 Je suis saisi de plusieurs amendements portant articles additionnels après l’article quarante-six.
-Les amendements numéros mille sept cent quatre-vingt-six, mille sept cent quatre-vingt-un, mille sept cent quatre-vingt-dix-neuf et mille huit cent cinq peuvent faire l’objet d’une présentation groupée.
 La parole est à Monsieur Éric Alauzet, pour les soutenir.
-Ces quatre amendements ont le même objectif et se différencient seulement par le niveau des sanctions qu’ils définissent.
-C’est une mesure parmi d’autres au sein du projet de lutte contre l’érosion de la base d’imposition et le transfert de bénéfices, dit BEPS.
-Il en est une en particulier qui fait l’objet d’un projet de directive européenne : la communication à l’administration fiscale des schémas d’optimisation fiscale par les entreprises et les conseillers fiscaux.
-Pierre Moscovici, très engagé, communique dessus depuis six mois et espère aboutir à une directive d’ici à six mois.
-L’idée est de remonter le plus en amont possible dans le processus d’évitement fiscal.
-Certains pays ont adopté cette mesure il y a longtemps, comme l’Angleterre ou l’Irlande, lesquels ne sont pourtant pas les plus engagés dans ces questions.
-Notre administration, informée de l’existence de tels dispositifs, serait ainsi plus réactive et pourrait interdire leur recours, en rendant illégal ce qui n’est aujourd’hui qu’immoral, ce qui aurait un vrai effet de dissuasion.
-La transparence est une impérieuse nécessité pour les citoyens, pour la cohésion sociale, mais également pour éviter de transférer, dans notre budget, le manque à gagner sur les impôts payés par nos entreprises et nos concitoyens.
 C’est aussi une nécessité pour les entreprises.
 On nous oppose souvent l’idée selon laquelle il faut protéger les actionnaires.
-Or, protéger ses actionnaires, c’est les informer des risques que court l’entreprise, y compris en termes de réputation, et non seulement en raison des redressements fiscaux qu’elle peut subir.
-Quel est l’avis de la commission ? Je comprends bien l’objectif poursuivi par l’auteur de ces amendements, et je pense qu’il est partagé sur tous les bancs.
-En dépit de la bonne intention qui les anime, ils se heurtent au principe constitutionnel de l’incompétence négative.
-En visant des « dispositifs de planification fiscale à caractère potentiellement agressif », vous n’êtes pas suffisamment précis.
-Le Conseil constitutionnel, appelé à se prononcer sur la loi de finances pour deux mille quatorze, avait censuré l’obligation de déclarer les schémas d’optimisation fiscale, précisément parce que cette notion était trop imprécise.
-Puisque la vôtre l’est tout autant, sinon plus, la même censure risque de s’y appliquer.
-Par ailleurs, ces amendements entraîneraient une sanction pénale voire une sanction pour fraude fiscale, ce qui semble manifestement disproportionné pour un manquement à une obligation déclarative.
 Je vous invite à retirer ces amendements.
 À défaut, j’émettrais un avis défavorable.
-Quel est l’avis du Gouvernement ? Les différentes mesures que vous proposez ont le même objet.
 Elles comportent des imprécisions juridiques de nature à les rendre peu conformes à la Constitution.
-Vous le savez, la lutte contre la fraude et l’évasion fiscales doit être organisée aux niveaux européen et international.
-À ce titre, une directive visant à rendre obligatoires les déclarations de montage est en cours de négociation à Bruxelles.
 Plusieurs dispositifs, qui existent déjà au niveau international, ont été transposés dans notre droit.
-Pour les plus grandes entreprises existe déjà le dispositif de la déclaration pays par pays, par exemple, qui permet aux administrations fiscales d’avoir précisément connaissance des données des structures établies dans d’autres États.
 Pour l’ensemble de ces raisons, je vous suggère de retirer votre amendement.
 À défaut, l’avis serait défavorable.
 La parole est à Monsieur Éric Alauzet.
-Nous sommes régulièrement confrontés à ce type d’arguments : la liberté d’entreprendre, la protection de la vie privée ou, comme dans ce cas précis, l’apparente imprécision de ma proposition.
 Dans la Constitution sont aussi inscrits des principes forts, notamment celui d’égalité.
-Or lorsqu’un système conduit à une situation dans laquelle certains échappent à l’impôt et que celui-ci pèse entièrement sur les autres, c’est ce principe constitutionnel fort qui est bafoué.
-Ces amendements visent simplement à coller à la directive européenne, ni plus ni moins, et à conditionner l’application du dispositif à l’entrée en vigueur de ladite directive.
-Nous pouvons revoir la formulation si elle n’est pas exactement conforme, mais l’objectif est bien celui-là, monsieur le secrétaire d’État.
 Nous retravaillerons éventuellement pour nous caler sur la directive européenne.
-Quoi qu’il en soit, il est important que les États envoient des signaux à l’Europe.
-Je comprends que nous ne voulions pas être les premiers, parce qu’appliquer une telle mesure seuls n’aurait pas de sens.
-Cela dit, ce serait une bonne chose que dire à l’Europe que nous sommes là, que nous soutenons ces dispositions, comme nous l’avons déjà fait.
 Monsieur Alauzet, retirez-vous vos amendements ? Oui, monsieur le président, je les retire.
-La parole est à Madame Émilie Cariou, pour soutenir l’amendement numéro mille huit cent cinquante-huit.
 Cet amendement vise à redéfinir la notion de paradis fiscal en droit français.
-On parle aujourd’hui des « États et territoires non coopératifs » – ETNC – à l’article deux cent trente-huit-0 A du code général des impôts.
-Or on se rend compte que cette définition a eu des conséquences assez affligeantes, puisque seuls sept États actuellement sont classés ETNC en France, sans que cette liste n’inclue les îles Caïman ou les Bermudes.
-En effet, dès lors qu’un État conclut une convention d’échanges de renseignements fiscaux ou financiers avec l’État français, il sort de notre liste des paradis fiscaux.
-Je tiens d’ailleurs à saluer les journalistes pour le travail qu’ils ont accompli récemment sur les Paradise papers, que ce soit au Monde, à Radio France ou dans d’autres médias français ou internationaux.
 Pour eux, se battre pour l’information a parfois des conséquences gravissimes.
 Nous pouvons tous les saluer.
-Il faut que les États les aident, parce que, s’il est bien beau de lancer une mission d’information, nous avons aussi une responsabilité.
-Je vous propose ainsi de retenir la notion de « bonne gouvernance fiscale », qu’est en train de créer l’Union européenne, et, au-delà, de se référer à un taux.
-En effet, une fois que les échanges seront transparents entre tous les États du monde, on saura qui transfère quels fonds aux îles Caïman ou aux îles Vierges, mais cela ne dira pas si l’on a le droit d’imposer le flux.
-D’où l’intérêt d’introduire la notion de « différentiel de taux », que l’on appliquait il y a vingt ans dans les services fiscaux, quand la liste des paradis fiscaux comportait soixante-dix pays.
-En redéfinissant ainsi les paradis fiscaux, nous pourrions rapatrier les fonds au titre de toute une série de mesures qui existent dans notre droit français.
-Cela permettrait d’asseoir des retenues à la source ou de rapatrier des transferts de bénéfices au titre de l’article cinquante-sept du code général des impôts.
-Nous disposons déjà de tout le panel juridique qui servirait dès aujourd’hui si la liste existait.
 Votre dispositif pose toutefois quelques problèmes.
-Vous proposez une définition alternative des ETNC qui conduirait à inclure des États membres de l’Union européenne, ce qui méconnaîtrait le droit de l’Union.
-Ce n’est pas parce que certains États de l’Union européenne ne sont pas en conformité qu’il ne faut pas être en conformité avec le droit de l’Union.
-Par ailleurs, si l’on comprend les finalités de votre définition, elle reste trop imprécise et tombe sous le coup d’une incompétence négative.
-Le critère pour être qualifié d’ETNC serait non plus la coopération et la transparence, mais un taux d’imposition inférieur d’au moins cinq points au taux de l’impôt sur les sociétés français.
 Or le taux d’imposition ne relève pas d’une absence de coopération.
 L’amendement susciterait une confusion avec les régimes fiscaux privilégiés.
-Enfin, en retenant un taux inférieur à cinq points par rapport à la France, presque tous les États de l’Union européenne et de l’Organisation de coopération et de développement économiques – l’OCDE – seraient concernés en l’état actuel des taux.
-Je pense qu’il vaudrait mieux que votre amendement n’ait pas une application immédiate, si l’on ne veut pas considérer l’ensemble des États de l’Union comme des États non coopératifs, voire un peu voyous.
 Avis défavorable sur la rédaction actuelle du dispositif.
-Quel est l’avis du Gouvernement ? Je veux souligner la pertinence de votre amendement et de son objectif.
-Néanmoins, vous savez que les travaux engagés par l’Union européenne pour établir une liste de paradis fiscaux d’ici à la fin de l’année devraient trouver une issue positive.
-Nous veillerons à ce qu’elle permette de bien faire progresser la transparence au niveau international.
-Le ministre Bruno Le Maire est très engagé dans cette question et il a défendu ce sujet au niveau européen, bien avant que le scandale des Paradise papers n’éclate.
-J’en profite pour me joindre à vos félicitations à l’égard de tous ceux qui ont été des lanceurs d’alerte et ont permis d’avoir ces éléments d’éclairage.
-Par ailleurs, il faut harmoniser l’impôt sur les sociétés au niveau européen, que ce soit sur les taux ou l’assiette.
-La baisse de trente-trois virgule trois pourcent à vingt-cinq pourcent que nous opérons permettra d’approcher la moyenne européenne dans le cadre du quinquennat.
-C’est bien l’enjeu de la discussion ouverte sur la directive ACCIS – assiette commune consolidée pour l’impôt sur les sociétés.
-Sachez que vous êtes évidemment la bienvenue pour travailler en bonne intelligence avec les services de notre administration et les cabinets des ministres concernés : vous serez toujours accueillie avec bienveillance.
-Vous comprendrez toutefois que, pour les mêmes raisons que celles données par Monsieur le rapporteur général, l’avis du Gouvernement est défavorable.
 Cela dit, je vous remercie vraiment.
 La parole est à Madame Émilie Cariou.
-L’écart de cinq points s’entend par rapport au taux de vingt-cinq pourcent qui deviendra notre taux de droit commun, mais j’entends qu’il faille préciser l’amendement en ce sens.
 Je vais retirer mon amendement.
 Vous avez raison : la Commission européenne publiera bientôt la liste.
 Vous nous appelez à coopérer avec le Gouvernement sur ce sujet.
-Nous avons demandé à lancer une mission d’information sur l’optimisation fiscale, en plus de la mission sur le verrou de Bercy.
 Notre groupe s’associera bien évidemment au Gouvernement pour ces travaux.
-Quant aux États européens qui seraient concernés par mon amendement, je les invite à se mettre en conformité, dans une optique d’harmonisation fiscale, avec les États de l’Union qui n’ont pas pour objectif de siphonner les recettes fiscales des autres.
 Le problème ne se poserait plus.
-(Applaudissements sur plusieurs bancs des groupes REM et MODEM.) La parole est à Madame Valérie Rabault, pour soutenir l’amendement numéro mille huit cent cinquante et un.
 J’ai déjà déposé un amendement identique à celui-ci en deux mille quinze.
 Ce principe existe au Royaume-Uni depuis deux mille quatre.
 Ne tombons pas dans le paradoxe de l’œuf et de la poule.
-Cet amendement vise uniquement à créer l’obligation de déclarer à Bercy les schémas d’optimisation fiscale avant qu’ils ne soient commercialisés.
-Cette obligation existe depuis très longtemps dans certains pays de l’Union européenne, donc je ne vois pas pourquoi elle ne serait pas mise en œuvre en France également.
-Le jour où Bercy souhaitera opérer des contrôles, cela permettra d’éviter de chercher pendant des lustres la manière dont le montage fonctionne.
-Quel est l’avis de la commission ? Comme pour l’amendement précédent, il s’agit d’un objectif que nous partageons tous.
-Je ne sais pas qui, de la poule et de l’œuf, est le plus en avance, mais pour peu que la Commission européenne représente l’œuf, celui-ci a quand même été pondu.
-Il existe désormais un document qui prévoit une série de dispositions relatives aux intermédiaires financiers, qui ont été rappelées la semaine dernière par Pierre Moscovici.
-Ce que je trouve excessif dans votre proposition, c’est qu’on a l’impression que tout intermédiaire, quel qu’il soit – avocat, comptable, cabinet de conseil – est soupçonné et soupçonnable de fraude ou d’abus de droit.
 C’est disproportionné par rapport à l’objectif que vous voulez atteindre.
-Je vous inviterais plutôt à retirer cet amendement et à vous rallier à l’amendement numéro mille cinq cent huit, qui enrichit la documentation des prix de transfert à l’aune des standards BEPS.
 À ce stade, avis défavorable.
-Comme vous le savez, un projet de directive est en cours d’élaboration au niveau européen, qui prévoit une obligation de déclaration des montages transfrontaliers et surtout un échange de données entre les États membres.
-La France s’inscrit pleinement dans cette logique puisque, comme vous l’avez rappelé, Bruno Le Maire en a été l’un des fers de lance lors des échanges à Bruxelles.
-Le dispositif que vous prévoyez dans votre amendement me semble prématuré alors que ce texte – dont l’intérêt est de se situer au niveau communautaire – est en cours de discussion et que la France en est partie prenante.
-Avis défavorable.
 La parole est à Madame Valérie Rabault.
 Je suis surprise par la réponse tant du rapporteur général que du secrétaire d’État.
 En rédigeant cet amendement, nous avons pris plusieurs précautions.
-D’abord, le dispositif entrerait en vigueur le premier janvier deux mille dix-neuf et comprendrait une phase d’expérimentation de deux ans ; si, au bout de cette période, Bercy ne reçoit aucun schéma commercialisé qui permettrait de détecter des fraudes, on pourra arrêter l’expérience.
-Quel risque prend-on à lancer un processus expérimental sur deux ans ? Si le dispositif n’est pas conforme au texte qu’aura adopté l’Union européenne, il suffira de le modifier puisque de toute façon il expirera au bout de cette période.
-Monsieur le rapporteur général, je ne suis pas d’accord avec vous : cette proposition n’a rien à voir avec l’échange d’informations entre fiscs.
-Loin de sortir de nulle part, elle correspond à la douzième des quinze recommandations formulées par l’OCDE.
-Pour ce qui est des sanctions – point qui pose souvent problème auprès du Conseil constitutionnel –, c’est un décret en Conseil d’État qui les fixerait.
-On est donc vraiment bordé ! D’autres pays membres de l’Union européenne le font ; si nous ne le faisons pas, il sera difficile de dire que nous sommes le fer de lance ou la locomotive dans ce domaine.
-La parole est à Monsieur Stanislas Guerini, pour soutenir l’amendement numéro mille sept cent quarante-six.
-L’amendement proposé par le groupe REM tend à durcir les sanctions contre les grands fraudeurs du fisc.
-Nous visons la fraude commise en bande organisée ou avec des circonstances aggravantes, déjà définies dans la loi, telles que la dissimulation d’identité ou la domiciliation fiscale fictive à l’étranger.
-Nos concitoyens ont raison de trouver inacceptable et insupportable que des contribuables se soustraient à l’impôt, violant ce qui constitue notre pacte républicain.
-L’article treize de la Déclaration des droits de l’homme exprime clairement le lien entre l’entretien de la force publique et la contribution nécessaire de chacun, entre la citoyenneté et l’impôt.
-C’est pourquoi nous souhaitons rendre obligatoire, sauf motivation spéciale du juge, une peine de privation des droits civiques : l’impossibilité d’être élu, d’exercer des fonctions publiques, de voter ou encore de représenter quelqu’un devant la justice.
-Nous souhaitons également renforcer les sanctions financières prévues en cas de condamnation ou encore le montant des amendes en cas de refus de communication des données demandées par le fisc.
-Le message de notre majorité est simple : nous voulons construire une société de confiance, mais le corollaire de la confiance, c’est la responsabilité et l’exemplarité.
-(Applaudissements sur plusieurs bancs du groupe REM.) La parole est à Monsieur le rapporteur général, pour soutenir l’amendement numéro mille cinq cent huit.
-Cet amendement avait été déposé et adopté par la commission sur une initiative de Madame de Montchalin.
-Sans être concurrents, ces deux amendements – de nature quasi identique sur le principe – sont légèrement différents sur plusieurs points.
-Pour être applicable, cet amendement numéro mille sept cent quarante-six devra de toute façon être coordonné avec le code pénal ; je m’en remettrai, le concernant, à la sagesse de l’Assemblée.
-Pour ce qui est de l’amendement de la commission, je ne puis évidemment qu’y être favorable.
-Quel est l’avis du Gouvernement sur ces deux amendements ? Monsieur Guerini, le Gouvernement partage pleinement la volonté exprimée par le groupe REM de renforcer les dispositifs de lutte contre la fraude fiscale et de recherche des infractions.
-Les sanctions proposées étant réservées aux cas établis d’intentionnalité avec des circonstances aggravantes, le Gouvernement émettra un avis favorable sur ces deux amendements, pour des raisons que nous avons évoquées dans le débat public depuis plusieurs semaines.
-Avant les Paradise papers, il y avait eu les Panama papers, et je m’enorgueillis du fait qu’à la suite de cette première salve de révélations, la France ait été le pays ayant engagé le plus de poursuites pénales.
-C’est cette philosophie qui semble animer ces deux amendements ; je m’y inscris pleinement, d’où cet avis favorable.
-Monsieur le secrétaire d’État, dans la mesure où il s’agit d’une discussion commune, il est difficile que vous donniez un avis favorable aux deux amendements.
 J’ai été emporté par mon enthousiasme ! (Sourires.) La parole est à Monsieur Richard Ferrand.
-En effet, il semble difficile d’obtenir un accord simultané sur ces deux amendements, mais notre groupe préfère évidemment sa production.
-Je me réjouis donc de l’avis favorable du Gouvernement, conforme aux discussions que nous avons eues.
-Nous voterons bien pour l’amendement qu’a présenté Stanislas Guerini, fût-ce au détriment de celui qui suit.
-Cette précision est utile dans la mesure où les membres du groupe REM sont signataires des deux amendements en question.
 (Sourires.) La parole est à Monsieur Stéphane Peu.
-Il faut en effet renforcer notre arsenal pénal pour lutter contre la fraude et l’évasion fiscales ; nous considérons donc l’amendement numéro mille sept cent quarante-six comme positif et nous le voterons.
 Par ailleurs, l’efficacité du système dépend de bien d’autres paramètres.
-Si aujourd’hui, en France, aucun évadé ni fraudeur fiscal n’est derrière les barreaux, c’est aussi parce que les moyens du parquet national financier sont faibles et l’autonomie de la justice dans ce domaine, limitée.
-Ainsi, jusqu’à présent, vous vous êtes toujours refusés à faire sauter le verrou de Bercy, qui rend la justice impuissante dans la lutte contre la fraude fiscale.
-La parole est à Monsieur le président de la commission des finances, de l’économie générale et du contrôle budgétaire.
 Monsieur Ferrand, je voudrais avoir une clarification.
 Votre groupe présente deux amendements légèrement différents, l’un étant plus sévère que l’autre.
 Du reste, le second avait été présenté et adopté en commission.
-Ce qui nous a fait évoluer, c’est que les droits civiques, civils et de famille ne se limitent pas aux seuls droits politiques, tels que l’éligibilité ou le droit de vote.
-Depuis une semaine, nous avons donc travaillé pour nous assurer que nous pouvions étendre la disposition à l’ensemble de ces droits et renforcer les sanctions.
-Vu le contexte actuel, ce durcissement permet de clarifier la ligne vis-à-vis de ceux qui fraudent et qui trahissent le pacte républicain de financement collectif de la cité.
-Cela nous semble essentiel ; c’est pourquoi nous voterons l’amendement numéro mille sept cent quarante-six.
 C’est bien la différence entre ces deux amendements, signés par les mêmes députés.
 La parole est à Monsieur le rapporteur général.
-(Sourires.) Cependant, j’appelle votre attention sur la nécessité de coordonner ces dispositions avec le code pénal.
-Nous n’avons pas le temps de déposer un sous-amendement, mais il faudra vraiment procéder à cette coordination au cours de la navette.
-Je suis saisi de deux amendements identiques, numéros mille trois cent soixante-quatre et mille quatre cent six.
-La parole est à Monsieur Jean-Paul Dufrègne, pour soutenir l’amendement numéro mille trois cent soixante-quatre.
 Cet amendement vise à créer un délit d’incitation à la fraude fiscale.
-Il s’agit d’une proposition concrète s’appuyant sur les travaux remarquables de la commission d’enquête sénatoriale de deux mille treize sur le rôle des banques et des acteurs financiers dans l’évasion des capitaux.
-J’invite tous mes collègues à lire ce rapport, très instructif, rédigé par notre collègue Éric Bocquet et qui a été largement adopté par le Sénat.
-Il convient aujourd’hui de renforcer notre arsenal juridique pour prévenir et sanctionner celles et ceux qui participent à la fraude fiscale, qu’ils soient professionnels du chiffre, cabinets juridiques ou conseillers fiscalistes.
-Nous proposons donc de créer un délit d’incitation à la fraude fiscale, et nous nous félicitons de voir d’autres groupes reprendre cette proposition concrète que nous défendons depuis plusieurs années.
-Certaines professions sont soumises à des obligations professionnelles et déontologiques – c’est notamment le cas des avocats.
-Ces règles déontologiques et, plus généralement, notre droit actuel ne nous prémunissent pas, toutefois, contre les pratiques qui poussent à la fraude fiscale, notamment à travers des schémas complexes.
 Pour les contribuables les plus aisés, les sollicitations et les conseils ne manquent pas.
-Il n’est d’ailleurs pas rare que les honoraires soient liés à ces prestations et corrélés au gain fiscal permis par tel ou tel montage : certains professionnels voient leurs honoraires directement liés au montant optimisé.
 On voit bien là les effets déplorables d’une telle incitation.
-Voilà pourquoi notre pays doit aujourd’hui se doter d’un outil permettant de réprimer le démarchage en matière d’évasion fiscale.
 Tel est le sens du présent amendement.
-La parole est à Monsieur Alexis Corbière, pour soutenir l’amendement numéro mille quatre cent six.
 Cet amendement est identique à celui que vient de présenter Monsieur Dufrègne.
-Si nous luttions contre la drogue, il serait paradoxal de frapper les seuls consommateurs et de ne jamais nous en prendre aux trafiquants.
-De même, la lutte contre le dopage ne pourrait pas sanctionner les sportifs sans s’intéresser à ceux qui leur fournissent les produits illicites.
-C’est la raison pour laquelle il faut créer un délit d’incitation à la fraude fiscale.
-Cela permettrait de lutter efficacement contre l’évasion fiscale que nous dénonçons tous sur ces bancs.
-Force est en effet de constater que, malgré toutes les belles paroles entendues au cours des dernières décennies, et particulièrement des dernières années, rien ne se passe.
 Il est temps d’agir, notamment en ciblant ceux qui vont démarcher nos concitoyens fortunés.
-Nous connaissons très bien ces pratiques car il est bien souvent assez facile d’observer l’activité de ces organismes qui ont pignon sur rue et qui font de la publicité.
-Il faut que tout cela cesse ! Tel est donc l’objet de l’amendement numéro mille quatre cent six : disposer d’un outil efficace pour lutter contre ce délit qui coûte trop cher à la nation.
-Quel est l’avis de la commission ? Des amendements rédigés dans les mêmes termes sont déposés depuis déjà plusieurs années ; ils se heurtent chaque fois à un obstacle constitutionnel.
-Au demeurant, ils poursuivent les mêmes objectifs que l’instrument sur les intermédiaires fiscaux que la Commission européenne est en train d’élaborer.
-Il serait donc très intéressant de se référer à cette norme en cours d’écriture, afin que le droit français soit conforme à la fois à la Constitution et au droit européen.
 Nous pourrions ainsi lutter efficacement contre les pratiques révélées par les Paradise papers.
-Avis défavorable.
-La parole est à Monsieur le ministre de l’action et des comptes publics, pour donner l’avis du Gouvernement sur ces deux amendements identiques.
-Même avis.
 La parole est à Madame Émilie Cariou.
 Effectivement, ces amendements posent une difficulté juridique.
-En revanche, dès que la directive européenne aura été adoptée, nous devrons en tirer d’urgence les conséquences en droit français,… Eh oui ! …afin d’agir contre les intermédiaires qui diffusent largement ces schémas de fraude.
-Je rejoins les arguments de Monsieur Corbière : on ne peut pas lutter contre la fraude sans s’attaquer à son origine, laquelle réside dans les schémas commercialisés par des cabinets d’avocats fiscalistes dont l’activité est aujourd’hui extrêmement lucrative.
-Nous souhaitons qu’après l’adoption de la directive, toutes les conséquences en soient tirées en droit français et qu’un régime de sanctions soit mis en place.
 La parole est à Monsieur Alexis Corbière.
 J’avoue que je ne comprends pas ces réponses.
 Il y aurait, dites-vous, un problème juridique.
-Mais c’est à nous de faire la loi dans cet hémicycle ! Il faudrait, dites-vous encore, attendre la Commission européenne.
 Excusez-nous : nous n’avons aucune confiance dans la manière dont elle aborde ce problème.
-De toute manière, il serait utile et même fertile pour les travaux de la Commission européenne que la France donne le ton.
-Les arguments qui nous sont opposés semblent témoigner, au mieux, d’une gêne : vous préférez attendre sans rien faire.
-Or nos concitoyens exigent précisément que nous agissions vite et que nous donnions le ton à l’échelle européenne.
-La France pourrait marcher devant et mettre en avant la législation adoptée par l’Assemblée nationale : il me semble que ce serait utile pour nos collègues européens.
 Surtout, ne nous alignons pas sur le moins-disant dans cette affaire.
-Tout cela nous a coûté trop cher, nous a fait perdre trop de temps et gaspiller trop d’argent.
 Il est temps d’agir.
 Je ne comprends pas votre réaction.
 Nous maintenons bien évidemment notre amendement.
-La parole est à Monsieur Éric Coquerel, pour soutenir l’amendement numéro mille quatre cent neuf.
-Vous avez sans doute remarqué que nous défendions, à ce stade, des amendements que nous avions déjà soutenus lors de l’examen de la première partie de ce projet de loi de finances.
 Nous vous prenons au mot.
-Dès lors que, malgré toutes les mesures qui ont été prises, on constate que la fraude, l’évasion fiscale et l’optimisation illégale continuent de plus belle, il faut savoir être plus radical.
 C’est pourquoi nous avons fait des propositions sur la question des paradis fiscaux.
 C’est une sorte d’aveu.
 Le second thème essentiel sur lequel nous souhaitons intervenir concerne le verrou de Bercy.
-Il s’agit d’une mission parlementaire ! Je n’en suis pas à l’origine ! Depuis, de l’eau a coulé sous les ponts.
-Le moment est venu d’aller plus loin et de remettre en question cette juridiction spéciale.
-Il y a quelques jours, le quatorze novembre, le parquet national financier s’est satisfait, dans un communiqué, qu’une première convention judiciaire d’intérêt public ait été signée avec HSBC, dans le cadre de la loi Sapin deux.
-Or, en vertu de cette convention, l’État récupère seulement trois cents millions d’euros alors que HSBC a soustrait plus de un virgule six milliard d’euros à l’administration fiscale.
 Aussi, nous voyons bien qu’il faut prendre des mesures plus radicales.
-Quel est l’avis de la commission ? Nous avons déjà débattu du verrou de Bercy, et une mission d’information de notre assemblée travaille sur le sujet.
-Avis défavorable.
-Quel est l’avis du Gouvernement ? Monsieur Coquerel, ce n’est pas moi qui ai proposé la création d’une mission.
-Il s’agit d’une mission parlementaire, et j’ai trop de respect pour le Parlement pour m’immiscer dans ses affaires.
-Cela dit, il est tout à fait logique que cette mission se réunisse ; comme toutes les missions d’information créées au Parlement, elle est composée de représentants de tous les groupes politiques.
-Nous débattons d’un sujet compliqué, sur lequel il est assez facile de sombrer dans la démagogie sans pour autant atteindre l’objectif que nous partageons tous : rendre l’administration fiscale plus efficace dans le recouvrement et la lutte contre la fraude fiscale.
-Cette commission n’est pas gérée par l’administration de Bercy : présidée par un magistrat, elle est composée de plusieurs magistrats et de personnalités qualifiées désignées par MMonsieur les présidents de l’Assemblée nationale et du Sénat.
-D’ailleurs, il serait sans doute intéressant que la mission d’information auditionne les membres de cette instance – j’imagine qu’elle le fera.
-Je le répète : la CIF n’est pas une instance gouvernementale, elle n’émane pas de l’exécutif, elle est composée de magistrats et de membres nommés par les présidents des assemblées parlementaires, ce qui garantit son indépendance vis-à-vis de l’administration fiscale.
-Le verrou de Bercy, ce n’est donc pas le ministre chargé du budget qui examine les dossiers fiscaux et décide, pour chacun d’entre eux, s’il convient d’engager ou non des poursuites.
 Cela ne se passe plus comme cela depuis bien longtemps, et c’est fort heureux.
-L’administration fiscale s’en remet à une commission indépendante, présidée par un magistrat, composée de magistrats et de personnalités qualifiées désignées par les présidents de l’Assemblée nationale et du Sénat.
-Ces dernières ne sont pas des représentants ou des membres du Parlement – on me dit que ce n’est pas possible, compte tenu de la séparation des pouvoirs –, mais c’est peut-être quelque chose qui pourrait évoluer.
-Je fais là une proposition personnelle, qui n’émane pas de mon administration : la mission d’information en cours dans votre assemblée pourrait étudier la possibilité que des parlementaires siègent à la commission des infractions fiscales.
-Certes, cette évolution poserait un certain nombre de difficultés, tenant notamment au secret fiscal, mais si des parlementaires sont membres de la Commission nationale de contrôle des techniques de renseignement, il n’y a pas de raison qu’ils ne puissent pas intégrer la CIF.
 Ainsi, vous pourriez tous vous assurer de l’efficacité de cette commission.
-Monsieur Coquerel, permettez-moi de formuler un second argument pour vous montrer que je repousse votre amendement non par principe, mais parce que je suis convaincu de ce que je vous dis.
-Pour poursuivre les délits de blanchiment de fraude fiscale, le parquet n’attend pas d’avoir l’accord de Bercy : certaines instances judiciaires ont la possibilité de se saisir directement de ce genre de délit, indépendamment de ce que pense le ministre chargé du budget.
 Prenez garde à ne pas soumettre toutes les procédures au droit commun.
-Il est toujours possible d’améliorer les choses, et je me montre très ouvert à toutes vos idées.
-Cependant, il me semble trop facile, voire démagogique, de proposer la suppression du verrou de Bercy, qui n’en est d’ailleurs pas un.
-Avis défavorable.
-(Applaudissements sur quelques bancs du groupe REM.) Très bien ! La parole est à Monsieur Pierre Dharréville.
-Monsieur le ministre, j’ai eu le sentiment que vous défendiez un petit peu ce qu’on appelle le verrou de Bercy.
-Certes, vous vous montrez ouvert à quelques aménagements, mais je vous confirme que c’est la suppression de ce dispositif que nous demandons.
-Ce dispositif ancien accrédite l’idée selon laquelle la lutte contre la fraude fiscale serait menée dans une certaine opacité et que certains contribuables jouiraient d’une impunité.
-À nos yeux, ce mécanisme demeure une anomalie institutionnelle et une atteinte au principe fondamental de la séparation des pouvoirs.
-Pour lutter efficacement contre la fraude et l’évasion fiscales, il convient de supprimer le verrou de Bercy.
 Nous n’avons que trop tardé à le faire.
-J’ai bien entendu qu’une mission d’information avait été mise en place par notre assemblée.
 Or le Sénat a déjà voté la suppression de ce dispositif à trois reprises.
-Nous pouvons donc, à l’Assemblée nationale, prendre nos responsabilités en votant l’amendement numéro mille quatre cent neuf visant à supprimer dès aujourd’hui ce verrou.
 La parole est à Monsieur Éric Coquerel.
-Monsieur Darmanin, votre argumentaire est à peu près le même que celui que vous avez exposé ici même il y a quelques mois.
-Je vous rappelle d’ailleurs que c’est vous qui avez suggéré, sentant que la critique montait, une mission d’information susceptible de proposer une solution sur le sujet.
-Pour ma part, je continue à penser que votre suggestion avait pour seul objectif de faire paravent, afin de masquer ce qui montait des bancs de l’Assemblée.
-Je vous rappelle que beaucoup de groupes s’étaient exprimés dans le même sens, y compris certains qui, d’habitude, ne sont pas d’accord entre eux.
 Vous dites qu’il s’agit d’aider les contribuables.
 C’est quelque chose qui dépasse l’entendement et rappelle l’Ancien régime.
 Vous affirmez que la commission des infractions fiscales est indépendante.
 Il est clair que le dispositif actuel ne fonctionne pas.
 C’est pourquoi le groupe La France insoumise vous propose d’aller plus loin.
-Je suis saisi de deux amendements, numéros mille quatre cent dix et mille quatre cent onze, pouvant être soumis à une discussion commune.
-La parole est à Monsieur Alexis Corbière, pour soutenir l’amendement numéro mille quatre cent dix.
-Je le qualifie de repli car nous proposons une disposition que vous qualifierez peut-être de plus raisonnable, monsieur le ministre.
 Il s’agit maintenant de dire clairement les choses.
-Je crois que notre amendement est raisonnable et je ne doute pas que je vais vous convaincre.
 Acceptez au moins celui-ci, monsieur le ministre.
-Très bien ! Monsieur Coquerel, puis-je considérer que l’amendement numéro mille quatre cent onze a été défendu ? Oui, monsieur le président.
 Quel est l’avis du Gouvernement ? Avis défavorable.
-Pour répondre à Monsieur Corbière et aux intervenants précédents, je ne peux pas laisser dire que la CIF se substituerait à l’action de la justice.
-On ne peut donc pas considérer que cette commission serait un tamis destiné à protéger je ne sais qui.
-Je vous rappelle une nouvelle fois qu’aucun administrateur de Bercy ni aucun membre du Gouvernement, y compris le ministre des comptes publics, ne siège dans cette commission.
-Par ailleurs, le président de la commission des finances de l’Assemblée comme son homologue au Sénat peuvent tout à fait, c’est leur droit le plus strict, poser des questions sur des dossiers fiscaux et même les consulter.
-Le Parlement pourrait être mieux représenté au sein de la CIF, mais nul ne peut dire qu’elle est là pour mettre à l’abri certains fraudeurs.
 Ce serait une vision un peu passéiste.
-En tout cas, depuis deux mille huit, c’est-à-dire depuis que le parquet peut se saisir d’un délit de blanchiment de fraude fiscale, c’est complètement erroné.
-Je suis saisi d’un amendement numéro mille cinq cent neuf qui fait l’objet de plusieurs sous-amendements.
 La parole est à Monsieur le rapporteur général, pour soutenir l’amendement.
 Monsieur le président, je propose que Monsieur Woerth, auteur de l’amendement, le soutienne.
 La parole est à Monsieur le président de la commission des finances.
-Cet amendement a pour but de transposer plusieurs des normes définies dans le cadre du projet BEPS, cette initiative de l’OCDE concernant la fiscalité, car nos normes n’ont pas été revues depuis longtemps en matière de prix de transfert.
-En deux mille neuf, Christine Lagarde au ministère de l’économie et moi à Bercy avions été à l’origine de l’adoption par notre pays de règles en ce domaine.
-Depuis, ces normes sont restées les mêmes alors que les prix de transfert sont un des facteurs très importants de l’érosion de la base fiscale en fonction de la manière dont ils sont calculés dans le cadre des échanges intragroupes.
-Cela veut dire que les sociétés sont tenues, lorsqu’elles y sont contrôlées au titre des entreprises qu’elles possèdent sur place, de respecter ces normes.
-Par conséquent, la commission et moi-même proposons que notre réglementation soit harmonisée avec les recommandations du programme BEPS.
-J’ai repris celles-ci mot à mot – il n’aurait eu aucun sens de les interpréter.
 Il faut les réactualiser.
-Nous en arrivons aux deux sous-amendements, numéros mille neuf cent quarante-deux et mille neuf cent quatorze.
 La parole est à Monsieur Joël Giraud, pour les soutenir.
-Le sous-amendement numéro mille neuf cent quarante-deux est de précision, mais l’autre me semble important sur le fond parce qu’il faut avoir suffisamment de recul pour évaluer la mise en place de ce dispositif dans le rapport demandé.
 Je propose que la date de remise de ce dernier soit décalée d’un an.
-Il me semble très utile, non seulement parce que c’est un amendement de la commission mais également parce qu’à titre personnel, je suis très favorable à la mise en œuvre de cette action treize.
-Quel est l’avis du Gouvernement sur l’amendement et les sous-amendements ? Avis favorable sur l’amendement et évidemment sur les sous-amendements.
 Je sais que ces arguments devraient vous convaincre.
 La parole est à Madame Bénédicte Peyrol.
-Je suis persuadée que notre administration fiscale saura dès lors utiliser au mieux ces données, mais le cœur du sujet est bien là.
 La parole est à Madame Amélie de Montchalin.
 Nous serons très attentifs à ce qui se passera au cours de la navette.
-Très bien ! La parole est à Monsieur Bruno Millienne, pour soutenir l’amendement numéro mille six cent cinquante.
-Quel est l’avis de la commission ? Il s’agit d’un amendement visant à tirer les conséquences d’un de vos précédents amendements, lequel n’a pas été adopté, monsieur le député.
 Je vous invite donc à le retirer.
 Quel est l’avis du Gouvernement ? Même avis.
 Monsieur Millienne ?… Je le retire.
-La parole est à Monsieur le ministre, pour soutenir l’amendement numéro mille sept cent cinquante-deux.
 Cet amendement vise à lutter plus efficacement contre les activités non déclarées.
 Cette situation n’est évidemment pas satisfaisante.
-Il convient donc d’avoir le même traitement fiscal de l’enrichissement issu d’une activité occulte, que le contribuable ait ou non interposé une société.
 J’espère que la commission donnera un avis favorable.
-La parole est à Monsieur le ministre, pour soutenir l’amendement numéro mille sept cent douze.
 Cet amendement vise à transposer une directive européenne.
 La parole est à Madame Émilie Bonnivard, pour soutenir l’amendement numéro cinq cent dix-neuf.
-La France souffre d’un aléa fiscal pénalisant : la législation fiscale n’est pas stable dans le temps, ce qui a un impact néfaste sur la capacité des acteurs économiques à anticiper les bonnes décisions et à investir.
-Déjà asphyxiés par les hausses de prélèvements obligatoires, les contribuables sont déroutés par l’instabilité fiscale : re-fiscalisation des heures supplémentaires, rabot sur le quotient familial, fiscalisation des mutuelles, remise en cause du système d’intéressement qui existait pourtant depuis un demi-siècle.
 Les Français sont inquiets de devoir payer toujours plus.
-Enfin, la théorie économique a démontré que les anticipations des agents économiques étaient fonction de la cohérence et de la crédibilité des objectifs de la politique économique suivie.
-Cet amendement vise à permettre au Gouvernement de mener une réflexion, dans le cadre du projet de loi de finances, sur les conséquences de l’instabilité fiscale et sur les moyens d’y remédier.
-La majorité parlementaire et le Gouvernement ont répondu par avance à votre souhait et ont bien évidemment l’intention d’éviter les allers-retours dans le domaine fiscal car ils nuisent en effet à la prévisibilité de la norme fiscale.
-Par ailleurs, dans la mesure où votre amendement ne détaille pas très précisément le sujet du rapport demandé, je suis contraint de donner le concernant un avis défavorable.
 La parole est à Madame Émilie Bonnivard, pour soutenir l’amendement numéro cinq cent vingt.
-Il vise à demander au Gouvernement de présenter au Parlement un rapport du même type que le précédent – celui-ci ayant trait à l’impact de la fraude fiscale sur notre budget.
-Quel est l’avis de la commission ? Il s’agit, à mon sens, d’un amendement d’appel dont l’objet est de faire rappeler par le Gouvernement ses engagements en matière de fraude fiscale.
 J’en demande donc le retrait.
 À défaut, j’y serais défavorable.
 Nous en arrivons à l’amendement numéro mille trois cent soixante-dix.
-Je vous informe que, sur cet amendement, je suis saisi par le groupe de la Gauche démocrate et républicaine d’une demande de scrutin public.
 Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.
 La parole est à Monsieur Jean-Paul Dufrègne, pour le soutenir.
-Le deux février deux mille dix-sept, l’Assemblée nationale adoptait à une très large majorité la résolution européenne pour une conférence des parties de la finance mondiale, l’harmonisation et la justice fiscales, défendue par notre ex-collègue Alain Bocquet, alors député du Nord.
-Cette instance aurait pour mandat de garantir la bonne application des engagements pris ainsi que l’ouverture régulière de nouvelles négociations sur ces questions.
-J’anticipe les éventuelles interrogations portant sur cette COP fiscale en vous demandant, chers collègues de vous reporter, notamment, aux travaux de l’OCDE.
-Cette organisation internationale accomplit, c’est indéniable, un travail de qualité, comme en témoignent les avancées réalisées depuis plusieurs années.
 L’évitement fiscal contribue directement au sous-développement à travers le monde.
-Pour l’organisation non gouvernementale Oxfam, le montant actuel de la dette fiscale non réglée dans les pays en développement est estimé à cent quatre-vingts milliards de dollars par an.
-Dans le cadre de l’OCDE, le Forum mondial sur la transparence et l’échange de renseignements à des fins fiscales réunit un grand nombre de pays – cent vingt-cinq au total.
 C’est bien, mais cela en laisse beaucoup de côté.
-L’ONU serait ainsi l’instance pertinente en vue d’une concertation et de travaux à visée mondiale.
-Elle pourrait s’appuyer sur les travaux de l’OCDE et agirait en toute complémentarité avec elle.
 Tel est l’objectif du présent amendement.
-Sur le terrain, les frères Bocquet mènent un intéressant travail de pédagogie, et l’idée d’une COP de la finance mondiale recueille auprès de nos concitoyens un assentiment de plus en plus large.
-Il s’apparente, me semble-t-il, davantage à un amendement d’appel, visant à inciter le Gouvernement à agir, plutôt qu’à une réelle demande de rapport.
-La lutte contre l’optimisation fiscale agressive passe en grande partie par l’Union européenne et fait par ailleurs partie des sujets débattus dans les conférences interparlementaires de l’Union européenne, comme celle qui vient d’avoir lieu à Tallinn, en Estonie.
-Cher collègue, je vous propose par conséquent de retirer votre amendement : au vu des engagements du ministre, une demande de rapport sur ce sujet n’a pas de sens.
 Quel est l’avis du Gouvernement ? Il est également défavorable.
 La parole est à Monsieur Stéphane Peu.
-La COP fiscale est un outil diplomatique incontestable : il est intéressant pour notre diplomatie, tout autant que pour nos alliances et partenariats à l’échelle de la planète.
-Je note en outre que l’idée est défendue par le Gsoixante-dix-sept, pendant du Gsept regroupant l’ensemble des pays en voie de développement.
-Les choses ne vont évidemment pas se faire du jour au lendemain : comme Alain Bocquet aime à le rappeler, c’est l’affaire d’une génération.
 Très bien ! Il s’agit donc incontestablement d’un travail de longue haleine.
-On le voit bien actuellement à Bonn avec la COPvingt-trois : si le format a ses limites, il garantit à tout le moins la discussion et le dialogue.
-Une COP de la finance permettrait en effet de donner la parole à l’ensemble des acteurs : organisations non gouvernementales, experts, représentants du secteur de la finance et syndicats.
-Enfin, l’idée de réunir une COP de la finance mondiale sous l’égide de l’ONU était également, comme cela vient d’être rappelé, une des propositions fortes de l’avis du CESE sur le sujet, que notre collègue Jean-Paul Dufrègne a mentionné.
 C’est la raison pour laquelle nous maintenons cet amendement.
 Très bien ! La parole est à Monsieur Jean-Paul Dufrègne.
-Je veux simplement encourager l’ensemble de nos collègues à prendre connaissance de l’avis du CESE de décembre deux mille seize.
 Je mets aux voix l’amendement numéro mille trois cent soixante-dix.
-Cela ne coûtait pourtant pas cher ! La parole est à Monsieur Jean-Paul Dufrègne, pour soutenir l’amendement numéro mille quatre cent quatorze.
 C’est dommage pour l’amendement précédent : j’avais mis le champagne au frais.
-(Sourires.) Il sera sans doute débouché lorsque cet amendement numéro mille quatre cent quatorze aura été adopté.
-La question des paradis fiscaux a été abordée précédemment dans nos discussions : c’est une question fondamentale.
-Des négociations essentielles ont lieu depuis plusieurs mois au niveau européen en vue de dresser – enfin – une liste noire des paradis fiscaux… Ça fait quatre ans qu’elle existe ! …commune à l’ensemble des États membres de l’Union européenne.
-Nous disposons de quelques éléments de calendrier : Pierre Moscovici a ainsi indiqué souhaiter que les négociations aboutissent avant la fin de l’année.
-Toutefois, sur quelle liste allons-nous nous mettre d’accord ? Une chose nous inquiète profondément : aucun État européen n’y figurera, pas plus l’Irlande et le Luxembourg que les Pays-Bas.
 Cela porte déjà un sacré coup à l’efficacité future de la liste.
-Nous verrons à quel résultat final ces négociations aboutiront mais en tout état de cause, nous savons que pour qu’une telle liste soit efficace, il faut qu’elle soit largement définie.
-Y figurer doit également être synonyme, comme nous l’avons vu tout à l’heure, de sanctions dissuasives.
-Au final, seuls sept pays restent inscrits sur cette liste française des paradis fiscaux : le Botswana, le Brunei, le Guatemala, les Îles Marshall, Nauru, Niue et le Panama.
-Nous pourrions donc engager un travail sérieux de refonte de ce dispositif, en concertation avec le Gouvernement et en cohérence avec les intentions qu’il a proclamées : tel est le sens de cet amendement.
-Point important : ce travail que nous mènerions ici en France n’entrerait pas en contradiction avec les travaux menés à l’échelon européen.
-Il serait au contraire complémentaire : nous devons en effet avoir une ambition et une volonté politique communes.
 Ce débat a, depuis lors, eu lieu chaque année.
 Votre amendement me semblant largement satisfait, l’avis de la commission est défavorable.
-Quel est l’avis du Gouvernement ? S’il est défavorable, je vais cependant, monsieur le député, prendre un engagement envers vous.
-Ah ? C’est fâcheux ! N’est-ce pas ? Je m’engage à transmettre d’ici à la fin du mois à l’ensemble des parlementaires les deux rapports en question.
-Il existe des dispositions en la matière dans notre droit, en particulier dans notre législation financière : encore faut-il les appliquer.
-Dont acte.
 La parole est à Monsieur Michel Castellani.
-Quelques mots pour soutenir cet amendement : l’évasion fiscale et la triche à l’échelle internationale sont de véritables drames.
 Leur ampleur est patente.
-Ces phénomènes déstabilisent littéralement la vie sociale et ils sont de puissants facteurs d’injustice sociale.
 Telles sont les raisons pour lesquelles nous soutenons cet amendement.
-La parole est à Monsieur Philippe Dunoyer, pour soutenir l’amendement numéro mille quatre cent cinquante-six.
-Il se trouve que, depuis quelques années déjà, l’utilisation des subventions qui bénéficient à l’INRAP fait l’objet de remarques, notamment de la part des parlementaires et de l’Autorité de la concurrence.
-Dans le cadre du programme « Patrimoines » du projet de loi de finances pour deux mille dix-sept, il avait été pointé du doigt une difficulté quant à la lisibilité de l’utilisation des subventions de l’INRAP.
-Il serait préférable, à mon avis, de retirer l’amendement et d’attendre la mise en œuvre prochaine de ces mesures.
-Sans vouloir m’immiscer dans le fonctionnement d’une commission qui n’est pas la mienne, c’est un sujet qu’il serait intéressant d’examiner, en termes d’applicabilité, au sein de la commission des affaires culturelles.
 Demande de retrait ; à défaut, avis défavorable.
 Quel est l’avis du Gouvernement ? Défavorable.
-Monsieur Dunoyer, maintenez-vous l’amendement ? J’entends les arguments de Monsieur le rapporteur général, mais je maintiens l’amendement eu égard à la situation très tendue des entreprises qui œuvrent dans le secteur et qui, nous disent-elles, sont proches du redressement judiciaire.
-Je suis saisi de deux amendements identiques, numéros mille cinq cent dix et mille huit cent quarante-quatre.
-La parole est à Monsieur le rapporteur général, pour soutenir l’amendement numéro mille cinq cent dix.
-Je laisse Madame Grégoire, qui est la co-auteure de cette disposition adoptée par la commission des finances, présenter le sien.
-La parole est à Madame Olivia Gregoire, pour soutenir l’amendement numéro mille huit cent quarante-quatre.
-Une multiplicité de dispositions, fiscales, budgétaires, ou du fait d’opérateurs publics, sont prévues pour accompagner et soutenir les entreprises en difficulté et éviter, autant que faire se peut, les cas de défaillance, qui s’accompagnent trop souvent de plans sociaux.
-Ces dernières années, des cas emblématiques de faillites d’entreprises ayant attendu le dernier moment pour solliciter un accompagnement public ont posé la question de la pertinence non seulement de ces dispositifs, mais plus globalement de la politique de résolution de ces situations.
-La France continue malheureusement à se distinguer par un faible taux de réussite dans l’accompagnement d’entreprises en difficulté, du fait d’un manque de communication et de coordination entre les différents acteurs publics et privés appelés à intervenir.
-Il conviendrait de mobiliser les acteurs publics et privés autour d’une grande cause nationale : la protection de nos entreprises défaillantes et de leurs salariés.
-Cet amendement tend à interroger le Gouvernement et, plus largement, l’administration sur les pistes de réflexion à privilégier sur ces sujets dans les prochains mois.
-Je suis saisi de deux amendements identiques, numéros mille cinq cent onze et mille sept cent vingt-quatre.
-La parole est à Monsieur le rapporteur général, pour soutenir l’amendement numéro mille cinq cent onze.
-Je laisse cette fois encore à l’auteure de l’amendement initial, Madame de Montchalin, le soin de présenter cette disposition.
-La parole est donc à Madame Amélie de Montchalin, pour soutenir l’amendement numéro mille sept cent vingt-quatre.
-Cet amendement vise à mieux comprendre les dispositifs d’aide à l’export, en présence d’un déficit commercial qui s’accroît.
-Il s’agit de comprendre comment nous pouvons mobiliser toute la puissance publique pour que les entreprises, petites et grandes, aient la capacité d’exporter leurs produits et de contribuer ainsi à notre croissance, avec un déficit commercial réduit.
 La parole est à Madame Cendra Motin, inscrite sur l’article quarante-sept.
-Comme il a été décidé de ne plus assujettir aux cotisations d’assurance chômage les salariés soumis au régime général, il semble équitable de supprimer la contribution exceptionnelle de solidarité pour ceux qui sont soumis à des régimes spéciaux.
-Le droit à une assurance chômage universelle est une promesse que nous souhaitons concrétiser dès l’année prochaine.
-Le financement de ce droit universel doit reposer sur une logique qui ne peut pas être assise uniquement sur les revenus d’activité des Français.
-C’est pourquoi nous avons proposé, et adopté dans le cadre du projet de loi de financement de la Sécurité sociale, une augmentation de la contribution sociale généralisée, la CSG.
-Sa compensation à l’euro près pour les fonctionnaires est un autre engagement du chef de l’État.
-Il est donc logique que la contribution exceptionnelle de solidarité soit supprimée pour les salariés des régimes spéciaux.
-Le Fonds de solidarité, au financement duquel contribuait cette cotisation, continuera d’être alimenté par les recettes de CSG supplémentaires consécutives à la hausse de un virgule sept pourcent de celle-ci.
-La suppression de la contribution exceptionnelle de solidarité, qui, concrètement, ne concernera pas tous les agents, puisque ceux dont le salaire est inférieur à mille quatre cent soixante-sept euros ne la payaient pas, permettra de dégager un virgule quatre milliard d’euros.
-La suppression de la contribution exceptionnelle de solidarité s’inscrit dans la même logique et en parallèle de la suppression des cotisations salariales d’assurance chômage du régime général.
 Voilà pourquoi nous la proposons dans cet article quarante-sept.
-(Applaudissements sur quelques bancs du groupe REM.) La parole est à Monsieur Éric Woerth, pour soutenir l’amendement numéro mille sept cent trente-cinq, tendant à supprimer l’article quarante-sept.
-Cet article est vraiment mal venu : il supprime l’effort collectif de solidarité des fonctionnaires, lesquels ne prennent pas le risque du chômage, avec les salariés qui sont exposés à ce risque.
-Il existe une solidarité entre, d’un côté, les fonctionnaires, qui bénéficient de la garantie de l’emploi, et, de l’autre, ceux qui sont exposés au risque du chômage.
 Ce n’est pas rien.
-Le dispositif, créé en mille neuf cent quatre-vingt-deux, servait à financer le Fonds de solidarité, qui verse, entre autres, l’allocation de solidarité spécifique, destinée aux personnes au chômage qui sont en fin de droits.
-Je suis étonné que vous décidiez de compenser l’augmentation de la CSG – à laquelle nous sommes opposés, mais c’est un autre sujet – par une solution de ce type.
-Probablement faut-il compenser, puisque vous avez décidé cette augmentation, mais pas en supprimant le versement de solidarité de un pourcent de la fonction publique à l’égard du secteur exposé.
-C’est d’autant plus étonnant que vous adoptez là un raisonnement que vous ne suivez nulle part ailleurs.
 Habituellement, vous opposez la rente et le secteur exposé.
-D’ailleurs, vous avez décidé de ne pas compenser la hausse de la CSG pour les retraités parce que vous considérez que ceux-ci ne font pas partie du secteur exposé.
 Ce n’est donc pas une règle générale.
-En réalité, quand cela vous arrange, vous suivez ce raisonnement et quand cela ne vous arrange pas, vous ne le suivez pas.
 Vous pourriez choisir d’autres méthodes pour compenser.
-D’ailleurs, la suppression de la contribution de solidarité ne suffira pas, puisque cela ne représentera qu’environ un virgule quatre milliard sur un total de trois milliards.
 Vous devrez compenser le reste par des primes.
-Vous avez dit, monsieur le ministre, que les collectivités locales seraient remboursées du versement de ces primes ; il faudra le vérifier.
-Quoi qu’il en soit, ne commettez pas l’erreur de supprimer la seule contribution de solidarité entre le secteur privé et le secteur public.
-Très bien ! Quel est l’avis de la commission ? La suppression de la CES vise à compenser la hausse de un virgule sept point de la CSG pour les fonctionnaires et les salariés du secteur parapublic.
-En l’absence de cette suppression, qui représente quand même un virgule quatre milliard d’euros, il serait nécessaire de prévoir une compensation supplémentaire de la hausse de CSG par le versement de primes pour les fonctionnaires et les salariés du secteur parapublic.
 La suppression de la CES prévue par l’article quarante-sept me semble beaucoup plus simple.
-Avis défavorable.
 Quel est l’avis du Gouvernement ? Avis défavorable.
-D’abord, la suppression de cette cotisation est symétrique à ce qui se passe pour le privé ; puisque l’on supprime des cotisations dans le privé, il paraît normal d’en supprimer dans le public.
-Ensuite, on ne peut pas tout nous reprocher dans la même phrase, voire dans la même idée.
-Quelle compensation proposez-vous, monsieur Woerth ? Vous dites qu’il faut supprimer des cotisations et des impôts et qu’il ne faut pas faire supporter de charges supplémentaires aux collectivités locales – à ce propos, je confirme que le remboursement du versement des primes est bien garanti.
-Je suis sûr que si nous proposions autre chose que la suppression de cette cotisation, vous nous reprocherez de dépenser de l’argent public en augmentant la masse salariale.
-Il y a là un jeu – d’ailleurs, vous souriez ! Ah non, pas du tout ! Vous avez le droit de sourire, monsieur le président de la commission des finances ! (Sourires.) En vérité, c’est un choix courageux qu’a fait le Gouvernement.
-Il n’y a rien de courageux là-dedans ! La suppression de la contribution exceptionnelle de solidarité a beaucoup d’intérêt du point de vue de nos relations avec les collectivités locales et la sécurité sociale.
-Certes, cela ne compensera pas intégralement les trois milliards d’euros, mais cela en compensera la moitié, puisque, en gros, ce sont les fonctionnaires de catégories A et B qui paient cette contribution.
-Pour ce qui est du dernier point, je vous confirme, avec grand plaisir, que c’est bien l’État qui compensera le versement des primes ; d’où les difficultés liées au déficit que vous évoquiez au début de l’examen du projet de loi.
-Cette compensation sera pérenne puisque nous allons – si j’ose dire – supprimer les cotisations patronales pour les collectivités locales.
-Il n’y aura donc pas de nouvelle discussion sur le fait de savoir si l’État compense ou non la politique salariale des collectivités territoriales ; d’ailleurs, je constate que cela n’a pas eu lieu, au congrès des maires de France.
-Enfin, il me semble que les agents publics contribuent eux aussi aux efforts collectifs, même si c’est de manière différente que les agents du privé.
-Si la hausse de la CSG se traduira pour eux par une compensation intégrale, ils ne bénéficieront pas d’augmentation du pouvoir d’achat et ils subissent un décalage de leurs parcours professionnels, carrières et rémunérations.
-On a l’impression que vous estimez que les agents publics ne participent pas aux efforts de la nation ; mais par l’acceptation des économies que le Gouvernement leur propose, du fait de non-dépenses ou de décalages de dépenses, ils contribuent à la solidarité nationale.
 Avis défavorable, donc, en cohérence avec l’action du Gouvernement.
 (Applaudissements sur quelques bancs du groupe REM.) La parole est à Madame Marie-Christine Dalloz.
-Monsieur le ministre, vous dites que c’est une question de symétrie, mais de symétrie, il n’y en a pas.
-Par rapport au chômage, y a-t-il une symétrie entre le privé et le public ? Je veux bien tout entendre, mais pas ça : si symétrie il y a, elle est purement financière.
-Madame Motin disait à l’instant que c’était un engagement du Président de la République.
-Soit ; mais la réalité, c’est que vous êtes en train de faire de la cuisine.
 Avec vos moins quatre milliards plus trois milliards de CSG, personne ne s’y retrouve.
 Vos schémas financiers ne sont pas lisibles.
 Rien n’est compréhensible.
 Vous parlez d’un choix courageux, mais il ne l’est en rien.
-C’est ce que l’on appelle la solidarité, mes chers collègues ; et je ne comprends pas que le groupe LR ait à vous le rappeler.
 La mesure que vous soutenez exonérerait totalement les fonctionnaires de ce geste de solidarité nationale.
 Merci, ma chère collègue.
-C’est franchement dommage, et cela ne va pas dans le sens de la cohésion sociale.
 Très bien ! La parole est à Monsieur le président de la commission des finances.
 Nous parlons ici d’un principe.
-Je ne dis pas qu’aucune mesure de compensation ne doit être prévue pour les fonctionnaires.
-La meilleure façon de ne pas avoir à le faire, d’ailleurs, aurait été de ne pas augmenter la CSG.
-Pour notre part, nous défendons un principe : je ne comprends pas que vous ne le compreniez pas.
 L’action publique a, elle aussi, besoin d’un certain nombre de principes.
-La cotisation dont nous parlons, à cet égard, jette un pont entre un secteur exposé au risque du chômage et un secteur qui ne l’est pas : ce n’est pas si mal.
 On connaît peu de systèmes de solidarité de ce type.
-Les fonctionnaires, en mille neuf cent quatre-vingt-deux, avaient au demeurant compris et accepté cette mesure qui, depuis, n’a jamais posé de problème.
-En décidant de la supprimer, vous supprimez aussi le principe qui la sous-tend : un principe de solidarité entre, d’un côté, la fonction publique, qui n’est pas exposée au chômage et, de l’autre, un secteur privé qui l’est.
 C’est votre choix et, de ce point de vue, vous avez répondu à côté.
 La parole est à Monsieur le ministre.
 Les arguments que nous venons d’entendre me semblent un peu spécieux.
-L’année mille neuf cent quatre-vingt-deux fut fort belle, madame Dalloz, non seulement pour le vignoble Bordelais mais aussi pour moi-même, puisque ce fut celle de ma naissance.
-En oubliant ces personnes – sur un total de cinq virgule quatre millions de fonctionnaires –, vous avancez un faux argument s’agissant de la solidarité.
-Comme si les choses étaient aussi simples, notamment au sein des collectivités locales ! Les contractuels touchent les allocations chômage ! Certes, mais ils ont donc le même droit que les salariés du privé à la suppression d’une cotisation.
-Le niveau de cotisation n’est pas le même ! Vous suggérez, d’autre part, de compenser l’augmentation de CSG par une augmentation des primes, autrement dit d’augmenter une norme de dépenses.
 (Applaudissements sur les bancs du groupe REM.) La parole est à Monsieur Jean-Paul Dufrègne.
-Force est de constater que, pour la droite, on n’en fait jamais assez pour la finance et toujours trop pour les salariés.
-Caricatural ! Là, c’est plutôt l’inverse ! Notre groupe, lui, est favorable à la suppression de la CES, mais cette mesure pose la question du sort global réservé aux fonctionnaires, qui sont traités, comme les retraités, comme des variables d’ajustement budgétaire.
 En clair, les fonctionnaires paient lourdement les choix économiques et budgétaires de l’exécutif.
 La parole est à Madame Cendra Motin.
-Puisque vous parlez de principes, monsieur Woerth, je m’efforcerai de remettre les choses à plat.
-Nous nous apprêtons à supprimer la cotisation de chômage, assise sur les salaires, pour les salariés du privé.
-Au regard des principes, pensez-vous vraiment que nous devrions faire supporter aux seuls fonctionnaires le financement, à travers une cotisation salariale, d’un droit auquel ils n’ont même pas accès ? Cela me semblerait un peu étonnant.
-Si nous exonérons les salariés du privé d’une cotisation salariale, il me semble de bon principe d’accorder aux fonctionnaires une exonération similaire, en l’espèce celle de la contribution exceptionnelle de solidarité.
-Mais non ! Le financement de l’ASS, puisque c’est de cela qu’il s’agit, est assuré, non seulement par les salariés du public mais aussi par ceux du privé, et continuera à l’être.
-Les droits afférents au chômage seront toujours financés par la hausse de la CSG, y compris pour ceux qui sont les plus touchés par le chômage de longue durée.
-Enfin, monsieur Dufrègne, je ne voudrais surtout pas laisser penser que la majorité considère les fonctionnaires comme une variable d’ajustement de ce budget.
-Les fonctionnaires sont indispensables au bon fonctionnement de notre pays ;… J’en suis persuadé ! …nous tenons à eux, et ils bénéficieront quand même, ne l’oublions pas, d’une augmentation de salaire de quatre pourcent cette année.
-Certes, un certain nombre de mesures sont suspendues pour eux cette année, et ils participeront à l’effort national demandé à tous ; mais ils ne sont certainement pas une variable d’ajustement.
-J’en veux pour preuve le grand programme « Action publique deux mille vingt-deux » que nous avons lancé : il vise à leur redonner une place pleine et entière dans la société française, et à les valoriser.
-(Applaudissements sur les bancs du groupe REM.) Belle langue de bois ! La parole est à Monsieur Joël Giraud, pour soutenir l’amendement numéro mille huit cent deux.
-Je suis saisi de deux amendements identiques, numéros mille quatre cent douze et mille cinq cent seize.
-La parole est à Monsieur Jean-Hugues Ratenon, pour soutenir l’amendement numéro mille quatre cent douze.
-La France est marquée par un taux de chômage très élevé, et beaucoup de travailleurs, privés d’emploi, en souffrent.
-À La Réunion, pour ne citer que ce département où je fus élu le dix-huit juin dernier, jamais le taux de chômage n’est passé sous la barre des vingt pourcent au cours des trente dernières années.
-C’est vous dire à quel point le chômage de masse pèse sur la société réunionnaise, comme dans différents territoires d’outre-mer et de l’Hexagone.
-Un signal fort doit être envoyé à ces gens qui attendent beaucoup du Gouvernement et des élus.
-Dans un esprit d’exemplarité, et pour montrer notre attachement à la lutte contre le chômage sous toutes ses formes, il nous paraît normal que députés et sénateurs versent un pourcent de leur salaire brut au Fonds de solidarité.
 Ce serait là un signe fort pour les demandeurs d’emploi.
-La parole est à Monsieur Michel Castellani, pour soutenir l’amendement numéro mille cinq cent seize.
-L’amendement tend à supprimer l’alinéa six de l’article, en vue de maintenir la contribution des parlementaires au Fonds de solidarité.
-Deux raisons essentielles, que chacun comprendra, motivent une telle mesure, qui ne doit rien à la démagogie.
-Il s’agit, tout d’abord, d’éviter de nourrir l’antiparlementarisme, puisque nos concitoyens nous reprochent un statut qu’ils jugent exorbitant.
-J’ai même lu quelque part que nous avions transformé l’Assemblée nationale en paradis fiscal.
 Ensuite – et surtout –, l’amendement vise à maintenir un effort de solidarité.
-Les conditions sociales sont ce qu’elles sont, et notre contribution, même modeste, serait utile au Fonds de solidarité.
-Très bien ! Quel est l’avis de la commission ? La suppression de l’alinéa six, à quoi tendent ces amendements tels qu’ils sont rédigés, entraînerait de facto celle de l’ensemble du dispositif.
-Avis défavorable.
-Quel est l’avis du Gouvernement ? Je n’ai aucun avis sur le fond : il est d’usage que les membres du Gouvernement ne prennent pas parti lorsqu’il s’agit de la rémunération des parlementaires.
-Je suis saisi de deux amendements identiques, numéros mille cinq cent douze et mille six cent quatre-vingt-huit.
-La parole est à Monsieur le rapporteur général, pour soutenir l’amendement numéro mille cinq cent douze.
-Un certain nombre de salariés du secteur parapublic, c’est vrai, sont assujettis à une contribution exceptionnelle de solidarité de un pourcent et pas à la cotisation de chômage de deux virgule quatre pourcent.
-C’est le cas, par exemple, des salariés de La Poste ou des chambres consulaires, en particulier des chambres de commerce et d’industrie – CCI.
-Lorsque le revenu mensuel est inférieur à mille quatre cent soixante-sept euros, la CES n’est pas acquittée.
-On ne connaît pas le nombre de salariés qui sont assujettis à la CES non plus que le nombre de ceux qui en sont exonérés.
 Le dispositif peut donc conduire à des distorsions, et des zones d’ombre demeurent.
-C’est pourquoi nous suggérons la remise d’un rapport avant le trente juin deux mille dix-huit : si des angles morts subsistent, nous pourrions ainsi y remédier.
-La parole est à Madame Valérie Rabault, pour soutenir l’amendement numéro mille six cent quatre-vingt-huit.
-De fait, les angles morts sont un vrai danger lorsque l’on modifie telle ou telle règle fiscale.
-Ces modifications peuvent avoir, ailleurs, des répercussions parfois mal appréhendées ; c’est en tout cas ce que nous enseigne l’expérience – je ne parle pas spécifiquement du texte dont nous débattons, puisque, en l’espèce, je n’en sais rien.
-Il nous paraîtrait donc opportun, monsieur le ministre, de disposer des données visées avant le trente juin en vue d’une éventuelle réévaluation dans le projet de loi de règlement, donc dans les meilleurs délais.
 Cela permettrait d’éviter aux contribuables concernés certains effets potentiellement négatifs.
-Quel est l’avis du Gouvernement ? Pour être agréable à Monsieur le rapporteur général et à Madame Rabault, j’émets un avis favorable.
 (Sourires.) Je suis saisi de plusieurs amendements portant articles additionnels après l’article quarante-sept.
 La parole est à Monsieur Jean-Paul Dufrègne, pour soutenir l’amendement numéro huit cent quarante-cinq.
-La Conférence nationale sur les retraites agricoles du trente novembre deux mille seize avait relevé, une nouvelle fois, le besoin de recettes nouvelles pour financer le régime de retraite des non-salariés agricoles.
-Les seules marges de manœuvre dégagées par la baisse du nombre de retraités agricoles et l’appel à la solidarité nationale afin d’améliorer le niveau des pensions servies ne permettent pas d’assurer l’avenir du régime au niveau actuel.
-L’État avait donc décidé d’ouvrir une mission de réflexion structurelle sur l’avenir des retraites agricoles et si besoin sur le financement à court terme du régime, dont les conclusions devaient être remises en avril deux mille dix-sept.
-C’est vrai ! Quel est l’avis de la commission ? Nous avons rejeté, en première partie, des amendements visant à relever le taux de la TTF à zéro virgule quatre pourcent.
-Cet amendement est assez orthogonal avec la visée originelle de la TTF, qui est, je le rappelle, de financer l’aide publique au développement.
 Mon avis est donc défavorable.
 Quel est l’avis du Gouvernement ? Avis défavorable.
 La parole est à Monsieur Jean-Paul Dufrègne.
 J’entends votre argument mais il ne règle rien.
-Le produit de la TTF est censé être affecté à l’aide au développement, ce que je ne conteste pas – je suis même favorable à un relèvement de cette taxe pour accroître les ressources et renforcer la politique de développement.
-Mais où va-t-on trouver les moyens afin d’accroître le niveau des retraites des non-salariés agricoles pour une carrière complète à hauteur de quatre-vingt-cinq pourcent du SMIC ? On ne peut pas balayer cette question d’un revers de main, sans proposer une solution.
-Les retraités agricoles vous remercient ! La parole est à Madame Véronique Louwagie, pour soutenir l’amendement numéro quatre cent soixante-quatre.
 Il est défendu.
 La parole est à Madame Véronique Louwagie, pour soutenir l’amendement numéro six cent quatre-vingt-neuf.
-Il convient d’aider les entreprises à remplacer leurs véhicules fonctionnant aux énergies fossiles par des véhicules utilisant des énergies renouvelables.
-Il vous est ainsi proposé d’accorder, pendant une période de douze trimestres, une exonération de TVS – taxe sur les véhicules de sociétés – aux véhicules roulant au superéthanol Equatre-vingt-cinq, comme cela existe déjà pour ceux employant du gaz naturel ou du gaz de pétrole liquéfié.
-Cette exonération incitera évidemment les gestionnaires de flottes automobiles à diversifier à moindre coût la motorisation de leur parc afin de répondre aux objectifs de réduction des émissions de CO₂ et surtout de particules.
-Quel est l’avis de la commission ? Cet amendement a déjà été rejeté lors de l’examen du PLFSS.
-Oui, je sais ! Pour les mêmes raisons, je suis défavorable à ce qu’on mette trop d’éthanol dans la flotte.
-(Sourires.) La parole est à Madame Véronique Louwagie, pour soutenir l’amendement numéro quatre cent soixante-six.
-Nous avons déjà abordé ce sujet en première partie du projet de loi de finances – le ministre nous avait alors indiqué que ses services avaient réfléchi sur le problème – mais je veux y revenir.
-La loi prévoit une exception au régime de la TVA pour les véhicules affectés à l’enseignement de la conduite mais celle-ci n’inclut pas les écoles de prévention, de sécurité routière, d’éco-conduite ni de pilotage sur circuit.
-Avant deux mille onze, ces professions bénéficiaient d’une tolérance administrative qui leur permettait, de manière dérogatoire, d’être exemptées de la TVS, la taxe sur les véhicules des sociétés, mais cette dérogation a été supprimée.
 Depuis lors, la dérogation a été restreinte.
-La disparité fiscale entre les écoles de conduite et les écoles de pilotage sportif sur circuit crée une distorsion de concurrence.
-Afin d’offrir un environnement juridique clair, plus intelligible et qui place les établissements, notamment frontaliers, dans une situation plus favorable vis-à-vis de la concurrence, l’amendement prévoit une exonération de TVS pour tous les véhicules destinés à l’enseignement de la conduite.
-À l’instar de la TVA, que nous avons évoquée en première partie, il faut régler le problème posé par la TVS.
-Quel est l’avis de la commission ? J’ignore à quel carburant roulent les flottes de ces établissements.
-Peut-être à l’éthanol ? (Sourires.) Je l’ai dit plusieurs fois déjà, les véhicules des écoles de pilotage ne sont pas exclusivement affectés à l’apprentissage de la conduite.
-L’amendement, s’il était adopté, n’aurait pas pour effet d’exonérer de la TVS les sociétés concernées, faute d’une affectation exclusive à l’apprentissage de la conduite.
-Avis défavorable.
 Quel est l’avis du Gouvernement ? Il est défavorable, dans le même esprit.
-Il y a maintenant dix jours, « les professionnels de la profession », comme dirait Jean-Luc Godard, ont été reçus par mon cabinet, comme je m’y étais engagé, madame Louwagie.
 Nous travaillons sur ce dossier.
-Nous aurons l’occasion d’y revenir, soit à l’occasion d’un échange particulier, soit lors d’une autre discussion budgétaire – il ne manquera pas d’en arriver avant la fin du mois de décembre… La parole est à Madame Véronique Louwagie.
-Monsieur le rapporteur général, j’ai relevé une ouverture : vous avez indiqué que la TVA ne pouvait être déduite dès lors que les véhicules n’étaient pas utilisés exclusivement pour les activités d’apprentissage de la conduite.
-Pour affiner l’analyse, j’en déduis, a contrario, que la TVA devrait être déductible pour ceux utilisés à titre exclusif – car il y en a.
-Par ailleurs, monsieur le ministre, je suis satisfaite que vous ayez pu échanger avec les professionnels.
 En conséquence, dans l’attente des discussions budgétaires à venir, je retire mon amendement.
 La parole est à Monsieur le ministre.
-Je remercie Madame Louwagie et je vous demande, monsieur le président, une suspension de séance de quelques minutes.
 La séance est suspendue.
 La séance est reprise.
-La parole est à Madame Marie-Christine Dalloz, pour soutenir l’amendement numéro mille trois cent vingt-sept.
 Actuellement, il existe entre eux une distorsion importante crée par différentes taxes.
-En l’occurrence, la taxe spéciale sur les huiles végétales génère depuis de nombreuses années des distorsions de concurrence injustifiées au détriment des huiles issues de matières premières produites en France.
-Il convient de supprimer cette taxe, qui, en raison de modalités de calcul différentes, défavorise les industriels produisant en France et avantage certains importateurs.
-Elle pénalise les cent trente mille producteurs agricoles d’oléoprotagineux français, les industriels utilisateurs de corps gras et, au final, les consommateurs.
-Quel est l’avis de la commission ? Le problème est que la suppression de cette taxe rendrait certes la filière plus compétitive mais fragiliserait le financement des prestations vieillesse du secteur agricole en privant les caisses de la MSA de cent vingt-cinq millions.
-C’est extraordinaire ! J’admets qu’il existe un problème de compétitivité, ici comme dans d’autres domaines, mais la MSA, en déséquilibre, ne peut pas se passer d’une telle somme.
-Avant toute décision, il convient d’inscrire le sujet à l’ordre du jour de la concertation prévue lors des États généraux de l’alimentation.
 L’avis de la commission est défavorable.
-Je suis saisi de deux amendements identiques, numéros quatre cent cinquante et mille cinq cent soixante-neuf.
 La parole est à Monsieur Patrick Hetzel, pour soutenir l’amendement numéro quatre cent cinquante.
-Il s’agit de supprimer ce que l’on appelle la « taxe farine », comme une mission d’information présidée par Madame Louwagie l’avait déjà suggéré durant la précédente législature, ce qui avait d’ailleurs fait l’objet d’un consensus.
-Cette différence de traitement pose problème et la directrice régionale des douanes m’a répondu en termes très clairs qu’elle n’avait pas les moyens d’effectuer des contrôles.
-C’est un vrai paradoxe : non seulement la taxe favorise les farines étrangères au détriment des minotiers français, mais l’administration elle-même se dit incapable de la collecter.
-Il semble urgent de supprimer cette taxe pour mettre fin à une distorsion de concurrence manifeste entre les entreprises françaises et étrangères, qui, en zone frontalière, sont nombreuses à les concurrencer.
-La parole est à Madame Marie-Christine Dalloz, pour soutenir l’amendement numéro mille cinq cent soixante-neuf.
 Cet amendement est identique au précédent, mais j’aborderai le problème sous un autre angle.
-Monsieur le rapporteur général, je vous entends déjà nous répondre que les soixante-cinq millions annuels de produit de la taxe farine sont nécessaires, par solidarité, puisqu’ils financent la CCMSA, la Caisse centrale de la Mutualité sociale agricole.
-Si seulement vous aviez pu avoir un regard aussi solidaire, tout à l’heure, à propos de l’augmentation de un pourcent de la contribution de solidarité chômage ! Le parallélisme des formes devrait prévaloir dans tous les domaines.
-Rien à voir entre ces deux sujets ! Avec la taxe farine, nous sommes face à un non-sens, que nous signalons tous les ans.
 En France, l’excédent brut d’exploitation des minotiers est de trois virgule un pourcent.
 Or ce dispositif représente exactement trois pourcent de leur chiffre d’affaires.
-Cherchez l’erreur ! Pour qualifier cette taxe, j’ose pour la première fois – je n’étais encore jamais allée jusque-là – affirmer qu’elle est anticoncurrentielle.
-Ce secteur, dans notre pays, souffre de la concurrence internationale, particulièrement sensible dans les régions frontalières.
-Venez voir ce qui se passe dans le Doubs ou le Jura ; vous verrez passer des camions étrangers qui viennent livrer des farines au vu et au su de tout le monde.
-Bel exemple ! Les importateurs ne supportent pas la taxe, alors qu’elle frappe les producteurs français de plein fouet.
-Je fais en effet partie de ceux, vous le savez parfaitement, qui avaient demandé la suppression de la taxe farine en contrepartie d’une augmentation de la taxe sur les sodas, afin que l’opération soit neutre pour le budget de la MSA.
-Cependant, telle qu’elle a été votée cette année, la taxe sur les sodas est équilibrée, puisque son taux baisse sur les boissons moins sucrées et augmente sur les plus sucrées.
-De ce fait, aucune recette complémentaire n’est dégagée pour éviter à la MSA de perdre soixante-dix millions.
-La ministre des solidarités et de la santé a annoncé dans cet hémicycle qu’avant la fin de l’année prochaine, elle organiserait une série de réunions pour étudier le moyen de remplacer cette taxe par une autre recette.
-On le dit tous les ans ! Je rappelle que, l’an dernier, en commission des finances, nous avons été quelques-uns à voter la taxe de rendement, et que ceux qui s’expriment aujourd’hui n’en faisaient pas forcément partie.
-Certains votent pour des recettes et d’autres pour des dépenses ! À l’époque, j’avais voté les recettes en même temps que les dépenses, ce qui ne me semblait pas incohérent.
-La situation est un peu différente à présent que la ministre de la santé s’est engagée à ce qu’on sorte de cette spirale infernale et à ce qu’on trouve une nouvelle recette.
-En clair, il s’agit d’éliminer la taxe farine, dont je conviens qu’elle est contre-productive.
-Si, à ce stade, j’émets un avis défavorable sur l’amendement, soyez sûrs que je veillerai à ce que l’engagement pris par la ministre au banc de Gouvernement soit respecté.
-Quel est l’avis du Gouvernement ? Tout le monde est conscient de la nécessité de changer cette taxe, qui pose plusieurs problèmes.
-Madame Louwagie et Monsieur Hammadi les avaient analysés dans le rapport qu’ils avaient rédigé sous la législature précédente.
-Madame la ministre des solidarités et de la santé et Monsieur le rapporteur général s’accordent eux aussi pour reconnaître l’existence d’une distorsion de concurrence.
-J’aimerais cependant savoir, monsieur Hetzel, quels moyens font défaut à la direction des douanes et droits directs de votre région.
 Nous pourrons en reparler.
-Quoi qu’il en soit, je reconnais que la taxe farine est anachronique et fausse la concurrence.
-Mais la position du rapporteur général devrait vous interpeller : pour l’instant, nous n’avons pas les moyens de compenser sa suppression auprès de la MSA.
-C’est si vrai que les auteurs des amendements ne s’y sont pas essayés mais ont préféré gager la perte de recettes par une augmentation des taxes sur le tabac, c’est, j’imagine, pour que nous en discutions.
-En somme, ils disent la même chose que nous : la taxe crée sans doute une difficulté et l’on doit trouver des recettes pour compenser sa suppression.
-Nous n’avons pas le choix ! C’est ce vous proposez dans vos amendements et je note que vous n’avez pas proposé d’autre solution dans vos longues prises de parole.
-Je propose donc que l’Assemblée rejette ces amendements mais que, conformément à l’engagement de la ministre des solidarités et de la santé, rappelé par le rapporteur général, nous trouvions une solution dans l’année.
 La parole est à Monsieur Patrick Hetzel.
-C’est pourquoi les minotiers français et étrangers se retrouvent dans une situation déséquilibrée, à l’avantage de ces derniers.
 C’est une réalité.
-La direction régionale des douanes n’a pas la capacité opérationnelle d’y remédier car cela exigerait l’affectation systématique de moyens ciblés.
-Or ce n’est pas à vous que je vais apprendre qu’il existe, dans notre pays, un véritable mille-feuille de taxes et d’impôts.
-Avec de la farine française, le mille-feuille ! La parole est à Monsieur le ministre, pour soutenir l’amendement numéro mille huit cent soixante-dix.
-Cet amendement vise à créer une prime compensant la hausse de la CSG, afin de ne pas pénaliser les agents de la fonction publique.
-Cela fait écho aux arguments que nous avons échangés tout à l’heure avec Monsieur le président de la commission des finances.
-Vous constaterez que cette prime compense exactement la hausse de la CSG : nous sommes allés jusqu’au quatrième chiffre après la virgule.
 Nous avons fait le maximum pour rassurer les intéressés.
-Une compensation de hausse de la CSG a déjà été mise en œuvre sous le gouvernement de Lionel Jospin en mille neuf cent quatre-vingt-dix-sept, pour des raisons différentes.
-Toutefois, cette dernière n’évoquait pas les flux : les nouveaux entrants dans la fonction publique ne bénéficiaient donc pas de cette compensation.
 Leur prise en compte constituait une demande des organisations syndicales.
-Si l’on déclare vouloir renforcer l’attractivité de la fonction publique, on doit agir en conséquence ; même si ce sont de petites pertes, elles n’en sont pas moins réelles.
 Pour toutes ces raisons, je souhaiterais que votre assemblée accepte l’amendement du Gouvernement.
 Quel est l’avis de la commission ? Favorable.
 La parole est à Monsieur Gilles Carrez.
-Monsieur le ministre, monsieur Woerth, je souhaiterais pour ma part que l’on réunisse la commission des finances pour discuter de cet amendement du Gouvernement.
-En effet, il vient d’être présenté en quelques secondes, alors qu’il porte sur trois milliards d’euros et fait intervenir une mécanique compliquée.
 Je résume son dispositif, puisque le ministre ne l’a pas fait.
-L’augmentation de la CSG de un virgule sept point concernera les cinq virgule cinq millions d’agents publics, qui subiront ainsi une baisse de pouvoir d’achat de trois milliards d’euros.
 La question est de savoir comment l’on compense ces trois milliards.
-Le versement de cette indemnité compensatrice ne pose pas de problème pour l’État mais, pour l’employeur local ou l’employeur hospitalier, cela représente un surcoût, que vous entendez compenser par la baisse de la cotisation maladie des employeurs locaux et hospitaliers.
-Par ailleurs, dans l’exposé sommaire, il est indiqué, et le ministre vient d’y faire allusion : « Afin de garantir l’attractivité de la fonction publique, une indemnité calculée de manière plus forfaitaire [sic] sera versée aux nouveaux entrants et aux agents réintégrés ».
-Un amendement de trois milliards d’euros qui débarque comme cela, touchant nombre de sujets importants, mérite un minimum d’examen.
-Monsieur le président de la commission des finances, monsieur le rapporteur général, peut-être disposez-vous d’informations particulières ? Je pense, pour ma part, que l’on ne peut pas s’en tenir à quelques secondes de discussion.
-(Applaudissements sur les bancs du groupe LR et sur plusieurs bancs du groupe NG.) La parole est à Madame Valérie Rabault.
 Je formule la même demande que Gilles Carrez.
-Nous avons compris le mécanisme de la suppression de la contribution exceptionnelle de solidarité chômage de un pourcent, pour un montant de un virgule quatre milliard.
-Il n’en va pas de même concernant la somme de un virgule six milliard – ce qui n’est pas peu de chose, monsieur le ministre.
-Eh oui ! Je me réfère à la tribune publiée la semaine dernière par nos collègues de La République en marche qui appelaient le Gouvernement et les parlementaires à légiférer de manière éclairée et évaluée.
 En l’occurrence, on ne légifère de manière ni éclairée ni évaluée.
-En effet, cette réforme de la CSG est constituée de plusieurs tuyaux, allant tantôt vers la Sécurité sociale, tantôt vers les collectivités locales.
-C’est une vraie tuyauterie ! Oui, c’est vraiment de la mécanique de tuyauterie ! Monsieur le ministre, nous avons vraiment besoin d’y voir clair.
-Je ne veux pas vous accuser de quoi que ce soit, mais vous faites apparaître un virgule six milliard par quelque chose qui s’apparente à un tour de passe-passe.
-Lorsqu’on présente un amendement qui a des conséquences financières aussi importantes, on peut y consacrer un peu plus de trente secondes.
-(Applaudissements sur les bancs des groupes NG et LR.) Très bien ! Excellent ! La parole est à Monsieur le président de la commission des finances.
-Nous avons déjà abordé ce sujet à l’occasion de l’examen d’un autre amendement mais j’aimerais savoir comment les collectivités, qui rémunèrent les fonctionnaires territoriaux,… Où vont-elles trouver l’argent ? …vont bénéficier de cette compensation.
-Très bien ! Quel est exactement le mécanisme de compensation choisi pour les collectivités locales ? C’est un point absolument essentiel.
-Comment cela va-t-il fonctionner sur le long terme ? Cette prime va-t-elle augmenter avec le temps, le cas échéant en fonction de l’inflation, ou sera-t-elle gelée ? Eh oui ! Sur quoi est-il prévu de l’indexer ? La parole est à Monsieur le ministre.
 Je vais me répéter, pour Monsieur Carrez, dont je comprends parfaitement la question.
-Madame Rabault a rappelé que l’amendement avait une portée financière non de trois milliards mais de un virgule six milliard.
-C’est énorme ! Il s’agit évidemment d’un montant important, mais c’est tout de même un virgule quatre milliard de moins que le montant avancé par certains.
-Cet amendement ne soulève pas de difficultés budgétaires ; il ne modifie pas les équilibres du budget.
-Vous aurez constaté que, dans sa grande sagesse, le ministre de l’action et des comptes publics – qui est en même temps le ministre de la fonction publique, qui menait ces négociations avec les syndicats, et le ministre du budget – ne dégrade pas sa copie.
-Comme je vous l’ai dit, la hausse de la CSG affectant les agents de la fonction publique entraîne une augmentation des recettes de trois milliards, qui fait l’objet d’une compensation.
 Vous appelez cela la « tuyauterie ».
-Si l’on étudiait toutes les tuyauteries, chacun se révélerait excellent plombier, tant le sujet est complexe.
-(Sourires. – Exclamations sur les bancs du groupe LR.) Là, vous n’avez pas tort ! S’agissant du respect des droits du Parlement, vous m’avez interrogé par deux fois en commission des finances.
-Et avec les collectivités locales ? J’avais toutefois commencé à dessiner un certain nombre de grands principes, que je voudrais ici rappeler.
-J’ai pu constater, indépendamment des échanges informels que j’ai avec eux, que les employeurs territoriaux ont manifesté, au sein du Conseil commun de la fonction publique, leur accord avec cette mesure, qui constitue une garantie pérenne de la compensation de la CSG.
 Il ne s’agit pas, en effet, d’un versement de prime ex nihilo.
 L’amendement a été déposé voilà plus d’une semaine.
-Nous avons discuté très longuement de cette question en commission, notamment lors de l’examen des rapports spéciaux, en particulier sur la fonction publique ; le rappeler n’est pas faire injure à votre assemblée.
-Les échanges furent assez intéressants, et nous nous sommes notamment demandé s’il s’agissait de la bonne solution.
 On ne peut donc pas prétendre que votre assemblée n’ait pas été informée.
-Il ne m’appartient pas de me prononcer sur la question de savoir si la commission des finances doit être réunie, mais il me semble, monsieur Carrez, que vous avez surtout manifesté une demande d’explication.
-Je pense donc que l’État et le Gouvernement ont pris leurs responsabilités et que la tuyauterie n’est pas si compliquée que vous la présentez.
-La suppression des cotisations des deux côtés me semble le meilleur moyen de compenser la hausse de la CSG.
-(Applaudissements sur quelques bancs du groupe REM.) Applaudissements nourris de Madame Motin ! La parole est à Monsieur Hervé Saulignac.
 Je m’associe aux demandes de renvoi en commission de ce sujet central.
 La parole est à Madame Cendra Motin.
-C’est, en ma personne, la très enthousiaste rapporteure spéciale du budget de la fonction publique qui s’exprime.
-Monsieur le ministre a répondu à une demande forte, qui émanait notamment des directions des ressources humaines des collectivités territoriales, d’avoir une compensation dynamique.
-Cette compensation sera pérenne, monsieur Saulignac, puisque, pour une fois, il ne s’agit pas de recettes allouées une seule année et pouvant être supprimées, mais d’une diminution des cotisations employeur de nos collectivités territoriales.
-Cela va entraîner un phénomène inédit : au fil des ans, les collectivités territoriales vont y gagner.
-Dès lors, cet allégement de charges va connaître une augmentation en euros, alors que la prime différentielle, elle, demeurera fixe : comme je l’ai expliqué dans mon rapport, elle sera recalculée une dernière fois en janvier deux mille dix-neuf, après quoi elle ne variera plus.
-Vont donc se conjuguer un allégement de charges qui, en euros, va augmenter, et une prime dont le montant sera stable, voire en baisse, au fur et à mesure que les agents de la fonction publique vont partir.
-Ne vous inquiétez donc pas : finalement, dans quelques années, les collectivités territoriales s’y retrouveront, et s’y retrouveront même bien.
-(Applaudissements sur quelques bancs du groupe REM.) La parole est à Monsieur le ministre, pour soutenir l’amendement numéro mille huit cent soixante et onze.
-Cet amendement vise à organiser les modalités du report d’un an des revalorisations prévues dans le cadre du protocole PPCR.
-Sur ce sujet encore, je pense avoir été largement sollicité – j’anticipe la question que Monsieur Carrez ne va pas manquer de soulever – dans le cadre du débat sur la masse salariale.
-Nous procédons donc à un décalage d’un an d’un protocole qui engageait l’ancien Gouvernement mais ne résultait pas d’un accord majoritaire.
 Quel est l’avis de la commission ? Favorable.
 La parole est à Monsieur Gilles Carrez.
-Là encore, le Gouvernement fait très fort : voici un amendement à huit cents millions d’euros ! Vous me direz, monsieur le ministre, qu’il va dans le bon sens, puisqu’il s’agit d’une économie.
 En effet, vous reportez d’un an le protocole Lebranchu, ou protocole PPCR.
-Sur le fond, cette décision va dans le bon sens, mais on ne présente pas un tel amendement directement en séance.
-Vous en avez peut-être discuté – et encore ! – lors de l’examen des crédits de la mission « Gestion des finances publiques et des ressources humaines ».
-Madame Cendra Motin a peut-être eu des informations privilégiées, mais, pour notre part, nous découvrons cet amendement.
-Dans le budget de l’État pour deux mille dix-huit, il n’y a que trois cent vingt-quatre diminutions d’effectifs sur deux millions de fonctionnaires ; vous recherchez désespérément des économies – cela se comprend – pour compenser cette totale stabilité des effectifs.
 Mais nous faisons du mauvais travail en discutant en quelques secondes d’amendements aussi importants.
-Derrière cette mesure, se cache toute la gestion de la masse salariale dans les trois fonctions publiques, qui mériterait un examen approfondi.
-Bien sûr, vous avez une majorité, qui va adopter cet amendement au doigt et à l’œil, comme un seul homme (Protestations sur les bancs du groupe REM), mais nous faisons là du mauvais travail parlementaire.
-Les deux derniers amendements mériteraient un peu plus de réflexion, et il conviendrait de suspendre la séance pour réunir la commission des finances, monsieur le président de la commission des finances.
-Cela nous permettrait d’aller au fond des choses et de faire du bon travail parlementaire.
 Je vous remercie de votre compréhension.
 (Exclamations sur les bancs du groupe REM.) La parole est à Monsieur le ministre.
-Ayant beaucoup de respect pour tous les parlementaires, particulièrement pour le président Carrez, quand il déclare que nous faisons du mauvais travail, j’ai tendance à le prendre au sérieux.
 Néanmoins, votre argumentation, monsieur Carrez, a du mal à tenir sur ce point précis.
 Je vous ai dit que j’allais en parler aux organisations syndicales.
 Non ! Si, monsieur Carrez, je vous l’assure.
-La tuyauterie n’est pas très complexe : nous ne faisons que décaler au premier janvier deux mille dix-neuf l’entrée en vigueur du protocole.
-Par ailleurs, pardonnez-moi mais il est faux de dire que ce sont les agents de catégorie C qui pâtiront de ce décalage d’un an – c’est d’ailleurs bien pour cela qu’une partie des organisations syndicales n’a pas signé le protocole.
-Ce sont les fonctionnaires de catégorie B pour lesquels l’impact de ce décalage sera le plus important.
-Les agents de catégorie C ont en effet déjà bénéficié d’une revalorisation, même si certains d’entre eux ont des difficultés financières, que personne n’ignore.
-Indépendamment de ce décalage, les sujets de fond sont la rémunération des agents publics, le statut de la fonction publique et l’adaptation de la fonction publique.
-Ne vous inquiétez pas : le projet de la majorité parlementaire prévoit une réforme importante de la fonction publique.
 Nous aurons largement le temps d’en parler.
-Cet amendement propose une mesure conforme aux propos que j’ai tenus aux organisations syndicales – qui sont les premières concernées, excusez-moi – et conforme à la parole du Gouvernement dès la fin du mois d’août.
-On peut toujours suspendre la séance et réunir la commission, mais j’y verrais surtout le signe, monsieur le président Carrez, que vous voulez faire durer la séance.
-Sachez que je suis très heureux d’être avec vous ! La parole est à Monsieur le président de la commission des finances.
-Si vous gagnez un an, j’imagine que c’est pour mieux tuer ce protocole et faire autre chose.
 Si vous faites autre chose, j’aimerais bien savoir ce que ce sera.
 Vous pourriez nous donner les lignes directrices de votre projet.
 Beaucoup d’éléments de cette nature peuvent être traduits dans une réforme.
-Vers quoi allez-vous ? Cette question est d’autant plus légitime que la majorité repousse tous nos amendements en disant qu’une réforme plus générale, merveilleuse, est en préparation.
-C’est une attitude systématique, que l’on a notamment constatée il y a peu lors du débat sur les taux d’intérêt.
 Vous dites que le protocole PPCR est mort.
 Nous avons besoin de chiffres.
 La parole est à Madame Valérie Rabault.
-Je suis étonnée que ces amendements n’aient pas été présentés lors de l’examen des crédits de la mission dont Madame Cendra Motin était rapporteure spéciale,… Absolument ! …parce que l’on aurait pu avoir une discussion globale.
 Bien sûr ! Une vision d’ensemble.
-Oui, une vision d’ensemble ! Les résultats de la négociation n’ont pu être connus qu’après l’examen de cette mission, mais tout de même.
-Pourriez-vous nous donner le nombre de fonctionnaires touchés par la mise en stand-by du protocole, par catégorie, A, B et C ? La parole est à Madame Amélie de Montchalin.
 Je voudrais revenir sur les propos de Gilles Carrez.
-Quand le ministre est venu devant la commission des finances, nous étions au début d’une négociation avec les partenaires sociaux de la fonction publique.
-Il nous a été expliqué que certaines mesures allaient être prises pour pleinement compenser la hausse de la CSG.
-Au moment de l’examen des crédits de la mission « Gestion des finances publiques et des ressources humaines », la négociation se poursuivait, si bien que le Gouvernement n’était pas en mesure d’adapter le texte initial pour refléter la négociation.
-Aujourd’hui, c’est le cas : le PPCR n’est pas abandonné ; la négociation a abouti à son report d’une année.
-Lorsque des négociations menées par le Gouvernement sont en cours, comme c’est arrivé pour le logement, il me semble important de comprendre que ces mesures arrivent et de suivre l’avancée des discussions.
-Le ministre nous a donné énormément d’informations sur les négociations en cours, nous a rassurés sur leur avancée et avait présenté en amont des leviers de discussion qui étaient sur la table.
 Il n’y a donc ni surprise ni grande révélation, me semble-t-il.
 Non, le PPCR n’est pas abandonné ; il est reporté d’une année.
 Il est essentiel pour les personnels de la fonction publique d’être extrêmement clairs là-dessus.
-Il n’y a pas de surprise, les négociations ont eu lieu, et, comme pour le logement, on a adapté le texte en séance pour refléter au mieux leur résultat.
-Il ne faut pas faire de grands coups de communication sur des processus que nous avons pu suivre précisément.
 (Applaudissements sur les bancs du groupe REM.) La parole est à Monsieur le ministre.
 Madame Rabault, tous les agents publics sont concernés par le décalage d’un an.
-(Exclamations sur quelques bancs du groupe NG.) Souffrez que l’on vous réponde ! Si je ne peux pas répondre à vos questions, je ne suis qu’un punching-ball et la discussion n’a aucun intérêt.
-Il ne me semble pas incongru d’informer, dans le cadre de l’examen d’un projet de loi de finances, que l’on devra payer quatre-vingt-deux pourcent d’un accord datant d’il y a deux ans et demi.
 Cela n’est pas grave en soi mais il faut le dire.
-Madame de Montchalin a raison : le Gouvernement ne passe pas le protocole PPCR par pertes et profits.
-Bien sûr, l’accord aurait pu être mieux négocié, mais, comme vous l’avez dit, monsieur Woerth, il n’est pas facile de négocier un accord.
-Je constate qu’il n’a pas été majoritaire et qu’il sera intégralement financé à l’issue du quinquennat : nous ne vous présentons pas une trajectoire de financement sur dix ou quinze ans, mais bien sur cinq ans.
-Simplement, il n’est pas possible de le financer en intégralité maintenant, comme cela avait été prévu.
 Néanmoins, cet accord ne sera appliqué qu’au premier janvier deux mille dix-neuf.
-Enfin, s’agissant de la procédure, je peux comprendre Madame Rabault et les interrogations des parlementaires : on peut toujours mieux discuter des sujets, mais cet amendement est passé en commission, jeudi matin.
-Il n’y avait aucun parlementaire de la majorité ! Il n’y avait peut-être pas beaucoup de parlementaires, et chacun peut déplorer que le contrôle du Gouvernement par le Parlement ne soit pas suffisant.
-Il me semble que le processus a été assez clair : le protocole est décalé, est gardé, coûtera onze milliards d’euros dans les cinq prochaines années, n’était financé qu’à dix-huit pourcent et touchera tous les agents de la fonction publique.
 Chacun est désormais informé.
 La parole est à Monsieur le président de la commission des finances.
-Je vois bien que le ministre utilise le ton de la plaisanterie, mais notre groupe était majoritaire jeudi dernier en commission des finances, où étaient présentes, entre autres, Madame Louwagie et Madame Dalloz.
-Il n’y avait aucun député de La République en marche ! Alors qu’aucun député de la majorité n’était présent, à l’exception du rapporteur général, nous avons choisi de ne pas en profiter.
-Nous n’avons pas voulu faire du petit parlementarisme, de la mauvaise opposition, car cela ne change rien à un texte.
-Nous n’avons pas pris part au vote et avons laissé le rapporteur général adopter l’amendement.
-Nous n’avons pas joué à ce jeu, et je pense que c’est plutôt à notre honneur qu’à notre déshonneur.
-(Applaudissements sur quelques bancs du groupe LR.) Très bien ! La parole est à Monsieur Patrick Hetzel, pour un rappel au règlement.
-Ce rappel au règlement se fonde sur l’article cinquante-huit, alinéa un, du règlement, relatif au bon déroulement des travaux de notre assemblée.
-Monsieur le président, vous connaissez parfaitement le règlement : vous pouvez donner la parole à un ou à plusieurs parlementaires, et il ne vous a pas échappé que ce sujet était particulièrement sensible.
-Nous étions quelques-uns à vouloir intervenir sur cet amendement, qui porte sur un sujet sensible et un montant budgétaire très élevé.
-De part et d’autre de l’hémicycle, des demandes de réunion de la commission des finances ont été formulées.
-Puisque ces demandes ont été rejetées, nous souhaitions simplement pouvoir nous exprimer sereinement en séance publique.
-(Applaudissements sur les bancs du groupe LR.) Monsieur Hetzel, comme moi, vous avez suivi attentivement le débat, si bien que nous pouvons nous en tenir aux faits.
-Lorsque l’on examine un amendement, il est possible d’entendre deux réponses : une à la commission et l’autre au Gouvernement.
-L’opposition n’a donc nullement été brimée dans ce débat ; j’ai au contraire permis à toutes les sensibilités politiques de s’exprimer, comme je le fais très souvent, et en allant au-delà de ce que les règles permettaient.
-(Applaudissements sur plusieurs bancs du groupe REM.) La parole est à Madame Valérie Rabault, pour soutenir l’amendement numéro mille six cent quatre-vingt-neuf.
-Je reconnais que cet amendement n’a pas forcément sa place dans une loi de finances et je prie d’avance Monsieur le ministre de bien vouloir accepter mes excuses sur ce point.
-Je souhaite néanmoins lancer un appel, monsieur le ministre, car voilà trois ans que nous cherchons à résoudre cette situation.
 Laissez-moi donc vous expliquer.
-Des anciens agents d’EDF, affiliés à la CAMIEG – la Caisse d’assurance maladie des industries électriques et gazières –, peuvent adjoindre à leur contrat de mutuelle leur conjoint pourvu que le revenu fiscal de référence de celui-ci soit inférieur à un certain seuil.
-Cette difficulté pourrait être résolue de manière assez simple en modifiant le décret qui fixe le seuil, par un rehaussement de ce dernier.
-On éviterait ainsi qu’un certain nombre de Français qui, en toute bonne foi, pensent être affiliés à la CAMIEG, en soient radiés du fait d’un changement de définition du revenu fiscal de référence.
-Très bien ! J’avais déjà déposé un amendement similaire en loi de finances l’année dernière, et votre prédécesseur m’avait promis que la question serait résolue dans les deux mois, ce qui n’a pas été le cas.
-Je me permets donc de me tourner vers vous pour appeler votre attention sur ce point, monsieur le ministre.
-J’ignore quel étage de Bercy est compétent – peut-être le troisième, le cinquième ou encore le sixième – mais je sais que c’était auparavant du ressort du ministère de l’industrie.
-Quel est l’avis de la commission ? Valérie Rabault a raison de déposer cet amendement ; je l’ai d’ailleurs invitée à le faire en commission, sans y donner pour autant un avis favorable.
 Ce sujet a effectivement déjà été abordé et il aurait dû être réglé.
-Très bien ! Cette mesure étant d’ordre réglementaire, elle sera retirée par la suite, mais elle garantira, dans l’attente, que nous travaillions sur ce sujet d’apparence un peu complexe.
 (Applaudissements.) Deux orateurs sont inscrits sur l’article quarante-huit.
 La parole est à Monsieur Jean-Paul Dufrègne.
 Le jour de carence des fonctionnaires (« Ah ! » sur divers bancs) : c’est tout un feuilleton.
-Parmi les victimes de vos choix budgétaires, il y a bien sûr les retraités, nous l’avons évoqué plusieurs fois, mais aussi les fonctionnaires et les agents publics, victimes d’une politique générale de stigmatisation depuis mai dernier.
-Tout le monde a en tête la campagne présidentielle : entre le candidat Fillon et le candidat Macron, c’était à qui supprimerait le plus de postes de fonctionnaires.
-Aujourd’hui, cela se traduit par une politique de punching-ball contre les agents publics : cent vingt mille postes seront supprimés d’ici à deux mille vingt-deux.
-Rappelons ici toutes les suppressions prévues au sein de Bercy, notamment dans les services de contrôle fiscal ; on est là très loin des déclarations d’intention en matière de lutte contre la fraude et l’évasion fiscales.
 L’avancement des carrières est en outre au point mort.
-Quand les conditions de travail se dégradent et que les cadences sont plus difficiles à assumer, le travail peut perdre de son sens.
-C’est dans ce contexte qu’intervient le rétablissement d’un jour de carence, mesure directement sortie des cartons de la droite et empreinte d’une démagogie sans nom.
 Cette stigmatisation des agents de la fonction publique nous apparaît indigne.
-Au fond, achever l’examen de ce projet de loi de finances par le rétablissement d’un jour de carence pour les fonctionnaires est un symbole très fort :… Merci, mon cher collègue.
-…c’est la cerise sur le gâteau, un marqueur politique particulièrement amer que nous n’acceptons pas.
 La parole est à Monsieur Stéphane Peu.
-En voulant rétablir le jour de carence dans la fonction publique, la majorité s’inscrit dans les pas de Nicolas Sarkozy, lequel avait lui aussi cru bon, en son temps, d’humilier un peu plus les fonctionnaires.
-Le groupe Les Républicains, voyant encore une fois l’actuelle majorité marcher sur ses plates-bandes idéologiques, surenchérit en proposant plusieurs jours de carence.
-Jusqu’où les diverses nuances de droite iront-elles dans la rhétorique anti-fonctionnaires ? L’article quarante-huit réussit le tour de force d’être à la fois inutile et injuste.
-L’Enquête emploi de l’INSEE parue la semaine dernière porte notamment sur l’impact du rétablissement du jour de carence en deux mille douze et en deux mille treize sur l’absentéisme dans la fonction publique.
-Ses conclusions, pour peu qu’on les analyse de bonne foi, montrent clairement que le jour de carence ne fait pas baisser le taux d’absentéisme.
-En deux mille quatorze, les rapports d’évaluation parvenaient aux mêmes conclusions sur les effets de la mesure : le jour de carence ne réduit pas l’absentéisme dans la fonction publique.
-De même, l’argument de l’équité avec le secteur privé ne tient pas une seconde.
-En effet, deux tiers des salariés du privé sont couverts par une convention collective qui ne les soumet pas au jour de carence.
-Enfin, les agents dont le taux d’absentéisme de courte durée est le plus élevé sont ceux de catégorie C, c’est-à-dire ceux qui exercent généralement les tâches les plus dures ou les plus contraignantes sur le plan physique.
-Mesdames et messieurs les députés de la majorité, lisez les rapports, examinez les chiffres, regardez la situation des agents et la pénibilité au travail, notamment au sein des hôpitaux publics, et vous comprendrez que cette mesure n’est que pure démagogie.
-Je suis saisi de deux amendements, numéros mille trois cent cinquante-sept et mille quatre cent treize, tendant à supprimer l’article.
-La parole est à Monsieur Jean-Paul Dufrègne, pour soutenir l’amendement numéro mille trois cent cinquante-sept.
 Cet amendement vise en effet à supprimer l’article.
-Plusieurs collègues l’ont rappelé, le jour de carence dans la fonction publique avait été rétabli par François Fillon, alors Premier ministre, puis supprimé par la précédente majorité, début deux mille quatorze.
-Quelques mois plus tard, en mai deux mille quinze, un sénateur LR avait proposé de le rétablir.
-Tout est dit ! Par ailleurs, je souhaiterais revenir sur ce fameux rapport de la Cour des comptes que beaucoup brandissent à tour de bras mais dont je me demande s’il a bien été étudié.
-La remise en place d’un ou plusieurs jours de carence dans la fonction publique devrait être envisagée. » Deux éléments me choquent dans cette analyse.
-Elle traduit tout d’abord la difficulté à estimer l’efficacité du jour de carence en matière d’absentéisme.
-Il est par ailleurs surprenant que la Cour des comptes emploie le conditionnel et, finalement, propose tout de même le rétablissement d’un ou plusieurs jours de carence.
 C’est choquant.
-Ces différents éléments montrent bien qu’il est question ici non pas de trouver une solution au problème des conditions de travail des fonctionnaires mais bien de stigmatiser ces derniers.
-La parole est à Monsieur Jean-Hugues Ratenon, pour soutenir l’amendement numéro mille quatre cent treize.
-Nous proposons, par cet amendement, de supprimer l’article quarante-huit car nous considérons que cette vision idéologique du fonctionnariat relève du mythe.
-Si un fonctionnaire pose un arrêt maladie d’une journée et revient le lendemain, c’est qu’il a été malade une journée.
-En quoi cette situation serait-elle suspecte ou incongrue ? Cet état de fait est confirmé par une enquête récente de l’INSEE.
-Durant la dernière période d’application du jour de carence, le nombre d’absences d’une seule journée n’a pas diminué, pas plus que l’absentéisme global, qui est resté stable.
-L’absentéisme se trouve par ailleurs être sensiblement moins élevé dans le public que dans le privé – deux virgule neuf un pourcent contre trois virgule six huit pourcent.
 Quel est l’avis de la commission sur ces deux amendements de suppression ? Défavorable.
-Quel est l’avis du Gouvernement ? Si vous me le permettez, monsieur le président, je soutiendrai l’argumentation du Gouvernement pour l’ensemble des amendements sur le sujet et, par la même occasion, je répondrai aux orateurs qui sont intervenus sur l’article.
-Tout d’abord, di je puis me permettre, monsieur Dufrègne, le parallèle entre le public et le privé n’est pas aussi simpliste que vous l’avez présenté.
-Vous évoquez les conventions collectives, notamment celles de l’assurance ou de la banque, qui ont également été mentionnées en commission.
-Si les trois premiers jours de carence sont pris en charge pour certains salariés, beaucoup de salariés ne bénéficient pas de cette couverture.
-Vous avez pris tout à l’heure l’exemple d’un agent de voirie qui tombe malade.
-Agent de collectivité locale, il a un employeur qui, en tant que tel, a une responsabilité et est tout à fait fondé à souscrire un contrat de prévoyance pour couvrir une telle situation.
-Le jour de carence vise à lutter contre le micro-absentéisme, et il est totalement faux d’affirmer que sa mise en place n’y a pas contribué, car c’est une évidence.
-Il est notamment proposé, dans le rapport de la Cour des comptes, de rétablir un ou plusieurs jours de carence, car, durant la période d’application du jour de carence, le nombre d’absences de deux jours a été divisé par deux.
 Voilà, me semble-t-il, ce que nous devons faire.
-Sous prétexte que les agents de la fonction publique ne bénéficient pas d’un accompagnement de prévoyance, on se refuse à le mettre en place.
-Et, maintenant que nous avons ouvert ce chantier avec les organisations syndicales, on se refuse – la démagogie qui a été évoquée peut se trouver des deux côtés – à évoquer le sujet important du fonctionnement des services publics.
-Je souhaite que l’Assemblée nationale s’inscrive dans le cadre du texte proposé par le Gouvernement.
-La parole est à Monsieur Stéphane Peu, pour soutenir l’amendement numéro mille trois cent soixante-trois.
-Le présent amendement propose que le Gouvernement remette à la représentation nationale un état des lieux dressant le panorama général de l’absentéisme dans la fonction publique et identifiant ses causes.
-D’aucuns pourraient penser qu’il n’existe aucun problème de pénibilité ni de stress au travail dans la fonction publique,… Personne ne le pense ! …même si l’on sait très bien que certains secteurs en connaissent.
 Quel est l’avis de la commission ? Il est défavorable.
-Les risques psychosociaux au sein de la fonction publique sont une réalité, mais ils le sont aussi dans le secteur privé.
-Il s’agit d’un risque global, qu’il convient de mieux mesurer globalement, à l’échelle de la société.
-La parole est à Madame Cendra Motin, pour soutenir l’amendement numéro mille six cent vingt-huit.
 Il s’agit d’un amendement d’équité – car nous y travaillons.
-Les salariés relevant d’un régime spécial d’assurance maladie seront exclus du dispositif mis en place si nous ne corrigeons pas la rédaction du premier alinéa de l’article quarante-huit.
-En effet, tel qu’il est proposé par le Gouvernement, il concerne uniquement les agents des trois versants de la fonction publique – territoriale, hospitalière et d’État.
-Or certains agents relèvent de régimes spéciaux d’assurance maladie ne prévoyant le décompte d’aucun jour de carence.
-L’amendement tend à faire en sorte que tous les agents publics soient concernés par cette disposition.
 Quel est l’avis de la commission ? Favorable.
 Quel est l’avis du Gouvernement ? Sagesse.
-Je suis saisi de quatre amendements, numéros mille trois cent cinquante-six, mille six cent trente et un, mille trois cent trente-trois et mille trois cent quatre-vingt-douze, pouvant être soumis à une discussion commune.
-La parole est à Monsieur Patrick Hetzel, pour soutenir l’amendement numéro mille trois cent cinquante-six.
-Il vise à parvenir à un alignement parfait des trois fonctions publiques, tant entre elles qu’avec le secteur privé, avec trois jours de carence.
 Cela aboutirait à une véritable équité entre le secteur public et le secteur privé.
-Ce n’est pas vrai ! Compte tenu de la tension qui règne dans le secteur hospitalier en matière d’effectifs, une telle évolution a une véritable incidence budgétaire et mérite par conséquent qu’on y porte une attention tout à fait particulière.
-Ce n’est pas vrai ! La parole est à Madame Émilie Chalas, pour soutenir l’amendement numéro mille six cent trente et un.
-Il s’agit d’exonérer de jour de carence les deux premiers arrêts maladie ordinaires de l’année, qui seraient à la charge de l’employeur public.
 Le troisième arrêt maladie et les suivants seraient soumis à trois jours de carence.
-Ce dispositif vise à cibler l’abus répété de micro-absentéisme tout en compensant, en quelque sorte, la prise en charge de trois jours de carence dont bénéficient soixante-dix pourcent des salariés du secteur privé.
-Très bien ! Ses causes et la lutte dont il doit faire l’objet sont complexes et sensibles.
-Elles méritent d’être éclairées et rassemblées dans un dispositif global traitant de sujets allant du management public aux métiers, en passant par la prise en charge par l’employeur public d’un contrat de prévoyance.
 Je vous renvoie aux douze propositions formulées dans mon rapport pour avis, chers collègues.
-Plus généralement, je tiens à souligner que les données statistiques manquent pour mener une analyse fiable et exhaustive sur les trois versants.
-C’est exactement ce que nous demandons ! Monsieur le ministre, si vous donnez un avis défavorable sur cet amendement, comment continuerez-vous à travailler sur l’absentéisme ? Bravo ! La parole est à Madame Marie-Christine Dalloz, pour soutenir l’amendement numéro mille trois cent trente-trois.
-Cet article est intéressant car il rappelle des décisions prises à une autre époque, par une autre majorité.
 L’introduction du jour de carence dans la fonction publique incite à la responsabilité.
 Toutefois, certaines dispositions méritent d’être étayées.
-Ainsi, l’alinéa quatre prévoit le maintien de la rémunération « lorsque la reprise du travail entre deux congés de maladie accordés au titre de la même cause n’a pas excédé quarante-huit heures ».
-Sans stigmatiser quiconque – tel n’est pas le but –, il importe de rappeler l’impératif de continuité du service public dans certains domaines.
-Certes, monsieur le ministre, l’introduction dans la fonction publique d’un deuxième jour de carence, à défaut d’en introduire davantage, a un coût.
-Néanmoins, s’il est possible, dans le secteur privé, de prévoir trois jours de carence, parfois assortis d’une couverture sociale prise en charge par l’employeur ou par la filière, il doit être possible d’en introduire deux dans la fonction publique sans coût.
 Tel est le sens de cet amendement.
-La parole est à Madame Véronique Louwagie, pour soutenir l’amendement numéro mille trois cent quatre-vingt-douze.
-C’est un amendement de repli, au cas où celui que vient de présenter notre collègue Marie-Christine Dalloz ne serait pas adopté.
-Il vise à appliquer deux jours de carence à partir du deuxième arrêt maladie de l’année civile.
-Il aboutit ainsi à une situation intermédiaire entre la proposition du Gouvernement et la solution qui nous semble la plus opportune au regard de l’ensemble des arguments avancés.
-Afin de renforcer les arguments avancés par mon groupe, j’évoquerai une étude de Sofaxis relative à l’absentéisme dans les collectivités territoriales, publiée il y a quelques jours.
-Il en ressort une augmentation relativement importante : l’an dernier, on a dénombré neuf virgule trois agents absents pour cent employés ; le nombre a encore augmenté, pour atteindre neuf virgule cinq.
-Cette étude corrobore les précédentes qui ont établi l’augmentation de l’absentéisme dans le secteur public depuis que le jour de carence y a été supprimé.
-Y rétablir un dispositif équivalent de celui en vigueur dans le secteur privé, ou au moins proche, est une question d’égalité.
 Quel est l’avis de la commission sur ces quatre amendements ? Avis défavorable.
 C’est un peu court ! Quel est l’avis du Gouvernement ? Il est défavorable.
 J’ai répondu tout à l’heure, par anticipation, à Madame Louwagie.
-Je répondrai à Madame Chalas qu’il est possible de discuter du principe de son amendement, mais que l’engagement du Président de la République et de la majorité est limité à l’introduction d’un jour de carence.
-Nous en avons informé les organisations syndicales sans négociation et le peuple a tranché, si j’ose dire.
 La parole est à Madame Émilie Chalas.
 Dans ces conditions, je retire mon amendement.
-La parole est à Madame Émilie Chalas, pour soutenir l’amendement numéro mille six cent trente-deux.
-Il vise à exonérer les fonctionnaires enceintes du jour de carence dès lors qu’elles ne sont ni en congé maternité ni en congé pathologique prénatal, ces situations entraînant déjà une prise en charge.
-Bien que le statut des fonctionnaires garantisse à ses agents une égalité de traitement tout au long de leur carrière, des discriminations entre hommes et femmes existent et persistent dans la fonction publique.
-Bien que ce sujet ait fait l’objet de plusieurs protocoles au cours des dernières années, je tiens à insister sur le fait que ces discriminations sont systémiques.
-En termes de salaire, elles représentent un écart évalué à plus de quinze pourcent dans la fonction publique d’État.
-Il s’agit ici de pointer du doigt une ineptie qui n’a sa place ni au vingt et unieme siècle, ni dans la fonction publique, ni d’ailleurs dans notre société en général.
 La maternité ne doit plus être une source d’inégalités persistantes.
-En donnant la vie, les femmes offrent une famille aux pères et un avenir à la société.
-Eh oui ! Elles ne doivent plus subir, pour cette seule raison, un ralentissement de carrière et un amoindrissement de revenu à travail égal.
 Cette situation devient insupportable.
-Il s’agit d’un vrai sujet, dépassant le cadre de la seule fonction publique : celui de la protection de ceux, en l’occurrence celles qui sont discriminées.
-On peut en effet estimer que les femmes en état de grossesse sont dans une situation spécifique nécessitant un traitement particulier et différencié au caractère protecteur renforcé.
-Pour l’heure, votre amendement n’a pas recueilli l’avis favorable de la commission, chère collègue.
 Cela étant, le sujet que vous évoquez est majeur.
 Il importe donc que le Gouvernement réponde.
 Oh ! Quel est l’avis du Gouvernement ? Madame Chalas soulève une question intéressante.
-Importante, surtout ! Tout en rapprochant, d’une part, les régimes des secteurs public et privé, et, d’autre part, la situation des femmes et des hommes, nous devons aussi dialoguer avec les organisations syndicales.
-J’ai rapidement évoqué ce sujet avec elles lors du dernier Conseil commun de la fonction publique.
-En matière de jour de carence, elles avaient manifestement – je ne puis parler en leur nom – un avis défavorable à une telle mesure, en raison même du principe d’égalité entre les femmes et les hommes.
-Je vous propose, madame Chalas, que nous inscrivions l’égalité entre les femmes et les hommes à l’ordre du jour d’un débat spécifique.
-Je vous propose, madame la députée, que vous retiriez votre amendement, celles-ci bénéficiant déjà du congé maternité – même si j’ai bien compris que votre amendement traite bien du jour de carence.
-Nous pourrons alors – et vous pourrez être associée à ces travaux – dialoguer avec les organisations syndicales, auxquelles il incombe, me semble-t-il, de formuler des propositions sur ce point.
 Je ne voudrais pas être contre-intuitif par rapport à leur volonté générale.
-Il ne faut pas créer un régime d’exception, car beaucoup d’autres risqueraient alors de suivre.
-Ce ne serait pas un régime d’exception ! Je m’étonne d’entendre contester, du côté gauche de l’hémicycle, le fait que l’on demande leur avis aux organisations syndicales.
-Nous savons parfaitement ce que pensent les syndicats ! S’il vous plaît ! Je n’oppose pas une fin de non-recevoir à cette proposition mais je souhaite qu’elle soit soumise à délibération.
 À défaut de retrait, je donnerais un avis défavorable.
 La parole est à Monsieur Jean-Paul Dufrègne.
 Je suis très heureux que vous demandiez leur avis aux organisations syndicales.
-Mais à quoi servons-nous si nous ne pouvons prendre aucune décision ? Jusqu’à preuve du contraire, ce sont bien les femmes qui portent les enfants, malgré toutes les mimiques du rapporteur général.
-(Sourires.) Notre groupe est en plein accord avec cet amendement et, si celui-ci n’est pas retiré, il demandera un scrutin public.
 La parole est à Monsieur Stéphane Peu.
 Le parallèle me semble tout à fait hasardeux.
-Connaissez-vous ce truc que l’on appelle le peuple, monsieur le député ? Vous savez bien que le Président de la République et la majorité parlementaire ont été élus avec, dans leur programme, le rétablissement du jour de carence.
-C’est ce que nous avons fait valoir auprès des organisations syndicales, et j’ai bien compris que, dans leur grande majorité, elles étaient défavorables à cette mesure, mais il faut appliquer le contrat passé avec le peuple.
-Je n’ai pas dit non plus qu’il fallait toujours attendre que toutes les organisations syndicales soient d’accord avec toutes les propositions.
 Vous êtes souverains pour voter les amendements de votre choix.
-J’entends toutefois sa proposition, mais je vous dis qu’il en existe sans doute d’autres et qu’il convient de mettre en avant le dialogue social.
-À moins qu’elle ne soit précédée d’une concertation, je suis opposé à cet amendement.
 La parole est à Madame Émilie Chalas.
 Je retire mon amendement.
-S’il doit être repris par la gauche, mes collègues comprendront que je m’abstiendrai lors du vote.
-Nous le reprenons ! Sur l’amendement numéro mille six cent trente-deux, je suis saisi par le groupe de la Gauche démocrate et républicaine d’une demande de scrutin public.
 Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.
 La parole est à Madame Amélie de Montchalin.
-Le groupe REM n’a évidemment rien contre les femmes enceintes – je le dis pour avoir vécu toutes les sortes de grossesses, gémellaire et simple, ayant été enceinte à deux reprises, d’abord d’une fille, ensuite de deux garçons.
-Félicitations ! J’estime essentiel de rappeler notre méthode, qui est de travailler de façon précise et professionnelle.
-Cet amendement ne concerne pas les femmes couvertes pour une pathologie liée à leur grossesse ou qui se trouvent en congé maternité.
-En poussant le raisonnement, ce sujet pourrait donc concerner toutes les personnes souffrant d’une affection longue durée ou d’une maladie chronique, et qui bénéficient à ce titre d’une couverture maladie à cent pourcent.
 Si l’on y réfléchit bien, le sujet dépasse donc le cas des femmes enceintes.
-Comme le ministre, nous considérons qu’il est essentiel que cela passe par la concertation avec les organisations syndicales, sans quoi il ne servirait à rien d’ouvrir un débat avec elles sur les conditions de travail et la couverture maladie.
-Nous ne voterons pas pour cet amendement, car le sujet doit être étudié de manière sérieuse et dans le détail.
-Il s’agit aussi d’éviter de créer une inégalité entre les femmes enceintes et les personnes qui souffrent d’une affection de longue durée ou d’une pathologie couverte à cent pourcent, pour lesquelles une journée de carence s’appliquera.
 La parole est à Madame Cendra Motin.
-Je précise que les personnes atteintes d’une affection de longue durée ou d’une maladie grave ne seront pas concernées par le rétablissement du jour de carence.
 Je souligne aussi qu’une telle mesure pourrait avoir un effet de bord.
-Bien que découlant d’un bon sentiment, elle risquerait d’obliger les femmes enceintes à déclarer leur grossesse plus tôt.
-Or le défenseur des droits est régulièrement saisi par des employées de la fonction publique hospitalière, enceintes, qui se plaignent de la reconduction automatique de leur note chiffrée et soutiennent qu’elles sont de ce fait pénalisées dans leur avancement.
 Je mets aux voix l’amendement numéro mille six cent trente-deux.
-La parole est à Monsieur le rapporteur général, pour soutenir l’amendement numéro mille sept cent soixante-six.
 Cet amendement y pourvoit.
-La parole est à Monsieur le ministre, pour soutenir l’amendement numéro mille huit cent soixante-treize, portant article additionnel après l’article quarante-huit.
 Il est défendu.
-Nous abordons maintenant l’examen des articles de récapitulation, tels qu’ils résultent des votes intervenus en seconde partie du projet de loi de finances pour deux mille dix-huit.
-Les articles vingt-neuf à trente-deux ne faisant l’objet d’aucun amendement, je vais les mettre aux voix successivement.
-La parole est à Monsieur le ministre, pour soutenir l’amendement numéro mille trois cent soixante-seize.
 Quel est l’avis de la commission ? Favorable.
 La parole est à Madame Valérie Rabault.
-Cet amendement vise à abaisser le plafond d’emplois de l’ACPR, l’Autorité de contrôle prudentiel et de résolution.
-Je n’y suis pas favorable car vous semblez considérer, au moment où nous renforçons les ratios prudentiels des banques, que l’on peut surveiller davantage avec moins de moyens.
-Je ne suis pas opposée à l’augmentation de la productivité mais je pense qu’en matière de régulation, nous devons mettre les moyens en face des objectifs.
-Il arrivera ce qui arrivera si l’on se borne à se donner bonne conscience en se contentant d’afficher une volonté de contrôle.
 La parole est à Monsieur Jean-Paul Dufrègne.
 Cet amendement est effectivement surprenant eu égard aux missions dévolues à l’ACPR.
 Cette autorité a pour mission la suspension et le contrôle prudentiel de grands acteurs financiers.
-Je ne doute pas que vous ayez largement consulté les organisations syndicales et qu’elles soient d’accord avec vos propositions, monsieur le ministre… Il paraît inopportun d’abaisser le plafond d’emplois lorsque l’on connaît l’ampleur des missions à accomplir.
-Rappelons qu’à la Banque de France, à laquelle est adossée l’ACPR, la semaine sociale a été chaude, marquée par un mouvement social d’ampleur, avec une mobilisation intersyndicale.
-C’est bien un plan social qui est prévu d’ici deux mille vingt, puisque les effectifs passeront de douze mille à neuf mille huit cents personnes.
-La parole est à Monsieur le ministre, pour soutenir l’amendement numéro mille trois cent soixante-quinze.
-La parole est à Monsieur le ministre, pour soutenir l’amendement numéro mille neuf cent trente et un.
 Il est défendu.
 Mes chers collègues, nous avons achevé l’examen des articles de récapitulation.
-Par ailleurs, la commission demande qu’il soit procédé à une seconde délibération de l’article quarante et un bis.
-Sur l’article vingt-neuf et l’état B, je suis saisi d’une série d’amendements, numéros un à vingt-sept, pouvant faire l’objet d’une présentation groupée.
 La parole est à Monsieur le ministre, pour les soutenir.
-À l’issue de l’examen de la deuxième partie du projet de loi de finances pour deux mille dix-huit, le Gouvernement demande en effet qu’il soit procédé à une seconde délibération sur un certain nombre d’articles.
-D’abord, il est nécessaire de répartir entre les différentes missions les mesures salariales transversales qui, au stade du projet de loi de finances, ont été présentées au sein de la mission « Crédits non répartis ».
-Parmi ces mesures figure la compensation de la hausse de la CSG pour les agents publics.
-En adoptant ces amendements, vous garantirez le pouvoir d’achat des fonctionnaires l’an prochain, nous en avons parlé.
-Au-delà de ces nécessaires ajustements, nous devons assurer que toutes les dépenses nouvelles sont couvertes par des économies d’un même montant, un impératif pour le Gouvernement, qui souhaite réduire les dépenses pour baisser les impôts et réduire la dette.
-Il est normal que vos amendements conduisent à adopter le projet de budget en majorant certaines dépenses prioritaires pour la représentation nationale, mais cela ne peut se faire au prix de notre cible de dépenses, qui doit être strictement respectée.
-Une série d’amendements d’initiative gouvernementale ou parlementaire ont donc permis d’améliorer le projet de loi de finances qui vous avait été soumis.
-L’amendement numéro quatre cent vingt-trois a conduit à créer un programme « Jeux olympiques et paralympiques deux mille vingt-quatre » dans la mission « Sport, jeunesse et vie associative », doté de quarante-huit millions d’euros en crédits de paiement.
-L’amendement numéro mille trente-quatre a lancé une expérimentation intitulée emplois francs à hauteur de onze virgule sept millions.
-L’amendement numéro six cent quatre-vingt-quinze a majoré de un virgule cinq million la subvention pour charge de service public de l’opérateur Atout France.
-L’amendement numéro mille cent soixante-dix-huit a minoré de sept millions les crédits de la mission « Économie ».
-Le Gouvernement est satisfait des échanges qu’il a pu nouer avec le Parlement, même s’ils ont conduit à augmenter les dépenses de cent millions d’euros.
-Aucune action ne saurait être exonérée d’efforts, en dehors de la défense et de l’aide publique au développement, qui font l’objet d’engagements du Président de la République.
-Enfin, par coordination, la seconde délibération tire les conséquences de l’ensemble de ces votes sur l’article d’équilibre, en procédant aux ajustements techniques qui en résultent.
-Quel est l’avis de la commission sur ces amendements ? Le PLF prévoyait un déficit budgétaire de l’État de quatre-vingt-deux virgule neuf milliards d’euros.
-À l’issue de la discussion budgétaire sur la première partie, le solde budgétaire a été dégradé de deux cents millions d’euros, passant de quatre-vingt-deux virgule neuf milliards à quatre-vingt-trois virgule un milliards d’euros.
-S’agissant des recettes, cette dégradation de deux cents millions est la conséquence de divers amendements adoptés en première partie.
-Nous avons examiné tous ces éléments en première partie et je n’y reviendrai pas car votre amendement ne concerne pas le volet des recettes du projet de loi de finances.
-Il s’agit désormais de tenir compte des votes intervenus, comme vous l’avez précisé, dans la seconde partie relative aux dépenses, à hauteur de moins sept millions d’euros.
-Votre amendement maintient le plafond des dépenses nettes à trois cent vingt-cinq virgule sept milliards d’euros.
-Autrement dit, vous avez choisi de financer par des économies complémentaires les différents crédits votés, qui font l’objet des amendements numéros un à vingt-neuf.
-Compte tenu de cette modification très légère du niveau de dépenses, le déficit budgétaire de l’État est maintenu à quatre-vingt-trois virgule un milliards d’euros, comme en première partie.
 L’avis sera donc favorable sur l’ensemble des amendements.
 La parole est à Madame Valérie Rabault.
-Cela a été précisé dans mon exposé, mais il est vrai que je l’ai lu rapidement.
-L’économie concernera l’intégralité des postes de dépenses, à l’exception de la défense et de l’aide publique au développement, et s’élèvera à cent six millions d’euros.
 La parole est à Monsieur le président de la commission des finances.
-Si j’ai bien compris, ces cent six millions de dépenses supplémentaires seraient gagés sur le protocole PPCR ? Non : sur tous les postes de dépenses, sauf la défense et l’aide publique au développement.
-C’est sur la réserve des ministères ! La parole est à Monsieur le ministre, pour soutenir l’amendement numéro vingt-huit à l’article trente et l’état C.
-La parole est à Monsieur le ministre, pour soutenir l’amendement numéro trente à l’article trente et un et l’état D.
-La parole est à Monsieur le ministre, pour soutenir l’amendement numéro vingt-neuf à l’article trente et un et l’état D.
 Nous en arrivons à la seconde délibération sur l’article quarante et un bis.
 La parole est à Madame Véronique Louwagie, pour un rappel au règlement.
 Ce procédé est indigne du Gouvernement et de notre assemblée.
-Cette manœuvre politicienne et cynique est d’autant plus regrettable (Exclamations sur les bancs du groupe REM)… Elle a raison ! …que nos concitoyens ont espéré, en juin dernier, en renouvelant cette assemblée, ne plus vouloir voir à l’œuvre de tels agissements.
-Sur le fond, s’agit-il d’un cavalier budgétaire, méritant d’être traité dans le cadre des articles non rattachés ? Si vous vous exprimez sur le fond, ce n’est pas un rappel au règlement et je vous inscris pour intervenir sur l’article.
 Je termine mon rappel au règlement.
 Dans ce cas, je ne vous inscrirai pas sur l’article.
 J’interviens sur la forme, comme vous pourrez le constater.
-(Mêmes mouvement.) Je réitère ma demande, au nom du groupe Les Républicains, de pouvoir entendre s’expliquer le ministre d’État, Gérard Collomb, en charge de la mission « Relation avec les collectivités territoriales ».
-En quoi s’agit-il d’un rappel au règlement ? J’ai formulé cette demande vendredi dernier, sachant qu’il y aurait une seconde délibération, pour ne pas surprendre le Gouvernement à la dernière minute sur cette question essentielle.
 La parole est à Monsieur Gilles Carrez.
-L’amendement Collomb a vraiment la vie dure ! De quoi s’agit-il ? D’accorder une exception à la seule métropole lyonnaise.
-En deux mille seize, vous le savez, a été voté le transfert de vingt-cinq pourcent d’un quart de la CVAE – cotisation sur la valeur ajoutée des entreprises – des départements vers les régions.
-L’an dernier, nous avons découvert, trop tard, un amendement du Gouvernement qui créait une exception et maintenait ces vingt-cinq pourcent pour la seule métropole de Lyon.
-Nous avons donc adopté un amendement, en commission des finances, l’an dernier, à l’occasion de la nouvelle lecture du projet de loi de finances pour deux mille dix-sept.
 Cet amendement est venu en séance.
-J’ai sous les yeux le compte rendu de la deuxième séance du vendredi seize décembre deux mille seize.
 Contre l’avis du Gouvernement ! Un débat a eu lieu.
-La secrétaire d’État chargée des collectivités territoriales, assise aux côtés du secrétaire d’État chargé du budget et des comptes publics, Monsieur Eckert, s’est opposée à cet amendement, en indiquant que Lyon était « une collectivité à statut particulier ».
 Je vous remercie, monsieur Carrez.
-Mais le Gouvernement a été battu ! Quand des problèmes d’équité se sont posés, la précédente majorité s’est honorée à plusieurs reprises à ne pas suivre le Gouvernement.
-Je vous demande d’en faire autant ce soir ! (Applaudissements sur les bancs du groupe LR.) Cette majorité était courageuse ! La parole est à Monsieur Patrick Hetzel.
-Dans le nouveau monde, on nous promettait que prendraient fin le clientélisme, les manœuvres politiciennes, les petits arrangements entre amis.
-Or l’article quarante et un bis est un concentré de clientélisme, de manœuvres politiciennes et de petits arrangements entre amis.
 De surcroît, vous soustrayez à la région Auvergne Rhône-Alpes un certain nombre de financements.
 Le président de la région s’est exprimé à ce sujet.
-(Exclamations sur les bancs du groupe REM.) Elle est là, la manœuvre ! Il les estime à plusieurs millions d’euros.
 Nous avons très bien compris votre manœuvre : une déclaration de guerre contre une région.
 Surtout, vous bafouez l’égalité entre les régions et entre les collectivités.
 Cette rupture d’égalité enfreint la Constitution.
 Nous ne nous priverons pas de déposer un recours.
-(Applaudissements sur les bancs du groupe LR.) Très bien ! Sur l’article quarante et un bis, je suis saisi par les groupes Nouvelle Gauche et Gauche démocrate et républicaine d’une demande de scrutin public.
 Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.
 La parole est à Madame Valérie Rabault.
 J’ai entendu beaucoup de choses, depuis quelques jours, sur cet article.
-Je remercie le président Gilles Carrez, Christine Pires Beaune et Patrick Hetzel d’avoir rappelé les faits.
-Cet amendement avait déjà été déposé l’an dernier, en dernière minute, comme cela vient de se produire, par les quatre députés lyonnais, qui, j’imagine, ont pris leurs instructions auprès du ministre de l’intérieur, ancien maire de Lyon.
-(Applaudissements sur les bancs du groupe LR.) C’est ça le nouveau monde ? Il est arrivé en dernière minute.
-C’est la même rédaction que l’an dernier – ne vous fatiguez pas à le lire, c’est un copier-coller, ce qui va plus vite à rédiger.
-Mais la majorité a changé ! Arrivé au dernier moment, il avait donné lieu à un avis de sagesse en commission, mais nous nous sommes montrés plus attentifs en nouvelle lecture.
 Et qu’avons-nous découvert ? Qu’en France, Lyon a un statut particulier.
-Je veux bien qu’il s’agisse de la ville des Lumières, mais cela ne l’autorise pas à disposer de sa propre loi.
-La loi de la République s’applique de la même façon à tout le monde ! Certains diront que cette exception concerne les transports.
-(Exclamations sur les bancs du groupe REM.) Comme l’a rappelé le président Carrez, l’an dernier, la majorité à laquelle j’appartenais a eu le courage de voter contre le Gouvernement, qui voulait faire créer, en catimini, une rupture d’égalité.
-…et qu’il n’y ait pas de petits arrangements avec la ville de Lyon, que nous aimons beaucoup, ainsi que ses Lumières.
-(Applaudissements sur les bancs des groupes NG, LR et GDR.) La parole est à Madame Christine Pires Beaune.
-Je me suis aussi inscrite dans ce débat car j’ai eu la surprise qu’un journaliste m’appelle et me dise que j’avais donné un avis favorable à cet amendement l’an dernier.
-Il suffit de regarder la vidéo pour voir que c’est faux ; je tiens à le préciser ici.
-Je remarque d’ailleurs que l’amendement n’avait pas été présenté dans le cadre de l’examen des articles non rattachés mais dans celui des crédits de la mission « Relations avec les collectivités territoriales ».
-Oui ! C’est important ! Je n’avais pas pu donner d’avis en commission, puisque cet amendement, en première lecture, n’avait été présenté qu’en séance, au dernier moment.
 Autant vous dire qu’avec une explication tellement sibylline, je ne pouvais pas me prononcer.
-C’est pourquoi j’avais donné un avis de sagesse, après quoi l’Assemblée avait adopté l’amendement.
-Entre la première et la nouvelle lectures, nous avons effectivement eu le temps de nous pencher sur cette mesure.
 Exactement ! Monsieur Carrez a alors déposé un amendement visant à la supprimer.
-Il a été voté en commission des finances et, à nouveau, en séance, contre l’avis du Gouvernement, tout simplement parce qu’il s’agissait d’une mesure dérogatoire et clientéliste, qui comportait, de plus, un argument totalement faux, fondé sur les transports.
-Je vous rappellerai seulement, parce que Monsieur Carrez n’en a pas fait état, que le même problème s’était posé avec l’Île-de-France.
-Plusieurs de collègues, de droite et de gauche, avaient déposé des amendements pour expliquer que la situation de la collectivité de Paris, commune et département, étant particulière, il convenait de lui attribuer le produit de la CVAE.
-Là aussi, nous nous sommes honorés à refuser ces amendements, afin que la région conserve la CVAE.
-C’est vrai ! Dans les deux cas, nous avons eu une position cohérente et non clientéliste.
-(Applaudissements sur les bancs des groupes NG, LR et GDR.) Très bien ! La parole est à Monsieur Thomas Rudigoz.
 Je voudrais dire quelques mots, après les excès des propos qu’ont tenus nos collègues.
-Eh oui ! Madame Louwagie, monsieur Carrez, vous aviez certainement voté en faveur de la loi MAPTAM – loi de modernisation de l’action publique territoriale et d’affirmation des métropoles –, donc de cette collectivité d’exception.
-D’autres exceptions ont été accordées à Lyon, par exemple celle de garder la compétence en matière de développement économique : la métropole de Lyon est le seul département de France à détenir cette compétence.
 Elle présente donc certaines particularités.
-Mais il y a un statut ! Le produit de la CVAE a été affecté aux régions avant tout pour financer les coûts des transports – transport non urbain ou transport scolaire.
-Mais non ! C’est faux ! Si, madame Rabault : les vingt-cinq points de CVAE pour les régions correspondent aux transports.
-(Exclamations sur les bancs du groupe LR.) Il y a le même problème à Paris ! Seul Monsieur Rudigoz a la parole ! La métropole de Lyon a gardé la compétence pleine et entière en matière de transports scolaire et collectif.
-C’est pourquoi la région Auvergne-Rhône-Alpes reverse la quasi-totalité du produit de cette taxe à la métropole de Lyon, sauf le montant lié au dynamisme fiscal.
-Mais non, on a regardé ! Monsieur Carrez, je crois que vous connaissez très mal notre territoire.
-Madame Louwagie, je vous regarde droit dans les yeux, puisque vous nous avez appelés la dernière fois à nous regarder dans la glace.
-La réalité est tout autre que celle qui a été décrite, puisqu’en vérité il ne s’agit pas d’accorder une exception inégalitaire mais de corriger une inégalité persistante.
-Comme vient de l’exprimer excellemment notre collègue Rudigoz, Lyon bénéficiant des compétences d’un département, ses relations avec la région doivent obéir à un certain nombre de règles.
-C’est faux ! Voici ce qui est moderne : prendre en compte les singularités territoriales pour faire en sorte que les services rendus à la population soient financés par des dotations budgétaires transférées et accordées de manière équilibrée.
-Ben voilà ! Oui, il est moderne d’adapter les règles à la singularité des territoires et aux décisions précédentes.
-C’est pourquoi nous voterons évidemment cet article juste, de bon sens et très moderne ! (Applaudissements sur les bancs du groupe REM.) Non, mais vraiment ! La parole est à Monsieur Hervé Saulignac.
-Je viens d’entendre qu’on était moderne quand on était capable de s’adapter à la singularité des territoires.
-De tous les territoires ? Chiche ! Je suis élu d’un département, l’Ardèche, dans lequel ne passe ni transport ferré de voyageurs ni autoroute.
-Eh oui ! Vous êtes en train de créer un régime de faveur, un régime d’exception, que vous aurez à expliquer pendant cinq ans, à chaque fois que d’autres territoires, comme mon département et bien d’autres, réclameront eux aussi un régime de faveur.
-(Applaudissements sur les bancs des groupes NG, LR et GDR.) Eh oui ! Exactement ! La parole est à Monsieur le président de la commission des finances.
-J’ai demandé cette seconde délibération… Et vous avez bien fait ! …parce qu’il fallait que ce débat ait lieu.
-Cet amendement a été présenté extrêmement rapidement, et je regrette que le ministre de la cohésion des territoires, en charge des collectivités locales, ne soit pas présent.
-Vous êtes en train de tenter de créer un régime de privilèges pour la métropole lyonnaise.
-(Exclamations sur les bancs du groupe REM.) Pour toutes celles et tous ceux qui n’habitent pas Lyon, c’est difficilement compréhensible ! Je n’habite pas Lyon, et pourtant je comprends très bien ! Vous changez les règles.
-Que se passe-t-il pour les autres métropoles, pour les autres départements ? Et Paris ? Et l’Île-de-France ? Vous dites que Lyon est à la fois une métropole et un département.
-Mais comment se passent les choses dans les départements ? Il y a eu ce débat dans les Hauts-de-France, entre la région Picardie et le département de l’Oise.
 Il a été tranché simplement, par la loi.
-J’aime aussi beaucoup Lyon – la question n’est pas là –, mais je vois mal pourquoi on devrait être injuste envers l’ensemble de la France pour créer un régime d’exception ou de privilèges pour la métropole lyonnaise.
-Ces petits arrangements sont scandaleux ! C’est le Parlement qui décide ! C’est là où le bât blesse.
-Dans ce type de débat, pour éclairer l’Assemblée nationale, il faut que le ministre chargé du sujet soit présent.
-Que Monsieur Collomb vienne s’expliquer, bien qu’il soit à la fois juge et partie.
 S’il ne veut pas venir, la ministre placée auprès de lui peut le remplacer.
-Il me semblerait naturel que le Gouvernement ait au moins la volonté d’expliquer les choses.
-Je regrette en outre que cet amendement n’ait pas été présenté, s’il devait l’être, lors de l’examen des crédits de la mission « Relations avec les collectivités territoriales », qui s’est déroulé la veille du débat controversé.
 Cela aurait été plus juste, plus normal, dans le cadre d’un débat apaisé.
 C’est vrai ! La parole est à Madame Véronique Louwagie.
-Comme vient de le rappeler Éric Woerth, je regrette tout d’abord de n’avoir pas reçu de réponse à la demande du groupe Les Républicains sur la présence de Monsieur Collomb.
-Ce nouvel article est insupportable car il crée une inégalité forte, une rupture d’égalité, au sein de la région Auvergne-Rhône-Alpes elle-même, au bénéfice de la métropole.
 Et cela se fait au détriment des habitants de la région, hors métropole.
-Cela contrevient à tous les principes qui doivent nous guider dans cette assemblée, principes que vous voyez représentés ici, avec le symbole de la justice.
-Exactement ! Comme cela a été dit, un tel dispositif n’est pas proposé pour la région parisienne.
-Vous le voyez d’ailleurs dans la rédaction de l’article, qui commence par les mots : « Par exception ».
-Par exception ! Vous reconnaissez donc vous-même, dans l’amendement qui s’est transformé en article, qu’il s’agit d’une exception.
-Derrière, j’y vois un conflit d’intérêts politique majeur entre une collectivité – la métropole – et l’État.
-Ce conflit n’est pas digne de la manière dont nous devons légiférer pour notre pays.
-Chers collègues, au nom de l’égalité, pour nos concitoyens, votez pour la suppression de cet amendement, devenu l’article quarante et un bis ! Si ! Parce que nous sommes pour l’égalité ! La parole est à Madame Marie-Noëlle Battistel.
-En tant qu’élue du département de l’Isère, j’appartiens à la région Auvergne-Rhône-Alpes, dont il est question maintenant, et je tiens à ce que les intérêts de tous les habitants d’Auvergne-Rhône-Alpes soient préservés.
-Évidemment ! Cet article n’a aucun fondement puisqu’il s’appuie sur le dynamisme de la dotation de compensation transférée.
-Très bien ! Dans tous les transferts de taxes, dans toutes les dotations de compensation, quelles que soient les collectivités concernées, d’une commune à une intercommunalité, par exemple, la part dynamique n’est jamais prise en compte : la seule référence est l’année n.
 Nous avons aussi une métropole grenobloise.
-Pourquoi ne pourrait-elle pas aussi obtenir des compensations ? La particularité de la métropole lyonnaise n’est pas avérée.
 Les compensations se feront au détriment de l’ensemble des habitants de la région Auvergne-Rhône-Alpes.
-(Applaudissements sur les bancs du groupe NG.) Ce n’est que le fait du prince ! La parole est à Monsieur Jean-Paul Dufrègne.
 Cet article pose un véritable problème de fond.
 J’ai souvent travaillé sur la question des territoires ruraux et des métropoles.
-Dans ce cas-là, c’est mal parti, car on voit que la métropole capte cet avantage… Et qu’elle veut capter les ressources, en plus ! …et surtout, qu’elle ne le redistribue pas, mais faut voter un régime de faveur pour le garder.
-Il y a donc un débat à ouvrir, une question de fond à traiter pour bien mettre en relief le rôle des métropoles dans l’aménagement de l’ensemble de notre territoire.
 La parole est à Monsieur Yves Blein.
 Et alors ? Paris aussi ! Cela induit une particularité.
-Certes, la loi est uniforme, mais la métropole de Lyon est le seul exemple de collectivité, en France, à avoir ce statut particulier.
 Cela a effectivement des conséquences, notamment sur les questions de compétences ou les questions fiscales.
 Nous nous trouvons ici au cœur du sujet.
-Nous sommes d’ailleurs nombreux – comme Madame Battistel à propos de Grenoble – à espérer des évolutions législatives qui permettront à d’autres métropoles de se constituer sur ce modèle.
-Mais, pour cela, il nous faut continuer d’avancer en procédant aux adaptations nécessaires, y compris fiscales.
 (Applaudissements sur les bancs du groupe REM.) La parole est à Madame Émilie Chalas.
-Je veux réagir aux propos de ma collègue sur la métropole de Grenoble, que je représente comme députée.
-Non, vous représentez la nation ! Premièrement, la métropole de Grenoble n’a rien demandé de tel.
 Deuxièmement, il ne s’agit pas du tout des mêmes profils de compétences.
 Son intervention était donc totalement hors de propos.
-(Applaudissements sur quelques bancs du groupe REM.) Ça tourne au cahier de doléances ! La parole est à Madame Marie-Christine Dalloz.
 Parfait ! Paris n’est pas dans le même cas ? Il me semble bien que si.
-Oui ! Évidemment ! Je voudrais vous rappeler, mes chers collègues, que les transferts de compétence prévus par la loi NOTRe, portant nouvelle organisation territoriale de la République, s’accompagnent systématiquement d’un transfert de moyens financiers.
-En l’occurrence, la loi NOTRe n’a transféré aucune compétence spécifique, à part celle du développement économique – dont j’ai bien entendu qu’elle relevait elle aussi d’un régime particulier –, à cet OVNI, créé sous une autre majorité, qu’est Lyon.
-Et pourtant, vous lui transférez des moyens, au détriment de la collectivité territoriale régionale, qui, elle, a les compétences mais plus les moyens.
 Vous pourrez vérifier.
-(Exclamations.) Vous battez tous les records : Lyon, sans compétences, mais avec des moyens ! Je le répète : c’est extraordinaire ; du jamais vu ! Très bien ! La parole est à Madame Cécile Untermaier.
-On est en train d’octroyer un privilège à Lyon pour des motifs qui, aux yeux de La République en marche, sont fondés.
 En dernière instance, il y aura un juge de paix : le Conseil constitutionnel.
 On verra alors ce qu’il en est de l’égalité.
-(Applaudissements sur les bancs des groupes NG et LR.) Mais c’est immoral ! La parole est à Monsieur le ministre.
 Je m’excuse d’abord de ne pas vous suffire.
 Un amendement du Gouvernement visait effectivement à supprimer une iniquité.
-Il me semble que le Gouvernement avait déposé cet amendement en novembre, et que Gérard Collomb avait choisi de soutenir l’actuel Président de la République, alors candidat, en opposition au gouvernement, dès le mois de mai.
-Je ne pense donc pas que c’était alors une mesure clientéliste ; cet argument me paraît peu fondé.
-D’autant que, si les uns peuvent soutenir Gérard Collomb, les autres pourraient défendre Laurent Wauquiez.
 Ce n’est pas si grave.
-Très bien ! Ce n’est pas le problème ! Ce n’est pas la question ! Bravo pour la tambouille, monsieur le ministre ! Les arguments visant les personnes ne me semblent donc guère fondés.
 Vous nous avez habitués à mieux, monsieur le ministre.
-Ce qui est l’est davantage, c’est la singularité incontestable de la métropole de Lyon, dont nul ne peut ignorer qu’elle se confond avec le département, ce qui constitue une novation.
-(Applaudissements sur les bancs du groupe REM.) Exactement ! Et alors ? Je comprends bien qu’il s’agit d’avancer des arguments pouvant étayer une censure du Conseil constitutionnel.
-C’est précisément pour répondre à ces arguments que je me permets de prendre la parole à cette heure assez tardive, où tout le monde a envie d’aller se restaurer.
 En réalité, il n’y a pas là d’iniquité.
-Bien sûr que non ! Soyons objectifs, il s’agit d’une métropole qui se confond avec un département : pour employer une expression de juriste, c’est vraiment une situation sui generis, qui échappe au droit commun ! Elle est la seule dans ce cas.
-D’ailleurs, chaque fois que nous présentons et que vous votez une disposition, nous prévoyons une exception pour la métropole lyonnaise.
 On a vu ça, oui ! Pour ces raisons, vos arguments ne tiennent pas la route.
-Ils valent sans doute le coup politiquement, pour chacune et chacun d’entre vous ; mais ils ne sont pas valables du point de vue constitutionnel.
-C’est une question de justice ! Voilà pourquoi le Gouvernement maintient sa position et souhaite que, au terme de la seconde délibération, l’article reste en l’état.
-(Applaudissements sur plusieurs bancs du groupe REM.) Très bien ! Je mets aux voix l’article quarante et un bis.
-Soyez courageux, ou vous serez déjugés par le Conseil constitutionnel ! La parole est à Monsieur le ministre, pour soutenir l’amendement numéro trente-deux à l’article quarante-cinq quater.
-Cet amendement n’est pas sans conséquences, puisque – tout le monde le sait peut-être, mais moi, je ne le savais pas – il ramène de un virgule cinq à un virgule trois le coefficient multiplicateur de la taxe sur les surfaces commerciales, la TaSCom.
-En millions d’euros, combien cela représente-t-il, monsieur le ministre ? (Exclamations.) La parole est à Monsieur le ministre.
-L’amendement numéro trente-deux ne faisant qu’ouvrir une possibilité en seconde délibération, il ne présente pas de montant.
 Il fait écho à une discussion que vous avez déjà eue dans cet hémicycle.
-La parole est à Monsieur Bruno Millienne, pour une autre explication de vote sur cet amendement.
 Nous sommes favorables à cet amendement.
 Je remercie le Gouvernement d’avoir négocié cette baisse avec nous.
-Cela nous laisse deux ans pour étudier l’opportunité d’une diminution ou d’une augmentation.
-Nous verrons ensuite ce qu’il en est, sachant que les collectivités peuvent procéder à une augmentation du coefficient multiplicateur de zéro virgule zéro cinq point par an.
 Nous pourrons ainsi évaluer précisément l’efficacité de cette mesure en faisant du fine tuning.
 La parole est à Madame Valérie Rabault, pour un complément à son explication de vote.
-Je suis surprise d’entendre notre collègue du MODEM expliquer que cet amendement est le fruit d’une négociation avec le Gouvernement.
-Certes, cela arrive, mais j’ai cru comprendre, certaines rumeurs étant arrivées à mes oreilles, que le résultat de cette négociation était la contrepartie du vote de l’amendement relatif à la métropole de Lyon.
-(Protestations sur les bancs du groupe REM.) Vous ne pouvez pas dire ça ! C’est n’importe quoi ! C’est ce que l’on entend dire.
-C’est grave de dire des choses pareilles ! Il ne faut pas écouter les rumeurs ! Je vous invite à démentir cette rumeur, si vous le souhaitez.
-Mais cela pourrait expliquer que le ministre soit passé aussi vite sur cet amendement, qui a été mis aux voix avant même que nous sachions de quoi il s’agissait.
 La parole est à Monsieur le ministre.
 En toute chose, il faut savoir rester calme.
 Nous sommes calmes.
@@ -1337,8 +389,6 @@ Je l’entends bien.
 Je vous le confirme, madame Rabault ! Votre argumentation me paraît fallacieuse, madame Rabault.
 Je pensais que vous me teniez en plus haute estime.
 Très bien ! Je vous estime, oui.
-Pour d’autres membres du Gouvernement, c’est plus compliqué… La parole est à Monsieur le ministre, pour soutenir l’amendement numéro trente et un à l’article vingt-huit et l’état A.
 Quel est l’avis de la commission ? Favorable.
 La parole est à Monsieur Richard Ferrand.
-Au moment de voter ce dernier amendement, je tenais à souligner que notre mobilisation est bien à la mesure de notre motivation ! (Vifs applaudissements sur les bancs du groupe REM.) Nous avons achevé l’examen du projet de loi de finances pour deux mille dix-huit.
 La séance est levée.

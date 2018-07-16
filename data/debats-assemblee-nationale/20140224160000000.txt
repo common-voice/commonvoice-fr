@@ -1,1009 +1,284 @@
 La séance est ouverte.
-L’ordre du jour appelle la discussion, sur le rapport de la commission mixte paritaire, des dispositions restant en discussion du projet de loi relatif à la géolocalisation (numéro mille sept cent quatre-vingt-dix-huit).
 La parole est à Monsieur Sébastien Pietrasanta, rapporteur de la commission mixte paritaire.
-Je tiens tout d’abord à souligner l’état d’esprit très constructif dans lequel nous avons travaillé, le rapporteur de la commission des lois du Sénat, Monsieur Jean-Pierre Sueur, et moi-même.
-Les divergences entre les textes adoptés par les deux assemblées étaient certes en nombre très limité, mais significatives pour certaines d’entre elles.
-Je me réjouis donc que nous soyons parvenus à un accord sur tous les sujets en discussion.
-Je ne reviendrai pas sur le contenu du projet de loi à l’issue de sa première lecture par notre assemblée.
-La commission mixte paritaire a entendu ce message de confiance et l’a fait sien dans chacune des solutions de compromis qu’elle a retenues.
-J’en veux pour preuve, tout d’abord, le délai d’autorisation d’une opération de géolocalisation en temps réel par le procureur de la République.
-En effet, quatre-vingts pourcent des opérations de géolocalisation demandées par les services enquêteurs s’effectuent déjà dans la limite de quinze jours instituée par le présent projet.
-Convaincue par la véritable cohérence à prévoir, au plan opérationnel, un tel délai, la CMP a décidé, à une très large majorité, de le conserver.
-Concernant le contrôle de l’autorité judiciaire sur une opération de géolocalisation réalisée en urgence sur l’initiative de l’officier de police judiciaire, c’est encore la confiance que l’Assemblée nationale avait placée dans les services enquêteurs qui a prévalu.
-En effet, la CMP a maintenu à vingt-quatre heures – contre douze heures dans le texte du Sénat – le délai maximal au cours duquel l’autorisation écrite du magistrat doit intervenir en cas de pose d’une balise en urgence par un officier de police judiciaire.
-Deux divergences de portée plus significative entre l’Assemblée nationale et le Sénat ont également fait l’objet d’un accord.
-Il s’agit tout d’abord du seuil infractionnel permettant aux forces de l’ordre de recourir à la géolocalisation en temps réel.
-En première lecture, l’Assemblée nationale avait considéré que, sous le contrôle d’un magistrat, les forces de l’ordre sauraient mettre en œuvre avec discernement et responsabilité les mesures de géolocalisation.
-Forte de la confiance que nous leur portons, nous avions fait le choix de ramener à trois ans au moins, toutes infractions confondues, la durée minimale de prison encourue pour permettre le recours aux opérations de géolocalisation.
-Nous avions ainsi estimé que le seuil retenu par le Sénat n’était pas satisfaisant en ce qu’il reposait sur une définition trop restrictive du champ d’application de la géolocalisation, en excluant notamment le délit d’évasion.
-De plus, le dossier distinct, auquel il peut être recouru en matière de criminalité organisée, a également fait l’objet d’un accord.
-De fait, l’obligation de verser au dossier toutes ces circonstances aurait, dans certains cas, fait porter un risque grave sur ces personnes.
-C’est dans le même état d’esprit que la commission mixte paritaire a cherché à conforter le dispositif en précisant la définition des éléments que pourra contenir le dossier distinct et ce, afin de ne pas léser les droits de la défense.
-Mes chers collègues, vous l’aurez compris, notre assemblée est aujourd’hui saisie d’un projet de loi important et particulièrement attendu.
-Un dernier mot pour saluer le travail des services de l’Assemblée nationale, en particulier l’administrateur Alban Genais pour la qualité de sa contribution et pour sa disponibilité.
-Permettez-moi aussi de souligner l’esprit constructif et ouvert qui a régné sur l’ensemble des bancs de l’Assemblée nationale lors de l’examen de ce projet de loi, et de saluer la qualité du travail que nous avons mené avec la chancellerie.
 Très bien ! La parole est à Madame la garde des sceaux, ministre de la justice.
-Leur implication à tous a conduit à de beaux compromis, eu égard à quelques divergences et différences d’écriture que vous venez de rappeler, monsieur le rapporteur.
-Il est très attendu dans nos juridictions et par les services enquêteurs – police, gendarmerie, douanes et fonctionnaires fiscaux exerçant en tant qu’officiers de police judiciaire.
 C’est incontestablement un progrès pour les libertés individuelles.
-Je ne saurais trop vous exprimer la satisfaction du Gouvernement, étant donné que c’est la combinaison pour laquelle j’avais plaidée devant votre assemblée il y a quelques jours.
-Par ailleurs, vous avez à nouveau travaillé sur le délai durant lequel l’autorisation du parquet restera valable.
-Le texte du Gouvernement avait prévu quinze jours ; le Sénat l’avait réduit à huit jours ; vous étiez revenus à quinze jours, ce que la commission mixte paritaire a validé.
-Le Gouvernement avait retenu cette durée sur la base de celle d’une enquête de flagrance prolongée parce que c’est la condition d’efficacité et d’opérationnalité des services de police judiciaire.
-Je rappelle que le parquet appartient à l’autorité judiciaire et qu’à ce titre, il veille à préserver les libertés individuelles, même si c’est dans un champ moins large que les juges du siège.
 La CMP a choisi de le maintenir à vingt-quatre heures.
-Étant donné que le procureur est avisé immédiatement, un tel délai pour autoriser ou non la mesure de géolocalisation me paraît tout à fait acceptable.
-Il reste, vous en avez parlé, monsieur le rapporteur, le sujet sensible, délicat et complexe qu’est le dossier occulte.
-Nous savons qu’un tel dossier est souhaité par les forces de police judiciaire pour protéger les personnes qui apportent des informations à la justice, permettant ainsi d’élucider des affaires.
-Nous sommes tous soucieux de préserver l’intégrité physique de ces personnes et nous avons tous cherché à écrire le mieux possible la disposition qui vise à les protéger.
-Je rappelle que le Conseil d’État avait disjoint cette mesure du texte initial en demandant qu’elle soit davantage travaillée alors qu’elle était déjà très proche du dispositif existant pour le témoignage sous dix.
 Le dispositif maintenu par la commission mixte paritaire en est plus éloigné.
 Il est inédit.
-La difficulté qu’il soulève aujourd’hui encore, et que j’avais signalée lors de la lecture devant l’Assemblée, est qu’il contient une liste non définie de pièces susceptibles d’être introduites dans le dossier occulte.
-Cette liste n’étant pas définie, elle permettra d’inclure dans le dossier occulte des mesures telles que les poses de balises, les autorisations de pénétration dans un local d’habitation ou les prolongations d’autorisation de géolocalisation.
-Cette démarche de sécurisation étant justifiée, j’ai suggéré il y a quelques jours que le président de l’Assemblée nationale et le président du Sénat défèrent ces dispositions au Conseil constitutionnel, conformément à l’article soixante et un, alinéa deux, de la Constitution.
-Mais à ce stade et compte tenu du fait que la rédaction définitive du texte provient du Parlement, j’ai le sentiment que si le Gouvernement en prenait l’initiative ce serait, d’une certaine façon, une mauvaise manière.
 Il me semble donc souhaitable que les présidents des chambres du Parlement défèrent le texte.
-L’article soixante et un, alinéa deux, de la Constitution donne un mois au Conseil constitutionnel pour se prononcer, mais ce délai peut être ramené à huit jours en cas d’urgence.
-Puisque nous sommes dans le cadre d’une procédure accélérée, il serait logique que le Conseil constitutionnel puisse se prononcer sous huit jours.
-Compte tenu du rythme auquel nous avons étudié ce texte, nous restons dans des délais extrêmement raisonnables.
 La sécurisation juridique du texte me paraît mériter ces huit jours supplémentaires.
 Il sortira du Conseil constitutionnel un texte consolidé qui garantira la sécurité des procédures pénales.
-C’est ce que nous devons aux citoyens français et aux enquêteurs de la police, de la gendarmerie, des services douaniers et fiscaux.
-Dans un délai très contraint, parce que nous avions commencé à travailler en amont, nous nous retrouvons avec un texte de grande qualité, qui a été très sensiblement enrichi par le Sénat et l’Assemblée nationale.
 Nous aurons comblé un vide juridique dans un délai extraordinaire, absolument remarquable.
-Je veux vous remercier très chaleureusement pour la mobilisation des deux chambres qui a permis d’aboutir à ce travail de qualité.
-(Applaudissements sur les bancs du groupe SRC.) Très bien ! Dans la discussion générale, la parole est à Monsieur Meyer Habib.
-Madame la présidente, madame la garde des sceaux, mes chers collègues, nous abordons aujourd’hui, pour la seconde fois dans cet hémicycle, l’examen d’un projet de loi dont chacun reconnaît, dans les circonstances actuelles, l’utilité et la nécessité.
-En effet, quatre mois après la décision de la Cour de cassation rendue à la lumière des interprétations de la Cour européenne des droits de l’homme dans l’arrêt Uzun du deux septembre deux mille dix, l’intervention du législateur s’imposait.
-Le groupe UDI, à l’Assemblée nationale comme au Sénat, vous a d’ailleurs rapidement alertée sur la nécessité de légiférer en la matière.
-Notre collègue Jean-Christophe Lagarde, qui est intervenu sur ce texte en première lecture, avait notamment déposé une proposition de loi sur le sujet dès le mois de décembre.
-Le contenu des deux arrêts rendus par la Cour de cassation a été rappelé : le vingt-deux octobre dernier, la chambre criminelle de la Cour de cassation invalidait les opérations de géolocalisation en temps réel réalisées sous le contrôle du procureur de la République.
-Selon la Cour, une mesure de géolocalisation en temps réel d’un téléphone mobile peut être mise en place sur autorisation et sous le contrôle du juge d’instruction.
-En revanche, utilisée dans le cadre d’une enquête préliminaire diligentée sous le contrôle du procureur de la République, elle aurait constitué une ingérence dans la vie privée dont la gravité nécessite qu’elle soit exécutée sous le contrôle d’un juge du siège.
-Ce qui est remis en cause est donc bien l’ingérence dans la vie privée et non le principe même de la géolocalisation.
-Conséquence directe de ces décisions : les mesures de géolocalisation doivent être interrompues ou exclues dans les enquêtes diligentées sous la direction du procureur de la République.
-Quant aux procédures en cours s’appuyant sur une géolocalisation ordonnée par le procureur, elles doivent être annulées, au risque d’entraîner la remise en liberté des personnes interpellées.
 Le texte gouvernemental avait fixé ce seuil à trois ans.
-Nous avions notamment évoqué le délit d’évasion et nous avions proposé de l’étendre au délit de non-présentation d’enfants, utile pour prévenir d’éventuels enlèvements.
-Pour ne pas entraver l’action de la police et de la gendarmerie, nous devons veiller à ne pas définir de façon trop restrictive le champ d’application de la géolocalisation.
-Si cette proposition n’a pas été retenue, le texte adopté par la CMP garantit que les atteintes aux personnes, ainsi que le délit de recel et le délit d’évasion punis d’au moins trois ans entreront dans le champ de la géolocalisation.
 Je crois donc que sur ce point nous pouvons nous satisfaire de l’accord obtenu.
 La machine judiciaire aurait pu difficilement répondre en huit jours.
-Il s’agit donc d’une disposition équilibrée et le délai ainsi fixé demeure d’ailleurs inférieur à celui d’un mois au-delà duquel la Cour européenne des droits de l’homme estime la saisine du juge nécessaire.
 Restait à déterminer ce délai.
-Alors que le Sénat l’avait fixé à douze heures, l’Assemblée nationale puis la commission mixte paritaire ont prévu de le porter à vingt-quatre heures.
-Le groupe UDI, qui avait d’ailleurs proposé un amendement en ce sens, s’en réjouit.
-Il est nécessaire de tout mettre en œuvre pour faciliter le déroulement de l’enquête et ne pas entraver le travail des forces de police et de gendarmerie dans des situations d’urgence et dans des circonstances difficiles.
-Le délai de douze heures serait difficilement applicable puisqu’il imposerait une permanence de jour et de nuit des magistrats, ce qui engendrerait des coûts supplémentaires et des risques de désorganisation importants dans nos tribunaux.
-Ce débat ne nous permet pas d’avoir aujourd’hui une réflexion aboutie concernant l’indépendance nécessaire du procureur de la République qui n’est pas considéré comme une autorité judiciaire.
-Votez pour la réforme constitutionnelle ! Eh oui ! Madame la ministre, mes chers collègues, vous avez probablement compris que le groupe UDI votera, comme en première lecture, pour ce projet de loi qui est un texte consensuel, utile, attendu et exigé par les circonstances.
 C’est un bon début ! La parole est à Monsieur Sergio Coronado.
-Madame la présidente, madame la ministre, chers collègues, avec le fichage ADN et la police deux.0, la géolocalisation est l’une des technologies qui a le plus modifié la conduite des enquêtes au cours des dernières années.
-L’amélioration de ces technologies et la baisse de leurs coûts ont rendu leur utilisation plus facile et plus courante, y compris pour des délits que l’on qualifie souvent de mineurs.
-Progressivement, nous assistons à la mise en données de l’ensemble des aspects de notre vie et à leur collecte par les États mais aussi par des sociétés commerciales.
-Qui appelons-nous ? À quelle heure ? Pendant combien de temps ? De quel endroit ? Quels sites visitons-nous ? Quels mots-clés tapons-nous dans les moteurs de recherche ? Les procédés de collecte d’informations nous concernant sont désormais innombrables.
-Comme pour le fichage ADN, la généralisation des technologies de géolocalisation rend nécessaire un meilleur encadrement.
-C’est ce qu’ont demandé deux arrêts récents de la Cour de cassation, qui ont conduit le Gouvernement à déposer ce projet de loi.
 Cet encadrement est une nécessité que nul ne saurait contester.
 Les possibilités de débordement et d’abus existent.
 Deux affaires récentes sont venues nous le rappeler.
-Si la géolocalisation est devenue indispensable à certaines enquêtes, son encadrement l’est tout autant pour protéger nos libertés publiques.
 C’est pour cela que le projet de loi relève de l’urgence.
-Lors des débats en première lecture, au nom des écologistes, je me suis opposé à plusieurs points du texte dans sa version adoptée par notre assemblée.
 C’est également ce qu’avait jugé la CNIL dans son avis.
-Elle notait notamment que dans le cadre des procédures de flagrance, la durée de l’autorisation du procureur de la République devrait être de huit jours, reconductible éventuellement une fois, pour que cela soit cohérent avec l’article cinquante-trois du code de procédure pénale.
 Nous regrettons donc que la CMP n’ait pas suivi cet avis.
-Il y a également eu un débat important dans cet hémicycle – initié notamment par Madame la ministre – sur les délits concernés par la géolocalisation.
-Pour de nombreux délits où la peine encourue est de trois ans de prison, la mise en place d’une géolocalisation ne semble pas totalement justifiée : discrimination, vente à la sauvette, organisation d’insolvabilité ou intrusion dans un bâtiment scolaire.
-Le recours à la géolocalisation doit, pour nous, être réservé aux infractions les plus graves, comme le souhaite d’ailleurs la Cour européenne des droits de l’homme qui souligne ce caractère de particulière gravité.
-Finalement, le seuil sera de cinq ans, sauf pour les atteintes aux personnes où le seuil serait de trois ans.
-Ce compromis semble satisfaisant mais, en toute logique, il faudrait que les délits douaniers soient soumis au même seuil.
 C’est pourquoi nous soutiendrons l’amendement proposé par le Gouvernement.
 Nous regrettons que les objets géolocalisables ne soient nulle part précisés dans le texte.
 Le flou n’est jamais bon en la matière.
 Nous aurions aimé également une information régulière du Parlement sur les techniques spéciales d’enquête.
-Sans l’inscrire dans la loi, madame la Garde des Sceaux, vous vous êtes engagée à mettre des éléments d’information à disposition du Parlement.
-Dont acte.
-Quant à revoir l’article vingt de la loi de programmation militaire sur la géolocalisation administrative, le débat n’a pas été rouvert ici.
 Il le sera forcément dans les mois à venir.
-Il serait regrettable qu’il le soit à nouveau par une décision du juge constitutionnel ou de la Cour européenne des droits de l’homme.
 Trop souvent la législation en la matière n’a évolué que sous cette double contrainte.
-Sur les points de désaccord que j’ai soulignés dans mon intervention, la décision de ces juges est probable ; j’allais dire souhaitable.
-C’est pour cela que nous soutenons, en ce qui concerne le dossier occulte, l’idée d’une saisine préventive, dont vous avez exprimé la volonté ici même, madame la garde des sceaux.
-Madame la garde des sceaux, chers collègues, notre sécurité sera d’autant mieux assurée que nos libertés fondamentales seront respectées.
-Dans cet état d’esprit, je considère que l’équilibre trouvé en CMP n’est pas totalement satisfaisant, même si nous notons la volonté d’offrir un cadre au recours à la géolocalisation.
 Et c’est pour saluer cette volonté que les députés écologistes s’abstiendront.
-Nous partons d’une position qui était beaucoup plus dure, je le rappelle, puisqu’au Sénat nous avions voté contre le texte.
 La parole est à Monsieur Thierry Braillard.
-Madame la présidente, madame la ministre, monsieur le président de la commission des lois, monsieur le rapporteur, chers collègues, il était urgent de légiférer sur cette technique d’investigation qu’est la géolocalisation.
-C’était urgent, aussi, car c’est un sujet grave dont il est question, un sujet qui touche directement à l’une de nos libertés fondamentales, le droit au respect de la vie privée.
-C’était urgent, enfin, car la géolocalisation est un outil essentiel, on le sait, dans le cadre des enquêtes menées, la plupart du temps, sous l’autorité du procureur de la République.
 Je vous en félicite, mais cela ne m’étonne pas, je vous connais.
-Dès que des libertés individuelles ou collectives sont en jeu, on peut compter, je le sais, sur votre sagacité et sur votre autorité naturelle.
-Cela passe par « l’existence d’une procédure juste et équitable garantissant l’équilibre des droits des parties », comme l’a rappelé le Conseil constitutionnel.
-C’est grâce à notre prérogative de législateur que nous y parvenons, en définissant une règle applicable à tous, en conformité avec les normes supérieures et la jurisprudence européenne.
-La géolocalisation est de plus en plus utilisée, on le sait, pour les filatures, notamment dans les enquêtes portant sur le grand banditisme ou les affaires de trafic de stupéfiants.
-Les technologies évoluent, notre législation doit aussi évoluer ; il faut l’adapter pour que les procédures ne puissent être invalidées par les juges dans des affaires aux enjeux importants.
-Toute la difficulté dans cet exercice était de trouver le juste équilibre entre protection des libertés individuelles et les nécessités de la recherche de la vérité.
-Il a en effet été décidé de distinguer parmi les délits punis d’une peine d’emprisonnement de trois ans ceux pour lesquels le recours à un dispositif de géolocalisation semble particulièrement nécessaire.
-En revanche, il nous semble regrettable que la proposition du président du groupe RDSE au Sénat, Jacques Mézard, ait été rejetée.
-Huit jours semblaient être un « délai de sagesse », pour reprendre les mots de mon collègue et ami sénateur.
-Il est vrai que la Cour européenne des droits de l’homme a estimé qu’un délai plus long pouvait être acceptable.
-Bien entendu, comme nous sommes, vous le savez, des partenaires loyaux : Nous voterons ce texte, fruit du compromis trouvé lors de la CMP, où un travail collaboratif de qualité a permis le résultat que l’on connaît.
 Enfin, je profite de cette tribune pour faire passer deux messages.
 Le premier s’adresse à vous, madame la présidente.
-Nous, députés radicaux de gauche, estimons qu’il est tout à fait anormal que nous soyons systématiquement exclus de toutes les commissions mixtes paritaires.
-Celles-ci, en vertu du droit parlementaire en vigueur, sont censées refléter la représentation nationale dans son ensemble.
 Or, depuis le début de cette législature, ce n’est pas le cas.
-Nous estimons qu’il serait légitime de notre part, dans un esprit pour le moins démocratique, d’exiger le droit d’y être représenté et d’obtenir de temps à autre une place de suppléant.
 Le second s’adresse à vous, madame la garde des sceaux.
-Il est relatif aux observations faites par un autre excellent collègue, Alain Tourret, à propos de la conservation des scellés, en relation avec sa proposition de loi.
-Vous lui aviez répondu que vous ne pouviez vous prononcer sur une loi qui n’était pas encore votée ; nous vous donnons donc rendez-vous jeudi pour examiner ce texte.
 Merci, monsieur le député Braillard.
-La présidence a bien enregistré votre observation, qui sera relayée en conférence des présidents dès demain matin.
 Mais j’imagine que votre président de groupe l’évoquera également.
 La parole est à Monsieur Marc Dolez.
-S’agissant du champ des infractions concernées, nous sommes satisfaits que la CMP ait décidé de retenir le quantum de cinq ans adopté au Sénat en première lecture.
-Nous sommes également favorables à la distinction retenue entre les atteintes aux personnes, qui doivent appeler plus de sévérité, et les atteintes aux biens.
-Nous soutenons donc le fait que soit également concernées les atteintes aux personnes punies d’au moins trois ans de prison.
-A fortiori, l’intervention du juge des libertés et de la détention au bout de huit jours, telle que le Sénat l’avait prévue, nous paraissait plus satisfaisante.
-C’est également l’avis de la CNIL, comme l’ont rappelé, il y a quelques instants, nos collègues Sergio Coronado et Thierry Braillard.
-Le texte prévoit également que la décision du procureur de la République, du juge des libertés et de la détention ou du juge d’instruction est écrite.
-Toutefois, le magistrat ayant autorisé l’opération dispose d’un délai de vingt-quatre heures pour prescrire par écrit sa poursuite.
-Si nous étions plus favorables au délai de douze heures voté par le Sénat, ce délai de vingt-quatre heures constitue un compromis entre le délai de quarante-huit heures initialement proposé par le Gouvernement et celui voté au Sénat.
-Pour conclure, les députés du Front de gauche estiment nécessaire et urgent de combler le vide juridique relatif à l’utilisation de la géolocalisation.
-C’est la raison pour laquelle ils voteront ce texte, qui définit un cadre juridique strict pour les pratiques de géolocalisation.
-Celles-ci sont soumises à des conditions précises et réservées aux enquêtes sur les délits d’une particulière gravité.
-L’instauration de ce cadre est, à l’évidence, une mesure protectrice des droits et libertés.
 Très bien ! La parole est à Monsieur Pascal Popelin.
-Quand, en outre, cet accord sur un texte identique est trouvé à la quasi-unanimité, députés et sénateurs, majorité et opposition votant dans le même sens, l’événement mérite d’être mentionné.
-À l’ouverture de nos débats, nous partagions un objectif commun : introduire dans le code de procédure pénale un cadre juridique clair pour la mise en œuvre de cette technique moderne.
-Jusqu’ici, en effet, cela a été rappelé à plusieurs reprises, le recours aux opérations de géolocalisation judiciaires reposait sur un fondement légal qui ne lui était pas spécifiquement dédié.
-Il était donc, par essence, inadéquat et aurait de toute façon, tôt ou tard, mérité d’être précisé.
-Les arrêts rendus par la Cour de cassation le vingt-deux octobre deux mille treize, ont rendu immédiate cette nécessité.
-En invalidant la légalité de ces techniques d’enquête, lorsque celles-ci étaient ordonnées par un magistrat du parquet et placées sous son seul contrôle, la juridiction la plus élevée de notre ordre judiciaire nous invitait à légiférer rapidement.
 Il a été tout aussi avisé de préparer très rapidement ce projet de loi.
-Entre la décision de la Cour de cassation et son adoption, il se sera écoulé finalement à peine plus de quatre mois, ce qui est exemplaire.
-Compte tenu des délais de contrôle du Conseil constitutionnel, de mise en œuvre et de promulgation, on peut supposer que l’affaire aura été réglée dans les six mois, peut-être même moins.
-Placer une balise sous un véhicule ou géolocaliser un téléphone mobile constitue, à n’en pas douter, une ingérence dans la vie privée.
-Dans l’échelle de l’intrusion, la géolocalisation se situe à mon sens entre la filature et la mise sur écoute, ce dernier procédé, très encadré par la loi, étant bien plus indiscret.
-Il était donc tout à fait légitime que la question de la protection des droits et des libertés individuelles soit centrale dans nos échanges.
-Une telle loi se devait de prévoir les garanties et les verrous à mettre en œuvre pour répondre à cette exigence et éviter toute dérive liberticide.
 La jurisprudence de notre autorité judiciaire nous y invitait, tout comme celle des juridictions supranationales.
-Je pense notamment à ce fameux arrêt Uzun contre Allemagne, rendu par la Cour européenne des droits de l’Homme le deux septembre deux mille dix et maintes fois cité lors de nos débats.
-Tout au long de nos travaux, certains collègues ont plaidé en faveur de la définition la plus stricte possible du champ d’application des mesures de géolocalisation lorsqu’elles sont ordonnées par le parquet.
 La version adoptée par le Sénat avait leur préférence.
-Cette approche rejoignait celle du rapporteur et nous l’avions fondée sur les témoignages recueillis lors des auditions qu’il a conduites.
-Les travaux de la commission mixte paritaire ont finalement abouti à un point d’équilibre qui me semble satisfaisant et que les représentants du groupe socialiste, républicain et citoyen ont soutenu.
-Comme cela a été rappelé, la version de l’Assemblée nationale a été retenue s’agissant des délais de mise en œuvre sous la seule responsabilité et le seul contrôle d’un magistrat du parquet.
-Le procureur disposera d’une autonomie de quinze jours durant lesquels les mesures qu’il ordonne ou qu’il valide n’exigeront pas l’intervention d’un magistrat du siège en la personne du juge des libertés et de la détention.
 C’était le souhait du Gouvernement, et je me réjouis qu’il ait été satisfait.
-Il est bon que des dispositions spécifiques aient aussi été introduites s’agissant des évasions et du recel de criminel.
-Je ne suis pas certain que la référence au quantum de la peine encourue soit idéale en toutes circonstances, mais force est de constater que c’est le moyen juridique le plus clair à notre disposition pour faire une loi intelligible.
-Sans doute faudra-t-il, à l’avenir, revisiter cette hiérarchie des peines afin de la mettre en cohérence avec l’évolution de notre temps, comme l’a évoqué la ministre au cours de nos débats.
-Je me réjouis donc de l’amendement que propose le Gouvernement sur les délits douaniers, qui constitue un premier pas en ce sens.
-Au terme de l’examen de ce texte et avant que nous ne procédions à son adoption, je veux à mon tour souligner la très grande qualité de nos débats, en commission comme en séance publique.
-L’esprit de consensus et de rassemblement l’a emporté sur les postures dont nous avons trop souvent coutume.
-Cet effort de convergence a permis d’aboutir à un texte simple dans sa forme et équilibré sur le fond.
-Il en fut de même lors de la commission mixte paritaire qui s’est tenue le dix-huit février dernier au Sénat.
-Il s’inscrit dans un ensemble de choix cohérents dont l’objectif est de rendre plus efficace la politique de sécurité de notre pays, au service de tous les Français.
-Cet objectif, nous nous y sommes attelés sans laxisme, en bannissant toute démagogie, et en privilégiant l’élaboration d’instruments utiles sur les effets d’annonce et les lois de circonstance.
-Après une décennie de coupes franches dans les moyens de la sécurité, il s’agissait d’une absolue nécessité.
-Telle était également la finalité de la loi relative à la retenue pour vérification du droit au séjour, promulguée le trente et un décembre deux mille douze.
 Elle a permis de mettre un terme au vide juridique dont nous avions hérité.
-Celui-ci ne permettait plus de combattre avec toute l’efficacité et la fermeté qui s’imposent les filières mafieuses qui organisent l’immigration clandestine, et qui s’apparentent à une véritable traite des êtres humains.
-Je ne trouve dans ces lois, seuls textes que nous ayons adoptés en matière de sécurité et de politique pénale depuis le début de cette législature, aucune trace de ce laxisme que quelques tracts locaux croient intelligent de m’imputer en cette période pré-électorale.
 Mais ceci est une autre affaire.
-Dans cet hémicycle, nous nous efforçons de travailler sérieusement et je me réjouis que le vote quasi-unanime qui va intervenir dans quelques instants sur ce projet de loi en atteste.
 La parole est à Monsieur Daniel Gibbes.
-Il était urgent de trouver un équilibre satisfaisant entre intérêt général et protection des libertés publiques, et je crois pouvoir dire que nous l’avons trouvé, avec le Sénat.
-On peut d’ailleurs saluer l’esprit de consensus peu commun qui a animé cette commission mixte paritaire.
-L’équilibre à trouver était, somme toute, circonscrit par la Cour européenne des droits de l’homme, notamment par l’arrêt Uzun contre Allemagne rendu en deux mille dix.
-La Cour avait alors considéré que le procédé de géolocalisation ne méconnaissait pas en lui-même le droit au respect de la vie privée, si et seulement si la mesure de surveillance judiciaire par géolocalisation respectait deux conditions cumulatives.
-La première de ces conditions est que ce procédé soit prévu par la loi dans des termes suffisamment clairs pour indiquer à tous de manière suffisante en quelles circonstances et sous quelles conditions l’autorité publique est habilitée à y recourir.
-Rappelons au passage qu’il s’agit uniquement de suivre un contenant, jamais de se servir du contenu, même si on géolocalise par téléphone portable.
-La seconde condition est que la géolocalisation soit autorisée uniquement pour des infractions particulièrement graves et qu’aucune autre mesure d’investigation moins attentatoire à la liberté individuelle ne soit envisageable.
-Cette notion d’infraction particulièrement grave pouvant conduire à géolocalisation a donné lieu à quelques débats dans l’hémicycle et en commission mixte paritaire.
-Un autre sujet de débat entre l’Assemblée et Sénat a été la durée pendant laquelle le parquet peut autoriser une géolocalisation avant d’avoir à recueillir l’autorisation du juge des libertés et de la détention.
 Le Sénat avait voté huit jours consécutifs, l’Assemblée quinze jours consécutifs.
 Je me félicite que la CMP ait retenu le délai de quinze jours.
-En Allemagne, suite à l’arrêt Uzun, il a été prévu que le juge du siège intervienne dans un délai d’un mois, que la Cour européenne des droits de l’homme a jugé satisfaisant.
 Le délai de quinze jours l’est donc également.
-Vous savez que le groupe UMP était très attaché à ce que ce délai d’autorisation a posteriori soit de vingt-quatre heures, et non pas de douze heures, comme en avait initialement décidé le Sénat.
-Je me félicite donc particulièrement que la commission mixte paritaire ait validé ce délai d’autorisation a posteriori de vingt-quatre heures, car rien n’aurait été pire que d’entraver l’action de l’officier de police judiciaire en risquant de rendre caduques les procédures.
-Au final, le texte qui nous est soumis aujourd’hui remplit parfaitement l’objectif de rendre à nouveau possible l’utilisation des moyens de géolocalisation dans le cadre des enquêtes préliminaires et des enquêtes de flagrance.
-Il permettra aux policiers, aux gendarmes et aux magistrats s’appuyer à nouveau sur ce moyen technologique avec la sécurité juridique requise.
-Un bon équilibre a été atteint entre l’efficacité opérationnelle, qu’il convient évidemment de préserver, et le respect des libertés publiques auquel nous sommes tous très attachés.
-C’est donc dans l’intérêt de la sécurité de nos concitoyens, mais aussi pour un bon fonctionnement de notre justice pénale, que le groupe UMP apportera tout son soutien à ce projet de loi.
 Il faudra recommencer ! La discussion générale est close.
 J’appelle maintenant le texte de la commission mixte paritaire.
-Conformément à l’article cent treize, alinéa trois, du règlement, je vais d’abord appeler l’Assemblée à statuer sur les amendements dont je suis saisie.
 La parole est à Madame la garde des sceaux, pour soutenir l’amendement numéro un.
-Il s’agit d’un amendement de coordination, qui tend à modifier le code des douanes pour le rendre conforme aux dispositions concernant le code de procédure pénale, que vous avez introduites dans ce texte.
-Il vise à porter de trois à cinq ans le seuil pour le quantum de peine encourue, afin d’aligner le code des douanes sur le code de procédure de procédure pénale.
-Ainsi, nous couvrirons un certain nombre de délits douaniers préjudiciables soit à la santé soit à la sécurité publique, tels les trafics d’armes, de stupéfiants, de tabac et la contrefaçon en bande organisée, ce qui constitue une circonstance aggravante.
-Si Madame la présidente le permet, j’ajoute deux mots pour clarifier un point, à la suite de l’intervention de Marc Dolez, que j’ai écoutée avec une très grande attention.
-En effet, le texte initial du Gouvernement prévoyait que les officiers de police judiciaire appellent le procureur avant de déposer la balise.
-Nous prévoyions que le procureur puisse donner son accord verbalement et qu’il le confirme quarante-huit heures après.
 Ce délai nous paraissait raisonnable.
-Cependant, le texte de la CMP prévoit que l’officier de police judiciaire peut décider, en urgence, de la pose de la balise et n’appeler le procureur qu’après.
-Ce dernier peut valider ou invalider cette pose, dans un délai de douze heures, selon la rédaction proposée par le Sénat, et de vingt-quatre heures selon celle proposée par l’Assemblée.
-La parole est à Monsieur le rapporteur de la commission mixte paritaire, pour donner l’avis de la commission.
-Avis favorable.
-Il s’agit d’un amendement de coordination et, surtout, de cohérence par rapport au texte adopté par la CMP.
-Il vise à porter à cinq ans le seuil pour les délits douaniers, qui sont, par définition, des atteintes aux biens, et non aux personnes.
-Je mets aux voix l’ensemble du projet de loi, compte tenu du texte de la commission mixte paritaire, modifié par l’amendement adopté par l’Assemblée.
 Très bien ! La séance est suspendue.
 La séance est reprise.
-L’ordre du jour appelle la discussion, en lecture définitive, de la proposition de loi visant à reconquérir l’économie réelle (numéro mille sept cent quatre-vingt-onze).
-La parole est à Monsieur le ministre délégué chargé de l’économie sociale et solidaire et de la consommation.
-Madame la présidente, monsieur le président de la commission des affaires économiques, madame la rapporteure, mesdames et messieurs les députés, nous examinons aujourd’hui, en lecture définitive, la proposition de loi visant à reconquérir l’économie réelle.
-Ce texte s’inscrit dans l’action plus globale du Gouvernement et de la majorité en faveur de l’emploi et de la compétitivité de notre économie.
-Il était indispensable de légiférer, comme vous l’avez fait, pour obliger l’employeur à rechercher un repreneur, lors de la fermeture éventuelle d’un établissement.
-Lutter contre le chômage, c’est tout mettre en œuvre non seulement pour créer de l’emploi, mais également pour éviter d’en détruire.
-Cette proposition de loi crée une nouvelle obligation pour les employeurs de rechercher un repreneur – j’en dirai quelques mots tout à l’heure.
-Ces travaux avaient été abondamment commentés et avaient fait l’objet d’un livre écrit par un grand patron, dont beaucoup, ici, se souviennent sans doute, Le Capitalisme total, de Jean Peyrelevade.
-Le constat de ces évolutions et les travaux réalisés par bon nombre d’économistes et d’observateurs de la vie économique ont conduit le législateur à s’emparer de la question du maintien de l’activité dans des établissements viables.
-Visant à généraliser les bonnes pratiques, la présente proposition de loi n’est pas une loi de « contrôle tatillon » ou une cause de stress, comme j’ai pu l’entendre, mais bien une loi de vertu.
-Pour avoir trop souvent entendu des responsables dire que tout nouveau progrès ou droit social affecterait l’attractivité de notre pays, j’ai bien compris que, pour eux, notre pays devait, pour être attractif, ressembler à un désert social.
-Ce n’est pas l’idée que nous nous faisons de l’attractivité de notre pays.
-Nous pensons que c’est en conciliant progrès économique et progrès social que nous continuerons d’être attractifs, notamment dans le domaine des investissements directs de l’étranger.
-Avec cette proposition de loi et ce droit d’information préalable, nous aurons un dispositif de nature à éviter ces cortèges de licenciements tout à fait inutiles dans des entreprises qui seraient ou qui sont, pourtant, tout à fait viables sur le plan économique.
-En tant que ministre, je tiens à remercier la rapporteure, Madame Clotilde Valter, et le président de la commission des affaires économiques, François Brottes, pour leur travail remarquable.
-Nous sommes convaincus que servir l’intérêt général, c’est faire que les entreprises viables continuent à investir, à vivre, et que les salariés puissent continuer à y travailler.
 Il s’agit donc d’une proposition de loi tout à fait importante.
-Je profite de cette intervention pour apporter quelques précisions s’agissant du deuxième pilier de cette proposition, qui concerne l’actionnariat de long terme et les OPA.
-En effet ce texte fournit aux entreprises françaises de nouveaux outils leur permettant de mieux maîtriser leur capital et privilégie l’actionnariat de long terme.
 Ces entreprises pourront ainsi, le cas échéant, mieux se défendre face à des OPA hostiles.
-Ces précisions, dont le Gouvernement souhaite qu’elles figurent au compte rendu de nos débats, concernent l’interprétation de quelques dispositions du texte modifiées par l’Assemblée nationale.
 Elles vont dans le sens de votre intention lorsque vous avez amendé ce texte.
-Je souhaite, au nom du Gouvernement, préciser que cette disposition doit se comprendre comme permettant également de déroger, dans ce cas de figure et dans les mêmes conditions, à la règle prévue à l’article L.
 quatre cent trente-trois-trois du code monétaire et financier telle qu’elle résulte du présent texte.
-À l’article six, alinéa quatorze, vous avez précisé la capacité du juge de prolonger le délai accordé au comité d’entreprise pour donner un avis sur l’offre, afin d’éviter des manœuvres dilatoires de la part de la société objet de l’offre.
-Le Gouvernement souhaite préciser, et telle était bien votre intention, que cette nouvelle règle encadrant la distribution d’actions gratuites ne s’appliquera pas de manière cumulative sur plusieurs résolutions successives d’autorisation d’attribution d’actions gratuites.
-Elle ne s’appliquera donc que dans le cas où une assemblée générale extraordinaire a autorisé, pour un délai déterminé ne pouvant dépasser trente-huit mois, une attribution d’actions gratuites à l’ensemble des salariés.
-Dès lors, elle ne trouvera pas à s’appliquer si l’employeur décidait, comme c’est déjà possible aujourd’hui, d’une attribution d’actions gratuites à certains salariés dans la limite du plafond de dix pourcent du capital.
-Telles sont les précisions que je tenais à apporter sur ces différentes modifications apportées à l’Assemblée nationale.
-Cette proposition de loi, et j’en termine, constitue l’un des leviers en faveur de notre ambition commune pour favoriser et protéger l’actionnariat de long terme.
 C’est d’ailleurs ce qui différencie bon nombre d’entreprises allemandes et françaises.
 On constate souvent que le coût du travail diffère en Allemagne et en France.
-Il serait intéressant de connaître ce qu’il en est de la différence du coût du capital entre les deux pays.
-Des détenteurs du capital dans les entreprises allemandes étaient beaucoup plus sobres que les détenteurs français.
-Il est également intéressant de noter que le capitalisme outre-Rhin a souvent privilégié les pactes de long terme entre actionnaires.
-C’est aussi ce que nous recherchons pour favoriser l’investissement de long terme et, ainsi, la création d’emplois durables.
-Ce texte offensif et pragmatique s’inscrit dans notre stratégie de lutte pour l’emploi et pour le renforcement de la démocratie de nos entreprises afin de protéger les intérêts stratégiques français.
-À ce titre, il sera tout à fait utile pour concilier, comme nous le souhaitons, croissance, progrès économique et progrès social.
-(Applaudissements sur les bancs du groupe SRC.) Très bien ! La parole est à Madame Clotilde Valter, rapporteure de la commission des affaires économiques.
-Leur initiative a été reprise début deux mille treize par François Brottes, président de la commission des affaires économiques, qui a animé, avec toute la détermination que nous lui connaissons, le travail du groupe de députés qui a mis au point le texte.
-Cette proposition de loi a été déposée le trente avril deux mille treize par Bruno Le Roux, président du groupe socialiste, républicain et citoyen et j’ai commencé mes auditions de rapporteure début juin deux mille treize.
-Depuis cette date, ce texte, fruit d’une élaboration collective, a été sans cesse amélioré grâce aux auditions et aux contributions qui nous ont été apportées.
-Nous nous sommes également appuyés sur l’expérience de terrain de nombreux députés confrontés à ces situations.
-Le travail en commission nous a ensuite permis de traiter plusieurs sujets importants comme le remboursement des aides publiques et l’information des élus.
-Le débat ici même en septembre dernier a tiré les conséquences des positions contradictoires exprimées quant à l’efficacité d’une nouvelle réduction du seuil de déclenchement des OPA.
-De même, nous avons modifié la procédure de consultation du comité d’entreprise en cas d’OPA pour en réduire significativement la durée.
-L’examen du texte par le Sénat a été un moment important même s’il n’a pas adopté le texte.
-Nos collègues, la rapporteure de la commission des affaires sociales saisie au fond, Anne Eymery-Dumas, et les rapporteurs pour avis ont, je tenais à le souligner, réalisé un travail important d’amélioration du texte.
-En effet, la première version du texte prévoyait que le tribunal, au moment où il prononçait la pénalité pouvait, en même temps, exiger le remboursement des aides publiques.
-Le Sénat a significativement amélioré le texte dans la mesure où il donne aux collectivités publiques la possibilité d’émettre, dans l’année suivant le jugement du tribunal, un titre de recettes.
 Ce sont donc ces dernières qui prennent l’initiative, ce qui est une bonne chose.
 La nouvelle lecture, ici même lundi dernier, a encore permis quelques améliorations.
-Je veux, une fois encore, remercier tous ceux qui ont travaillé sur ce texte avec moi : François Brottes, bien sûr, Guillaume Bachelay, Dominique Chauvel, Jean-Louis Destans, Jean-Marc Germain, Jean Grellier, Michel Liebgott, Patrice Prat, Marie-Françoise Bechtel, Christophe Borgel, Cécile Untermaier et Christophe Léonard, entre autres.
 Ce texte traduit notre volonté de reconquête de notre économie et, notamment, de notre industrie.
-La logique trop exclusivement financière qui fait prévaloir les intérêts financiers de très court terme en sacrifiant les stratégies de long terme de développement des entreprises a causé des dégâts considérables dans nos territoires, pour les salariés et nos filières industrielles.
-Nombre d’entre nous ont été, depuis plusieurs années, confrontés à des fermetures de sites, drames industriels et humains, mais aussi sources d’appauvrissement de nos territoires et, souvent, disparition de savoir-faire industriels acquis de très longue date.
-Notre pays, il convient de le rappeler, a perdu sept cent cinquante mille emplois industriels en dix ans.
-C’est pourquoi nous pensons tous aujourd’hui aux salariés des entreprises qui se sont battus pour conserver leur entreprise : ceux de Petroplus, Pilpa, ArcelorMittal, d’Aucy, Moulinex, Plysorol, Goodyear et beaucoup d’autres que je n’ai pas le temps de citer.
 Nous avons voulu que la reprise des sites rentables soit systématiquement recherchée.
-Dès lors que l’on ferme un site rentable, les salariés, les élus et les habitants sont confrontés à l’incompréhensible, à l’absurde, à l’inacceptable.
 Nous avons mis au point une procédure spécifique à cet effet.
-Il convenait également de disposer d’un mécanisme de dissuasion avec une sanction financière prononcée par le tribunal de commerce pour l’entreprise qui refuserait une offre de reprise sérieuse.
-Avec ce texte, nous voulons aussi, et j’insiste sur ce point, aider les entrepreneurs qui s’engagent pour le développement économique et l’emploi.
 Ce texte favorise la liberté d’entreprendre et l’activité économique.
-Nous avons voulu aussi construire un nouveau modèle de gouvernance des entreprises qui les protège des excès de la finance.
 Le ministre est intervenu sur ce point.
-Avec ce texte, nous avons voulu poser les bases d’un nouveau modèle de gouvernance des entreprises.
-La logique financière met en danger notre système économique, car, trop souvent, les intérêts des actionnaires vont à l’encontre des intérêts de long terme de nos entreprises, de nos filières industrielles, donc des salariés et des territoires.
-En France, nos entreprises sont d’autant plus exposées aux risques d’instabilité que l’actionnariat de long terme est particulièrement faible.
 Pour nous, ce texte n’est qu’une étape pour préparer l’économie de demain.
-Nous l’avons nous-mêmes constaté au cours de notre travail parlementaire, la finance a sa propre logique, une force sans limite dans l’économie mondiale.
-En Europe et dans notre propre pays, elle refuse d’admettre que nous fassions des choix différents.
-Nous défendons des valeurs qui nous font placer l’homme au cœur de l’économie et nous voulons imposer des règles.
-Nous avons construit depuis des années un modèle social auquel nous sommes attachés et que nous voulons défendre.
-Dans ce contexte, il nous faut admettre que les entreprises sont, en France, et trop souvent en Europe, moins bien protégées que certaines de leurs concurrentes étrangères, américaines et asiatiques.
-Dans la guerre économique que nous connaissons, nos entreprises participent de l’image, de l’influence et du poids de notre pays dans le monde.
-Pour préparer l’avenir de notre économie, nous voulons développer aujourd’hui les entreprises qui créeront les produits et les emplois de demain sur notre territoire et nous devons nous doter des outils qui nous permettront de répondre à ce défi.
-Pierre Moscovici, ministre de l’économie et des finances et Arnaud Montebourg, ministre du redressement productif, ont présenté, en janvier dernier en conseil des ministres, une communication relative à la stratégie de l’État actionnaire.
-Dans ce texte, sont identifiées les conditions de l’intervention en fonds propres de l’État.
 C’est un premier pas important.
-J’insiste sur ce point, car nous avons exprimé ce souhait lors du débat du mois de septembre.
-Il pose, en effet, les bases d’une capacité de l’intervention publique, c’est-à-dire au nom de l’intérêt général, pour défendre nos fleurons industriels.
-Mais, tout comme le texte que nous allons, je l’espère, voter aujourd’hui, il n’est pas suffisant.
 Il nous faut incontestablement développer des outils à cette fin.
-Comme vous pouvez le constater, une fois cette proposition de loi votée, ce vaste chantier de reconquête de notre outil industriel continuera de nous mobiliser.
 Nous concilierons, comme l’a précisé le ministre, attractivité économique et progrès social.
-Il y va de l’intérêt de notre économie et de l’intérêt de notre pays.
 Pour cela, monsieur le ministre, chers collègues, je compte sur vous.
-(Applaudissements sur les bancs du groupe SRC.) La parole est à Monsieur le président de la commission des affaires économiques.
-Madame la présidente, monsieur le ministre, madame la rapporteure, chère inaltérable Clotilde, mes chers collègues, nous arrivons au terme d’un chemin quelque peu escarpé.
-Cela fait exactement deux ans, jour pour jour, que le candidat François Hollande avait annoncé sa proposition numéro trente-cinq sur la reprise des sites rentables.
-Je ne crois pas que nous l’ayons fait exprès, mais, puisque c’est une date anniversaire, je voulais tout de même le signaler.
-Le chemin était donc escarpé, mais, comme je suis un élu de la montagne, cela ne suffit pas à me décourager.
 (Sourires.) Les attaques sont alors moins nombreuses et les pressions plus légères.
-Avec Clotilde Valter, nous avons fait encadrer pour nos bureaux respectifs la lettre pleine de tendresse de l’Autorité des marchés financiers que nous avons reçue au cours de l’élaboration de ce texte.
-Je vous l’enverrai, monsieur le ministre, si vous n’en avez pas eu une copie.
-Cela vaut son pesant d’or, ce qui est normal puisque ce sont les marchés financiers.
-Nous en avons donc la preuve avant même qu’il n’ait été appliqué, ce texte va changer les choses.
-Nous le savons tous, il n’y a pas d’emploi sans les entreprises, mais il n’y a plus d’emplois si les entreprises s’en vont.
-Un site orphelin, le cas échéant pollué, laisse derrière lui un vaste plan social et la terre brûlée.
 Il ne retrouve presque jamais le souffle d’une activité économique.
 Ce texte change la donne et l’état d’esprit.
-Bienvenue aux entrepreneurs qui reprennent le flambeau, à ceux qui acceptent la concurrence, aiment les défis.
-D’où qu’ils viennent, qu’ils soient français ou étrangers, les entrepreneurs repreneurs sont désormais les bienvenus dans notre pays.
-Il n’y a donc, et je le dis pour le Conseil constitutionnel puisqu’il y aurait un recours,… Très juste ! …aucune atteinte contre la liberté d’entreprendre, de réentreprendre, aucune atteinte à la liberté de la concurrence.
-Nous verrons ! Qu’un concurrent reprenne le site de celui qui s’en va fait partie de l’animation de la vie économique de ce pays.
-Ce que l’on souhaite à droite, c’est constituer des monopoles privés au fur et à mesure que les entreprises se délestent de sites rentables.
 Ce n’est pas du tout notre conception de la responsabilité économique dans ce pays.
-Avec ce texte, nous portons atteinte à la fatalité subie des plans sociaux proposés même sur des sites rentables.
-Nous portons atteinte au fatalisme de la délocalisation stratégique d’entreprises qui refusent de laisser la moindre chance à la reprise de leurs sites et des emplois liés.
-S’il ne veut pas, ou s’il ne cherche pas, les salariés pourront saisir le tribunal de commerce, qui pourra prendre des sanctions.
-Désormais, la question de l’intérêt à trouver un repreneur sera mieux posée que ce n’était le cas.
-Concernant le deuxième volet du texte, sur les OPA hostiles, largement évoqué par Madame la rapporteure et Monsieur le ministre, c’est d’abord pour la France l’occasion de se mettre au diapason de ses voisins comme l’Allemagne.
 C’est ensuite l’occasion de favoriser l’actionnariat de long terme.
-C’est enfin la confirmation que la réussite d’une reprise de site ou d’une OPA passe par le respect, l’écoute et l’engagement des salariés.
 Le nouveau pacte pour la réussite de l’entreprise n’oublie aucun des signataires.
 C’est une vraie réponse aux licenciements boursiers.
 Je suis fier du travail que nous avons accompli ensemble.
 Nous serons là aussi, j’en suis certain, pour veiller à son application.
-Que ceux qui vont écrire les décrets se le disent, et soient prudents dans leur manière de l’interpréter.
-Nous avons constitué un « pack » pour présenter une proposition de loi qui va prendre aujourd’hui corps dans le pays, avec, bien sûr le soutien du Gouvernement.
-C’est un beau travail collectif, qui n’aurait pas pu se réaliser sans nos administrateurs qui, nuit et jour, ont coopéré avec nous.
-Je ne citerai pas leurs noms car ce n’est pas l’usage, même lorsque leurs parents sont dans les tribunes, mais je les salue de tout cœur.
 Très bien ! Dans la discussion générale, la parole est à Monsieur Marc Dolez.
-Cette proposition de loi n’apporte pas, selon nous, une réponse qui soit véritablement à la hauteur de la situation et des difficultés industrielles que connaissent nos territoires.
-Comme vous l’avez rappelé, madame la rapporteure, la prééminence des stratégies financières sur les projets industriels a depuis de nombreuses années des conséquences dramatiques dans de multiples bassins d’emploi.
-En dix ans, l’industrie française a effectivement perdu sept cent cinquante mille emplois, et sa part dans la valeur ajoutée est passée de dix-huit à douze virgule cinq pourcent.
 Malheureusement, l’hémorragie se poursuit.
-Les fermetures de sites industriels que nos territoires subissent de plein fouet sont avant tout des drames humains.
-Je pense en particulier à cet instant au site de Corbehem, dans le Pas-de-Calais, site rentable du groupe papetier finlandais Stora-Enso, qui en a annoncé en début d’année la fermeture, plongeant ainsi trois cent trente salariés et leurs familles dans le désarroi.
-De telles fermetures représentent un traumatisme pour les salariés, pour leurs familles, elles provoquent aussi, parce que l’activité disparaît, un véritable choc pour les habitants, pour les élus locaux, souvent désemparés et impuissants.
-La financiarisation de notre économie est le résultat d’une logique qui conduit à favoriser les intérêts financiers à très court terme et à sacrifier, hélas, notre outil industriel, la recherche et l’innovation.
-Je ne reviens pas sur la genèse même de cette proposition de loi, qui montre combien est grand l’écart entre les objectifs initialement affichés et le dispositif finalement proposé.
-Celui-ci ne concerne en effet que les entreprises et établissements d’au moins mille salariés ou appartenant à des groupes ayant un tel effectif.
 Cela exclut d’ores et déjà un grand nombre d’entreprises et de groupes.
-Le dispositif ne concernera que mille cinq cents entreprises au plus et aura un impact sur quinze pourcent des plans de sauvegarde de l’emploi et sur trente pourcent seulement des personnes touchées par ces PSE.
-Le texte instaure certes une obligation de rechercher un repreneur, mais il ne s’agit que d’une obligation de moyens.
-Les sanctions prévues ne sont guère dissuasives puisqu’il est question d’un montant ne pouvant dépasser vingt fois le SMIC par emploi supprimé, dans la limite de deux pourcent du chiffre d’affaires annuel de l’entreprise.
-À titre de comparaison, Continental a dépensé cinquante millions d’euros pour fermer son site de Clairoix, soit quarante SMIC nets par emploi supprimé.
-En réalité, le mécanisme permettra aux employeurs qui refusent de revendre le site à un concurrent d’anticiper et d’intégrer le coût de cette pénalité dans le plan social.
-Il est donc à craindre que le dispositif n’ait qu’un effet marginal sur ces stratégies que nous connaissons bien.
-Vous l’aurez compris, toutes ces raisons ne permettent pas aux députés du Front de gauche de voter ce texte mais, pour ne pas faire obstacle aux quelques modestes avancées qu’il contient, ils s’abstiendront à nouveau.
 La parole est à Monsieur Guillaume Bachelay.
-L’objectif de doter la France d’une base industrielle solide, après la disparition de sept cent cinquante mille emplois industriels en dix ans, doit soulever l’énergie des forces économiques et sociales.
 C’est le sens de notre politique globale pour la compétitivité.
 Depuis vingt mois, tous les outils de l’action publique sont mobilisés.
-Il y a de l’investissement, avec Bpifrance pour épauler les PME, les ETI, l’économie sociale et solidaire, mais aussi le nouveau programme d’investissements d’avenir, pour moitié dédiés à la transition énergétique, ainsi que le crédit d’impôt compétitivité emploi.
-L’innovation est stimulée à travers les filières, les plans de la Nouvelle France industrielle, les mesures pour une véritable culture de l’innovation, le crédit d’impôt recherche.
-La simplification est encouragée, qui doit notamment prévaloir aux dix étapes clés de la vie d’une entreprise.
-La loi sur la sécurisation de l’emploi conjugue adaptation des entreprises à la conjoncture et nouveaux droits pour les salariés.
-La qualification est confortée : moyens supplémentaires pour l’éducation et l’université, plus grande accessibilité des demandeurs d’emploi à la formation professionnelle.
 Ce sont des efforts sans précédent pour la montée en gamme de notre tissu productif.
-C’est le sens du pacte national pour la compétitivité de novembre deux mille douze, dans le prolongement du rapport Gallois, que doit prolonger à son tour le pacte de responsabilité proposé par le chef de l’État.
 Déjà, des premiers résultats sont là.
-La France renoue avec la croissance et au quatrième trimestre, l’investissement a rebondi après deux ans de recul.
-Nous montrons ainsi qu’en matière économique, il n’y a pas de fatalité et que tous les leviers doivent être activés pour encourager l’investissement, l’esprit d’entreprise, l’emploi.
-C’est cette même volonté qui inspire la proposition de loi dont nous débattons et que portait avec force le candidat François Hollande.
-Les expériences vécues par de nombreux salariés et élus locaux la justifient pleinement, elles l’ont même inspirée.
-Dans ce cas, dans des conditions précises qui ont été rappelées tout à l’heure, des pénalités proportionnées pourront être décidées et affectées, via Bpifrance, à la réindustrialisation du bassin d’emploi touché.
 Partout où existe une opportunité réelle de faire perdurer une activité, il faut la saisir.
 C’est l’intérêt de tous, et c’est notre devoir.
-Les salariés et leurs comités d’entreprise seront associés à une procédure qui concerne leur avenir au premier chef.
-L’entrepreneur candidat à la reprise sera encouragé grâce à un diagnostic partagé sur les atouts du site et les éventuels investissements à engager.
-Les collectivités territoriales, forcément en première ligne lors d’un projet de fermeture, seront mieux informées, davantage impliquées.
-Le fil d’Ariane de ce texte, c’est le choix de l’économie réelle face aux pratiques spéculatives et abusives.
-Par économie réelle, nous entendons liberté d’entreprendre et de réentreprendre, long terme, concurrence loyale, information des salariés.
 C’est le sens de l’autre partie du texte.
-Notre objectif, c’est que l’entrée dans le capital d’une entreprise soit une chance pour son développement, non le prélude à son démantèlement.
-Il faut entendre les entrepreneurs confrontés à des OPA inamicales, ou menacés de l’être, OPA essentiellement motivées par la recherche du profit maximal à court terme ou par des visées monopolistiques.
-C’est injuste pour le chef d’entreprise et les salariés concernés, c’est aussi dangereux pour l’activité dans notre pays, qui a besoin de visibilité et de stabilité.
-Cette promotion de l’actionnariat durable est d’ailleurs soutenue par plusieurs grands capitaines d’industrie.
 Pour toutes ces raisons, son adoption est d’intérêt général.
 (Applaudissements sur les bancs du groupe SRC.) La parole est à Monsieur Patrick Hetzel.
-Il faut en effet montrer que le Parlement agit pour lutter contre les usines qui ferment, il faut communiquer ! La majorité est en difficulté une nouvelle fois, on l’a vu ce week-end.
 Pourtant, ce texte n’apporte aucune réponse au désarroi industriel de notre pays.
 Il ne crée aucun outil pour relancer l’activité.
 Il ne permet aucunement de donner confiance aux chefs d’entreprise, aux investisseurs.
-C’est même le contraire ! Si les articles du titre trois qui visent à privilégier l’actionnariat de long terme ont été considérablement réécrits ou modifiés, ils n’en demeurent pas moins à contre-courant des règles en vigueur chez nos partenaires économiques.
-Ainsi, l’article cinq qui prévoit d’attribuer automatiquement un droit de vote double après deux ans de détention… Très bien ! …contredit le principe selon lequel une action égale une voix.
-En imposant ce droit de vote double, vous risquez de décourager les investisseurs et de réduire l’attractivité des entreprises françaises pour les investisseurs internationaux.
-Quel paradoxe ! C’est à contre-courant par rapport aux déclarations du Président de la République, la semaine dernière encore.
-L’article premier, qui est le cœur de votre proposition de loi, constituerait la formule magique pour que les sites qui ferment trouvent enfin un repreneur.
-Cet article vise à obliger les dirigeants d’entreprise à rechercher un repreneur en cas de projet de fermeture d’un établissement avec pour conséquence un projet de licenciement collectif.
-Il prévoit également d’augmenter les moyens d’information et d’action des salariés, ainsi que ceux du tribunal de commerce, qui pourrait prononcer des sanctions très importantes en cas de refus d’une offre de reprise sérieuse sans motif légitime.
 Il est tout à fait décent que les salariés, les élus soient informés.
-C’est toujours un choc de découvrir, souvent dans la presse, qu’un établissement ferme et que les salariés se retrouvent devant une porte close du jour au lendemain.
 Le traitement de l’information doit être clair et transparent.
 Nous sommes d’accord sur ce point.
 Mais le texte que vous nous proposez va beaucoup plus loin.
-Il risque d’ailleurs, contrairement à ce que vous venez d’indiquer, monsieur le président de la commission, d’être censuré par le Conseil constitutionnel, malgré toutes les précautions que Madame la rapporteure a tenté de prendre, en lien avec le Conseil d’État.
 Nous craignons que cela ne suffise pas.
-Ce sont les monopoles privés qui vous intéressent ! Monsieur le président de la commission, laissez-moi m’exprimer.
 Le Conseil constitutionnel se prononcera sur cette question et nous verrons bien.
 Il y aura un recours.
-Vous pensez qu’il n’y a pas d’atteinte à la liberté d’entreprendre, nous pensons le contraire.
-Je pourrais continuer de citer le rapporteur pour avis au Sénat car l’avis de la Haute assemblée est bien plus détaillé.
 Soyez certains que nous nous en servirons pour le recours.
-Je suis d’ailleurs certain que les sénateurs feront de même, car il y a un vrai problème juridique, même si vous voudriez l’évacuer.
-C’est encore la pensée magique qui, de temps en temps, règne, mais ce n’est pas parce que vous dites qu’il n’y a pas de problème de constitutionnalité qu’il n’y en a pas.
 Nous l’avons d’ailleurs vu très souvent ces derniers mois.
 Nous l’avons vu dans les deux sens ! Oui, bien sûr.
 Nous verrons bien.
-Au-delà de ces considérations constitutionnelles, l’article premier impose des contraintes administratives lourdes pour le chef d’entreprise qui est en difficulté.
 Il est sans doute prévu après deux mille dix-sept.
 Vous êtes manifestement en difficulté.
 Écoutez plutôt l’opposition, surtout lorsqu’elle est de bon conseil.
 Une nouvelle fois, je vois le Gouvernement osciller entre politique de gribouille et politique ubuesque.
-Comme le décalage est grand entre les discours et les mesures prises ! Il y a les discours et il y a les actes, radicalement différents.
-Je crains que la baisse de soixante-dix-sept pourcent des investissements étrangers en France en deux mille treize se confirme dans les prochaines années, avec ce genre de proposition de loi qui décourage les investissements en France.
-On ne peut que le regretter, car il y va de l’intérêt de notre pays.
 On voit bien que votre texte enclenche une spirale infernale.
-Vous ne l’avez pas lu ! En conclusion, nous avons bien compris que cette proposition de loi était pour vous un symbole, que c’est une loi d’affichage, essentielle avant les élections municipales.
-D’ailleurs, Monsieur Hamon l’a dit, il s’agit de faire adopter des textes de gauche.
 Je suis d’accord sur un point : c’est effectivement un texte de gauche.
-Très bien ! Malheureusement, il n’empêchera nullement les usines de fermer et il n’incitera pas à la reprise économique, bien au contraire.
-Il ne remplacera pas une véritable politique économique structurante et compétitive dont le pays a besoin.
-Nous ne pouvons que le regretter et c’est la raison pour laquelle nous nous voyons obligés de voter contre.
-Très bien ! J’invite le président de la commission des affaires économiques à écouter les orateurs.
-(Sourires.)   C’est dur d’entendre un tel discours anti-entreprises ! Il faut essayer : c’est la démocratie.
 La parole est à Monsieur Meyer Habib.
-Madame la présidente, monsieur le ministre, monsieur le président de la commission des affaires économiques, madame la rapporteure, mes chers collègues, la désindustrialisation n’est pas une fatalité.
-Vous allez donc voter pour ce texte ! Attendez ! Nous le savons, et nous sommes tous d’accord, la fermeture d’une usine peut provoquer un véritable traumatisme chez les salariés concernés.
-Et ce traumatisme peut s’accompagner d’une colère légitime lorsque l’entreprise qui ferme est bénéficiaire.
-Ces situations appellent la plus grande responsabilité dans la conduite de la politique de redressement industriel du pays, sans opposer les uns aux autres, mais avec la seule volonté de préserver l’emploi, en adaptant les savoir-faire de nos travailleurs dans un monde qui change.
 Les objectifs de cette proposition de loi sont donc louables.
 Malheureusement, elle fait en réalité tout le contraire.
-Loin de favoriser l’emploi, vous allez à l’inverse attacher un boulet supplémentaire à nos entreprises pour vous assurer qu’elles coulent.
-Que cherchez-vous donc, mesdames et messieurs les députés de la majorité ? À accélérer le décrochage industriel de la France ? Avec la proposition de loi « Florange », vous semblez hélas vouloir assurer à l’industrie française le même destin que ces tristement célèbres hauts-fourneaux.
 Il y a un écart incompréhensible entre vos paroles et vos actes.
 Vous parlez de courage, de compétitivité, de pacte de responsabilité.
-Vous parlez aux chefs d’entreprise et vous leur demandez de venir créer des emplois en France.
-Vous parlez presque comme une gauche moderne, et je veux saluer cette évolution sémantique de la gauche française, qui prend enfin conscience que nous sommes au vingt et unième siècle.
-Ce n’est pas vrai ! Et malgré le coup de semonce de la baisse de soixante-dix-sept pourcent des investissements étrangers en deux mille treize, qui a été rappelé, vous persistez dans l’erreur.
-Au groupe UDI, nous avons toujours considéré que la compétitivité constitue la clé de voûte pour relancer notre industrie.
-La compétitivité passe par une baisse massive et immédiate des charges qui pèsent sur les entreprises afin de libérer l’activité, et leur permettre de lutter à armes égales avec nos principaux concurrents.
-Le rapport Gallois sur la compétitivité de l’industrie française vous offrait cette possibilité ; nous regrettons vivement que vous ne l’ayez pas saisie.
-Nous devons également renouer avec une véritable stratégie de valorisation des filières, en amont et en aval, et investir davantage dans l’innovation et la recherche pour redonner du souffle et des perspectives d’avenir à notre industrie qui décroche.
 Malheureusement, ce texte nous semble archaïque.
-Il poursuit deux objectifs : d’une part, garantir que des sites industriels rentables ne puissent être fermés pour des raisons stratégiques et financières sans que tout ait été fait pour trouver un repreneur et, d’autre part, favoriser l’actionnariat de long terme.
 Je me concentrerai sur le premier de ces deux volets.
 Ce dispositif ne permettra pas de maintenir l’activité, hélas.
-Si le texte avait été en vigueur au moment de l’affaire Mittal, l’issue aurait-elle été différente ou plus favorable pour les salariés du site ? Très probablement, non.
-Il suffit d’avoir quelques rudiments de compréhension de l’économie pour s’en rendre compte.
-Vous vous apprêtez déjà à alourdir la législation, quand l’ensemble des acteurs économiques du pays vous demandent plus de stabilité normative, conformément au choc de simplification annoncé et toujours attendu à ce jour.
-Les obligations nouvelles et les sanctions que vous faites peser sur les dirigeants d’entreprise dans le cadre de la recherche d’un repreneur sont juridiquement fragiles, inutiles en termes de sauvegarde d’emplois et dangereuses économiquement.
-Inutiles en termes de sauvegarde d’emplois, ensuite, car de l’aveu même des rapporteurs, les sanctions ne concerneront qu’un nombre marginal de sites alors que les nouvelles contraintes s’imposent à tous.
-En alourdissant les procédures et les délais, ce texte pourrait avoir des conséquences contre-productives à l’égard d’éventuels repreneurs, dissuadés par la lourdeur de ces nouvelles contraintes.
-À défaut, nous risquons de perdre des gains de compétitivité précieux dans la lutte industrielle qui nous oppose à nos principaux partenaires, et particulièrement à l’Allemagne.
-Mais non ! Plus généralement, ce texte participe au climat de défiance à l’égard des entrepreneurs, sur lesquels vous faites peser une véritable présomption de mauvaise foi.
-Pour l’ensemble de ces raisons, le groupe UDI considère que l’ambition portée par le titre de cette proposition de loi ne se retrouve pas dans son contenu, hélas.
-Il faut relire le texte ! Comme vous l’aurez compris, nous voterons contre ce texte qui n’aura aucun effet sur les fermetures de sites industriels et dont l’effet épouvantail à l’égard des investisseurs isolera un peu plus notre pays.
 Très juste ! Bravo ! La parole est à Monsieur Christophe Cavard, pour le groupe écologiste.
-Madame la présidente, monsieur le ministre, chers collègues, nous examinons de nouveau la proposition de loi visant à reconquérir l’économie réelle, sept jours seulement après son second passage dans cet hémicycle et dans la foulée de son rejet, hélas ! par nos collègues sénateurs.
-Ils ont été raisonnables ! Que dire de plus qui n’ait été dit ? Le texte que nous examinons aujourd’hui est le fruit d’un travail collectif des élus écologistes et socialistes.
-C’est vrai ! Nos groupes l’ont déposé dans une préoccupation commune de poser des garde-fous… Plus fou que garde ! …et de limiter les abus d’une spéculation qui nuit à nos emplois et à certaines de nos entreprises.
-Ce texte est avant tout une réponse à un constat implacable : notre tissu industriel disparaît progressivement.
-Les chiffres le montrant sont bien connus et nous n’avons cessé de les répéter depuis le début des discussions sur cette loi.
-En trente ans, selon la direction générale du trésor d’emplois, le nombre d’emplois dans l’industrie française est passé de cinq virgule trois millions à trois virgule quatre millions.
 Cela représente une baisse de trente-six pourcent.
-Ce pourcentage fait de la France l’un des pays d’Europe connaissant le plus fort mouvement de désindustrialisation.
-Et, nous le savons, le processus s’accélère, puisqu’un tiers environ de ce chiffre concerne seulement les dix dernières années, ce qui correspond à un million d’emplois.
-C’est énorme ! Nous le savons tous : il est impératif que notre tissu industriel regagne de son dynamisme, du point de vue de l’emploi, mais aussi pour se moderniser.
-Pourtant, pas de fatalisme ! Comme l’annonce son intitulé, le texte propose une piste qui se résume à ces deux mots : l’économie réelle.
-Si ce titre a pu sembler obscur, ses enjeux, eux, sont très clairs : stopper les comportements purement spéculatifs qui affaiblissent notre appareil productif et remettre l’intérêt général au centre de l’économie.
-Ces dernières années, les politiques ont délaissé l’économie réelle, comme s’ils baissaient les bras face à une financiarisation toujours plus grande de l’économie.
-Il en résulte une situation où le poids de la sphère financière est démesuré par rapport à celui de l’économie réelle.
-Alors que l’ensemble de la sphère financière représentait environ deux fois et demie l’économie réelle en mille neuf cent quatre-vingt-dix, ce rapport a quadruplé, puisque la finance représente désormais plus de dix fois l’économie réelle.
-Je ne parlerai pas, une fois encore, du célèbre cas de Florange, un site rentable qui a dû fermer ses hauts fourneaux à cause d’une logique dirigée vers le profit maximal à court terme.
-Cette dictature de la rentabilité est d’autant plus grave que derrière ces noms d’entreprises, derrière ces acronymes comme celui d’OPA et derrière ces situations surmédiatisées, il y a avant tout des salariés et des drames personnels.
-Si dans le monde de la finance, les usines et les travailleurs sont des chiffres, des variables d’ajustement, les souffrances des salariés sont, elles, bien réelles, lorsqu’ils se retrouvent confrontés au chômage et à des projets d’avenir détruits.
-À travers cette proposition de loi, nous affirmons qu’il est toujours temps de changer de cap, pour aller enfin dans le sens du maintien et du redéploiement de notre tissu industriel.
-À travers elle, nous interrogeons ces situations de perte de l’outil de travail sur des sites rentables.
-Nous le disons très clairement : fermer ces sites alors que des repreneurs étaient prêts à les racheter est insupportable socialement et inacceptable économiquement.
-Il est grand temps que la France prenne conscience de son retard par rapport à d’autres pays, qui ont déjà mis en place de tels outils, et qu’elle protège ses travailleurs et son industrie.
-Le texte propose des mesures concrètes : elle pose des conditions à la fermeture d’entreprises, en obligeant un dirigeant souhaitant fermer un site à plus de transparence dans ses démarches.
-Cela est une bonne chose, d’autant plus que cette obligation de recherche d’un repreneur est assortie de sanctions pour les employeurs qui ne s’y plieraient pas.
-Les mesures prises en faveur d’une meilleure information des salariés concernant leur possibilité de reprise de l’établissement sont importantes.
-Pour aller plus loin, dès la première lecture, les écologistes, grâce à un amendement que j’ai défendu, ont obtenu que soit facilitée la reprise d’entreprise par les salariés sous forme d’une société coopérative de production – ces fameuses SCOP.
-J’en profite d’ailleurs pour saluer le renforcement de cette proposition dans le texte sur l’économie sociale et solidaire que vous défendez, monsieur le ministre.
-La logique est simple : en mettant les salariés aux manettes de leur entreprise, on évite les comportements opportunistes de profit, car on confie la gestion et la production à des personnes qualifiées qui connaissent leur activité et qui ont intérêt à ce que celle-ci perdure.
-De nombreuses mesures vont dans le sens d’une plus grande égalité entre les travailleurs et d’une plus grande transparence.
-Je pense notamment à la création d’un droit de vote triple pour les actionnaires détenant un titre depuis plus de cinq ans.
 Cela favorisera l’actionnariat de long terme plutôt que les intérêts purement spéculatifs.
-Par ailleurs, la possibilité d’attribuer jusqu’à trente pourcent des actions, de manière gratuite, à tous les salariés parachève le dispositif.
-Afin de le renforcer, nos collègues écologistes au Sénat ont fait adopter un amendement précisant que la répartition des actions devait se faire de manière équitable, dans un rapport maximum de un à cinq, afin d’éviter des écarts trop importants entre employés.
-Le texte ayant été rejeté dans son ensemble au Sénat, nous défendons à nouveau cette position dans notre assemblée.
-Cette proposition de loi limite en outre la prise de contrôle des sociétés par des groupes prédateurs, qui, bien souvent, font peu de cas des salariés travaillant au sein des entreprises rachetées.
-Les OPA devront déboucher sur un contrôle d’au moins cinquante pourcent du capital de la société cible, sous peine d’invalidation.
-Dans la même perspective, nous saluons le renforcement du rôle des comités d’entreprise et les sanctions prévues en cas de non-respect des obligations d’information ou d’association, qui responsabilisent les employeurs vis-à-vis de leurs salariés.
 Ces sanctions nous paraissent justes.
-Dans le cas où le tribunal de commerce juge que l’entreprise n’a pas respecté ses obligations ou qu’elle a refusé une offre de reprise sérieuse, elle sera soumise à des pénalités financières.
-Enfin, nous saluons la suppression de l’article neuf qui sanctuarisait les zones industrielles abandonnées, en empêchant leur reconversion vers un autre usage et leur réhabilitation.
-En effet, les dispositions de cet article nous paraissaient en contradiction avec le projet de loi ALUR, tout fraîchement voté, dont l’ambition est de lutter contre l’artificialisation des zones naturelles et agricoles, mais également de développer l’offre de logement.
 Vous l’avez compris, la lutte contre la désindustrialisation est pour nous une priorité.
-Néanmoins, les écologistes souhaitent qu’au-delà d’une simple défense du potentiel productif, nous ayons une vraie réflexion sur les modalités de son développement et de sa durabilité, à l’échelle des territoires locaux, de la France et de l’Europe.
-Pour développer l’économie réelle et l’emploi, nous devons soutenir de nouvelles filières industrielles et une production de qualité.
-Pour cela, misons sur la recherche et sur le vivier de chercheurs et d’ingénieurs que compte notre pays, ainsi que sur la formation professionnelle.
 Enfin, au-delà des filières à vocation environnementale, nous plaidons pour une nouvelle révolution industrielle.
-Afin de s’adapter aux défis de demain, l’industrie devra intégrer les principes de l’économie dite circulaire : l’économie du recyclage.
-Elle devra être plus écologique, plus économe, non seulement en consommation de matières premières, mais aussi en flux comme l’eau ou l’énergie, et moins polluante.
-C’est là une opportunité de développement de nouveaux process industriels et de nouveaux facteurs de compétitivité, à l’heure où l’énergie et les ressources sont plus rares, donc plus chères.
-Ainsi cette proposition de loi permettra à nos entreprises de se doter d’instruments opérants pour faire face aux fermetures injustifiées.
-Si elle propose des premières pistes pour l’avenir industriel français, celles-ci doivent encore être confirmées.
-Tout reste à faire pour conduire cette nouvelle révolution industrielle que nous appelons tous de nos vœux.
-Les écologistes, cosignataires de cette proposition de loi, voteront donc ce texte, prouvant ainsi – permettez-moi ce clin d’œil, monsieur le ministre, chers collègues – qu’ils peuvent aussi être en phase avec le Gouvernement.
-(Sourires.) Très bien ! C’est de plus en plus rare ! La parole est à Monsieur Christophe Léonard.
-Madame la présidente, monsieur le ministre, chers collègues, la proposition de loi visant à reconquérir l’économie réelle que nous examinons cet après-midi en lecture définitive, quoiqu’en disent ses détracteurs, constitue un progrès social face au diktat de la finance.
-Ce texte constitue en effet la concrétisation de la nécessité de retrouver une marque de respect partagé entre les acteurs du monde du travail.
-Elle renforce indiscutablement la démocratie sociale, en permettant au comité d’entreprise d’être informé du projet de fermeture, en l’associant aux recherches d’un repreneur, mais aussi en favorisant une information précoce des élus au suffrage universel concernés.
-À cet égard, elle donne la possibilité au comité d’entreprise ou, à défaut, aux délégués du personnel, s’ils estiment que des offres crédibles ont été écartées par la direction de l’entreprise, de saisir le tribunal de commerce.
-L’opportunité est également donnée aux salariés de reprendre l’activité industrielle, en leur permettant, comme tout tiers, de déposer une offre de reprise.
-Les personnes publiques pourront au surplus demander au juge le remboursement de tout ou partie des aides financières publiques versées lors des deux dernières années au titre du site de production concerné par le projet de fermeture.
 Bien sûr, ce texte aurait pu être plus contraignant.
-J’avais d’ailleurs déposé en ce sens plusieurs amendements en première lecture, considérant comme une évidence que la gauche n’a pas à s’excuser d’exercer le pouvoir par la conclusion répétée de compromis sociaux timides.
-Je reste d’ailleurs convaincu que ces propositions auraient pu constituer de modestes mais utiles marqueurs.
-Cela étant, en l’état actuel de notre droit, cette proposition de loi visant à reconquérir l’économie réelle matérialise indiscutablement la volonté de notre majorité de soutenir les vrais entrepreneurs, en protégeant les outils de production et leurs salariés.
 Notre pays a besoin de toutes les énergies disponibles pour réenchanter le rêve français.
-La nouvelle France industrielle, portée par le Gouvernement, participe de cette perspective, dont ce texte, aux côtés des trente-quatre filières industrielles d’avenir, marque concrètement l’avancée.
 J’invite par conséquent la représentation nationale à le voter sans détours.
-(Applaudissements sur les bancs du groupe SRC.) Très bien ! La parole est à Monsieur Jean-Louis Destans.
-Madame la présidente, monsieur le ministre, madame la rapporteure, monsieur le président de la commission des affaires économiques, mes chers collègues, le travail que nous avons engagé voilà plusieurs mois autour de cette proposition de loi arrive aujourd’hui à son terme.
-Avant que chacun d’entre nous soit amené à prendre définitivement position par son vote, je veux insister sur le volet de ce texte consacré à la recherche d’un repreneur, et rappeler, tout de même, quelques vérités.
-Mais au-delà de cette dimension symbolique, je veux rappeler que cette proposition de loi est d’abord née sur le terrain, avec des salariés, avant d’être travaillée au Parlement.
-Elle trouve son origine à Alizay, dans l’Eure – dans la circonscription de François Loncle – sur le site du papetier finlandais M-Real qui, en mars deux mille dix, annonce de manière informelle son intention de stopper l’activité papetière.
-Le personnel demande alors que les négociations pour identifier un repreneur s’engagent rapidement et, ainsi, éviter les licenciements – de près de quatre cents salariés – et une rupture d’activité.
-Il faudra attendre quatorze mois – je dis bien : quatorze mois – pour que l’usine soit officiellement mise en vente.
-Malgré des offres de reprise, notamment celle du thaïlandais Double A, le deux avril deux mille douze, trois cent trente salariés sont licenciés par une direction finlandaise qui ne voulait pas voir arriver un nouveau concurrent sur le marché européen.
-Voilà, mes chers collègues, d’où vient la proposition de loi que nous allons voter aujourd’hui.
-Il fallait le rappeler ! Voilà le type de situation qu’elle devrait nous permettre d’éviter : nous ne sommes pas dans la posture ou l’incantatoire, nous sommes dans le concret et l’efficacité.
 Bien sûr, j’ai entendu les quelques interventions qui ont rappelé la liberté d’entreprendre.
-Mais, sincèrement, de quoi parlons-nous ? La liberté d’entreprendre, c’est la liberté d’investir en France, de créer de l’emploi, d’enrichir un patrimoine industriel et de développer un savoir-faire.
 C’est aussi la liberté d’innover et, parfois, de prendre des risques économiques.
 C’est enfin un droit, à revendiquer et à protéger.
 L’État et la loi se doivent d’en être les garants.
-La liberté d’entreprendre que nous voulons défendre avec ce texte, c’est celle du thaïlandais Double A, qui voulait relancer la machine à papier d’Alizay et, aujourd’hui, l’usine de pâte à papier.
-C’est la liberté d’entreprendre d’un industriel qui a déjà créé plus de cent cinquante emplois et qui s’est engagé à en créer cent de plus dans les prochains mois.
-C’est aussi la volonté des salariés, qui ont toujours cru dans leur outil industriel et leur savoir-faire, mais qui se sont heurtés à la décision la plus violente et la plus incompréhensible qui soit : la fermeture d’un site rentable.
-Aussi, soyons assez lucides pour faire la part des choses entre la liberté d’entreprendre créatrice et, à l’inverse, ce qui s’apparente parfois à un droit unilatéral à la désindustrialisation.
 Ces cas, aussi rares soient-ils, seront toujours trop nombreux.
-La déflagration sociale, économique et territoriale qu’ils provoquent systématiquement mérite que l’on fasse appel à la loi, non pas pour fixer une obligation de résultat, mais bien pour introduire une obligation de moyens et sanctionner lorsqu’ils n’ont pas été mobilisés.
 Aujourd’hui, j’ai la conviction que nous franchissons une étape décisive.
-En reconnaissant dans la loi la légitimité des partenaires sociaux pour définir un projet industriel, en associant à ce travail les pouvoirs publics, notamment les collectivités locales, nous reconnaissons le fait que chacun peut détenir une forme de légitimité à intervenir.
 Excellente démonstration ! Dans l’Eure, nous avons dû la conquérir.
-Nous avons dû jouer du rapport de forces pour faire accepter un projet alternatif à celui de la fermeture.
-Nous n’avions pas d’autres moyens juridiques que de nous porter acquéreurs du site pour espérer lui donner un nouvel avenir.
-Nous en avons fait le pari : un pari risqué, comme certains ont pu dire, un pari osé pour d’autres, en tout cas un choix assumé, une volonté politique affirmée et partagée qui se retrouve aujourd’hui pleinement dans ce texte.
 Mes chers collègues, cette proposition de loi est attendue.
 Elle sera utile et efficace.
-Elle crée les outils juridiques dont nous avons dû nous passer dans l’Eure voilà plus d’un an.
 Je la voterai avec conviction et fierté.
 (Applaudissements sur les bancs du groupe SRC.) La discussion générale est close.
 La parole est à Monsieur le ministre délégué.
-Je souhaiterais exprimer une ou deux réactions aux interventions qui ont été faites, en particulier à là vôtre, monsieur Hetzel.
-Elle a été fondée en mille quatre cent soixante-dix-huit : c’est l’une des plus vieilles, sinon la plus vieille entreprise française.
-Elle appartient au groupe UPM – lequel n’a rien à voir avec l’UMP (Sourires), bien qu’il considère, comme lui, qu’il ne faut pas légiférer, contrairement à ce que nous sommes en train de faire.
-Ce groupe, qui emploie vingt-deux 000 salariés, a décidé de fermer cette papeterie, a refusé deux offres de reprise et voit aujourd’hui d’un mauvais œil l’offre de reprise formulée par quatre-vingts de ses salariés.
-Je braque le projecteur sur ce dossier, car il est entre nos mains : le ministre du redressement productif comme moi-même y travaillons, pour faire en sorte que l’emploi soit maintenu.
-Nous travaillons en effet à des solutions pragmatiques – j’insiste sur ce mot –, extrêmement concrètes, qui respectent la Constitution.
-En effet, quand nous avons réfléchi à la mise en place d’un droit préférentiel de rachat de leur entreprise par les salariés, la question de sa conformité à la Constitution avait été posée.
-Nous avons étudié les dispositions constitutionnelles, en particulier en ce qui concerne le droit de propriété et la liberté du commerce, et nous avons cherché des solutions économiques viables, dans un cadre juridique respectueux de la Constitution, pour faire en sorte de faciliter ces reprises.
-C’est le cas avec cette proposition de loi, qui sera bientôt votée, notamment grâce à la création d’un droit d’information préalable des salariés en cas de cession de leur entreprise.
-Je veux le dire avec force : il faut arrêter d’expliquer que, dès lors que l’on crée un droit, il induira un choc de simplification ou, pour le dire autrement, un choc de complexité.
-Nous ne le pensons pas : le choc de simplification ne marque pas la fin des droits des salariés ni la fin des règles.
-Il faut un minimum de règles car, dans le cadre de l’organisation normale du marché, cela ne fonctionne pas, certains préférant la destruction d’emplois, la politique de la terre brûlée, au maintien de l’emploi.
-Dans les explications de vote, la parole est à Monsieur Jean-Marc Germain, pour le groupe socialiste, républicain et citoyen.
-Madame la présidente, chers collègues, le texte que nous allons voter dans quelques instants fait honneur à notre assemblée, tout d’abord parce qu’il prolonge dans la loi le combat admirable qu’ont mené des femmes et des hommes pour sauver leur entreprise.
-Ce texte, c’est en effet aux « Molex », aux « Conti », aux « Fralib » et aux salariés de Florange que nous le devons.
-Grâce à ces derniers, on ne pourra désormais plus dans notre pays fermer une usine sans chercher un repreneur.
-Ce texte fait également honneur à notre assemblée compte tenu du travail remarquable qui a été conduit par le président de la commission des affaires économiques et notre rapporteure.
 Je tiens à leur rendre hommage au nom du groupe SRC.
-Votre tandem, monsieur le président, madame la rapporteure, c’est au fond une main de fer dans un gant de velours.
-C’est grâce à votre efficacité que nous allons aujourd’hui voter un texte de qualité.
-Alors oui, chers collègues, le groupe SRC votera avec fierté et émotion ce texte dans quelques instants.
-(Applaudissements sur les bancs du groupe SRC.) La parole est à Monsieur Patrick Hetzel, pour le groupe de l’Union pour un mouvement populaire.
 Monsieur le ministre, votre propos est un peu manichéen.
-En effet, on ne peut qu’être en faveur de l’emploi, mais encore faut-il pouvoir en créer.
-La semaine dernière, j’ai écouté avec beaucoup d’attention les propos du Président de la République lorsqu’il a formé le vœu que les investisseurs étrangers soient enfin plus nombreux à choisir la France.
-Or nous avons perdu entre deux mille douze et deux mille treize soixante-dix pourcent des investissements étrangers.
-En outre, on constate aujourd’hui qu’il est réalisé en Espagne quarante fois plus d’investissements étrangers que dans notre pays.
-Quelle mauvaise foi ! Ce faisant, vous empêchez la création d’emplois,… Nous empêchons la destruction d’emplois ! …vous engageant ainsi dans une spirale infernale.
-Nous en reparlerons dans quelques instants au sujet de la proposition de loi relative aux stages, car la philosophie est la même : aux incantations en faveur des investisseurs succèdent les couperets qui entravent l’action de ces mêmes investisseurs.
 En matière de double langage, j’attends donc de voir comment le Gouvernement va réagir.
-Nous sommes tous en faveur de l’emploi, et je vous dénie le droit de dire que nous y serions hostiles.
-Et pour le groupe UPM, qu’est-ce qu’on fait ? Une fois encore, parce qu’il y va de l’intérêt de l’ensemble de nos concitoyens, l’UMP défend la liberté d’entreprise, défend l’emploi, ce que ne fait pas ce texte.
-Et la papeterie de Docelles ? C’est la raison pour laquelle nous voterons résolument contre ce texte.
-Dogmatisme ! Ce n’est pas clair ! Je mets aux voix l’ensemble de la proposition de loi telle qu’elle résulte du texte voté par l’Assemblée nationale en nouvelle lecture.
 La séance est suspendue.
 La séance est reprise.
-L’ordre du jour appelle la suite de la discussion de la proposition de loi tendant au développement et à l’encadrement des stages et à l’amélioration du statut des stagiaires (numéros mille sept cent un, mille sept cent quatre-vingt-douze).
-Mercredi dernier, l’Assemblée a commencé la discussion des articles de la proposition de loi, s’arrêtant à l’amendement numéro quarante-trois à l’article premier.
 La parole est à Monsieur Patrick Hetzel, pour un rappel au règlement.
-Nous avions naturellement souhaité la présence de Madame Fioraso, qui est encore parmi nous aujourd’hui.
-C’est déjà bien ! C’est un honneur qu’elle vous fait ! Toutefois, on nous avait indiqué que nous ne pouvions pas avoir Monsieur Sapin car celui-ci devait être au même moment au Sénat.
 Or, aujourd’hui, il n’en est rien.
-Dans la mesure où ce texte a été étudié par la commission des affaires sociales, il nous semblerait pertinent que Monsieur Sapin soit présent lui aussi, afin de nous donner son éclairage.
-Nous aimerions également savoir si l’ensemble des dispositions de ce texte est conforme aux orientations qu’il souhaite donner à sa politique de l’emploi.
-Nous vous le confirmons : elles le sont ! En plus, il nous fait confiance ! C’est une demande que nous avons déjà formulée.
 Or, ce soir, Madame Fioraso est encore seule présente.
-Il a peut-être la grippe, tout simplement ! Quelle intervention utile, monsieur Hetzel ! La parole est à Madame Sandrine Doucet, pour soutenir l’amendement numéro quarante-trois.
-Comme nous l’avons vu la semaine dernière, les stages à l’étranger ne représentent que six pourcent des stages en France.
-Toutefois, notre pays a aussi le privilège d’être le pays qui envoie le plus de stagiaires à l’étranger, avec sept mille cinq cents personnes concernées.
-L’insertion des jeunes dans le monde du travail peut emprunter des voies diverses, dans différents types d’entreprises et d’emplois.
 La mobilité au sein de l’Union européenne est aussi une chance à saisir.
-Les structures visant à faciliter les échanges et les stages existent au sein de l’Union européenne – je pense au projet Erasmus Plus deux mille quatorze-deux mille vingt, au Fonds social européen ou encore au réseau EURES.
-La parole est à Madame Chaynesse Khirouni, rapporteure de la commission des affaires sociales, pour donner l’avis de la commission.
-Cet amendement est très intéressant ; la précision qu’il tend à introduire va dans le bon sens.
-Il s’agit d’encourager la mobilité de nos étudiants à l’étranger, notamment en Europe.
 On le sait, ce sont de belles expériences.
-C’est aussi une belle manière de faire découvrir l’Europe, mais aussi – et surtout – de défendre des projets qui signalent notre appartenance à l’Europe.
-Avis favorable.
-La parole est à Madame la ministre de l’enseignement supérieur et de la recherche, pour donner l’avis du Gouvernement.
 Cet amendement est très important et je remercie Sandrine Doucet de l’avoir présenté.
-Nous entendons favoriser les stages, y compris pour les jeunes qui sont aujourd’hui dans les filières de formation technologique et professionnelle, lesquels y ont peu accès, de même d’ailleurs qu’aux séjours à l’étranger.
-Absolument ! Nous nous sommes battus, disais-je, et avons obtenu une augmentation de près de quarante pourcent des programmes Erasmus, en prêtant une attention particulière aux filières professionnelles et technologiques.
-Les expériences à l’étranger sont utiles pour l’économie : une étude de l’OCDE montre que le fait d’en avoir une sur son CV augmente de soixante pourcent l’employabilité des jeunes.
-On sait aussi que les jeunes qui suivent les filières professionnelles et technologiques sont, plus souvent que les autres, issus de milieux modestes et qu’ils possèdent moins les codes permettant de faire des séjours à l’étranger.
 Il était donc d’autant plus important de prendre cette mesure.
-Je remercie encore une fois Sandrine Doucet, car son amendement rencontre notre volonté de faire en sorte que les jeunes, au cours de leur formation, aient accès à des stages à l’étranger – en particulier en Europe, mais aussi au-delà.
-C’est la raison pour laquelle je suis tout à fait favorable à l’adoption de cet amendement.
 La parole est à Monsieur Patrick Hetzel.
 Avec cet amendement, c’est de l’Union européenne dont il est question.
-Comme vous le savez, les universités alsaciennes, entre autres, ont développé la coopération à l’intérieur de l’espace rhénan, en l’occurrence avec l’Allemagne et la Suisse.
-Or, tel qu’il est rédigé, cet amendement n’inclut pas les stages en Suisse qui concernent pourtant de nombreux étudiants frontaliers, auxquels il me semble important de prêter attention.
 Cet élément ne me semble pas avoir été pris en compte.
 La parole est à Monsieur Philip Cordery, rapporteur de la commission des affaires européennes.
-Je soutiens cet amendement qui compte d’ailleurs parmi les recommandations de la commission des affaires européennes.
-Comme l’ont rappelé Madame la ministre et Madame la rapporteure, la mobilité est un atout pour les jeunes – au sein de l’Union européenne comme à l’international en général.
 Elle est parfois indispensable pour entrer sur le marché du travail.
 Il est donc absolument nécessaire de promouvoir de tels stages.
-Monsieur Hetzel, si vous avez lu cet amendement dans sa totalité – je suis sûr que c’est le cas –, vous aurez remarqué qu’il y est écrit : « notamment dans le cadre des programmes de l’Union européenne ».
-Or il y a bien d’autres moyens de soutenir la mobilité à l’international – je pense aux multiples aides régionales et aux programmes spécifiques, notamment dans certaines régions transfrontalières, sans oublier, à l’intérieur des différentes universités, les aides visant à développer la solidarité.
 Bref, les moyens d’encourager la mobilité à l’international sont multiples.
 Cela dit, les programmes européens constituent un élément particulièrement important.
-Le nouveau programme Erasmus Plus, en particulier, dont le budget connaîtra une augmentation significative grâce à l’action du Gouvernement, ouvrira beaucoup plus de possibilités qu’auparavant.
 La parole est à Madame Fanélie Carrey-Conte, pour soutenir l’amendement numéro quatre-vingt-un.
-Cet amendement vise à préciser les responsabilités de l’établissement d’enseignement supérieur et du tuteur de stage, qui sont souvent les premiers informés des problèmes que peut rencontrer un étudiant là où il effectue son stage.
-Quel est l’avis de la commission ? Ma chère collègue, il me semble que cet amendement est satisfait, puisque la présente proposition de loi prévoit que l’établissement désigne un enseignant référent qui s’assure notamment du bon déroulement de la période de stage.
 Or, comme vous le savez, le harcèlement est un délit.
-Conformément aux dispositions de l’article quarante du code de procédure pénale, si l’enseignant référent a connaissance de faits constitutifs de harcèlement, il en informera le procureur de la République.
-Cette obligation pourra être rappelée dans l’instruction du Gouvernement concernant l’application de ce texte.
-En outre, dans votre amendement, la notion de « suspicion » est problématique, dans la mesure où elle est vague et ne peut pas reposer sur des faits.
 Je vous demande donc de retirer votre amendement.
 À défaut, j’émettrais un avis défavorable.
 Quel est l’avis du Gouvernement ? Le droit commun s’applique effectivement en la matière.
-Par ailleurs, l’existence d’un enseignant référent simplifie les choses : il informera le procureur de tout acte délictueux défini par le droit et, c’est fort heureux, passible de sanctions.
 Cet amendement étant satisfait, je vous demande de bien vouloir le retirer.
 La parole est à Monsieur Patrick Hetzel.
-Madame la rapporteure l’a indiqué : le code pénal doit s’appliquer en tout lieu et à tout moment.
 De ce point de vue, cet amendement n’introduirait donc pas de novation.
-Toutefois, on voit à l’œuvre, à travers cet amendement comme d’autres du même type, la philosophie consistant à renforcer, fût-ce de manière symbolique, les obligations des entreprises.
 Cela risque de les dissuader de prendre des stagiaires.
-Comment peut-on dire des choses pareilles ? Le meilleur service que l’on puisse rendre à nos jeunes est de leur permettre d’effectuer des stages.
-Or, par ce texte, on cherche certes à protéger les stagiaires, mais l’effet obtenu risque d’être exactement inverse, c’est-à-dire que l’on ne proposera plus de stages aux jeunes potentiellement intéressés.
 Ce faisant, nous n’aurons absolument pas rendu service à notre jeunesse.
-Voudriez-vous autoriser le harcèlement des stagiaires ? C’est incroyable ! La parole est à Madame Fanélie Carrey-Conte.
-À mon sens, on ne peut pas qualifier de symboliques les cas de harcèlement moral ou sexuel et les discriminations.
 Il me paraît vraiment difficile de tenir de tels propos.
-Cela dépend pour qui ! En revanche, je remercie Madame la rapporteure et Madame la ministre pour les précisions qu’elles m’ont fournies, notamment sur le code de procédure pénale, et je retire mon amendement.
 La parole est à Madame Jacqueline Fraysse, pour soutenir l’amendement numéro vingt-sept.
 Cet amendement vise à interdire les stages hors cursus scolaire ou universitaire.
-Notre objectif est de limiter les possibilités de contrats d’embauche précaires et les excès du recours au travail dissimulé.
 Un stage ne peut en aucun cas s’apparenter à un CDD.
 C’est pourquoi nous souhaitons interdire les stages hors cursus scolaire.
 Quel est l’avis de la commission ? L’amendement est satisfait.
-En effet, l’article L. cent vingt-quatre-trois nouveau prévoit que les stages doivent être intégrés dans un cursus pédagogique scolaire ou universitaire.
 Le volume pédagogique minimal de formation sera fixé par décret.
 Nous rappelons ainsi l’interdiction des stages hors cursus.
 Les conventions fantômes, payées par l’étudiant et rattachées à aucune formation disparaîtront de fait.
-Je vous propose, madame la députée, de retirer votre amendement, faute de quoi j’émettrai un avis défavorable.
 La parole est à Monsieur Patrick Hetzel.
-Comme nous avons eu l’occasion de le rappeler, il faut tenir compte du droit existant.
 La loi Cherpion interdit les stages hors cursus.
-Nous n’avons donc pas besoin de la proposition de loi pour régler une question qui fait déjà l’objet de dispositions juridiques.
-La semaine dernière, Monsieur Cherpion est intervenu pour rappeler les grands principes qui avaient été ceux de sa loi.
 Il m’incombe de les rappeler à nouveau.
-Cet amendement est déjà satisfait, non par la proposition de loi mais par un texte antérieur.
 La parole est à Madame Isabelle Le Callennec.
-Certes, il ne faut pas que les jeunes, les étudiants en particulier, soient contraints de s’inscrire ou de se réinscrire dans une formation qu’ils ne suivront pas pour pouvoir enchaîner des stages.
-Une fois que l’on a obtenu son diplôme, l’idéal est de trouver du travail et de s’insérer ! Toutefois, je rejoins mon collègue sur le fait que les dispositions juridiques existent déjà.
-En revanche, je regrette que la question des stages en milieu scolaire ne soit pas réglée.
-Il arrive que des jeunes, ayant goûté au stage de découverte en troisième, souhaitent effectuer des stages lors de leurs années au lycée, durant les vacances scolaires.
-Or il leur est très difficile de trouver de tels stages et la responsabilité du chef d’établissement est alors en jeu, ce qui est tout à fait légitime.
-Très juste ! Le stage de cinq jours en entreprise, né du souci de faire connaître le monde de l’entreprise aux jeunes, fait des émules.
-Pourtant, la loi interdit d’effectuer des stages, non pas hors cursus scolaire, mais pendant les vacances.
-J’aurais trouvé opportun que cette question fasse l’objet de débats lors de l’examen d’un texte visant à encadrer les stages.
-Les freins qui s’opposent à ce que des jeunes, curieux du fonctionnement des entreprises, accèdent à des stages durant les vacances auraient pu être ainsi levés.
 La parole est à Madame la ministre.
-Rien n’empêche un lycéen d’effectuer un stage durant les vacances, pour peu que les responsables de son établissement soient convaincus de la cohérence avec la formation et qu’une convention soit signée.
-Monsieur Hetzel a fait référence à la loi Cherpion, dont le libellé était pertinent et en phase avec ce que nous proposons.
-Mais cette loi a été précisée par un décret d’application, surnommé par les jeunes « décret passoire »tant il bafouait le droit commun en multipliant les exceptions.
-Il convenait de revenir à l’esprit de la loi, celui que souhaitait lui donner Monsieur Cherpion, j’en suis sûre, et qui n’est pas celui des décrets.
-Dans la loi sur l’enseignement supérieur et la recherche, j’ai indiqué également que les stages devaient être intégrés dans une maquette de formation.
-Mais ce qui est nouveau avec cette proposition de loi, c’est qu’elle prévoit qu’un volume pédagogique minimal de formation doit être défini, et ce, par décret, afin de tenir compte de la spécificité des formations.
-Cet amendement est satisfait, puisque l’interdiction des stages hors cursus est intégrée au code de l’éducation et qu’un volume pédagogique minimal sera défini par décret.
 J’en demande donc le retrait.
 La parole est à Madame Jacqueline Fraysse.
 Compte tenu des explications qui m’ont été données, j’accepte de retirer cet amendement.
 La parole est à Monsieur Patrick Hetzel, pour soutenir l’amendement numéro quarante-deux.
 Cet amendement vise à supprimer les alinéas quinze et seize de l’article premier.
-Il est en effet logique qu’un étudiant dont le cursus prévoit une année complète de césure puisse, s’il le souhaite, effectuer un stage d’une durée équivalente.
 Comme l’indiquait Madame la ministre, les mesures d’application doivent être suivies de près.
-Mais celles qui ont été prises dans le prolongement de la loi Cherpion tiennent parfaitement compte de la réalité du terrain, des professions et du souhait des étudiants.
-Or nous entrons là dans un dispositif très coercitif, qui ne permettra pas d’atteindre l’objectif.
-Quel est l’avis de la commission ? Au-delà de six mois, l’intérêt du stage en matière de formation n’est pas démontré.
-C’est la raison pour laquelle nous souhaitons mettre fin aux stages de plus de six mois, ce qui permettra d’éviter les abus et de substituer aux stages les emplois, l’un des premiers objectifs de cette proposition de loi.
 Par ailleurs, les stages longs concurrencent le développement de l’alternance.
-Le régime de dérogation ne concernera que certaines formations à des professions spécifiques, qui prévoient un stage de neuf mois, dans le domaine social.
-Ces dérogations, en nombre réduit et soumises aux contrôles, dureront le temps de l’ajustement des maquettes de formation.
-Quant aux années de césure, elles ne sont pas inscrites dans le processus de formation ; l’étudiant n’est alors plus élève de son école.
-Avis défavorable.
 Quel est l’avis du Gouvernement ? Je souscris pleinement à la réponse de la rapporteure.
-Je précise que l’interdiction des stages de plus de six mois est une disposition issue d’un accord entre partenaires sociaux, intervenu au moment de la conclusion de l’ANI le sept juin deux mille treize.
-Cet accord reprenait les termes de la loi Cherpion, avant qu’elle ne soit déformée par des décrets d’applications malencontreux et antinomiques avec la loi initiale.
-Avis défavorable.
 La parole est à Madame Isabelle Le Callennec.
 Les écoles de commerce imposent une année de césure en troisième année.
-Ainsi que l’a dit Madame la rapporteure, les étudiants ne sont alors plus élèves de l’école, mais leurs parents continuent de payer la scolarité.
-Prévoir des dérogations uniquement dans le domaine social, c’est oublier le cas des écoles de commerce, qui concernent tout de même de très nombreux étudiants ! La parole est à Madame Jacqueline Fraysse, pour soutenir l’amendement numéro vingt-huit.
-L’article L. six cent douze-neuf traite des dérogations à la règle des six mois de durée maximale du stage et renvoie au décret les conditions dans lesquelles elles sont accordées.
 Avec cet amendement, nous souhaitons supprimer les dérogations, et cela pour deux raisons.
-D’une part, nous contestons la voie du décret, qui entretient le flou et nous prive de toute précision sur un point essentiel, puisque la loi ne fixe pas une durée maximale de stage dans le cadre de ces dérogations.
-Quel est l’avis de la commission ? La proposition de loi met fin au régime des exceptions.
 La durée maximale de stage sera bien de six mois.
 Mais, pour certains cursus, notamment dans le domaine social, le changement est d’importance.
-La bonne application de la loi impose une rédaction réaliste – la ministre apportera quelques précisions quant au contenu du décret.
 La période de transition est une mesure raisonnable et strictement bornée dans le temps.
-Elle permettra aux acteurs concernés de revoir certaines maquettes pédagogiques, notamment à l’occasion des états généraux du travail social prévus à la rentrée prochaine.
-Je souhaite le retrait de cet amendement, à défaut de quoi j’émettrai un avis défavorable.
-Quel est l’avis du Gouvernement ? Une discussion est engagée avec le ministère des affaires sociales au sujet des formations qui prévoient des stages plus longs.
-Il faut laisser aux responsables le temps de réformer les maquettes et de réorganiser les sessions de formation, ce qui était d’ailleurs prévu.
-Comme il n’est pas question de procéder de manière autoritaire mais au contraire par le dialogue et la concertation, un certain temps est nécessaire pour réviser les maquettes de formation.
 Rappelons par ailleurs que l’année de césure n’est pas une année de formation.
 Les établissements ne la revendiquent pas comme telle.
-Que fait alors l’étudiant ? Il en profite en général pour s’investir dans une ONG à l’étranger, ou bénéficier du statut de VIE dont nous avons augmenté le contingent.
 Beaucoup d’alternatives, en tout cas, s’offrent à lui.
 Pas du tout, ce n’est pas ainsi que cela se passe dans la réalité.
-Il peut aussi suivre un stage de six mois mais au-delà de ce délai, il ne s’agit plus d’un stage et d’autres possibilités lui sont offertes.
-Pour avoir présidé un institut d’administration des entreprises en université, c’est-à-dire une école en université, je sais exactement de quoi je parle.
-Les gens sont informés et même si le choix est onéreux, il reste un choix pour les familles.
 Beaucoup de dispositifs permettent d’accéder à cette filière, comme les prêts d’honneur.
 Ce n’est pas moi qui cautionne ce système, mais vous.
 Pas du tout ! Vous le dénoncez comme un état de fait.
-Si les familles ne sont pas d’accord pour payer les droits de scolarité pendant une année de césure, elles peuvent s’organiser face aux écoles.
-En l’espèce, cette démarche ne relève pas du domaine de la loi, mais du choix des familles.
 Je défends leur liberté de choisir.
 Ce n’est pas du domaine de la loi, en effet.
 La parole est à Monsieur Patrick Hetzel.
 Je voudrais revenir à la question de l’année de césure.
-Vous devez sans doute savoir, madame la ministre, que la commission des titres d’ingénieur, la fameuse CTI, a considéré, dans ses recommandations, que l’année de césure était bénéfique.
 Dès lors, de nombreux établissements ont décidé de la mettre en place pour leurs étudiants.
 C’est fort probable.
-Je puis vous assurer qu’aujourd’hui, un certain nombre de jeunes souhaitent bénéficier d’une année de césure, d’un stage.
-Ce stage durera plus de six mois, et votre proposition de loi ne répond pas à la situation de nos jeunes.
 La parole est à Madame Jacqueline Fraysse.
-Dans la mesure où ces dérogations ne sont que transitoires, accordées pour les deux prochaines années à un secteur particulier, j’accepte de retirer mon amendement.
 La parole est à Madame Véronique Massonneau, pour soutenir l’amendement numéro cinquante rectifié.
-Cette proposition de loi prévoit de limiter les stages dans le temps, en fixant une durée maximale de six mois au sein d’une même structure.
 Cette disposition est très positive.
-Pour assurer aux entreprises recourant régulièrement aux stagiaires une période de transition, le texte prévoit un délai de deux ans.
-Cet amendement tend à réduire cette période à un an afin d’inciter les entreprises et les organismes d’accueil à se mettre en conformité au plus vite.
-Quel est l’avis de la commission ? Pour les mêmes raisons, la commission a rendu un avis défavorable.
-Je vous propose de retirer votre amendement car ne sont concernées que certaines formations qui ont besoin d’adapter leurs cours.
 La configuration est totalement différente.
 Concertation, liberté, prise de décision assumée : c’est ce que l’on appelle gouverner.
 La parole est à Madame Jacqueline Fraysse, pour soutenir l’amendement numéro vingt-neuf.
-Cet amendement concerne le dédommagement accordé aux stagiaires que nous considérons comme très insuffisant dans l’état actuel du texte puisque seuls les stages de plus de deux mois sont rémunérés, pour un montant très bas, de quatre cent trente-six euros par mois.
-Je l’ai dit dans mon intervention générale, mais je veux le répéter ici, ce montant est inférieur au RSA et ne représente que la moitié du seuil de pauvreté.
-J’en profite pour rappeler que près de dix-huit pourcent des étudiants déclarent renoncer à des soins pour des raisons financières.
-Pour toutes ces raisons, nous vous proposons, par cet amendement, de fixer l’indemnité minimale des stagiaires à la moitié du SMIC et qu’elle soit versée dès le premier jour du stage.
 Quel est l’avis de la commission ? Le débat relatif à la gratification est important.
-Le texte parvient à une solution équilibrée grâce à la distinction opérée entre le statut de stagiaire et celui de salarié.
-L’adage selon lequel tout travail mérite salaire doit ainsi être nuancé pour le cas du stagiaire dans la mesure où les missions confiées sont bien liées à un projet pédagogique.
-Des avancées ont été réalisées par ailleurs par la loi relative à l’enseignement supérieur et à la recherche qui a étendu la gratification à l’ensemble des secteurs.
 Aujourd’hui, administration et entreprise sont sur un pied d’égalité.
 Dans un premier temps, il serait important de stabiliser cette gratification.
 Madame la ministre nous a apporté quelques précisions la semaine dernière.
-L’on sait que ce secteur est confronté à quelques difficultés car certaines structures, certains organismes n’ont pas anticipé ces gratifications.
 Un fonds leur vient en aide.
-Pour résumer, il convient dans un premier temps de stabiliser la situation afin d’améliorer la visibilité sur l’ensemble des gratifications.
-Il conviendra ensuite d’appliquer les dispositions existantes, et je proposerai en ce sens un amendement car il semblerait que certaines structures n’indemnisent pas dès le premier jour des stages d’une durée supérieure à deux mois, mais à partir du troisième mois seulement.
-Mon amendement tendra à préciser que, pour les stages supérieurs à deux mois, la gratification démarre bien dès le premier jour.
 Enfin, il me semble important de préserver un certain équilibre.
-Où fixer le seuil ? Il l’est aujourd’hui à quatre cent trente-six euros pour une durée hebdomadaire de missions, ou de tâches, d’environ trente-cinq heures par semaine.
-Il veiller à ce seuil car il ne faudrait pas que l’on revienne à une situation où l’employeur préfère travailler avec un stagiaire, même sous-rémunéré.
-Avis défavorable.
-Ce n’est pas ce projet de loi qui permettra d’améliorer la situation des étudiants les plus en difficulté mais notre politique s’y est attachée par ailleurs.
 De surcroît, ces étudiants boursiers cumulent la gratification avec le montant de leur bourse.
-Il demeure que ce n’est pas la gratification des stages qui permettra d’améliorer globalement la situation des étudiants.
-Il est évident que le problème de l’accès aux soins, dont vous parliez tout à l’heure, nous préoccupe, mais nous agissons par ailleurs grâce à une politique destinée à l’ensemble des étudiants, notamment les plus précaires.
 Pour toutes ces raisons, je vous serais reconnaissante de retirer votre amendement.
 La parole est à Madame Isabelle Le Callennec.
-Nous n’irons pas dans votre sens, madame Fraysse, car, vous le savez, nous craignons que l’encadrement de ces stages ne conduise à une réduction de leur nombre.
-Nous pensons que la rémunération dès le premier jour compliquera encore davantage l’accès aux stages.
 Des améliorations ont été apportées.
 Autrefois, la gratification commençait au-delà du troisième mois.
-La majorité précédente a permis que la gratification commence après deux mois, ce qui est déjà mieux.
-En revanche, la somme de quatre cent trente-six euros et cinq centimes me paraît tout de même faible, surtout lorsqu’il faut trouver des stages à l’extérieur.
-Il m’aurait semblé intéressant, mais c’est une proposition de loi, de disposer d’une étude d’impact.
-Pardonnez-moi, madame la ministre, de revenir à ce sujet, mais je m’étonne que vous, ministre de l’enseignement supérieur qui prônez la justice sociale, ne vous saisissiez pas de la question de la césure.
-Des parents se retrouvent à payer une année de scolarité dans l’établissement alors que les enfants n’y sont pas ! Je ne comprends pas que vous ne tentiez pas de faire progresser la situation.
-C’est vrai, une obligation est à présent posée dans le domaine social, mais cela a posé de réelles difficultés.
-Dès lors que les stages ont dû être gratifiés à partir du deuxième mois, les étudiants n’ont plus trouvé du tout de stages.
 Le problème du paiement et des lieux de stage dans le domaine social demeure entier.
 Je ne sais pas si ce texte résout ce problème, mais je crains que non.
-Vous ne suivez pas l’actualité ! Vous avez eu la réponse vendredi ! La parole est à Madame Jacqueline Fraysse.
-Il est vrai que ce n’est pas ce texte qui permettra de régler l’ensemble des problèmes que rencontrent de plus en plus d’étudiants, en particulier les problèmes financiers.
 C’est bien dommage.
-Je continue à penser que cette gratification n’est pas suffisante et je maintiens mon amendement.
 La parole est à Madame la ministre, pour soutenir l’amendement numéro cent neuf rectifié.
-Cet amendement rédactionnel tend à harmoniser la rédaction de la proposition de loi en supprimant une liste nominative pour ne laisser que la seule référence à l’organisme d’accueil.
-Il vise par ailleurs à intégrer les périodes de formation en milieu professionnel pour le scolaire.
-La parole est à Madame Véronique Massonneau, pour soutenir l’amendement numéro cinquante et un, deuxième rectification.
-La législation actuelle prévoit que tout stage d’une durée minimale de deux mois consécutifs ouvre droit à une gratification.
-Si cette durée a déjà été abaissée il y a quelques années, elle semble encore trop longue.
-En effet, on a constaté la multiplication des stages d’une durée d’un mois et vingt-neuf jours, durée qui empêche l’ouverture du droit à la gratification.
 Cet amendement vise donc à ramener cette durée minimale de deux mois à quatre semaines.
-Très bien ! Écoutez, madame Le Callennec ! Le groupe écologiste vous remercie, madame la ministre, d’avoir pris en compte cette demande maintes fois formulée.
-Quel est l’avis de la commission ? Pour les mêmes raisons que pour le dernier amendement de Madame Fraysse, la commission a émis un avis défavorable.
-Nous sommes évidemment sensibles à la question de la gratification et de son montant, que nous devons absolument stabiliser dans le secteur privé et surtout dans le secteur public.
 mais des mesures ont été prises, que vous avez saluées.
 Quel est l’avis du Gouvernement ? Même avis pour les mêmes motifs.
 La parole est à Monsieur Patrick Hetzel.
-Ce débat montre bien que l’on veut peu à peu provoquer un glissement visant à ne plus assimiler les stages à une formation, mais à les envisager du point de vue du droit du travail.
-À cet égard, la proposition de loi opère elle-même ce glissement en créant le statut de stagiaire dans le droit du travail.
-Nous voulons protéger les stagiaires ! Ce n’est pas la même chose ! Puisque le message peine à passer, je le répète : il est bon de protéger les stagiaires, mais il est essentiel de protéger l’esprit qui doit être celui du stage.
 Cet esprit, c’est celui d’une formation.
 Or, les débats ne portent pas du tout sur cette question.
-Lorsque nous avons débattu de la question de l’incitation au développement des stages à l’étranger, j’ai d’ailleurs été frappé que l’on ne se soit aucunement préoccupé de la réciprocité.
-Pourtant, dans l’espace européen d’enseignement supérieur et d’éducation, certains pays ont adopté des dispositifs de stages pouvant durer un an.
 J’y vois l’un des points morts de notre discussion.
 On se préoccupe du droit du travail, mais nullement de formation ; c’est fort dommage.
 La parole est à Madame Jacqueline Fraysse.
 Fondé sur quatre semaines, le compromis me semble parfaitement acceptable, tant il est modeste.
-Maintenez-vous votre amendement, madame Massonneau ? Personne ne m’a demandé de le retirer ; il est maintenu.
 La parole est à Monsieur Thierry Braillard, pour soutenir l’amendement numéro quatre-vingt-douze rectifié.
 Cet amendement vise simplement à préciser que la gratification est « universelle ».
-Il prend tout son sens depuis l’annonce faite vendredi par Madame la ministre de créer un fonds concernant les stages effectués en organismes de santé.
 De surcroît, certaines collectivités ont aussi recours à des stagiaires.
-En précisant que la gratification est universelle, elle pourra bénéficier aux stagiaires où qu’ils soient, et nul ne saurait arguer du fait qu’il s’agit ici d’une collectivité ou là d’un autre type d’organisme justifiant le non-paiement.
-Il ne s’agit pas de réécrire l’article, mais d’y insérer un adjectif, « universelle », qui a du sens.
-Quel est l’avis de la commission ? Depuis l’adoption de la loi relative à l’enseignement supérieur et à la recherche, la gratification est déjà obligatoire dans tous les organismes d’accueil.
-Cet ajout serait donc sans objet, puisque la gratification concerne bien tous les stages d’une durée supérieure à deux mois – Madame la ministre pourra apporter des précisions concernant les stages dans le travail social.
-Je propose donc, cette fois, que vous retiriez l’amendement (Sourires.) À défaut, l’avis sera défavorable.
-Quel est l’avis du Gouvernement ? S’agissant du travail social, j’avais déjà fait une annonce avant même le communiqué de presse commun que Madame Touraine et moi-même avons fait vendredi dernier.
 Je vous l’avais d’ailleurs annoncé en avant-première dès mercredi soir, dans la nuit.
 Le fonds en question permettra donc aux organismes concernés de passer la période de transition.
-Quant à l’amendement, je me range pleinement aux arguments de Madame la rapporteure et suggère son retrait – faute de quoi l’avis du Gouvernement serait défavorable, puisqu’il est satisfait par l’amendement numéro cent neuf rectifié que vous venez d’adopter.
 La parole est à Monsieur Patrick Hetzel.
 La question des stages concerne naturellement le secteur privé comme le secteur public.
-Or, je constate que l’on prend des précautions pour le secteur public, qui n’a pourtant pas été exemplaire en la matière, loin s’en faut.
-On nous annonce la création de ce fonds au cours du débat par voie de communiqué de presse.
-Pour le secteur public, en revanche, même s’il n’était pas exemplaire, on mobilisera enfin un fonds ! C’est inquiétant.
 Par ce texte, vous clivez notre pays en imposant à nos entreprises des obligations supplémentaires.
-Les pauvres ! Il ne s’agit pas que des entreprises ! C’est justement l’inverse ! Tout cela n’est pas de bonne politique, et nous le dénonçons très vivement.
 La parole est à Monsieur Thierry Braillard.
-Je vais retirer l’amendement tout en précisant à Monsieur Hetzel, puisque plus on le lui dit, mieux il comprend, qu’il n’a pas le monopole de la défense des entreprises dans cette Assemblée.
-Qu’il arrête donc de faire cette opposition caricaturale entre la droite, qui défendrait les entreprises, et la majorité qui ne penserait qu’aux collectivités locales et au service public.
 C’est vous qui faites cette opposition ! Cette opposition n’existe plus.
-Revoyez donc votre position, monsieur Hetzel ! Dites-le au Gouvernement ! La parole est à Madame la ministre.
-Soyons précis et évitons, monsieur Hetzel, de nous laisser submerger par une idéologie quelque peu binaire qui manque d’intérêt lorsqu’il s’agit de redresser le pays.
-Vous avez bien raison ! Appliquez-vous donc ce propos ! L’obligation faite aux entreprises de verser une gratification a été adoptée en deux mille six, par vous-même et votre majorité d’alors.
 Eh oui ! Je m’en félicite : vous étiez précurseurs.
-Je n’étais pas parlementaire en deux mille six ! Mais nul n’est censé ignorer la loi ! Au terme d’une négociation sociale conduite en deux mille neuf, cette obligation a été étendue à la fonction publique d’État.
-Nous l’avons ensuite élargie aux collectivités territoriales et aux organismes sociaux par un amendement à la loi relative à l’enseignement supérieur et à la recherche, comme je l’ai précisé pour la cinquième fois – mais je le referai une sixième fois si nécessaire.
-Ainsi, la gratification est de fait devenue universelle, comme le précise à nouveau l’amendement numéro cent neuf rectifié.
 Je remercie donc Monsieur Braillard d’accepter le retrait de son amendement.
 La parole est à Madame la Présidente de la commission des affaires sociales.
-Je me réjouis, monsieur Hetzel, de la teneur du communiqué de presse de Mmes les ministres, notamment du fait que davantage de stages seront proposés dans les services de l’État.
-Nous ne pouvons pas vous laisser, madame la présidente de la commission, tenir de pareils propos sur nous dès que nous parlons de la fonction publique.
 Nous respectons les fonctionnaires du secteur public comme les salariés du secteur privé.
 J’en reviens au fonds de transition, dont la création ne nous a pas échappée.
-Je ne sais comment vous avez estimé ce montant de cinq virgule trois millions, mais je constate dans le communiqué précité que « ce soutien financier sera réservé aux structures ne pouvant assumer seules la gratification des stagiaires ».
-Autrement dit, toutes les associations du secteur social, qui reçoivent – et c’est bien légitime – d’innombrables demandes de la part des étudiants, seront concernées.
-La demande de soutien devra ensuite être formulée auprès des directions régionales de la jeunesse, des sports et de la cohésion sociale, ou des agences régionales de santé.
-Cet amendement vise à préciser que la gratification accordée pour les stages d’une durée supérieure à deux mois démarre bien dès le premier jour du stage.
-Lors des auditions de la commission, j’ai constaté que ce n’était pas toujours le cas.
-Il semble en effet que certains étudiants dont le stage dure cinq mois, par exemple, ne perçoivent qu’une gratification à compter du troisième, du quatrième voire du cinquième mois, et non pas les deux premiers mois.
 La loi doit donc être explicite sur ce point.
 Très bien ! Quel est l’avis du Gouvernement ? Avis favorable.
-J’en profite pour rappeler que depuis deux mille huit, les associations sont concernées par le paiement de la gratification, en vertu d’une décision prise sous le gouvernement précédent – ce dont je me félicite.
-Ne sont donc concernés par le communiqué précité que les organismes sociaux, et non les associations qui étaient déjà soumises à l’obligation de verser une gratification.
 Mais ils n’en ont pas les moyens ! La parole est à Monsieur Patrick Hetzel.
-Nous voyons bien le glissement qui est en train de s’opérer, et ce serait justement intéressant d’avoir Monsieur Sapin parmi nous – j’indique au passage que cela fait un moment que nous réclamons sa présence.
-Je rappelle que l’objectif premier est de faire en sorte qu’un stage ait une vocation formative.
-Or au fil des amendements, nous entendons parler uniquement de droits pour certains, de nouvelles obligations pour les entreprises et de code du travail.
 Quant au volet formatif, il est totalement négligé.
-C’est d’autant plus surprenant que je m’attendais, sinon avec Monsieur Sapin, du moins avec Madame Fioraso,… Nous nous réjouissons de sa présence ! …ministre de l’enseignement supérieur, à ce que ce soit le cœur du débat.
-Or il n’en est rien, et nous n’avons pas pu avoir l’avis de la commission des affaires culturelles et de l’éducation sur ce texte.
 Je le déplore, car c’eût été utile pour avoir un bon débat parlementaire.
-Non seulement, on déclare l’urgence sur un tel texte, mais nous n’avons pas pu avoir une discussion de fond sur les questions de formation.
-Or une telle discussion aurait pu montrer que des dispositifs trop coercitifs vont à l’encontre de l’effet recherché.
-On va entendre ça pendant quatre heures ? La parole est à Monsieur Thierry Braillard, pour soutenir l’amendement numéro quatre-vingt-treize.
 Madame la ministre, madame la rapporteure, je ne retirerai pas cet amendement.
-Je vais même le défendre avec conviction, d’autant qu’il n’a pas d’enjeu politique.
-Lorsque des étudiants doivent faire un stage, l’employeur peut être tenté de « tricher » pour faire faire au stagiaire des tâches qu’un salarié pourrait accomplir.
 Certes, toutes les précautions ont été prises dans le texte pour éviter cela.
-Mais on peut prendre toutes les précautions du monde, si l’on ne fixe pas précisément les tâches que doit accomplir le stagiaire, cela laissera toujours la porte ouverte aux excès.
-C’est la raison pour laquelle cet amendement propose que les tâches afférentes au stage doivent être expressément précisées dans les conventions de stage.
-On m’objectera que, dans ces dernières, l’organisme d’accueil doit justement préciser les tâches, mais cela ne figure pas expressément dans la loi.
-Ainsi, dans la pratique, faute de précision des tâches, place est laissée à l’ambiguïté et à une éventuelle confusion entre emploi et stage.
-Pour éviter cela, la loi doit dire que les tâches doivent être précisées, ce qui aura plus de poids qu’un simple décret qui est parfois détourné ou simplement pas appliqué.
-Quel est l’avis de la commission ? Comme vous l’avez vous-même indiqué, la convention précise les activités confiées au stagiaire en fonction des objectifs de formation.
-La proposition de loi précise que le stage est un outil de formation et que les activités et les missions confiées aux stagiaires sont en lien avec le projet pédagogique.
-La convention tripartite entre le stagiaire, l’organisme d’accueil et l’établissement scolaire, définit donc précisément les missions.
 C’est le cœur même de la convention.
-Je vous propose à nouveau de retirer cet amendement, faute de quoi, j’émettrai un avis défavorable.
 Quel est l’avis du Gouvernement ? Je partage entièrement ce point de vue.
-Ce sujet ne relève pas de la loi, mais d’un décret, lequel dépend du code de l’éducation.
-Tout ce dont nous discutons ce soir dépend en effet du code de l’éducation, contrairement aux dispositions prises lors du précédent quinquennat, qui relevaient à la fois du code du travail et du code de l’éducation.
-Parce que nous voulons que le stage fasse l’objet d’une description et que celle-ci respectée, nous nous référons à un décret très précis, dont le premier point a pour objet de définir précisément les modalités et le contenu de la formation.
-L’intention est indiquée dans la loi, mais pour le reste cela relève du décret et du code de l’éducation, ce qui prouve d’ailleurs que nous sommes au cœur du sujet, contrairement à ce que certains prétendent.
 La parole est à Madame Sophie Dion.
-Cet amendement, qui propose que les tâches afférentes au stage soient expressément précisées, me surprend : c’est exactement ce qui est dit dans le cadre d’un contrat à durée déterminée.
 Je crois donc que l’on se trompe de débat.
-Par ailleurs, je ne vois pas, madame la ministre et madame la rapporteure, ce que cette précision ajoute.
 Cet amendement démontre donc à quel point on se trompe de sujet.
-On veut singer le code du travail en créant un nouveau sujet du droit du travail, le stagiaire, comme si c’était une nécessité alors que des députés de la majorité estiment eux-mêmes nécessaire qu’il y ait un choc de simplification.
 Le texte existant démontre la confusion du débat.
-Le stage doit rester un outil de formation et ne doit certainement pas entraver la formation.
-(Applaudissements sur les bancs du groupe UMP.) Très juste ! La parole est à Monsieur Thierry Braillard.
-Madame la ministre, l’alinéa dix-neuf précise – c’est l’objet de notre discussion – qu’aucune convention de stage ne peut être conclue pour exécuter une tâche régulière.
 Mon amendement vise précisément à éviter que des tâches régulières soient inscrites dans la convention.
 Voilà pourquoi je le maintiens.
-Cet amendement vise à supprimer l’alinéa vingt de l’article premier qui a pour objectif d’instaurer des quotas.
-Or je considère que la fixation d’un nombre limite de stagiaires ne peut que conduire à une limitation des stages, ce qui sera préjudiciable à l’ensemble de notre jeunesse.
-Certaines entreprises, du fait de leur domaine d’activité ou de leur fonctionnement, peuvent avoir besoin d’un nombre important de stagiaires, sans que cela constitue un abus, mais simplement parce que l’on est dans une dynamique pédagogique.
-J’ai, dans ma circonscription, des start-up, avec des élèves ingénieurs et un très faible nombre de salariés, précisément parce qu’on est là au cœur même du processus de l’innovation.
-Le problème, ce n’est pas le nombre, mais éventuellement le fait que des stagiaires puissent occuper un emploi normal et permanent, ce qui est tout à fait répréhensible, car il faudrait alors que ce soit un emploi, non un stage.
-Or cette question est d’ores et déjà traitée dans l’alinéa dix-neuf de l’article premier.
 Par conséquent, l’alinéa vingt n’est pas nécessaire.
 Au contraire, il sera dissuasif en réduisant le potentiel de stages.
-Ce n’est pas ce que l’on peut souhaiter, qu’il s’agisse des jeunes ou du processus de formation.
 Quel est l’avis de la commission ? Défavorable.
-La limitation du nombre maximum de stagiaires est un élément important de la proposition de loi.
-Vous le savez, mon cher collègue, un certain nombre de secteurs d’activité ont recours à des stagiaires, non dans un but pédagogique, mais pour faire face à des activités permanentes de l’entreprise.
-L’objectif de cette proposition de loi est bien de viser ces secteurs d’activité qui, au lieu de recruter des salariés, préfèrent avoir recours à des stagiaires.
-Vous donnez des exemples d’entreprises qui ont une démarche pédagogique et qui ont besoin d’un nombre important de stagiaires pour fonctionner, mais au-delà de la question du seuil se pose celle de l’accompagnement qualitatif.
-Pour notre part, nous souhaitons – c’est un point auquel je suis sensible –que la taille des entreprises soit prise en compte.
-Bien entendu, en fonction de la taille – je pense notamment aux petites entreprises ––, peut-être qu’un seuil en pourcentage n’a pas de sens.
-Mais le décret précisera à la fois un pourcentage global en fonction de l’effectif, puis il reprécisera les choses en fonction de la taille des entreprises pour ne pas tarir l’offre, et surtout, en parallèle, pour avoir un encadrement de qualité.
-Car certaines entreprises accueillent des stagiaires alors qu’il n’y a personne pour les accueillir, pour les accompagner et pour évaluer leur projet pédagogique.
 Par ailleurs, l’exemple des start-up paraît particulièrement malencontreux et peu adapté.
-Ayant présidé un pôle d’innovation, j’ai connu près de deux cents start-up relevant de divers domaines – médical, biomédical, électronique, technologies de l’information, énergie : je n’ai jamais vu d’abus concernant le pourcentage de stagiaires.
-Sincèrement, ce n’est pas dans ces entreprises que l’on voit de tels abus, c’est plutôt dans des entreprises que je ne veux pas nommer parce que je ne veux pas les stigmatiser, bien que vous-même l’ayez fait mercredi dernier.
-J’ai repris l’exposé des motifs ! Vous avez précisé les secteurs dont il s’agissait – je n’y reviendrai donc pas puisque vous les connaissez.
-Certes, il pouvait s’agir d’exceptions mais d’exceptions auxquelles il fallait mettre un terme : quatre-vingts pourcent de stagiaires, ce n’est pas admissible.
-Il s’agit en l’occurrence d’un stage de formation et ce stage doit faire l’objet d’une convention et être tutoré.
-C’est précisément parce qu’il s’agit d’un stage de formation qu’il doit y avoir un encadrement digne de ce nom.
-C’est pourquoi il convient par décret de tenir compte, de façon souple, de la taille de l’entreprise, de sa spécificité, de son caractère innovant, sachant que les abus seront combattus.
-J’ai sans doute une expérience un peu plus grande que la vôtre en matière de start-up et je vous assure que ce secteur ne sera absolument pas brimé par les dispositions que nous prendrons.
 La parole est à Monsieur Patrick Hetzel, pour un rappel au règlement.
-Mon rappel au règlement, qui se fonde sur l’article cinquante-huit, alinéa un, porte sur le bon déroulement de notre séance.
-Je rappelle que les ministres qui sont au banc sont là pour répondre aux interrogations des parlementaires et pour contribuer au bon déroulement du débat parlementaire.
-À aucun moment ils n’ont vocation à porter un jugement sur ce que font les parlementaires.
 Tel n’est pas le rôle du Gouvernement et chacun doit rester dans le sien.
-Et juger les ministres, c’est votre rôle ? Or j’ai constaté à plusieurs reprises qu’on entend stigmatiser l’opposition simplement parce qu’elle défend un point de vue différent de celui du Gouvernement et de la majorité.
 Cela n’est pas souhaitable.
-Mon rappel au règlement vise à faire en sorte que nos débats se déroulent dans de bonnes conditions, faute de quoi nous serons obligés d’en passer par des rappels au règlement successifs.
-Et que faites-vous d’autre ? Cela ne serait pas de bonne politique, car nous avons sans doute mieux à faire, mais nous n’hésiterons pas si le Gouvernement ne se comporte pas dignement.
-Ce n’était pas un rappel au règlement, monsieur Hetzel, mais on fera comme si ! La parole est à Madame Sophie Dion.
-La fixation d’un nombre limite de stagiaires par l’introduction d’un quota, madame le ministre, ne me semble pas aller sans difficultés.
-Évidemment ! Il faut cesser de stigmatiser l’employeur, dont il ne faudrait pas oublier qu’il procure à la fois le stage et le travail.
-Sa vocation est de former ! Ils sont toujours considérés comme des gens qui utilisent et exploitent les autres.
-Là comme ailleurs, il importe d’être prudent et de ne pas oublier que le cœur de l’emploi, c’est l’entreprise qui le fournit.
-Tâchons donc de promouvoir souplesse et compréhension, mais encore une fois ne stigmatisons pas les employeurs ! Nous ne sommes pas au pays des Bisounours ! En outre, le terme « quota » est quand même très mauvais pour nous tous.
-Il n’y a pas de quota, il y a les besoins de l’entreprise ! Et des étudiants ! Je le répète, les garanties sont prévues par la convention de stage et le code de l’éducation.
-Laissons chacun prendre ses responsabilités et exercer sa liberté ! Comme vous l’avez dit, madame le ministre, on peut compter sur la responsabilité de chacun, celle des employeurs en particulier.
-Former un stagiaire n’est pas chose facile, cela demande du temps, de la disponibilité et une faculté d’adaptation.
-Justement ! Les entrepreneurs, me semble-t-il, sont des gens responsables qui savent ce qu’ils font quand ils accueillent un stagiaire.
-Prochaine séance, ce soir, à vingt et une heures trente : suite de la discussion de la proposition de loi tendant au développement et à l’encadrement des stages.
 La séance est levée.
