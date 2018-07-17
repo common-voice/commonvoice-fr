@@ -1,39 +1,51 @@
 La séance est ouverte.
-Cet après-midi, l’Assemblée a commencé d’entendre les orateurs inscrits à l’article deux.
+Cet après-midi, l’Assemblée a commencé d’entendre les orateurs inscrits à l’article deux.
 La parole est à Monsieur Sergio Coronado, dernier orateur inscrit sur l’article.
 Je souhaiterais replacer cet article dans l’économie globale du texte.
 Nous en avons débattu.
 Chacun aura la possibilité d’évaluer si ces pas sont suffisants.
 Ces dispositions ne sont pas tout à fait de la même nature.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro quarante-deux rectifié.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro quarante-deux rectifié.
+Mais nous proposons d’harmoniser la rédaction de l’article L.
+huit cent cinquante et un-un avec celle prévue au nouvel article L.
+trois cent cinquante et un-sept, qui porte sur les dispositifs techniques de proximité.
 Nous y voilà.
 Or, ces éléments sont évidemment extrêmement déterminants pour l’information des services.
 Il n’est donc pas question de revenir sur leur accessibilité.
-La parole est à Madame Laure de La Raudière.
+La parole est à Madame Laure de La Raudière.
 Nous aurons ensuite d’autres questions sur les algorithmes.
 Je voulais rappeler cette demande, très sage, de Christian Paul.
+Il s’agit de l’article L.
+deux cent quarante-six-un du code de la sécurité intérieure, qui devient l’article L.
+huit cent cinquante et un-un.
 La CNIL a formulé la même interrogation et estime que le périmètre est mal défini.
-Tel est le sens de mes amendements numéros vingt à vingt-deux.
+Tel est le sens de mes amendements numéros vingt à vingt-deux.
 Monsieur Tardy avait d’ailleurs déjà exprimé un certain nombre d’incertitudes ou d’inquiétudes.
 Nous considérons donc que l’amendement n’a pas lieu d’être.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro cinquante-neuf.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro cinquante-neuf.
 En effet, la liste des données pouvant être recueillies n’est pas exhaustive.
 Je propose de clore cette liste.
 C’est assez contradictoire, messieurs les ministres, avec votre volonté de définir un cadre légal.
-Quel est l’avis du Gouvernement ? Favorable.
+Quel est l’avis du Gouvernement ? Favorable.
 Oui, monsieur le président.
-Je suis saisi de deux amendements identiques, numéros cent quatre-vingt-quatre et cent trois rectifié.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-quatre.
+Je suis saisi de deux amendements identiques, numéros cent quatre-vingt-quatre et cent trois rectifié.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-quatre.
 Je vous renvoie au compte rendu de ces débats.
 Il est identique.
 Par ailleurs, quel que soit le type d’algorithmes choisi, la surveillance sera massive.
 Il est en particulier très difficile de repérer des vrais suspects.
+Sur le plan strictement technique, monsieur Coronado, l’article L.
+huit cent cinquante et un-trois ne procède pas de la police judiciaire.
+Quant à l’article L.
 Et, si j’ai bien compris, le suivi est renforcé.
 Nous reviendrons par la suite à ce fameux arrêt Digital Rights Ireland.
+huit cent cinquante et un-quatre ne propose pas une surveillance de masse.
 La commission a donc émis un avis défavorable sur ces deux amendements.
+Non ! Ce n’est pas possible ! L’article L.
 Il s’agit toutefois bien de données de connexion, et non pas de contenu.
 La finalité est uniquement la prévention du terrorisme.
+L’article L.
 Par ailleurs, elles font évoluer très fréquemment leurs modes de communication.
 Un algorithme permet de trier anonymement les connexions et de repérer ainsi un trafic caractéristique.
 Les garanties apportées par le texte sont les suivantes.
@@ -44,19 +56,21 @@ Septièmement, les services ne pourront accéder aux données autres que le rés
 Le Gouvernement déposera à cette fin plusieurs amendements.
 Ces amendements, qui viendront tout à l’heure en discussion, apportent de nouvelles garanties.
 Premièrement, ils rappellent que le principe de proportionnalité s’applique.
+deux cent quarante-deux-neuf du code de la sécurité intérieure, qui devient l’article L.
+huit cent soixante et un-trois.
 Quatrièmement, ils excluent tout recours au régime d’urgence pour cette technique.
 La parole est à Madame Isabelle Attard.
 Quiconque s’y connaît un tout petit peu en informatique pourrait vous le confirmer.
 Ainsi, les données sont encore plus précieuses.
 Vous nous dites ensuite que ces fameux algorithmes pourront détecter des comportements suspects.
 Les comportements terroristes changent donc en permanence.
-Techniquement, donc, comment vous y prenez-vous ? J’attends votre réponse.
+Techniquement, donc, comment vous y prenez-vous ? J’attends votre réponse.
 Ne vous inquiétez pas, nous avons encore toute la soirée.
 La parole est à Monsieur Guillaume Larrivé.
-Au nom de qui parlons-nous ? Nous parlons au nom du peuple français.
-Y parviendrons-nous ? Je l’espère.
+Au nom de qui parlons-nous ? Nous parlons au nom du peuple français.
+Y parviendrons-nous ? Je l’espère.
 En tout cas, nous avons le devoir d’y travailler.
-La parole est à Madame Laure de La Raudière.
+La parole est à Madame Laure de La Raudière.
 Or notre rôle de députés est d’éclairer le peuple français sur ces questions majeures.
 La parole est à Monsieur Lionel Tardy.
 Faisons un peu de technique.
@@ -81,7 +95,7 @@ Pour commencer, il y a, dans le débat public, une bonne part d’hypocrisie.
 Mais cela n’indigne personne.
 Je n’ai pas la même approche.
 Je suis un esprit libre et indépendant et j’entends le demeurer.
-Ce n’est pas vrai ! Si.
+Ce n’est pas vrai ! Si.
 Elles sont selon vous extraordinairement intrusives et permettent de prélever en masse des données.
 C’est faux.
 Ces personnes sont connues pour présenter un risque terroriste particulièrement élevé.
@@ -89,9 +103,11 @@ Il est mensonger de dire que ces techniques visent à prélever massivement des 
 Il est mensonger de dire que cela se fait sans contrôle.
 Il est mensonger de dire que le juge n’intervient pas.
 Il est défendu.
-La parole est à Monsieur Jean-Jacques Candelier, pour soutenir l’amendement numéro cent quarante-cinq.
+La parole est à Monsieur Jean-Jacques Candelier, pour soutenir l’amendement numéro cent quarante-cinq.
+Le nouvel article L.
 Pour autant, le périmètre des données pouvant être recueillies est très large.
-Quel est l’avis du Gouvernement ? Défavorable.
+Il s’agit en effet, selon la lettre du futur article L.
+Quel est l’avis du Gouvernement ? Défavorable.
 Expliquez-nous juste ça.
 Des questions qui pour l’instant, n’ont pas reçu de réponse.
 C’était pour du filtrage internet, ce n’est pas pareil.
@@ -106,21 +122,22 @@ C’est un choix de leur part.
 Et j’étais toute seule à le faire.
 Je vous ai laissé dépasser largement le temps qui vous était imparti.
 La parole est à Monsieur le ministre.
-Nous avons augmenté son budget de douze millions d’euros par an.
+Nous avons augmenté son budget de douze millions d’euros par an.
 Croyez-moi, compte tenu des violences dont ils sont eux-mêmes victimes, ça les indigne.
 Oui, monsieur le président.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-trois.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-trois.
 Ici, il est question du recueil en temps réel sur le réseau.
 En fait, cela signifie visiblement que l’on sollicite les opérateurs pour recueillir des données.
 Aujourd’hui, je regrette cette notion qui disparaît du texte que vous nous proposez.
+» Il s’agit d’une vraie nouveauté et de vrais risques d’intrusion.
 Il faut absolument rétablir le principe d’une sollicitation des opérateurs.
 C’est une garantie petite, mais nécessaire.
-Quel est l’avis du Gouvernement ? Défavorable.
+Quel est l’avis du Gouvernement ? Défavorable.
 Il s’agit d’un amendement de précision.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-quatre.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-quatre.
 Il s’agit d’un simple amendement de précision.
-Quel est l’avis de la commission ? Avis défavorable.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-cinq.
+Quel est l’avis de la commission ? Avis défavorable.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-cinq.
 Avec les boîtes noires, nous arrivons à l’un des points… noirs du texte.
 Je vais donc faire une liste des raisons qui me conduisent à demander leur suppression.
 Premièrement, elles posent un problème philosophique.
@@ -128,10 +145,11 @@ On ne connaît pas non plus le périmètre des métadonnées.
 Je sais que vous proposez une durée de quatre mois renouvelables.
 Toutefois, le problème n’est pas la durée, mais bien la technique et son contrôle.
 Peut-être, monsieur le ministre, pouvez-vous nous rappeler les modalités d’utilisation des DPI.
-La parole est à Monsieur Jean-Jacques Candelier, pour soutenir l’amendement numéro cent quarante-six.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-cinq.
+La parole est à Monsieur Jean-Jacques Candelier, pour soutenir l’amendement numéro cent quarante-six.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-cinq.
 Je tiens à réagir au ton qu’ont soudainement pris nos débats.
-La parole est à Monsieur Christian Paul, pour soutenir l’amendement numéro deux cent vingt-huit.
+Comme je l’ai dit tout à l’heure, l’article L.
+La parole est à Monsieur Christian Paul, pour soutenir l’amendement numéro deux cent vingt-huit.
 Sur ce sujet, il n’y a pas de passion sans bonne raison.
 Par ailleurs, la garantie de l’anonymat n’est absolument pas assurée.
 Or la commission des lois a veillé scrupuleusement à renforcer partout les mécanismes de contrôle.
@@ -142,7 +160,7 @@ Vous avez aussi raison de considérer que la politique est un art de la pédagog
 Si nous n’avons pas été suffisamment clairs, nous pouvons réexpliquer les choses.
 La parole est à Madame Isabelle Attard.
 Je ne remets nullement en cause les services de renseignement.
-Aujourd’hui, c’est une aiguille : demain, ce sera un caméléon, et après-demain, une fourchette.
+Aujourd’hui, c’est une aiguille : demain, ce sera un caméléon, et après-demain, une fourchette.
 La parole est à Monsieur Lionel Tardy.
 Généralement, les data centers font partie des équipements les plus sécurisés actuellement...
 Vous les avertissez que vous allez regarder ce qu’ils font.
@@ -157,7 +175,7 @@ La parole est à Monsieur Éric Ciotti.
 Madame Attard a indiqué que le syndicat de police Alliance était opposé à ce texte.
 Il a indiqué que le texte allait mieux sécuriser le travail des policiers.
 Madame Attard, vous vous êtes livrée à quelques démonstrations techniques.
-La parole est à Monsieur Charles de La Verpillière.
+La parole est à Monsieur Charles de La Verpillière.
 Pour ma part, je ne voterai pas ces amendements identiques.
 Ce profilage ou ce dispositif me paraît efficace.
 S’il permet de détecter ne serait-ce qu’une seule menace, son efficacité serait prouvée.
@@ -170,230 +188,254 @@ Mes chers collègues, vous souhaitez des débats dépassionnés et utiles.
 Nous avons encore quelques questions à vous poser, monsieur le ministre.
 Vous avez cité les algorithmes de profilage qui existent chez les géants d’internet.
 Nous avons des inquiétudes à cet égard par rapport à l’atteinte aux libertés individuelles.
-Quel est l’avis de la commission ? La commission a repoussé cet amendement.
+Quel est l’avis de la commission ? La commission a repoussé cet amendement.
 Madame de La Raudière a expliqué qu’elle était contre l’algorithme.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-six.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-six.
 Amendement de repli.
 Cela voudrait dire que le Premier ministre ne pourrait passer outre un avis négatif.
 Ce serait de nature à rassurer un minimum.
 Tel est le sens de mon amendement.
-Quel est l’avis de la commission ? La commission a repoussé cet amendement.
+Quel est l’avis de la commission ? La commission a repoussé cet amendement.
 Nous avons passé une heure sur ce sujet lundi, et une heure mardi.
 C’est la prérogative de l’exécutif.
-La parole est à Monsieur le ministre, pour soutenir l’amendement numéro trois cent quatre-vingt-deux.
+La parole est à Monsieur le ministre, pour soutenir l’amendement numéro trois cent quatre-vingt-deux.
 Le dispositif ne pourra être réutilisé qu’après réexamen et appréciation de son utilité.
 La parole est à Monsieur le ministre de l’intérieur, pour soutenir l’amendement.
 L’amendement précise essentiellement trois points.
 Les procédures d’urgence ne seront pas applicables à cette technique de renseignement.
 Ces garanties s’ajoutent à celles déjà énoncées par le texte.
-La parole est à Monsieur Sergio Coronado, pour soutenir le sous-amendement numéro quatre cent quarante-trois.
-Monsieur Coronado, vous pouvez défendre également votre sous-amendement numéro quatre cent quarante-deux.
-Je commencerai par mon sous-amendement numéro quatre cent quarante-deux.
+La parole est à Monsieur Sergio Coronado, pour soutenir le sous-amendement numéro quatre cent quarante-trois.
+Monsieur Coronado, vous pouvez défendre également votre sous-amendement numéro quatre cent quarante-deux.
+Je commencerai par mon sous-amendement numéro quatre cent quarante-deux.
+L’article L.
+huit cent soixante et un-trois est issu de l’article L.
+» Il s’agit donc d’harmoniser l’amendement avec son exposé sommaire.
 Monsieur le président, j’aurais souhaité m’exprimer également sur l’amendement du Gouvernement.
 Je vous propose de présenter votre sous-amendement.
 Vous pourrez également évoquer l’amendement du Gouvernement.
+trente-quatre-un du code des postes et télécommunications électroniques.
 » C’est là exactement ce que vous voulez et ce qu’il faut.
-Le sous-amendement numéro quatre cent quarante-deux a déjà été défendu.
+Le sous-amendement numéro quatre cent quarante-deux a déjà été défendu.
 Je ne vois donc pas pourquoi nous nous opposerions à cet amendement.
 Avis défavorable, donc.
 La parole est à Monsieur Lionel Tardy.
-L’amendement numéro quatre cent trente-sept du Gouvernement est surréaliste.
+L’amendement numéro quatre cent trente-sept du Gouvernement est surréaliste.
 Je passe sur la deuxième phrase, qui figurait déjà dans le texte initial.
 Vous dites ensuite que les opérateurs pourront s’assurer eux-mêmes de la proportionnalité.
+Pardonnez ma franchise, mais c’est totalement faux : le futur article L.
 Prétendre autre chose serait mentir.
 Là non plus, donc, rien de neuf.
 Ces dispositions restent des obligations franco-françaises.
 J’y suis donc opposé.
 La parole est à Madame Isabelle Attard.
 Peut-être avez-vous déjà fait travailler vos services sur cette question.
+huit cent cinquante et un-quatre.
 Tel est en particulier le cas lorsqu’une menace de terrorisme est révélée.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Denys Robiliard, pour soutenir l’amendement numéro deux cent quatre-vingt-quatre.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Denys Robiliard, pour soutenir l’amendement numéro deux cent quatre-vingt-quatre.
 C’est comme cela du moins que je comprends les premier et deuxième alinéas.
 En fonction de votre réponse, je vous indiquerai si je maintiens ou non mon amendement.
 Sur ce point, l’avis de la commission est défavorable.
 J’ai déjà donné toutes les explications nécessaires à ce sujet tout à l’heure.
-Tout à fait ! Monsieur Robiliard, vous avez déjà défendu l’amendement numéro deux cent quatre-vingt-cinq.
-Le retirez-vous ? Il est retiré.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-sept.
+Tout à fait ! Monsieur Robiliard, vous avez déjà défendu l’amendement numéro deux cent quatre-vingt-cinq.
+Le retirez-vous ? Il est retiré.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-sept.
 La CNCTR pourra en principe en observer et en contrôler le fonctionnement.
 L’avis est défavorable.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro quatre cent treize.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro quatre cent treize.
 Avis défavorable sur votre amendement.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-six.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-six.
 Nous allons nous intéresser au texte issu des travaux de la commission.
-Ces techniques de renseignement sont fortement intrusives : même le ministre l’a reconnu.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-huit.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-neuf.
-Là encore, où sont les documents ? Je ne vois que des données.
+Ces techniques de renseignement sont fortement intrusives : même le ministre l’a reconnu.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-huit.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro vingt-neuf.
+Là encore, où sont les documents ? Je ne vois que des données.
 En principe, seules les données de connexion sont concernées.
 C’est ce que prévoyait le texte initial, mais on s’y perd.
-Nous n’avons toujours pas de réponse ! Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-sept.
+Nous n’avons toujours pas de réponse ! Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-sept.
 Il n’y a donc pas besoin d’en créer une nouvelle.
-Quel est l’avis du Gouvernement ? Même avis.
-Les amendements numéros trente et cent quatre-vingt-huit sont identiques.
-La parole est à Monsieur Pascal Popelin, pour soutenir l’amendement numéro trois cent cinquante-sept.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro trente.
-Je regrette : pour moi, trente jours, c’est trop long.
-Mon amendement vise donc à ramener le délai de trente à dix jours de délai.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-huit.
+Quel est l’avis du Gouvernement ? Même avis.
+Les amendements numéros trente et cent quatre-vingt-huit sont identiques.
+La parole est à Monsieur Pascal Popelin, pour soutenir l’amendement numéro trois cent cinquante-sept.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro trente.
+Je regrette : pour moi, trente jours, c’est trop long.
+Mon amendement vise donc à ramener le délai de trente à dix jours de délai.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-huit.
 Nous avons déjà eu ce débat en commission, et l’avons encore eu hier.
 Nous sommes opposés à l’allongement des délais.
-Nous avons donc donné un avis favorable à l’amendement numéro trois cent cinquante-sept.
-Quel est l’avis du Gouvernement ? Même avis.
-Je suis saisi de deux amendements identiques, numéros trois cent cinquante-huit et trois cent quatre-vingt-quinze.
-La parole est à Monsieur Pascal Popelin, pour soutenir l’amendement numéro trois cent cinquante-huit.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro trois cent quatre-vingt-quinze.
+Nous avons donc donné un avis favorable à l’amendement numéro trois cent cinquante-sept.
+Quel est l’avis du Gouvernement ? Même avis.
+Je suis saisi de deux amendements identiques, numéros trois cent cinquante-huit et trois cent quatre-vingt-quinze.
+La parole est à Monsieur Pascal Popelin, pour soutenir l’amendement numéro trois cent cinquante-huit.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro trois cent quatre-vingt-quinze.
 Je me félicite que le travail du groupe écologiste inspire parfois le groupe SRC.
-Quel est l’avis du Gouvernement ? Même avis.
+Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur le ministre, pour soutenir l’amendement.
 Nous avons eu plusieurs discussions sur ce sujet.
 Pour dire les choses simplement, cet amendement vise à rétablir l’urgence opérationnelle.
-La parole est à Monsieur Lionel Tardy, pour soutenir le sous-amendement numéro quatre cent douze.
-Voici donc le second régime d’urgence, le pire à mes yeux : l’urgence opérationnelle.
+La parole est à Monsieur Lionel Tardy, pour soutenir le sous-amendement numéro quatre cent douze.
+Voici donc le second régime d’urgence, le pire à mes yeux : l’urgence opérationnelle.
 Et Monsieur Delarue n’est pas n’importe qui.
 Tout comme les vingt-quatre heures, ce serait une avancée légère mais nécessaire.
 En revanche, l’amendement du Gouvernement a été accepté par la commission.
-La parole est à Monsieur Jean-Jacques Candelier, pour soutenir l’amendement numéro cent quarante-huit.
+La parole est à Monsieur Jean-Jacques Candelier, pour soutenir l’amendement numéro cent quarante-huit.
+L’article L.
+huit cent onze-trois.
+huit cent onze-trois, est considérablement élargi.
 Or, ces mots ne figurent pas dans le projet de loi.
 Les interceptions de sécurité entrent donc dans le cadre normal d’une investigation policière administrative.
 Pour moi, ce n’est pas acceptable.
-Quel est l’avis de la commission ? Avis défavorable.
-Quel est l’avis du Gouvernement ? Avis défavorable.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro quarante-trois.
+Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis du Gouvernement ? Avis défavorable.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro quarante-trois.
 L’amendement a donc été repoussé par la commission.
-Quel est l’avis du Gouvernement ? Avis défavorable.
-La parole est à Monsieur Jean-Jacques Candelier, pour soutenir l’amendement numéro cent quarante-neuf.
+Quel est l’avis du Gouvernement ? Avis défavorable.
+La parole est à Monsieur Jean-Jacques Candelier, pour soutenir l’amendement numéro cent quarante-neuf.
+Le nouvel article L.
 La commission a donc donné un avis défavorable à son amendement.
-J’ajoute que la loi de mille neuf cent quatre-vingt-onze permettait d’écouter l’entourage.
+J’ajoute que la loi de mille neuf cent quatre-vingt-onze permettait d’écouter l’entourage.
 C’est d’ailleurs grâce à cela que la jurisprudence de la CNCIS a évolué.
 Le texte permet une évolution qui nous paraît tout à fait bénéfique.
-Quel est l’avis du Gouvernement ? Même avis.
+Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Denys Robiliard.
 Il me semble que l’expérience de la CNCIS doit être prise en compte.
 La parole est à Monsieur le rapporteur.
-Je suis saisi de trois amendements, numéros quarante-quatre, quarante-cinq et quarante-six de Monsieur Sergio Coronado.
+Je suis saisi de trois amendements, numéros quarante-quatre, quarante-cinq et quarante-six de Monsieur Sergio Coronado.
 Vous pourriez peut-être nous les présenter de manière groupée, monsieur Coronado.
 Il y a donc une petite évolution regrettable.
 Or, un très grand nombre de personnes peuvent être soupçonnées d’être des intermédiaires involontaires.
 Il faudra des indices pour qu’il soit fondé.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent vingt-deux.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent vingt-deux.
+La rédaction du nouvel article L.
 Au regard du caractère particulièrement intrusif de cette surveillance, des garanties spécifiques devraient être prévues.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro cent quatre-vingt-neuf.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro quatre cent quatorze.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro cent quatre-vingt-neuf.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro quatre cent quatorze.
 Je m’explique.
+Quelques alinéas plus tôt, nous avons autorisé les dispositifs techniques visés à l’article L.
+huit cent cinquante et un-un.
 Ce sera certes de manière exceptionnelle mais cela ne me suffit pas.
 Il ne me semble pas que nous ayons autorisé explicitement cela auparavant.
-Quel est l’avis de la commission ? Avis défavorable par cohérence.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro cent quatre-vingt-dix.
+Quel est l’avis de la commission ? Avis défavorable par cohérence.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro cent quatre-vingt-dix.
 C’est d’ailleurs ce que prévoyait le texte initial du Gouvernement.
 La commission a repoussé cet amendement.
-La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro cent quatre-vingt-onze.
+La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro cent quatre-vingt-onze.
 En toute hypothèse, l’outil devra être employé conformément à l’autorisation accordée.
-Quel est l’avis du Gouvernement ? Même avis.
+Quel est l’avis du Gouvernement ? Même avis.
 Le scrutin est annoncé dans l’enceinte de l’Assemblée nationale.
-La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro cent quatre-vingt-douze.
+La parole est à Madame Isabelle Attard, pour soutenir l’amendement numéro cent quatre-vingt-douze.
 Nous considérons donc que l’amendement est satisfait.
 Il a été repoussé par la commission.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro soixante et un.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro soixante et un.
 Le risque est trop grand pour que l’on se permette une imprécision.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro soixante-neuf.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro soixante-neuf.
 Aucune urgence opérationnelle n’a jusqu’ici empêché l’application des dispositions de la loi.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-treize.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-treize.
 Il est retiré.
-Je mets aux voix l’article deux.
-La parole est à Monsieur Lionel Tardy, premier orateur inscrit sur l’article trois.
+Je mets aux voix l’article deux.
+La parole est à Monsieur Lionel Tardy, premier orateur inscrit sur l’article trois.
 J’espère que nos débats permettront de dissiper ces fortes inquiétudes.
 La parole est à Monsieur Jean-Jacques Candelier.
 Le cadre de ce projet de loi ne traite absolument pas de la PNCD.
 C’est, pour le moins, une preuve de la fragilité de vos certitudes.
 J’espère que d’autres collègues s’y montreront également favorables.
 La parole est à Monsieur Philippe Folliot.
-Nous abordons, avec cet article trois, un point important de ce texte.
+Nous abordons, avec cet article trois, un point important de ce texte.
 Notre chère collègue Isabelle Attard vient de poser la question de la constitutionnalité du texte.
 La parole est à Monsieur Jean Lassalle.
 Je sais ce qu’il faut faire, mais je n’ai plus confiance.
-Regardez les préfets : ils sont repolitisés comme il y a cinquante ans.
-C’est incroyable ! Et ceux qui ne le sont pas ne croient plus à rien.
+Regardez les préfets : ils sont repolitisés comme il y a cinquante ans.
+C’est incroyable ! Et ceux qui ne le sont pas ne croient plus à rien.
 Le reste est en désuétude.
 La parole est à Monsieur le ministre de la défense.
 Nous aurons peut-être l’occasion d’y revenir lors de l’examen des amendements.
-Son vrai nom est le suivant : Pôle national de cryptanalyse et de décryptement.
+Son vrai nom est le suivant : Pôle national de cryptanalyse et de décryptement.
 Ce n’est pas une plate-forme et les informations données à ce sujet sont erronées.
 Je tenais à vous apporter ces précisions pour lever toute ambiguïté.
 Il ne sera pas publié pour ne pas dévoiler à nos adversaires nos capacités techniques.
 Le bon sens s’impose en la matière.
 Je tenais à apporter ces deux précisions pour éviter toute ambiguïté.
 Nous en venons aux amendements.
-La parole est à Monsieur Jean-Jacques Candelier, pour soutenir l’amendement numéro cent cinquante-deux.
+La parole est à Monsieur Jean-Jacques Candelier, pour soutenir l’amendement numéro cent cinquante-deux.
+Le nouvel article L.
+huit cent onze-trois ne doivent pas pouvoir être recueillis par un autre moyen légalement autorisé.
 Cette condition encadre utilement le recours à ces procédés très intrusifs.
-Insérer les mots « à titre exceptionnel » ne ferait qu’alourdir la rédaction.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-quatorze.
+Insérer les mots « à titre exceptionnel » ne ferait qu’alourdir la rédaction.
+Quel est l’avis du Gouvernement ? Même avis.
+huit cent onze-trois, soit la prévention du terrorisme.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-quatorze.
 Je retire cet amendement car nous avons clos cette discussion par un vote.
-Quel est l’avis du Gouvernement ? Même avis.
-Monsieur Folliot, retirez-vous vos amendements ? Je retire seulement l’amendement numéro cent vingt-six.
-La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent vingt-huit.
+Quel est l’avis du Gouvernement ? Même avis.
+Monsieur Folliot, retirez-vous vos amendements ? Je retire seulement l’amendement numéro cent vingt-six.
+La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent vingt-huit.
 Il est défendu.
-Quel est l’avis de la commission ? Avis défavorable.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro quarante-sept.
+Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro quarante-sept.
 Cet amendement vise à préciser les possibilités de captation de données informatiques.
+La rédaction actuellement prévue va plus loin que les possibilités offertes par l’article L.
 Cet amendement vise par conséquent à harmoniser les deux rédactions.
-La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent vingt-neuf.
+La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent vingt-neuf.
 Il est défendu.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro soixante-dix.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro soixante-dix.
 Il est défendu.
-Quel est l’avis de la commission ? Défavorable.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent trente-sept.
+Quel est l’avis de la commission ? Défavorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent trente-sept.
 Cet amendement tend à réduire le délai du renouvellement de deux à un mois.
 Par cohérence, nous proposons de repousser celui-ci également.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-quinze.
-Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-quinze.
+Quel est l’avis de la commission ? Avis défavorable.
 Nous ne souhaitons pas que la CNCTR ait avis décisionnel.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent trente-deux.
-Quel est l’avis de la commission ? Avis défavorable.
-Quel est l’avis du Gouvernement ? Même avis.
-Quel est l’avis du Gouvernement ? Avis favorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent trente-deux.
+Quel est l’avis de la commission ? Avis défavorable.
+L’amendement est largement satisfait car l’article L.
+De même, l’article L.
+Quel est l’avis du Gouvernement ? Même avis.
+huit cent vingt-deux-deux.
+Quel est l’avis du Gouvernement ? Avis favorable.
 Il est rédactionnel.
-La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro trente-deux.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro soixante et onze.
-Quel est l’avis de la commission ? Avis défavorable.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-seize.
+La parole est à Monsieur Lionel Tardy, pour soutenir l’amendement numéro trente-deux.
+huit cent vingt et un-quatre.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Éric Ciotti, pour soutenir l’amendement numéro soixante et onze.
+Quel est l’avis de la commission ? Avis défavorable.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro cent quatre-vingt-seize.
 Je pense que nous obtiendrons la même réponse que pour l’amendement précédent.
 La décision est prise par l’autorité politique et non par l’autorité administrative.
-Quel est l’avis du Gouvernement ? Même avis.
+Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Jean-Jacques Urvoas, rapporteur, pour les soutenir.
 Tous trois sont rédactionnels.
-La parole est à Monsieur Denys Robiliard, pour soutenir l’amendement numéro deux cent quatre-vingt-six.
+La parole est à Monsieur Denys Robiliard, pour soutenir l’amendement numéro deux cent quatre-vingt-six.
 La parole est à Monsieur Denys Robiliard.
 Par conséquent je retire l’amendement.
 Il est rédactionnel.
-La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent vingt-trois.
-Quel est l’avis du Gouvernement ? Même avis.
-La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro quarante-huit.
-Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Philippe Folliot, pour soutenir l’amendement numéro cent vingt-trois.
+huit cent cinquante-quatre-un du code de la sécurité intérieure régissant les mesures de surveillance internationale.
+Quel est l’avis du Gouvernement ? Même avis.
+La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement numéro quarante-huit.
+Quel est l’avis du Gouvernement ? Même avis.
 La parole est à Monsieur Sergio Coronado, pour soutenir l’amendement.
+huit cent vingt et un-six du code de la sécurité intérieure.
 Si vous acceptez ce sous-amendement, le Gouvernement émettra un avis favorable à votre amendement.
-La parole est à Monsieur Denys Robiliard, pour soutenir l’amendement numéro deux cent quatre-vingt-sept.
+La parole est à Monsieur Denys Robiliard, pour soutenir l’amendement numéro deux cent quatre-vingt-sept.
 Je le retire.
-Quel est l’avis de la commission ? Avis favorable.
-Quel est l’avis du Gouvernement ? Même avis.
+Cet amendement vise à compléter l’article L.
+Quel est l’avis de la commission ? Avis favorable.
+Quel est l’avis du Gouvernement ? Même avis.
 La suite de la discussion est renvoyée à la prochaine séance.
 La séance est levée.
