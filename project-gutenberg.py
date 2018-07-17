@@ -78,6 +78,8 @@ mapping_specific = [
   [ u'\'S.',     u'\'sud'   ],
   [ u'\'E.',     u'\'est'   ],
   [ u'\'O.',     u'\'ouest' ],
+  [ re.compile('^--'), u'' ],
+  [ u'--',       u', ' ],
 ]
 
 def parse_one_book(bookid):
