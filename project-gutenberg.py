@@ -79,8 +79,11 @@ mapping_specific = [
   [ u'\'E.',     u'\'est'   ],
   [ u'\'O.',     u'\'ouest' ],
   [ re.compile('^--'), u'' ],
+  [ u'...',      u'\u2026' ],
   [ u'--',       u', ' ],
 ]
+
+PUNCT_NBSP = re.compile('(\w+)(\?|\!|;|:)')
 
 def parse_one_book(bookid):
     this_line = 0
@@ -136,7 +139,11 @@ def parse_one_book(bookid):
 
         line = maybe_normalize(line)
         line = maybe_normalize(line, mapping=mapping_specific)
-        line = filter_numbers(line)
+        line = filter_numbers(line).lstrip()
+
+        maybe_match = re.match(PUNCT_NBSP, line)
+        if maybe_match:
+            line = line.replace(maybe_match.group(0), "%s\u00a0%s" % (maybe_match.group(1), maybe_match.group(2)))
     
         finaltext += [ line ]
 
