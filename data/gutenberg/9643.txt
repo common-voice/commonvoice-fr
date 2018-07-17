@@ -9,9 +9,9 @@ Pour le coup c'était trop fort, et l'académicien pâlit.
 C'était un jour de pluie.
 Au deuxième étage, je demandai mademoiselle Marat.
 Le portier et sa femme s'entre-regardèrent en silence.
---C'est ici? --Oui, monsieur, reprirent-ils après s'être consultés du coin de l'oeil.
---Elle est chez elle? --Toujours: cette malheureuse est paralysée des jambes.
---A quel étage? --Au cintième, la porte à droite.
+C'est ici? Oui, monsieur, reprirent-ils après s'être consultés du coin de l'oeil.
+Elle est chez elle? Toujours: cette malheureuse est paralysée des jambes.
+A quel étage? Au cintième, la porte à droite.
 Les murs sans badigeon étalaient dans le clair-obscur la sale nudité du plâtre.
 Arrivé tout en haut devant une porte mal close, je frappai.
 Je demeurai frappé de stupeur.
@@ -28,13 +28,13 @@ Il faut moraliser le peuple.
 Mon frère est mort à l'oeuvre.
 On aura beau faire, l'on n'effacera pas sa mémoire.
 Elle me parla ensuite de Robespierre avec amertume.
---Il n'y avait rien de commun, ajouta-t-elle, entre lui et Marat.
---Oui, répondit-elle, c'est la vérité.
+Il n'y avait rien de commun, ajouta-t-elle, entre lui et Marat.
+Oui, répondit-elle, c'est la vérité.
 Le bruit courut même par la ville qu'il s'était vendu pour un château....
 L'humeur soupçonneuse de certains révolutionnaires ne s'était point endormie chez elle avec les années.
 L'histoire ne devait point descendre jusqu'à ces futilités.
 Ce qui me frappa fut son opinion sur l'assassinat politique.
---N'importe! s'écria-t-elle; c'est toujours un mauvais moyen de se défaire des tyrans.
+N'importe! s'écria-t-elle; c'est toujours un mauvais moyen de se défaire des tyrans.
 Je me levai pour sortir.
 La mort n'est un mal que pour ceux qui ont la conscience troublée.
 Je redescendis l'escalier avec un poids sur le coeur.
@@ -94,7 +94,7 @@ Pascal démasqua les jésuites dans ses Lettres provinciales.
 Les voies étaient ouvertes: le XVIIIe siècle s'y précipita.
 Est-ce à dire que la Révolution Française soit l'oeuvre d'une école de philosophes? Non.
 La source de toutes les forces et de toutes les initiatives était dans le peuple.
-La Révolution en germe dans la cabale.--La franc-maçonnerie.--Les mystiques.--Les inventeurs.
+La Révolution en germe dans la cabale., La franc-maçonnerie., Les mystiques., Les inventeurs.
 On ne découvre, à cette époque, que des systèmes incohérents, vagues, entachés de merveilleux.
 L'Église n'avait point en elle-même le principe de la science.
 Les oeuvres d'Aristote furent brûlées par la main du bourreau.
@@ -133,7 +133,7 @@ Les peuples en ont autant besoin que les souverains.
 Il existe d'ailleurs un lien étroit entre la science et l'affranchissement de l'esprit humain.
 L'arbitraire ne peut se soutenir qu'en face de l'ignorance.
 Aussi la Révolution fut-elle généralement saluée avec enthousiasme par les savants.
-Les prisons d'État.--Le Prévôt de Beaumont.--Décadence de l'ancien régime.
+Les prisons d'État., Le Prévôt de Beaumont., Décadence de l'ancien régime.
 Il n'y a que les prisons qui tiennent encore; mais leur secret est découvert.
 Le voile s'est déchiré sur l'abîme des iniquités de la justice humaine.
 Les geôliers ont beau faire, leurs victimes sont connues et pleurées.
@@ -144,7 +144,7 @@ On le change de cachot; plus d'air, plus de jour.
 Je ne savais où placer cette petite provision.
 Malesherbes y vint.
 Le prisonnier fit retentir la prison de ses cris et de ses révélations foudroyantes.
---Ce pacte existe, criait-il, je l'ai vu! Malesherbes jugea un tel homme dangereux et s'éloigna.
+Ce pacte existe, criait-il, je l'ai vu! Malesherbes jugea un tel homme dangereux et s'éloigna.
 Les geôliers, Lenoir en tête, sentaient le sol chanceler sous eux.
 C'était le moyen de dérober son secret à la connaissance du monde.
 Heureusement les prévisions et les intrigues des hommes de police furent déjouées.
@@ -173,7 +173,7 @@ On touchait à l'année mémorable qui devait décider la lutte.
 L'horizon politique devenait de plus en plus sombre.
 Les circonstances étaient insurmontables; elles usaient les hommes.
 On avait dépensé beaucoup trop d'argent; il crut que le remède était d'en dépenser davantage.
-Illusions!--Bientôt le numéraire manqua dans les caisses.
+Illusions!, Bientôt le numéraire manqua dans les caisses.
 Il venait de sortir des affaires, emportant le sentiment d'une calamité prochaine.
 En pareil cas, on n'arrive à la modération qu'après un temps de violence.
 Il ne savait pas vouloir.
@@ -229,7 +229,7 @@ Dépositaires de la puissance, ils voulurent hâter le terme des douleurs, enfan
 Ils périrent aussi dans l'action; mais leur oeuvre ne périra pas.
 Déjà ses ennemis se sentent fléchir.
 Le ciel, naguère chargé de nuages, s'est éclairci; tout le monde espère en l'avenir.
-Les élections.--Convocation des Etats généraux.--Serment du Jeu-de-Paume.
+Les élections., Convocation des Etats généraux., Serment du Jeu-de-Paume.
 Tout était incertain, abandonné au hasard, c'est-à-dire au caprice des puissants.
 Déjà l'esprit de la Révolution était mûr; sa marche était tracée.
 L'autorité se déplaçait naturellement et sans bruit.
@@ -291,7 +291,6 @@ Alors tous les bras se lèvent.
 Un éclair déchire cette obscurité sinistre; le tonnerre gronde.
 Quel moment et quelle grandeur! Un orage au dehors, une révolution dans l'assemblée.
 Les représentants s'étaient montrés dignes de la nation: tout était sauvé.
-La séance royale--Paroles de Mirabeau--Necker--Troubles à Paris--Conduite des députes--Pris de la Bastille.
 Le comte d'Artois l'avait d'ailleurs fait retenir pour son agrément.
 Le tiers tint séance dans l'église Saint-Louis.
 L'Assemblée fit entendre, par la bouche de son président, des paroles d'union.
@@ -315,8 +314,8 @@ La Montagne était en formation dans l'Assemblée nationale, mais c'était une f
 Pour les partis comme pour les hommes prophétiques, il faut la préparation du silence.
 Les dissentiments devaient sortir de la victoire.
 En attendant, contentons-nous de résumer la situation présente.
---Restez, monsieur Necker, s'écria la foule, restez, nous vous en conjurons.
---Hé bien, messieurs, je reste! s'écria alors Target; c'est la réponse de Monsieur Necker.
+Restez, monsieur Necker, s'écria la foule, restez, nous vous en conjurons.
+Hé bien, messieurs, je reste! s'écria alors Target; c'est la réponse de Monsieur Necker.
 Chaque jour les frayeurs augmentaient avec l'arrivée continuelle des troupes.
 Une armée pesait sur l'Assemblée naissante.
 Celle-ci, de son côté, était réduite à l'impuissance.
@@ -357,7 +356,7 @@ Un mouvement de plus, et la représentation allait périr.
 La nouvelle du renvoi de Necker arriva le douze à Paris.
 Le Palais-Royal était rempli d'une foule agitée.
 D'abord un triste et long murmure, bientôt une rumeur plus redoutable s'y fit entendre.
---Qu'y a-t-il donc? --Et que voulez-vous qu'il y ait de plus? Monsieur Necker est exilé.
+Qu'y a-t-il donc? Et que voulez-vous qu'il y ait de plus? Monsieur Necker est exilé.
 L'opinion depuis quelques jours grondait; la fatale nouvelle mit le feu au volcan.
 En ce moment, il était midi, le canon du palais vint à tonner.
 Un jeune homme, Camille Desmoulins, monte sur une table.
@@ -381,22 +380,22 @@ La nuit descend sur Paris inquiet, éveillé.
 Tout s'émeut, puis tout rentre dans le silence.
 Ce calme n'est plus interrompu que par le sinistre hoquet du tocsin.
 Députation des États.
-Pris un! «Vendredi trois.--Rien.
-«Samedi quatre.--Chasse du chevreuil au Butard.
+Pris un! «Vendredi trois., Rien.
+«Samedi quatre., Chasse du chevreuil au Butard.
 Pris un et tué vingt-neuf pièces.
-«Dimanche cinq.--Vêpres et salut.
-«Lundi six.--Rien.
-«Mardi sept.--Chasse du cerf à Port-Royal.
-«Mercredi huit.--Rien.
-«Jeudi neuf.--Rien.
+«Dimanche cinq., Vêpres et salut.
+«Lundi six., Rien.
+«Mardi sept., Chasse du cerf à Port-Royal.
+«Mercredi huit., Rien.
+«Jeudi neuf., Rien.
 Députation des États.
-«Vendredi dix.--Rien.
+«Vendredi dix., Rien.
 Réponse à la députation des États.
-«Samedi onze.--Rien.
+«Samedi onze., Rien.
 Départ de Monsieur Necker.
-«Dimanche douze.--Vêpres et salut.
+«Dimanche douze., Vêpres et salut.
 Départ de MMonsieur de Montmorin, Saint-Priest et de la Luzerne.
-«Lundi treize.--Rien.» Il avait pris médecine.
+«Lundi treize., Rien.» Il avait pris médecine.
 Or, le troisième jour, le peuple était maître de Paris et du roi.
 La veille c'était une cohue, aujourd'hui c'est une armée.
 Personne ne commandait; tout le monde sut obéir.
@@ -452,7 +451,7 @@ Conduit en cet état à l'Hôtel de Ville de Paris, il fut confronté, interrog�
 On trouva sur lui les morceaux d'une lettre qu'il avait déchirée avec ses dents.
 Le malheureux entendait gronder à ses oreilles ce mugissement terrible d'un peuple justement irrité.
 Le Comité de l'Hôtel de Ville insistait toujours, et avec raison, pour qu'il fût jugé.
---Je ne puis blâmer, dit-il, votre indignation contre cet homme.
+Je ne puis blâmer, dit-il, votre indignation contre cet homme.
 Je ne l'ai jamais aimé.
 Mais il a des complices; il faut que nous les connaissions.
 Je vais le faire conduire à l'Abbaye.
@@ -469,7 +468,6 @@ On portait devant lui une couronne civique.
 Au retour, elles se rendaient chez le maire.
 On ne doutait pas que ces dépouilles ne fussent agréables au dieu de la liberté.
 Nous avons mille motifs pour en douter.
-Troubles et soulèvements dans les campagnes--Henri de Belzunce--Un épisode de la Révolution à Caen.
 Pas même la trace des pieds nus ou des sabots.
 C'était une armée invisible qui sortait de terre et qui rentrait sous terre.
 En quelques jours, la France se montre, d'une extrémité à l'autre, sous les armes.
@@ -482,8 +480,8 @@ Le comte n'en fit rien.
 Surprise au milieu de son sommeil, la paisible population de Caen est bientôt sur pied.
 Les lumières étoilent à toutes les fenêtres; une foule compacte encombre déjà toutes les issues.
 Le régiment de Bourbon était rassemblé dans la cour et déjà sous les armes.
---Vive la nation! crie le peuple.
---Vive Bourbon! répond le régiment.
+Vive la nation! crie le peuple.
+Vive Bourbon! répond le régiment.
 Deux bourgeois furent laissés en otage au régiment pour lui répondre de son chef.
 Il était une heure du matin.
 Les têtes s'échauffaient de moment en moment.
@@ -587,23 +585,23 @@ L'air était chargé de pressentiments et de terreurs confuses.
 Le sol tremblait sous la tribune.
 Plusieurs députés sentaient distinctement le souffle de quelqu'un qui allait venir.
 Les pas assourdis d'une armée invisible agitaient devant elle le silence même.
---Paris marche, disait Mirabeau à l'oreille de Mounier.
---Femmes, que venez-vous demander? --Du pain et voir le roi.
+Paris marche, disait Mirabeau à l'oreille de Mounier.
+Femmes, que venez-vous demander? Du pain et voir le roi.
 Quelques femmes des halles s'assemblent.
 Des marchandes, des filles de boutique, des ouvrières, des actrices, couvrent le pavé.
 On veut le mettre à mort.
---Qui es-tu? --Je suis Stanislas Maillard, un des vainqueurs de la Bastille.
+Qui es-tu? Je suis Stanislas Maillard, un des vainqueurs de la Bastille.
 On l'accepte pour guide.
 Voici la jolie bouquetière, Louison Chabry, toute pimpante, toute fraîche de ses dix-sept ans.
 On les applaudit.
 Les murmures avaient fini par vaincre sa résistance.
 Tumulte: on veut le retenir, le faire descendre de voiture.
 L'inconnu protestait, se défendait.
---Mais enfin, qu'allez-vous faire à Versailles dans un pareil moment? --Je suis député de Bretagne.
---Député! ah! c'est différent.
---Oui, je suis Chapelier.
-Alors toutes: --Vive Chapelier! Plusieurs hommes armés montent devant et derrière sa voiture pour l'escorter.
-Versailles! voici Versailles!--Maillard arrête ses femmes, les dispose sur trois rangs.
+Mais enfin, qu'allez-vous faire à Versailles dans un pareil moment? Je suis député de Bretagne.
+Député! ah! c'est différent.
+Oui, je suis Chapelier.
+Alors toutes: Vive Chapelier! Plusieurs hommes armés montent devant et derrière sa voiture pour l'escorter.
+Versailles! voici Versailles!, Maillard arrête ses femmes, les dispose sur trois rangs.
 Toutes ces femmes lui obéissent.
 Les canons sont relégués à l'arrière-garde.
 Ici s'engage un grand dialogue entre cet intrépide huissier et l'Assemblée.
@@ -616,7 +614,7 @@ L'étrange et nombreux cortége dont les députés étaient assaillis est pris p
 Nous nous rallions et nous avançons ainsi vers le château.
 Quelques aristocrates, mêlés au tumulte, profitent de la circonstance pour tenter le peuple.
 Les femmes répondent à ces insinuations perfides par des injures.
---Nous voulons du pain, ajoutent-elles, mais non pas au prix de la liberté.
+Nous voulons du pain, ajoutent-elles, mais non pas au prix de la liberté.
 C'étaient les plus animées contre la cour et les gardes-du-corps.
 Cependant Louis seize est de retour au château.
 Suivons les femmes chez le roi: elles entrent.
@@ -629,8 +627,8 @@ Babet Lairot, une autre jeune fille, ainsi que deux gardes-du-corps, intervienne
 La garnison de Versailles était toujours sous les armes.
 Les soldats du régiment de Flandre et les dragons inspiraient des inquiétudes.
 Les femmes se jettent sans frayeur parmi eux, les enlacent.
---Ton nom? --Citoyenne.
---Le tien? --Français.
+Ton nom? Citoyenne.
+Le tien? Français.
 Les jolies mains des Parisiennes jouent avec les armes, caressent les chevaux des cavaliers.
 Le soldat est pris; il s'excuse d'avoir assisté au fameux banquet.
 Quelques-uns offrent même de leurs cartouches aux plus jolies.
@@ -663,7 +661,6 @@ Les députés se réunirent les premiers jours dans la chapelle de l'archevêch�
 L'Assemblée siégea ensuite dans la salle de l'ancien manége des Tuileries.
 On se sert, en pareil cas, d'un mot qui couvre tous les envahissements: l'ordre.
 La bourgeoisie voulait modérer la Révolution pour l'organiser à son profit.
-Le pays actif--nous dirions maintenant le pays légal--ne songea plus dès lors qu'à se constituer.
 Comme toujours, on se servit d'un prétexte pour justifier les mesures contre-révolutionnaires.
 La vérité est qu'une bande très-peu nombreuse de malfaiteurs trempa les mains dans ce sang.
 La presse démocratique n'eut qu'une voix pour flétrir un si lâche assassinat.
@@ -796,7 +793,7 @@ La Révolution avait promis de relever tous les abaissements.
 Après un premier refus, je lui ai fait faire une sommation par acte extra-judiciaire.
 Je me prosterne devant Dieu; je professe la religion catholique, apostolique et romaine...
 Comment cette religion peut-elle autoriser le dérèglement des moeurs?...
-Constitution civile du clergé.--Fête de la Fédération.
+Constitution civile du clergé., Fête de la Fédération.
 Les vivants et les morts illustres, Fénelon, Pascal, Mably, assistaient en quelque sorte aux débats.
 Enfin la discussion s'ouvrit au mois de juin mille sept cent quatre-vingt-dix.
 Ces casuistes s'enveloppèrent dans une discussion obscure: les fantômes ne soulèvent que des ténèbres.
@@ -939,7 +936,7 @@ Il intriguait, intriguait, intriguait.
 On touchait, par ce point, aux mouvements militaires de l'Autriche.
 Des mouvements inusités, dans le château des Tuileries, avaient fait soupçonner des projets d'évasion.
 Avant quinze jours, dit hier Bergasse, l'Assemblée nationale sera dissoute.
---Nous attendons un trésor, répondaient les cavaliers aux bourgeois que la présence des uniformes intriguait.
+Nous attendons un trésor, répondaient les cavaliers aux bourgeois que la présence des uniformes intriguait.
 Ce trésor, comme on le devine bien, c'était le roi et la famille royale.
 Le mystère, l'inconnu qui avait présidé à ce départ, redoublaient les alarmes.
 Tout était obscur dans cette fuite, les intentions, les moyens.
@@ -948,18 +945,18 @@ Depuis notre Révolution, la monarchie n'était plus qu'un fantôme; le fantôme
 Tous les partis se disputaient la situation; mais les modérés tenaient un tout autre langage.
 Au milieu de ces conversations agitées, la ville conservait un calme imposant et fier.
 «Le roi parti, disaient les groupes, c'est le peuple qui succède.
---Imprudent ou traître, cet homme est coupable.
---Général, vous avez prononcé votre arrêt.
---Le souverain est là-dedans, se dit-elle; Louis seize peut aller où il voudra.
+Imprudent ou traître, cet homme est coupable.
+Général, vous avez prononcé votre arrêt.
+Le souverain est là-dedans, se dit-elle; Louis seize peut aller où il voudra.
 Les visiteurs insistent.
---Vos chefs étaient du complot...
---Nous ne savons.
+Vos chefs étaient du complot...
+Nous ne savons.
 La tranquillité semblait peinte sur son visage.
 A la place de Grève, l'accueil fut terrible: Lafayette pâlit.
 Une seule chose le sauva dans ces conjonctures difficiles: il était honnête.
 Complice, non; dupe, oui.
 Entouré de tout ce monde, il débuta par une plaisanterie.
---Chaque citoyen, dit-il, gagne vingt sous de rente par la suppression de la liste civile.
+Chaque citoyen, dit-il, gagne vingt sous de rente par la suppression de la liste civile.
 Les fronts chargés de soupçons et de colères ne se déridaient point.
 Grâce à la sagesse des citoyens, cette supposition charitable ne se trouva pas confirmée.
 On respecta davantage le cabinet d'études du dauphin...
@@ -1072,12 +1069,12 @@ Le Champ-de-Mars était tranquille et libre; les troupes s'étaient repliées su
 Toute idée de péril étant écartée, le rassemblement grossissait à vue d'oeil.
 Survient un orage; on le brave.
 Leur visage est morne, ils ont vu des choses sinistres.
---Nous sommes trahis! murmure l'un d'eux d'une voix sombre.
+Nous sommes trahis! murmure l'un d'eux d'une voix sombre.
 On les presse de s'expliquer.
 Là-dessus la municipalité ne veut plus nous entendre.
 Elle a, dit-on, transmis à la municipalité des ordres sévères.
 La loi martiale était comme un arc tendu, il fallait que le trait partit.
---Nous allons, disaient-ils brutalement, envoyer des pilules aux Jacobins.
+Nous allons, disaient-ils brutalement, envoyer des pilules aux Jacobins.
 Le jour était tombé; il faisait assez sombre pour l'exécution des mauvais desseins.
 On avait en effet tiré en l'air.
 Tout à coup une seconde décharge éclate, mais réelle et meurtrière.
@@ -1103,7 +1100,7 @@ Ouvrier d'abord, puis entrepreneur en menuiserie, il avait acquis, par le travai
 Les patriotes de ce temps-là étaient des natures de fer.
 Cette maison lui servira d'asile.
 Vous le connaissez déjà de nom, c'est Maximilien Robespierre...
---Vous êtes ici chez vous, lui dit Duplay; mon fils sera votre frère.
+Vous êtes ici chez vous, lui dit Duplay; mon fils sera votre frère.
 De cette maison, il ne reste rien ou presque rien.
 Le temps a tout détruit et tout reconstruit.
 La rue elle-même était à peine une rue: c'était un groupe d'une dizaine d'habitations.
@@ -1183,7 +1180,7 @@ Le système de la Terreur a même été inventé par les Girondins.
 Après les émigrés, ce fut le tour des prêtres réfractaires.
 Les priver de leur traitement était un acte de justice.
 Cependant l'Assemblée nationale voyait avec impatience son autorité murée par deux vetos.
-André Chénier--c'était son nom--s'avouait alors royaliste.
+André Chénier, c'était son nom, s'avouait alors royaliste.
 Guerre aux blancs! c'est le cri que poussait alors Saint-Domingue et qui traversa les mers.
 Comme toujours, l'insurrection avait été précédée par le martyre.
 Ils furent châtiés; l'incendie et le meurtre couvrirent la colonie.
@@ -1250,8 +1247,8 @@ La renommée de Théroigne lui attira des critiques et des sarcasmes.
 Les écrivains royalistes la déchirèrent dans leurs pamphlets.
 La division éclata sur le terrain des croyances religieuses.
 Ils comptaient sur l'incrédulité qui commençait à se répandre dans les classes populaires.
-Y a-t-il quelqu'un qui se lève? --Oui, moi! s'écria Réal.
---Parlez, répondit Robespierre.
+Y a-t-il quelqu'un qui se lève? Oui, moi! s'écria Réal.
+Parlez, répondit Robespierre.
 Ah! ce sont les ambitieux et les tyrans qu'il faudrait bannir.
 J'accepte avec transport cette douce et glorieuse destinée.
 Je vous la livre; réunissez-vous tous pour la déchirer; unissez, multipliez vos libelles périodiques.
@@ -1279,7 +1276,7 @@ Les révolutions commencent par la parole et finissent par le glaive.
 Tout changement crée, parmi ceux dont il dérange les anciens priviléges, des haines irréconciliables.
 Vous savez ces choses aussi bien que moi, mais vous n'osez pas les avouer.
 Robespierre baissa la tête.
---Aucune révolution, continua Marat, n'aura été plus économe que la nôtre du sang des peuples.
+Aucune révolution, continua Marat, n'aura été plus économe que la nôtre du sang des peuples.
 Nous ne faisons pas la guerre, nous la subissons.
 «Voilà qui vaut mieux que du canon.
 Il faut qu'ils tombent sous nos coups ou que nous tombions sous les leurs.
@@ -1427,7 +1424,7 @@ Une jeune fille blonde, svelte et jolie, entra avec un petit sourire aux lèvres
 Marat avait eu peu de rapports dans sa vie avec les femmes.
 Marat lui demanda des nouvelles de la ville.
 Paris ne remuait pas encore.
---C'est fini, dit-il, notre cause est perdue.
+C'est fini, dit-il, notre cause est perdue.
 Que se passait-il au dehors? Le tocsin sonnait dans tout Paris.
 Les faubourgs descendirent lentement.
 Au petit jour, on battit la générale.
@@ -1440,9 +1437,9 @@ La lutte s'engage.
 On ignorait au dehors ce qui se passait dans l'intérieur des Tuileries.
 Mandat, auquel avait été confiée la défense du château, venait d'être massacré.
 Il ajouta que tout Paris s'avançait contre le château et que la résistance était impossible.
---Marchons! dit le roi.
+Marchons! dit le roi.
 L'infortune de cet homme qui n'avait pas su conserver le pouvoir toucha les coeurs.
---Nous allons revenir, avait dit de son côté la reine à l'une de ses femmes.
+Nous allons revenir, avait dit de son côté la reine à l'une de ses femmes.
 Ce calcul amena tous les malheurs de la journée.
 Le bruit courut que les Suisses, profitant d'un semblant de victoire, marchaient vers le Manége.
 Ils venaient, disait-on, enlever le roi, détruire la représentation nationale.
@@ -1457,7 +1454,7 @@ Les abords des Tuileries présentaient un spectacle affreux.
 Ne devait-on point s'attendre à des représailles? Il y en eut de très regrettables.
 Les Suisses et quelques vieux serviteurs de la cour furent cruellement immolés.
 Mais en revanche on cite de beaux traits d'humanité.
-Puis revenant à lui-même: --Il me faut une vengeance.
+Puis revenant à lui-même: Il me faut une vengeance.
 Une de ces fausses patrouilles fut arrêtée.
 [Note: Elle avait contre lui un autre grief.
 Elle appartenait maintenant à la Gironde.
@@ -1478,7 +1475,7 @@ A peine était-elle installée qu'elle joua tout de suite un rôle important et 
 C'est là qu'était autrefois le trésor de l'ordre des Templiers, détruits par Philippe le Bel.
 On y déposa la royauté vaincue, ruine sur ruine.
 Cette Commune se composait d'éléments divers, mais en somme le parti des exaltés y dominait.
---Marat, disait le peuple des faubourgs, est la conscience de l'Hôtel de Ville.
+Marat, disait le peuple des faubourgs, est la conscience de l'Hôtel de Ville.
 Tant qu'il veillera, tout ira bien.
 Le dix août, on s'en souvient, avait fait de nombreuses victimes.
 Divers incidents ajoutaient à l'animosité des citoyens contre les anciens partisans de la cour.
@@ -1539,11 +1536,11 @@ Il y a du sang dans l'air.
 On a cru voir dans ce groupe les fédérés du Midi.
 Rien n'est plus douteux.
 En peu de temps, vingt-quatre détenus furent immolés.
---Stanislas Maillard, que viens-tu faire ici? --Juger, répond-il froidement.
+Stanislas Maillard, que viens-tu faire ici? Juger, répond-il froidement.
 En effet, le voici installé devant une table.
 Alors commencent les appels funèbres des accusés.
 Chacun d'eux comparaît à son tour devant le sanglant tribunal.
---Votre nom? --Journiac de Saint-Méard.
+Votre nom? Journiac de Saint-Méard.
 Le Comité de surveillance de la Commune l'avait fait arrêter le vingt-deux août.
 Ses yeux hagards font présager quelque malheur.
 On l'entoure; on le presse de questions; mais il garde un silence obstiné.
@@ -1554,20 +1551,20 @@ On l'appelle; il se présente; trois hommes le saisissent et l'entraînent dans 
 Un vieux guichetier avait la main sur les verrous.
 En présence du tribunal, trois exécuteurs tenaient un prisonnier qui paraissait âgé de soixante ans.
 Le dossier du vieillard ayant été examiné, Maillard dit: Conduisez monsieur....
-LE PRÉSIDENT.--Votre profession? L'ACCUSÉ.--Officier du roi, etc., etc.
-UN DES JUGES.--Le moindre mensonge vous perd.
+LE PRÉSIDENT., Votre profession? L'ACCUSÉ., Officier du roi, etc., etc.
+UN DES JUGES., Le moindre mensonge vous perd.
 Journiac se défend comme il peut avec une chaleur toute provençale et une grande assurance.
 Il s'élève un murmure qui est bien vite réprimé par le juge.
---Oui, monsieur, j'ai été franc royaliste; mais je n'ai jamais été payé pour l'être.
+Oui, monsieur, j'ai été franc royaliste; mais je n'ai jamais été payé pour l'être.
 «Je lui accorde la liberté.
 Tous ceux qui se trouvaient dans le guichet embrassent l'acquitté.
 Nouvelles acclamations, nouveaux transports de joie.
 Les trois députés rentrent et conduisent Journiac hors du guichet.
-Aussitôt qu'il paraît dans la rue, l'un d'eux s'écrie: --Chapeau bas! ...
-Citoyens, voici celui pour lequel vos juges demandent aide et secours.--Tous se découvrent.
+Aussitôt qu'il paraît dans la rue, l'un d'eux s'écrie: Chapeau bas! ...
+Citoyens, voici celui pour lequel vos juges demandent aide et secours., Tous se découvrent.
 Placé au milieu de quatre torches, l'innocent est entouré, serré dans des bras sanglants.
 Toute la foule crie: «Vive la nation!» Le voilà désormais sous la sauvegarde du peuple.
-Le maçon demanda: --Avez-vous peur? --Pas plus que vous.
+Le maçon demanda: Avez-vous peur? Pas plus que vous.
 J'en suis très-aise, parce que j'aime les gens qui ne boudent pas.
 Bouder, dans le langage du temps, voulait dire dissimuler, fouiner.
 Deux gardes vinrent le chercher pour le conduire au tribunal criminel et interrompirent ses rêveries.
@@ -1591,8 +1588,8 @@ Le hasard seul perdit la princesse de Lamballe.
 Elle était à la Force.
 La Commune, dit-on, voulait la sauver.
 On l'amène devant le tribunal improvisé.
-LE JUGE.--Votre qualité? ELLE.--Surintendante de la maison de la reine.
-LE JUGE.--Élargissez madame! Elle touchait à la liberté.
+LE JUGE., Votre qualité? ELLE., Surintendante de la maison de la reine.
+LE JUGE., Élargissez madame! Elle touchait à la liberté.
 Il n'en aurait pas fallu davantage pour mettre ces tigres en appétit.
 Notre délivrance rendrait leur perte plus certaine.
 Ce n'est point un acte de pure scélératesse.
@@ -1635,7 +1632,7 @@ Le torrent de sang avait rencontré sa digue.
 Il court à la mairie.
 C'est Pétion qu'il rencontre.
 Danton était courroucé.
---Eh bien! lui dit Pétion, descendons au Comité de surveillance; vous vous expliquerez.
+Eh bien! lui dit Pétion, descendons au Comité de surveillance; vous vous expliquerez.
 Marat y était; le début fut très animé.
 Cette scène a été racontée par Pétion, un témoin oculaire.
 Danton avait rétabli l'unité dans la diversité des pouvoirs, la vraie doctrine révolutionnaire.
@@ -1738,8 +1735,8 @@ Les penseurs sentiront toute la justesse de ce principe.
 Un lugubre silence règne sur les bancs des députés; mais les tribunes applaudissent avec fureur.
 Le calme semblait depuis quelques instants rétabli.
 Tout à coup un second orage éclate sur la tête de Marat.
-UNE VOIX.--Je demande que Marat parle à la barre.
-MARAT.--Je somme l'Assemblée de ne pas se livrer à ces accès de fureur.
+UNE VOIX., Je demande que Marat parle à la barre.
+MARAT., Je somme l'Assemblée de ne pas se livrer à ces accès de fureur.
 L'écrit qu'on vient de lire est de moi, je l'avoue.
 Seulement cet écrit est déjà ancien; il date de dix jours.
 Un secrétaire de l'Assemblée en lit quelques fragments: Nouvelle marche de l'auteur.
@@ -1750,7 +1747,7 @@ Sa cause est la mienne.
 Mais non, je ne crains rien sous le soleil.
 «A la guillotine! à la guillotine!» vocifèrent quelques Girondins forcenés.
 On demande que Marat soit tenu d'évacuer la tribune.
-TALLIEN.--Je demande, moi, que l'ordre du jour fasse trêve à ces scandaleuses discussions.
+TALLIEN., Je demande, moi, que l'ordre du jour fasse trêve à ces scandaleuses discussions.
 Décrétons le salut de l'empire, et laissons là les individus.
 La Convention passe à l'ordre du jour.
 Il nous reste à tirer les conclusions de cette orageuse séance.
@@ -1800,19 +1797,19 @@ Il n'était bruit dans la ville que de ses exploits militaires.
 Rien de plus aimable qu'un homme heureux.
 Il a forcé l'entrée, malgré la résistance des valets amassés dans l'antichambre.
 A cette vue, un morne silence, mêlé de surprise, saisit tous les assistants.
---Nous sommes envoyés, dit-il, par le club des Jacobins.
---Nous avons besoin de vous parler en particulier, ajoutent Bentabole et Monteau.
+Nous sommes envoyés, dit-il, par le club des Jacobins.
+Nous avons besoin de vous parler en particulier, ajoutent Bentabole et Monteau.
 Ils entrent tous les quatre dans une chambre voisine.
 On entend à intervalles, quoique la porte soit close, la voix des interlocuteurs.
-MARAT.--La manière dont vous les avez traités est révoltante.
+MARAT., La manière dont vous les avez traités est révoltante.
 Il s'agissait, comme on pense bien, des deux régiments, le Mauconseil et le Républicain.
---Monsieur Marat!...
---Vous en imposez à l'Assemblée pour lui arracher des décrets sanguinaires.
---Vous êtes trop vif, monsieur Marat; je ne puis m'expliquer avec vous.
---Je viens ici au nom de l'humanité.
---Vous approuvez donc l'indiscipline des soldats? --Non, mais je hais la trahison des chefs.
+Monsieur Marat!...
+Vous en imposez à l'Assemblée pour lui arracher des décrets sanguinaires.
+Vous êtes trop vif, monsieur Marat; je ne puis m'expliquer avec vous.
+Je viens ici au nom de l'humanité.
+Vous approuvez donc l'indiscipline des soldats? Non, mais je hais la trahison des chefs.
 Dumouriez ne pouvait tolérer un pareil langage.
---Brisons là, dit-il.
+Brisons là, dit-il.
 L'Ami du peuple rentre dans le salon, suivi de ses deux commissaires.
 Il semble à quelques assistants voir les lumières pâlir.
 Marat avait d'un souffle éteint toute cette fête.
@@ -1854,9 +1851,9 @@ Danton ayant été repoussé par la Gironde, tout espoir de conciliation était 
 Les Montagnards, de leur côté, rendaient guerre pour guerre.
 La Gironde en voulait surtout à la Commune de Paris, qui contrariait ses desseins.
 La Convention indignée riposta en décrétant que la Commune rendrait ses comptes dans trois jours.
-MARAT.--J'applaudis moi-même au zèle du citoyen courageux qui m'a dénoncé à cette tribune.
+MARAT., J'applaudis moi-même au zèle du citoyen courageux qui m'a dénoncé à cette tribune.
 Il me semble entendre les Prussiens demander eux-mêmes que Marat soit entendu.
-UNE VOIX.--Votez la clôture: Marat ne vaut pas l'argent qu'il coûte à la nation.
+UNE VOIX., Votez la clôture: Marat ne vaut pas l'argent qu'il coûte à la nation.
 Au milieu de ces exclamations flatteuses, l'Ami du peuple commence par rappeler l'Assemblée...
 A une vague accusation, il répondait par une bravade.
 Ce n'était d'ailleurs pas lui cette fois qu'on visait; c'était Danton et Robespierre.
@@ -1876,7 +1873,7 @@ Robespierre repousse avec une ironie hautaine les absurdes reproches de Louvet.
 Citoyens, pleurez cette méprise cruelle.
 Les applaudissements éclataient dans les tribunes.
 Cependant ses accusateurs frémissaient.
-BARBAROUX.--Je demande à dénoncer Robespierre, et à signer ma dénonciation.
+BARBAROUX., Je demande à dénoncer Robespierre, et à signer ma dénonciation.
 Je graverai ma dénonciation sur le marbre.» (Murmures.
 L'Assemblée décide de passer à l'ordre du jour.
 Louvet reste à la tribune: furieux, il demande à parler contre le président.
@@ -1895,7 +1892,7 @@ Le triomphe de Robespierre était encore disputé avec acharnement.
 Il va reprendre sa place au bureau des secrétaires, à côté de Barbaroux.
 Louvet, Lanthenas lui succèdent et sont bruyamment éconduits par l'impatience générale.
 On demande de toutes parts l'ordre du jour.
-ROBESPIERRE.--Je ne veux pas de votre ordre du jour, qui m'est injurieux.
+ROBESPIERRE., Je ne veux pas de votre ordre du jour, qui m'est injurieux.
 La Convention décide purement et simplement qu'elle passe par-dessus les démêlés personnels.
 C'est ce que voulait Robespierre.
 On ne défend pas impunément les droits du peuple avec tant de courage et d'éloquence.
@@ -1955,8 +1952,8 @@ A ces annonces grossières s'ajoutait l'influence délicate des femmes.
 Cet homme nous a trompés.
 Nous subirons l'échafaud; il l'a dressé.
 Mademoiselle Fleury, soeur du grand comédien, tomba aux genoux de Marat.
---Que faites-vous? lui dit celui-ci surpris; on ne s'agenouille même plus devant Dieu.
---Y pensez-vous? --J'y ai pensé depuis un mois...
+Que faites-vous? lui dit celui-ci surpris; on ne s'agenouille même plus devant Dieu.
+Y pensez-vous? J'y ai pensé depuis un mois...
 Écoutez-moi, Marat; je sais que vous êtes bon.
 Mais réfléchissez encore.
 Marat était effrayant; sa chevelure s'agitait horrible et menaçante sur son front baigné de sueur.
@@ -1988,7 +1985,7 @@ Le plus vraisemblable est que, s'ils se laissèrent réellement entraîner, ce f
 Les Montagnards, d'un autre côté, étaient divisés entre eux.
 Ils regardaient très-peu à l'homme et à ses actes; ils ne regardaient qu'à l'intérêt public.
 Ils voulaient l'étouffer, comme Romulus, dans un orage.
-Par qui sera-t-il jugé?--Par la Convention nationale.
+Par qui sera-t-il jugé?, Par la Convention nationale.
 Presque tout Paris était sous les armes.
 Le roi s'était levé à sept heures du matin...
 Un instant après, l'on a servi le déjeuner.
@@ -2025,22 +2022,22 @@ Le malheureux est une chose sacrée.
 On lui reprocha de s'être servi de l'or comme d'un moyen de corruption.
 Cambon lui demanda s'il voulait prendre quelque chose.
 Louis répondit non.
-Chaumette, en se reculant, lui répondit: --Demandez tout haut ce que vous voulez, monsieur.
-Louis seize reprit: --Je vous demande un morceau de votre pain.
---Volontiers, lui dit Chaumette, tenez, rompez: c'est un déjeuner de Spartiate.
+Chaumette, en se reculant, lui répondit: Demandez tout haut ce que vous voulez, monsieur.
+Louis seize reprit: Je vous demande un morceau de votre pain.
+Volontiers, lui dit Chaumette, tenez, rompez: c'est un déjeuner de Spartiate.
 Si j'avais une racine, je vous en donnerais la moitié.
 La foule était immense et agitée.
 Des cris de mort se mêlèrent à ceux de Vive la Nation, vive la République.
 Cet à propos brutal fut cruellement saisi par Louis seize.
 Il remonta en voitre et mangea seulement la croûte de son pain.
---Et comment savez-vous qu'il est rare? demanda Chaumette.
---Parce que celui que je mange sent un peu la terre.
---Monsieur Chaumette, votre grand'mère était, à ce qu'il me paraît, une femme de grand sens.
+Et comment savez-vous qu'il est rare? demanda Chaumette.
+Parce que celui que je mange sent un peu la terre.
+Monsieur Chaumette, votre grand'mère était, à ce qu'il me paraît, une femme de grand sens.
 Louis parla peu au retour.
 Doué d'une grande mémoire, il articula seulement le nom de quelques rues qu'il parcourait.
---Ah! voici, dit-il, la rue du Houssaye.
-Le procureur de la Commune reprit: --Dites la rue de l'Égalité.
---Oui, oui, à cause de...
+Ah! voici, dit-il, la rue du Houssaye.
+Le procureur de la Commune reprit: Dites la rue de l'Égalité.
+Oui, oui, à cause de...
 Il n'acheva pas; sa tête tomba mélancoliquement sur sa poitrine.
 «Je me sens le coeur embarrassé,» dit-il.
 Il y a des infortunes qui touchent jusqu'aux plus implacables ennemis de la royauté.
@@ -2050,9 +2047,9 @@ Le jeune Louis le leur avait déjà annoncé.
 Louis fut ramené dans sa chambre à six heures et demie.
 Alors le maire et tous ceux qui l'accompagnaient se retirèrent.
 Il demeura seul avec le commissaire Albertier.
---Je vais chercher la Constitution.
-Le roi sort, revient et après avoir parcouru l'acte constitutionnel: --Oui, la loi me l'accorde.
-Le commissaire rentre: --Monsieur, je vous annonce que vous ne communiquerez pas avec votre famille.
+Je vais chercher la Constitution.
+Le roi sort, revient et après avoir parcouru l'acte constitutionnel: Oui, la loi me l'accorde.
+Le commissaire rentre: Monsieur, je vous annonce que vous ne communiquerez pas avec votre famille.
 Le roi se le tint pour dit.
 On servit ensuite le souper.
 Puis il se leva de table et alla se coucher.
@@ -2064,9 +2061,9 @@ Ils ont eu à vaincre la nature.
 Celui de tous qu'on croirait le moins accessible à la compassion, Marat, fut ému.
 Mademoiselle Fleury n'avait point abandonné son projet.
 Le roi mort, il n'y a plus moyen de reculer.
---On les abattra.
---Nous sommes assez grands maintenant pour nous servir nous-mêmes.
---C'est bien; mais le peuple n'est grand que quand il est fort et magnanime.
+On les abattra.
+Nous sommes assez grands maintenant pour nous servir nous-mêmes.
+C'est bien; mais le peuple n'est grand que quand il est fort et magnanime.
 Elle dictait ses pensées à des secrétaires.
 La proposition qu'elle lançait de défendre Louis seize fit sourire la Convention et les tribunes.
 Les rois occupent l'attention publique même après leur déchéance.
@@ -2088,18 +2085,18 @@ Le retour de Louis au Temple fut silencieux et lent: on alla au pas.
 Les boulevards étaient garnis d'une double haie de piques et de baïonnettes.
 Il n'y avait presque point de spectateurs.
 Louis demanda au maire à voir le portrait qui était sur sa tabatière.
---C'est celui de ma femme, dit Cambon.
---Je vous fais compliment: elle est très-jolie.
+C'est celui de ma femme, dit Cambon.
+Je vous fais compliment: elle est très-jolie.
 Il s'enquit ensuite au citoyen Cambon de quel pays il était.
---De la Haute-Marne.
---C'est un pays enchanté.
+De la Haute-Marne.
+C'est un pays enchanté.
 Je n'ai vu que le pays de Caux.
 On passa ensuite à la médecine.
 Quelqu'un parla du mesmérisme.
---J'aurais bien voulu en voir quelques expériences, dit Louis.
+J'aurais bien voulu en voir quelques expériences, dit Louis.
 Le secrétaire-greffier avançait la main pour le faire.
---Non, non, dit vivement le procureur de la Commune, cela pourrait produire un mauvais effet.
---Ah! oui, dit le roi.
+Non, non, dit vivement le procureur de la Commune, cela pourrait produire un mauvais effet.
+Ah! oui, dit le roi.
 Louis seize rentra au Temple; il ne devait plus en sortir que pour l'échafaud.
 C'est qu'alors du moins on avait la passion de la vérité.
 Les Montagnards invoquaient contre Louis seize le droit absolu du peuple contre les rois.
@@ -2116,7 +2113,7 @@ Les coups des Montagnards visaient d'ailleurs plus loin que la personne de Louis
 Guerre, constitution, réorganisation des services publics, cet homme était un noeud qui arrêtait tout.
 Les Conventionnels agirent envers ce noeud gordien à la manière d'Alexandre, ils le tranchèrent.
 Il fallait, selon eux, que le roi mourût ou que l'on renonçât à la République.
---Marchons sur lui! s'écrièrent-ils.
+Marchons sur lui! s'écrièrent-ils.
 La voûte du ciel se fût écroulée sur leurs têtes qu'ils n'auraient point reculé.
 La Révolution était le passage du désert.
 De là cette résistance passagère à tous les sentiments de la nature.
@@ -2144,9 +2141,9 @@ L'appel à la nation avait été déjà repoussé par des arguments invincibles.
 Danton, Robespierre, tous les Montagnards avaient répondu: «La nation, c'est nous.
 Restait la question du sursis.
 Gagner du temps, c'était peut-être un moyen d'éluder la sentence de mort.
---Point de sursis! dit Tallien, l'humanité l'exige; il faut abréger ses angoisses...
+Point de sursis! dit Tallien, l'humanité l'exige; il faut abréger ses angoisses...
 Il est barbare de le laisser dans l'attente de son sort...
---Point de sursis! dit Robespierre; et il invoqua comme les autres un motif d'humanité.
+Point de sursis! dit Robespierre; et il invoqua comme les autres un motif d'humanité.
 Le roi était irrémissiblement condamné.
 Seuls contre tous, ils osent prendre l'offensive et se réduire à la nécessité de vaincre.
 La France envoya devant ses légions l'épouvante.
@@ -2196,8 +2193,8 @@ Un dernier mot sur le procès de Louis seize.
 Parmi ceux qui votèrent la mort, presque tous périrent sur l'échafaud; quelques-uns seulement ont survécu.
 Ils emportèrent dans la tombe la conviction d'avoir fait leur devoir.
 Le fait suivant fut raconté en Belgique à l'auteur de cette histoire.
---Que faites-vous là? lui dit-il.
---Je refais le procès du roi.
+Que faites-vous là? lui dit-il.
+Je refais le procès du roi.
 Pétion, dans l'intérêt de la liberté, s'était opposé à cette mesure.
 De là conflit.
 Ce conflit fut porté devant l'Assemblée nationale.
@@ -2236,7 +2233,7 @@ La mort du roi porta dans le coeur des royalistes la consternation et la terreur
 A Paris même, il y eut quelques mouvements qui indiquaient leur désespoir.
 Les révolutionnaires, d'un autre côté, croyaient toucher au port.
 Il se trompait: ce sont les morts qui reviennent.
---Elargissement des détenus pour dettes.--Envoi de commissaires aux départements.--Déclaration de guerre à l'Angleterre.
+Elargissement des détenus pour dettes., Envoi de commissaires aux départements., Déclaration de guerre à l'Angleterre.
 Mariée à ce bouillant tribun, elle avait toujours honoré le toit conjugal par ses vertus.
 Les commotions politiques avaient fort ébranlé sa santé délicate.
 Danton n'était point un saint; il avait ses faiblesses; mais c'était un grand coeur.
@@ -2327,16 +2324,16 @@ Fonfrède demande qu'on le condamne par ordre à être saigné à blanc.
 Il veut qu'on n'entende que ses défenseurs.
 «Le moment de la vengeance est venu, disait ce libelle; nos représentants nous trahissent.
 On s'amasse, on se presse à la porte de la Convention.
---Mais je ne veux pas du tout y aller! s'écrie Marat.
+Mais je ne veux pas du tout y aller! s'écrie Marat.
 L'Ami du peuple passe à travers les gardes.
 La foule l'acclame, l'étouffe de ses empressements.
 L'Ami du peuple avait retrouvé l'anneau de Gygès, qui avait le don de rendre invisible.
 Je ne me constituerai pas prisonnier.
-DUBOIS-CRANCÉ.--Si cette adresse est coupable, décrétez-moi aussi, car je l'approuve énergiquement.
+DUBOIS-CRANCÉ., Si cette adresse est coupable, décrétez-moi aussi, car je l'approuve énergiquement.
 Quatre-vingt-seize membres apposent aussitôt leur signature.
 Ils réclamèrent l'appel nominal à la tribune.
-Chacun des représentants passait et disait son mot: CAMILLE DESMOULINS.--Comme J.-J.
-LAVICOMTERIE.--J'ai toujours regardé Marat comme un homme nécessaire en temps de Révolution.
+Chacun des représentants passait et disait son mot: CAMILLE DESMOULINS., Comme J.-J.
+LAVICOMTERIE., J'ai toujours regardé Marat comme un homme nécessaire en temps de Révolution.
 [Illustration: Marat devant le tribunal révolutionnaire.] Ce décret était impolitique.
 Toutefois le moment était mal choisi pour lancer un décret d'accusaton contre Marat.
 La défection de Dumouriez donnait raison au prophète, au voyant.
@@ -2479,7 +2476,7 @@ Paris, je le répète, sera toujours digne d'être le dépositaire de la représ
 Paris sera bien connu; le petit nombre de conspirateurs qu'il renferme sera puni.
 Une nouvelle députation accourt aux portes de l'Assemblée nationale.
 Le président Isnard défend la commission, Robespierre demande la parole, elle lui est refusée.
-(On applaudit dans les tribunes.) DANTON.--Je demande la parole.
+(On applaudit dans les tribunes.) DANTON., Je demande la parole.
 Il monte à la tribune.
 Il est des hommes qui ne peuvent se dépouiller d'un ressentiment.
 Pour moi, la nature m'a fait impétueux, mais exempt de haine.
@@ -2503,10 +2500,10 @@ On assure même que, pour se protéger, ils eurent l'idée d'en appeler à l'ém
 Si les Montagnards les avaient épargnés, les Girondins n'eussent point épargné les Montagnards.
 Guerre pour guerre, dent pour dent, tête pour tête.
 Entre lui et ces hommes, c'est une lutte à mort...
---Contre qui? --Contre les Girondins.
---Pour qui tenez-vous: les Girondins ou les Montagnards? --Moi? je ne sais pas...
+Contre qui? Contre les Girondins.
+Pour qui tenez-vous: les Girondins ou les Montagnards? Moi? je ne sais pas...
 Je suis pour la bonne cause.
-Il y avait sans doute à franchir une barrière sacrée--la loi.
+Il y avait sans doute à franchir une barrière sacrée, la loi.
 La Commune était divisée.
 Les comités révolutionnaires eux-mêmes ne pouvaient se mettre d'accord entre eux.
 Les clubs parlaient très-haut et n'agissaient pas.
@@ -2517,7 +2514,7 @@ A huit heures, il y avait cent mille hommes sous les armes.
 La Convention s'était rassemblée dès le point du jour.
 Il est neuf heures du matin.
 A ce bruit, Danton s'écrie: «Quelques personnes paraissent craindre le canon d'alarme.
-DANTON.--Vous ne le savez pas, il faut donc vous le rappeler.
+DANTON., Vous ne le savez pas, il faut donc vous le rappeler.
 Qu'elle soit dissoute et tout rentrera dans l'ordre.
 Il faut qu'elle sache qui a donné l'ordre de tirer le canon d'alarme...
 «Vous nous accusez, s'écriait à son tour Rabaut-Étienne.
@@ -2575,7 +2572,7 @@ Une trentaine de Montagnards restent seuls immobiles sur leurs bancs.
 Le président conduit l'Assemblée en procession dans les cours et dans le jardin des Tuileries.
 C'était assez d'humiliations ainsi.
 Dans l'intérieur de l'Assemblée les tribunes murmuraient.
---Je somme l'Assemblée, dit-il, de rester dans la salle des séances.
+Je somme l'Assemblée, dit-il, de rester dans la salle des séances.
 Honteuse, vaincue, consternée, la Convention reprend le chemin du Palais des Tuileries.
 A partir de ce moment, Marat est l'âme de l'Assemblée.
 Femmes, enfants, vieillards, s'en vont en mêlant leurs voix au terrible refrain.
@@ -2624,13 +2621,14 @@ Qui changea ces dispositions favorables? La conduite des Girondins eux-mêmes.
 Danton éclata, Robespierre refusa tout compromis avec les rebelles.
 Heureusement le règne de ces buveurs de sang allait finir.
 Les terroristes étaient eux-mêmes frappés de terreur.
-Les honneurs posthumes rendus à Marat.--Son entrée triomphale au Panthéon.
+Les honneurs posthumes rendus à Marat., Son entrée triomphale au Panthéon.
 Depuis quelques jours, Marat était malade et sa maladie faisait événement dans les clubs.
 Marat n'était d'ailleurs plus Marat.
 Depuis le deux juin, comme nous l'avons dit, l'époque des grandes agitations révolutionnaires s'était fermée.
 Son rôle dès lors se trouvait amoindri, son influence s'évanouissait de jour en jour.
 Il avait même été obligé de combattre Jacques Roux, chef des enragés.
 Le moment était venu de lui faire payer cher ces vexations.
+Marat avait sa vengeance sous la main., «Pour qui me prenez-vous donc? dit-il en éclatant.
 Vous comprenez bien mal l'épreuve d'épuration que conseille l'Ami du peuple.
 Ce Charles est un misérable qui m'a lâchement maltraité dans ma jeunesse.
 J'aime, d'ailleurs, la pauvreté par goût et parce qu'elle conseille les vertus plébéiennes.
@@ -2638,7 +2636,7 @@ J'arrivai à la Révolution avec des idées faites.
 Cependant la maladie de Marat répandait l'inquiétude parmi les sociétés populaires.
 Marat, quoique très-dangereusement malade, était entouré dans ce moment-là de papiers et de journaux.
 L'activité indomptable de Marat, son énergie de caractère défiaient vaillamment la souffrance.
---L'homme, dit-il aux deux députés qui étaient ses amis, n'est pas fait pour le calme.
+L'homme, dit-il aux deux députés qui étaient ses amis, n'est pas fait pour le calme.
 Les deux députés se retirèrent sous le coup de l'admiration et de la douleur.
 Voilà ce qui le tue.
 Je me présenterai chez vous vers une heure.
@@ -2884,9 +2882,9 @@ Ne pas vaincre, c'était trahir.
 Des tentatives de séduction avaient motivé cette mesure.
 L'un de ces chiffons de papier était soigneusement caché dans un oeillet.
 Il n'eut lieu, ce triste procès, que le quatorze octobre et dura deux jours.
---Votre nom? --Je m'appelle Marie-Antoinette de Lorraine d'Autriche.
---Votre état? --Je suis veuve de Louis Capet, ci-devant roi de France.
---Votre âge? --Trente-huit ans.
+Votre nom? Je m'appelle Marie-Antoinette de Lorraine d'Autriche.
+Votre état? Je suis veuve de Louis Capet, ci-devant roi de France.
+Votre âge? Trente-huit ans.
 Deux avocats, Chauveau et Tronson-Ducoudray, furent nommés d'office par le tribunal pour défendre Marie-Antoinette.
 L'un d'eux était Hébert.
 Le dauphin, âgé de huit ans, dépérissait de jour en jour.
@@ -2942,7 +2940,7 @@ La division, si l'on veut même l'anarchie des pouvoirs, augmentait beaucoup le 
 Il n'entre point dans notre pensée de justifier les actes du Tribunal révolutionnaire.
 Médecin, il avait pour spécialité d'opérer les individus atteints d'une affection cruelle, la pierre.
 Ses bons services s'adressaient de préférence aux malheureux.
---C'est juste, dit Robespierre.
+C'est juste, dit Robespierre.
 Et il changea de conversation.
 A Marseille les détenus patriotes avaient été assassinés dans les cachots du fort Saint-Jean.
 Ainsi, de part et d'autre, même soif de sang.
@@ -3012,7 +3010,7 @@ Que vouliez-vous qu'on en fit? C'étaient des possédés du diable.
 Non content d'outrager la folie, on l'exploitait.
 Il y a des gens qui s'amusent de tout, même de la folie.
 Déclarés incurables, ils étaient abandonnés de la science.
-Que demandes-tu maintenant? --Je demande à faire tomber leurs fers, à les traiter en hommes.
+Que demandes-tu maintenant? Je demande à faire tomber leurs fers, à les traiter en hommes.
 Plus de quarante furieux avaient déchiré leurs vêtements et demeuraient presque nus.
 On améliorera le logement des fous de Bicêtre (vingt-six brumaire).
 On n'avait jamais rien osé de semblable.
@@ -3039,7 +3037,7 @@ C'était à qui viendrait se déprêtiser à la barre de la Convention.
 Appelé aux honneurs du fauteuil, il avait présidé l'Assemblée en habits violets.
 Assis dans un grand fauteuil, il frappait du talon la terre.
 Quand Grégoire arriva à la Convention, la séance était commencée.
---Et pourquoi? --Pour renoncer à ton charlatanisme religieux.
+Et pourquoi? Pour renoncer à ton charlatanisme religieux.
 J'entends parler de fanatisme, de superstition ...
 Je reste évêque pour en faire encore; j'invoque la liberté des cultes.
 A la honte des prêtres, Maximilien osa défendre le Dieu qu'ils abandonnaient lâchement.
@@ -3080,7 +3078,7 @@ Il fallait donc agir avec prudence et même avec une espèce de dissimulation sa
 La rigueur l'effrayait moins que l'impunité.
 Il craignait que l'amollissement des moeurs ne succédât dans la République à une violence interrompue.
 Un jour Camille entre familièrement dans la maison de Duplay; Robespierre était absent.
---Élisabeth, lui dit-il, rendez-moi le service de serrer cet ouvrage, je vous le redemanderai.
+Élisabeth, lui dit-il, rendez-moi le service de serrer cet ouvrage, je vous le redemanderai.
 Elle rougit: le livre tombe.
 Ne sois plus triste.
 L'austérité de Robespierre était fort incommode à Danton.
@@ -3089,14 +3087,14 @@ L'un était la probité farouche, l'autre le tempérament déchaîné.
 Aussi Robespierre envisagea-t-il moins le problème en moraliste qu'en législateur.
 Danton comptait effectivement des ennemis dans les comités.
 Sa tête, pleines d'idées trop fortes pour lui, regrette amèrement l'oreiller des anciennes croyances.
-Un jour, Thibaudeau l'aborde: --Ton insouciance m'étonne, je ne conçois rien à ton apathie.
+Un jour, Thibaudeau l'aborde: Ton insouciance m'étonne, je ne conçois rien à ton apathie.
 Cela dit, il retomba dans son indolence superbe.
 Il n'était plus aussi assidu aux séances et y parlait beaucoup moins qu'autrefois.
 Elle était sous la foudre, mais elle ne la dirigeait pas.
 Camille Desmoulins, quoique aveuglé par le succès de sa feuille, avait de tristes pressentiments.
---Des numéros de mon Vieux Cordelier.
-En voulez-vous? --Non! non! Ça brûle.
---Peureux! répond Camille.
+Des numéros de mon Vieux Cordelier.
+En voulez-vous? Non! non! Ça brûle.
+Peureux! répond Camille.
 Aussi je ne m'étonne pas que vous reprochiez à Camille son Comité de clémence.
 Ce n'est pas de Toulon qu'il faut le juger.
 Ces monstres-là ont osé reprocher à Camille d'avoir épousé une femme riche....
@@ -3123,7 +3121,7 @@ Il lui écrivit une première lettre déchirante.
 O ma bonne Lolotte, parlons d'autre chose.
 Oui, ma bien-aimée, nous pourrons nous revoir encore dans le jardin du Luxembourg.
 Pauvre Lucile! le silence seul entendait ses soupirs, la nuit voyait ses larmes.
---Est-ce que tu veux mourir d'avance? lui dit le sceptique Réal.
+Est-ce que tu veux mourir d'avance? lui dit le sceptique Réal.
 Tiens, voilà mon livre, à moi; c'est la Pucelle d'Orléans.
 Camille et Philippeaux n'ouvrirent point la bouche.
 Danton seul engagea une conversation théâtrale avec tout ce qui l'entourait.
@@ -3137,7 +3135,7 @@ Alors les forces l'abandonnèrent; sa voix qu'animait la fureur s'altéra; il se
 De retour à sa prison, Camille perd tout espoir.
 On prononça la peine des accusés: la mort.
 Le lugubre cortége passa rue Saint-Honoré, devant la maison de Robespierre.
-Quelques assistants --était-ce l'idée?--crurent entendre sortir dans ce moment-là des plaintes et un gémissement.
+Quelques assistants était-ce l'idée?, crurent entendre sortir dans ce moment-là des plaintes et un gémissement.
 La place était éclairée, la foule morne.
 La charrette s'arrêta.
 Ils descendirent un à un.
@@ -3238,8 +3236,8 @@ Les incertitudes tombent devant cette menace.
 L'Assemblée se soulève tout entière comme frappée d'une commotion électrique.
 Un cri unanime: «A bas le tyran!» se fait entendre et couvre sa voix.
 Celui-ci, toujours à la tribune, s'agitait continuellement.
-TALLIEN.--Je demande la parole pour ramener la discussion à son vrai point.
-ROBESPIERRE.--Je saurai bien l'y ramener.
+TALLIEN., Je demande la parole pour ramener la discussion à son vrai point.
+ROBESPIERRE., Je saurai bien l'y ramener.
 Tallien calomnie impudemment l'homme sur la bouche duquel tout le monde appuie le bâillon.
 Des mains meurtrières se lèvent et s'agitent de tous le coins de la salle.
 A chaque fois qu'il ouvre la bouche, une agitation tumultueuse le suffoque.
@@ -3256,7 +3254,7 @@ Toutes les croisées étaient garnies de femmes parées comme dans les jours de 
 Sa figure était enveloppée d'un linge.
 Des applaudissements partirent de plus d'une fenêtre richement tendue.
 Tout le long de la route s'élevait une clameur immense.
---C'est celui de Camille Desmoulins, --C'est celui de la France.
+C'est celui de Camille Desmoulins, C'est celui de la France.
 Un groupe de furies exécuta une danse autour de la charrette où était Robespierre.
 En ce moment, une larme se forma lentement au bord de son oeil sec.
 Le peuple, qui était personnifié dans Robespierre, était au contraire peu nombreux et morne.
@@ -3287,14 +3285,14 @@ Il repoussa les services que venaient lui offrir ces mains tendres, mais profan�
 Le neuf thermidor ensevelit la République dans un orage.
 La montagne se changea en volcan.
 Préludes de la Révolution française.
-La Révolution en germe dans la cabale.--La franc-maçonnerie.--Les mystiques.--Les inventeurs.
-Les prisons d'État.--Le Prévôt de Beaumont.--Décadence de l'ancien régime.
-Les élections.--Convocation des États généraux.--Serment du Jeu-de-Paume.
-Constitution civile du clergé.--Fêtes de le Fédération.
---Mariage de Camille Desmoulins.--Mort de Mirabeau.
+La Révolution en germe dans la cabale., La franc-maçonnerie., Les mystiques., Les inventeurs.
+Les prisons d'État., Le Prévôt de Beaumont., Décadence de l'ancien régime.
+Les élections., Convocation des États généraux., Serment du Jeu-de-Paume.
+Constitution civile du clergé., Fêtes de le Fédération.
+Mariage de Camille Desmoulins., Mort de Mirabeau.
 Cazotte et Mlle.
-Pallnodie d'Hébert.--Ronsin, Carier, Fouché de Nantes.
-Frontispiece.--Portrait de l'auteur.
+Pallnodie d'Hébert., Ronsin, Carier, Fouché de Nantes.
+Frontispiece., Portrait de l'auteur.
 Rouget de l'Isle.
 Serment du Jeu-de-Paume.
 Camille Desmoulins au Palais-Royal.

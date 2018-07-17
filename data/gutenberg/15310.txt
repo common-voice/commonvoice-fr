@@ -47,7 +47,7 @@ En ensek font sehi.
 En dinha font dihi.
 En tanik font tani.
 En hahach font hahagui.
-En ekkon font----.
+En ekkon font, , .
 En dié font diehi.
 En g8a font ghuitième.
 En k8a font khuitième.
@@ -62,11 +62,11 @@ En dik font dihi.
 En onk font ton en mettant 8a devant.
 En attat font tati.
 En inonk font non, mettant 8a devant.
-En 8anik font----.
+En 8anik font, , .
 En dé font dehi.
 En dik font dihi.
 En riek font riehi.
-En na8as font----.
+En na8as font, , .
 En huitième font huitième.
 En hens font henhi.
 En das font dahi.
@@ -212,7 +212,7 @@ Je suis aux abois, agadatchensck; =Abois=, aboyement, ne se dit point.
 =Abomination=, ne se dit point.
 =Abondamment=, ne se dit point.
 =Abondance=, ne se dit point.
-=Aborder=, _J'abordois_,----; _tu abordais_,----; _il abordoit _,----; _n.
+=Aborder=, _J'abordois_,, , ; _tu abordais_,, , ; _il abordoit _,, , ; _n.
 abordions_, ag8ahonhadisqu8a; _v.
 abordiez_, s8ahonhadisqu8a; _ils abordoient_, hatihondadisqu8a.
 _J'ai abordé_, hakonhadihi; _tu as abordé_, sahonhadihi; _il a abordé_, ohonhadihi; _n.
@@ -242,7 +242,7 @@ Cela aboutit à, tôhōdōkta; l'isle aboutit à, tônin hothuitième.
 =Abreuer=, =Abreger= un discours, eri8ag8atta.
 _Cela abrège nos jours_, agatendag8attanik.
 =Abri=, ontkohronta.
-Je cherche un abri,----; =Abricot=, inconnue parmi eux.
+Je cherche un abri,, , ; =Abricot=, inconnue parmi eux.
 =Abrutir=, rendre bête.
 =Abcès=.
 =Absence=.
@@ -414,7 +414,7 @@ Les anciens, ontiâné chon.
 =Ancre=, 8teg8entchera, ontonhiontakk8a; je jette l'ancre, 8agadion.
 =Andouille=, onhetcha.
 =Ange=, (du ciel habitants) garonhiagué rhônon.
-=Angleterre=, skanettati, vel----.
+=Angleterre=, skanettati, vel, , .
 =Anglois=, tiourhenska, vel skanettati rhônon, vel tiourhensaga, vel skanettati haga.
 =Anguille=, gontèna.
 =Animal=, gariô.
@@ -591,7 +591,7 @@ La chose est en balance, â son te ôterihuitième.
 =Batir=, gnonchonniaha, chnonchon etc, hanon.
 =Batre=, je bats, kedarioch, chedarioch, chagodarioch.
 =Banc=, gotehkrotha.
-=Baver=, =Baveux=,----.
+=Baver=, =Baveux=,, , .
 =Baye=, une, ôguerhasen.
 =Beau=, 8yaneré; je suis beau, ktag8ahi, chtag8ahi, hatag8ahi.
 Bel homme, hong8édiô; beau fusil, gachionriô; tout beau, chkenonguisa.
@@ -807,9 +807,9 @@ Je chasse quelqu'un, keyateg8ata, cheyâtêg8ata, chagoyateg8ata.
 =Chatouilleux=, dechagôn8sk8atanik.
 =Chatre=, dêhiondadenhonchiatakkhuitième; je chatre, dekenhonchiatakk8ach.
 =Chaud=, 8tarihen; il fait chaud, 8tarihen; j'ai chaud, deh8aktonk8ahas; tu, desadon; il, dehodonk8a etc.
-=Chaudierre=, kanadzia; mettre la chaudierre,----.
+=Chaudierre=, kanadzia; mettre la chaudierre,, , .
 =Chauffer=, =Chausser=, =Chausson=, hatateritchera.
-=Chauve=, ononh8arenhi =Chauve= souris,----.
+=Chauve=, ononh8arenhi =Chauve= souris,, , .
 =Chaux=, de la, hônâ8ata.
 =Cheminee=, gatarôtha.
 =Chemise=, kagahenha.
@@ -1147,7 +1147,7 @@ chemin qui descent; descente de boyaux, hanhonchagonh8a hehio sens, nioyonrassa.
 =Desserré=, karodinchti; je desserre, krodinchta, chrodinchta, harodinchta.
 =Dessine=, je, guianata, chianata, hayanata.
 =Dessoudé=, tiodassonderaghuitième; =Dessous=, hagonh8a.
-=Dessus=, hentken; par dessus,----.
+=Dessus=, hentken; par dessus,, , .
 =Destin=, c'est mon destin, hahuitième, tchani8aguiadodenchti.
 =Desunir= les esprits, je desunis, dekenigonrakachionch, dechenigonrakachionch, dechagonigonrakachionch.
 =Detacher=, hoterinchion; je detache, krinchionch, chrinchionch, harinchionch.
@@ -1529,7 +1529,7 @@ deshôden.) =Envoyer=, j'envoye quelqu'un, kenhas, chenhas, chagonhas.
 =Fier=, je me fie à, keyennigonra, nendagui, cheyen etc.
 =Fievre=, j'ai la, haktonk8ahach, hodonk8ahach.
 =Figé=, ôssera hen.
-=Figuier=,----.
+=Figuier=,, , .
 =File=, je, kchironniaha, schironniaha, hachironniaha.
 =Filet=, ahara, vel ontaharokk8a; =Fille=, une, hehron ason te ganakkayenteri.
 =Fin=, delie, nih8assa; esprit fin, honigonradet.
@@ -1547,7 +1547,7 @@ deshôden.) =Envoyer=, j'envoye quelqu'un, kenhas, chenhas, chagonhas.
 =Former=, je forme un dessein, grihonniaha, harihonniaha.
 =Fosse=, huitième; fossé, degatariagui.
 =Fouet=, ondatchok8a hechonchta; je donne le fouet, v.
-=Fougere=,----.
+=Fougere=,, , .
 =Fouille=, je, ou je fouis, gnag8atch, chnag8atch, hanag8atch.
 =Foule=, la, kendiok8anen.
 =Fouler=, je foule quelque chose, kadgioroch, chadgioroch, hadgioroch.
@@ -1676,7 +1676,7 @@ ma playe est noire.
 =Guese=, je, knegahné, chnegahné, hanegahné.
 =Guide=, dehaha hakk8a.
 =Guide=, je, degahahakkhuitième hatie, dechahahakkhuitième etc, dehahahakkhuitième.
-=Guimauve=, herbe,----.
+=Guimauve=, herbe,, , .
 =Habile=, je suis, gmeyennio, cheyenniô, hayennio.
 =Hall=, exclamation, h gué.
 =Habiller=, =Habit=, mon, gatiatahhuitième degananeta, satiatahhuitième, hôtiatahuitième.
@@ -1710,7 +1710,7 @@ en haut) kraha (je leve), chraha, hahraha; je me hausse, hentken gadatraha, chad
 =Haye= d'épine, dehiohhuitième.
 =Hé=, intergection, ahi.
 =Hebeté=, je suis, haguidé, saindé, hôdé; je rend hébeté, kedechta, chedechta, chagodechta.
-=Hellebore=,----.
+=Hellebore=,, , .
 =Hemoragie=, dehiênionkas.
 =Hennir=, je hennis, degarsint8ach, decharsint8ach, deharsin.
 =Herbe=, hahhuitième.
@@ -1866,11 +1866,11 @@ Ex: Es ce toi? isken? cela est il bien! netôken, vel 8hianeréken.
 =Juillet=, (hiarigona.) =Juin=, (ichakka.) =Jumeaux=, dehickhen; nous sommes jumeaux, dedikhen, dedgikhen, dehikhen.
 =Jupe= ou braguet, kak8aa.
 =Juste au corps=, degananêta.
-=Juste=, tout juste, netôdzik, netodzik; fusil juste,----; cela est juste,----.
-=La=, article,----.
+=Juste=, tout juste, netôdzik, netodzik; fusil juste,, , ; cela est juste,, , .
+=La=, article,, , .
 =Lac=, ganiataré; le long du lac, ganiatahaktatié.
 =Laboure=, je, guettakarhat8ach, chettakar etc; hohettakar etc.
-=Lache=, dete du,----; je suis lache, peureux, haguidogueré, saindogueré, hodogueré.
+=Lache=, dete du,, , ; je suis lache, peureux, haguidogueré, saindogueré, hodogueré.
 =Ladre=, je suis, hagnion, sanion, honion.
 =Laid=, je suis, haguetken, chetken, hahetken.
 =Laine=, de la, hogonnh8a.
@@ -1913,7 +1913,7 @@ Example: kanadgia, la chaudierre; kanadgiachon, les chaudierres; le long, haktat
 =Liberal=, il est, hotiesen; je suis, hagatiesen; tu es, satiesen.
 =Libre=, je suis, gatathuitième, chatathuitième, hatathuitième.
 =Lien=, henerinchta.
-=Lierre=,----.
+=Lierre=,, , .
 =Lieu=, en quel lieu? kanen.
 =Lievre=, tahonta naguen.
 =Ligne= à pescher, ontchirokk8a; je pesche à la ligne, atchiroch, chatchiroth, hatchiroth.
@@ -1984,7 +1984,7 @@ mois, (ganerattogona.) =Maigre=, je suis, hagatihuitième, chatihuitième, hôti
 =Marecage=, nikentaha.
 =Mareschal=, garondanenkhuitième...
 =Mari=, un, kanakk8a.
-=Marié=, honiagni; mariée,----.
+=Marié=, honiagni; mariée,, , .
 =Marie=, je me, haguenniakch, saniakch, honiakch; je me demarie, sagadekachionch, hagueniaguihna.
 =Marmite=, deganontonta.
 =Marqué=, kayanati; je marque, guianata, chianata, hayanata.
@@ -2005,7 +2005,7 @@ mois, (tichkona.) =Marte= ou martre, tchêrannoha.
 =Matinée=, la, hhuitième ha.
 =Matinal=, hayé h8ata.
 =Matou=, tagos.
-=Matrice=,----.
+=Matrice=,, , .
 =Mauvais= à mange, 8ahetken hahiek; mauvais, parlant d'un homme, hahetken; mauvais, parlant de quelq.
 =Mechant=, v.
 =Meconnoissant=, v.
@@ -2063,20 +2063,20 @@ mesme.) =Memoire,= j'ai bonne memoire, haknigonro8anen, sanigon etc, honigon.
 =Mince_, kagarinha.
 =Minuit=, assontin.
 =Miracle.= =Miroir=, hatkonchotchera.
-=Misérable=, je suis,----.
+=Misérable=, je suis,, , .
 =Mis=, to gayen.
 =Mitaines= mes, hoguenniotchera, senniot etc, honniot etc.
 =Mobile=, ahondakta, vel hatoriaheronk.
 =Mode=, v.
 =Modere=, je me, skenonha, gatatonniaha.
-=Moderne,=----.
+=Moderne,=, , .
 =Moeurs=, nos, tcha ni ag8ayeunodin.
 =Moi=, î, vel hî, on appuie beaucoup sur l'î.
 =Moindre=, hochthuitième.
 =Moineau=, garioha.
 =Mois=, shuitième.
 Nom des mois, =Moisi=, 8chkenharé.
-=Moisson=, temps de la,----.
+=Moisson=, temps de la,, , .
 =Moite=, honanahhuitième.
 =Moitié=, la, sate8achenonk; par moitié, achenonk.
 =Mol=, nyohrodinha; cela s'amolit, ohrodins.
@@ -2088,12 +2088,12 @@ assaa, couteau; hagassâa, mon couteau.
 =Mont=, hônondahra.
 =Montée=, honetota atti.
 =Montre=, unne, karakkhuitième, vel karakk8a gahenhionk.
-=Mordre=, =Maure=,----.
+=Mordre=, =Maure=,, , .
 =Morfondu=, je suis, hagatorach, chatorach, hatorach.
 =Moribond=, je suis, de8akk8atonch, desakk8atonch, dehok8atonch, vel gadatchensek, chadatchensek, hodatchensek.
 =Mort=, kahonhêyen, vel hochkenna.
 =Mortellement=, enhiahi hèyata.
-=Mortier= à massonner,----; mortier, kanigakta.
+=Mortier= à massonner,, , ; mortier, kanigakta.
 =Morue=, hetginonkera.
 =Morveux=, je suis, haguetginonk8arota, satginonk8a etc, hotginon etc.
 =Mot=, dgie hhuitième, vel skari8ata; hiachtente henheron; =Motte de terre=, ohetta g8aronton.
@@ -2107,8 +2107,8 @@ assaa, couteau; hagassâa, mon couteau.
 =Mourant=, (voyés moribond,) enheyonseré.
 =Mourir=, je meurs, quiheya, chiheya, hiheya.
 =Mousquet=, voir fusil.
-=Mousse= qui est aux arbres,----.
-=Moutarde=,----.
+=Mousse= qui est aux arbres,, , .
+=Moutarde=,, , .
 =Mouton=, tiotinagaronton ha.
 =Mouvant=, hatoriaheronk; je mouve, gatoriahronk, chatoriahronk, hatoriahronk.
 =Mouvement=, ontoriahronk.
@@ -2331,8 +2331,8 @@ C'est le meme mot pour tous les animaux qui ont de la corne aux pieds.
 =Phantome=, hechkenna.
 =Phiole=, katchêta.
 =Phisionomiste=, hadekekarahiendat.
-=Piaille=, je,----.
-=Pie=, oiseau,----.
+=Piaille=, je,, , .
+=Pie=, oiseau,, , .
 =Pied=, ochida; chagonenhronniaha.
 =Piege=, heyentonk8a; donner dans une piege, gatadena8a, chatadena8a, hatadena8a.
 =Pigeon=, tchiourakkoya.
@@ -2378,7 +2378,7 @@ arbre.) =Plais=, je, ongnon, huitième, hesanon, 8ses, ouhanon, huitième.
 =Pleuvoir=, il pleut, h8starondiés.
 =Pli=, un, hottogueri.
 =Plier=, dekehaktonch, desatchaktonch, dehatchaktonch; plié, dehiotchakton; je me plie, degadatchaktonch, desadatchaktonch, dehadatchak.
-=Plissé=, visage plissé, dehiotkonchkeri; etofe plissée,----; je plisse, dektoguerich, dechtoguerich, dehatoguerich.
+=Plissé=, visage plissé, dehiotkonchkeri; etofe plissée,, , ; je plisse, dektoguerich, dechtoguerich, dehatoguerich.
 =Plomb=, onenhia; à plomb, dehiotoguenti.
 =Plonge=, je, gatonroch, chatonroch, hatonroch.
 =Plongeon=, plongeurs, oiseaux de rivierre, kontonroch.
@@ -2802,11 +2802,11 @@ je recois; je reprend, je corrige, kehre8atta, chehre8atta, chagohre8atta.
 =Sa,= ô; son, hâ; ses, hô, vel ô au feminin.
 =Sable=, onêcha.
 =Sabre=, assaregôa.
-=Sabre,= je,----.
+=Sabre,= je,, , .
 =Safran,= hotgikk8a onsôkk8a.
-=Sacrifice,= je fais un,----.
-=Sage,= je suis,----.
-=Sain,= je suis,----.
+=Sacrifice,= je fais un,, , .
+=Sage,= je suis,, , .
+=Sain,= je suis,, , .
 =Saindoux,= hohna oqu8ari.
 =Saint,= gayatatoguenti.
 =Saisis,= je, kek8ach, chagok8ach.
@@ -2828,7 +2828,7 @@ je recois; je reprend, je corrige, kehre8atta, chehre8atta, chagohre8atta.
 =Sans faute,= gatoguen tchi hhuitième.
 =Sans retardement,= 8tendoktin.
 =Sancte,= je suis en.
-=Sarcelle,= oiseau,----.
+=Sarcelle,= oiseau,, , .
 =Sas,= onakta.
 =Sasse,= je, gate8ach, chate8ach, hate8ach.
 =Sapin,= arbre, ôssohra.
@@ -2846,7 +2846,7 @@ je recois; je reprend, je corrige, kehre8atta, chehre8atta, chagohre8atta.
 =Saucisse,= hoyonra degah8aritti.
 =Saute,= deguennachk8akk8a, dechennach etc, dehennach etc.
 =Sauvage,= onghuitième honhhuitième.
-=Sauve,= je me, skeniaguens, scheniaguens, shoniaguens; je fais sauver,----.
+=Sauve,= je me, skeniaguens, scheniaguens, shoniaguens; je fais sauver,, , .
 =Sçavant,= je suis, gnigonro anen, chenigonro anen, honigonro anen.
 =Scelerat,= onghuitième.
 =Scie,= deyechhuitième.
@@ -2860,7 +2860,7 @@ il se tue, hataderio.
 =Seconde,= je, quelqu'un, keyarichkonta, cheyarichkonta, chagoyarich.
 =Secoue,= je, gah8atch, chah8atch, hah8atch; secoué, 8ah8agui.
 =Secours,= je donne, kenhêsck, chenhesck, chagonhesck.
-=Seditieux,=----.
+=Seditieux,=, , .
 =Seduis,= je, kenigonrodag8ach, chenigonrodag8ach, chagonigon etc.
 =Sein,= henonrachiagué.
 =Sejourne,= je, kendokta, chendokta, ahendokta.
@@ -2897,12 +2897,12 @@ il se tue, hataderio.
 =Siege= pour s'assoir, ontiendakk8a; je m'assois, gatienha, chatienha, hatienha.
 =Sien=, le, ahonrha hohhuitième.
 =Sifle=, je, gnagarerach, chnagarerach, hanagarerach.
-=Signal=, sa honteniendenchta; je donne le signal,----.
-=Signalle=, je me,----.
+=Signal=, sa honteniendenchta; je donne le signal,, , .
+=Signalle=, je me,, , .
 =Signe=, je fais, keyenniatach, cheyenniatach, chagoyenniatach.
 =Signifie=, quesce que cela, hos n8a hautin de8ateniendenchti (s'il paroist quelq.
 chose.) =Silence=, taisés vous, datgiaticrin.
-=Silence=, je garde le, ti8agatierin, tisatierien, tihotierin; je romps le silence,----.
+=Silence=, je garde le, ti8agatierin, tisatierien, tihotierin; je romps le silence,, , .
 =Silencieux=, tihotierin.
 =Simples=, herbes, hônonk8at chera chon.
 =Simplement=, nag8aheguenha.
@@ -2931,7 +2931,7 @@ chose.) =Silence=, taisés vous, datgiaticrin.
 =Sollicite=, je, keskenhatanik, cheskenhatanik, chagoskenha etc.
 =Sombre=, dehiodassondariagui.
 =Sommeil=, j'ai, haguitakch, saintakch, hotakch; j'interrompe le someil, kere serintoriaha, cheresin etc, chagoreserintoria.
-=Somme=, je,----.
+=Somme=, je,, , .
 =Sommet=, le, âguenhiata.
 =Son=, bruit, 8tkak.
 (=Son=, ahonrha hohuitième.) =Sonde=, onteniendenchta.
@@ -2952,7 +2952,7 @@ chose.) =Silence=, taisés vous, datgiaticrin.
 =Soude=, je, gassonderaha, chassonderaha, hassonderaha.
 =Soufle=, je, garondatch, cherondatch, harondatch.
 =Souflet=, je donne un, kekonchahech, chekonchahech, chagokonchahech.
-=Soufre=, du,----.
+=Soufre=, du,, , .
 =Soufre=, je, hagronhiaguens, saronhiaguens, horonhiaguens; je fais soufrir, keronhiaguenta, cheronhiaguenta, chagoronhiaguenta.
 =Souhaite=, guerhé, cherhé, rerhé.
 =Souillé=, outetkenti; je souille, ketkenta, chetkenta, hatkenta.
@@ -3005,8 +3005,8 @@ chose.) =Silence=, taisés vous, datgiaticrin.
 =Sur=, dessus, hentken.
 =Surchargé=, je suis, haguechtahne, sachtahne, hachtahne.
 =Surplus=, hetgiokonchôta.
-=Surprendre=, je surprend l'ennemi,----; cela me surprend, agnigonkenhêyon; cela est surprenant, sanigonkenheyat.
-=Suspect=, je suis,----.
+=Surprendre=, je surprend l'ennemi,, , ; cela me surprend, agnigonkenhêyon; cela est surprenant, sanigonkenheyat.
+=Suspect=, je suis,, , .
 =Suspens=, je suis en, asong8a nenti 8aguierin.
 =Syrop=, oranahuitième.
 =Tabac=, oyeng8a.
@@ -3014,15 +3014,15 @@ chose.) =Silence=, taisés vous, datgiaticrin.
 =Table=, ochhuitième ondekonniata.
 =Tableau=, ong8é hayataa.
 =Tache=, macule, ohnâra.
-=Tache=, je, gnosserach, chnosserach, chagonosserach; je tache,----.
+=Tache=, je, gnosserach, chnosserach, chagonosserach; je tache,, , .
 =Taillant= de hache, kahiontagué.
 =Taille=, pierre de, kanenhia cheronni.
-=Taille=, je, en piece l'ennemi, voyez piece; coupe par piece,----.
+=Taille=, je, en piece l'ennemi, voyez piece; coupe par piece,, , .
 =Tais=, je me, ti8agatierin, tisatierin, tihotierin.
 =Talon=, le, horadigué.
 =Tambour=, kahonchera.
 =Tambourinne=, je, koncherahech, chonchera etc, hahonchera.
-=Tamis=, onakta; je tamise,----.
+=Tamis=, onakta; je tamise,, , .
 =Tandisq=, tcha heu hahonissé.
 =Tant=, nêtonion; tant que je vivrai, tcha hen hionissé engonhek.
 =Tante=, agrahak, sarhak, horhak.
@@ -3032,7 +3032,7 @@ chose.) =Silence=, taisés vous, datgiaticrin.
 =Tari=, osté; je taris, guestata, chestata, hachtata.
 =Tas=, ogate, vel kaguèhron; je mets en tas, kehronha, chkeronha, sharonha.
 =Tasse=, eneguirhata (à boire) atgien (plat.) =Tâte=, je, guenniadatch, chenniadatch, henniadatch.
-=Tâtons=, a,----.
+=Tâtons=, a,, , .
 =Taupe=, dginiagarinha.
 =Taureau=, tionhonchk8aront (boeuf) onhonchiata (non tourné.) =Taie=, j'ai une, sur l'oeil, hagnecho, sanecho, hônêcho.
 =Teins=, je, gassoch, chassoch, hassoch.
@@ -3164,7 +3164,7 @@ estre et de l'adjectif; je fais valoir, degrincharonnionk, decharincharonnionk, 
 =Veau=, tionhochk8aront tchichtatienha.
 =Veille=, je, gadie8atta, chadie8atta, hadie8atta; je veille sur, j'observe, keyasterista, cheyasterista, chagoyasterista.
 =Veine=, hotginonhiata, gatkhuitième.
-=Velin=,----.
+=Velin=,, , .
 =Velu=, gatkonnonni.
 =Vend=, je, gatenninonk, chatenninonk, hatenninonk; vendu, gotenninon.
 =Veneur=, hadoratih.
@@ -3177,7 +3177,7 @@ estre et de l'adjectif; je fais valoir, degrincharonnionk, decharincharonnionk, 
 =Venu=, il est, sôyon; je suis, 8aguion.
 =Verd=, hotgink8aa.
 =Vers de terre=, otginonh8a.
-=Verdir=,----; cela reverdit, dehiotgink8ariagui; quand les arbres verdiront, tcha nen gatz ink8aronda.
+=Verdir=,, , ; cela reverdit, dehiotgink8ariagui; quand les arbres verdiront, tcha nen gatz ink8aronda.
 =Verge=, m.
 =Verglas=, deyohhuitième.
 =Verglace=, il, deyohhuitième.
@@ -3192,14 +3192,14 @@ estre et de l'adjectif; je fais valoir, degrincharonnionk, decharincharonnionk, 
 =Vermine=, j'ai de la, akkariakch, sakariakch, hakariakch.
 =Verolle=, outchrèta; j'ai la, haguitkretch; tu as, saintchrehh; il a,hotchrehh.
 =Verat=, khuitième deganhonchiata.
-=Verre=, konchotchera henegurhata; verre   boire,----.
+=Verre=, konchotchera henegurhata; verre   boire,, , .
 =Veroul=, henhotonk8a.
 =Veruë=, ononheta; j'ai des venues, hagnonhetonda.
 =Vers=, du coté, hag8a; vers la, nenhag8a.
 =Versé=, kahrihhuitième; je verse, hikrieh,hichrieh, hiharieh; je verse a boire, kenegaranik, chenegaranik, chagonegaranik.
 =Vertueux=, onghuitième hiachtenté heyerin.
 =Vertiges=, akcharas, sacharas, hocharas.
-=Vervenne=,----.
+=Vervenne=,, , .
 =Vessie=, onhenha.
 =Veste=, nitiata hhuitième g8aha.
 =Vestiges=, heyana.
@@ -3231,7 +3231,7 @@ estre et de l'adjectif; je fais valoir, degrincharonnionk, decharincharonnionk, 
 je trousse; de force, kehedchodag8ach.
 =Violent=, haguetkaron, satkaron, hatkaron.
 =Violence=, je fais, keyaderih8a hetkenta.
-=Violet=, oronhiahen =Violette=,----.
+=Violet=, oronhiahen =Violette=,, , .
 =Vis à vis=, dehiotoguenti.
 =Vise=, gadesseronniaha, chadesseronniaha, hadesseronniaha.
 =Visible=, hoguent.
@@ -3246,7 +3246,7 @@ je trousse; de force, kehedchodag8ach.
 =Voisin=, mon, dehaguiennon chaneguen, dedginoncha etc, dehinoncha etc.
 =Voix=, la, éhhuitième.
 =Voie=, la, chemin, ontongottakk8a.
-=Vol=, larcin,----.
+=Vol=, larcin,, , .
 =Vol= d'oiseau, gadié; je tire au vol, keyoyag8ach, cheyoyag8ach, hayoyag8ach; il s'envole, deshôden.
 =Vole=, je, je derobe, gnenchk8ach, chnenchk8ach, hanenchk8ach.
 =Volonté=, c'est ma, haknigonra, sanigonra, honigonra.
