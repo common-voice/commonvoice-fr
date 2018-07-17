@@ -141,8 +141,8 @@ def parse_one_book(bookid):
         line = maybe_normalize(line, mapping=mapping_specific)
         line = filter_numbers(line).lstrip()
 
-        maybe_match = re.match(PUNCT_NBSP, line)
-        if maybe_match:
+        maybe_matches = re.finditer(PUNCT_NBSP, line)
+        for maybe_match in maybe_matches:
             line = line.replace(maybe_match.group(0), "%s\u00a0%s" % (maybe_match.group(1), maybe_match.group(2)))
     
         finaltext += [ line ]
