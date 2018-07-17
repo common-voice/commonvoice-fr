@@ -77,7 +77,13 @@ for event, node in doc:
             break
 
         doc.expandNode(node)
-        seance_context = { 'DateSeance':  node.firstChild.nodeValue }
+        date_seance = node.firstChild.nodeValue
+
+        if len(date_seance) != 17:
+            print("Bogus DateSeance?", date_seance)
+            continue
+
+        seance_context = { 'DateSeance':  date_seance }
 
   if event == END_ELEMENT:
     indent_level -= 2
@@ -85,11 +91,12 @@ for event, node in doc:
       old = visited.pop()
       del old
 
-  if node.nodeName == 'texte':
+  if node.nodeName == 'texte' and seance_context is not None and 'DateSeance' in seance_context:
     doc.expandNode(node)
 
     if visited[-2].attributes and 'code_style' in visited[-2].attributes and visited[-2].attributes['code_style'].value == 'NORMAL':
       fullText = filter_numbers(recursive_text(node))
+      fullText = re.compile('\s+').sub(' ', fullText)
       try:
         seance_context[node.nodeName].append(fullText)
       except KeyError:
