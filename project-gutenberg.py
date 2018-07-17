@@ -24,7 +24,8 @@ def remove_markup(t):
 
 def get_books_by_lang():
     try:
-        bookids = list(get_etexts('language', 'fr'))
+        # Avoid multi-language books
+        bookids = list(filter(lambda x: len(get_metadata('language', x)) == 1, get_etexts('language', 'fr')))
         if args.random:
             shuffle(bookids)
         return bookids
