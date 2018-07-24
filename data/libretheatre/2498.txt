@@ -6,7 +6,7 @@ Il a sa serviette sous le bras et son chapeau sur la tête.
 L'huissier, Le substitut L'huissier Monsieur le substitut, j'ai l'honneur de vous présenter mes hommages.
 Vous avez l'Officiel ?
 L'huissier Non, Monsieur le substitut.
-L'huissier Ça ne m'étonne pas; il ne sera mis en vente qu'à midi.
+L'huissier Ça ne m'étonne pas ; il ne sera mis en vente qu'à midi.
 C'est dans Le Matin, en dernière heure Le substitut Il est arrivé quelque chose ?
 L'huissier Un accident comme on allait mettre sous presse.
 Toute une forme en pâle.
@@ -16,30 +16,30 @@ L'huissier Comptez sur moi.
 Le substitut J'ai hâte de voir les nouvelles.
 L'huissier Vous êtes décoré ?
 C'est-à-dire que je suis sacqué, probablement.
-L'huissier Qu'est-ce qui se passe?
-Le substitut J'en suis comme un fou, je vous dis...
+L'huissier Qu'est-ce qui se passe ?
+Le substitut J'en suis comme un fou, je vous dis …
 D'ailleurs, je sais de qui vient le coup.
 L'huissier De qui ?
 Le substitut De Barbemolle, parbleu !
 Misérable plaidoillon, avocat sans cause, canaille !
 Alors, il fait tout ce qu'il peut pour faire un trou au Parquet !
-L'huissier , qui a mal compris Il veut faire un trou au parquet?
-L'huissier Pour regarder ce qui se passe?
+L'huissier , qui a mal compris Il veut faire un trou au parquet ?
+L'huissier Pour regarder ce qui se passe ?
 Le substitut J'ai de la peine à me faire comprendre.
 Je ne vous dis pas au parquet je vous dis au Parquet !
-Vous ne savez pas ce qu'on appelle Le Parquet?
-L'huissier Ah pardon ! {PersonnageD|Le substitut|c|très nerveux.}} Polisson!
+Vous ne savez pas ce qu'on appelle Le Parquet ?
+L'huissier Ah pardon ! {PersonnageD|Le substitut|c|très nerveux.}} Polisson !
 Non, mais qu'il l'ait jamais, ma place !
 L'huissier Vous aurez rudement raison.
 Le substitut , entre ses dents.
 Et puis j'aime mieux m'en aller.
-Les deux hommes se croisen t et se saluent avec une extrême froideur}}. Monsieur !...
+Les deux hommes se croisen t et se saluent avec une extrême froideur}}. Monsieur !
 Sortie du substitut Barbemolle, l'huissier Barbemolle , serrant la main à l'huissier.
 Barbemolle Qu'est-ce qu'il y a ?
 L'huissier On sait de vos histoires.
 L'huissier On veut donc chiper sa petite place à ce bravo monsieur de St-Paul-Mépié ?
 Barbemolle Mais non, mais non !
-Barbemolle Des blagues, tout ça; des potins!...
+Barbemolle Des blagues, tout ça ; des potins !
 Tenez, passez-moi donc la feuille.
 Comment, deux affaires au rôle ?
 L'huissier Mon Dieu, oui.
@@ -47,9 +47,9 @@ On n'arrête plus personne !
 C'est le krack des prévenus, ma parole d'honneur.
 L'huissier Peut-être que le monde s'améliore.
 Barbemolle  Ne dites donc pas de choses pareilles.
-Qu'est-ce que nous deviendrions, nous autres?
+Qu'est-ce que nous deviendrions, nous autres ?
 L'huissier C'est vrai, je ne pensais pas à ça.
-Barbemolle Encore vous, les huissiers...
+Barbemolle Encore vous, les huissiers …
 L'huissier , même jeu.
 L'huissier , même jeu.
 Les mêmes, Lagoupille L'huissier C'est ici.
@@ -72,16 +72,16 @@ Barbemolle Je suis trop occupé.
 J'ai de la besogne par-dessus la tête.
 L'huissier Un bon mouvement, sacristi.
 Faites-le pour moi !
-Barbemolle Le diable vous emporte, mon cher!
+Barbemolle Le diable vous emporte, mon cher !
 C'est bien pour vous être agréable !
 De quoi s'agit-il, mon garçon ?
 Lagoupille Monsieur, je vais vous expliquer.
 C'est un bonhomme à qui j'ai mis un marron.
 Alors, il me fait un procès.
 L'huissier C'est intéressant à plaider.
-Le cas est assez nouveau; ça me décide.
+Le cas est assez nouveau ; ça me décide.
 C'est entendu, je me charge de votre affaire. {{Personnage|Lagoupi lle|c}} Parfait !
-Qu'est-ce que ça va me coûter?
+Qu'est-ce que ça va me coûter ?
 Montrant son chapeau de paille.
 Mais, monsieur, voilà un chapeau qui ne me coûte que trente-neuf sous.
 Barbemolle Quel rapport ça a-t-il ?
@@ -89,9 +89,9 @@ Barbemolle Enfin, combien offrez-vous ?
 Pas un liard de plus.
 Barbemolle Mettez-en dix.
 Barbemolle Mettez-les, et je vous arrange votre bonhomme, vous m'en direz des nouvelles.
-L'huissier Marchez donc, eh!
+L'huissier Marchez donc, eh !
 Puisque je vous dis que Maître Barbemolle est une des lumières du barreau.
-Rossard qui s'en dédit. {{Personnage|Barbemo lle|c}} Faites passer la galette!...
+Rossard qui s'en dédit. {{Personnage|Barbemo lle|c}} Faites passer la galette !
 L'huissier Le tribunal entre en séance.
 Lagoupille Où faut-y que j'aille ?
 L'huissier , lui indiquant une place dans la salle.
@@ -110,13 +110,14 @@ Le substitut , consultant le dossier.
 Le président Ça peut attendre.
 Le ministère public contre Jean Paul Mapipe.
 Les mêmes, Mapipe Mapipe Un avocat !
-Pas tant de bruit, s'il vous plaît!
-Mapipe Trois remises, messieurs et dames!...
-Un mois que je suis en prévention!
-Quant à un avocat...
-Mapipe Et remarquez que je l'avais fait bénir!...
+Le président Eh ! là !
+Pas tant de bruit, s'il vous plaît !
+Mapipe Trois remises, messieurs et dames !
+Un mois que je suis en prévention !
+Quant à un avocat …
+Mapipe Et remarquez que je l'avais fait bénir !
 Celait du cresson bénit.
-Le président Quant à un avocat!...
+Le président Quant à un avocat !
 Mapipe Du cresson bénit, c'est pus comme de la salade.
 Mapipe Qu'est-ce qu'il a fait, Mapipe ?
 Le président J'ai une nouvelle à vous apprendre.
@@ -124,24 +125,24 @@ L'affaire est remise à huitaine.
 Vous vous payez ma gueule !
 Le président , à Barbemolle.
 Barbemolle Je sollicite l'indulgence en faveur de ce pauvre diable.
-Voilà un mois qu'il est sous...
+Voilà un mois qu'il est sous …
 Il laisse échapper sa serviette et se baisse pour la ramasser.
 Au surplus, nous sommes, lui et moi, aux ordres du tribunal.
 Le président Fort bien, maître.
 L'huissier , dans l'auditoire, sa toque à la main.
 Ma foi, messieurs, nous n'y pouvons rien.
-Le juge Foy de Vaux , avec douceur Non!
+Le juge Foy de Vaux , avec douceur Non !
 Le président , surpris Pourquoi ?
 Le président C'est rigoureusement exact.
-Et encore non; je me trompe.
+Et encore non ; je me trompe.
 Août c'est l'époque des vacances.
 Barbemolle Renvoyons après vacations.
 Le substitut Il n'y a que ça à faire.
 Le président Mon Dieu, oui !
 Sa voix se perd.
-Ne vous faites donc pas de bile comme ça...
+Ne vous faites donc pas de bile comme ça …
 Est-ce que je m'en fais, moi ?
-Les mêmes, moins Mapipe Le président Terrible braillard!
+Les mêmes, moins Mapipe Le président Terrible braillard !
 Le substitut En effet !
 Le président Ça ne fait rien, voilà une question tranchée.
 Nous allons passer sans plus de délai à l'examen de la seconde affaire.
@@ -154,13 +155,13 @@ Monsieur Alfred , dans l'auditoire C'est moi !
 Quant à vous, Monsieur Alfred, vous vous conduisez comme un cochon.
 Et ça, il n'y a pas d'erreur.
 C'est un galant homme qui vous le dit.
-Le président Qu'est-ce qu'il y a donc, là-bas?
+Le président Qu'est-ce qu'il y a donc, là-bas ?
 Lagoupille Il y a que Monsieur Alfred se conduit comme un cochon.
 Vous répondrez quand on vous questionnera.
 C'est trop fort, ça, aussi, d'être insulté par une canaille.
 Le substitut Je vais être obligé de sévir.
 Monsieur Alfred , à Lagoupille.
-Le substitut Contre vous!
+Le substitut Contre vous !
 Lagoupille Ça, c'est tapé.
 Le président On ne vous demande pas votre avis.
 Monsieur Alfred On a rudement raison.
@@ -174,24 +175,24 @@ Lagoupille  et Monsieur Alfred Ça sera rudement bien fait.
 Le substitut Nous n'en sortirons pas.
 Monsieur Alfred Est-ce que ça me regarde, moi ?
 Et patati et patata.
-Et je t'en dis et je t'en raconte!
-Quelle pie borgne, bon Dieu!
+Et je t'en dis et je t'en raconte !
+Quelle pie borgne, bon Dieu !
 L'huissier Vous avez entendu ce que vient de dire Monsieur le président.
-Si vous ne vous taisez pas, je vais vous faire sortir!
+Si vous ne vous taisez pas, je vais vous faire sortir !
 Il ne se taira pas, je vous dis qu'il ne se taira pas !
 Il parlera comme ça jusqu'à demain.
-Comment trouvez-vous le bouillon?
+Comment trouvez-vous le bouillon ?
 A c't'heure, c'est moi qu'on engueule, et c'est lui qui parle tout le temps.
 Le substitut J'invite le défenseur à faire taire son client.
-Qu'est-ce que vous dites?...
+Qu'est-ce que vous dites ?
 Je vous demande pardon, ce n'est pas la partie civile.
-C'est votre client!
-Je vous dis que c'est votre client!
+C'est votre client !
+Je vous dis que c'est votre client !
 Je sais ce que je dis, peut-être.
 Parfaitement, c'est Monsieur Alfred.
 Je vous demande pardon aussi, c'est vous qui êtes dans l'erreur.
-Le président Ah ça!
-Est-ce que ça va durer longtemps?
+Le président Ah ça !
+Est-ce que ça va durer longtemps ?
 N'a-t-on jamais rien vu de pareil ?
 Ma parole d'honneur, c'est une maison de fous ici !
 Le président , à Monsieur Alfred Oui ou non, voulez-vous vous taire ?
@@ -199,55 +200,57 @@ Il n'est que temps !
 Le président , à Lagoupille.
 Lagoupille Je le ferme.
 Lagoupille Mon seau de propreté.
-Contre la force il n'y a pas de résistance...
+Contre la force il n'y a pas de résistance …
 C'est égal, un client comme moi, un vieil habitué, en justice !
 Elle est un peu raide tout de môme !
-L'huissier Silence, donc!
+L'huissier Silence, donc !
 Le président , à Monsieur Alfred Je vous écoute.
-De quoi vous plaignez-vous, monsieur?
+De quoi vous plaignez-vous, monsieur ?
+Et encore … comme un cochon !
+c'est comme deux cochons que je devrais dire !
 Le président Ça va durer longtemps, ce défilé de cochons ?
 Je vous ai déjà dit de vous taire !
 Lagoupille C'est bon, je le referme !
 Lagoupille Mon seau de propreté.
-Lagoupille Cinq ans que je fréquente la maison!
+Lagoupille Cinq ans que je fréquente la maison !
 Plus de cent mille francs que j'y ai laissés !
 Lagoupille J'en prends sept. Barbemolle Nous le prouverons.
-Le président C'est bien, maître; tout à l'heure!
-Barbemolle C'est évident!
-On lui apporte un café. « Garçon, les journaux!
+Le président C'est bien, maître ; tout à l'heure !
+Barbemolle C'est évident !
+On lui apporte un café. « Garçon, les journaux !
 J'ai le droit de lire les journaux, peut-être !
-Barbemolle Ça crève les yeux!
+Barbemolle Ça crève les yeux !
 On lui apporte les journaux !
-Notez bien; il les lui faut tous, à ce monsieur!
+Notez bien ; il les lui faut tous, à ce monsieur !
 Une fois qu'il a les journaux : « Garçon, les cartes !
 Le président Pour quoi faire ?
 Monsieur Alfred Pour se faire des réussites.
 Lagoupille Si ça m'amuse, moi ?
 C'est mon droit, de me tirer la bonne aventure.
 On lui apporte des cartes, a Garçon, le jacquet !
-Le président Le jacquet !...
+Le président Le jacquet !
 Pour jouer tout seul ?
 Lagoupille Non, pour m'asseoir dessus.
 Monsieur Alfred Il trouve que mes banquettes sont trop basses.
 Lagoupille Et trop molles.
 On est assis comme dans de la pommade, ça me dégoûte.
-Le président En supposant, il me semble que le Bottin.... Lagoupille Impossible!
+Le président En supposant, il me semble que le Bottin …
 Je m'en sers pour chercher des adresses.
 Le président Il fallait le dire tout de suite.
-Vous vous en emparez aussi?
+Vous vous en emparez aussi ?
 Mon client en a besoin pour faire sa correspondance.
 Lagoupille C'est sûr !
 Le président Très bien, très bien.
-Le président .. privés de Bottin...
-Monsieur Alfred ... privés de jacquet...
-Le substitut ... privés de cartes...
+Le président … privés de Bottin …
+Monsieur Alfred … privés de jacquet …
+Le substitut … privés de cartes …
 Je les perdis à leur tour !
 Le président Je vous crois sans peine.
 Monsieur Alfred Monsieur Lagoupille demeura donc le seul client d'une maison jadis florissante.
-Lagoupille J'aimais aux yeux !...
+Lagoupille J'aimais aux yeux !
 Monsieur Alfred Ceci mit le comble à la mesure.
 Je demande la parole, j'ai une question à poser.
-Le président Monsieur le substitut ?...
+Le président Monsieur le substitut ?
 Le substitut Je n'y vois aucun inconvénient.
 Monsieur Alfred , hors de lui.
 C'est une infamie !
@@ -257,14 +260,14 @@ Le substitut J'invite la partie civile à user de termes plus modérés.
 Monsieur Alfred , les larmes aux yeux Mais enfin, monsieur, c'est odieux !
 Je suis un honnête homme, moi !
 Je suis un bon père de famille !
-On peut prendre des renseignements dans mon quartier !...
+On peut prendre des renseignements dans mon quartier !
 Barbemolle Je ferai remarquer que le plaignant ne répond pas à ma question.
 Il préfère se retrancher prudemment derrière des invectives grossières.
 Monsieur Alfred A de pareilles insinuations, on ne répond que par le mépris !
-Barbemolle Oui, enfin, tranchons le mot, vous niez ?...
+Barbemolle Oui, enfin, tranchons le mot, vous niez ?
 Barbemolle C'est ce que je voulais vous faire dire.
 Je n'insiste pas.
-Le président L'incident est clos!
+Le président L'incident est clos !
 Eh bien, parlez, monsieur Alfred !
 Je ne sais plus où j'en étais, moi.
 On me coupe la chique avec des histoires pareilles.
@@ -275,9 +278,9 @@ Le président  Où voulez-vous en venir ?
 Le substitut Aux termes de la citation, Lagoupille vous aurait frappé ?
 Monsieur Alfred D'un coup de poing, oui, monsieur, sur l’œil.
 Le président Vous avez des témoins ?
-Qu'est-ce que vous avez à rire?
+Qu'est-ce que vous avez à rire ?
 Je n'ai pas de témoins ?
-Où voulez-vous que j'en prenne, des témoins?
+Où voulez-vous que j'en prenne, des témoins ?
 Puisqu'il avait fait le vide chez moi !
 Le président N'interpellez pas la défense.
 Vous demandez des dommages et intérêts ?
@@ -286,8 +289,8 @@ Le président , à Monsieur Alfred Vous pouvez vous asseoir !
 Qu'est-ce que vous avez à dire ?
 Lagoupille J'ai à dire que Monsieur Alfred se conduit comme un cochon.
 Le président Vous l'avez déjà dit.
-Lagoupille Ensuite, c'est un sale menteur!
-Comment qu'y dit, je prends une consommati on ?...
+Lagoupille Ensuite, c'est un sale menteur !
+Comment qu'y dit, je prends une consommati on ?
 J'en prends sept !
 Monsieur Alfred Par semaine ?
 Monsieur Alfred Vous vous fichez du monde.
@@ -305,12 +308,12 @@ Monsieur Alfred Ah çà !
 Barbemolle Ces interruptions continuelles sont insupportables.
 Je supplie la partie civile de laisser mon client s'expliquer.
 Dans mon verre d'eau sucrée, je reverse du cognac : ça me fait un grog.
-Le président Et enfin?
+Le président Et enfin ?
 J'y mets le feu, ça me fait un punch.
 Le président C'est exact !
-Et à la fin du compte, combien est-ce que je touche, moi?
+Et à la fin du compte, combien est-ce que je touche, moi ?
 Lagoupille Ça vous embête ?
-Eh bien, prenez une caissière Le président Vous reconnaissez avoir frappé le plaignant?
+Eh bien, prenez une caissière Le président Vous reconnaissez avoir frappé le plaignant ?
 Je lui ai mis un marron, voilà tout.
 Le président A propos de quoi ?
 Le président Vous ne nous aviez pas dit ça, monsieur Alfred.
@@ -321,32 +324,32 @@ Monsieur Alfred tente de placer un mot.
 Maître, vous avez la parole.
 A cette heure fixant du regard Monsieur Alfred j'en louche du doigt les marécages.
 Je n'abuserai pas de vos instants.
-L'huissier , à Monsieur Alfred Votre chapeau!
+L'huissier , à Monsieur Alfred Votre chapeau !
 Barbemolle Monsieur Lagoupille est employé de l'État.
 Ce qu'est la vie de cet honnête homme ?
 Rien que des habitués !
-De braves gens, qui viennent le soir y faire leur petite partie !...
+De braves gens, qui viennent le soir y faire leur petite partie !
 Il prend une tasse de café !!
 Et ça, monsieur Alfred, vous ne le nierez pas ; c'est vous-même qui l'avez dit !
 N'importe. « Votre client est un pilier de brasserie !
 Je n'ai pas soufflé mot de cela.
 Je ne sais pas ce que vous voulez me dire.
 Le substitut Je vous somme de vous expliquer.
-Le substitut L'incident...
+Le substitut L'incident …
 Le président , qui en a assez.
 L'incident est clos !
 Barbemolle Il aura éclairé du moins la religion du tribunal.
 Muette exaspération du substitut.
 Mais à qui la faute ?
 Nous avons des bibliothèq ues.
-Tous les journaux, sans exception !...
+Tous les journaux, sans exception !
 Je livre, moi, à vos dégoûts, la bassesse de tels calculs !
 Je persiste avec confiance dans mes conclusions.
 Le président La parole est au ministère public.
 Le substitut Je suis révoqué.
 Le substitut Lisez vous-même.
 Le président , après avoir lu.
-C'est ma foi vrai!
+C'est ma foi vrai !
 Lui serre la main.
 Barbemolle J'y joins les miennes.
 Le substitut , aigre doux.
@@ -366,16 +369,16 @@ Le président Tout de même, il n'est pas gentil.
 Me voilà obligé de renvoyer à plus tard les débats de l'affaire Lagoupille.
 Barbemolle Je suis là.
 Le président Je le vois bien.
-Le président Je n'ose comprendre...
-Le président , après avoir salué Puisqu'il en est ainsi...
+Le président Je n'ose comprendre …
+Le président , après avoir salué Puisqu'il en est ainsi …
 Lui indiquant du doigt le siège du ministère public.
-La place est encore chaude...
+La place est encore chaude …
 J'ajoute qu'elle m'est heureuse à vous y rencontrer.
 Le président Vous êtes prêt à requérir ?
 Je suis aux ordres du tribunal.
 Le président Dont acte.
 J'arrive sans plus de préambules à la discussion des faits.
-Père de cinq enfants en bas-Age...
+Père de cinq enfants en bas-Age …
 Nous avons assez ri, passons aux choses sérieuses !
 Les feux d'artifice sont éteints, faisons, à présent, la lumière !
 Je n'irai pas par quatre chemins.
@@ -384,29 +387,31 @@ Et ce n'est pas lui, j'imagine, qui m'en donnera le démenti !
 Vous avez bien entendu ?
 Sept consommations par soirée !
 Soit quarante-neuf consommations par semaine.
-Deux cent dix par mois!
+Deux cent dix par mois !
 Ah ! je vous crierais, moi : Pitié !
 Car toute étincelle n'est pas morte !
 Car il faut à la corruption cette triste volupté : corrompre !
 Désignant Lagoupille du doigt.
-Il faut le lit chaste de la vierge à l'opprobre de cette fille publique!
-Il faut le calice de la rose à la bave de cet escargot!
+Il faut le lit chaste de la vierge à l'opprobre de cette fille publique !
+Il faut le calice de la rose à la bave de cet escargot !
 Le prévenu spontanément a reconnu les faits qui lui sont reprochés.
 Je n'ai donc pas à en discuter l'évidence.
 Le président , à Monsieur Alfred.
 Vous n'avez rien à ajouter ?
 Le président , à Lagoupille Et vous ?
-Lagoupille Je réclame mes dix francs...
+Lagoupille Je réclame mes dix francs …
 Barbeolle , plein de dignité.
 Louis douze ne paye pas les dettes du duc d'Orléans.
 Il se conduit comme un cochon, Le président , sévère mais juste.
 Vous n'êtes pas ici pour apprécier l'histoire.
 Se couvre et prononce.
+Taisez-vous donc, Lagoupille !
 Monsieur Alfred , à part.
 Si j'avais su, j'aurais demandé dix mille francs.
 Monsieur Alfred , au comble de la joie.
 Deux ans de prison !
 Deux ans de prison !
-Considérant d'ailleurs que si, en réalité, Alfred a reçu...
-Le président Un marron...
+Considérant d'ailleurs que si, en réalité, Alfred a reçu …
+Le président Un marron …
+Je vais vous faire sortir, Lagoupille !
 L'audience est levée.

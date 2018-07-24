@@ -127,7 +127,7 @@ Les Mêmes, Gabriel Gabriel sortant de la chambre de gauche. — Voilà !
 Madame Follentin à part. — Lui !
 Marthe à part. — Il n’était pas parti.
 Qu’est-ce que vous faites là ?
-Vous m’avez dit:« Sortez !
+Vous m’avez dit :« Sortez !
 D’abord, qu’est-ce que vous faisiez dans mon bureau ?
 Voilà les raisons que vous me donnez !
 Mais avant de partir, je tiens à vous déclarer ceci : j’aime Mademoiselle Marthe.
@@ -146,7 +146,7 @@ Il se dirige vers la porte du vestibule.
 Madame Follentin ouvrant la porte du fond à droite. — Venez, par ici !
 Attendez qu’on vienne vous chercher.
 Follentin entre de gauche.
-Nouveau coup de sonnette.. Tenez !
+Nouveau coup de sonnette …
 Madame Follentin allant ouvrir. — J’y vais !
 Madame Follentin va ouvrir la porte d’entrée.
 Ebrahim paraît avec le collectionneur.
@@ -309,6 +309,7 @@ Tu fais une gymnastique !
 Follentin s’étendant, à Marthe. — Lis, continue !
 Marthe lisant. — « En voyant cet homme pâle, agenouillé devant elle ».
 Follentin qui s’endort, approuvant par un grognement. — Oui.
+Follentin ronfle, elle s’arrête un instant, le regarde et dit à sa mère.
 Madame Follentin surveillant Follentin. — Oui, va !
 Marthe va sur la pointe des pieds jusqu’à mi-scène.
 Marthe à Madame Follentin qui est arrivée à sa hauteur. — Bonsoir, Maman.
@@ -373,6 +374,7 @@ Tous. — Saint-Germain, Saint-Germain, Saint-Germain l’Auxerrois !
 Premiers conjurés. — Cinq-cent-huit, quarante-huit, Saint-Germain l’Auxerrois !
 Ils remontent en sourdine explorer les ruelles adjacentes.
 Follentin parlé. — Cinq-cent-huit, zéro, trois, Saint-Germain l’Auxerrois.
+Madame Follentin id … — C’est le numéro du téléphone !
 Les conjurés redescendant vivement chanté. — Ah ! la patrouille, voici la patrouille !
 Madame Follentin qui a mal entendu. — Des pick-poquets ?
 Passe la patrouille, torches en mains.
@@ -384,7 +386,7 @@ Premiers conjurés, terribles. — Vous nous écoutiez ?
 Deuxièmes conjurés. — Vous nous épiez !
 Marthe et sa mère. — Nous ?
 Premiers conjurés, marchant sur eux. — Cinq, vingt-huit, neuf, douze.
-Deuxièmes conjurés id.. — Un, trois, deux, zéro, trente.
+Deuxièmes conjurés id … — Un, trois, deux, zéro, trente.
 Madame et mademoiselle Follentin enserrées entre eux. — Papa, Adolphe, ne nous quitte pas.
 Tous les conjurés. — Trois-cent-sept, neuf, huit, sept, un, deux trois, zéro, vingt.
 Madame Follentin et Marthe. — Dieu !
@@ -405,7 +407,7 @@ Un passant passe à gauche.
 Je vais lui parler… comme on parle aujourd’hui…
 Vous n’auriez pas l’heure sur vous !
 Le passant riant. — Ma foi, non, mon gentilhomme !
-Le passant. — Dieu vous garde; mon gentilhomme.
+Le passant. — Dieu vous garde ; mon gentilhomme.
 Le passant sort par la droite.
 Le crieur reprenant. — Il est dix heures !
 Le crieur descendant. — Mais pas mal, mon gentilhomme, je vous rends grâce.
@@ -439,7 +441,7 @@ Le vol à l’américaine, c’est comme ça que ça commence.
 Follentin avec admiration. — Coconas !
 Les Deux femmes. — Coconas.
 Coconas chante. — Oui, sandis ! je suis Coconas.
-Follentin parlé. — Est-il possible, Coconas; celui de Monsieur Dumas ?
+Follentin parlé. — Est-il possible, Coconas ; celui de Monsieur Dumas ?
 Tous parlé. — Si nous vous connaissons.
 Coconas chanté. — Ah ! pour ma Seigneurie.
 C’est trop de flatterie.
@@ -453,7 +455,7 @@ Ne seriez-vous pas quelque fois Le sieur Comte Joseph de Lerac de la Môle ?
 Au fait, je ne sais pas pourquoi je ne chanterais pas moi aussi.
 Je suis Monsieur Follentin Adolphe Follentin de Paris.
 Coconas chantant. — Est-il possible !
-Les Deux femmes id.. — Ça l’est.
+Les Deux femmes id … — Ça l’est.
 Que ce nom est argentin.
 Tin, tin, tin, tin, tin.
 Cela sonne Carillonne Comme une cloche du matin.
@@ -868,11 +870,11 @@ Je ne trouve pas le trou.
 Mais votre nuit de noces…
 Entrée du Roi de Navarre.
 Ne m’attendiez-vous donc pas ?
-Henri fait signe aux pages qui se retirent.. — Ne craignez rien, Madame.
+Henri fait signe aux pages qui se retirent … — Ne craignez rien, Madame.
 Je ne viens pas réclamer mes droits de mari.
 Je n’ai pas oublié le pacte qui nous unit !…
 Alliés et pas époux !
-Margot avec un soupir de soulagement.. — Ah !
+Margot avec un soupir de soulagement … — Ah !
 Il fait un pas vers le lit.
 Margot s’interposant. — Sire !
 Henri. — Mais la Reine me paraît bien troublée.
@@ -1238,7 +1240,7 @@ Il entre dans la grotte.
 Le Brigand. — C’est un gentilhomme qui vous demande audience.
 Le Brigand. — Voici sa carte !
 Costume de gommeux, XXe siècle.
-Très chic, chapeau huit-reflets, gardénia, habit monocle; les yeux bandés comme un parlementaire.
+Très chic, chapeau huit-reflets, gardénia, habit monocle ; les yeux bandés comme un parlementaire.
 Le Brigand, faisant le factionnaire. — Par ici !…
 Il introduit Gabriel dans la grotte.
 Scène deux Les Mêmes, Gabriel Follentin. — Mon Dieu !…
@@ -1262,6 +1264,7 @@ Il n’y a pas à faire de mystère avec le seigneur Cartouche !
 Nous savons bien tous où vous avez coutume de cacher votre trousseau !
 Vous qui vous y connaissez !
 Regardez tous ces objets comme c’est fait !…
+Il passe le trousseau de clefs à tous les invités …
 Voulez-vous voir le butin de sa journée ?
 A chaque objet, exclamation d’admiration de l’assistance.
 Je suis vraiment heureux d’avoir fait votre connaissance.
@@ -1270,7 +1273,7 @@ Capitaine Follentin, faites-moi l’honneur de devenir mon associé !
 Je ne peux pas !…
 J’ai ma bande !
 Allons, Follentin, mon ami…
-Tous. — Vive Follentin !.. Vive notre nouveau chef !
+Vive notre nouveau chef !
 Co-chef, Messieurs, co-chef !
 Tous. — Vive le co-chef !
 Même dans la bouche de vulgaires fripouilles, une ovation, ça fait plaisir…
@@ -1309,7 +1312,7 @@ Homme. — Oh ! mais c’est curieux !…
 Voulez-vous me permettre ?…
 Et maintenant, à votre tour !
 La bourse ou la vie !
-Homme..— Allons, allons !
+Homme …— Allons, allons !
 L’homme. — Vos pistolets d’abord.
 L’homme. — Et la bourse maintenant !
 L’homme. — Enfin tous les menus objets que vous pouvez avoir sur vous !

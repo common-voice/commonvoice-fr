@@ -308,7 +308,7 @@ Obéissez-moi, je réponds de tout.
 Je suis à vos ordres, Monsieur.
 Au revoir, monsieur Raoul.
 De Frescas, s’il vous plaît.
-Raoul sort. les mêmes , excepté RAOUL.
+les mêmes , excepté RAOUL.
 Vous avez été bien sévère.
 On pouvait facilement le prendre pour un prince déguisé.
 N’est-ce pas plutôt un homme de rien qui voudrait se déguiser en prince ?
@@ -787,7 +787,7 @@ Ah ! ma mère, venez-vous assister à ma défaite ?
 La famille de Christoval se jouait de nous.
 Monsieur Il montre Vautrin apporte les pouvoirs des deux pères.
 Raoul a une famille ?
-Madame de Christoval et sa fille entrent et saluent la   duchesse.
+Madame de Christoval et sa fille entrent et saluent la  duchesse.
 À madame de Christoval.
 Et c’est grâce à monsieur que tous les doutes ont été levés ?
 Ah çà, vais-je poser longtemps comme ça ?
@@ -944,7 +944,7 @@ J’ai d’étranges choses à vous dire, monsieur le duc.
 Décidément, je suis pour le duc.
 Si Raoul est votre fils, dans quelle infâme compagnie se trouve-t-il ?
 Un seul ange purifierait l’enfer.
-VAUTRIN a entrouvert avec précaution une des portes-fenêtres du jardin.
+VAUTRIN  a entrouvert avec précaution une des portes-fenêtres du jardin.
 Deux frères ne peuvent se battre.
 Ah ! voilà ma duchesse, Haut.
 Un homme ! au secours !
