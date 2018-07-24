@@ -30,11 +30,13 @@ PD_LICENCE = 'https://data.libretheatre.fr/license/1747'
 mapping_specific = [
   [ u'(', u''],
   [ u')', u''],
+  [ u'--', u' ' ],
   [ re.compile('\. $'), u'.' ],
   [ re.compile(' \.'), u'.' ],
   [ u' ,  ', u', ' ],
   [ u' , ', u', ' ],
   [ u'  ', u' ' ],
+  [ re.compile('\.{2,}'), u'\u00a0\u2026' ],
 ]
 
 def parse_result_page(page):
