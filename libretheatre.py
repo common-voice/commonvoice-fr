@@ -30,14 +30,18 @@ PD_LICENCE = 'https://data.libretheatre.fr/license/1747'
 mapping_specific = [
   [ u'(', u''],
   [ u')', u''],
-  [ u'--', u' ' ],
   [ re.compile('\. $'), u'.' ],
   [ re.compile(' \.'), u'.' ],
   [ u' ,  ', u', ' ],
   [ u' , ', u', ' ],
   [ u'  ', u' ' ],
-  [ re.compile('\.{2,}'), u'\u00a0\u2026' ],
+  [ u'--', u' ' ],
+  [ re.compile('\.{2,}'),   u'\u00a0\u2026' ],
+  [ re.compile('\s?\n\s?'), u' '],
+  [ u'  ', u' ' ],
 ]
+
+PUNCT_NBSP = re.compile('(\w+)(\?|\!|;|:)')
 
 def parse_result_page(page):
     content = requests.get(page)
@@ -86,8 +90,10 @@ def fetch_play_text(url):
         line = maybe_normalize(line, mapping=mapping_specific)
         line = filter_numbers(line)
         line = line.strip()
-        line = line.replace("\n", " ")
-        
+
+        maybe_matches = re.finditer(PUNCT_NBSP, line)
+        for maybe_match in maybe_matches:
+            line = line.replace(maybe_match.group(0), "%s\u00a0%s" % (maybe_match.group(1), maybe_match.group(2)))
 
         finaltext += [ line ]
 
