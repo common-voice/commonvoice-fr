@@ -79,8 +79,8 @@ mapping_specific = [
   [ u'\'S.',     u'\'sud'   ],
   [ u'\'E.',     u'\'est'   ],
   [ u'\'O.',     u'\'ouest' ],
-  [ re.compile('^--'), u'' ],
-  [ u'...',      u'\u2026' ],
+  [ re.compile('^--'),    u'' ],
+  [ re.compile('\.{2,}'), u'\u00a0\u2026' ],
   [ u'--',       u', ' ],
 ]
 
