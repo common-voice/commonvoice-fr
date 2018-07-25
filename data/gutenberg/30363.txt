@@ -1,4 +1,4 @@
- Je dirai: _J'étais là; telle chose m'avint_.
+Je dirai : _J'étais là ; telle chose m'avint_.
 Ouvrage honoré d'une souscription du Ministre de l'Instruction publique pour les Bibliothèques scolaires.
 DUMAINE, LIBRAIRE-ÉDITEUR DE L'EMPEREUR, Rue et Passage Dauphine, trente.
 Il s'agissait de savoir par où commencer.
@@ -8,13 +8,13 @@ Je pensais à la cavalerie, comme tous les jeunes gens.
 Je dois d'abord raconter la composition et l'emplacement de cette armée.
 Ainsi le personnel de l'armée s'élevait au moins à cent cinquante mille hommes.
 Neuf cents ou mille bâtiments suffisaient.
++, , , , , +, , , , , -+, , , , , +, , , , , , , , +, , , , , , , , , -+ |          |de division|de brigade|                |                   | +, , , , , +, , , , , -+, , , , , +, , , , , , , , +, , , , , , , , , -+ |premier Divis.
 |           |ROUGER    |neuvième léger,       |Les régiments      | |          |DUPONT.
-   |          |Colonel Meunier.|étaient de deux    | |          |           +----------+----------------|bataillons         | |          |           |MARCHAND.
+   |          |Colonel Meunier.|étaient de deux    | |          |           +, , , , , +, , , , , , , , |bataillons         | |          |           |MARCHAND.
 |trente-deuxe de  |quatre-vingt-quinzee de |complétés à huit cents    | |          |           |          |ligne   |ligne  |hommes.
-           | +----------+-----------+----------+----------------+La cavalerie       | |deuxième Divis.
+           | +, , , , , +, , , , , -+, , , , , +, , , , , , , , +La cavalerie       | |deuxième Divis.
 |sixième de   |trente-neufe de |cantonnée dans les | |          | LOISON.
   |          |ligne   |ligne  |environs.
-         | |          |           |----------+----------------|                   | |          |           |ROGUET.
 |PARTOUNEAUX|MARCOGNET |vingt-cinqe     |vingt-septe de |génie, s'élevait à | |          |           |          |Léger   |ligne  |vingt virgule cinq hommes.
 Le premier consul, qui avait du goût pour lui, le prit pour aide-de-camp.
 Personne ne convenait moins que Lacuée à cette tâche.
@@ -34,8 +34,8 @@ Ils n'achetaient au marché que les légumes frais et les pommes de terre.
 Ils mangeaient avec les caporaux dans des gamelles de six à sept portions.
 Les sergents, dans chaque compagnie, mangeaient entre eux.
 Les sergents-majors seuls avec les adjudants vivaient en pension chez un cantinier.
-La tenue était bizarre et irrégulière; on arrivait à une époque de transition.
-Les officiers remplaçaient les grandes guêtres par des bottes à revers; singulière mode pour l'infanterie.
+La tenue était bizarre et irrégulière ; on arrivait à une époque de transition.
+Les officiers remplaçaient les grandes guêtres par des bottes à revers ; singulière mode pour l'infanterie.
 Enfin, la tenue du sergent-major le plus élégant d'alors ferait honte au dernier soldat d'aujourd'hui.
 Voilà quels devaient être mon logement, ma toilette, mes repas, ma société.
 Je recommandai au maître tailleur de m'envoyer mes effets le plus tôt possible.
@@ -43,7 +43,7 @@ Il ne me répondit que par un sourire.
 C'est la manière des soldats d'exprimer la fortune.
 Dès le lendemain ma métamorphose était complète.
 Ma seconde résistance fut de couper mes cheveux en brosse et de prendre une queue.
-Je n'osai pourtant pas résister ouvertement; ma coquetterie de vingt ans n'aurait pas trouvé grâce.
+Je n'osai pourtant pas résister ouvertement ; ma coquetterie de vingt ans n'aurait pas trouvé grâce.
 Avec ma réputation de fortune, il était assez naturel de payer ma bien-venue.
 J'invitai les soldats de ma baraque et tous les caporaux de la compagnie.
 Le vin, qui coûtait vingt-cinq sous la bouteille, était un objet du plus grand luxe.
@@ -57,7 +57,7 @@ Ce fut cependant alors que je subis mes plus fortes épreuves.
 Ces défauts me firent punir plus d'une fois et réprimander plus souvent encore.
 J'ai raconté comment nous étions nourris, vêtus, logés.
 La mauvaise saison rendait la vie matérielle plus pénible encore.
-J'avais plus de vingt ans; depuis deux ans j'étais mon maître.
+J'avais plus de vingt ans ; depuis deux ans j'étais mon maître.
 Pourtant j'étais loin de me sentir découragé.
 D'abord la légèreté de l'âge rendait mes impressions mobiles.
 On sait qu'un soldat accompagne toujours le caporal d'ordinaire pour être témoin des marchés.
@@ -77,7 +77,7 @@ Quelques-uns, pour réparer ce désavantage, s'étaient donné une demi-instruct
 Leurs manières étaient communes, leurs politesses, des politesses de soldats.
 Le plus distingué de tous, le capitaine Baptiste, devint le colonel du vingt-cinqe léger.
 Saint-Michel, mon premier sous-lieutenant, devint général de division commandant la division militaire de Toulouse.
-Ceux-ci avaient été sergents; les sergents pouvaient devenir officiers.
+Ceux-ci avaient été sergents ; les sergents pouvaient devenir officiers.
 Rester plusieurs années soldat ou sous-officier est toujours une épreuve pour un homme bien élevé.
 Il aimait la littérature, et nous avons fait bien des lectures ensemble.
 Aussi gascon que son origine, il eût dû être le sergent-major de Villars.
@@ -86,7 +86,7 @@ Aujourd'hui, le règlement défend avec raison aux capitaines de s'en dessaisir.
 Ils étaient encore exposés à des dangers d'une autre nature, au danger des tentations.
 Ceux qui n'avaient point cette vertu se trouvaient embarrassés au moment du règlement des comptes.
 Les soldats connaissaient ces tours de passe-passe et en faisaient justice.
-Le sergent-major connaît l'arithmétique, disaient-ils; pose zéro et retiens neuf.
+Le sergent-major connaît l'arithmétique, disaient-ils ; pose zéro et retiens neuf.
 Pendant que j'étais sergent-major on me vola trois cents francs.
 L'avantage des réunions de troupes dans les camps est connu de tous les militaires.
 L'exercice, je ne la sais pas.
@@ -104,7 +104,7 @@ D'abord la vie du camp nous préparait aux marches et aux campements.
 Le maréchal Ney mit lui-même à profit cette connaissance dans les campagnes suivantes.
 Des liens de fraternité, ainsi qu'une noble émulation existaient entre les divers corps.
 Les sixième et neuvième légers, cinquante-neufe et quatre-vingt-seizee de ligne s'étaient distingués à Marengo.
-L'Empereur avait dit un jour, en parlant du trente-deuxe: J'étais tranquille; la trente-deuxe était là.
+L'Empereur avait dit un jour, en parlant du trente-deuxe : J'étais tranquille ; la trente-deuxe était là.
 Les uns voulaient justifier de si belles renommées, les autres en acquérir à leur tour.
 Je fus nommé le premier germinal (vingt-deux mars).
 La vie de soldat et de sous-officier commençait à me fatiguer.
@@ -166,7 +166,7 @@ Ce même jour, le maréchal Soult passait le Danube à Donauwerth.
 La troisième division fut chargée de cette opération.
 Il fut impossible d'aborder le pont de Leipheim, à cause des marais impraticables qui l'entouraient.
 Le régiment arriva, le huit, fort tard à la petite ville de Gundelfingen.
-La journée fut pénible; plusieurs soldats, fatigués par les marches précédentes, restèrent en arrière.
+La journée fut pénible ; plusieurs soldats, fatigués par les marches précédentes, restèrent en arrière.
 Lefèvre, adjudant du bataillon, nous tenait compagnie.
 Vous me voyez à mon poste, me dit-il, au demi-bataillon de gauche.
 À l'entrée de la nuit, nous eûmes enfin l'ordre de rejoindre le régiment.
@@ -186,7 +186,7 @@ Il lui reprocha seulement d'avoir laissé la division Dupont s'engager témérai
 Mais l'entreprise offrait des difficultés.
 Les travées du pont avaient été enlevées.
 Le maréchal Ney entreprit cette opération avec la plus grande vigueur.
-Au même instant, nous en vîmes revenir deux; ce fut une joie générale.
+Au même instant, nous en vîmes revenir deux ; ce fut une joie générale.
 Le général Dupont le battit et l'empêcha de rentrer dans la place.
 Le lendemain quinze vit compléter l'investissement.
 L'Empereur remit au lendemain la capitulation ou l'assaut.
@@ -311,7 +311,7 @@ Un autre voulût donner un grand dîner le jour de la fête de l'Empereur.
 Il invita ensuite les autorités de la ville, auxquelles il offrait leur vin.
 L'ironie paraîtra forte, mais il le disait bonnement, trouvant cela tout simple.
 Le général Marcognet commandait en ce moment notre brigade.
-J'ai parlé de son originalité; en voici un exemple.
+J'ai parlé de son originalité ; en voici un exemple.
 Je reprends maintenant le récit de nos cantonnements en Souabe.
 S'il survenait une discussion, le soldat avait toujours raison, l'habitant toujours tort.
 Les femmes seules savaient adoucir tant de rudesse.
@@ -333,7 +333,7 @@ Le premier jour de marche, le régiment se trouva pour la première fois réuni.
 En dix jours de marche nous atteignîmes Nuremberg, le six octobre.
 Ce jour fut marqué par un grand changement dans ma position.
 Ils répondirent poliment, mais sans rien annoncer de positif.
-Restait une grave difficulté; je n'avais pas de chevaux, pas d'équipages, fort peu d'argent.
+Restait une grave difficulté ; je n'avais pas de chevaux, pas d'équipages, fort peu d'argent.
 Le maréchal me saurait gré de mon empressement.
 Si je n'avais pas de chevaux, j'en trouverais.
 L'Empereur ne connaissait pas d'obstacle, il fallait que chacun l'imitât.
@@ -346,37 +346,36 @@ Les officiers d'état-major sont généralement supérieurs aux officiers de tro
  | sixième Léger,    |Le général Maucune       | |             | Liger-Belair.
 | Colonel      |commandait d'abord le    | |premier Division | Maucune.
     |sixième léger.
-               | |d'infanterie.|               +--------------+                         | |             |               | trente-neufe de ligne.|                         | |             +---------------+--------------|                         | |             |               | soixante-neufe de ligne.|                         | |Marchand.
+               | |d'infanterie.|               +, , , , , , , +                         | |             |               | trente-neufe de ligne.|                         | |             +, , , , , , , -+, , , , , , , |                         | |             |               | soixante-neufe de ligne.|                         | |Marchand.
    | deuxième brigade.
-  +--------------+                         | |             | Villatte.
     | soixante-seizee de ligne,|                         | |             | Roguet.
-      | Colonel      |                         | |             |               | Lajonchère   |                         | +-------------+---------------+--------------+-------------------------+ |             |               |              |Le général Malher, en    | |             | premier brigade.
- | vingt-cinqe Léger    |congé pendant les        | |             |               +--------------+cantonnements, ne revint | |deuxième Division.
+      | Colonel      |                         | |             |               | Lajonchère   |                         | +, , , , , , -+, , , , , , , -+, , , , , , , +, , , , , , , , , , , , -+ |             |               |              |Le général Malher, en    | |             | premier brigade.
+ | vingt-cinqe Léger    |congé pendant les        | |             |               +, , , , , , , +cantonnements, ne revint | |deuxième Division.
    | vingt-septe de ligne.|plus.
-                   | |             +---------------+--------------+                         | |             |               |              | Le général Marcognet    | | Malher.
+                   | |             +, , , , , , , -+, , , , , , , +                         | |             |               |              | Le général Marcognet    | | Malher.
     |               | cinquantee de ligne,|commandait par interim.
  | |             |               |              |                         | |             |               | Colonel      |Le général Vandamme      | | Vandamme.
   |               | Lamartinière.|commanda pendant le siége| |             |               |              |de Magdebourg seulement.
 | |             |               |              |Son orgueil et la        | | Gardanne.
   |               |              |violence de son caractère| |             | deuxième brigade.
-  +--------------+ne permettaient pas de le| |             |               |              |laisser longtemps sous   | | Bisson.
+  +, , , , , , , +ne permettaient pas de le| |             |               |              |laisser longtemps sous   | | Bisson.
     | cinquante-neufe de ligne,|les ordres du maréchal   | |             |               |              |Ney.
                     | |             |               | Colonel      |                         | |             |               | Dalton.
 Le       | |             |               |              |maréchal Ney le renvoya  | |             |               |              |d'autorité.
- | +-------------+---------------+--------------+-------------------------+ |             |               | troisième hussards, |                         | |             | Brigade       | Colonel      |Depuis général de        | |             | de cavalerie.
-     |division et grand        | |             |               +--------------+chancelier de la Légion  | |             | Colbert.
+ | +, , , , , , -+, , , , , , , -+, , , , , , , +, , , , , , , , , , , , -+ |             |               | troisième hussards, |                         | |             | Brigade       | Colonel      |Depuis général de        | |             | de cavalerie.
+     |division et grand        | |             |               +, , , , , , , +chancelier de la Légion  | |             | Colbert.
      |dixe chasseurs,|d'honneur.
               | |             |               | Colonel      |                         | |             |               | Subervic.
-   |                         | +-------------+---------------+--------------+-------------------------+ |             |               |              | Note sur l'infanterie.| |             |               |              |                         | |             | Artillerie.
+   |                         | +, , , , , , -+, , , , , , , -+, , , , , , , +, , , , , , , , , , , , -+ |             |               |              | Note sur l'infanterie.| |             |               |              |                         | |             | Artillerie.
   |              |Il y avait de plus       | |             |               |              |un bataillon de          | |             |               |              |grenadiers et un de      | |             | Génie.
        |              |voltigeurs formés des    | |             |               |              |compagnies d'élite des   | |             |               |              |troisièmes bataillons des| |             |               |              |régiments du corps       | |             |               |              |d'armée.
                 | |             |               |              |                         | |             |               |              |Le tout s'élevait au plus| |             |               |              |à vingt hommes.
 La campagne d'Autriche avait redoublé les liens qui unissaient cette grande famille.
 Il faut dire que cette appréciation n'avait pas été également favorable à tous nos chefs.
 Elle choisissait le moment où l'Autriche, vaincue, ne pouvait se joindre à elle.
-Le croirait-on cependant? une pareille imprudence n'inquiétait nullement la cour du roi Frédéric-Guillaume.
+Le croirait-on cependant ? une pareille imprudence n'inquiétait nullement la cour du roi Frédéric-Guillaume.
 Voici quelle était la composition des deux armées.
-La Grande Armée française se composait de six corps: premier corps, maréchal Bernadotte           vingt hommes.
+La Grande Armée française se composait de six corps : premier corps, maréchal Bernadotte           vingt hommes.
 Dans ce nombre figuraient vingt mille Saxons.
 Elle était donc inférieure en nombre à l'armée française.
 Le duc de Brunswick commandait en chef.
@@ -400,7 +399,7 @@ L'Empereur en était parti la veille et arrivait à Géra.
 Voici la cause de ces divers mouvements.
 L'armée française traversait ces trois déniés qui conduisent en Saxe, ainsi que je l'ai dit.
 Le général Rüchel ferait l'arrière-garde en partant le dernier de Weimar.
-Je compte sur votre  zèle.
+Je compte sur votre zèle.
 L'Empereur lui-même passait la Saale à Iéna pour combattre le prince de Hohenlohe.
 Le prince Murat accourait avec la cavalerie.
 On attendait les maréchaux Ney et Soult.
@@ -424,7 +423,7 @@ D'ailleurs le premier besoin pour nous était celui du repos.
 Mon cheval isabelle avait supporté cette fatigue avec un courage digne de lui.
 Elle se fit en bon ordre, protégée par deux divisions prussiennes qui n'avaient pas combattu.
 Il était question de recommencer le combat.
-Sire, disait-il, cette lettre n'est pas de vous; des intrigants, des brouillons l'ont dictée.
+Sire, disait-il, cette lettre n'est pas de vous ; des intrigants, des brouillons l'ont dictée.
 Faisons la paix, il en est temps encore.
 Jamais on ne vit de prédiction plus promptement et plus complètement vérifiée.
 Il traita plus sévèrement l'électeur de Hesse, et s'empara de ses États.
@@ -474,7 +473,7 @@ Et quelques années plus tard, les généraux républicains devenaient eux-même
 Mais cette manière de vivre avait de grands inconvénients pour notre service.
 Plusieurs causes diverses rendaient quelquefois ces missions difficiles à exécuter.
 Il devait être à Egeln, distant de quatre lieues du quartier général de Schonebeck.
-Je m'y rendis sur-le-champ; j'y arrivai le soir.
+Je m'y rendis sur-le-champ ; j'y arrivai le soir.
 Ainsi un général changeait trois fois de cantonnement à de grandes distances sans en prévenir.
 Pourtant il ne fut ni réprimandé ni puni.
 L'ordre devait être exécuté, et l'on ne s'embarrassait pas des moyens.
@@ -528,22 +527,22 @@ Il en résulta d'abord l'impossibilité de connaître les mouvements de l'ennemi
 L'étoile de Napoléon commençait alors à pâlir.
 Le moment des demi-succès, des triomphes incomplets était arrivé.
 Les Prussiens se retiraient à notre approche.
-D'abord il était parfaitement aimable, aimable pour tout le monde; première différence.
+D'abord il était parfaitement aimable, aimable pour tout le monde ; première différence.
 Il le fut beaucoup pour moi, dont il ne connaissait que le nom.
 Il mangeait avec ses aides de camp, avec les officiers en mission.
 Mon cheval étant très-fatigué, il m'en fit donner un autre pour faire route avec lui.
 Cette première partie de la campagne terminée, l'armée prit ses cantonnements.
 Le maréchal Ney porta son quartier général à Neidenbourg, sur la route d'Ostrolenka à Thorn.
 Pour le coup, le maréchal demanda grâce, et la trompette disparut.
-J'admirai tant de patience; mais le jour du départ fut le jour des représailles.
+J'admirai tant de patience ; mais le jour du départ fut le jour des représailles.
 Le maréchal ne savait pas faire une réprimande de sang-froid.
 Il se taisait, ou il s'emportait au delà de toutes les bornes.
 Le repos ne fut pas long pour le sixième corps.
 Le onze janvier, nous partîmes de Neidenbourg pour Wartembourg et Allenstein.
 Les divisions d'infanterie suivirent le mouvement à d'assez grandes distances.
 Le maréchal fit une course rapide à Bartenstein, où je l'accompagnai.
-Monsieur Thiers dit qu'il fut au moment de prendre Kœnigsberg; c'est aller trop loin.
-Jamais je ne fis un voyage aussi difficile; le récit suivant en fera juger.
+Monsieur Thiers dit qu'il fut au moment de prendre Kœnigsberg ; c'est aller trop loin.
+Jamais je ne fis un voyage aussi difficile ; le récit suivant en fera juger.
 J'eus beaucoup de peine à avoir des chevaux à Mlawa.
 Enfin j'obtins deux rosses et une mauvaise charrette qui devait me traîner jusqu'à Pultusk.
 La gelée avait succédé au dégel.
@@ -567,7 +566,7 @@ Les cinquième, troisième, quatrième et septième étaient rapprochés les uns
 Je partis à l'entrée de la nuit, par le froid le plus rigoureux.
 Il n'y avait dans ce village aucun Français, et les paysans ne parlaient que polonais.
 Je conjecturai que ce pouvait être celui que je cherchais.
-J'y allai; c'était enfin lui.
+J'y allai ; c'était enfin lui.
 Le vingt-deux au matin, je partis pour rejoindre le maréchal à Neidenbourg.
 Je voyageai toute la nuit avant d'arriver à Neidenbourg.
 Le colonel Jomini, qui retournait à Varsovie, fut le seul que je trouvai.
@@ -578,11 +577,11 @@ Ce moment était arrivé.
 Napoléon, apprenant la marche des Russes, leva ses cantonnements pour marcher lui-même à leur rencontre.
 Le sixième devait les y joindre par Hohenstein.
 L'Empereur y était déjà.
-Benningsen le sentit; il se retira dans la nuit par les routes d'Arendorf et d'Eylau.
+Benningsen le sentit ; il se retira dans la nuit par les routes d'Arendorf et d'Eylau.
 Il fallut donc renoncer pour cette fois à l'espoir de la bataille que nous attendions.
 Le lendemain quatre, la poursuite continua sur trois colonnes.
 L'arrière-garde ennemie se retirait en combattant toujours.
-Notre maréchal la poursuivit avec sa vigueur accoutumée; il s'exposa beaucoup ce jour-là.
+Notre maréchal la poursuivit avec sa vigueur accoutumée ; il s'exposa beaucoup ce jour-là.
 Le général Gardanne fut blessé auprès de lui.
 Après une journée longue et pénible, nous couchâmes au village de Scholitten.
 Nous allâmes nous reposer de nos fatigues à Liebstadt.
@@ -628,7 +627,7 @@ Cette arme est moins propre que l'infanterie à supporter toutes les misères de
 Il ne faut à l'infanterie que du pain et des souliers.
 Il faut de plus à la cavalerie le ferrage et la nourriture des chevaux.
 Dans cette situation, les Cosaques se rendirent redoutables.
-Leurs chevaux exigent moins de soins; l'homme et sa monture sont faits au climat.
+Leurs chevaux exigent moins de soins ; l'homme et sa monture sont faits au climat.
 Napoléon en jugea autrement.
 On se préparait ainsi à terminer complétement au printemps cette terrible lutte.
 La retraite commença le dix-sept février.
@@ -637,7 +636,7 @@ Nous partîmes de Mülhausen, et arrivâmes à Eylau sans être inquiétés.
 Le dix-huit, on se dirigea sur Landsberg.
 Je fus chargé ce jour-là de suivre le général Colbert, qui couvrait la retraite.
 Nous partîmes donc les derniers.
-Le vingt-huit, nous nous retirâmes jusqu'à Allenstein; l'avant-garde arrêtée à moitié chemin de Guttstadt.
+Le vingt-huit, nous nous retirâmes jusqu'à Allenstein ; l'avant-garde arrêtée à moitié chemin de Guttstadt.
 Nous manquions de tout, même au quartier général.
 Benningsen nous suivit de loin avec des forces assez considérables.
 Déjà la division Dupont venait de prendre Braunsberg à l'embouchure de la Passarge.
@@ -649,10 +648,10 @@ On ne perdit pas cependant beaucoup de monde.
 Le quartier général s'établit à Guttstadt, l'avant-garde à Péterswald.
 Les quatre et cinq, quelques combats d'avant-garde eurent lieu encore à Péterswald et à Zechern.
 Ainsi se termina la campagne d'hiver.
-Je m'arrête ici, hélas! la campagne du printemps suivant a été nulle pour moi.
+Je m'arrête ici, hélas ! la campagne du printemps suivant a été nulle pour moi.
 Cette campagne d'hiver aurait fait la gloire de tout autre.
 Benningsen, vaincu à Pultusk, cherchait à surprendre nos cantonnements.
-C'était beaucoup pour tout autre; ce n'était pas assez pour Napoléon.
+C'était beaucoup pour tout autre ; ce n'était pas assez pour Napoléon.
 Avec lui l'ennemi vaincu devait être détruit.
 Une victoire incomplète semblait un échec.
 Enfin, il venait audacieusement de placer ses cantonnements vis-à-vis les nôtres.
@@ -677,7 +676,7 @@ Il me traita fort bien, et me conduisit à Launau, quartier général de l'avant
 Aussitôt il m'envoya au général en chef à Heilsberg.
 Le général Benningsen portait son quartier général à Bartenstein et m'emmena avec lui.
 À cet égard, Benningsen se montrait plus réservé.
-Je ne le conteste pas; mais au quartier général l'apparence démentait cette assertion.
+Je ne le conteste pas ; mais au quartier général l'apparence démentait cette assertion.
 Assurément la comparaison n'était pas en notre faveur.
 Nous dînions chez le général à une table nombreuse et bien servie.
 Un jour une députation de la ville vint féliciter Benningsen sur son arrivée.
@@ -685,7 +684,7 @@ Je dois m'accuser ici d'un trait de mauvais joueur, tel que je l'ai toujours ét
 Ayant perdu un gros coup, je déchirai les cartes.
 Le général Benningsen eut l'attention de ne pas m'en parler pour ne pas m'affliger.
 Au bout de quinze jours, je partis pour Wilna, en passant par Grodno.
-Le gouverneur de Grodno m'accueillit avec bienveillance; je logeais et je mangeais chez lui.
+Le gouverneur de Grodno m'accueillit avec bienveillance ; je logeais et je mangeais chez lui.
 Mais rien ne pouvait adoucir ma tristesse.
 Profitez de l'occasion pour faire un voyage en Russie.
 Ne voulant rien demander, je m'abandonnai à ma triste destinée.
@@ -708,7 +707,7 @@ Le général en fut fort choqué.
 On me permit du moins de choisir la manière de voyager qui me conviendrait.
 Mon départ fut pour moi un jour de triomphe.
 Toute la ville était aux fenêtres.
-Tous me souhaitaient un heureux voyage, un prompt retour; plusieurs femmes agitaient leurs mouchoirs.
+Tous me souhaitaient un heureux voyage, un prompt retour ; plusieurs femmes agitaient leurs mouchoirs.
 Le lendemain, elles se plaignirent au général d'un traitement si brutal et si peu mérité.
 J'arrivai à Smolensk comme l'éclair.
 Le gouverneur me logea chez lui et voulut me garder quelques jours.
@@ -779,8 +778,8 @@ Dès le mois d'août, l'armée française n'occupait plus que la ligne de l'Ebre
 Napoléon ne perdit point de temps pour réparer ce désastre.
 Le passage en France de ces différents corps fut une marche triomphale.
 Les municipalités de toutes les villes rivalisèrent de zèle pour leur réception.
-Partout on organisa des fêtes militaires; partout des banquets leur furent offerts.
-Hélas! cet espoir fut cruellement trompé.
+Partout on organisa des fêtes militaires ; partout des banquets leur furent offerts.
+Hélas ! cet espoir fut cruellement trompé.
 Napoléon voulait avoir sous ses ordres cent à cent vingt mille hommes de bonnes troupes.
 Le général Dupont avait capitulé à Baylen, le général Junot à Lisbonne.
 Napoléon, déjà établi à Vittoria, pénétra le projet des ennemis et s'en félicita.
@@ -817,7 +816,7 @@ L'Empereur le passa en revue un des jours suivants.
 Le maréchal Ney devait former la réserve du maréchal Soult.
 L'Empereur suivit la même route jusqu'à Astorga, et retourna ensuite à Valladolid.
 Cette nouvelle nous causa une profonde douleur.
-Ce n'est point exact: il a été tué sans pouvoir proférer une parole.
+Ce n'est point exact : il a été tué sans pouvoir proférer une parole.
 Le départ de l'armée anglaise nous rendait maîtres de tout le pays.
 Je n'acceptai point, et je fis très-bien.
 Il n'y avait pas une minute à perdre pour la campagne d'Autriche.
@@ -841,11 +840,10 @@ Le chemin qui y conduit le long de la mer est entièrement détruit.
 On a cependant de temps en temps par des espions des nouvelles de Barcelonne.
 Le général Maurice Mathieu y maintenait le plus grand ordre et la plus parfaite surveillance.
 Les habitants de Barcelonne nous sont aussi opposés que ceux du reste de la Catalogne.
- _Énéide_, liv.
 Jamais de notre côté l'on n'avait vu réunies de masses aussi imposantes.
 L'Empereur nous rejoignit à Thorn et alla visiter Dantzick et Kœnigsberg avant d'arriver à Gumbinen.
 Ce fut dans cette ville que les dernières espérances de paix furent détruites.
-Alexandre disait à son armée: Je suis avec vous; Dieu est contre l'agresseur.
+Alexandre disait à son armée : Je suis avec vous ; Dieu est contre l'agresseur.
 De Gumbinen, l'armée entra en Pologne pour se rapprocher du Niémen.
 Dans cet état de choses, le plan de l'empereur Napoléon fut promptement conçu.
 Le jour paraissait à peine, et déjà le premier corps était passé.
@@ -864,7 +862,7 @@ L'un d'eux, M.
 La composition des officiers du quartier général contribuait encore à l'agrément de notre situation.
 On pouvait quelquefois se croire encore à Paris au milieu de cette réunion.
 L'Empereur, devant faire le trajet très-rapidement, envoya d'avance presque tous les officiers d'état-major.
-Aussi ce régiment fut-il le premier détruit; déjà les soldats mouraient d'épuisement sur les routes.
+Aussi ce régiment fut-il le premier détruit ; déjà les soldats mouraient d'épuisement sur les routes.
 Le roi, très-mécontent lui-même, quitta l'armée.
 Les deuxième et sixième corps se portèrent à Polotzk pour s'opposer à lui.
 L'ardeur des régiments était extrême, et nous partagions tous.
@@ -878,7 +876,7 @@ L'Empereur entra à Witepsk et dirigea ses troupes à la poursuite de l'ennemi.
 Les habitants nous reçurent plutôt comme des conquérants que comme des libérateurs.
 Un nouveau genre de désordre fixa en même temps l'attention de Napoléon.
 Il importait d'arrêter un mouvement qui pouvait dégénérer en guerre civile.
-Des colonnes mobiles furent envoyées; quelques exemples en imposèrent, et l'ordre fut bientôt rétabli.
+Des colonnes mobiles furent envoyées ; quelques exemples en imposèrent, et l'ordre fut bientôt rétabli.
 Jamais compagne n'avait commencé d'une manière plus brillante.
 L'Empereur partageait d'aussi brillantes espérances.
 Cependant les gens d'un esprit sage et les officiers expérimentés n'étaient pas sans inquiétude.
@@ -913,16 +911,17 @@ L'Empereur visita les blessés, leur fit donner à boire, et recommanda qu'on en
 L'avant-garde russe défendit quelque temps Mojaisk pour laisser le temps de l'incendier.
 Le quartier général s'y établit le dix.
 Les régiments du troisième corps bivouaquaient autour du village.
+Voici la composition du troisième corps : +, , , , , , , , , -+, , , , , +, , , , , , -+, , , , -+ +, , , , , , , , , -+, , , , , +, , , , , , -+, , , , -+ |premier division.
      |Gengoult  |vingt-quatree léger.
       |Joubert   |quatrième de ligne.
 Le prince de Wurtemberg la commandait au commencement de la campagne.
 Le prince lui-même, malade et mécontent, quitta l'armée.
 Cette classe était malheureusement la moins nombreuse.
 Les colonels étaient pour la plupart d'excellents militaires.
-Les officiers eux-mêmes paraissaient inquiets; ils ne servaient plus que par devoir et par honneur.
-L'armée française bivouaqua, le treize, à Perkouschkovo; le lendemain l'avant-garde entra dans Moscou.
+Les officiers eux-mêmes paraissaient inquiets ; ils ne servaient plus que par devoir et par honneur.
+L'armée française bivouaqua, le treize, à Perkouschkovo ; le lendemain l'avant-garde entra dans Moscou.
 Moscou, qu'ils n'avaient pu défendre, fut brûlé de leurs propres mains.
-À Smolensk, les Français avaient été battus; à la Moskowa, ils avaient été détruits.
+À Smolensk, les Français avaient été battus ; à la Moskowa, ils avaient été détruits.
 Les incendiaires surpris en flagrant délit étaient fusillés sur-le-champ.
 Ils déclaraient qu'ils avaient exécuté les ordres du gouverneur, et mouraient avec résignation.
 J'entrai seul dans la ville, et bientôt les flammes me fermèrent le chemin du Kremlin.
@@ -946,12 +945,12 @@ Les corps de partisans répandus autour de Moscou devenaient plus entreprenants.
 La ville de Véréya fut surprise, la garnison massacrée.
 On nomma un gouverneur, un intendant, des administrations.
 Un mois entier cependant s'écoula sans que notre situation fût améliorée en rien.
-Cette simagrée était bien inutile; elle n'en imposa ni à l'ennemi ni à nos soldats.
+Cette simagrée était bien inutile ; elle n'en imposa ni à l'ennemi ni à nos soldats.
 Je n'allai point à Boghorodsk.
-Une partie de mon régiment m'accompagnait; le reste avait suivi le maréchal Ney.
+Une partie de mon régiment m'accompagnait ; le reste avait suivi le maréchal Ney.
 L'ennemi, fidèle à son système, se retirait à notre approche.
 Pendant le cours de cette expédition je trouvai partout la même misère.
-Les généraux recueillirent quelques provisions; mais les ressources étaient nulles pour l'armée.
+Les généraux recueillirent quelques provisions ; mais les ressources étaient nulles pour l'armée.
 Nous trouvâmes dans son sac des lettres de sa mère, fort touchantes par leur simplicité.
 Le détachement rentra à Moscou le quinze.
 Deux jours s'écoulèrent sans entendre parler de départ.
@@ -960,7 +959,7 @@ Cette revue fut aussi belle que les circonstances le permettaient.
 Les colonels rivalisèrent de zèle pour présenter leur régiment en bon état.
 Tout le troisième corps présent ne s'élevait pas à dix hommes.
 La revue finissait à peine, lorsque les colonels reçurent l'ordre de partir le lendemain.
-Je reçus leurs bénédictions avec attendrissement et reconnaissance; peut-être m'ont-elles porté bonheur.
+Je reçus leurs bénédictions avec attendrissement et reconnaissance ; peut-être m'ont-elles porté bonheur.
 Ainsi l'imprudence de notre long séjour à Moscou pouvait se réparer.
 Jamais nous n'avions traîné autant de voitures à notre suite.
 Cette marche avait quelque chose de lugubre.
@@ -997,7 +996,7 @@ La nuit nous bivouaquions dans les bois au milieu de la neige.
 Chaque régiment faisait à son tour l'extrême arrière-garde, que l'ennemi suivait et harcelait sans cesse.
 On y trouva quelques bouteilles de rhum qui furent d'un grand secours.
 J'étais d'arrière-garde, et mon régiment défendit toute la journée la route qui mène au pont.
-Vers le soir les troupes passèrent le Dniéper; on détruisit le pont.
+Vers le soir les troupes passèrent le Dniéper ; on détruisit le pont.
 Le maréchal Ney fit ses dispositions pour défendre le passage.
 Il nous fit observer les malheureuses suites de la journée de Dorogobuje.
 Le général Joubert parla de la faiblesse des troupes, de leur découragement.
@@ -1013,7 +1012,7 @@ Les routes de Pétersbourg et de Moscou traversent ce faubourg.
 Il était, à l'époque où nous sommes, presque entièrement brûlé.
 L'ordre fut bientôt rétabli.
 Le lendemain quinze fut le jour d'une affaire où mon régiment se trouva seul engagé.
-Il fallut donc attendre; mais l'embarras croissait à chaque instant.
+Il fallut donc attendre ; mais l'embarras croissait à chaque instant.
 Ce ne fut qu'après avoir reçu l'ordre de rentrer que je commençai ma retraite.
 Beaucoup d'officiers blessés et malades étaient renfermés dans l'hôpital de Smolensk.
 Déjà cette ville n'offrait plus qu'un amas de décombres.
@@ -1024,12 +1023,12 @@ Aussitôt le maréchal fit rétrograder sur Smolensk la deuxième division.
 Mais la présence du maréchal Ney suffisait pour nous rassurer.
 Sa confiance en lui-même égalait son courage.
 Nous marchions à travers champs sans guide, et l'inexactitude des cartes contribuait à nous égarer.
-On alluma de grands feux; on plaça des avant-postes.
+On alluma de grands feux ; on plaça des avant-postes.
 L'ennemi nous laissa tranquilles, comptant avoir bon marché de nous le lendemain.
 À la faveur de ce stratagème, le maréchal s'occupa de suivre son plan.
-Nous partîmes conduits par ce paysan; bientôt nous arrivâmes au village.
+Nous partîmes conduits par ce paysan ; bientôt nous arrivâmes au village.
 La marche commença sous d'heureux auspices.
-Nous trouvâmes des Cosaques endormis dans un village; ils furent faits prisonniers.
+Nous trouvâmes des Cosaques endormis dans un village ; ils furent faits prisonniers.
 Le dix-neuf, aux premiers rayons du jour, nous suivîmes la route de Liubavitschi.
 La nuit approchait, l'ennemi redoubla d'efforts.
 C'était là que le général Platow comptait nous exterminer tous.
@@ -1056,7 +1055,7 @@ C'était une division du quatrième corps qui venait à notre secours avec le vi
 Le vice-roi nous reçut avec une vive émotion.
 Il témoigna hautement au maréchal Ney l'admiration que lui causait sa conduite.
 Il félicita les généraux et les deux colonels qui restaient.
-Mais le temps pressait; au bout de peu d'instants il fallut repartir pour Orcha.
+Mais le temps pressait ; au bout de peu d'instants il fallut repartir pour Orcha.
 Quelques maisons assez misérables du faubourg nous servirent d'asile.
 Ainsi se termina cette marche hardie, l'un des plus curieux épisodes de la campagne.
 Ici commence pour le troisième corps une époque nouvelle.
@@ -1085,7 +1084,7 @@ Les cuirassiers de Doumerc enfoncèrent les carrés, enlevèrent des pièces de 
 Nous accueillîmes avec transports les braves soldats qui conduisaient ces brillants trophées.
 Leur valeur décida de la journée.
 Le désordre avait été toujours en croissant pendant la journée et la nuit du vingt-sept.
-Il était nuit; le neuvième corps se défendait encore.
+Il était nuit ; le neuvième corps se défendait encore.
 Plus de quinze hommes périrent ou furent pris dans cette affreuse journée.
 On espérait rallier l'armée à Wilna, sous la protection de quelques troupes qui s'y trouvaient.
 Le vingt-neuf au matin les deuxième et neuvième commencèrent leur retraite, suivis par le troisième.
@@ -1104,7 +1103,7 @@ Le général Ledru, qui nous commandait, n'en continua pas moins sa marche.
 Je n'entreprendrai point de peindre les spectacles que nous avions sous les yeux.
 Je vins à bout d'entrer en me débattant dans la foule.
 Tout était en confusion chez le gouverneur et à la municipalité.
-La nuit vint; j'ignorais ou était mon régiment.
+La nuit vint ; j'ignorais ou était mon régiment.
 Quant aux dispositions militaires, il n'y en eut point.
 Il me fallut les plus grands efforts pour pénétrer dans le faubourg.
 J'y rentrai moi-même aussitôt en risquant pour la troisième fois de me faire étouffer.
@@ -1112,16 +1111,16 @@ Je retournai alors chez le maréchal Ney, où je reçus l'ordre de départ.
 On y abandonna les magasins de vivres, d'armement et d'habillement.
 Ainsi fut perdue cette ville conquise si brillamment au commencement de la campagne.
 Un de mes chefs de bataillon, malade et porté sur un traîneau, disparut pour toujours.
-La première journée fut de neuf lieues; la deuxième de sept jusqu'à Zismory.
+La première journée fut de neuf lieues ; la deuxième de sept jusqu'à Zismory.
 J'avais perdu le général Marchand, et je conduisais seul mon régiment.
 J'exigeai donc qu'on allât jusqu'à Zismory, où quelques huttes remplies de blessés nous servirent d'asile.
 Ce moment fut peut-être pour moi le plus cruel de toute la campagne.
 Cette idée faillit m'ôter tout mon courage.
 Enfin, nous revîmes le Niémen et nous entrâmes dans Kowno.
 Nous allions passer le Niémen et quitter pour toujours cette terre de malheur.
-CANTONNEMENTS SUR LA VISTULE.--ARRIVÉE DU troisième CORPS AMARIENBOURG.
+CANTONNEMENTS SUR LA VISTULE., ARRIVÉE DU troisième CORPS AMARIENBOURG.
 Mais les soldats n'eurent pas la patience de mourir de faim au milieu de l'abondance.
-Son absence avait pensé nous perdre; sa présence suffit pour tout réparer.
+Son absence avait pensé nous perdre ; sa présence suffit pour tout réparer.
 Nous traversâmes Kowno au milieu des morts et des mourants.
 Les habitants, rangés sur notre passage, nous regardaient d'un air insolent.
 L'un d'eux s'était déjà armé d'un fusil, je le lui arrachai.
@@ -1143,40 +1142,40 @@ Le roi de Naples quitta Kœnigsberg le quatre janvier et se réunit à Elbing.
 La retraite des autres corps s'effectua aussi tranquillement que la nôtre.
 Je reçus à Nancy l'accueil le plus touchant.
 Ainsi finit cette entreprise gigantesque, qui avait commencé sous de si heureux auspices.
- Berlin, le vingt-trois janvier mille huit cent treize.
- _Signé_:  Maréchal duc d'ELCHINGEN.
+Berlin, le vingt-trois janvier mille huit cent treize.
+_Signé_ : Maréchal duc d'ELCHINGEN.
 cent neuf officiers de tous grades ont fait la campagne en tout ou en partie.
 vingt sont restés prisonniers, la plupart blessés.
 trente-cinq ont été blessés, plusieurs à deux reprises.
 quatorze n'ont pas été blessés.
 Itinéraire du troisième corps pendant la retraite.
-Départ de Moscou.--Bivouac sur la route de Tschirkovo.
+Départ de Moscou., Bivouac sur la route de Tschirkovo.
 Départ à minuit.
 Bivouac sur la route de Bowrosk.
 Suite de la marche.
 Départ le soir.
-Le matin à Véreya.--Le soir à Ghorodosk, Borisow.
-Abbaye de Kolotskoi.--Route de Moscou à Smolensk.
-Combat de Dorogobuge.--Bivouac à deux lieues en arrière.
-(Combat le onze.) --douze.
+Le matin à Véreya., Le soir à Ghorodosk, Borisow.
+Abbaye de Kolotskoi., Route de Moscou à Smolensk.
+Combat de Dorogobuge., Bivouac à deux lieues en arrière.
+(Combat le onze.) douze.
 Bivouac sur la route de Smolensk.
 Bivouac aux approches de Smolensk.
 Faubourg de Smolensk.
-(Combat le quinze.) --dix-sept.
+(Combat le quinze.) dix-sept.
 Arrivée devant Krasnoi.
-(Combat.)--Passage du Dniéper.
+(Combat.), Passage du Dniéper.
 Marche sur la rive droite du Dniéper.
---vingt et un.
+vingt et un.
 Le matin à Orcha, le soir à Kochanow.
-(Passage de la Bérézina dans la nuit.) --vingt-sept-vingt-huit.
+(Passage de la Bérézina dans la nuit.) vingt-sept-vingt-huit.
 Bivouac sur la rive droite du fleuve.
-(Combat de la Bérézina le vingt-huit.) --vingt-neuf.
+(Combat de la Bérézina le vingt-huit.) vingt-neuf.
 Bivouac dans la direction de Molodetschno.
-(Départ la nuit.) --trois.
+(Départ la nuit.) trois.
 Bivouac sur la roule de Kowno.
-Départ le soir.--Marche de nuit.
+Départ le soir., Marche de nuit.
 Village dans la direction de Neustadt.
---vingt et un.
+vingt et un.
 Aux environs d'Elbing.
 Cantonnement dans l'île de la Nogat.
 Je trouvai ma famille, mes amis et la société tout entière frappés de terreur.
@@ -1193,7 +1192,7 @@ Je n'en ai disposé, pendant ma courte administration, que pour faire donner cen
 à chaque officier qui revenait de Russie, et deux cents fr.
 à chaque officier supérieur.
 Là, cinquante hommes se trouvaient réunis.
-Cette mesure était nécessaire pour compléter le blocus continental; mais elle indigna tous les habitants.
+Cette mesure était nécessaire pour compléter le blocus continental ; mais elle indigna tous les habitants.
 Leur fierté en fut blessée.
 Le blocus continental et la confiscation des marchandises anglaises ruinaient le commerce.
 Ces récits causèrent une fermentation générale.
@@ -1206,7 +1205,7 @@ On se disputait l'honneur de loger les officiers et jusqu'aux soldats.
 Le général Carra-Saint-Cyr, retiré à Brème, essaya de prendre sa revanche.
 Nos troupes furent intimidées, la confiance des ennemis et des insurgés s'en augmenta.
 Déjà cette guerre prenait de la part des alliés le caractère d'une guerre de principes.
-Les habitants de Hanovre avaient pris les armes; on préparait contre eux des mesures sévères.
+Les habitants de Hanovre avaient pris les armes ; on préparait contre eux des mesures sévères.
 Les conséquences de cet acte de faiblesse étaient incalculables.
 Un autre général vint à propos en empêcher l'exécution.
 Personne ne convenait mieux à une guerre de cette nature.
@@ -1246,7 +1245,7 @@ La division Dumonceau arrivait en même temps sur notre droite, à Zollenspicker
 À la prise de Hambourg, sa position devint embarrassante.
 Je fus placé en observation à Marbourg, à une lieue de Harbourg sur la gauche.
 Les Anglais occupaient les forts de Cuxhaven, à l'embouchure de l'Elbe.
-Quelques bandes d'insurgés parcouraient les villages; la contrebande s'exerçait impunément; les contributions n'étaient point payées.
+Quelques bandes d'insurgés parcouraient les villages ; la contrebande s'exerçait impunément ; les contributions n'étaient point payées.
 Il fallait mettre un terme à tous ces désordres.
 Le général Vandamme m'en chargea.
 Le premier point était d'occuper Stade, chef-lieu de l'insurrection.
@@ -1256,23 +1255,22 @@ Chaque famille conserva sa provision de sucre et de café pour trois mois.
 Je défendis expressément toute contrebande et même toute communication avec la rive droite de l'Elbe.
 J'en éprouvai pendant toute la route une tristesse inexprimable.
 Elle était adressée au ministre du village, et ses expressions entortillées la rendaient suspecte.
-Le ministre était à l'église; mais je ne pouvais m'arrêter.
-Je le fis mander; il vint avec toute la population.
+Le ministre était à l'église ; mais je ne pouvais m'arrêter.
+Je le fis mander ; il vint avec toute la population.
 Les explications qu'il me donna furent satisfaisantes.
 Il me promit de renoncer à ces correspondances.
-J'appelai les hommes qui le montaient; ils ne prirent le large qu'un peu plus vite.
+J'appelai les hommes qui le montaient ; ils ne prirent le large qu'un peu plus vite.
 C'étaient de pauvres habitants du pays, qui allaient tranquillement à la pêche.
-Je transcris ici cet ordre:  Harbourg, le cinq mai mille huit cent treize.
-Ordonnez de suite que cette ville soit mise à  l'abri d'un coup de main.
-Ordonnez que mille ouvriers y soient requis  et réunis pour demain et après.
- «Faites exécuter ses ordres et appuyez de vos forces toute son  autorité.
-Ils se garderont  militairement tout autour d'eux, et bientôt ils seront renforcés.
-Ils ne  tarderont pas à être informés des succès de l'Empereur.
-Déjà la  crainte et l'agitation règnent chez eux.
- «Établissez pour notre correspondance des relais sous la  responsabilité des magistrats et principaux notables.
- «J'attends tout de votre âge et de votre zèle.
+Je transcris ici cet ordre : Harbourg, le cinq mai mille huit cent treize.
+Ordonnez de suite que cette ville soit mise à l'abri d'un coup de main.
+Ordonnez que mille ouvriers y soient requis et réunis pour demain et après.
+«Faites exécuter ses ordres et appuyez de vos forces toute son autorité.
+Ils se garderont militairement tout autour d'eux, et bientôt ils seront renforcés.
+Ils ne tarderont pas à être informés des succès de l'Empereur.
+Déjà la crainte et l'agitation règnent chez eux.
+«Établissez pour notre correspondance des relais sous la responsabilité des magistrats et principaux notables.
+«J'attends tout de votre âge et de votre zèle.
 Vous répondrez à ma confiance, et je suis tranquille.
- _Signé_: VANDAMME.
 Je suivis ces instructions.
 Un lancier, que la peur troublait sans doute, prétendit qu'il avait vu les Anglais débarqués.
 Le lendemain, l'officier du génie arriva.
@@ -1295,9 +1293,9 @@ J'avais de mauvaises cartes, et les renseignements du pays ne servaient souvent 
 C'est dommage que ce fût une fausse manœuvre et une affaire qui n'aboutît à rien.
 Tous ces contre-temps me firent arriver à Bergsdorf vingt-quatre heures trop tard.
 On voyait parmi eux des enfants de douze à treize ans.
-Nos soldats en eurent pitié: il y eut peu de victimes.
+Nos soldats en eurent pitié : il y eut peu de victimes.
 Pour des alliés un peu douteux, le début n'était pas encourageant.
-La ville était calme; la discipline bien observée.
+La ville était calme ; la discipline bien observée.
 Aussi l'étonnement des habitants égalait-il leur tristesse.
 Le succès justifiait tout.
 J'arrivai donc à Bergsdorf le deux juin.
@@ -1316,7 +1314,7 @@ La division Dumonceau se rendit ensuite à Lubeck.
 Nous fûmes reçus à Lubeck encore plus mal qu'à Hambourg.
 Le prince d'Eckmühl profita du repos de l'armistice pour rétablir l'administration dans le pays.
 On retrouvait toujours en lui l'esprit d'ordre et la rigueur qui faisaient son caractère.
-par mois; pour les généraux de brigade, huit cents fr., et ainsi de suite.
+par mois ; pour les généraux de brigade, huit cents fr., et ainsi de suite.
 Ces indemnités étaient payables tous les cinq jours et d'avance.
 Heureusement, ces mesures ne furent exécutées à Lubeck qu'après notre départ.
 L'Empereur, établi à Dresde pendant l'armistice, termina l'organisation de la Grande Armée.
@@ -1336,10 +1334,10 @@ Il avait de l'instruction, de la capacité, un caractère indépendant et fronde
 Plus tard, il fut envoyé en Italie, où il resta jusqu'en mille huit cent treize.
 Préchamps en riait le premier.
 Locqueneux et Feisthamel, tous deux devenus généraux de brigade, étaient capitaines au dix-septe.
-Je passai deux jours à Dessau; je logeais au palais avec le général Philippon.
+Je passai deux jours à Dessau ; je logeais au palais avec le général Philippon.
 Je logeai au château de Radis, à deux milles de Wittemberg.
 Le maître du château et sa femme étaient de braves gens assez maussades.
-Une jeune nièce leur tenait lieu d'enfant; elle n'avait ni beauté, ni esprit, ni grâce.
+Une jeune nièce leur tenait lieu d'enfant ; elle n'avait ni beauté, ni esprit, ni grâce.
 C'était jouer de malheur, car nous avions souvent rencontré des cantonnements bien différents.
 Bientôt les officiers, les soldats eux-mêmes, semblaient faire partie de la famille de leurs hôtes.
 On sait à quelles vexations étaient exposés les pays que nous occupions.
@@ -1352,11 +1350,11 @@ Nous passions ensuite le reste de la journée ensemble.
 Toute l'armée, toute la société de la ville et des environs s'y trouvaient réunis.
 On s'amusa beaucoup, et néanmoins ce ne fut pas un plaisir sans mélange.
 Ce même jour, dix août, expirait l'armistice.
-Les négociations n'avaient pas réussi; la guerre allait recommencer; nous partions dans deux jours.
+Les négociations n'avaient pas réussi ; la guerre allait recommencer ; nous partions dans deux jours.
 Le douze août, le premier corps commença son mouvement pour se rapprocher de Dresde.
 Les cantonnements avaient à peine duré un mois.
 Je dirai seulement que l'on ne put parvenir à s'entendre.
-Un territoire neutre s'étendait entre les deux armées; la ville de Breslau en faisait partie.
+Un territoire neutre s'étendait entre les deux armées ; la ville de Breslau en faisait partie.
 L'armée coalisée se divisait en armée du Nord, armée de Silésie et armée de Bohême.
 Avant l'accession de l'Autriche, elle réunissait environ trois cent soixante combattants.
 L'armée coalisée nous faisait face dans ces différentes positions.
@@ -1379,7 +1377,7 @@ Cette opération était importante.
 Cependant le prince de Schwartzemberg marchait avec lenteur.
 Napoléon vint de sa personne, le vingt-quatre, à Bautzen, et le vingt-cinq, à Stolpen.
 Le quatorzee corps ne défendait plus les ouvrages que faiblement sur la droite.
-La redoute de Dippodiswalde avait été enlevée; celle de Freyberg allait avoir le même sort.
+La redoute de Dippodiswalde avait été enlevée ; celle de Freyberg allait avoir le même sort.
 Napoléon entra seul à Dresde, et sa présence produisit un effet magique.
 Il alla visiter à pied toute la ligne des palissades.
 Le quatorzee corps le reçut avec acclamation.
@@ -1403,38 +1401,39 @@ Ce fut cependant ce qui arriva.
 Dans la nuit du vingt-sept, Schwartzemberg prit la route de Bohême.
 L'opération était importante.
 J'ai mis en note la composition du premier corps.
-    |neuvième et vingt-huite légers          |deux    --      | six  |    | |Général KREUTZER.
- +--------------------------+-------------+    |    | |                   |vingt-septe de ligne              |deux    --      |    |    | +------------------------------------------------------------+----+----+ |                          Cavalerie légère.
-                        | +------------------------------------------------------------+---------+ |Colonel Rousseau.
+    |neuvième et vingt-huite légers          |deux    ,       | six  |    | |Général KREUTZER.
+ +, , , , , , , , , , , , , +, , , , , , -+    |    | |                   |vingt-septe de ligne              |deux    ,       |    |    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |                          Cavalerie légère.
+                        | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , , , -+ |Colonel Rousseau.
  |troisième de hussards            |deux escadrons.
-                    | +------------------------------------------------------------+---------+ |premier brigade.
+|    |    | |                   +, , , , , , , , , , , , , +, , , , , , -+    | quatre  | |                   |vingt-septe chasseurs             |deux    ,       |    |    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , + |               deux° La brigade du Général Quiot (vingt-troise DIVISION).
+                    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , , , -+ |premier brigade.
       |septième léger                  |quatre bataillons.|    |    | |Général Pouchelon.
-+--------------------------+-------------+ huit  |    | |                   |douzee de ligne              |quatre    --      |    |    | +------------------------------------------------------------+----+----+ |deuxième brigade.
++, , , , , , , , , , , , , +, , , , , , -+ huit  |    | |                   |douzee de ligne              |quatre    ,       |    |    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |deuxième brigade.
        |dix-septe de ligne              |quatre bataillons.|    |    | |Général Fezensac.
- +--------------------------+-------------+ six  |    | |                   |trente-sixe de ligne              |deux    --      |    |    | +------------------------------------------------------------+----+----+ |                   deuxième division.
-                   | +------------------------------------------------------------+----+----+ |premier brigade.
+ +, , , , , , , , , , , , , +, , , , , , -+ six  |    | |                   |trente-sixe de ligne              |deux    ,       |    |    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |                   deuxième division.
+                   | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |premier brigade.
       |treizee léger                 |quatre bataillons.|    |    | |Général Dunesme.
-  +--------------------------+-------------+ huit  |    | |                   |vingt-cinqe de ligne              |quatre    --      |    |    | +------------------------------------------------------------+----+----+ |deuxième brigade.
+  +, , , , , , , , , , , , , +, , , , , , -+ huit  |    | |                   |vingt-cinqe de ligne              |quatre    ,       |    |    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |deuxième brigade.
        |cinquante et une de ligne              |deux bataillons.|    |    | |Général Doucet.
-   +--------------------------+-------------+ six  |    | |                   |cinquante-septe de ligne              |quatre    --      |    |    | +------------------------------------------------------------+----+----+ |                           Cavalerie légère.
-                       | +------------------------------------------------------------+----+----+ |vingt et une brigade.
+   +, , , , , , , , , , , , , +, , , , , , -+ six  |    | |                   |cinquante-septe de ligne              |quatre    ,       |    |    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |                           Cavalerie légère.
+                       | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |vingt et une brigade.
       |neuvième de lanciers français   |quatre escadrons.
 |    |    | |Général Gobrecht.
- +--------------------------+-------------+    | huit  | |                   |Chasseurs d'Anhalt.
-      |quatre    --      |    |    | +------------------------------------------------------------+----+----+ |                  quatre° la brigade du prince de Reuss.
-                  | +------------------------------------------------------------+---------+ |                     (cinquième division.--deuxième corps.)                        | +------------------------------------------------------------+----+----+ |Général Vial.
+ +, , , , , , , , , , , , , +, , , , , , -+    | huit  | |                   |Chasseurs d'Anhalt.
+      |quatre    ,       |    |    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |                  quatre° la brigade du prince de Reuss.
+                  | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , , , -+ |                     (cinquième division., deuxième corps.)                        | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |Général Vial.
      |quarante-sixe de ligne.
-              | +------------------------------------------------------------+----+----+ |Général Montmarie.
+            |trois bataillons.| six  |    | |                   |soixante-douzee de ligne              |trois    ,       |    |    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |           cinq° DIVISION DE CAVALERIE LÉGÈRE (Corbineau).
+              | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |Général Montmarie.
 |premier de lanciers français.
 |quatre escadrons.
 |    | huit  | |                   |troisième de lanciers français.
- |quatre    --      |    |    | +------------------------------------------------------------+----+----+ |Général Heimrodt.
+ |quatre    ,       |    |    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , +, , + |Général Heimrodt.
  |seizee chasseurs.
            |quatre escadrons.
 |    | neuf  | |                   |Chasseurs italiens.
       |cinq escadrons.
-|    |    | +------------------------------------------------------------+----+----+ |Total.
-                                                     | cinquante-deux | vingt-neuf | +------------------------------------------------------------+---------+ Total.
+                                                     | cinquante-deux | vingt-neuf | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , +, , , , -+ Total.
 soixante pièces, plus soixante caissons du parc de réserve.
 La cinquième compagnie du troisième bataillon de sapeurs.
 La septième compagnie du troisième bataillon de sapeurs.
@@ -1448,7 +1447,7 @@ La premier division resta ce jour-là à Langenhennersdorf avec la division Corb
 Ma brigade avait besoin de repos.
 Toutes les colonnes ennemies suivaient les routes de Marienberg, Dippodiswalde, Altenberg, Furstenwald et Peterswalde.
 Ces différentes directions conduisaient à Tœplitz, à travers les montagnes.
-Les chemins étaient affreux; déjà cette retraite ressemblait à une fuite.
+Les chemins étaient affreux ; déjà cette retraite ressemblait à une fuite.
 La présence des souverains augmentait l'inquiétude et la confusion.
 Tout dépendait de la marche des différents corps de notre armée, qui allaient poursuivre l'ennemi.
 Le vingt-huit, le roi de Naples occupa Freyberg à l'extrême droite, et prit plusieurs convois.
@@ -1458,7 +1457,7 @@ Il n'en fallait pas tant pour enflammer un caractère aussi ardent que celui de 
 Il résolut donc de le prévenir et de s'emparer de Gieshübel.
 Gieshübel fut enlevé par le septième léger, après une vive résistance.
 J'envoyai de là le trente-sixe occuper Gottleube.
-Le général Vandamme alla jusqu'à Hellendorf; on fit plusieurs prisonniers.
+Le général Vandamme alla jusqu'à Hellendorf ; on fit plusieurs prisonniers.
 Les jeunes gens se conduisirent à merveille.
 La division Corbineau et la brigade Gobrecht près de Hellendorf.
 La division Philippon à Gieshübel, le trente-sixe occupant Gottleube.
@@ -1474,7 +1473,7 @@ La brigade de Reuss marchait en tête.
 On enleva Peterswalde, où l'on prit huit cents hommes.
 Le prince de Reuss fut tué d'un coup de canon.
 Vandamme, qui ne quittait pas l'avant-garde, reçut son dernier soupir et lui donna des larmes.
-Il n'y avait plus à reculer; nous étions à deux lieues de Tœplitz.
+Il n'y avait plus à reculer ; nous étions à deux lieues de Tœplitz.
 Il était midi.
 Pour la première fois, la brigade de Reuss fut repoussée.
 Vandamme, accoutumé à chasser devant lui l'arrière-garde, crut vaincre facilement cette résistance.
@@ -1484,7 +1483,7 @@ Le douzee régiment, détaché de notre division pour soutenir la quarante-deuxe
 La tête de ma brigade arrivait sur le terrain.
 Le général Philippon m'ordonna d'attaquer avec le premier bataillon du dix-septe.
 Je le conjurai d'attendre au moins le reste de ma brigade.
-Ce que j'avais prévu arriva; le dix-septe ne soutint pas le feu de l'ennemi.
+Ce que j'avais prévu arriva ; le dix-septe ne soutint pas le feu de l'ennemi.
 Ses quatre bataillons, engagés successivement, se retirèrent en désordre.
 Le trente-sixe eut le même sort.
 Déjà la cavalerie russe, faiblement contenue par la nôtre, se déployait dans la plaine.
@@ -1508,12 +1507,12 @@ On avait formé la premier division en échelons, par bataillon, à d'assez gran
 Les brigades Quiot et Reuss firent volte-face pour attaquer Kleist.
 J'eus l'ordre de les appuyer.
 Je me trouvais alors avec le trente-sixe que je ne voulais pas quitter.
-L'attaque devenait plus vive; déjà la droite de la division commençait à plier.
-J'envoyai chercher le dix-septe; il ne vint pas.
+L'attaque devenait plus vive ; déjà la droite de la division commençait à plier.
+J'envoyai chercher le dix-septe ; il ne vint pas.
 Le trente-sixe était si affaibli que j'avais réuni les deux bataillons en un seul.
 À cette époque il n'y avait que six compagnies par bataillon.
-Un soldat conduisait un cheval en main; je le lui pris.
-On voyait de loin des troupes sur la hauteur; cela nous causa quelque inquiétude.
+Un soldat conduisait un cheval en main ; je le lui pris.
+On voyait de loin des troupes sur la hauteur ; cela nous causa quelque inquiétude.
 Je me trouvais ainsi réuni à ce qui restait de ma brigade.
 Les pertes du premier corps furent immenses.
 Nous arrivâmes à Liebenau en ne possédant que ce que nous avions sur le corps.
@@ -1531,7 +1530,7 @@ Quant au maréchal Gouvion Saint-Cyr, sa conduite mérite de grands reproches.
 Cette route conduisait également à Tœplitz.
 Il le poursuivit, mais fort lentement.
 Mais la faute la plus impardonnable fut celle du général Vandamme.
-Vandamme ne voulut rien entendre; son obstination causa sa perte et la nôtre.
+Vandamme ne voulut rien entendre ; son obstination causa sa perte et la nôtre.
 Plusieurs hommes isolés nous rejoignirent.
 Le général Pouchelon, blessé le vingt-neuf, s'était rendu directement à Dresde et ne reparut plus.
 Il suivit donc la premier brigade et fut entraîné avec elle dans la déroute générale.
@@ -1543,12 +1542,12 @@ Le major Fantin des Odoarts, excellent officier, le remplaça comme colonel du v
 Monsieur Locqueneux, capitaine au dix-septe, passa chef de bataillon dans son régiment.
 Il ne nous restait plus rien, et la plupart des officiers manquaient d'argent.
 Je ne trouvai partout que découragement et tristesse.
-Macdonald voulut l'attaquer dans cette position; mais Blücher, de son côté, avait pris l'offensive.
+Macdonald voulut l'attaquer dans cette position ; mais Blücher, de son côté, avait pris l'offensive.
 Macdonald fut obligé de changer ses dispositions.
 Sur l'autre rive, le cinquième corps fit sa retraite par Golberg en abandonnant son artillerie.
 La division Puthod de ce corps d'armée fut prise après s'être vaillamment défendue.
 Macdonald se retira à Gorlitz, derrière la Neisse.
-La pluie tombait sans discontinuer; les torrents étaient grossis, les gués impraticables.
+La pluie tombait sans discontinuer ; les torrents étaient grossis, les gués impraticables.
 Cet accident fut une des principales causes du désastre de l'armée de Silésie.
 Il avait environ soixante-cinq hommes, et le prince royal de Suède quatre-vingt-dix.
 Le dix-huit août, l'armée française était réunie à Dahne, route de Torgau à Berlin.
@@ -1585,8 +1584,8 @@ L'effet moral fut plus déplorable encore.
 Arrêtons-nous ici un moment pour rechercher les causes de tant de désastres.
 Se retirer devant lui, attaquer ses lieutenants en son absence, était leur seule tactique.
 On dit que Moreau et Jomini leur avaient donné ce conseil.
-Napoléon partit pour Dresde; Blücher prit l'offensive et gagna la bataille de la Katzbach.
-Napoléon reparut; Blücher se retira encore derrière la Queisse.
+Napoléon partit pour Dresde ; Blücher prit l'offensive et gagna la bataille de la Katzbach.
+Napoléon reparut ; Blücher se retira encore derrière la Queisse.
 Schwartzemberg se conduisit de même.
 Il marcha sur Dresde à la fin d'août, croyant Napoléon occupé en Silésie.
 Plusieurs avaient acquis des richesses et de hautes positions qu'ils regrettaient de compromettre.
@@ -1600,7 +1599,7 @@ Je suis prêt à verser tout mon sang, mais je désire que ce soit utilement.
 Déjà à Wagram, Napoléon se plaignait de ne plus avoir les soldats d'Austerlitz.
 Assurément, à cette époque, nous n'avions pas les soldats de Wagram.
 Il y eut sans doute des moments d'élan, de beaux traits de bravoure.
-On ne peut tenir les soldats dans les camps; la faim les chasse au loin.
+On ne peut tenir les soldats dans les camps ; la faim les chasse au loin.
 C'était à la fois un affaiblissement numérique et un motif de découragement pour nos soldats.
 Par toutes ces causes, la désorganisation de la Grande Armée faisait de rapides progrès.
 Cet emploi convenait à sa téméraire valeur.
@@ -1617,13 +1616,13 @@ Ce résultat ne se fit pas longtemps attendre.
 Les officiers, les généraux eux-mêmes furent entraînés dans cette déroute.
 Heureusement l'ennemi, qui n'avait pas de cavalerie, ne nous poursuivit pas très-vivement.
 On perdit peu de monde, et proportionnellement plus d'officiers que de soldats.
-Le dix-septe eut trois officiers tués, trois blessés; le trente-sixe deux officiers de tués.
+Le dix-septe eut trois officiers tués, trois blessés ; le trente-sixe deux officiers de tués.
 Le général Philippon paya pour tout le monde, comme on va le voir.
 Le soir, tout le corps d'armée reprit position sur les hauteurs de Gieshübel.
 Le quatorzee corps se retira également à Liebstadt.
 Le premier corps, formant l'avant-garde de la garde impériale, suivit la route de Peterswalde.
 L'ennemi se retira, et nous campâmes à Hellendorf.
-Cette sévérité frappa beaucoup les officiers et même les soldats; peut-être était-elle trop rigoureuse.
+Cette sévérité frappa beaucoup les officiers et même les soldats ; peut-être était-elle trop rigoureuse.
 Le général Cassagne arriva en même temps pour le remplacer.
 L'Empereur, placé sur les hauteurs de Nollendorf, observait et dirigeait ce mouvement.
 Cela voulait dire seulement qu'il savait que j'étais là et qu'il pensait à moi.
@@ -1649,7 +1648,7 @@ Le colonel Susbielle du dix-septe me secondait.
 J'étais assez content des chefs de bataillon, surtout de Monsieur Locqueneux, nouvellement nommé.
 Il savait par expérience que tout allait mal en son absence.
 Ainsi Napoléon allait être enveloppé par trois armées ennemies.
-L'armée de Bohême marcha lentement; le cinq octobre elle occupait Zwickau et Chemnitz.
+L'armée de Bohême marcha lentement ; le cinq octobre elle occupait Zwickau et Chemnitz.
 Blücher était à Düben et le prince de Suède à Dessau.
 On assure que Napoléon forma alors le projet d'une contre-marche bien hardie.
 L'armée alliée se serait trouvée placée entre nous et la frontière du Rhin.
@@ -1669,7 +1668,7 @@ Je n'ai connu que le maréchal Davout qui fît exception à cette règle.
 Pendant cette campagne, nous ne l'avons pas vu une fois.
 Il ne montait pas à cheval, ne se présentait point aux troupes, ne recevait personne.
 Le comte de Lobau ne lui ressemblait guère.
-Ce n'est pas qu'il fût d'un caractère aimable; ses manières étaient brusques, son écorce rude.
+Ce n'est pas qu'il fût d'un caractère aimable ; ses manières étaient brusques, son écorce rude.
 Mais du moins on le voyait toujours à cheval à la tête des troupes.
 Il était ardent, un peu irascible, d'un esprit juste, d'un caractère ferme et droit.
 Deux pareils généraux n'étaient pas faits pour s'entendre.
@@ -1686,7 +1685,7 @@ D'ailleurs, l'ennemi construisait des redoutes devant Racknitz, et il était imp
 J'en attendais le résultat avec une impatience qui n'était pas exempte d'inquiétude.
 Je réunis les officiers supérieurs de ma brigade, qui seuls étaient dans le secret.
 L'attaque fut vive et couronnée de succès.
-Les tirailleurs ennemis voulurent défendre Zchernitz; on incendia le village pour les en chasser.
+Les tirailleurs ennemis voulurent défendre Zchernitz ; on incendia le village pour les en chasser.
 Les Russes ne purent résister à la vigueur et à l'ensemble de nos trois attaques.
 Il contribua beaucoup au succès de cette journée.
 Le général Tolstoy se retira dans la direction de Gieshübel.
@@ -1695,11 +1694,11 @@ Le vingt-quatre, nous continuâmes notre retraite jusqu'à Racknitz, Zchernitz e
 Nous menions à Dresde une vie fort triste.
 Je ne voulus m'en permettre aucune.
 La garde des faubourgs et des redoutes qui leur servaient d'avant-postes nous était confiée.
-Une attaque de vive force était peu vraisemblable; cependant nous ne devions rien négliger.
-Il est permis à la guerre d'être vaincu; il n'est jamais permis d'être surpris.
+Une attaque de vive force était peu vraisemblable ; cependant nous ne devions rien négliger.
+Il est permis à la guerre d'être vaincu ; il n'est jamais permis d'être surpris.
 Il annonçait hautement l'intention de ne point nous attaquer.
 Aujourd'hui, la Grande Armée avait quitté l'Allemagne, et nous n'attendions plus de secours.
-Prolonger la défense était impossible; il fallait choisir entre la sortie ou la capitulation.
+Prolonger la défense était impossible ; il fallait choisir entre la sortie ou la capitulation.
 Les opinions furent partagées.
 Ils avaient l'espoir de réussir.
 Nous comptions près de vingt-cinq hommes et beaucoup d'artillerie.
@@ -1717,18 +1716,18 @@ Sortir tous ensemble ou capituler tous ensemble, il n'y avait pas d'autre parti 
 Aussi nous entreprenions cette expédition fort à contre-cœur, mais il n'en fallait pas moins obéir.
 L'avant-garde ennemie opposa de la résistance, et nos soldats montraient quelque hésitation.
 Nous les enlevâmes au pas de charge, au milieu d'une grêle de balles.
-L'ennemi fut renversé; une vive fusillade s'établit dans le bois que traverse la route.
+L'ennemi fut renversé ; une vive fusillade s'établit dans le bois que traverse la route.
 Ce fut là notre dernier effort, l'hommage suprême rendu à l'honneur de nos armes.
 Nous n'avions de ressource que dans la capitulation, et la nécessité en faisait un devoir.
 J'ai appris plus tard que le maréchal Saint-Cyr avait eu l'idée de m'en charger.
 Rien au monde ne m'eût été plus pénible que d'avoir à traiter d'une capitulation.
-Elle fut bientôt conclue; on était de part et d'autre pressé d'en finir.
+Elle fut bientôt conclue ; on était de part et d'autre pressé d'en finir.
 La quatorzee avait été moins maltraitée.
 Assurément les deux brigades de cavalerie légère ne s'élevaient pas à un hommes.
 Il y a loin de ce chiffre à celui de trente-trois.
 Les officiers conservaient leurs armes, leurs chevaux et leurs propriétés particulières.
 Je n'ai jamais approuvé ces escamotages.
-Quelle triste journée! Pour la première fois nous mettions bas les armes.
+Quelle triste journée ! Pour la première fois nous mettions bas les armes.
 Le général en chef ne parut point.
 Un général de brigade fut chargé de recevoir les armes et de surveiller le départ.
 Il n'y eut aucune pompe, point de tambours, point de musique, point de défilé.
@@ -1737,7 +1736,7 @@ La marche se fit avec ordre, escortée par quelques détachements d'infanterie a
 Nous arrivâmes à Altenbourg le dix-sept novembre, après six jours de marche.
 La dernière colonne avait quitté Dresde le matin.
 Il suspendit la marche des colonnes, en attendant des ordres.
-Bientôt une nouvelle étrange circula; personne ne voulait y croire.
+Bientôt une nouvelle étrange circula ; personne ne voulait y croire.
 Le prince de Schwartzenberg refusait de ratifier la capitulation et nous déclarait prisonniers de guerre.
 Le maréchal répondit que cette proposition était dérisoire.
 Pendant cette négociation nous restâmes en cantonnement dans les environs d'Altenbourg et de Géra.
@@ -1758,7 +1757,7 @@ Toutes deux ne rêvaient déjà que Restauration.
 Ce n'est point du temps perdu que celui qu'on passe avec des prisonniers de guerre.
 On assigna autour de Presbourg des cantonnements aux officiers du premier corps.
 J'avais toujours mon aide de camp Chabrand, un cuisinier et un valet de chambre.
-Cela faisait six personnes à nourrir; c'est beaucoup pour un prisonnier de guerre.
+Cela faisait six personnes à nourrir ; c'est beaucoup pour un prisonnier de guerre.
 Heureusement que tout était bon marché en Hongrie.
 C'était un fort bon homme, aimable, obligeant.
 Il avait à cette époque près de soixante ans.
@@ -1778,17 +1777,18 @@ Des princes, proscrits depuis vingt-cinq ans, reparaissaient sur le sol de la Fr
 Le baron de Braunecker me donna au moins des détails rassurants.
 Mais je demandais qu'ils se conformassent franchement et complétement aux idées de notre siècle.
 Point de cocarde blanche, point de réminiscence de l'ancien régime.
-Le roi de Rome partait avec sa mère; la France reconnaissait le nouveau gouvernement.
+Le roi de Rome partait avec sa mère ; la France reconnaissait le nouveau gouvernement.
 Les Bourbons ne méritaient pas tous les reproches de leurs ennemis.
 L'ordre pour la rentrée des troupes arriva.
 Le comte de Palfy, que j'avais connu à Paris, me donna l'hospitalité.
 Je traversai sans presque m'arrêter Munich, Ulm, Strasbourg, la France aujourd'hui conquise et asservie.
 Mes yeux se détournaient quand ils rencontraient un uniforme étranger.
 Je conservais ma cocarde tricolore, symbole des sentiments que je renfermais dans mon cœur.
-J'arrivai ainsi à Paris au mois de mai; je retrouvai ma famille.
+J'arrivai ainsi à Paris au mois de mai ; je retrouvai ma famille.
 Alors, et seulement alors, je pris sérieusement mon parti.
    |            |     | deux   | |cavalerie   |Gobrecht    |légers      |            |     |     | |légère      |            |Chass.
 du train       |bataillon  | |d'artillerie|deux compagnies de sapeurs               |           | |            |deux compagnies d'équipages milit.
+      |           | +, , , , , , +, , , , , , +, , , , , , +, , , , , , +, , -+, , -+ +, , , , , , , , -+, , , , , , , , , , , -+, , , , , -+, , , , , + +, , , , , , , , -+, , , , , , , , , , , -+, , , , , -+, , , , , + |                            premier CORPS                           | |                 |                       |           |          | |   premier.
          |  PHILIPPON            |           |          | |   deuxième.
           |  DUMONCEAU            |           |          | |   troisième.
           |  TESTE                |   dix-sept  |  un   | |Brigade de       |  GOBRECHT             |           |          | |cavalerie légère.|                       |           |          | |                 |                       |           |          | |                           deuxième CORPS                             | |                 |                       |           |          | |   quatrième.
@@ -1831,63 +1831,60 @@ du train       |bataillon  | |d'artillerie|deux compagnies de sapeurs           
                  | |                APRÈS LA DISSOLUTION DU quarante-deuxe CORPS.
             | |                                                               | |                 |Pactrod                     |                | |                 |Decoux                      |  onze virgule quatre        | |                                                               | |                     JEUNE GARDE (deuxième CORPS).
       |Chastel                     | premier  | douze  | |Division de      |Bordesoulle                 |      |         | |cuirassiers.
-      |Doumergue                   |      |         | +-----------------+----------------------------+------+---------+ Nota.
+      |Doumergue                   |      |         | +, , , , , , , , -+, , , , , , , , , , , , , , +, , , +, , , , -+ Nota.
 Les corps de cavalerie n'avaient que de l'artillerie à cheval, sans équipages ni sapeurs.
 Le total, pour l'infanterie, est de      deux cent soixante virgule trois hommes.
 Itinéraire du premier corps de la Grande Armée.
    Réunion du corps d'armée à Dresde.
---      Marche en Silésie.--Stolpen.
---      premier division à Neustadt.--Quartier général à Lobendau.
-vingt et jours  premier division à Georgenthal.--deuxième division à suiv.
-       Zittau.--Quartier général à Rumburg.
-trente   --      Bataille de Kulm.--Bivouac à Liebenau.
-trente et un   --      Bivouac à Liebenau.
+Marche en Silésie., Stolpen.
+premier division à Neustadt., Quartier général à Lobendau.
+vingt et jours  premier division à Georgenthal., deuxième division à suiv.
+       Zittau., Quartier général à Rumburg.
+trente   ,       Bataille de Kulm., Bivouac à Liebenau.
+trente et un   ,       Bivouac à Liebenau.
 premier sept, et suiv.
-sept    --      Revue de l'Empereur à Dresde.
-huit    --      Marche sur la Bohême.--Menscha, près Dohna.
-neuf    --      Bernersdorf.
-dix   --      Furstenwald.
-onze   --      Séjour pour la premier division.--La deuxième division à Peterswald.
-quinze   --      Offensive.--Hellendorf.
-seize   --      Nollendorf.
-dix-sept   --      Tellnitz.
+sept    ,       Revue de l'Empereur à Dresde.
+huit    ,       Marche sur la Bohême., Menscha, près Dohna.
+onze   ,       Séjour pour la premier division., La deuxième division à Peterswald.
+douze   ,       La deuxième division à Nollendorf., La premier à Peterswald., La vingt-troise quatorze   ,       Retraite., Gieshübel.
+quinze   ,       Offensive., Hellendorf.
 dix-neuf et suiv.
 trente et suiv.
- premier division et cavalerie légère à Hellendorf.--vingt-troise sept  octobre.
-neuf    --      Échelonné de Pirna à Dresde.--premier division, Sportwitz.
-dix   --      Seidnitz et Grünewiese.
+ premier division et cavalerie légère à Hellendorf., vingt-troise sept  octobre.
+neuf    ,       Échelonné de Pirna à Dresde., premier division, Sportwitz.
+dix   ,       Seidnitz et Grünewiese.
 onze et jours suiv.
-       Faubourg de Dresde.--premier division, Grossgarten.
+       Faubourg de Dresde., premier division, Grossgarten.
 quatorze et suiv.
-vingt-deux   --      Retraite derrière Lockwitz.--Quartier général, Sobrigen.
-vingt-quatre   --      premier division, Zschecnitz.--deuxième division, Strehlen.
+vingt-deux   ,       Retraite derrière Lockwitz., Quartier général, Sobrigen.
+vingt-quatre   ,       premier division, Zschecnitz., deuxième division, Strehlen.
 vingt-six et jours suiv.
-       Faubourg de Dresde.--deuxième division, Grossgarten.
+       Faubourg de Dresde., deuxième division, Grossgarten.
 trente et jours suiv.
        vingt-troise division, Grossgarten.
- Sortie de Dresde jusqu'auprès de Boxtorf.--On rentre le onze   --      Capitulation de Dresde.
-douze   --      premier colonne à Wilsdruf.
-treize   --      premier colonne à Nossen.
-quatorze   --      premier colonne à Etzdorf.
-quinze   --      premier colonne à Woltheim.
-seize   --      premier colonne à Geringswald.
-dix-sept   --      premier colonne à Gettayn.
-dix-huit   --      premier colonne à Altenbourg.
+ Sortie de Dresde jusqu'auprès de Boxtorf., On rentre le onze   ,       Capitulation de Dresde.
+douze   ,       premier colonne à Wilsdruf.
+treize   ,       premier colonne à Nossen.
+quatorze   ,       premier colonne à Etzdorf.
+quinze   ,       premier colonne à Woltheim.
+seize   ,       premier colonne à Geringswald.
+dix-sept   ,       premier colonne à Gettayn.
+dix-huit   ,       premier colonne à Altenbourg.
 dix-neuf et jours suiv.
 vingt-neuf et suiv.
- Changement de cantonnements.--Géra.
-[un: NOTA.
+ Changement de cantonnements., Géra.
+[un : NOTA.
 Je saisis plutôt l'occasion de raconter à son sujet un événement peut-être sans exemple.
-Il a été gouverneur des pages et ambassadeur en Perse.] [vingt: T.
+Il a été gouverneur des pages et ambassadeur en Perse.] [vingt : T.
 Je ne m'attendais pas à voir ce souhait si promptement exaucé.
 Cet officier est mort d'une manière bien digne de lui.
 Il était difficile et dangereux d'y atteindre.
 Il parlait de distributions de vivres.
 Un général, épuisé de fatigue, était tombé sur la route.
-Excusez, camarade, répondit l'autre, j'ai cru que vous étiez mort; et il passa son chemin.
+Excusez, camarade, répondit l'autre, j'ai cru que vous étiez mort ; et il passa son chemin.
 Quelquefois même une affreuse ironie se joignait à l'égoïsme ou à la cruauté.
-Comment! c'est un officier du génie? dirent-ils en s'arrêtant.
+Comment ! c'est un officier du génie ? dirent-ils en s'arrêtant.
 Oui, mes amis, dit l'officier.
-Eh bien! tire ton plan, reprit l'un des soldats; et ils le laissèrent.
+Eh bien ! tire ton plan, reprit l'un des soldats ; et ils le laissèrent.
 On en perdit donc quatre cent dix.
-(Voir le détail des pertes du quatrième régiment, note B.)] [cinquante-cinq: NOTA
+(Voir le détail des pertes du quatrième régiment, note B.)] [cinquante-cinq : NOTA

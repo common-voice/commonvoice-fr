@@ -1,4 +1,3 @@
-Le roi prit très-grand plaisir à cette invention....
 Le monde est plein de mal, de toute sorte de mal.
 Il a fait Hamlet beau, populaire, généreux, affectueux, tendre même.
 L'événement tout entier est aussi lugubre que la pensée de Hamlet.
@@ -6,104 +5,94 @@ Après cette grande peinture morale, vient la seconde des beautés supérieures 
 Ces défauts abondent dans Hamlet.
 CLAUDIUS, roi de Danemark.
 La scène est à Elseneur.
-Elseneur.--Une plate-forme devant le château.
+Elseneur., Une plate-forme devant le château.
 FRANCISCO montant la garde, BERNARDO vient à lui.
-BERNARDO.--Qui va là? FRANCISCO.--Non, répondez vous-même.
+BERNARDO., Qui va là ? FRANCISCO., Non, répondez vous-même.
 Arrêtez-vous et faites-vous reconnaître.
-BERNARDO.--Vive le roi! FRANCISCO.--Bernardo? BERNARDO.--En personne.
-FRANCISCO.--Vous venez très-soigneusement à votre heure.
-BERNARDO.--Minuit vient de sonner: va regagner ton lit, Francisco.
-FRANCISCO.--Pour cette délivrance, mille grâces.
+BERNARDO., Vive le roi ! FRANCISCO., Bernardo ? BERNARDO., En personne.
+FRANCISCO., Vous venez très-soigneusement à votre heure.
+BERNARDO., Minuit vient de sonner : va regagner ton lit, Francisco.
+FRANCISCO., Pour cette délivrance, mille grâces.
 Le froid est aigre, et j'ai le coeur saisi.
 Si vous rencontrez Horatio et Marcellus, mes compagnons de garde, priez-les de faire hâte.
-MARCELLUS.--Et hommes liges du roi de Danemark.
-FRANCISCO.--Je vous souhaite une bonne nuit.
-BERNARDO.--Soyez le bienvenu, Horatio.
+MARCELLUS., Et hommes liges du roi de Danemark.
+FRANCISCO., Je vous souhaite une bonne nuit.
+BERNARDO., Soyez le bienvenu, Horatio.
 Soyez le bienvenu, bon Marcellus.
-MARCELLUS.--Eh bien! cette chose a-t-elle encore apparu cette nuit? BERNARDO.--Je n'ai rien vu.
-HORATIO.--Bah! bah! elle ne paraîtra pas.
-HORATIO.--Bien! asseyons-nous, et écoutons Bernardo parler de ceci.
-MARCELLUS.--Paix! supprime le reste! regarde, le voici qui revient.
-(L'ombre entre.) BERNARDO.--C'est la même apparence que celle du roi qui est mort.
-MARCELLUS.--Toi qui es un savant, parle-lui, Horatio.
-BERNARDO.--Ne ressemble-t-il pas au roi? Observe-le, Horatio.
-HORATIO.--Tout semblable.
+MARCELLUS., Eh bien ! cette chose a-t-elle encore apparu cette nuit ? BERNARDO., Je n'ai rien vu.
+HORATIO., Bah ! bah ! elle ne paraîtra pas.
+HORATIO., Bien ! asseyons-nous, et écoutons Bernardo parler de ceci.
+(L'ombre entre.) BERNARDO., C'est la même apparence que celle du roi qui est mort.
+MARCELLUS., Toi qui es un savant, parle-lui, Horatio.
+BERNARDO., Ne ressemble-t-il pas au roi ? Observe-le, Horatio.
+HORATIO., Tout semblable.
 Il me bouleverse de peur et d'étonnement.
-BERNARDO.--Il voudrait qu'on lui parlât.
-MARCELLUS.--Parle-lui, Horatio.
-MARCELLUS.--Il est offensé.
-BERNARDO.--Vois, il s'éloigne avec hauteur.
-(L'ombre s'en va.) HORATIO.--Arrête; parle, parle; je te somme de parler.
-MARCELLUS.--Il est parti et ne répondra pas.
-MARCELLUS.--Ne ressemble-t-il pas au roi? HORATIO.--Comme tu te ressembles à toi-même.
-(L'ombre reparaît.) Mais, silence! voyez: le voilà.
+BERNARDO., Il voudrait qu'on lui parlât.
+MARCELLUS., Parle-lui, Horatio.
+MARCELLUS., Il est offensé.
+BERNARDO., Vois, il s'éloigne avec hauteur.
+(L'ombre s'en va.) HORATIO., Arrête ; parle, parle ; je te somme de parler.
+MARCELLUS., Il est parti et ne répondra pas.
+MARCELLUS., Ne ressemble-t-il pas au roi ? HORATIO., Comme tu te ressembles à toi-même.
+(L'ombre reparaît.) Mais, silence ! voyez : le voilà.
 Il revient encore.
 Arrête-toi et parle.
 (Le coq chante.) Arrêtez-le, Marcellus.
-MARCELLUS.--Le frapperai-je de ma pertuisane? HORATIO.--Oui, s'il ne veut pas s'arrêter.
-BERNARDO.--Le voici! HORATIO.--Le voici! (L'ombre s'en va.) MARCELLUS.--Le voilà parti.
-BERNARDO.--Il était au moment de parler, quand le coq a chanté.
-HORATIO.--Et alors il a tressailli comme un être coupable à un terrible appel.
-MARCELLUS.--Il s'est évanoui au cri du coq.
-HORATIO.--Je l'ai ouï dire ainsi, et je le crois en partie.
+MARCELLUS., Le frapperai-je de ma pertuisane ? HORATIO., Oui, s'il ne veut pas s'arrêter.
+BERNARDO., Le voici ! HORATIO., Le voici ! (L'ombre s'en va.) MARCELLUS., Le voilà parti.
+BERNARDO., Il était au moment de parler, quand le coq a chanté.
+HORATIO., Et alors il a tressailli comme un être coupable à un terrible appel.
+MARCELLUS., Il s'est évanoui au cri du coq.
+HORATIO., Je l'ai ouï dire ainsi, et je le crois en partie.
 Une salle de réception dans le château.
 Recevez tous nos remercîments.
 Mais c'est assez parler de lui.
 Adieu, et que votre diligence témoigne de votre dévouement.
-VOLTIMAND.--En cela et en toutes choses, nous montrerons notre dévouement.
-LE ROI.--Nous n'en doutons point.
+VOLTIMAND., En cela et en toutes choses, nous montrerons notre dévouement.
+LE ROI., Nous n'en doutons point.
 Adieu de bon coeur.
 Je vous supplie de lui donner congé de partir.
-Et maintenant, Hamlet, mon cousin, mon fils...
-HAMLET.--Oui, madame, c'est le sort commun.
+HAMLET., Oui, madame, c'est le sort commun.
 Sembler et moi, nous ne nous connaissons pas.
-HAMLET.--Je vous obéirai de mon mieux en tout, madame.
-LE ROI.--Bien, voilà une tendre et bonne réponse.
-Que les choses en soient venues là! Mort depuis deux mois seulement...
-non, moins encore, il n'y a pas deux mois...
-Un si excellent roi! qui était à celui-ci ce qu'Apollon est à un satyre...
-et pourtant, en un mois...
-Ne pensons pas à cela.
-Mais brise-toi, mon coeur; car je dois retenir ma langue.
-(Horatio, Marcellus et Bernardo entrent.) HORATIO.--Salut à votre seigneurie.
-HAMLET.--Je suis charmé de vous voir en bonne santé.
-Horatio, n'est-ce pas?...
-ou je ne sais plus qui je suis moi-même.
-HORATIO.--Lui-même, monseigneur, et votre très-humble serviteur pour toujours.
-HAMLET.--Dites mon bon ami, monsieur; je veux échanger ce nom avec vous.
-Et quel motif vous ramène de Wittenberg, Horatio?--Marcellus? MARCELLUS.--Mon bon seigneur...
-HAMLET.--Je suis charmé de vous voir.
+HAMLET., Je vous obéirai de mon mieux en tout, madame.
+LE ROI., Bien, voilà une tendre et bonne réponse.
+Mais brise-toi, mon coeur ; car je dois retenir ma langue.
+(Horatio, Marcellus et Bernardo entrent.) HORATIO., Salut à votre seigneurie.
+HAMLET., Je suis charmé de vous voir en bonne santé.
+Horatio, n'est-ce pas ? … ou je ne sais plus qui je suis moi-même.
+HORATIO., Lui-même, monseigneur, et votre très-humble serviteur pour toujours.
+HAMLET., Dites mon bon ami, monsieur ; je veux échanger ce nom avec vous.
 Je sais bien que vous n'êtes pas un vagabond.
-HORATIO.--Mon seigneur, j'étais venu pour voir les funérailles de votre père.
-HORATIO.--Il est vrai, mon seigneur, qu'elles ont suivi de bien près.
-HORATIO.--Je l'ai vu autrefois; c'était un roi parfait.
-HORATIO.--Mon seigneur, je crois l'avoir vu durant la nuit d'hier.
-HAMLET.--Vu! Qui? HORATIO.--Mon seigneur, le roi votre père.
-HAMLET.--Pour l'amour de Dieu, fais-toi entendre.
-J'ai reconnu votre père; ces deux mains ne sont pas plus semblables.
-HAMLET.--Ne lui avez-vous point parlé? HORATIO.--Mon seigneur, c'est ce que j'ai fait.
-HAMLET.--Cela est fort étrange.
-HAMLET.--En vérité, en vérité, messieurs, cela me trouble.
-Montez-vous la garde ce soir? TOUS.--Oui, mon seigneur.
-HAMLET.--Armé, dites-vous? TOUS.--Armé, mon seigneur.
-HAMLET.--De la tête aux pieds? TOUS.--Mon seigneur, de pied en cap.
-HAMLET.--Alors, vous n'avez pas vu son visage.
-HORATIO.--Oh! si, mon seigneur; sa visière était levée.
-HAMLET.--Pâle ou rouge? HORATIO.--Non, très-pâle.
-HAMLET.--Et il fixait les yeux sur vous? HORATIO.--Constamment.
-HAMLET.--Je voudrais avoir été là.
-HORATIO.--Cela vous aurait fortement frappé.
-HAMLET.--Sans doute, sans doute.
-HORATIO.--Je le garantis, il paraîtra.
-Je récompenserai votre affection! Ainsi, adieu.
+HORATIO., Mon seigneur, j'étais venu pour voir les funérailles de votre père.
+HORATIO., Il est vrai, mon seigneur, qu'elles ont suivi de bien près.
+HORATIO., Je l'ai vu autrefois ; c'était un roi parfait.
+HORATIO., Mon seigneur, je crois l'avoir vu durant la nuit d'hier.
+HAMLET., Vu ! Qui ? HORATIO., Mon seigneur, le roi votre père.
+HAMLET., Pour l'amour de Dieu, fais-toi entendre.
+J'ai reconnu votre père ; ces deux mains ne sont pas plus semblables.
+HAMLET., Ne lui avez-vous point parlé ? HORATIO., Mon seigneur, c'est ce que j'ai fait.
+HAMLET., Cela est fort étrange.
+HAMLET., En vérité, en vérité, messieurs, cela me trouble.
+Montez-vous la garde ce soir ? TOUS., Oui, mon seigneur.
+HAMLET., Armé, dites-vous ? TOUS., Armé, mon seigneur.
+HAMLET., De la tête aux pieds ? TOUS., Mon seigneur, de pied en cap.
+HAMLET., Alors, vous n'avez pas vu son visage.
+HORATIO., Oh ! si, mon seigneur ; sa visière était levée.
+HAMLET., Pâle ou rouge ? HORATIO., Non, très-pâle.
+HAMLET., Et il fixait les yeux sur vous ? HORATIO., Constamment.
+HAMLET., Je voudrais avoir été là.
+HORATIO., Cela vous aurait fortement frappé.
+HAMLET., Sans doute, sans doute.
+HORATIO., Je le garantis, il paraîtra.
+Je récompenserai votre affection ! Ainsi, adieu.
 Sur la plate-forme, entre onze heures et minuit, j'irai vous trouver.
-TOUS.--Nos respects à votre seigneurie.
-HAMLET.--Non, votre affection, comme la mienne est à vous.
+TOUS., Nos respects à votre seigneurie.
+HAMLET., Non, votre affection, comme la mienne est à vous.
 Je soupçonne quelque mauvais mystère.
 (Il sort.) Un appartement dans la maison de Polonius.
 LAERTES ET OPHÉLIA entrent.
-OPHÉLIA.--Je conserverai l'impression de cette leçon salutaire, comme un gardien pour mon coeur.
-LAERTES.--Oh! ne craignez pas pour moi.
+OPHÉLIA., Je conserverai l'impression de cette leçon salutaire, comme un gardien pour mon coeur.
+LAERTES., Oh ! ne craignez pas pour moi.
 Je m'arrête trop longtemps.
 Mais voici venir mon père.
 (Polonius entre.) Une double bénédiction est une double faveur.
@@ -111,127 +100,106 @@ L'occasion me rit pour un second adieu.
 Sois familier, mais jamais banal.
 Prête l'oreille à tous, mais ne livre tes paroles qu'à peu de gens.
 Recueille l'opinion de chacun, mais réserve ton jugement.
-LAERTES.--Je prends humblement congé de vous, mon seigneur.
-POLONIUS.--L'heure vous réclame.
+LAERTES., Je prends humblement congé de vous, mon seigneur.
+POLONIUS., L'heure vous réclame.
 Allez, vos serviteurs vous attendent.
-LAERTES.--Adieu, Ophélia, et souvenez-vous bien de ce que je vous ai dit.
-OPHÉLIA.--Cela est enfermé en ma mémoire, et vous en garderez vous-même la clef.
-POLONIUS.--Certes, c'est fort à propos.
-Qu'y a-t-il entre vous? confiez-moi la vérité.
-OPHÉLIA.--Il m'a dernièrement, mon seigneur, fait beaucoup d'offres de son affection.
-POLONIUS.--Eh bien! je vais vous l'apprendre.
-OPHÉLIA.--Mon seigneur, il m'a importunée de son amour, mais d'une manière honorable.
-POLONIUS.--Ah! oui.
-Vous pouvez appeler cela de belles manières!...
+LAERTES., Adieu, Ophélia, et souvenez-vous bien de ce que je vous ai dit.
+OPHÉLIA., Cela est enfermé en ma mémoire, et vous en garderez vous-même la clef.
+POLONIUS., Certes, c'est fort à propos.
+Qu'y a-t-il entre vous ? confiez-moi la vérité.
+OPHÉLIA., Il m'a dernièrement, mon seigneur, fait beaucoup d'offres de son affection.
+POLONIUS., Eh bien ! je vais vous l'apprendre.
+OPHÉLIA., Mon seigneur, il m'a importunée de son amour, mais d'une manière honorable.
+POLONIUS., Ah ! oui.
 Vous ne devez pas les prendre pour du feu.
-OPHÉLIA.--J'obéirai, mon seigneur.
+OPHÉLIA., J'obéirai, mon seigneur.
 (Ils sortent.) La plate-forme.
 HAMLET, HORATIO ET MARCELLUS entrent.
-HAMLET.--L'air est subtil et mordant; il fait très-froid.
-HORATIO.--Oui, c'est un air aigre et qui pique.
-MARCELLUS.--Non, il est sonné.
-HORATIO.--Vraiment? je ne l'ai pas entendu.
+HAMLET., L'air est subtil et mordant ; il fait très-froid.
+HORATIO., Oui, c'est un air aigre et qui pique.
+MARCELLUS., Non, il est sonné.
+HORATIO., Vraiment ? je ne l'ai pas entendu.
 Alors, le moment approche, où l'esprit a l'habitude de se promener.
-HORATIO.--Est-ce la coutume? HAMLET.--Oui, ma foi! c'est la coutume.
-(Le fantôme entre.) HORATIO.--Regardez, mon seigneur, il vient.
+HORATIO., Est-ce la coutume ? HAMLET., Oui, ma foi ! c'est la coutume.
+(Le fantôme entre.) HORATIO., Regardez, mon seigneur, il vient.
 Mais n'allez pas avec lui.
-HORATIO.--Non, certes, en aucune façon.
-HAMLET.--Il ne veut point parler ici; je veux le suivre.
-HORATIO.--N'en faites rien, mon seigneur.
-HAMLET.--Il me fait signe encore.--Marche, je te suivrai.
-MARCELLUS.--Vous n'irez point, mon seigneur.
-HAMLET.--Lâchez-moi donc.
-HORATIO.--Soyez raisonnable, n'y allez pas.
-(Le fantôme fait un signe.) Il m'appelle encore; lâchez-moi, messieurs.
-Je l'ai dit...--Allons...
-je te suivrai.
-MARCELLUS.--Suivons-le; il ne convient pas que nous lui obéissions ainsi.
-HORATIO.--Oui, marchons.
-HORATIO.--Le ciel en décidera.
-MARCELLUS.--Eh bien! suivons-le.
+HORATIO., Non, certes, en aucune façon.
+HAMLET., Il ne veut point parler ici ; je veux le suivre.
+HORATIO., N'en faites rien, mon seigneur.
+HAMLET., Il me fait signe encore., Marche, je te suivrai.
+MARCELLUS., Vous n'irez point, mon seigneur.
+HAMLET., Lâchez-moi donc.
+HORATIO., Soyez raisonnable, n'y allez pas.
+(Le fantôme fait un signe.) Il m'appelle encore ; lâchez-moi, messieurs.
+MARCELLUS., Suivons-le ; il ne convient pas que nous lui obéissions ainsi.
+HORATIO., Oui, marchons.
+HORATIO., Le ciel en décidera.
+MARCELLUS., Eh bien ! suivons-le.
 (Ils sortent.) Un endroit plus écarté de la plate-forme.
 LE FANTOME ET HAMLET entrent.
-HAMLET.--Où veux-tu me conduire? Parle, je n'irai pas plus loin.
-LE FANTOME.--Écoute-moi.
-HAMLET.--Je le veux.
-HAMLET.--Parle, je suis tenu d'écouter.
-LE FANTOME.--Et de venger aussi, quand tu auras entendu.
-oh! écoute!...
-si tu as jamais aimé ton tendre père...
-HAMLET.--O ciel! LE FANTOME.--Venge-le d'un meurtre affreux et dénaturé.
-Mais doucement! Je crois sentir l'air du matin! abrégeons.
+HAMLET., Où veux-tu me conduire ? Parle, je n'irai pas plus loin.
+LE FANTOME., Écoute-moi.
+HAMLET., Je le veux.
+HAMLET., Parle, je suis tenu d'écouter.
+LE FANTOME., Et de venger aussi, quand tu auras entendu.
+Mais doucement ! Je crois sentir l'air du matin ! abrégeons.
 Adieu, adieu, adieu, souviens-toi de moi.
-Et maintenant, à mon mot d'ordre! C'est: «Adieu, adieu, souviens-toi de moi.» Je l'ai juré.
-HAMLET.--Non; vous les révélerez.
-HORATIO.--Pas moi, mon seigneur; par le ciel! MARCELLUS.--Ni moi, mon seigneur.
-HAMLET.--Qu'en dites-vous donc? Un coeur d'homme eût-il pu le croire?...
-qui ne soit un fieffé coquin.
-HORATIO.--Ce ne sont que paroles d'égarement et de vertige, mon seigneur.
-HAMLET.--Je suis fâché qu'elles vous offensent; sincèrement; oui, ma foi, sincèrement.
-HORATIO.--Il n'y a point là d'offense, mon seigneur.
+Et maintenant, à mon mot d'ordre ! C'est : «Adieu, adieu, souviens-toi de moi.» Je l'ai juré.
+HAMLET., Non ; vous les révélerez.
+HORATIO., Pas moi, mon seigneur ; par le ciel ! MARCELLUS., Ni moi, mon seigneur.
+HORATIO., Ce ne sont que paroles d'égarement et de vertige, mon seigneur.
+HAMLET., Je suis fâché qu'elles vous offensent ; sincèrement ; oui, ma foi, sincèrement.
+HORATIO., Il n'y a point là d'offense, mon seigneur.
 Et maintenant, mes bons amis, comme camarades, compagnons d'armes et amis, accordez-moi une pauvre faveur.
-HORATIO.--Qu'est-ce, mon seigneur? Nous le ferons.
-HAMLET.--Ne faites jamais connaître ce que vous avez vu cette nuit.
-HORATIO et MARCELLUS.--Mon seigneur, nous n'en dirons rien.
-HAMLET.--Bien, mais jurez-le.
-HORATIO.--Sur ma foi, monseigneur, ce ne sera pas moi.
-MARCELLUS.--Ni moi, mon seigneur, sur ma foi.
-HAMLET.--Sur mon épée.
-MARCELLUS.--Nous avons déjà juré, mon seigneur.
-HAMLET,--N'importe, sur mon épée; n'importe.
-HORATIO.--Dites la formule du serment, mon seigneur.
-HAMLET.--Ne parlez jamais de ce que vous avez vu ici.
+HORATIO., Qu'est-ce, mon seigneur ? Nous le ferons.
+HAMLET., Ne faites jamais connaître ce que vous avez vu cette nuit.
+HORATIO et MARCELLUS., Mon seigneur, nous n'en dirons rien.
+HAMLET., Bien, mais jurez-le.
+HORATIO., Sur ma foi, monseigneur, ce ne sera pas moi.
+MARCELLUS., Ni moi, mon seigneur, sur ma foi.
+HAMLET., Sur mon épée.
+MARCELLUS., Nous avons déjà juré, mon seigneur.
+HAMLET,, N'importe, sur mon épée ; n'importe.
+HORATIO., Dites la formule du serment, mon seigneur.
+HAMLET., Ne parlez jamais de ce que vous avez vu ici.
 Jurez par mon épée.
-LE FANTOME, sous la terre.--Jurez! HAMLET.--Hic et ubique? Changeons donc de place.
+LE FANTOME, sous la terre., Jurez ! HAMLET., Hic et ubique ? Changeons donc de place.
 Venez ici, messieurs, et replacez vos mains sur mon épée.
-Peux-tu travailler si vite sous terre? Un précieux mineur!...
-Allons encore plus loin, mes bons amis.
-Jurez vous cela?...
-Allons-nous en ensemble; et toujours le doigt sur les lèvres, je vous prie.
+Allons-nous en ensemble ; et toujours le doigt sur les lèvres, je vous prie.
 Notre siècle est en désarroi.
 (Ils sortent.) Une chambre dans la maison de Polonius.
 POLONIUS ET REYNALDO entrent.
-POLONIUS.--Donnez-lui cet argent et ces lettres, Reynaldo.
-REYNALDO.--Ainsi ferai-je, mon seigneur.
-REYNALDO.--Mon seigneur, j'étais dans cette intention.
-POLONIUS.--Bien dit, ma foi, très-bien dit.
+POLONIUS., Donnez-lui cet argent et ces lettres, Reynaldo.
+REYNALDO., Ainsi ferai-je, mon seigneur.
+REYNALDO., Mon seigneur, j'étais dans cette intention.
+POLONIUS., Bien dit, ma foi, très-bien dit.
 Suivez ceci, monsieur.
 Présentez-vous, par exemple, comme ayant de lui quelque lointaine connaissance.
-POLONIUS.--«Et lui, un peu...
-mais,» pourrez-vous ajouter, «pas très-bien.
-Ah ça! pourtant, rien d'assez bas pour le déshonorer.
+POLONIUS., «Et lui, un peu … mais,» pourrez-vous ajouter, «pas très-bien.
+Ah ça ! pourtant, rien d'assez bas pour le déshonorer.
 Prenez garde à cela, monsieur.
-REYNALDO.--Comme de jouer, mon seigneur.
-vous pouvez aller jusque-là.
-REYNALDO.--Mon seigneur, cela le déshonorerait.
-POLONIUS.--Ma foi, non, si vous savez, tout en l'accusant, tempérer la chose.
-REYNALDO.--Mais, mon bon seigneur...
-REYNALDO.--Très-bien, mon seigneur.
-POLONIUS.--Et alors, monsieur, il dira que...
-il dira...
-où en suis-je resté? REYNALDO.--Et il finira par dire, en conclusion...
-ou telle autre chose.
-Y êtes-vous, ou n'y êtes-vous pas? REYNALDO.--J'y suis, mon seigneur.
-POLONIUS.--Dieu soit avec vous! Bon voyage.
-REYNALDO.--Mon bon seigneur...
-POLONIUS.--Observez ses penchants par vous-même.
-REYNALDO.--Ainsi ferai-je, mon seigneur.
-POLONIUS.--Et laissez-le chanter sa gamme.
-REYNALDO.--Bien, mon seigneur.
-il est venu se poser devant moi.
+REYNALDO., Comme de jouer, mon seigneur.
+REYNALDO., Mon seigneur, cela le déshonorerait.
+POLONIUS., Ma foi, non, si vous savez, tout en l'accusant, tempérer la chose.
+Y êtes-vous, ou n'y êtes-vous pas ? REYNALDO., J'y suis, mon seigneur.
+POLONIUS., Dieu soit avec vous ! Bon voyage.
+REYNALDO., Mon bon seigneur … POLONIUS., Observez ses penchants par vous-même.
+REYNALDO., Ainsi ferai-je, mon seigneur.
+POLONIUS., Et laissez-le chanter sa gamme.
+REYNALDO., Bien, mon seigneur.
 Il est longtemps resté ainsi.
-POLONIUS.--Allons, viens avec moi; je vais trouver le roi.
+POLONIUS., Allons, viens avec moi ; je vais trouver le roi.
 J'en suis fâché.
-POLONIUS.--C'est cela qui l'a rendu fou.
+POLONIUS., C'est cela qui l'a rendu fou.
 (Ils sortent.) Un appartement dans le château.
 LE ROI, LA REINE, ROSENCRANTZ, GUILDENSTERN, SUITE, entrent.
-LE ROI.--Je vous remercie, Rosencrantz, et vous, aimable Guildenstern.
-LE ROI.--Tu es toujours le père aux bonnes nouvelles.
-LE ROI.--Fais-leur toi-même les honneurs, et introduis-les.
-(Voltimand et Cornélius sortent) POLONIUS.--Cette affaire est bien terminée.
+LE ROI., Je vous remercie, Rosencrantz, et vous, aimable Guildenstern.
+LE ROI., Tu es toujours le père aux bonnes nouvelles.
+LE ROI., Fais-leur toi-même les honneurs, et introduis-les.
+(Voltimand et Cornélius sortent) POLONIUS., Cette affaire est bien terminée.
 Votre noble fils est fou.
-LA REINE.--Plus de choses et moins d'art.
-POLONIUS.--Madame, je vous jure que je n'emploie l'art aucunement.
+LA REINE., Plus de choses et moins d'art.
+POLONIUS., Madame, je vous jure que je n'emploie l'art aucunement.
 Que votre fils est fou, cela est vrai.
 Il est vrai que c'est une pitié.
 Et c'est une pitié que cela soit vrai.
@@ -239,138 +207,111 @@ Sotte figure de rhétorique.
 Mais disons-lui adieu, car je ne veux pas employer l'art.
 Voilà ce qui demeure démontré, et voici ce qui reste à démontrer.
 Pesez bien tout.
-Maintenant, résumez et concluez...
-A la céleste idole de mon âme, à la bienheureuse beauté Ophélia...
-C'est une mauvaise phrase, une phrase vulgaire.
 «Bienheureuse beauté» est un mot vulgaire.
-Mais écoutez; poursuivons.
+Mais écoutez ; poursuivons.
 Puissent, dans sa parfaite et blanche poitrine, ces paroles, etc.
-(Il lit.) Doute que les étoiles soient de feu, [Note cinq: Ceci est vague.
-Mais que je t'aime bien, oh! parfaitement bien, crois-le.
+(Il lit.) Doute que les étoiles soient de feu, [Note cinq : Ceci est vague.
+Mais que je t'aime bien, oh ! parfaitement bien, crois-le.
 A toi pour toujours, dame chérie, tant que cette machine mortelle lui appartiendra.
-POLONIUS.--Je ne demanderais, sur ce point, qu'à faire mes preuves.
-LE ROI.--Pensez-vous que ce soit cela? LA REINE.--Cela peut être, très-vraisemblablement.
-POLONIUS, montrant sa tête et ses épaules.--Ôtez ceci de là, si cela est autrement.
-LA REINE.--Il s'y promène, en effet.
-LE ROI.--Nous essayerons cela.
-POLONIUS.--Non pas moi, mon seigneur.
-HAMLET.--En ce cas, je voudrais que vous fussiez un aussi honnête homme.
-POLONIUS.--C'est très-vrai, mon seigneur.
-HAMLET.--Ne la laissez pas se promener au soleil.
-ami, prenez-y garde.
+POLONIUS., Je ne demanderais, sur ce point, qu'à faire mes preuves.
+LE ROI., Pensez-vous que ce soit cela ? LA REINE., Cela peut être, très-vraisemblablement.
+POLONIUS, montrant sa tête et ses épaules., Ôtez ceci de là, si cela est autrement.
+LA REINE., Il s'y promène, en effet.
+LE ROI., Nous essayerons cela.
+POLONIUS., Non pas moi, mon seigneur.
+HAMLET., En ce cas, je voudrais que vous fussiez un aussi honnête homme.
+POLONIUS., C'est très-vrai, mon seigneur.
+HAMLET., Ne la laissez pas se promener au soleil.
 Je veux lui parler encore.
 Mon honorable seigneur, je prendrai très-humblement congé de vous.
-ROSENCRANTZ, à Polonius.--Dieu vous garde, monsieur! (Polonius sort.) GUILDENSTERN.--Mon honoré seigneur!...
-ROSENCRANTZ.--Mon très-cher seigneur!...
-GUILDENSTERN.--Heureux par cela même que nous ne sommes pas trop heureux.
-HAMLET.--Ni les semelles que foulent ses souliers? ROSENCRANTZ.--Non, mon seigneur.
-HAMLET.--Logés dans le secret giron de la fortune? Oh! oui, cela est vrai.
+GUILDENSTERN., Heureux par cela même que nous ne sommes pas trop heureux.
+HAMLET., Ni les semelles que foulent ses souliers ? ROSENCRANTZ., Non, mon seigneur.
+HAMLET., Logés dans le secret giron de la fortune ? Oh ! oui, cela est vrai.
 C'est une catin.
-Quelles nouvelles? ROSENCRANTZ.--Aucune, mon seigneur; si ce n'est que le monde est devenu honnête.
-HAMLET.--Alors le jugement dernier est proche; mais votre nouvelle n'est pas vraie.
-ROSENCRANTZ.--Alors le monde en est une aussi.
-ROSENCRANTZ.--Nous ne pensons pas ainsi, mon seigneur.
+Quelles nouvelles ? ROSENCRANTZ., Aucune, mon seigneur ; si ce n'est que le monde est devenu honnête.
+HAMLET., Alors le jugement dernier est proche ; mais votre nouvelle n'est pas vraie.
+ROSENCRANTZ., Alors le monde en est une aussi.
+ROSENCRANTZ., Nous ne pensons pas ainsi, mon seigneur.
 Pour moi, c'est une prison.
-HAMLET.--Un rêve lui-même n'est qu'une ombre.
-ROSENCRANTZ ET GUILDENSTERN.--Nous y serons de votre suite.
+HAMLET., Un rêve lui-même n'est qu'une ombre.
+ROSENCRANTZ ET GUILDENSTERN., Nous y serons de votre suite.
 Je le sais, le bon roi et la reine vous ont envoyé chercher.
-ROSENCRANTZ.--A quelle fin, mon seigneur? HAMLET.--C'est ce que vous avez à m'apprendre.
+ROSENCRANTZ., A quelle fin, mon seigneur ? HAMLET., C'est ce que vous avez à m'apprendre.
 (Haut).
 Si vous m'aimez, ne me tenez pas rigueur.
-GUILDENSTERN.--Mon seigneur, on nous a envoyé chercher.
-HAMLET.--Je vais vous dire pourquoi.
-ROSENCRANTZ.--Mon seigneur, il n'y avait rien de cela dans mes pensées.
-ROSENCRANTZ.--Je pense que leur empêchement vient de la récente innovation.
-HAMLET.--Est-il possible? GUILDENSTERN.--Oh! il y a eu déjà beaucoup d'effusion de cervelles.
+GUILDENSTERN., Mon seigneur, on nous a envoyé chercher.
+HAMLET., Je vais vous dire pourquoi.
+ROSENCRANTZ., Mon seigneur, il n'y avait rien de cela dans mes pensées.
+ROSENCRANTZ., Je pense que leur empêchement vient de la récente innovation.
+HAMLET., Est-il possible ? GUILDENSTERN., Oh ! il y a eu déjà beaucoup d'effusion de cervelles.
 Les attaques personnelles y avaient pris toute licence.
-HAMLET.--Messieurs, vous êtes les bienvenus à Elseneur.
-(Polonius entre.) POLONIUS.--Grand bien vous fasse, messieurs.
-HAMLET.--Écoutez, Guildenstern...
-et vous aussi...
-pour chaque oreille un auditeur...
-ce grand marmot que vous voyez là n'est pas encore hors du maillot.
-Vous avez raison, monsieur; lundi matin, c'est bien cela, en vérité.
-POLONIUS.--Mon seigneur, j'ai des nouvelles à vous apprendre.
-POLONIUS.--Les acteurs sont ici, mon seigneur.
-HAMLET.--Bah! bah! POLONIUS.--Sur mon honneur.
-HAMLET.--Alors arrive chaque acteur sur son âne...
-HAMLET.--Non, cela ne fait pas suite.
-[Note sept: Cela s'adresse à un jeune acteur chargé des rôles de femmes.
-Si cela vit encore en votre mémoire, commencez à ce vers,...
-voyons un peu, voyons: Le hérissé Pyrrhus, pareil à la bête hyrcanienne....
+HAMLET., Messieurs, vous êtes les bienvenus à Elseneur.
+(Polonius entre.) POLONIUS., Grand bien vous fasse, messieurs.
+POLONIUS., Mon seigneur, j'ai des nouvelles à vous apprendre.
+HAMLET., Bah ! bah ! POLONIUS., Sur mon honneur.
+HAMLET., Non, cela ne fait pas suite.
+[Note sept : Cela s'adresse à un jeune acteur chargé des rôles de femmes.
 On verra plus loin (acte trois, sc.
 deux) ce que Shakspeare pensait des acteurs emphatiques.
 Ici nous avons son opinion sur les écrivains ampoulés et précieux.
-Je n'en puis entendre davantage?»] Ce n'est pas cela; cela commence par Pyrrhus.
-HAMLET.--Il ira chez le barbier en même temps que votre barbe.
+HAMLET., Il ira chez le barbier en même temps que votre barbe.
 Passons à Hécube.
-LE PREMIER COMÉDIEN.--Mais celui (ah! malheur!) qui aurait vu la reine encapuchonnée...
-HAMLET.--La reine encapuchonnée! POLONIUS.--Est-ce bien? Oui, «reine encapuchonnée» est bien.
-POLONIUS.--Regardez s'il n'a pas changé de couleur; il a les larmes aux yeux.
+POLONIUS., Regardez s'il n'a pas changé de couleur ; il a les larmes aux yeux.
 Je t'en prie, restons-en là.
-HAMLET.--C'est bon! je te ferai bientôt déclamer le reste.
-POLONIUS.--Mon seigneur, je les traiterai selon leur mérite.
-POLONIUS.--Venez, messieurs.
-HAMLET.--Suivez-le, mes amis; nous verrons une pièce demain.
-HAMLET.--Eh bien! nous donnerons cela demain au soir.
+HAMLET., C'est bon ! je te ferai bientôt déclamer le reste.
+POLONIUS., Mon seigneur, je les traiterai selon leur mérite.
+POLONIUS., Venez, messieurs.
+HAMLET., Suivez-le, mes amis ; nous verrons une pièce demain.
+HAMLET., Eh bien ! nous donnerons cela demain au soir.
 Suivez ce seigneur, et faites attention à ne pas vous moquer de lui.
 Car le meurtre, quoiqu'il n'ait pas de langue, saura parler par quelque organe miraculeux.
 Je veux me fonder sur des preuves plus directes que cela.
 Oui, cette pièce est le piège où je surprendrai la conscience du roi.
-(Il sort.) [Note dix: John-a-dreams, par allusion à quelque personnage d'une histoire populaire.
-LA REINE.--Vous a-t-il bien reçus? ROSENCRANTZ.--Tout à fait en galant homme.
-GUILDENSTERN.--Mais avec beaucoup d'effort dans sa manière.
-ROSENCRANTZ.--Avare de paroles, mais quant à nos questions seulement; très-libre dans ses répliques.
-ROSENCRANTZ.--Ainsi ferons-nous, mon seigneur.
-LA REINE.--Je vais vous obéir.
-OPHÉLIA.--Madame, je souhaite que cela se puisse.
-(La reine sort.) POLONIUS.--Ophélia, promenez-vous ici....
-Gracieux maître, s'il vous plaît, nous irons nous placer.
-Nous sommes souvent blâmables en ceci....
-la chose n'est que trop démontrée....
+(Il sort.) [Note dix : John-a-dreams, par allusion à quelque personnage d'une histoire populaire.
+LA REINE., Vous a-t-il bien reçus ? ROSENCRANTZ., Tout à fait en galant homme.
+GUILDENSTERN., Mais avec beaucoup d'effort dans sa manière.
+ROSENCRANTZ., Avare de paroles, mais quant à nos questions seulement ; très-libre dans ses répliques.
+ROSENCRANTZ., Ainsi ferons-nous, mon seigneur.
+LA REINE., Je vais vous obéir.
+OPHÉLIA., Madame, je souhaite que cela se puisse.
 (Le roi et Polonius sortent.) (Hamlet entre).
-HAMLET.--Être ou n'être pas, voilà la question....
-plus rien....
-Doucement, maintenant! Voici la belle Ophélia.
 Bien, bien, bien.
-HAMLET.--Non, ce n'est pas moi; je ne vous ai jamais rien donné.
+HAMLET., Non, ce n'est pas moi ; je ne vous ai jamais rien donné.
 Les voici, mon seigneur.
 C'était, il y a quelque temps, un paradoxe, mais le temps présent le prouve.
 Je vous ai aimée jadis.
-OPHÉLIA.--En vérité, mon seigneur, vous me l'avez fait croire.
+OPHÉLIA., En vérité, mon seigneur, vous me l'avez fait croire.
 Je ne vous aimais pas.
-OPHÉLIA.--Je n'en ai été que plus déçue.
-HAMLET.--Va-t'en dans un cloître.
+OPHÉLIA., Je n'en ai été que plus déçue.
+HAMLET., Va-t'en dans un cloître.
 Va-t'en droit ton chemin jusqu'à un cloître.
-quatre cent quatre-vingt-dix-neuf.)] OPHÉLIA.--À la maison, mon seigneur.
-Au cloître, allons, et au plus vite! Adieu.
+quatre cent quatre-vingt-dix-neuf.)] OPHÉLIA., À la maison, mon seigneur.
+Au cloître, allons, et au plus vite ! Adieu.
 Dieu vous a donné un visage, et vous vous en faites vous-mêmes un autre.
-Allez, je ne veux plus de cela; c'est cela qui m'a rendu fou.
-Au cloître! Allez.
+Allez, je ne veux plus de cela ; c'est cela qui m'a rendu fou.
+Au cloître ! Allez.
 (Ils sortent.) (Une salle dans le château.) HAMLET entre avec quelques comédiens.
 Je vous en prie, évitez cela.
 Même avec cette correction, le sens est vague.
-HAMLET.--Ah! réformez-le tout à fait.
-HAMLET.--Dites aux acteurs de faire hâte.
-(Polonius sort.) Voulez-vous tous deux aller aussi les presser? TOUS DEUX.--Oui, mon seigneur.
-Mais en voilà un peu trop à ce sujet.
-HORATIO.--Bien, mon seigneur.
-HAMLET.--Ils viennent pour la pièce; il faut que je flâne; trouvez une place.
-(Marche danoise; fanfare.
+HAMLET., Ah ! réformez-le tout à fait.
+HAMLET., Dites aux acteurs de faire hâte.
+(Polonius sort.) Voulez-vous tous deux aller aussi les presser ? TOUS DEUX., Oui, mon seigneur.
+HORATIO., Bien, mon seigneur.
+HAMLET., Ils viennent pour la pièce ; il faut que je flâne ; trouvez une place.
+(Marche danoise ; fanfare.
 Vous ne pourriez pas mettre vos chapons à ce régime.
-HAMLET.--Ni moi non plus, désormais.
-HAMLET.--Et qu'avez-vous joué? POLONIUS.--J'ai joué Jules César.
+HAMLET., Ni moi non plus, désormais.
+HAMLET., Et qu'avez-vous joué ? POLONIUS., J'ai joué Jules César.
 Je fus tué au Capitole, Brutus me tua.
-LA REINE.--Venez ici, mon cher Hamlet, asseyez-vous près de moi.
-HAMLET.--Non, ma bonne mère, voici un aimant qui a plus de force d'attraction.
-HAMLET.--Je veux dire la tête sur vos genoux.
-OPHÉLIA.--Oui, mon seigneur.
-OPHÉLIA.--Comment, mon seigneur? HAMLET.--Rien.
-OPHÉLIA.--Vous êtes gai, mon seigneur.
-HAMLET.--Qui, moi? OPHÉLIA.--Oui, mon seigneur.
-HAMLET.--Oh! je ne suis que votre bouffon.
-et il n'y a pas deux heures que mon père est mort.
-OPHÉLIA.--Mais non, mon seigneur, il y a deux mois.
+LA REINE., Venez ici, mon cher Hamlet, asseyez-vous près de moi.
+HAMLET., Non, ma bonne mère, voici un aimant qui a plus de force d'attraction.
+HAMLET., Je veux dire la tête sur vos genoux.
+OPHÉLIA., Oui, mon seigneur.
+OPHÉLIA., Comment, mon seigneur ? HAMLET., Rien.
+OPHÉLIA., Vous êtes gai, mon seigneur.
+HAMLET., Qui, moi ? OPHÉLIA., Oui, mon seigneur.
+HAMLET., Oh ! je ne suis que votre bouffon.
+OPHÉLIA., Mais non, mon seigneur, il y a deux mois.
 Il la relève, et penche la tête sur son épaule.
 Il se couche sur un banc couvert de fleurs.
 Le voyant endormi, elle se retire.
@@ -379,402 +320,315 @@ L'empoisonneur arrive avec deux ou trois acteurs muets, et semble se lamenter av
 On emporte le corps.
 deux) et à propos de l'armure de Pyrrhus (acte deux, sc.
 En employant ce mot, Shakspeare a voulu nous laisser hésiter entre les deux sens.
-OPHÉLIA.--Sans doute cette pantomime indique le sujet de la pièce.
-(Le Prologue entre.) HAMLET.--Nous allons le savoir de ce garçon-là.
+OPHÉLIA., Sans doute cette pantomime indique le sujet de la pièce.
+(Le Prologue entre.) HAMLET., Nous allons le savoir de ce garçon-là.
 Les comédiens ne peuvent garder un secret, ils nous diront tout.
-OPHÉLIA.--Vous êtes un vaurien, vous êtes un vaurien.
+OPHÉLIA., Vous êtes un vaurien, vous êtes un vaurien.
 Je veux écouter la pièce.
-[Note vingt: L'idée première de cette scène n'est pas de Shakspeare.
+[Note vingt : L'idée première de cette scène n'est pas de Shakspeare.
 Leur démence est une ruse, mais par instants elle devient réelle.
 Il y a de l'habileté dans leur conduite et de l'égarement dans leur pensée.
-HAMLET.--Comme l'amour d'une femme.
-LE ROI DE LA COMÉDIE.--Je vous crois, vous pensez ce que vous dites maintenant.
+HAMLET., Comme l'amour d'une femme.
+LE ROI DE LA COMÉDIE., Je vous crois, vous pensez ce que vous dites maintenant.
 Mais ce que nous décidons, il nous arrive souvent de l'enfreindre.
 Nôtres sont nos pensées, mais leur issue n'est pas nôtre.
-LE ROI DE LA COMÉDIE.--Voilà de profonds serments.
 Douce amie, laisse-moi seul ici pour un peu de temps.
 Mes esprits s'appesantissent, et je voudrais tromper par le sommeil l'ennui traînant du jour.
-HAMLET.--Oh! mais elle tiendra sa parole.
-LE ROI.--Comment appelez-vous la pièce? HAMLET.--La Souricière.
-Et pourquoi cela, direz-vous? Par métaphore.
+HAMLET., Oh ! mais elle tiendra sa parole.
+LE ROI., Comment appelez-vous la pièce ? HAMLET., La Souricière.
+Et pourquoi cela, direz-vous ? Par métaphore.
 Cette pièce est la représentation d'un meurtre commis à Vienne.
 Le duc s'appelle Gonzague, et sa femme Baptista.
 Vous verrez tout à l'heure.
-Que la haridelle écorchée rue, si le bât la blesse: notre garrot n'est pas entamé.
+Que la haridelle écorchée rue, si le bât la blesse : notre garrot n'est pas entamé.
 (Lucianus entre.) Celui-là est un certain Lucianus, neveu du roi.
-OPHÉLIA.--Vous êtes d'aussi bon secours que le Choeur, mon seigneur.
-OPHÉLIA.--Vous êtes piquant, mon seigneur, vous êtes piquant.
-HAMLET.--Il ne vous en coûterait qu'un soupir, et la pointe serait émoussée.
-OPHÉLIA.--De mieux en mieux, mais de pis en pis.
+OPHÉLIA., Vous êtes d'aussi bon secours que le Choeur, mon seigneur.
+OPHÉLIA., Vous êtes piquant, mon seigneur, vous êtes piquant.
+HAMLET., Il ne vous en coûterait qu'un soupir, et la pointe serait émoussée.
+OPHÉLIA., De mieux en mieux, mais de pis en pis.
 L'histoire existe, écrite en italien, style de premier choix.
 Vous verrez tout à l'heure comment l'assassin acquiert l'amour delà femme de Gonzague.
-un vrai...
-un vrai paon.» HORATIO.--Vous auriez pu mettre la rime.
-As-tu remarqué? HORATIO.--Très-bien, monseigneur.
-HAMLET.--Quand il a été question de l'empoisonnement....
-GUILDENSTERN.--Mon bon seigneur, accordez-moi la grâce de vous dire un mot.
-HAMLET.--Toute une histoire, monsieur.
-GUILDENSTERN.--Le roi, monsieur....
-HAMLET.--Ah! oui, monsieur.
-Quelles nouvelles de lui? GUILDENSTERN.--Il est dans son appartement, singulièrement indisposé.
-HAMLET.--Par la boisson, monsieur? GUILDENSTERN.--Non, mon seigneur, par la colère.
-HAMLET.--Je suis apprivoisé, monsieur; parlez.
-GUILDENSTERN.--La reine votre mère, dans une très-grande affliction d'esprit, m'a envoyé vers vous.
-HAMLET.--Vous êtes le bienvenu.
-GUILDENSTERN.--Non, mon seigneur, cette courtoisie n'est pas de race franche.
-HAMLET.--Monsieur, je ne puis....
-GUILDENSTERN.--Quoi, mon seigneur? HAMLET.--....
-Vous faire une saine réponse; mon esprit est malade.
-ROSENCRANTZ.--Elle désire causer avec vous dans son cabinet, avant que vous alliez vous coucher.
-HAMLET.--Nous obéirons, fût-elle dix fois notre mère.
-HAMLET.--Monsieur, ce qui me manque, c'est de l'avancement.
+As-tu remarqué ? HORATIO., Très-bien, monseigneur.
+GUILDENSTERN., Mon bon seigneur, accordez-moi la grâce de vous dire un mot.
+HAMLET., Toute une histoire, monsieur.
+GUILDENSTERN., Le roi, monsieur … HAMLET., Ah ! oui, monsieur.
+Quelles nouvelles de lui ? GUILDENSTERN., Il est dans son appartement, singulièrement indisposé.
+HAMLET., Par la boisson, monsieur ? GUILDENSTERN., Non, mon seigneur, par la colère.
+HAMLET., Je suis apprivoisé, monsieur ; parlez.
+GUILDENSTERN., La reine votre mère, dans une très-grande affliction d'esprit, m'a envoyé vers vous.
+HAMLET., Vous êtes le bienvenu.
+GUILDENSTERN., Non, mon seigneur, cette courtoisie n'est pas de race franche.
+ROSENCRANTZ., Elle désire causer avec vous dans son cabinet, avant que vous alliez vous coucher.
+HAMLET., Nous obéirons, fût-elle dix fois notre mère.
+HAMLET., Monsieur, ce qui me manque, c'est de l'avancement.
 Bien des détails, dans Hamlet, attestent cette nature complexe de la monarchie danoise.
-HAMLET.--Je n'entends pas bien cela.
-Voulez-vous jouer de cette flûte? GUILDENSTERN.--Mon seigneur, je ne puis.
-HAMLET.--Je vous prie.
-GUILDENSTERN.--Croyez-moi; je ne puis.
-HAMLET.--Je vous en conjure.
-GUILDENSTERN.--Je n'en connais pas une seule touche, mon seigneur.
-HAMLET.--Cela est aussi aisé que de mentir.
-Voyez-vous? Voici les soupapes.
-GUILDENSTERN.--Mais je ne saurais les faire obéir à l'expression d'aucune harmonie.
+HAMLET., Je n'entends pas bien cela.
+Voulez-vous jouer de cette flûte ? GUILDENSTERN., Mon seigneur, je ne puis.
+HAMLET., Je vous prie.
+GUILDENSTERN., Croyez-moi ; je ne puis.
+HAMLET., Je vous en conjure.
+GUILDENSTERN., Je n'en connais pas une seule touche, mon seigneur.
+HAMLET., Cela est aussi aisé que de mentir.
+Voyez-vous ? Voici les soupapes.
+GUILDENSTERN., Mais je ne saurais les faire obéir à l'expression d'aucune harmonie.
 Je n'ai pas le talent requis.
-POLONIUS.--Il a comme un dos de belette.
-HAMLET.--Ou de baleine? POLONIUS,--Oui, tout à fait de baleine.
-HAMLET.--Ainsi, j'irai donc trouver ma mère tout à l'heure...
-L'arc est à bout de corde; ils me tirent à me rendre fou...
-J'irai tout à l'heure.
-POLONIUS--Je le lui dirai.
-(Polonius sort.) HAMLET.--Tout à l'heure est aisé à dire.
+POLONIUS., Il a comme un dos de belette.
+HAMLET., Ou de baleine ? POLONIUS,, Oui, tout à fait de baleine.
+POLONIUS, Je le lui dirai.
+(Polonius sort.) HAMLET., Tout à l'heure est aisé à dire.
 Laissez-moi, mes amis.
-Préparez-vous donc; je vais expédier sur-le-champ votre commission, et il partira pour l'Angleterre avec vous.
-GUILDENSTERN.--Nous allons nous préparer.
+Préparez-vous donc ; je vais expédier sur-le-champ votre commission, et il partira pour l'Angleterre avec vous.
+GUILDENSTERN., Nous allons nous préparer.
 Jamais ne vont seuls les soupirs du roi, mais toujours avec un gémissement public.
-ROSENCRANTZ ET GUILDENSTERN.--Nous allons nous hâter.
-LE ROI.--Merci, mon cher seigneur.
-(Polonius sort.) Oh! mon crime est sauvage; son odeur impure va jusqu'au ciel.
-Mais hélas! quelle forme de prière peut servir ma cause?...
-Pardonne-moi mon infâme meurtre.
-ma couronne, mon ambition propre, et ma reine.
+ROSENCRANTZ ET GUILDENSTERN., Nous allons nous hâter.
+LE ROI., Merci, mon cher seigneur.
+(Polonius sort.) Oh ! mon crime est sauvage ; son odeur impure va jusqu'au ciel.
 Là, point de subterfuges.
-et ainsi il va au ciel, et moi, suis-je ainsi vengé? Ceci veut être examiné.
 Halte-là, mon épée, et médite une plus horrible atteinte.
 Les paroles sans les pensées ne vont jamais au ciel.
-POLONIUS.--Il va venir tout de suite.
+POLONIUS., Il va venir tout de suite.
 N'oubliez pas de le réprimander sans cérémonie.
-Je rentre en silence, ici même; mais, je vous en prie, menez-le rondement.
-LA REINE.--Je vous le garantis, ne craignez rien de ma part.
+Je rentre en silence, ici même ; mais, je vous en prie, menez-le rondement.
+LA REINE., Je vous le garantis, ne craignez rien de ma part.
 Retirez-vous, je l'entends venir.
-HAMLET.--Ma mère, vous avez beaucoup offensé mon père.
-LA REINE.--Allons, allons, vous me répondez d'une langue oiseuse.
-HAMLET.--Allez, allez, vous m'interrogez d'une langue méchante.
-plût au ciel que cela ne fût pas!...
-vous êtes ma mère.
-LA REINE.--Eh bien! je vais vous adresser des gens qui sauront vous parler.
-Pendant la représentation, il dit au roi que la pièce s'appelle: la Souricière.
-presque aussi mauvaise, ma bonne mère, que de tuer un roi et d'épouser son frère.
-Cessez de vous tordre ainsi les mains.
+HAMLET., Ma mère, vous avez beaucoup offensé mon père.
+LA REINE., Allons, allons, vous me répondez d'une langue oiseuse.
+HAMLET., Allez, allez, vous m'interrogez d'une langue méchante.
+LA REINE., Eh bien ! je vais vous adresser des gens qui sauront vous parler.
+Pendant la représentation, il dit au roi que la pièce s'appelle : la Souricière.
 Assez, mon doux Hamlet.
-(Le fantôme entre.) Sauvez-moi et couvrez-moi de vos ailes, célestes gardiens!...
-LE FANTÔME.--N'oublie pas.
+LE FANTÔME., N'oublie pas.
 Cette visite n'est faite que pour rafraîchir le souvenir presque effacé de ton dessein.
-Mais, regarde! la stupeur s'est emparée de ta mère.
-HAMLET.--Et n'avez-vous, non plus, rien entendu? LA REINE.--Non, rien que nos propres paroles.
-LA REINE.--O Hamlet, tu as brisé mon coeur en deux.
-HAMLET.--Ah! rejetez-en la pire partie, et vivez, d'autant plus pure, avec l'autre moitié.
-Bonsoir, ma mère...
+Mais, regarde ! la stupeur s'est emparée de ta mère.
+HAMLET., Et n'avez-vous, non plus, rien entendu ? LA REINE., Non, rien que nos propres paroles.
+LA REINE., O Hamlet, tu as brisé mon coeur en deux.
+HAMLET., Ah ! rejetez-en la pire partie, et vivez, d'autant plus pure, avec l'autre moitié.
 Allons, monsieur, tâchons d'en finir avec vous.
 Bonsoir, ma mère.
-Faut-il traduire à la lettre? Guts, les boyaux.
+Faut-il traduire à la lettre ? Guts, les boyaux.
 à Tite, un, douze).
 trois, act deux, sc.
-cinq, deux fois dans la même scène; et act.
+cinq, deux fois dans la même scène ; et act.
 LE ROI, LA REINE, ROSENCRANTZ ET GUILDENSTERN entrent.
-Où est votre fils? LA REINE, à Rosencrantz et à Guildenstern.--Laissez-nous un moment.
+Où est votre fils ? LA REINE, à Rosencrantz et à Guildenstern., Laissez-nous un moment.
 Il pleure de ce qu'il a fait.
-Oh! venez; mon âme est pleine de discorde et d'effroi.
+Oh ! venez ; mon âme est pleine de discorde et d'effroi.
 (Ils sortent.) Un autre appartement dans le château.
-HAMLET.--Déposé en lieu sûr...
-HAMLET.--N'allez pas croire cela.
-ROSENCRANTZ.--Croire quoi? HAMLET.--Que je puisse garder votre secret et non le mien.
-ROSENCRANTZ.--Je ne vous comprends pas, mon seigneur.
-HAMLET.--Cela me fait grand plaisir; un méchant propos doit mourir dans une sotte oreille.
-HAMLET.--Le corps est avec le roi, mais le roi n'est pas avec le corps.
-Le roi est une chose...
-GUILDENSTERN.--Une chose, mon seigneur? HAMLET.--...de rien.
+HAMLET., N'allez pas croire cela.
+ROSENCRANTZ., Croire quoi ? HAMLET., Que je puisse garder votre secret et non le mien.
+ROSENCRANTZ., Je ne vous comprends pas, mon seigneur.
+HAMLET., Cela me fait grand plaisir ; un méchant propos doit mourir dans une sotte oreille.
+HAMLET., Le corps est avec le roi, mais le roi n'est pas avec le corps.
+Le roi est une chose … GUILDENSTERN., Une chose, mon seigneur ? HAMLET.,  …de rien.
 Conduisez-moi vers lui.
 LE ROI entre avec sa suite.
-LE ROI.--Je l'ai envoyé quérir, et l'on cherche le corps.
-LE ROI.--Amenez-le devant nous.
-ROSENCRANTZ.--Holà! Guildenstern, faites entrer mon seigneur.
-(Hamlet et Guildenstern entrent.) LE ROI.--Voyons, Hamlet, où est Polonius? HAMLET.--À souper.
-[Note trente-trois: Les vers, en anglais: the worms.
-LE ROI.--Où est Polonius? HAMLET.--Dans le ciel: envoyez-y voir.
+LE ROI., Je l'ai envoyé quérir, et l'on cherche le corps.
+LE ROI., Amenez-le devant nous.
+ROSENCRANTZ., Holà ! Guildenstern, faites entrer mon seigneur.
+(Hamlet et Guildenstern entrent.) LE ROI., Voyons, Hamlet, où est Polonius ? HAMLET., À souper.
+[Note trente-trois : Les vers, en anglais : the worms.
+LE ROI., Où est Polonius ? HAMLET., Dans le ciel : envoyez-y voir.
 Si votre messager ne le trouve pas là, allez vous-même le chercher à l'autre endroit.
-LE ROI, à quelqu'un de sa suite.--Allez le chercher là.
-HAMLET.--Oh! il attendra bien jusqu'à votre arrivée.
-HAMLET.--En Angleterre? LE ROI.--Oui, Hamlet.
-HAMLET.--C'est bon.
-LE ROI.--Tu dis vrai; si tu connais nos projets.
-HAMLET.--Je vois un ange qui les voit.
-Mais allons, en Angleterre! Adieu, mère chérie.
-Ne différez pas; je veux qu'il soit hors d'ici ce soir.
+LE ROI, à quelqu'un de sa suite., Allez le chercher là.
+HAMLET., Oh ! il attendra bien jusqu'à votre arrivée.
+HAMLET., En Angleterre ? LE ROI., Oui, Hamlet.
+HAMLET., C'est bon.
+LE ROI., Tu dis vrai ; si tu connais nos projets.
+HAMLET., Je vois un ange qui les voit.
+Mais allons, en Angleterre ! Adieu, mère chérie.
+Ne différez pas ; je veux qu'il soit hors d'ici ce soir.
 (Il sort.) Une plaine en Danemark.
 FORTINBRAS entre à la tête de ses troupes.
 Vous savez où est le rendez-vous.
-LA CAPITAINE.--Je le ferai, mon seigneur.
-FORTINBRAS.--Avancez doucement.
-HAMLET.--Eh bien! alors les Polonais ne voudront jamais le défendre.
-LE CAPITAINE.--Si fait, il y a déjà une garnison.
+LA CAPITAINE., Je le ferai, mon seigneur.
+FORTINBRAS., Avancez doucement.
+HAMLET., Eh bien ! alors les Polonais ne voudront jamais le défendre.
+LE CAPITAINE., Si fait, il y a déjà une garnison.
 Je vous remercie humblement, monsieur.
 Allez un peu en avant.
 LA REINE ET HORATIO entrent.
-LA REINE.--Je ne veux pas lui parler.
+LA REINE., Je ne veux pas lui parler.
 Qu'on la fasse entrer.
-Ah! ah! LA REINE.--Oui; mais, Ophélia....
-OPHÉLIA.--Je vous prie, remarquez bien.
-(Elle chante.) Son linceul, blanc comme la neige des montagnes...
-(Le roi entre.) LA REINE.--Hélas! voyez ceci, mon seigneur.
-LE ROI.--Comment vous trouvez-vous, ma belle demoiselle? OPHÉLIA.--Bien.
-Dieu vous assiste! Ils disent que la chouette était la fille d'un boulanger.
-Que Dieu soit à votre table! [Note trente-cinq: C'est une légende du Gloucestershire, que nordS.
+Ah ! ah ! LA REINE., Oui ; mais, Ophélia … OPHÉLIA., Je vous prie, remarquez bien.
+LE ROI., Comment vous trouvez-vous, ma belle demoiselle ? OPHÉLIA., Bien.
+Dieu vous assiste ! Ils disent que la chouette était la fille d'un boulanger.
+Que Dieu soit à votre table ! [Note trente-cinq : C'est une légende du Gloucestershire, que nordS.
 Jésus-Christ entra un jour dans la boutique d'un boulanger qui enfournait.
 Il demanda un peu de pain.
-[Note trente-six: La fête de saint Valentin est le quatorze février.
+[Note trente-six : La fête de saint Valentin est le quatorze février.
 sur les autels, sur les reliures, etc.
-Mon frère saura cela; et, sur ce, je vous remercie de vos bons avis....
-Allons, ma voiture.
-Bonsoir, mesdames; bonsoir, mes chères dames; bonsoir, bonsoir.
-(Elle sort.) LE ROI.--Suivez-la de près; donnez-lui bonne garde, je vous en prie.
-De quoi s'agit-il? LE GENTILHOMME.--Sauvez-vous, mon seigneur.
-Messieurs, restez tous en dehors.
-LE PEUPLE.--Non, entrons.
-LAERTES.--Je vous en prie, laissez-moi faire.
-gardez la porte....
-O toi, roi infâme, rends-moi mon père! LA REINE.--Calmez-vous, brave Laërtes.
-Dis-moi, Laërtes, pourquoi tu es à ce point enflammé....
-Laissez-le aller, Gertrude...
-Parle, ô homme! LAERTES.--Où est mon père? LE ROI.--Mort.
-LA REINE.--Mais non par la faute du roi.
-LE ROI.--Laissez-le questionner à sa suffisance.
-LE ROI.--Eh bien! maintenant vous parlez comme un bon fils et un loyal gentilhomme.
-LE PEUPLE, derrière le théâtre.--Laissez-la entrer.
-Bonsoir, mon tourtereau.
-OPHÉLIA, à Laërtes.--Voilà du romarin; c'est pour le souvenir.
+Bonsoir, mesdames ; bonsoir, mes chères dames ; bonsoir, bonsoir.
+(Elle sort.) LE ROI., Suivez-la de près ; donnez-lui bonne garde, je vous en prie.
+LE PEUPLE., Non, entrons.
+LAERTES., Je vous en prie, laissez-moi faire.
+LA REINE., Mais non par la faute du roi.
+LE ROI., Laissez-le questionner à sa suffisance.
+LE ROI., Eh bien ! maintenant vous parlez comme un bon fils et un loyal gentilhomme.
+LE PEUPLE, derrière le théâtre., Laissez-la entrer.
+OPHÉLIA, à Laërtes., Voilà du romarin ; c'est pour le souvenir.
 Je vous en prie, amour, souvenez-vous.
-Et voici des pensées; c'est pour vous faire penser.
-LAERTES.--Il y a un enseignement dans sa folie: les pensées et le souvenir assemblés.
+Et voici des pensées ; c'est pour vous faire penser.
+LAERTES., Il y a un enseignement dans sa folie : les pensées et le souvenir assemblés.
 Shakspeare, dans Richard deux (acte trois, sc.
 Voilà pourquoi Ophélia marque une différence.
 quatre cent quarante-trois).
-Dieu fasse miséricorde à son âme!...
-Et à toutes les âmes chrétiennes!...
-Je prie Dieu...
-LAERTES.--Qu'il en soit donc ainsi.
+LAERTES., Qu'il en soit donc ainsi.
 (Ils sortent.) Un autre appartement dans le château.
 HORATIO ET UN SERVITEUR entrent.
-HORATIO.--Fais-les entrer.
+HORATIO., Fais-les entrer.
 Nous trouvant trop faibles de voiles, nous avons eu recours à un courage forcé.
 Les grappins jetés, j'ai monté à l'abordage.
 Ces braves gens t'amèneront là où je suis.
-Rosencrantz et Guildenstern continuent leur route vers l'Angleterre; j'ai beaucoup à te dire sur eux.
+Rosencrantz et Guildenstern continuent leur route vers l'Angleterre ; j'ai beaucoup à te dire sur eux.
 (Ils sortent.) Un autre appartement dans le château.
 LE ROI ET LAERTES entrent.
-LAERTES.--Oui, cela apparaît bien.
+LAERTES., Oui, cela apparaît bien.
 Vous en saurez bientôt davantage.
-LE ROI.--Laërtes, vous allez les entendre.
-Nu! et, dans ce post-scriptum, il ajoute: seul.
-Pouvez-vous me conseiller? LAERTES.--Je m'y perds, mon seigneur; mais laissez-le venir.
-et comment cela pourrait-il être ainsi?...
-mais comment cela serait-il autrement?...
-LE ROI.--Non.
+LE ROI., Laërtes, vous allez les entendre.
+Nu ! et, dans ce post-scriptum, il ajoute : seul.
+Pouvez-vous me conseiller ? LAERTES., Je m'y perds, mon seigneur ; mais laissez-le venir.
+LE ROI., Non.
 La paix avec toi-même seulement.
-LE ROI.---Cela tombe bien.
-LAERTES.--C'était un Normand? LE ROI.--Un Normand.
-LAERTES--Sur ma vie, c'est Lamord! LE ROI.--Lui-même.
-D'après cm donc......
-LE ROI.--Aucun lieu, à vrai dire, ne devrait être un sanctuaire pour le meurtre.
+LE ROI., -Cela tombe bien.
+LAERTES., C'était un Normand ? LE ROI., Un Normand.
+LAERTES, Sur ma vie, c'est Lamord ! LE ROI., Lui-même.
+LE ROI., Aucun lieu, à vrai dire, ne devrait être un sanctuaire pour le meurtre.
 La vengeance ne devrait pas avoir de bornes.
-Mais, brave Laërtes, voulez-vous faire ceci? Tenez-vous enfermé dans votre chambre.
+Mais, brave Laërtes, voulez-vous faire ceci ? Tenez-vous enfermé dans votre chambre.
 Lui qui est distrait, fort généreux, innocent de tout artifice, il n'examinera pas les fleurets.
-LAERTES.--C'est ce que je ferai; et, dans ce dessein, je veux oindre mon épée.
-voyons un peu...
-nous ferons un pari solennel sur le savoir-faire de chacun de vous......
-Votre soeur est noyée, Laërtes.
-Que ces larmes partent, et c'en est fait de la femme en moi...
-(Il sort.) LE ROI.--Suivons-le, Gertrude.
+LAERTES., C'est ce que je ferai ; et, dans ce dessein, je veux oindre mon épée.
+(Il sort.) LE ROI., Suivons-le, Gertrude.
 Ainsi donc, suivons-le.
 DEUX PAYSANS entrent avec leurs bêches, etc.
 Le coroner a tenu séance sur elle et a conclu à la sépulture chrétienne.
 Ergo, elle s'est noyée volontairement.
-SECOND PAYSAN.--Bien! mais écoutez-moi, bonhomme de fossoyeur.
-PREMIER PAYSAN.--Permettez.
-Ici passe l'eau; bien.
-Là se tient l'homme; bien.
-Et qui est-ce qui l'a noyé? Sir James Haie.
-Et quand l'a-t-il noyé? De son vivant.
-SECOND PAYSAN.--Bah! il n'avait aucun blason.
+SECOND PAYSAN., Bien ! mais écoutez-moi, bonhomme de fossoyeur.
+PREMIER PAYSAN., Permettez.
+Ici passe l'eau ; bien.
+Là se tient l'homme ; bien.
+Et qui est-ce qui l'a noyé ? Sir James Haie.
+Et quand l'a-t-il noyé ? De son vivant.
+SECOND PAYSAN., Bah ! il n'avait aucun blason.
 Nous avons cherché un équivalent qui eût trait aussi au blason.
-Dans le même langage, porter d'une couleur signifie: avoir des armes de la couleur indiquée.
-PREMIER PAYSAN.--Par ma foi, j'aime ta répartie: la potence fait bien là.
-Mais comment fait-elle bien? Elle fait bien pour ceux qui font mal.
+Dans le même langage, porter d'une couleur signifie : avoir des armes de la couleur indiquée.
+PREMIER PAYSAN., Par ma foi, j'aime ta répartie : la potence fait bien là.
+Mais comment fait-elle bien ? Elle fait bien pour ceux qui font mal.
 Et toi, tu fais mal de dire qu'une potence est bâtie plus solidement qu'une église.
 Ergo, la potence ferait bien pour toi.
-SECOND PAYSAN.--Pardieu, oui, maintenant je peux le dire.
-PREMIER PAYSAN.--Allons! SECOND PAYSAN.--Par la sainte messe! je ne puis point le dire.
+SECOND PAYSAN., Pardieu, oui, maintenant je peux le dire.
+PREMIER PAYSAN., Allons ! SECOND PAYSAN., Par la sainte messe ! je ne puis point le dire.
 Les maisons qu'il fait durent jusqu'au jugement dernier.
 Allons, va-t'en chez Vaughan, et apporte-moi un pot de liqueur.
 (Le second paysan sort.
-Quant à...
-mes convenances...
-il me semblait que rien ne m'allait plus.
+Quant à … holà ! … mes convenances … hop ! … il me semblait que rien ne m'allait plus.
 La première stance est, dans le texte de Shakspeare, absolument informe et décousue.
-quelqu'un qui aurait circonvenu Dieu lui-même.....
-n'est-ce pas bien possible? HORATIO.--C'est bien possible, mon seigneur.
-Il est à vous puisqu'il vous a plu.»] HORATIO.--Oui, mon seigneur.
-HAMLET.--N'est-ce pas? c'est cela même.
-et un trou d'argile à faire...
-cela convient à un tel hôte.
-HAMLET.--Ceux-là sont des veaux et des moutons qui cherchent là leur assurance...
-Je veux parler à ce camarade.
-Dites-moi, l'homme! de qui est-ce la fosse? PREMIER PAYSAN.--C'est la mienne, monsieur.
-Et un trou d'argile à faire...
-cela convient à un tel hôte.
+Il est à vous puisqu'il vous a plu.»] HORATIO., Oui, mon seigneur.
+HAMLET., N'est-ce pas ? c'est cela même.
+Dites-moi, l'homme ! de qui est-ce la fosse ? PREMIER PAYSAN., C'est la mienne, monsieur.
+Holà ! … Et un trou d'argile à faire … cela convient à un tel hôte.
 Quant à vous mettre dedans, pour ma part, je n'y travaille point.
 Et pourtant, c'est ma fosse.
 Voilà comment tu veux me mettre dedans.
-PREMIER PAYSAN.--Ce qui est vif, monsieur, c'est de vouloir me mettre dedans.
+PREMIER PAYSAN., Ce qui est vif, monsieur, c'est de vouloir me mettre dedans.
 Mais ces vivacités-là pourront bien rebrousser chemin de vous à moi.
-HAMLET.--Pour quelle femme donc? PREMIER PAYSAN.--Ni pour une femme non plus.
+HAMLET., Pour quelle femme donc ? PREMIER PAYSAN., Ni pour une femme non plus.
 Il retrouvera l'esprit là-bas.
-HAMLET.--Comment est-il devenu fou? PREMIER PAYSAN.--Fort étrangement, dit-on.
-HAMLET.--Étrangement? et comment? PREMIER, PAYSAN--C'est, par ma foi, en perdant l'esprit.
-HAMLET.--Et sur quel point? PREMIER PAYSAN.--Sur un point de ce territoire, en Danemark.
+HAMLET., Comment est-il devenu fou ? PREMIER PAYSAN., Fort étrangement, dit-on.
+HAMLET., Étrangement ? et comment ? PREMIER, PAYSAN, C'est, par ma foi, en perdant l'esprit.
+HAMLET., Et sur quel point ? PREMIER PAYSAN., Sur un point de ce territoire, en Danemark.
 Moi, j'y suis sacristain depuis trente ans, tant jeune que vieux.
-ou neuf ans...; un tanneur vous durera neuf ans.
-HAMLET.--Celui-là? PREMIER PAYSAN.--Oui-da, cette chose-là.
-HAMLET.--Laisse-moi voir.
-(Il prend le crâne.) Hélas! pauvre Yorick....
+HAMLET., Celui-là ? PREMIER PAYSAN., Oui-da, cette chose-là.
+HAMLET., Laisse-moi voir.
 (Entrent les prêtres en procession.
 C'était une personne de quelque marque.
 Cachons-nous un moment et observons.
-(Il se retire avec Horatio.) LAERTES.--Quelle autre cérémonie?...
-HAMLET.--C'est Laërtes, un fort noble jeune homme: écoutons.
-LAERTES.--Quelle autre cérémonie?...
-PREMIER PRÊTRE.--Ses obsèques ont été poussées aussi loin que nous en avons mission.
 Écarte ta main.
-LE ROI.--Séparez-les.
-LA REINE.--Hamlet! Hamlet! TOUS.--Messieurs! HORATIO.--Mon bon seigneur, calmez-vous.
-LA REINE.--O mon fils, pour quelle cause? HAMLET.--J'aimais Ophélia.
-Que veux-tu faire pour elle? LE ROI.--O Laërtes, il est fou.
-LA REINE.--Pour l'amour de Dieu, laissez-le! HAMLET.--Morbleu! montre-moi ce que tu veux faire.
-Je ferai tout cela...
-Sur mon honneur! si tu déclames, je crierai aussi bien que toi.
-mais n'importe! Hercule lui-même aurait beau faire: le chat miaulera...
-et le chien aura son tour.
-(Il sort.) LE ROI.--Je te prie, cher Horatio, ne le quitte pas.
-(Horatio sort.)--_À Laërtes.
+LE ROI., Séparez-les.
+LA REINE., Hamlet ! Hamlet ! TOUS., Messieurs ! HORATIO., Mon bon seigneur, calmez-vous.
+LA REINE., O mon fils, pour quelle cause ? HAMLET., J'aimais Ophélia.
+LA REINE., Pour l'amour de Dieu, laissez-le ! HAMLET., Morbleu ! montre-moi ce que tu veux faire.
+(Il sort.) LE ROI., Je te prie, cher Horatio, ne le quitte pas.
+(Horatio sort.), _À Laërtes.
 Que votre patience s'affermisse sur notre entretien d'hier soir.
 (Ils sortent.) Une salle dans le château.
 HAMLET ET HORATIO entrent.
-HAMLET.--Assez sur ce sujet, monsieur; maintenant passons à l'autre.
-HORATIO.--Est-ce possible? HAMLET.--Voici la commission; lis-la plus à loisir.
-Mais veux-tu entendre ce que je fis? HORATIO.--Oui, je vous en prie.
+HAMLET., Assez sur ce sujet, monsieur ; maintenant passons à l'autre.
+HORATIO., Est-ce possible ? HAMLET., Voici la commission ; lis-la plus à loisir.
+Mais veux-tu entendre ce que je fis ? HORATIO., Oui, je vous en prie.
 Je l'écris de ma plus belle main.
-Veux-tu savoir l'objet de ce que j'écrivis? HORATIO.--Oui, mon bon seigneur.
-HAMLET.--Je vous remercie humblement, monsieur...
-Connais-tu ce moucheron? HORATIO.--Non, mon bon seigneur.
+Veux-tu savoir l'objet de ce que j'écrivis ? HORATIO., Oui, mon bon seigneur.
+HAMLET., Je vous remercie humblement, monsieur … Connais-tu ce moucheron ? HORATIO., Non, mon bon seigneur.
 Il possède beaucoup de terres, et qui sont très-fertiles.
-Mettez donc votre chapeau à sa vraie place; il est fait pour la tête.
-OSRICK.--Je remercie Votre Seigneurie; il fait grand chaud.
-HAMLET.--Non, croyez-moi, il fait grand froid.
+OSRICK., Je remercie Votre Seigneurie ; il fait grand chaud.
+HAMLET., Non, croyez-moi, il fait grand froid.
 Le vent est du nord.
-OSRICK.--Vraiment oui, mon seigneur, il fait passablement froid.
-OSRICK.--Furieusement, mon seigneur! Tout à fait étouffant,...
-comme si...
-je ne saurais dire à quel point.
-Voici, monsieur, de quoi il s'agit.....
-HAMLET, le pressant de mettre son chapeau.--Je vous supplie, n'oubliez pas que....
-OSRICK.--Non, mon bon seigneur; pour ma propre commodité, je vous jure....
+OSRICK., Vraiment oui, mon seigneur, il fait passablement froid.
 un, vers la fin).
 Comparez les deux passages.
 De même, dans la comédie de Somaize, les Véritables Précieuses (sc.
-HAMLET.--Oui, monsieur, de lui.
-OSRICK.--Je sais que vous n'êtes pas ignorant....
-HAMLET.--Vous savez cela, monsieur? Je le voudrais.
-Eh bien! monsieur? OSRICK.--Vous n'êtes pas ignorant du grand mérite que montre Laërtes....
-HAMLET.--Quelle est son arme? OSRICK.--La rapière et la dague.
-OSRICK.--Les équipages, monsieur, ce sont les pendants.
+HAMLET., Oui, monsieur, de lui.
+HAMLET., Quelle est son arme ? OSRICK., La rapière et la dague.
+OSRICK., Les équipages, monsieur, ce sont les pendants.
 Sinon, je n'y gagnerai que de la honte et de fâcheuses bottes.
-OSRICK.--Je recommande mes services à Votre Seigneurie.
-(Il sort.) HAMLET.--Tout à vous, tout à vous.
-HORATIO.--Il s'en va courant, l'étourneau, encore coiffé de sa coquille.
+OSRICK., Je recommande mes services à Votre Seigneurie.
+(Il sort.) HAMLET., Tout à vous, tout à vous.
+HORATIO., Il s'en va courant, l'étourneau, encore coiffé de sa coquille.
 Maintenant, ou dans un autre instant, pourvu que je sois aussi dispos qu'à présent.
-LE SEIGNEUR.--Le roi, la reine, tous vont venir.
-HAMLET.--Et ils seront les bienvenus.
-HAMLET.--Elle me donne un bon conseil.
-(Le seigneur sort.) HORATIO.--Vous perdrez ce pari, mon seigneur.
-HAMLET.--Je ne crois pas.
-Tu ne saurais croire combien tout va mal là, du côté de mon coeur.
-Mais, n'importe! HORATIO.--Pourtant, mon bon seigneur...
-HAMLET.--C'est pure sottise, mais c'est une sorte de pressentiment qui troublerait peut-être une femme.
+LE SEIGNEUR., Le roi, la reine, tous vont venir.
+HAMLET., Et ils seront les bienvenus.
+HAMLET., Elle me donne un bon conseil.
+(Le seigneur sort.) HORATIO., Vous perdrez ce pari, mon seigneur.
+HAMLET., Je ne crois pas.
 Si elle n'est pas encore venue, elle n'en viendra pas moins un jour ou l'autre.
 Le tout est d'être prêt.
-(Le roi met la main de Laërtes dans celle de Hamlet.) HAMLET.--Pardonnez-moi, monsieur.
-Je vous ai offensé; mais pardonnez-moi comme un gentilhomme que vous êtes.
-Est-ce Hamlet qui a offensé Laërtes? Hamlet? non, jamais.
-HAMLET.--J'embrasse volontiers cette assurance, et je vais disputer loyalement cette gageure fraternelle....
-Donnez-nous les fleurets.
-LAERTES.--Allons.....Un pour moi.
-HAMLET.--Non, j'en jure par ma main droite.
+(Le roi met la main de Laërtes dans celle de Hamlet.) HAMLET., Pardonnez-moi, monsieur.
+Je vous ai offensé ; mais pardonnez-moi comme un gentilhomme que vous êtes.
+Est-ce Hamlet qui a offensé Laërtes ? Hamlet ? non, jamais.
+LAERTES., Allons …Un pour moi.
+HAMLET., Non, j'en jure par ma main droite.
 Votre Grâce a placé le plus gros enjeu du côté le plus faible.
-LE ROI.--Je ne crains rien: je vous ai vus tous deux à l'oeuvre.
+LE ROI., Je ne crains rien : je vous ai vus tous deux à l'oeuvre.
 Mais comme il a fait des progrès, nous avons pris un avantage.
-LAERTES.--Celui-ci est trop lourd; voyons-en un autre.
-LE ROI.--Mettez-moi les flacons de vin sur cette table.
-LAERTES.--Allons, mon seigneur.
-(Ils commencent l'assaut.) HAMLET.--Une.
-HAMLET.--Qu'on en juge.
-OSRICK.--Une botte, une botte très-visible.
-LAERTES.--Soit: recommençons.
-LE ROI.--Attendez, qu'on me donne à boire.
-Hamlet, cette perle est à toi; à ta santé! Donnez-lui la coupe.
-(Ils recommencent.) Encore une: qu'en dites-vous? LAERTES.--Touché, touché, je l'avoue.
-LE ROI.--Notre fils gagnera.
-LA REINE.--Il est gros et court d'haleine.
-Viens, Hamlet; prends mon mouchoir, essuie ton front.
+LAERTES., Celui-ci est trop lourd ; voyons-en un autre.
+LE ROI., Mettez-moi les flacons de vin sur cette table.
+LAERTES., Allons, mon seigneur.
+(Ils commencent l'assaut.) HAMLET., Une.
+HAMLET., Qu'on en juge.
+OSRICK., Une botte, une botte très-visible.
+LAERTES., Soit : recommençons.
+LE ROI., Attendez, qu'on me donne à boire.
+Hamlet, cette perle est à toi ; à ta santé ! Donnez-lui la coupe.
+(Ils recommencent.) Encore une : qu'en dites-vous ? LAERTES., Touché, touché, je l'avoue.
+LE ROI., Notre fils gagnera.
+LA REINE., Il est gros et court d'haleine.
+Viens, Hamlet ; prends mon mouchoir, essuie ton front.
 La reine boit à ton succès, Hamlet.
-LE ROI.--Gertrude, ne bois pas.
-LA REINE.--Je boirai, mon seigneur.
+LA REINE., Je boirai, mon seigneur.
 Excusez-moi, je vous prie.
-LE ROI, à part.--C'est la coupe empoisonnée; il est trop tard.
-HAMLET.--Je n'ose pas boire encore, madame.
+LE ROI, à part., C'est la coupe empoisonnée ; il est trop tard.
+HAMLET., Je n'ose pas boire encore, madame.
 Tout à l'heure.
-LA REINE.--Viens; laisse-moi t'essuyer le visage.
-LAERTES.--Mon seigneur, maintenant je vais le toucher.
-LE ROI.--Je ne crois pas.
-LAERTES, à part.--Et pourtant c'est presque contre ma conscience.
-HAMLET.--Allons, à la troisième, Laërtes.
+LA REINE., Viens ; laisse-moi t'essuyer le visage.
+LAERTES., Mon seigneur, maintenant je vais le toucher.
+LE ROI., Je ne crois pas.
+LAERTES, à part., Et pourtant c'est presque contre ma conscience.
+HAMLET., Allons, à la troisième, Laërtes.
 Vous ne faites que jouer.
-(Ils recommencent.) LAERTES.--Le croyez-vous? Allons! OSRICK.--Rien de part ni d'autre.
-LAERTES.--À vous, maintenant.
-HAMLET.--Non; recommençons.
+(Ils recommencent.) LAERTES., Le croyez-vous ? Allons ! OSRICK., Rien de part ni d'autre.
+LAERTES., À vous, maintenant.
+HAMLET., Non ; recommençons.
 Je péris justement par ma propre trahison.
-HAMLET.--Comment est la reine? LE ROI.--Elle s'est évanouie en les voyant en sang.
-Trahison! Qu'on découvre la trahison! (Laërtes tombe.) LAERTES.--La voici, Hamlet.
+HAMLET., Comment est la reine ? LE ROI., Elle s'est évanouie en les voyant en sang.
+Trahison ! Qu'on découvre la trahison ! (Laërtes tombe.) LAERTES., La voici, Hamlet.
 Ta mère est empoisonnée.
 Je n'en puis plus.
-(Le roi meurt.) [Note soixante-sept: Le texte porte: Drink of this potion.
-Is thy union here? Follow my mother.
+(Le roi meurt.) [Note soixante-sept : Le texte porte : Drink of this potion.
+Is thy union here ? Follow my mother.
 Je suis mort, Horatio.
-mais, laissons cela...
-Horatio, je suis mort, tu vis; redresse Hamlet et sa cause, aux yeux des mécontents.
-HORATIO.--N'y comptez pas; je tiens plus de l'ancien Romain que du Danois.
+HORATIO., N'y comptez pas ; je tiens plus de l'ancien Romain que du Danois.
 Il reste ici un peu de liqueur.
-HAMLET.--Si tu es un homme, donne-moi la coupe.
-Lâche-la, par le ciel! je l'aurai...
-le reste appartient au silence.
-(Il meurt.) HORATIO.--Ainsi se brise un noble coeur.
+HAMLET., Si tu es un homme, donne-moi la coupe.
+(Il meurt.) HORATIO., Ainsi se brise un noble coeur.
 C'est là ce que je puis fidèlement raconter.
 Allez, et ordonnez aux soldats de faire feu.
 Voici l'origine de cette conjecture.

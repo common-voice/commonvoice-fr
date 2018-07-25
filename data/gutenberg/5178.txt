@@ -63,7 +63,6 @@ Sganarelle - Ce sont quelques vapeurs qui me viennent de monter à la tête.
 Il me tarde déjà que je n'aie des habits raisonnables, pour quitter vite ces guenilles.
 - Géronimo, Sganarelle.
 Sganarelle - Mon Dieu ! cela n'est pas pressé.
-Géronimo - Seigneur Sganarelle, j'ai maintenant quelque petite affaire qui m'empêche de vous ouïr.
 Comme ils sont de sectes différentes, vous pouvez examiner leurs diverses opinions là-dessus.
 Sganarelle - Il a raison.
 Il faut que je consulte un peu ces gens-là sur l'incertitude où je suis.
@@ -74,20 +73,15 @@ Sganarelle -(à part.) Il a pris querelle contre quelqu'un.
 Sganarelle -(à part.) La colère l'empêche de me voir.
 Sganarelle -(à part.) Il faut qu'on l'ait fort irrité.
 Pancrace - Serviteur.
-Sganarelle - Peut-on...
-Sganarelle - Je vous...
-Sganarelle - Je...
-Sganarelle - Puis-je...
 Sganarelle -(à part.) Je pensais que tout fût perdu.
 Seigneur docteur, ne songez plus à tout cela.
-Pancrace - Je suis dans une colère, que je ne me sens pas.
+Je  … Pancrace - Je suis dans une colère, que je ne me sens pas.
 Sganarelle - Laissez la forme et le chapeau en paix.
 J'ai quelque chose à vous communiquer.
-Pancrace - Impertinent fieffé (sept) ! Sganarelle - De grâce, remettez-vous.
-Pancrace - Ignorant ! Sganarelle - Eh ! mon Dieu.
-Pancrace - Me vouloir soutenir une proposition de la sorte ! Sganarelle - Il a tort.
-Pancrace - Une proposition condamnée par Aristote ? Sganarelle - Cela est vrai.
-Pancrace - En termes exprès ! Sganarelle - Vous avez raison.
+Je … Pancrace - Impertinent fieffé (sept) ! Sganarelle - De grâce, remettez-vous.
+Je … Pancrace - Ignorant ! Sganarelle - Eh ! mon Dieu.
+Je … Pancrace - Une proposition condamnée par Aristote ? Sganarelle - Cela est vrai.
+Je … Pancrace - En termes exprès ! Sganarelle - Vous avez raison.
 Voilà qui est fait : je vous prie de m'écouter.
 Je viens vous consulter sur une affaire qui m'embarasse.
 J'ai dessein de prendre une femme, pour me tenir compagnie dans mon ménage.
@@ -111,21 +105,17 @@ Pancrace - Arabe ? Sganarelle - Non, non ; français [, français, français].
 Pancrace - Ah ! français.
 Sganarelle - Fort bien.
 Pancrace - [Ah ! ah !] sur une difficulté de philosophie, sans doute ? Sganarelle - Pardonnez-moi.
-Pancrace - Si la conclusion est de l'essence du syllogisme ? Sganarelle - Nenni.
-Pancrace - Si le bien se réciproque avec la fin ? Sganarelle - Eh ! non.
+Je … Pancrace - Si la conclusion est de l'essence du syllogisme ? Sganarelle - Nenni.
+Je … Pancrace - Si le bien se réciproque avec la fin ? Sganarelle - Eh ! non.
 Pancrace - Expliquez donc votre pensée, car je ne puis pas la deviner.
 Sganarelle - Je vous la veux expliquer aussi ; mais il faut m'écouter.
-Je l'aime fort, et l'ai demandée à son père ; mais comme j'appréhende...
 C'est le truchement du coeur, c'est l'image de l'âme.
 Pancrace - Je vous écoute, parlez.
-Sganarelle - Je dis donc, monsieur le docteur, que...
-Pancrace - Mais surtout soyez bref.
+Sganarelle - Je dis donc, monsieur le docteur, que … Pancrace - Mais surtout soyez bref.
 Sganarelle - Je le serai.
 Pancrace - Évitez la prolixité.
-Sganarelle - Eh ! monsi...
-Pancrace - Tranchez moi votre discours d'un apophtegme à la laconienne.
-Sganarelle - Je vous...
-Pancrace - Point d'ambages (quinze), de circonlution.
+Sganarelle - Eh ! monsi … Pancrace - Tranchez moi votre discours d'un apophtegme à la laconienne.
+Sganarelle - Je vous … Pancrace - Point d'ambages (quinze), de circonlution.
 Sganarelle - Encore ? Pancrace - Homme de suffisance, homme de capacité.
 Homme consommé dans toutes les sciences, naturelles, morales et politiques.
 Homme savant, savantissime, "per omnes modos et casus" (dix-sept).
@@ -172,7 +162,7 @@ Marphurius - Et tu seras condamné en justice.
 Sganarelle - Il en sera ce qui pourra.
 Marphurius - Laisse-moi faire.
 - Deux Égyptiennes, Sganarelle.
- en chantant et en dansant.) Sganarelle - Elles sont gaillardes.
+en chantant et en dansant.) Sganarelle - Elles sont gaillardes.
 Sganarelle - Tenez, les voilà toutes deux avec ce que vous demandez.
 Première Égyptienne - Tu as une bonne physionomie, mon bon monsieur, une bonne physionomie.
 Deuxième Égyptienne - Tu épouseras une femme gentille, une femme gentille.
@@ -184,8 +174,7 @@ Mais dites-moi un peu, suis-je menacé d'être cocu.
 Deuxième Égyptienne - Cocu ? Sganarelle - Oui.
 Lycaste - Vous vous mariez tout de bon ? Dorimène - Tout de bon.
 Lycaste - Et vos noces se feront dès ce soir ? Dorimène - Dès ce soir.
-Lycaste - Est-ce là monsieur ?...
-Dorimène - Oui, c'est monsieur qui me prend pour femme.
+Lycaste - Est-ce là monsieur ? … Dorimène - Oui, c'est monsieur qui me prend pour femme.
 Dorimène - C'est trop d'honneur que vous nous faites à tous deux.
 Tâchons adroitement de nous débarrasser de cette affaire.
 Holà ! Scène quatorze.
@@ -211,8 +200,7 @@ Sganarelle - J'ai quelques infirmités sur mon corps qui pourraient la dégoûte
 Alcantor - Cela n'est rien.
 Une honnête femme ne se dégoûte jamais de son mari.
 Alcantor - Vous moquez-vous ? J'aimerai mieux mourir que d'avoir manqué à ma parole.
-Sganarelle - Mon Dieu, je vous en dispense, et je...
-Alcantor - Point du tout.
+Sganarelle - Mon Dieu, je vous en dispense, et je … Alcantor - Point du tout.
 je vous l'ai promise, et vous l'aurez, en dépit de tous ceux qui y prétendent.
 Alcantor - Qui, vous ? Sganarelle - Oui, moi.
 Alcantor - Écoutez.
@@ -221,10 +209,6 @@ Mais voici le fils qui vient me rendre réponse.
 - Alcidas, Sganarelle.
 Alcidas -(parlant d'un ton doucereux.) Monsieur, je suis votre serviteur très humble.
 Sganarelle - Monsieur, je suis le vôtre de tout mon coeur.
-Sganarelle - Oui, Monsieur, c'est avec regret ; mais...
-Alcidas - Oh ! Monsieur, il n'y a pas de mal à cela.
-Sganarelle - J'en suis fâché, je vous assure ; et je souhaiterais...
-Alcidas - Cela n'est rien, vous dis-je.
 Monsieur, prenez la peine de choisir, de ces deux épées, laquelle vous voulez.
 Sganarelle - De ces deux épées ? Alcidas - Oui, s'il vous plaît.
 Sganarelle - Voilà un compliment fort mal tourné.
@@ -238,7 +222,6 @@ Alcidas - Vous ne voulez pas vous battre ? Sganarelle - Nenni, ma foi.
 Alcidas - Tout de bon ? Sganarelle - Tout de bon.
 Sganarelle - Monsieur, je ne puis faire ni l'un ni l'autre, je vous assure.
 Alcidas - Assurément ? Sganarelle - Assurément.
-Alcidas - Avec votre permission, donc...
 Sganarelle - Eh bien, j'épouserai, j'épouserai.
 Je vais appeler mon père, pour lui dire que tout est d'accord.
 - Alcantor, Dorimène, Alcidas, Sganarelle.

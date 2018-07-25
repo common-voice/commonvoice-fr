@@ -2,7 +2,7 @@ On peut s'efforcer de dissimuler l'existence de l'écrit.
 De là l'origine de l'écriture en chiffres.
 De même que tous les arts, celui-ci débute par des essais naïfs et incomplets.
 Les écrivains de l'antiquité en ont conservé le souvenir.
- De la Cryptographie chez les peuples de l'antiquité.
+De la Cryptographie chez les peuples de l'antiquité.
 Il va sans dire qu'un pareil procédé n'est point susceptible d'une application fréquente.
 C'est encore l'historien que nous avons déjà nommé qui va nous raconter ce fait.
 On suivit son conseil, et les caractères furent trouvés.
@@ -11,14 +11,14 @@ En cessant de faire usage des notes tironiennes, on en oublia la signification.
 Tassin et Thuilier, ainsi qu'au Dictionnaire diplomatique de Dom de Vaines.
 Un ouvrage de J.
 [Gl.] Clemens.
-On mettra .Nc.p.t v[Pt.]rs[Pt.]s B::n.f:c..
- Le chiffre chez les modernes.
+On mettra .Nc.p.t v[Pt.]rs[Pt.]s B ::n.f :c … :rch.
+Le chiffre chez les modernes.
 La correspondance imprimée d'un érudit célèbre qui exerça d'importantes fonctions diplomatiques, H.
 Grotius, présente divers passages écrits en chiffres.
 La France profita pendant deux ans de cette découverte.
-Elle demanda que Viete fût jugé comme un négromant: elle porta ses plaintes à Rome.
+Elle demanda que Viete fût jugé comme un négromant : elle porta ses plaintes à Rome.
 Le nombre vingt-quatre signifiait l'Électeur, cent dix l'Empereur, cent seize le père Wolf.
- Cartes mystérieuses de Monsieur de Vergennes.
+Cartes mystérieuses de Monsieur de Vergennes.
 On enlevait les courriers, on corrompait à force d'or les employés des chancelleries.
 Opitz, avait, dit-on, été l'inventeur.
 L'âge du porteur était exprimé par la forme de la carte.
@@ -26,7 +26,6 @@ Deux lignes placées au-dessous du nom du porteur de la carte indiquaient sa tai
 Des points placés également dans la bordure révélaient la position de fortune.
 S'il passait pour athée, on ne mettait aucun signe.
 D'un autre côté, il est certain que beaucoup de dépêches importantes n'ont jamais été chiffrées.
- L'abbé Trithème.
 (Paris, mille cinq cent quarante et un.
 Trithème s'efforce de rattacher, à ce système, des notions historiques et d'en établir la réalité.
 Un pareil livre n'eut pas moins de six ou sept éditions.
@@ -90,74 +89,72 @@ Il est à propos de ne pas se conformer strictement à l'orthographe.
 On peut aussi écrire par abréviation.
 Porta s'occupe des moyens de distinguer des voyelles les consonnes.
 Il y a quatre consonnes qu'on appelle liquides ou mouillées, savoir l, m, n, r.
-La consonne b admet les lettres l et r; exemple: blanc, bras.
-La consonne c les admet pareillement; par exemple: clair, scribe.
+La consonne b admet les lettres l et r ; exemple : blanc, bras.
+La consonne c les admet pareillement ; par exemple : clair, scribe.
 L'r n'admet que l'h.
 Le grand cadran contiendra la suite des nombres depuis un jusqu'à vingt, vingt-quatre ou vingt-huit.
 Voici un des modèles de ces alphabets qu'indique Porta et qu'il regarde comme indéchiffrables.
- Blaise de Vigenère.
+Blaise de Vigenère.
 L'auteur n'a point su se préserver de l'écueil contre lequel ses prédécesseurs étaient venus échouer.
 Il reproduit, en général, les inventions cryptographiques de Porta.
   un.deux.un.six.
-Le roi s'exprimerait en écrivant: cinq.
+Le roi s'exprimerait en écrivant : cinq.
 grains    d'or,  d'argent,  d'ébène,  d'ivoire.
 Paris, par exemple, se traduira par abbba aaaaa baaaa abaaa baaab.
- Jérôme Cardan.
 in-folio) ne renferme pas moins de deux cent vingt-deux traités en ouvrages divers.
 On peut consulter, à l'égard de cet étrange écrivain, Buhle, Histoire de la Philosophie, tom.
-sept cent trente-sept cent trente-neuf de la traduction française; la Rétrospective Review, tom.
+sept cent trente-sept cent trente-neuf de la traduction française ; la Rétrospective Review, tom.
 cent sept, et l'Histoire de la Chimie, par Monsieur Hoefer, tom.
 un., the life and times of G.
 Cardan, London, mille huit cent trente-six, deux vol.
-8º).]  Le duc de Brunswick.
+8º).] Le duc de Brunswick.
 Pour écrire l'empereur d'Autriche, vous mettrez icoakitk iaguieak.
- Préceptes généraux.
 Les accents et le trait d'union sont abolis.
 On emploie ce qu'on nomme des non-valeurs (otiosi characteres), afin de dérouter les curieux.
- Chiffre imaginé par Mirabeau.
- Dictionnaire de convention.
- Théorie des chiffres chiffrants et déchiffrants.
+Chiffre imaginé par Mirabeau.
+Dictionnaire de convention.
+Théorie des chiffres chiffrants et déchiffrants.
  deux cent soixante.
  trois cent onze.
  mille vingt.
- Autres systèmes de chiffres.
- Chiffre par excellence.
+Autres systèmes de chiffres.
+Chiffre par excellence.
 Blan cbecbl ancblabl ancbe cblan.
 Vous placez P pour première lettre de la missive chiffrée.
 La seconde vraie lettre est un O, la seconde lettre de la clef est L.
-Vous mettez pour troisième et quatrième caractère de votre dépêche chiffrée: cinq G.
+Vous mettez pour troisième et quatrième caractère de votre dépêche chiffrée : cinq G.
 Au-dessous du billet chiffré, il écrira chacune des lettres du mot de clef.
 cent soixante-dix), rentre dans une catégorie toute semblable.
- Grille en châssis.
+Grille en châssis.
 Elle réclame peu de temps.
 «Il laissa Jules seul dans le cabinet, et revint assez promptement.
 Ce procédé est un peu compliqué.
- De l'emploi des signes astronomiques.
+De l'emploi des signes astronomiques.
 Chacun de ces signes exprime une lettre, une syllabe ou un mot.
 Vigenère se plaît à en fournir des exemples qu'il développe avec sa prolixité habituelle.
 Voici, parmi les procédés de ce genre, le meilleur et le plus simple.
 Donnons-en un exemple.
- Signes de la mnémonique.
+Signes de la mnémonique.
 Enfin, il transforme ces chiffres en mots que donne sa mnémonique chiffrée.
 Il écrit ces mots tout au long.
 Il arrive ainsi à des séries de mots latins qui n'offrent aucun sens en apparence.
 Ce procédé exige beaucoup de temps, de peine et de papier.
- Correspondance au moyen d'un jeu de cartes.
+Correspondance au moyen d'un jeu de cartes.
 On doit également déterminer l'ordre du mélange qui doit se faire de ces cartes.
 Le jeu étant remis dans son premier état, chaque carte sera chargée des lettres ci-après.
 Manière de lire.
- De l'emploi des lettres nulles, afin de cacher le sens d'une  dépêche.
+De l'emploi des lettres nulles, afin de cacher le sens d'une dépêche.
 Voici un passage emprunté à la Germanie de Tacite et écrit d'après un pareil système.
 Dans chacune des lignes suivantes, le premier et le dernier mot le sont également.
 Ceci posé, on peut écrire la phrase suivante.
 Lampsi deso saleu e_rege_su s_ex_a a_nobi_o nous futher c_litate_s u_duces_n t_ex_t s_uirtute_y ai ma t_sumunt_a.
 o_si_m s_ante_r s_asi_s do le s_em_o s_agunt_u s_admi_o e_ratio_x a_ne_s s_prae_t y allos o_sunt_y dorche.
-Pour écrire nemo est domi (personne n'est à la maison), vous mettrez:  ex_n_pt_e_rk_m_bd_o_ vn_e_cs_s_mj_t_ lb_d_ku_o_ph_m_cu_i_.
+Pour écrire nemo est domi (personne n'est à la maison), vous mettrez : ex_n_pt_e_rk_m_bd_o_ vn_e_cs_s_mj_t_ lb_d_ku_o_ph_m_cu_i_.
 Ou bien on mêle aux mots certaines syllabes qui n'ont aucun sens.
-Pour dire: Pater meus non est domi, vous mettrez: Pa_ba_t_eb_er me_beub_us no_bo_n eb_est_ do_lo_mi_bi.
-_Fababribicabatober voudra dire: Fabricator.
- De la stéganométrographie.
-En voici un exemple: _Tableau_ un.
+Pour dire : Pater meus non est domi, vous mettrez : Pa_ba_t_eb_er me_beub_us no_bo_n eb_est_ do_lo_mi_bi.
+_Fababribicabatober voudra dire : Fabricator.
+De la stéganométrographie.
+En voici un exemple : _Tableau_ un.
 a  Ne mora te teneat b  Ne cunctare precor h  Ne dedigneris _Tableau_ deux.
 a  chartæ perfringere gemmam.
 b  sua vincula demere chartæ.
@@ -169,16 +166,16 @@ b  depinget epistola casus.
 i  Lætitias mentis _Tableau_ huit.
 i  demat ut illa.
 Le déchiffrement est facile pour votre correspondant.
- Chiffre formé par un système de lettres et de points.
+Chiffre formé par un système de lettres et de points.
 On range par décade ou dizaine les mots de la dépêche à chiffrer.
 On écrira en conséquence les lettres qui forment successivement la dépêche chiffrée.
- Chiffre inventé par Hermann.
- De l'emploi des notes de musique.
+Chiffre inventé par Hermann.
+De l'emploi des notes de musique.
 Il est réglé circulairement, comme un papier de musique.
 Paris, mille huit cent deux, in-douze.
 Les signes qu'emploie cette méthode sont beaucoup plus simples que ceux de l'alphabet ordinaire.
-Ils se réduisent à trois: i, c, [Signe].
-Ce mot se compose de deux mots grecs, [Grec: pasi], à tous, [Grec: graphô], j'écris.
+Ils se réduisent à trois : i, c, [Signe].
+Ce mot se compose de deux mots grecs, [Grec : pasi], à tous, [Grec : graphô], j'écris.
 Trois sortes d'écritures ont été connues des anciens Égyptiens.
 Le nombre de ces signes est d'environ huit cents.
 «L'écriture hiératique est une véritable tachygraphie de la précédente.
@@ -186,9 +183,9 @@ Cet ouvrage a coûté à son auteur plus de vingt-cinq livres sterling (un milli
 soixante-trois, et dans la Revue encyclopédique, t.
 Ce n'était pas, d'ailleurs, au Mexique seulement, qu'on avait recours à pareilles images.
 Lederer (Journal des Savants, mille six cent quatre-vingt-un, p.
- Langage au moyen des gestes.
+Langage au moyen des gestes.
 Les anciens connaissaient cet art.
-[Note six: Tome premier de l'édition de Cologne, mille six cent quatre-vingt-huit, huit vol.
+[Note six : Tome premier de l'édition de Cologne, mille six cent quatre-vingt-huit, huit vol.
 D'après un mémoire d'H.
 Nous nous contenterons de mentionner un alphabet qu'on peut appeler alphabet facial.
        Traits physionomiques.
@@ -217,31 +214,30 @@ le, la, les, »  placé verticalement devant la figure.
 _nom d'homme_,  main ouverte.
 _fin de mot_,   doigt fermé.
 _fin de phrase_,   main fermée.
-L'hyacinthe veut dire: ami ou amie.
-Indiquons le sens attaché à d'autres fleurs: oreille-d'ours,    soeur ou frère.
- Des alphabets factices.
+L'hyacinthe veut dire : ami ou amie.
+Indiquons le sens attaché à d'autres fleurs : oreille-d'ours,    soeur ou frère.
+Des alphabets factices.
 Gorisgatpa Helotim Latintas aciton aragiaton Amka jaribai untus gilgar Selingarasch.» § Ier.
- Artifices imaginés pour déguiser des dates.
+Artifices imaginés pour déguiser des dates.
 La tête d'un Moyne, (M) mille.
 Y ajouter celles de deux Cordeliers et d'un Chanoine, (CCC) trois cents.
 Puis, un O partagé en deux, (CC) deux cents.
 Prendre ensuite un dix (dix).
 La difficulté consiste à savoir ce que signifie ung N prise en algorithme.
-Le Formulaire fort récréatif de tous contratz...
-fait par Bredin, Lyon, mille cinq cent quatre-vingt-quatorze.
- De l'emploi que divers littérateurs ont fait de la Cryptographie.
+Le Formulaire fort récréatif de tous contratz … fait par Bredin, Lyon, mille cinq cent quatre-vingt-quatorze.
+De l'emploi que divers littérateurs ont fait de la Cryptographie.
 «Les dames de la cour et quelques autres encore,» etc.
 En feuilletant l'édition de ses Poemata (Utrecht, mille sept cent quatre-vingt-quatre, deux vol.
 in-8º), nous avons remarqué que l'épigramme deux cent soixante-seize du Ier livre (tom.
-et le dernier: Expecta nondum, Lucia, efgxuxk.
+et le dernier : Expecta nondum, Lucia, efgxuxk.
 Terminons en mentionnant une autre particularité dans le genre de celles que nous signalons ici.
 C'est une singularité dont il serait sans doute difficile de trouver d'autres exemples.
 «Autant de récits, autant d'énigmes sous diverses formes et avec des costumes divers.
 Nous allons en citer quelques-uns.
-Indiquons encore: Les Visites, par mademoiselle de Kéralio, Paris, mille sept cent quatre-vingt-douze, in-huit.
+Indiquons encore : Les Visites, par mademoiselle de Kéralio, Paris, mille sept cent quatre-vingt-douze, in-huit.
 Histoire de la princesse de Paphlagonie, par mademoiselle de Montpensier.
 Galerie des États généraux (par Mirabeau, de Luchet, etc.).
-Esuriunt tot quot superfuere vivi; præterea quæ agenda sunt consulito.
+Esuriunt tot quot superfuere vivi ; præterea quæ agenda sunt consulito.
 Ces lettres sont a et y.
 Lorsque la voyelle est suivie d'une autre voyelle, c'est habituellement d'un e.
 Il est rare qu'un mot finisse par les consonnes b, f, g, h, p, q.
@@ -250,7 +246,7 @@ L'y se rencontre souvent à la fin des mots et presque jamais au milieu.
 L'article indéclinable the (le, la, les) reparaît fréquemment.
 Les consonnes doubles que l'on trouve à la fin des mots, sont ll et ss.
 La langue espagnole présente des mots d'une grande étendue, tels que arrepentimiento, verdaderamente.
-Au milieu des mots, u est fréquemment suivi d'un e; vuestro, ruego.
+Au milieu des mots, u est fréquemment suivi d'un e ; vuestro, ruego.
 Passons à l'allemand.
 Voici un fait de ce genre.
 Le papier doit conserver sa couleur et son éclat habituels.
@@ -337,7 +333,7 @@ Anfangsgründe der Entzifferungskunst deutscher Zifferschriften, Duisburg, mille
 LATOUR (Charlotte de).
 (L'auteur de cet ouvrage, en prose et en vers, est Monsieur Aimé Martin.) LEIBNITZ.
 (LEMANG).
-Die Kunst der Geheimschreiberei,...
+Die Kunst der Geheimschreiberei, … im.
 Leipzig, mille sept cent quatre-vingt-dix-sept, in-quatre, quarante pag.
 de Monsieur Tullio Tirone, Amsterdam, mille huit cent quatre.
 LINDNER (Sam.).
@@ -366,17 +362,17 @@ PRASSE (Monsieur de).
 De reticulis cryptographicis, Lipsiæ, mille sept cent quatre-vingt-dix-neuf, in-quatre, quatorze pag.
 Art d'écrire aussi vite qu'on parle, Paris, mille sept cent quatre-vingt-trois, in-douze.
 Paris, mille six cent quatre-vingt-un.
-Les anciennes éditions portaient pour titre: Tacheographie ou l'Art d'écrire, etc.
+Les anciennes éditions portaient pour titre : Tacheographie ou l'Art d'écrire, etc.
 On en connaît une traduction allemande, Leipzig, mille sept cent quarante-cinq, in-huit.
 SARPE, Prolegomena ad tachygraphiam romanam, Rostock, mille huit cent vingt-neuf, in-quatre.
 Vollstændiges wissenschaftliches Gedankenverzeichniss zum Behuf einer allgemeinen Schriftsprache, Dillingen, mille huit cent sept, in-huit.
---Grundsætze für eine allgemeine Schriftlehre, mille huit cent seize-mille huit cent dix-huit, deux vol.
+Grundsætze für eine allgemeine Schriftlehre, mille huit cent seize-mille huit cent dix-huit, deux vol.
 SCHOTT (Gaspard).
 Schola steganographica in classes octo distributa, Nuremberg, mille six cent soixante-cinq, in-quatre.
-in-quatre; mille six cent soixante-dix-sept.
+in-quatre ; mille six cent soixante-dix-sept.
 SOLBRIT (Dav.).
 Ratio scribendi per zifras, mille sept cent vingt-six, in-huit.
---Allgemeine Schrift oder Art durch Ziffern zu schreiben, Coburg, mille sept cent trente-six, in-huit.
+Allgemeine Schrift oder Art durch Ziffern zu schreiben, Coburg, mille sept cent trente-six, in-huit.
 C'est la traduction de l'ouvrage latin précédent.
 Steganographia recens detecta, Ulm, mille sept cent soixante-quatre, in-huit, quatre-vingt-dix-sept p.
 L'auteur a gardé l'anonyme, mais il a signé la préface des lettres C.
@@ -392,7 +388,7 @@ TOD (Al.).
 The olive-leafe or an universal A.
 C., London, mille six cent trois, in-huit.
 TRITHEMII (J.).
-[Note huit: La triste destinée de Collange mérite qu'on en fasse mention.
+[Note huit : La triste destinée de Collange mérite qu'on en fasse mention.
 Trithemii, genuina declaratio, auctore J.
 Caramuele, Colon., mille six cent trente-quatre, in-quatre.
 TRITHEMII Stenographia vindicata et illustrata, auctore W.
@@ -402,13 +398,12 @@ UKEN (M.).
 Il en existe une traduction allemande, Ulm, mille sept cent cinquante-neuf.
 URQUHART (Thomas).
 Logopandecteision, or an introduction to the universal language, London, mille six cent cinquante-trois, in-quatre.
-Pasigraphie und Antipasigraphie...
 WALLIS (J.).
 Opera miscellanea, Oxoniæ, mille six cent quatre-vingt-dix-neuf, in-folio.
 WILDVOGEL (Ch.).
 de scripturis terribilibus, Francof., mille sept cent dix-neuf, in-quatre.
 WILKINS (évêque de Chester).
-Définition de la Cryptographie, son origine; CHAP.
+Définition de la Cryptographie, son origine ; CHAP.
 Auteurs qui ont écrit sur la Cryptographie.
             trente-cinq CHAP.
 Règles et procédés de Cryptographie.
@@ -421,6 +416,6 @@ Des livres à clef.
                                     deux cent huit CHAP.
 Des écritures occultes.
                              deux cent vingt-cinq Bibliographie.
---Les mots contenus dans [] sont imprimés dans des cases (ex: page cent vingt).
---Les signes enclos dans [= =] sont encadrés dans l'ouvrage.
---Chiffres précédés par [- sont surmontés d'un trait; ceux précédés
+Les mots contenus dans [] sont imprimés dans des cases (ex : page cent vingt).
+Les signes enclos dans [= =] sont encadrés dans l'ouvrage.
+Chiffres précédés par [- sont surmontés d'un trait ; ceux précédés

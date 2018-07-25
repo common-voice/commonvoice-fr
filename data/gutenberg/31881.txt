@@ -1,12 +1,12 @@
 ÉVERAT, IMPRIMEUR, RUE DU CADRAN, Nº seize.
-[NOTE DU TRANSCRIPTEUR: Ce premier volume contient un grand nombre de formules algébriques.
+[NOTE DU TRANSCRIPTEUR : Ce premier volume contient un grand nombre de formules algébriques.
 mille huit cent trente.
 En témoignage de ma respectueuse affection, Auguste Comte, Ancien élève de l'École Polytechnique.
 Le plan est demeuré complétement le même.
 Paris, le dix-huit décembre mille huit cent vingt-neuf.
 Ainsi l'exige notre organisation.
 Mais il ne pouvait en être ainsi dans l'enfance de l'esprit humain.
-Telle est la destination naturelle des conceptions métaphysiques: elles n'ont pas d'autre utilité réelle.
+Telle est la destination naturelle des conceptions métaphysiques : elles n'ont pas d'autre utilité réelle.
 Aucun esprit juste ne cherche aujourd'hui à aller plus loin.
 Elle nous offre la vérification très-sensible des remarques générales précédentes.
 Cet ordre sera le sujet spécial de la prochaine leçon.
@@ -40,7 +40,7 @@ Cela posé, on sait que six objets comportent sept cent vingt dispositions diff�
 Ce que nous voulons déterminer, c'est la dépendance réelle des diverses études scientifiques.
 Or, cette dépendance ne peut résulter que de celle des phénomènes correspondans.
 De là la nécessité de n'étudier les phénomènes physiologiques qu'après ceux des corps inorganiques.
-D'où la physique céleste, ou l'astronomie, soit géométrique, soit mécanique; et la physique terrestre.
+D'où la physique céleste, ou l'astronomie, soit géométrique, soit mécanique ; et la physique terrestre.
 La nécessité de cette division est exactement semblable à celle de la précédente.
 D'où la physique proprement dite, et la chimie.
 Celle-ci, pour être conçue d'une manière vraiment méthodique, suppose évidemment la connaissance préalable de l'autre.
@@ -54,7 +54,7 @@ Relativement à l'éducation générale, cette condition est encore bien plus n�
 On conçoit combien il importe de réformer un plan d'études aussi vicieux.
 Considérations philosophiques sur l'ensemble de la science mathématique.
 La définition de la science, ses principales divisions, sont demeurées jusqu'ici vagues et incertaines.
-Mais l'idée est juste au fond; elle est même suffisamment étendue, lorsqu'on la conçoit convenablement.
+Mais l'idée est juste au fond ; elle est même suffisamment étendue, lorsqu'on la conçoit convenablement.
 Néanmoins, cette définition n'a point réellement d'autre défaut que de n'être pas suffisamment approfondie.
 Pour y parvenir, il faut d'abord considérer un fait général, très-facile à constater.
 Tel est l'objet précis de la science mathématique envisagée dans son ensemble.
@@ -65,7 +65,7 @@ Il suffira, pour la faire bien comprendre, d'en indiquer un seul exemple.
 En un mot, ce premier travail aboutit à la découverte de la loi de Galilée.
 Quand cette partie concrète est terminée, la recherche devient d'une tout autre nature.
 Dans cet exemple, la question concrète est plus difficile que la question abstraite.
-La partie abstraite des mathématiques est donc, de sa nature, générale; la partie concrète, spéciale.
+La partie abstraite des mathématiques est donc, de sa nature, générale ; la partie concrète, spéciale.
 Le calcul a pour objet propre de résoudre toutes les questions de nombres.
 Mais tel n'en est pas moins son vrai caractère.
 Pour concevoir nettement la véritable nature d'une science, il faut toujours la supposer parfaite.
@@ -217,22 +217,22 @@ L'exemple actuel en offre une preuve sensible.
 Voici en quoi il consiste.
 Dédicace v Avertissement de l'auteur.
 Tableau synoptique de l'ensemble du cours de philosophie positive.
-troisième LEÇON.--Considérations philosophiques sur l'ensemble de la science mathématique.
-quatrième LEÇON.--Vue générale de l'analyse mathématique.
-cinquième LEÇON.--Considérations générales sur le calcul des fonctions directes.
-septième LEÇON.--Tableau général du calcul des fonctions indirectes.
-huitième LEÇON.--Considérations générales sur le calcul des variations.
-neuvième LEÇON.--Considérations générales sur le calcul aux différences finies.
-dixe LEÇON.--Vue générale de la géométrie.
-onzee LEÇON.--Considérations générales sur la géométrie spéciale ou préliminaire.
-douzee LEÇON.--Conception fondamentale de la géométrie générale ou analytique.
-treizee LEÇON.--De la géométrie générale à deux dimensions.
-quatorzee LEÇON.--De la géométrie générale à trois dimensions.
-quinzee LEÇON.--Considérations philosophiques sur les principes fondamentaux de la mécanique rationnelle.
-seizee LEÇON.--Vue générale de la statique.
-dix-septe LEÇON.--Vue générale de la dynamique.
-dix-huite LEÇON.--Considérations sur les théorèmes généraux de mécanique rationnelle.
-NOTE DU TRANSCRIPTEUR: Ces erreurs ont été corrigées dans le présent document.
+troisième LEÇON., Considérations philosophiques sur l'ensemble de la science mathématique.
+quatrième LEÇON., Vue générale de l'analyse mathématique.
+cinquième LEÇON., Considérations générales sur le calcul des fonctions directes.
+septième LEÇON., Tableau général du calcul des fonctions indirectes.
+huitième LEÇON., Considérations générales sur le calcul des variations.
+neuvième LEÇON., Considérations générales sur le calcul aux différences finies.
+dixe LEÇON., Vue générale de la géométrie.
+onzee LEÇON., Considérations générales sur la géométrie spéciale ou préliminaire.
+douzee LEÇON., Conception fondamentale de la géométrie générale ou analytique.
+treizee LEÇON., De la géométrie générale à deux dimensions.
+quatorzee LEÇON., De la géométrie générale à trois dimensions.
+quinzee LEÇON., Considérations philosophiques sur les principes fondamentaux de la mécanique rationnelle.
+seizee LEÇON., Vue générale de la statique.
+dix-septe LEÇON., Vue générale de la dynamique.
+dix-huite LEÇON., Considérations sur les théorèmes généraux de mécanique rationnelle.
+NOTE DU TRANSCRIPTEUR : Ces erreurs ont été corrigées dans le présent document.
 La liste en est reproduite ici seulement pour fin de référence.
 Page cent quarante-sept, ligne vingt-cinq, au lieu de idées, lisez conceptions.
 deux cent un un fait, lisez sait.

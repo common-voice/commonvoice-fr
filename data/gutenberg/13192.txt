@@ -338,8 +338,6 @@ Une partie de nos troupes borde l'Oder.
 Le roi de Prusse a passé la Vistule.
 Voici la proclamation que l'empereur a faite à ses soldats : Proclamation de l'empereur à l'armée.
 Soldats ! vous avez justifié mon attente, et répondu dignement à la confiance du peuple français.
-Je ne sais désormais à quelle arme je dois donner la préférence….
-vous êtes tous de bons soldats.
 Voici les résultats de nos travaux.
 Toutes les provinces de la monarchie prussienne, jusqu'à l'Oder, sont en notre pouvoir.
 Soldats ! les Russes se vantent de venir à nous.
@@ -1221,7 +1219,6 @@ Toutes les bonnes nouvelles des succès d'Ismaïl et de Valachie venaient d'arri
 Les Russes ont été obligés de lever le siége d'Ismaïl et d'évacuer la Valachie.
 De notre camp impérial de Finckenstein, le vingt-huit mai mille huit cent sept.
 Lettre de sudMonsieur aux archevêques et évêques de France.
-«Monsieur l'évêque de ….
 Malgré la rigueur de la saison, nous en avons fait sur-le-champ commencer le siége.
 Après quarante jours de tranchée, cette importante place est tombée au pouvoir de nos armes.
 Tout ce que nos ennemis ont pu entreprendre pour la secourir, a été déjoué.
@@ -1756,7 +1753,7 @@ Espagnols, votre destinée est entre vos mains.
 Il dépend de vous que cette constitution soit encore votre loi.
 Au camp impérial de Madrid, sept décembre mille huit cent huit.
 Circulaire aux archevêques, aux évêques et aux président des consistoires.
-Sur ce, Monsieur l'évêque d…., nous prions Dieu qu'il vous ait en sa sainte garde.
+Sur ce, Monsieur l'évêque d …, nous prions Dieu qu'il vous ait en sa sainte garde.
 Madrid, le huit décembre mille huit cent huit.
 Seizième bulletin de l'armée d'Espagne.
 Il fait une mention particulière des trois régimens de la Vistule.
@@ -2595,7 +2592,6 @@ Ce que vous me dites au nom de votre département me fait plaisir.
 Réponse de Sa Majesté à l'adresse du collège électoral du département de la Haute-Loire.
 Si j'ai confiance dans ma force, c'est que j'en ai dans l'amour de mes peuples.
 Réponse de Sa Majesté à l'adresse du collège électoral du département des Basses-Pyrénées.
-J'agrée vos sentimens ; j'ai parcouru l'année passée votre département avec intérêt……….
 Réponse de Sa Majesté à l'adresse du collège de Montenotte.
 Paris, quatre avril mille huit cent dix.
 Réponse de Sa Majesté au discours du président du sénat, après le mariage de Napoléon.

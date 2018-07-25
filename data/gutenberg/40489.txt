@@ -25,19 +25,19 @@ Nous appellerons cette donnée numérique taux de la mortalité-suicide propre �
 On le calcule généralement par rapport à un million ou à cent mille habitants.
 C'est ce que nous avons fait au tableau deux (cinq.
 On s'en aperçoit en comparant les écarts moyens.
-/ +--------------------------------------------------------------------+ |                      A.--Chiffres absolus.
+/ +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , + |                      A., Chiffres absolus.
  |    huit virgule cinq | vingt-deux virgule huit| Moy.
  |   dix virgule un | vingt-quatre virgule un| Moy.
  |    cent |cent  | Moy.
  |    cent |  cent| Moy.
- |    cent |cent  | +--------------------------------------------------------------------+ |                    C.--Grandeur de l'écart.
-                       | +--------------------------------------------------------------------+ |                  |    ENTRE DEUX ANNÉES   |AU-DESSUS et au-dessous | |                  |       consécutives.
+ |    cent |cent  | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , + |                    C., Grandeur de l'écart.
+                       | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , + |                  |    ENTRE DEUX ANNÉES   |AU-DESSUS et au-dessous | |                  |       consécutives.
    |     de la moyenne.
 Tableau trois, ci-dessous).
 C'est ce que prouve l'examen de ce même tableau.
 Chacun a son coefficient d'accélération qui lui est propre.
 Tableau trois Taux des suicides par million d'habitants dans les différents pays d'Europe.
-/ +-----------------+-------+-------+-------+--------+--------+--------+ |                 |mille huit cent soixante-six-soixante-dix|       |       |premier pér.
+/ +, , , , , , , , -+, , , -+, , , -+, , , -+, , , , +, , , , +, , , , + |                 |mille huit cent soixante-six-soixante-dix|       |       |premier pér.
 |deuxième pér.
 |troisième pér.
 Chaque société est prédisposée à fournir un contingent déterminé de morts volontaires.
@@ -65,14 +65,14 @@ D'ailleurs, d'une expérience aussi étroitement spéciale, on ne saurait induir
 Les spécialistes se sont peu attachés, en général, à classer les suicides d'aliénés.
 On peut cependant considérer que les quatre types suivants renferment les espèces les plus importantes.
 Les traits essentiels de cette classification sont empruntés à Jousset et à Moreau de Tours.
-Suicide maniaque.--Il est dû soit à des hallucinations, soit à des conceptions délirantes.
+Suicide maniaque., Il est dû soit à des hallucinations, soit à des conceptions délirantes.
 Ce qui distingue cette affection, c'est son extrême mobilité.
 C'est un perpétuel tourbillon.
 À peine un état de conscience est-il né qu'il est remplacé par un autre.
 S'il se reproduit plus tard, ce sera pour un autre motif.
 L'incident le plus insignifiant peut amener de ces brusques transformations.
 Aussitôt, notre homme s'en retourne paisiblement chez lui, ne songeant plus à se tuer.
-Les plaisirs n'ont pour lui aucun attrait; il voit tout en noir.
+Les plaisirs n'ont pour lui aucun attrait ; il voit tout en noir.
 La vie lui semble ennuyeuse ou douloureuse.
 Elles sont fixes, au contraire, comme l'état général dont elles dérivent.
 Aussi est-il très tenace.
@@ -96,43 +96,44 @@ Malheureusement, celle-ci n'est pas atteinte par la statistique.
 Mais un biais va nous fournir les moyens de tourner la difficulté.
 Mayr de son côté a trouvé des chiffres analogues.
 Tableau quatre Part de chaque sexe dans le chiffre total des suicides.
-/ +-------------------------------+-----------------+------------------+ +-------------------------------+-----------------+------------------+ |                               |  des suicides.
+/ +, , , , , , , , , , , , , , , -+, , , , , , , , -+, , , , , , , , , + +, , , , , , , , , , , , , , , -+, , , , , , , , -+, , , , , , , , , + |                               |  des suicides.
  |    combien d'    | |                               |                 |                  | |                               | Hommes.| Femmes.| Hommes.| Femmes.
-| +-------------------------------+--------+--------+--------+---------+ |Autriche (mille huit cent soixante-treize-soixante-dix-sept).
+| +, , , , , , , , , , , , , , , -+, , , , +, , , , +, , , , +, , , , -+ |Autriche (mille huit cent soixante-treize-soixante-dix-sept).
 Tout au moins devraient-elles se tuer autant.
 Tableau quatre, ci-dessus).
 Tableau cinq Tendance à la folie dans les différentes confessions religieuses.
-/ +-----------------------------+--------------------------------------+ |                             |            de chaque culte           | |                             +--------------+--------------+--------+ |                             | Protestants.
-| +-----------------------------+--------------+--------------+--------+ | Silésie (mille huit cent cinquante-huit).
+/ +, , , , , , , , , , , , , , -+, , , , , , , , , , , , , , , , , , , + |                             |            de chaque culte           | |                             +, , , , , , , +, , , , , , , +, , , , + |                             | Protestants.
+| +, , , , , , , , , , , , , , -+, , , , , , , +, , , , , , , +, , , , + | Silésie (mille huit cent cinquante-huit).
 Or, tout au contraire, le penchant au suicide y est très faible.
 Inversement, c'est pendant la maturité que la folie éclate avec le plus de fréquence.
 Tableau six Rapports du suicide et de la folie dans les différents pays d'Europe.
-     |     cent quatre-vingts (mille huit cent soixante et onze)     |   quatorze             |            | +---------------+--------------------+------------------+      soixante-trois    | | Suède.
+      |     deux cent deux (mille huit cent soixante et onze)     |   trente-cinq             |            | +, , , , , , , -+, , , , , , , , , , +, , , , , , , , , +, , , , , , + | Norwège.
+     |     cent quatre-vingt-cinq (mille huit cent soixante-cinq)     |   quatre-vingt-cinq (mille huit cent soixante-six-soixante-dix)   |            | +, , , , , , , -+, , , , , , , , , , +, , , , , , , , , +            | | Irlande.
+     |     cent quatre-vingts (mille huit cent soixante et onze)     |   quatorze             |            | +, , , , , , , -+, , , , , , , , , , +, , , , , , , , , +      soixante-trois    | | Suède.
+    |     cent trente-quatre (mille huit cent soixante-huit)     |   soixante-six (mille huit cent soixante-six-soixante-dix)   |            | +, , , , , , , -+, , , , , , , , , , +, , , , , , , , , +, , , , , , + | Bavière.
 Cependant les deux maxima peuvent être complètement séparés.
-Je serais même disposé à croire qu'à côté de pays assez heureux...
-pour n'avoir ni maladies mentales ni suicides...
-il en est où les maladies mentales ont seules fait leur apparition».
 Dans d'autres localités c'est l'inverse qui se produit.
 Morselli, il est vrai, est arrivé à des résultats un peu différents.
 Voici, en effet, ce que l'on trouve.
-Aurait-il quelque influence sur la marche du suicide? A priori, l'hypothèse paraît peu vraisemblable.
+Aurait-il quelque influence sur la marche du suicide ? A priori, l'hypothèse paraît peu vraisemblable.
 Mais rien ne saurait prévaloir contre les faits.
 La comparaison des deux cartes confirme celle des moyennes.
-[Illustration: Planche un.
+[Illustration : Planche un.
 SUICIDES ET ALCOOLISME.
 SUICIDES ET ALCOOLISME.
 La rencontre est accidentelle.
 La comparaison des différents pays d'Allemagne confirme cette conclusion.
 Alcoolisme et suicide en Allemagne.
+/ +, , , , , +, , , , , , , +, , , , , , , -+, , , , , , , , , , , , , + |          |Consommation  | Moyenne des   |          Pays            | |          |de l'alcool   | suicides dans |                          | |          |  (mille huit cent quatre-vingt-quatre-quatre-vingt-six).
  | le groupe.
-   |                          | +----------+--------------+---------------+--------------------------+ |          |treize lit.
+   |                          | +, , , , , +, , , , , , , +, , , , , , , -+, , , , , , , , , , , , , + |          |treize lit.
 à     |   deux cent six virgule un p.
    | Posnanie, Silésie,       | |premier Groupe|dix virgule huit par tête.| million d'hab.| Brandebourg, Poméranie.
- | +----------+--------------+---------------+--------------------------+ |          |              |               | Prusse orientale et      | | deuxième ----- |neuf virgule deux lit.
-   | +----------+--------------+---------------+--------------------------+ |          |              |               | Mecklembourg,            | |          |              |               | royaume de Saxe,         | | troisième ----- |six virgule quatre lit.
-   | +----------+--------------+---------------+--------------------------+ | quatrième ----- | quatre lit.
+ | +, , , , , +, , , , , , , +, , , , , , , -+, , , , , , , , , , , , , + |          |              |               | Prusse orientale et      | | deuxième , , - |neuf virgule deux lit.
+   | +, , , , , +, , , , , , , +, , , , , , , -+, , , , , , , , , , , , , + |          |              |               | Mecklembourg,            | |          |              |               | royaume de Saxe,         | | troisième , , - |six virgule quatre lit.
+   | +, , , , , +, , , , , , , +, , , , , , , -+, , , , , , , , , , , , , + | quatrième , , - | quatre lit.
 et    |               | Provinces du Rhin, Bade, | |          | au-dessous.
- |   cent quarante-sept virgule neuf ---   |  Bavière, Wurtemberg.
+ |   cent quarante-sept virgule neuf , -   |  Bavière, Wurtemberg.
 Le suicide et les états psychologiques normaux.
 D'ailleurs, la conception de M.
 Il ne reste alors que deux caractères qui la singularisent.
@@ -149,19 +150,18 @@ C'est à cette seule condition que nous pourrons y voir un produit de la race.
 L'Autriche nous offre, pour répondre à la question, une expérience toute faite.
 Voyons donc si leur présence a pour effet de faire hausser le chiffre des suicides.
 Le tableau sept (cinq.
-/ +--------------------------------+------------+----------------------+ |                                | habitants  |      par million.
-  | |           +--------------------+------------+---+        |         | |  faible.
+/ +, , , , , , , , , , , , , , , , +, , , , , , +, , , , , , , , , , , + |                                | habitants  |      par million.
+  | |           +, , , , , , , , , , +, , , , , , +, -+        |         | |  faible.
 En Suisse, nous trouvons ces deux races en présence.
 Quinze cantons sont allemands soit en totalité, soit en partie.
 La moyenne des suicides y est de cent quatre-vingt-six (année mille huit cent soixante-seize).
 Cinq sont en majorité français (Valais, Fribourg, Neufchâtel, Genève, Vaud).
 La moyenne des suicides y est de deux cent cinquante-cinq.
 Pour cela, nous avons comparé les cantons allemands aux cantons français de même confession.
-Les résultats de ce calcul n'ont fait que confirmer les précédents: Cantons suisses.
+Les résultats de ce calcul n'ont fait que confirmer les précédents : Cantons suisses.
 Dès l'époque de Jules César, les Kymris étaient connus pour leur haute stature.
 Mais Morselli est allé plus loin.
 |        |             |examinés  | cent un).
-|à cent.
    |pour mille|Seine).
 |quatre-vingt-treize (sans| |              |          |        |             |          |la      | |              |          |        |             |          |Seine).
 Elle peut très bien n'être due qu'à la simple rencontre de facteurs indépendants.
@@ -173,11 +173,9 @@ Le Lorrain ne différait pas moins du Normand que le Provençal de l'habitant de
 Mais il importe d'abord de préciser le sens des mots.
 Mais c'est dans un tout autre sens que les psychologues ont très souvent parlé d'hérédité.
 Par suite, elle dépendrait essentiellement de causes individuelles.
-Aucun n'éprouve de malheurs; tous jouissent d'une bonne santé...
-Tous les sept frères, dans l'espace de quarante ans, se sont suicidés».
 La solution contraire semble même prévaloir.
 La même réserve est de rigueur dans le problème qui nous occupe.
-Satisfont-ils à cette triple condition? Ils passent, il est vrai, pour n'être pas rares.
+Satisfont-ils à cette triple condition ? Ils passent, il est vrai, pour n'être pas rares.
 On se contente presque toujours de rapporter un certain nombre d'anecdotes intéressantes.
 Cependant, cette première cause ne suffit pas à expliquer tous les faits.
 Tout fou n'est pas porté à se tuer.
@@ -192,7 +190,6 @@ Dès lors, (elle) se croit tout à fait vouée à une mort violente.
 Or, l'homme qu'elle croyait être son père ne l'était réellement pas.
 Mais il y a plus.
 Il n'en serait pas ainsi si l'hérédité avait la puissance qu'on lui attribue.
-que le sujet est exposé à rencontrer sur son chemin».
 Mais si la propriété transmise est possible à tout âge, elle devrait se manifester d'emblée.
 Mais, en fait, c'est le contraire qui se passe.
 Le suicide est extrêmement rare chez les enfants.
@@ -209,7 +206,7 @@ Le climat des différentes régions est cependant resté le même.
 Le mouvement scientifique, artistique, économique s'est déplacé dans le même sens.
 Les suicides ont suivi.
 Tableau dix Distribution régionale du suicide en Italie.
-/ +--------------+-------------------------+---------------------------+ |              |                         |                           | |              |        d'habitants.
+/ +, , , , , , , +, , , , , , , , , , , , -+, , , , , , , , , , , , , -+ |              |                         |                           | |              |        d'habitants.
     |   exprimé en fonction     | |              |                         |                           | |              |                         |de celui du Nord représenté| |              |                         |                           | |              |                         |       par cent.
 L'influence de la température saisonnière paraît mieux établie.
 Les faits peuvent être diversement interprétés, mais ils sont constants.
@@ -230,7 +227,7 @@ En premier lieu, elle implique une conception très contestable du suicide.
 Or, au contraire, il résulte très souvent d'une extrême dépression.
 Les variations qu'elles présentent selon les saisons doivent donc avoir une autre cause.
 C'est en rentrant à bord que se déclarent les symptômes du terrible horrors.
-Mais elle n'est pas spéciale à la chaleur; le froid violent agit de même.
+Mais elle n'est pas spéciale à la chaleur ; le froid violent agit de même.
 La question reste donc entière.
 C'est à l'analyse des données statistiques qu'il faut en demander la solution.
 Or il n'en est rien.
@@ -242,41 +239,41 @@ Le cas de décembre est particulièrement significatif.
 Les variations thermométriques et celles du suicide sont donc sans aucun rapport.
 Les pays les plus chauds devraient être les plus éprouvés.
 Celle-ci surprendrait l'organisme au moment où il n'est pas encore habitué à cette température nouvelle.
-D'ailleurs à quel moment se montrent-elles? On s'entend généralement pour les faire commencer en avril.
+D'ailleurs à quel moment se montrent-elles ? On s'entend généralement pour les faire commencer en avril.
 On devrait donc constater en avril une poussée exceptionnelle de suicides.
 Toutes les autres fois il y a baisse ou état stationnaire.
 Il n'est pas impossible d'apercevoir dès maintenant de quelle nature sont ces causes.
 Tableau treize).
-| +---------+-------------+--------------+-------------+-----------------+ |Janvier  |  neuf h.
-dix-neuf'   |              |     soixante-huit      |                 | +---------+-------------+              +-------------+                 + |Février  | dix h.
-cinquante-six'   |De janvier à  |     quatre-vingts      |  De janvier à   | +---------+-------------+              +-------------+                 | |Mars     | douze h.
+| +, , , , -+, , , , , , -+, , , , , , , +, , , , , , -+, , , , , , , , -+ |Janvier  |  neuf h.
+dix-neuf'   |              |     soixante-huit      |                 | +, , , , -+, , , , , , -+              +, , , , , , -+                 + |Février  | dix h.
+cinquante-six'   |De janvier à  |     quatre-vingts      |  De janvier à   | +, , , , -+, , , , , , -+              +, , , , , , -+                 | |Mars     | douze h.
 quarante-sept'   | avril cinquante-cinq pourcent.
  |     quatre-vingt-six      |   avril cinquante pourcent.
-  | +---------+-------------+              +-------------+                 | |Avril    | quatorze h.
-vingt-neuf'   |              |    cent deux      |                 | +---------+-------------+--------------+-------------+-----------------+ |Mai      | quinze h.
-quarante-huit'   |D'avril à juin|    cent cinq      |  D'avril à juin | +---------+-------------+              +-------------+                 | |Juin     | seize h.
+  | +, , , , -+, , , , , , -+              +, , , , , , -+                 | |Avril    | quatorze h.
+vingt-neuf'   |              |    cent deux      |                 | +, , , , -+, , , , , , -+, , , , , , , +, , , , , , -+, , , , , , , , -+ |Mai      | quinze h.
+quarante-huit'   |D'avril à juin|    cent cinq      |  D'avril à juin | +, , , , -+, , , , , , -+              +, , , , , , -+                 | |Juin     | seize h.
 trois'    |     dix pourcent.
    |    cent sept      |      cinq pourcent.
-      | +---------+-------------+--------------+-------------+-----------------+ |         |             | Diminution.
- | +---------+-------------+--------------+-------------+-----------------+ |Juillet  | quinze h.
+      | +, , , , -+, , , , , , -+, , , , , , , +, , , , , , -+, , , , , , , , -+ |         |             | Diminution.
+ | +, , , , -+, , , , , , -+, , , , , , , +, , , , , , -+, , , , , , , , -+ |Juillet  | quinze h.
 vingt-cinq'   |     dix-sept pourcent.
    |     quatre-vingt-deux      |      vingt-quatre pourcent.
-     | +---------+-------------+--------------+-------------+-----------------+ |Septembre| onze h.
-trente-neuf'   |  D'août à    |     soixante-quatorze      | D'août à octobre| +---------+-------------+   octobre    +-------------+                 | |Octobre  |  neuf h.
+     | +, , , , -+, , , , , , -+, , , , , , , +, , , , , , -+, , , , , , , , -+ |Septembre| onze h.
+trente-neuf'   |  D'août à    |     soixante-quatorze      | D'août à octobre| +, , , , -+, , , , , , -+   octobre    +, , , , , , -+                 | |Octobre  |  neuf h.
 cinquante et un'   |     vingt-sept pourcent.
    |     soixante-dix      |      vingt-sept pourcent.
-     | +---------+-------------+--------------+-------------+-----------------+ |Novembre |  huit h.
+     | +, , , , -+, , , , , , -+, , , , , , , +, , , , , , -+, , , , , , , , -+ |Novembre |  huit h.
 onze'   |     dix-sept pourcent.
    |     soixante et un      |      treize pourcent.
-     | +---------+-------------+--------------+-------------+-----------------+ / Le parallélisme est parfait.
+     | +, , , , -+, , , , , , -+, , , , , , , +, , , , , , -+, , , , , , , , -+ / Le parallélisme est parfait.
 La même correspondance se retrouve dans la période de décroissance.
 Une correspondance aussi régulière et aussi précise ne peut être fortuite.
 La statistique prussienne a recueilli sur ce point des documents plus nombreux.
 Ils ne font que confirmer les conclusions de Brierre de Boismont.
-        | |                            +------------------+--------------------+ |                            |       mille huit cent soixante et onze.
+        | |                            +, , , , , , , , , +, , , , , , , , , , + |                            |       mille huit cent soixante et onze.
      |        mille huit cent soixante-douze.
 On verra même plus bas qu'en plein midi il se produit un abaissement sensible.
-La circulation sur les chemins / +---------------------+------------------+---------------------------+ |                     |de chaque jour sur|      de chaque sexe.
+La circulation sur les chemins / +, , , , , , , , , , -+, , , , , , , , , +, , , , , , , , , , , , , -+ |                     |de chaque jour sur|      de chaque sexe.
      | |                     |  un.000 suicides  |               |           | |                     |  hebdomadaires.
 Enfin, le dimanche, l'activité économique cesse complètement.
 Le temps du repos commence pour elle plus tard et finit plus tôt.
@@ -303,7 +300,7 @@ C'est ainsi encore que l'idée homicide passe d'une conscience dans l'autre.
 C'est la singerie pour elle-même.
 Or, ces trois sortes de faits sont très différentes les unes des autres.
 Analysons, en effet, le phénomène.
-Qu'arrive-t-il alors? Chacun se représente confusément l'état dans lequel on se trouve autour de lui.
+Qu'arrive-t-il alors ? Chacun se représente confusément l'état dans lequel on se trouve autour de lui.
 Sans doute, toutes les définitions de mots sont permises.
 Ce procédé est même le seul par lequel l'esprit ait le pouvoir de créer.
 On dira peut-être que cette création se réduit à accroître l'intensité de l'état initial.
@@ -312,7 +309,7 @@ Mais, en réalité, il n'y a là ni modèles ni copies.
 Elle diffère tout au moins de la précédente en ce qu'elle implique une reproduction.
 C'est nous qui en sommes les auteurs, alors même que nous ne l'avons pas inventée.
 Elle n'en devient le tout que dans le troisième cas.
-Là, elle tient toute la place: l'acte nouveau n'est que l'écho de l'acte initial.
+Là, elle tient toute la place : l'acte nouveau n'est que l'écho de l'acte initial.
 Or, il n'a cette propriété que dans les cas de reproduction automatique.
 Les termes du problème étant ainsi définis, examinons les faits.
 Il n'est pas douteux que l'idée du suicide ne se communique contagieusement.
@@ -329,8 +326,9 @@ Il est clair qu'il ne peut être imité s'il n'est en vue.
 Ces règles posées, faisons-en l'application.
 Enfin, l'action des grandes villes est ainsi trop noyée pour pouvoir être facilement aperçue.
 La lecture nous en a donné les résultats les plus inattendus.
+Voici les chiffres qu'il nous donne : / +, , , , , , , , -+, , , , , , , , , , , , -+, , , , , , , , , , , , + |                 |     Période mille huit cent cinquante et un-soixante-trois.
  |     Période mille huit cent soixante-cinq-soixante-six.
-| +-----------------+-------------------------+------------------------+ |Arrond.
+| +, , , , , , , , -+, , , , , , , , , , , , -+, , , , , , , , , , , , + |Arrond.
 Or les arrondissements les plus éprouvés sont ceux de Toulon et de Forcalquier.
 Personne ne dira pourtant que Marseille soit à leur remorque.
 Malheureusement, une carte communale des suicides est impossible à construire pour toute l'étendue du pays.
@@ -342,14 +340,14 @@ Car ce dernier garde généralement la même constitution sur d'assez larges ét
 Jamais celui-ci n'étend son action au delà de ses limites naturelles.
 C'est qu'elles sont toutes trois catholiques.
 La moyenne est aussi basse d'un côté qu'élevée de l'autre.
-[Illustration: Planche trois.
+[Illustration : Planche trois.
 (d'après Morselli).
 ] Une autre expérience pourrait être tentée qui confirmerait, pensons-nous, les preuves qui précèdent.
 Malheureusement, cette place est assez difficile à déterminer.
 Il y a ainsi moins d'exemples qui sollicitent l'imitation.
 Alors les exemples, s'accumulant, se renforcent mutuellement.
 Pourtant, on s'y tue beaucoup moins.
-Le rayonnement qui en résulte est toujours très limité; il est, de plus, intermittent.
+Le rayonnement qui en résulte est toujours très limité ; il est, de plus, intermittent.
 C'est que, réduite à ses seules forces, l'imitation ne peut rien sur le suicide.
 Une remarque d'un intérêt pratique peut servir de corollaire à cette conclusion.
 Mais il est très douteux qu'elle puisse en modifier le taux social.
@@ -371,59 +369,61 @@ C'est ce que montre le tableau dix-sept (Voir ci-dessous).
 Tableau dix-sept France.
 Part de chaque catégorie de motifs sur cent suicides annuels de chaque sexe.
  |mille huit cent cinquante-quatre-soixante-dix-huit.| mille huit cent quatre-vingts.
- | +--------------------------------+-----------------+-----------------+ |Douleurs physiques.
-              |    un virgule quatre huit    |   deux virgule zéro un    | +-------------------------------------------+------------+-----------+ |Ivresse et ivrognerie.
-   |    quatre virgule zéro neuf    |   quatre virgule sept trois    | +-------------------------------------------+------------+-----------+ |Souffrances physiques.
-                    |   quinze virgule neuf un    |   dix-neuf virgule huit neuf   | +-------------------------------------------+------------+-----------+ |Maladies mentales.
-  |    deux virgule neuf trois    |   quatre virgule neuf quatre    | +-------------------------------------------+------------+-----------+ |Causes inconnues.
+ | +, , , , , , , , , , , , , , , , +, , , , , , , , -+, , , , , , , , -+ |Douleurs physiques.
+                      |   quatorze virgule quatre cinq    |   treize virgule un quatre   | +, , , , , , , , , , , , , , , , , , , , , -+, , , , , , +, , , , , -+ |Amour contrarié et jalousie.
+              |    un virgule quatre huit    |   deux virgule zéro un    | +, , , , , , , , , , , , , , , , , , , , , -+, , , , , , +, , , , , -+ |Ivresse et ivrognerie.
+   |    quatre virgule zéro neuf    |   quatre virgule sept trois    | +, , , , , , , , , , , , , , , , , , , , , -+, , , , , , +, , , , , -+ |Souffrances physiques.
+                    |   quinze virgule neuf un    |   dix-neuf virgule huit neuf   | +, , , , , , , , , , , , , , , , , , , , , -+, , , , , , +, , , , , -+ |Maladies mentales.
+  |    deux virgule neuf trois    |   quatre virgule neuf quatre    | +, , , , , , , , , , , , , , , , , , , , , -+, , , , , , +, , , , , -+ |Causes inconnues.
 C'est d'un tout autre côté que doivent se porter les efforts de la statistique.
 Le suicide égoïste.
 Observons d'abord la manière dont les différentes confessions religieuses agissent sur le suicide.
 Mais il n'en est pas de même de la plupart des sociétés catholiques et protestantes.
 Néanmoins, cette première comparaison est encore trop sommaire.
 Provinces bavaroises (mille huit cent soixante-sept-soixante-quinze).
- |           |Franconie.|           |Palatinat.|           | +----------+-----------+----------+-----------+----------+-----------+ |Franconie |   deux cent sept     |Souabe.
+ |           |Franconie.|           |Palatinat.|           | +, , , , , +, , , , , -+, , , , , +, , , , , -+, , , , , +, , , , , -+ |Franconie |   deux cent sept     |Souabe.
   |   cent dix-huit     |Haute-    |   cent quatorze     | |centrale.
- |           | +----------+-----------+----------+-----------+----------+-----------+ |Haute     |   deux cent quatre     |          |           |Basse-    |    quarante-neuf     | |Franconie.|           |          |           |Bavière.
- |           | +----------+-----------+----------+-----------+----------+-----------+ |Moyenne.
+ |           | +, , , , , +, , , , , -+, , , , , +, , , , , -+, , , , , +, , , , , -+ |Haute     |   deux cent quatre     |          |           |Basse-    |    quarante-neuf     | |Franconie.|           |          |           |Bavière.
+ |           | +, , , , , +, , , , , -+, , , , , +, , , , , -+, , , , , +, , , , , -+ |Moyenne.
  |   cent quatre-vingt-douze     |Moyenne.
  |   cent trente-cinq     |Moyenne.
 Tableau précédent, ci-dessus).
-Il en est de même en Prusse: Provinces de Prusse (mille huit cent quatre-vingt-trois-quatre-vingt-dix).
+Il en est de même en Prusse : Provinces de Prusse (mille huit cent quatre-vingt-trois-quatre-vingt-dix).
            |   trois cent neuf virgule quatre       | Hanovre.
-       |   deux cent douze virgule trois       | +------------------+---------------+-----------------+---------------+ | Schleswig.
+       |   deux cent douze virgule trois       | +, , , , , , , , , +, , , , , , , -+, , , , , , , , -+, , , , , , , -+ | Schleswig.
       |   trois cent douze virgule neuf       | Hesse.
-         |   deux cents virgule trois       | +------------------+---------------+-----------------+---------------+ | Poméranie.
+         |   deux cents virgule trois       | +, , , , , , , , , +, , , , , , , -+, , , , , , , , -+, , , , , , , -+ | Poméranie.
       |   cent soixante et onze virgule cinq       | Brandebourg et  |   deux cent quatre-vingt-seize virgule trois       | |                  |               |    Berlin.
-     |               | +------------------+---------------+-----------------+---------------+ | Moyenne.
+     |               | +, , , , , , , , , +, , , , , , , -+, , , , , , , , -+, , , , , , , -+ | Moyenne.
         |   deux cent soixante-quatre virgule six       | Moyenne.
          |   quatre-vingt-seize virgule quatre        | | occidentale.
-    |               |                 |               | +------------------+---------------+-----------------+---------------+ | Silésie.
+    |               |                 |               | +, , , , , , , , , +, , , , , , , -+, , , , , , , , -+, , , , , , , -+ | Silésie.
         |   deux cent soixante virgule deux       | Pays du Rhin.
-  |  cent virgule trois        | +------------------+---------------+-----------------+---------------+ | Westphalie.
+  |  cent virgule trois        | +, , , , , , , , , +, , , , , , , -+, , , , , , , , -+, , , , , , , -+ | Westphalie.
      |   cent sept virgule cinq       | Hohenzollern.
-  |   quatre-vingt-dix virgule un        | +------------------+---------------+-----------------+---------------+ | Moyenne.
+  |   quatre-vingt-dix virgule un        | +, , , , , , , , , +, , , , , , , -+, , , , , , , , -+, , , , , , , -+ | Moyenne.
         |   cent soixante-trois virgule six       | Moyenne.
 La Suisse est intéressante à étudier à ce même point de vue.
 Or elle est la même sur l'une et sur l'autre.
-Voici les chiffres trouvés par différents observateurs: Tableau dix-huit.
+Voici les chiffres trouvés par différents observateurs : Tableau dix-huit.
 Suicides, dans les différents pays, pour un million de sujets de chaque confession.
 |    soixante-dix-neuf virgule cinq   |   cinquante et un virgule trois    | vingt virgule sept|     Wagner.
-    | +--------------------+-----------+-----------+-----+-----------------+ |Prusse (mille huit cent quarante-neuf-cinquante-cinq).
+    | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |Prusse (mille huit cent quarante-neuf-cinquante-cinq).
   |   cent cinquante-neuf virgule neuf   |   quarante-neuf virgule six    | quarante-six virgule quatre|       Id.
-      | +--------------------+-----------+-----------+-----+-----------------+ |----   (mille huit cent soixante-neuf-soixante-douze).
+      | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |, ,    (mille huit cent soixante-neuf-soixante-douze).
   |   cent quatre-vingt-sept     |   soixante-neuf      | quatre-vingt-seize  |    Morselli.
-   | +--------------------+-----------+-----------+-----+-----------------+ |----   (mille huit cent soixante).
+   | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |, ,    (mille huit cent soixante).
      |   deux cent quarante     |  cent      |cent quatre-vingts  |    Prinzing.
-   | +--------------------+-----------+-----------+-----+-----------------+ |Bade (mille huit cent cinquante-deux-soixante-deux).
+   | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |Bade (mille huit cent cinquante-deux-soixante-deux).
     |   cent trente-neuf     |  cent dix-sept      | quatre-vingt-sept  |     Legoyt.
-    | +--------------------+-----------+-----------+-----+-----------------+ |---  (mille huit cent soixante-dix-soixante-quatorze).
+    | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |, -  (mille huit cent soixante-dix-soixante-quatorze).
     |   cent soixante et onze     |  cent trente-six virgule sept    |cent vingt-quatre  |    Morselli.
-   | +--------------------+-----------+-----------+-----+-----------------+ |---  (mille huit cent soixante-dix-huit-quatre-vingt-huit).
+   | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |, -  (mille huit cent soixante-dix-huit-quatre-vingt-huit).
     |   deux cent quarante-deux     |  cent soixante-dix      |deux cent dix  |    Prinzing.
-   | +--------------------+-----------+-----------+-----+-----------------+ |Bavière (mille huit cent quarante-quatre-cinquante-six).
+   | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |Bavière (mille huit cent quarante-quatre-cinquante-six).
  |   cent trente-cinq virgule quatre   |   quarante-neuf virgule un    |cent cinq virgule neuf|    Morselli.
-   | +--------------------+-----------+-----------+-----+-----------------+ |  ---   (mille huit cent quatre-vingt-quatre-quatre-vingt-onze).
+   | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |  , -   (mille huit cent quatre-vingt-quatre-quatre-vingt-onze).
+    | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |   , ,     (mille huit cent soixante-treize-soixante-seize)|   cent quatre-vingt-dix     |  cent vingt      | soixante  |   Nous-même.
 Encore est-il très rare qu'ils dépassent de beaucoup le taux des catholiques.
 Aussi se tuent-ils trois fois moins que les protestants.
 Il semblerait donc que, quand le protestantisme devient minorité, sa tendance au suicide diminue.
@@ -438,7 +438,7 @@ La structure même du culte réformé rend sensible cet état d'individualisme r
 Attachons-nous à bien comprendre ce rapport.
 Le libre examen n'est lui-même que l'effet d'une autre cause.
 Mais c'est qu'ils ont désormais besoin de cette liberté.
-Or, ce besoin lui-même ne peut avoir qu'une seule cause: c'est l'ébranlement des croyances traditionnelles.
+Or, ce besoin lui-même ne peut avoir qu'une seule cause : c'est l'ébranlement des croyances traditionnelles.
 Alors, elle intervient pour combler le vide qui s'est fait, mais qu'elle n'a pas fait.
 Du même coup, la situation du judaïsme se trouve expliquée.
 Sans doute, en un sens, c'est à l'hostilité qui les entoure qu'ils doivent ce privilège.
@@ -459,29 +459,29 @@ Elle s'observe également à l'intérieur de chaque confession religieuse.
 L'Italie est tout entière catholique.
 Or, l'instruction populaire et le suicide y sont distribués exactement de la même manière (cinq.
 tableau Provinces italiennes comparées sous le rapport du suicide et de l'instruction.
-/ +-------------+------------------------------+-----------------------+ |premier GROUPE   |           NOMBRE             |        SUICIDES       | |de           |        de contrats pourcent         |          par          | |provinces.
+/ +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |premier GROUPE   |           NOMBRE             |        SUICIDES       | |de           |        de contrats pourcent         |          par          | |provinces.
   |  où les deux époux sont lettrés.|  million d'habitants.
-| +-------------+------------------------------+-----------------------+ |Piémont.
-    |           cinquante-trois virgule zéro neuf              |           trente-cinq virgule six        | +-------------+------------------------------+-----------------------+ |Lombardie.
-  |           quarante-quatre virgule deux neuf              |           quarante virgule quatre        | +-------------+------------------------------+-----------------------+ |Ligurie.
-    |           quarante et un virgule un cinq              |           quarante-sept virgule trois        | +-------------+------------------------------+-----------------------+ |Rome.
-       |           trente-deux virgule six un              |           quarante et un virgule sept        | +-------------+------------------------------+-----------------------+ |Toscane.
-    |           vingt-quatre virgule trois trois              |           quarante virgule six        | +-------------+------------------------------+-----------------------+ |Moyennes.
+| +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Piémont.
+    |           cinquante-trois virgule zéro neuf              |           trente-cinq virgule six        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Lombardie.
+  |           quarante-quatre virgule deux neuf              |           quarante virgule quatre        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Ligurie.
+    |           quarante et un virgule un cinq              |           quarante-sept virgule trois        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Rome.
+       |           trente-deux virgule six un              |           quarante et un virgule sept        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Toscane.
+    |           vingt-quatre virgule trois trois              |           quarante virgule six        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Moyennes.
   |  où les deux époux sont lettrés.|  million d'habitants.
-| +-------------+------------------------------+-----------------------+ |Venise.
-     |           dix-neuf virgule cinq six              |           trente-deux        | +-------------+------------------------------+-----------------------+ |Émilie.
-     |           dix-neuf virgule trois un              |           soixante-deux virgule neuf        | +-------------+------------------------------+-----------------------+ |Ombrie.
-     |           quinze virgule quatre six              |           trente virgule sept        | +-------------+------------------------------+-----------------------+ |Marche.
-     |           quatorze virgule quatre six              |           trente-quatre virgule six        | +-------------+------------------------------+-----------------------+ |Campanie.
-   |           douze virgule quatre cinq              |           vingt et un virgule six        | +-------------+------------------------------+-----------------------+ |Sardaigne.
-  |           dix virgule un quatre              |           treize virgule trois        | +-------------+------------------------------+-----------------------+ |Moyennes.
+| +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Venise.
+     |           dix-neuf virgule cinq six              |           trente-deux        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Émilie.
+     |           dix-neuf virgule trois un              |           soixante-deux virgule neuf        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Ombrie.
+     |           quinze virgule quatre six              |           trente virgule sept        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Marche.
+     |           quatorze virgule quatre six              |           trente-quatre virgule six        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Campanie.
+   |           douze virgule quatre cinq              |           vingt et un virgule six        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Sardaigne.
+  |           dix virgule un quatre              |           treize virgule trois        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Moyennes.
   |  où les deux époux sont lettrés.|  million d'habitants.
-| +-------------+------------------------------+-----------------------+ |Sicile.
-     |            huit virgule neuf huit              |           dix-huit virgule cinq        | +-------------+------------------------------+-----------------------+ |Abbruzes.
-   |            six virgule trois cinq              |           quinze virgule sept        | +-------------+------------------------------+-----------------------+ |Pouille.
-    |            six virgule huit un              |           seize virgule trois        | +-------------+------------------------------+-----------------------+ |Calabre.
-    |            quatre virgule six sept              |            huit virgule un        | +-------------+------------------------------+-----------------------+ |Basilicate.
- |            quatre virgule trois cinq              |           quinze        | +-------------+------------------------------+-----------------------+ |Moyennes.
+| +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Sicile.
+     |            huit virgule neuf huit              |           dix-huit virgule cinq        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Abbruzes.
+   |            six virgule trois cinq              |           quinze virgule sept        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Pouille.
+    |            six virgule huit un              |           seize virgule trois        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Calabre.
+    |            quatre virgule six sept              |            huit virgule un        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Basilicate.
+ |            quatre virgule trois cinq              |           quinze        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Moyennes.
 On peut faire les mêmes observations en France.
 Si l'on compare les pays protestants entre eux, on retrouve le même parallélisme.
 Le fait ne se rencontre dans aucun autre pays.
@@ -494,7 +494,7 @@ Il en est de même dans l'enseignement supérieur.
 Voilà d'où vient la complexité de sa physionomie.
 Primitif par certains côtés, c'est, par d'autres, un cérébral et un raffiné.
 Il a toute l'intelligence des modernes sans partager leur désespérance.
-Ainsi, l'exception n'est qu'apparente; elle ne fait même que confirmer la loi.
+Ainsi, l'exception n'est qu'apparente ; elle ne fait même que confirmer la loi.
 De ce chapitre se dégagent deux conclusions importantes.
 En premier lieu, nous y voyons pourquoi, en général, le suicide progresse avec la science.
 Ce n'est pas elle qui détermine ce progrès.
@@ -514,8 +514,9 @@ Or, il n'en est rien.
 L'âge moyen des premiers est de vingt-six virgule huit, des secondes, de vingt-huit virgule quatre.
 Au contraire, l'âge moyen des époux se trouve entre quarante et quarante-cinq ans.
         |  quarante-cinq virgule neuf suicides par million d'habitants.
-| +--------------------------+-----------------------------------------+ |  De vingt et un à trente ans.
-        |  quatre-vingt-dix-sept virgule neuf       -                       -   | +--------------------------+-----------------------------------------+ |  De trente et un à quarante ans.
+| +, , , , , , , , , , , , , +, , , , , , , , , , , , , , , , , , , , -+ |  De vingt et un à trente ans.
+        |  quatre-vingt-dix-sept virgule neuf       -                       -   | +, , , , , , , , , , , , , +, , , , , , , , , , , , , , , , , , , , -+ |  De trente et un à quarante ans.
+        | cent quatorze virgule cinq       -                       -   | +, , , , , , , , , , , , , +, , , , , , , , , , , , , , , , , , , , -+ |  De quarante et un à cinquante ans.
 Les suicides des époux seraient à ceux des célibataires comme cent est à soixante-neuf.
 La vie de famille a ainsi pour résultat de renverser le rapport.
 Les rapports sont sensiblement les mêmes en Italie.
@@ -532,6 +533,7 @@ Il n'y a donc pas lieu d'établir les moyennes d'après un plus grand nombre d'a
 Les tableaux vingt et vingt et un (cinq.
 cent quatre-vingt-deux et cent quatre-vingt-trois) contiennent ces différents résultats.
 France (mille huit cent quatre-vingt-neuf-mille huit cent quatre-vingt-onze).
+|     cent treize     | cinq cents  |  "  |    zéro virgule deux deux    |   "   |     "      | +, , , -+, , , , , , -+, , , +, , -+, , , , , , +, , , -+, , , , , , + |vingt-vingt-cinq.
 Il est supérieur à celui qu'avait calculé Bertillon.
 Ce coefficient évolue suivant l'âge.
 trois° Le coefficient de préservation des mariés par rapport aux célibataires varie avec les sexes.
@@ -550,12 +552,12 @@ Au point de départ, il est très souvent remplacé par un coefficient d'aggrava
 En second lieu, le maximum est réalisé presque d'emblée.
 Or, en réalité, les époux sont en France sensiblement plus protégés que les épouses.
      |      de chaque âge.
-     | +---------------+------------+------------+-----------+--------------+ |De vingt à vingt-cinq ans.| soixante-dix hommes.
+     | +, , , , , , , -+, , , , , , +, , , , , , +, , , , , -+, , , , , , , + |De vingt à vingt-cinq ans.| soixante-dix hommes.
 | trente femmes.
 | soixante-cinq hommes.| trente-cinq femmes.
 Seulement, si elle ne perd pas à se marier, elle y gagne moins que l'époux.
 Cependant, en gros, la sélection conjugale se fait partout de la même manière.
-Pour chaque époux, la famille comprend: un° l'autre époux; deux° les enfants.
+Pour chaque époux, la famille comprend : un° l'autre époux ; deux° les enfants.
 Un million de célibataires de cet âge produit environ neuf cent soixante-quinze suicides.
 Il en est tout autrement quand il existe des enfants.
 La société conjugale n'est donc que pour une faible part dans l'immunité des hommes mariés.
@@ -575,9 +577,9 @@ Or il n'en est rien.
 Le premier de ces nombres est au second comme cent est à soixante.
 On a même cru que cette opinion était démontrée par les faits.
 | sur cent suicides de veufs.
-| +---------+---------+-------------------+---------+------------------+ | ANNÉES.
-     | +---------+---------+-------------------+---------+------------------+ | mille huit cent soixante et onze.
-  |  soixante-dix-huit  "  |       vingt-deux  "       |  soixante-huit  "  |      trente-deux  "       | +---------+---------+-------------------+---------+------------------+ | mille huit cent soixante-treize.
+| +, , , , -+, , , , -+, , , , , , , , , -+, , , , -+, , , , , , , , , + | ANNÉES.
+     | +, , , , -+, , , , -+, , , , , , , , , -+, , , , -+, , , , , , , , , + | mille huit cent soixante et onze.
+  |  soixante-dix-huit  "  |       vingt-deux  "       |  soixante-huit  "  |      trente-deux  "       | +, , , , -+, , , , -+, , , , , , , , , -+, , , , -+, , , , , , , , , + | mille huit cent soixante-treize.
 Malheureusement, cette prétendue loi repose sur une erreur de fait.
 Morselli a oublié qu'il y avait partout deux fois plus de veuves que de veufs.
 La part des femmes est donc de vingt et un pourcent.
@@ -588,45 +590,46 @@ Par conséquent, la même supposition est tout aussi peu fondée en ce qui conce
 La même inversion se reproduit entre veufs et veuves.
 Et en effet, la vie de famille y agit très différemment sur le suicide (cinq.
 tableau vingt-deux).
-/ +--------------------------------------+-----------------------------+ |          HOMMES (Province).
+/ +, , , , , , , , , , , , , , , , , , , +, , , , , , , , , , , , , , -+ |          HOMMES (Province).
          |          COEFFICIENTS       | |                                      | de préservation par rapport | |                                      |      aux célibataires.
-     | +--------+-------------+-------+-------+---------------+-------------+ |Ages.
+     | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |Ages.
   |Célibataires.| Époux.| Veufs.|      des      |     des     | |        |             |       |       |    époux.
-   | +--------+-------------+-------+-------+---------------+-------------+ |quinze-vingt.
- |     deux virgule huit huit      |    un virgule quatre cinq     | +--------------------------------------+-----------------------------+ |          FEMMES (Province).
-         |                             | +--------+-------------+-------+-------+---------------+-------------+ |Ages.
+   | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |quinze-vingt.
+ |     deux virgule huit huit      |    un virgule quatre cinq     | +, , , , , , , , , , , , , , , , , , , +, , , , , , , , , , , , , , -+ |          FEMMES (Province).
+         |                             | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |Ages.
   |Célibataires.|Épouses|Veuves.|     des       |    des      | |        |             |       |       |   épouses.
-   | +--------+-------------+-------+-------+---------------+-------------+ |quinze-vingt.
- |     un virgule quatre neuf      |    zéro virgule sept huit     | +--------------------------------------+---------------+-------------+ |            HOMMES (Seine).
-          |                             | +--------+-------------+-------+-------+---------------+-------------+ |quinze-vingt.
-|     un virgule cinq six      |    zéro virgule sept cinq     | +--------------------------------------+---------------+-------------+ |            FEMMES (Seine).
-          |                             | +--------+-------------+-------+-------+---------------+-------------+ |quinze-vingt.
- |     deux cent vingt-quatre     |       |       |               |             | +--------+-------------+-------+-------+---------------+-------------+ |vingt-vingt-cinq.
- |     cent quatre-vingt-seize     |   soixante-quatre  |       |     trois virgule zéro six      |             | +--------+-------------+-------+-------+---------------+-------------+ |vingt-cinq-trente.
+   | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |quinze-vingt.
+ |     un virgule quatre neuf      |    zéro virgule sept huit     | +, , , , , , , , , , , , , , , , , , , +, , , , , , , -+, , , , , , -+ |            HOMMES (Seine).
+          |                             | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |quinze-vingt.
+ |     quatre cent quatre-vingt-sept     |  cent vingt-huit  |       |     trois virgule huit      |             | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |vingt-cinq-trente.
+|     un virgule cinq six      |    zéro virgule sept cinq     | +, , , , , , , , , , , , , , , , , , , +, , , , , , , -+, , , , , , -+ |            FEMMES (Seine).
+          |                             | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |quinze-vingt.
+ |     deux cent vingt-quatre     |       |       |               |             | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |vingt-vingt-cinq.
+ |     cent quatre-vingt-seize     |   soixante-quatre  |       |     trois virgule zéro six      |             | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |vingt-cinq-trente.
 Or on retrouve exactement la même inversion entre veufs et veuves.
 Ainsi, quel que soit le sexe favorisé, le veuvage suit régulièrement le mariage.
 Il arrive très souvent qu'il vaut mieux que le célibat.
 Elle n'en est que le prolongement.
 Le tableau suivant résume les faits qui viennent d'être établis.
 Influence de la famille sur le suicide dans chaque sexe.
-   |     trois cent trente-six     |       deux virgule neuf       | +-----------------------+-------------+-----------------+ |Époux sans enfants.
-     |     cent cinquante     |                 | +-----------------------+-------------+-----------------+ |Épouses avec enfants.
- |     soixante-dix-neuf      |      un virgule huit neuf       | +-----------------------+-------------+-----------------+ |Épouses sans enfants.
-     |     cent quatre-vingt-seize     |                 | +-----------------------+-------------+-----------------+ |Veuves avec enfants.
-  |     cent quatre-vingt-six     |      un virgule zéro six       | +-----------------------+-------------+-----------------+ |Veuves sans enfants.
+   |     trois cent trente-six     |       deux virgule neuf       | +, , , , , , , , , , , -+, , , , , , -+, , , , , , , , -+ |Époux sans enfants.
+     |     cent cinquante     |                 | +, , , , , , , , , , , -+, , , , , , -+, , , , , , , , -+ |Épouses avec enfants.
+ |     soixante-dix-neuf      |      un virgule huit neuf       | +, , , , , , , , , , , -+, , , , , , -+, , , , , , , , -+ |Épouses sans enfants.
+     |     cent quatre-vingt-seize     |                 | +, , , , , , , , , , , -+, , , , , , -+, , , , , , , , -+ |Veuves avec enfants.
+  |     cent quatre-vingt-six     |      un virgule zéro six       | +, , , , , , , , , , , -+, , , , , , -+, , , , , , , , -+ |Veuves sans enfants.
 Cependant, la conséquence n'est pas nécessaire et, souvent, elle ne se produit pas.
 En fait, la maison peut être déserte, quelque fécond qu'ait été le ménage.
  |  pour cent ménages | |                                |               |       (mille huit cent quatre-vingt-six).
-    | +--------------------------------+---------------+-------------------+ |premier groupe (onze départements).
+    | +, , , , , , , , , , , , , , , , +, , , , , , , -+, , , , , , , , , -+ |premier groupe (onze départements).
   | De quatre cent trente à trois cent quatre-vingts.
-|       trois cent quarante-sept         | +--------------------------------+---------------+-------------------+ |deuxième     ---   (six départements).
+|       trois cent quarante-sept         | +, , , , , , , , , , , , , , , , +, , , , , , , -+, , , , , , , , , -+ |deuxième     , -   (six départements).
 En effet, pour la France entière, l'effectif moyen est de trente-neuf personnes par dix familles.
-        | +-------------------+------------------------+-----------------------+ |premier groupe.
-       |          cent pourcent         |         0 pourcent           | +-------------------+------------------------+-----------------------+ |deuxième     --- .
-      |         quatre-vingt-quatre   "         |         seize  "         | +-------------------+------------------------+-----------------------+ |troisième     --- .
-      |         soixante   "         |         trente  "         | +-------------------+------------------------+-----------------------+ |quatrième     --- .
-      |         trente-trois   "         |         soixante-trois  "         | +-------------------+------------------------+-----------------------+ |cinquième     --- .
-      |         dix-neuf   "         |         quatre-vingt-un  "         | +-------------------+------------------------+-----------------------+ |sixième     --- .
+        | +, , , , , , , , , -+, , , , , , , , , , , , +, , , , , , , , , , , -+ |premier groupe.
+       |          cent pourcent         |         0 pourcent           | +, , , , , , , , , -+, , , , , , , , , , , , +, , , , , , , , , , , -+ |deuxième     , - .
+      |         quatre-vingt-quatre   "         |         seize  "         | +, , , , , , , , , -+, , , , , , , , , , , , +, , , , , , , , , , , -+ |troisième     , - .
+      |         soixante   "         |         trente  "         | +, , , , , , , , , -+, , , , , , , , , , , , +, , , , , , , , , , , -+ |quatrième     , - .
+      |         trente-trois   "         |         soixante-trois  "         | +, , , , , , , , , -+, , , , , , , , , , , , +, , , , , , , , , , , -+ |cinquième     , - .
+      |         dix-neuf   "         |         quatre-vingt-un  "         | +, , , , , , , , , -+, , , , , , , , , , , , +, , , , , , , , , , , -+ |sixième     , - .
 Les deux cartes (cinq.
 ci-dessous) ont, d'ailleurs, la même configuration générale.
 Ce rapport se retrouve même dans certains détails.
@@ -640,18 +643,18 @@ On a parfois écrit que les grandes commotions politiques multipliaient les suic
 Mais Morselli a bien montré que les faits contredisent cette opinion.
 Les suicides restent stationnaires.
 De simples crises électorales, pour peu qu'elles aient d'intensité, ont parfois le même résultat.
-/ +----------+-------+-------+-------+-------+-------+-------+ |          | mille huit cent soixante-seize.
+/ +, , , , , +, , , -+, , , -+, , , -+, , , -+, , , -+, , , -+ |          | mille huit cent soixante-seize.
 | mille huit cent soixante-dix-sept.
 | mille huit cent soixante-dix-huit.
 | mille huit cent quatre-vingt-huit.
 | mille huit cent quatre-vingt-neuf.
 | mille huit cent quatre-vingt-dix.
-| +----------+-------+-------+-------+-------+-------+-------+ |Mai.
+| +, , , , , +, , , -+, , , -+, , , -+, , , -+, , , -+, , , -+ |Mai.
 C'est l'époque où la crise prend fin.
 Aussitôt qu'elle est terminée, le mouvement ascensionnel, un instant suspendu, recommence.
 En mille huit cent quatre-vingt-neuf, le phénomène est encore plus marqué.
 Les grandes guerres nationales ont la même influence que les troubles politiques.
-/ +---------------------------+------------+-----------+---------------+ |                           |    mille huit cent soixante-cinq.
+/ +, , , , , , , , , , , , , -+, , , , , , +, , , , , -+, , , , , , , -+ |                           |    mille huit cent soixante-cinq.
   |    mille huit cent soixante-six.
  |    mille huit cent soixante-sept.
  |   mille huit cent soixante-dix.
@@ -675,14 +678,14 @@ Mais l'anéantissement nous fait horreur.
 Mais, sous cette forme absolue, la proposition est très contestable.
 Elles servent à quelque chose par cela seul qu'elles lui servent.
 Seulement, ce n'est pas le cas du civilisé qui est parvenu à l'âge adulte.
-L'instinct s'acquitte mieux encore de ce rôle; les animaux en sont la preuve.
+L'instinct s'acquitte mieux encore de ce rôle ; les animaux en sont la preuve.
 Or ce dernier suppose nécessairement une société qu'il exprime et qu'il serve.
 Mais ce n'est pas tout.
 Ce détachement ne se produit pas seulement chez les individus isolés.
 Sa souffrance devient nécessairement leur souffrance.
 On communie dans la tristesse, quand on n'a plus rien d'autre à mettre en commun.
 Ce type de suicide mérite donc bien le nom que nous lui avons donné.
-L'égoïsme n'en est pas un facteur simplement auxiliaire; c'en est la cause génératrice.
+L'égoïsme n'en est pas un facteur simplement auxiliaire ; c'en est la cause génératrice.
 Plusieurs faits confirment cette explication.
 Par suite, ils se suffisent davantage.
 L'immunité de l'animal n'a pas d'autres causes.
@@ -698,7 +701,6 @@ Mais il en est un autre qui s'y trouve à l'état endémique.
 On retrouve la même coutume chez les Thraces, les Hérules, etc.
 Le même usage s'est longtemps maintenu dans l'Inde.
 Le feu serait souillé s'il ne recevait l'homme respirant encore».
-Des faits semblables sont signalés à Fidji, aux Nouvelles-Hébrides, à Manga, etc..
 Mêmes pratiques chez les Troglodytes et chez les Sères, renommés pourtant pour leur moralité.
 C'était le cas en Gaule.
 Jamais un dévoué ne devait survivre à son chef.
@@ -716,7 +718,7 @@ Mais cette faible individuation ne peut elle-même avoir qu'une seule cause.
 C'est pourquoi nous appellerons suicide altruiste celui qui résulte d'un altruisme intense.
 Nous donnerons donc le nom de suicide altruiste obligatoire au type ainsi constitué.
 Autrement dit, le suicide altruiste est une espèce qui comprend plusieurs variétés.
-Nous venons d'en déterminer une; voyons les autres.
+Nous venons d'en déterminer une ; voyons les autres.
 Les voyageurs modernes ont observé des pratiques semblables dans une multitude de sociétés inférieures.
 En Polynésie, une légère offense suffit très souvent à déterminer un homme au suicide.
 Chez les Dacotahs, chez les Creeks, le moindre désappointement entraîne souvent aux résolutions désespérées.
@@ -731,10 +733,9 @@ Mais, ces conditions remplies, il n'a que faire de la vie.
 C'est le cas du jaïnisme.
 Le fidèle se laissait mourir de faim.
 Là, ils se laissent tranquillement mourir de faim.
-La mémoire de ces prétendus martyrs est en grande vénération».
 Il n'est pas de suicides dont le caractère altruiste soit plus marqué.
 C'est donc qu'il se considère comme n'ayant pas d'existence propre.
-L'impersonnalité est ici portée à son maximum; l'altruisme est à l'état aigu.
+L'impersonnalité est ici portée à son maximum ; l'altruisme est à l'état aigu.
 Mais, à cet égard, tous les suicides se ressemblent.
 Depuis longtemps en effet, on a remarqué qu'elles coexistent généralement avec des croyances panthéistes.
 Jamais on ne l'y rencontre à l'état de pratique rituelle.
@@ -753,8 +754,9 @@ Du moins, le soldat est toujours assuré d'avoir un gîte et une nourriture suff
     |   Suicides par       | |                  |  et soldats.
  |          |  cent.000 sujets.
     | |                  |   Suicides    |          |                      | |                  | annuels pour  |          |                      | |                  |cent.000 sujets |          |                      | |                  |  (mille huit cent soixante-deux-soixante-neuf).
-  |          |                      | +------------------+---------------+----------+------------+---------+ |Ayant moins d'un  |               |          |    Dans    |  Dans   | |an de service.
+  |          |                      | +, , , , , , , , , +, , , , , , , -+, , , , , +, , , , , , +, , , , -+ |Ayant moins d'un  |               |          |    Dans    |  Dans   | |an de service.
    |      vingt-huit       |          |la métropole| l'Inde.
+| |                  |               +, , , , , +, , , , , , +, , , , -+ |                  |               |vingt-vingt-cinq ans.|     vingt     |   treize    | +, , , , , , , , , +, , , , , , , -+, , , , , +, , , , , , +, , , , -+ |De un an à trois.
 C'est la preuve que l'aggravation propre à l'armée n'est pas localisée dans les premières années.
 Il semble bien qu'il en est de même en Italie.
 Nous n'avons pas, il est vrai, les chiffres proportionnels rapportés à l'effectif de chaque contingent.
@@ -762,21 +764,24 @@ Mais ces faits n'ont rien d'inconciliable avec ceux qui précèdent.
 Les engagés volontaires et les rengagés devraient donc présenter une moindre aptitude au suicide.
 Tout au contraire, elle est exceptionnellement forte.
 |        |  même âge  |             | |       |           |            |        | (mille huit cent quatre-vingt-neuf-quatre-vingt-onze).
- |             | +-------+-----------+------------+--------+------------+-------------+ |       |Rengagés.
+ |             | +, , , -+, , , , , -+, , , , , , +, , , , +, , , , , , +, , , , , , -+ |       |Rengagés.
 Mais pour cela, une abnégation intellectuelle est nécessaire qui n'est guère compatible avec l'individualisme.
 | |           |          de vingt-trente ans.
-          |                     | +-----------+----------------------------------+---------------------+ |France.
-   |           entre trois et quatre           |    trente-sept (mille huit cent soixante-quatorze-soixante-dix-sept)     | +-----------+----------------------------------+---------------------+ |Autriche.
+          |                     | +, , , , , -+, , , , , , , , , , , , , , , , , +, , , , , , , , , , -+ |France.
+   |               un virgule trois                |    cent cinquante (mille huit cent soixante et onze-soixante-quinze)    | +, , , , , -+, , , , , , , , , , , , , , , , , +, , , , , , , , , , -+ |Prusse.
+   |           entre trois et quatre           |    trente-sept (mille huit cent soixante-quatorze-soixante-dix-sept)     | +, , , , , -+, , , , , , , , , , , , , , , , , +, , , , , , , , , , -+ |Autriche.
 Elle s'observe d'une manière encore plus frappante à l'intérieur de l'empire austro-hongrois.
+ | +, , , , , , , , , +, , , , , , , , , , , , , , -+, , , , , , , , , -+ |Vienne (Autriche  |           un virgule quatre deux              |       six cent soixante         | |inférieure et     |                             |                   | |supérieure.
       |                             |                   | |Salzbourg).
-     |               |             |        |          | +------------------+---------------+             +--------+          | |Prague (Bohème).
-    |               |             |        |          | +------------------+---------------+-------------+--------+----------+ |Zara (Dalmatie).
+      |                             |                   | +, , , , , , , , , +, , , , , , , -+, , , , , , -+, , , , +, , , , , + |Bruno (Moravie    |     deux virgule quatre un      |             |  cinq cent quatre-vingts   |          | |et Silésie).
+     |               |             |        |          | +, , , , , , , , , +, , , , , , , -+             +, , , , +          | |Prague (Bohème).
+    |               |             |        |          | +, , , , , , , , , +, , , , , , , -+, , , , , , -+, , , , +, , , , , + |Zara (Dalmatie).
 On peut faire en France des remarques analogues.
 Seulement, il n'a cette influence prophylactique que s'il reste modéré.
 S'il dépasse un certain degré d'intensité, il devient lui-même une source originale de suicides.
-/ +---------------+-----------+--------------+-------------------------+ |               |réel ou    |pour un        |    D'AGGRAVATION.
-     |           |              |      |masculine, de trente-cinq  | +---------------+-----------+--------------+------|ans, tout état    | |Gendarmerie.
-  |    --     |cinq cent soixante-dix (mille huit cent soixante-treize).
+/ +, , , , , , , -+, , , , , -+, , , , , , , +, , , , , , , , , , , , -+ |               |réel ou    |pour un        |    D'AGGRAVATION.
+     |           |              |      |masculine, de trente-cinq  | +, , , , , , , -+, , , , , -+, , , , , , , +, , , |ans, tout état    | |Gendarmerie.
+  |    ,      |cinq cent soixante-dix (mille huit cent soixante-treize).
   | deux virgule quatre cinq |civil réuni.
      |           |              |      |même âge, des     | |               |           |              |      |années mille huit cent quatre-vingt-neuf-quatre-vingt-onze.
 Le suicide dans l'armée varie donc comme cet état moral.
@@ -807,7 +812,7 @@ Jamais le développement du suicide n'a été aussi rapide.
 C'est ce qui paraît surtout avoir eu lieu pour l'Exposition de mille huit cent soixante-dix-huit.
 En Irlande, où le paysan mène une vie si pénible, on se tue très peu.
 On peut même dire que la misère protège.
-[Illustration: Planche cinq.
+[Illustration : Planche cinq.
 Planche cinq, ci-dessus).
 Par conséquent, en tant qu'ils dépendent de l'individu seul, ils sont illimités.
 Une soif inextinguible est un supplice perpétuellement renouvelé.
@@ -831,7 +836,7 @@ Car il y aura toujours une hérédité qui subsistera, c'est celle des dons natu
 Normalement, l'ordre collectif est reconnu comme équitable par la grande généralité des sujets.
 Ainsi, il n'est pas vrai que l'activité humaine puisse être affranchie de tout frein.
 Il n'est rien au monde qui puisse jouir d'un tel privilège.
-La graduation en est bouleversée; mais d'autre part, une graduation nouvelle ne saurait être improvisée.
+La graduation en est bouleversée ; mais d'autre part, une graduation nouvelle ne saurait être improvisée.
 Par suite, il n'est rien à quoi on ne prétende.
 Parce que la prospérité s'est accrue, les désirs sont exaltés.
 Mais alors leurs exigences mêmes font qu'il est impossible de les satisfaire.
@@ -847,8 +852,8 @@ Il semble qu'il y ait une sorte de sacrilège à les endiguer.
 C'est que l'état de crise et d'anomie y est constant et, pour ainsi dire, normal.
 Dès lors, que le moindre revers survienne et l'on est sans forces pour le supporter.
 Tableau vingt-quatre Suicides pour un million de sujets de chaque profession.
-/ +---------------+--------+----------+---------+-----------+----------+ |               |        |          |         |           |libérales | |               |        |          |         |           |.
-    |        |          |         |           |          | +---------------+--------+----------+---------+-----------+----------+ |Saxe (mille huit cent soixante-dix-huit).
+/ +, , , , , , , -+, , , , +, , , , , +, , , , -+, , , , , -+, , , , , + |               |        |          |         |           |libérales | |               |        |          |         |           |.
+    |        |          |         |           |          | +, , , , , , , -+, , , , +, , , , , +, , , , -+, , , , , -+, , , , , + |Saxe (mille huit cent soixante-dix-huit).
 Tableau vingt-quatre, ci-dessus).
 C'est elle qui rappelle le mieux ce qu'était autrefois la constitution générale de l'ordre économique.
 C'est que tout ce qui oblige à la subordination atténue les effets de cet état.
@@ -859,17 +864,21 @@ Mais la sphère d'où elle est absente n'est pas la même dans les deux cas.
 Il en résulte que, malgré leurs relations, ces deux types restent indépendants l'un de l'autre.
 Mais l'anomie économique n'est pas la seule qui puisse engendrer le suicide.
 Comparaison des États européens au double point de vue du divorce et du suicide.
-            |   zéro virgule cinq quatre (mille huit cent soixante-quinze-quatre-vingts)   |            soixante-treize           | +---------------------+--------------------+-------------------------+ |Russie.
-             |   deux virgule un (mille huit cent soixante et onze-quatre-vingt-un)    |                         | +---------------------+--------------------+-------------------------+ |Italie.
-           |   trois virgule neuf (mille huit cent soixante-quinze-soixante-dix-neuf)    |            trente virgule huit         | +---------------------+--------------------+-------------------------+ |Moyennes.
-           |   deux virgule zéro sept             |            quarante-six virgule cinq         | +---------------------+--------------------+-------------------------+ +---------------------+--------------------+-------------------------+ |Bavière.
-           |   six (mille huit cent soixante et onze-quatre-vingts)    |            trente-cinq virgule cinq         | +---------------------+--------------------+-------------------------+ |Suède.
-              |   six virgule quatre (mille huit cent soixante et onze-quatre-vingts)    |            quatre-vingt-un           | +---------------------+--------------------+-------------------------+ |Bade.
-             |                    |           cent trente-trois           | +---------------------+--------------------+-------------------------+ |Moyennes.
-           |   six virgule quatre              |           cent neuf virgule six         | +---------------------+--------------------+-------------------------+ +---------------------+--------------------+-------------------------+ |Saxe-Royale.
-        |  vingt-six virgule neuf (mille huit cent soixante-seize-quatre-vingts)    |           deux cent quatre-vingt-dix-neuf           | +---------------------+--------------------+-------------------------+ |Danemark.
-           |  trente-huit (mille huit cent soixante et onze-quatre-vingts)      |           deux cent cinquante-huit           | +---------------------+--------------------+-------------------------+ |Suisse.
-             |  quarante-sept (mille huit cent soixante-seize-quatre-vingts)      |           deux cent seize           | +---------------------+--------------------+-------------------------+ |Moyennes.
+/ +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |                     |pour un.000 mariages.| par million d'habitants.| +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Norwège.
+            |   zéro virgule cinq quatre (mille huit cent soixante-quinze-quatre-vingts)   |            soixante-treize           | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Russie.
+             |   deux virgule un (mille huit cent soixante et onze-quatre-vingt-un)    |                         | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Italie.
+           |   trois virgule neuf (mille huit cent soixante-quinze-soixante-dix-neuf)    |            trente virgule huit         | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Moyennes.
+           |   deux virgule zéro sept             |            quarante-six virgule cinq         | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Bavière.
+           |   six (mille huit cent soixante et onze-quatre-vingts)    |            trente-cinq virgule cinq         | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Suède.
+              |   six virgule quatre (mille huit cent soixante et onze-quatre-vingts)    |            quatre-vingt-un           | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Bade.
+               |   six virgule cinq (mille huit cent soixante-quatorze-soixante-dix-neuf)    |           cent cinquante-six virgule six         | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |France.
+             |   sept virgule cinq (mille huit cent soixante et onze-soixante-dix-neuf)    |           cent cinquante           | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Wurtemberg.
+         |   huit virgule quatre (mille huit cent soixante-seize-soixante-dix-huit)    |           cent soixante-deux virgule quatre         | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Prusse.
+             |                    |           cent trente-trois           | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Moyennes.
+           |   six virgule quatre              |           cent neuf virgule six         | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Saxe-Royale.
+        |  vingt-six virgule neuf (mille huit cent soixante-seize-quatre-vingts)    |           deux cent quatre-vingt-dix-neuf           | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Danemark.
+           |  trente-huit (mille huit cent soixante et onze-quatre-vingts)      |           deux cent cinquante-huit           | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Suisse.
+             |  quarante-sept (mille huit cent soixante-seize-quatre-vingts)      |           deux cent seize           | +, , , , , , , , , , -+, , , , , , , , , , +, , , , , , , , , , , , -+ |Moyennes.
 Il se produit alors un bouleversement de la famille dont le survivant subit l'influence.
 Dans les Annales de démographie internationale (septembre mille huit cent quatre-vingt-deux), M.
 Tableau vingt-cinq, ci-dessus).
@@ -878,23 +887,27 @@ Tableau vingt-six, ci-dessous).
 À l'intérieur de chaque groupe, on note les mêmes concordances.
 Fribourg, quoique catholique et français, a passablement de divorces, il a passablement de suicides.
 Comparaison des cantons suisses au point de vue des divorces et des suicides.
-|         | +-----------+-----------+---------+------------+-----------+---------+ |                                                                    | |                                                                    | +--------------------------------------------------------------------+ |                       Français et Italiens.
-|   et séparations   | |                              |                |pour un.000 mariages.| +------------------------------+----------------+--------------------+ |premier groupe ( cinq départements).
-|Au-dessous de cinquante|        deux virgule six         | +------------------------------+----------------+--------------------+ |deuxième     --- (dix-huit     ---     ).
-|     soixante-seize à cent   |        cinq         | +------------------------------+----------------+--------------------+ |quatrième     --- (dix-neuf     ---     ).
- |        douze virgule quatre        | +------------------------------+----------------+--------------------+ / Ce rapport établi, cherchons à l'expliquer.
+|         | +, , , , , -+, , , , , -+, , , , -+, , , , , , +, , , , , -+, , , , -+ |                                                                    | |                                                                    | +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , + |                       Français et Italiens.
+|   et séparations   | |                              |                |pour un.000 mariages.| +, , , , , , , , , , , , , , , +, , , , , , , , +, , , , , , , , , , + |premier groupe ( cinq départements).
+|Au-dessous de cinquante|        deux virgule six         | +, , , , , , , , , , , , , , , +, , , , , , , , +, , , , , , , , , , + |deuxième     , - (dix-huit     , -     ).
+|   De cinquante et un à soixante-quinze   |        deux virgule neuf         | +, , , , , , , , , , , , , , , +, , , , , , , , +, , , , , , , , , , + |troisième     , - (quinze     , -     ).
+|     soixante-seize à cent   |        cinq         | +, , , , , , , , , , , , , , , +, , , , , , , , +, , , , , , , , , , + |quatrième     , - (dix-neuf     , -     ).
+|     cent un à cent cinquante  |        cinq virgule quatre         | +, , , , , , , , , , , , , , , +, , , , , , , , +, , , , , , , , , , + |cinquième     , - (dix     , -     ).
+|     deux cent cinquante et un à trois cents  |        dix        | +, , , , , , , , , , , , , , , +, , , , , , , , +, , , , , , , , , , + |huitième     , - ( cinq     , -     ).
+ |        douze virgule quatre        | +, , , , , , , , , , , , , , , +, , , , , , , , +, , , , , , , , , , + / Ce rapport établi, cherchons à l'expliquer.
 Nous ne mentionnerons que pour mémoire l'explication qu'en a sommairement proposée Monsieur Bertillon.
 Mais c'est arbitrairement et sans preuves qu'on rattache ainsi le divorce à certaines tares psychopathiques.
 Tout ce qui suit achèvera, d'ailleurs, de démontrer l'insuffisance de cette théorie.
-/ +--------------------------------------------------------------------+ +------------+-------------+-------------+-------------+-------------+ |            | Célibataires|   Mariés.
+/ +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , + +, , , , , , +, , , , , , -+, , , , , , -+, , , , , , -+, , , , , , -+ |            | Célibataires|   Mariés.
  | |            |   au delà   |             |             |             | |            |  de quinze ans.
 Mais il ne suffit pas à l'expliquer.
 Pour en trouver les causes, reportons-nous à l'une des propositions que nous avons précédemment établies.
 Influence du divorce sur l'immunité des époux.
-/ +-------------------------------+--------------------+---------------+ |                               |    de sujets.
+/ +, , , , , , , , , , , , , , , -+, , , , , , , , , , +, , , , , , , -+ |                               |    de sujets.
      |de préservation| |                               |                    | des époux par | |           PAYS                |                    | rapport aux   | |                               |                    | garçons.
-     | |                               +--------------------+               | |                               |  Garçons  | Époux.
- +-----------+--------+               | |fréquent.
+     | |                               +, , , , , , , , , , +               | |                               |  Garçons  | Époux.
+ +, , , , , -+, , , , +               | |fréquent.
+   |                 | Sur cent habitants  |     zéro virgule six trois      | |        |                 | mâles de tout état |               | |             |                 | civil,             |               | |             |                 +, , , , , -+, , , , +               | |             |                 |  Garçons.
 Nous n'avons pu nous procurer le chiffre des divorces dans le grand-duché d'Oldenbourg.
 Les divorces sont beaucoup plus fréquents dans la Seine que dans le reste du pays.
 En moyenne, il est de un virgule sept trois.
@@ -912,7 +925,7 @@ Cette hypothèse écartée, il n'en reste plus qu'une de possible.
 Car l'amour est, chez nous, un fait beaucoup plus mental qu'organique.
 Ce sont des raisons morales qui le suscitent autant que des sollicitations physiques.
 Aussi n'a-t-il plus la périodicité régulière et automatique qu'il présente chez l'animal.
-Une excitation psychique peut en tout temps l'éveiller: il est de toutes les saisons.
+Une excitation psychique peut en tout temps l'éveiller : il est de toutes les saisons.
 Telle est la fonction du mariage.
 Il règle toute cette vie passionnelle, et le mariage monogamique plus étroitement que tout autre.
 C'est cette détermination qui fait l'état d'équilibre moral dont bénéficie l'époux.
@@ -925,7 +938,7 @@ Or, le divorce implique un affaiblissement de la réglementation matrimoniale.
 Il ne saurait donc, au même degré, produire ses effets utiles.
 Elle se résigne moins aisément à la condition qui lui est faite.
 Par conséquent, le nombre total des suicides s'élève.
-Mais cette conséquence du divorce est spéciale à l'homme; elle n'atteint pas l'épouse.
+Mais cette conséquence du divorce est spéciale à l'homme ; elle n'atteint pas l'épouse.
 Or une telle discipline, là même où elle est utile, ne va pas sans inconvénients.
 En fixant pour jamais la condition conjugale, elle empêche d'en sortir quoiqu'il puisse arriver.
 En bornant l'horizon, elle ferme les issues et interdit toutes les espérances, même légitimes.
@@ -950,7 +963,7 @@ Il en est du suicide comme de l'aliénation mentale.
 Pour l'aliéniste, le mot désigne, au contraire, une pluralité de types nosologiques.
 Il répugne à sortir de lui-même.
 En revanche, la pensée et la vie intérieure gagnent tout ce que perd l'activité.
-Ses passions ne sont qu'apparentes; car elles sont stériles.
+Ses passions ne sont qu'apparentes ; car elles sont stériles.
 Elles se dissipent en vaines combinaisons d'images, sans rien produire qui leur soit extérieur.
 Mais d'un autre côté, toute vie intérieure tire du dehors sa matière première.
 Nous ne pouvons penser que des objets ou la manière dont nous les pensons.
@@ -984,7 +997,7 @@ L'état de dépression où il se trouve ne lui permet même pas les emportements
 Quant à ceux de l'altruiste, ils ont un tout autre sens.
 Nous sommes donc en présence d'une forme psychologique distincte des précédentes.
 Or elle paraît bien être impliquée dans la nature du suicide anomique.
-Mais le sentiment est le même dans les deux cas; seul le point d'application varie.
+Mais le sentiment est le même dans les deux cas ; seul le point d'application varie.
 C'est le hasard des circonstances qui détermine le sens dans lequel elles se dirigent.
 Ils s'en prennent alors à la vie en général et l'accusent de les avoir trompés.
 Ce qui y domine, c'est un dégoût plus ou moins irrité de l'existence.
@@ -1006,7 +1019,7 @@ Cependant, l'été semblerait devoir les favoriser exceptionnellement.
 La température ne met donc pas obstacle à ce genre de mort.
 Les mobiles qui fixent son choix sont d'une tout autre nature.
 Il s'en faut, en effet, qu'ils soient tous mis sur le même plan.
-À l'armée, la décapitation est considérée comme une mort infamante; ailleurs, ce sera la pendaison.
+À l'armée, la décapitation est considérée comme une mort infamante ; ailleurs, ce sera la pendaison.
 Du moins, il n'y a entre eux que des rapports extérieurs de juxtaposition.
 L'élément social du suicide.
 Il y a d'abord la situation extérieure dans laquelle se trouve placé l'agent.
@@ -1103,7 +1116,7 @@ La simple tentative est punie d'une amende que l'autorité ecclésiastique est c
 Les sociétés mahométanes ne prohibent pas moins énergiquement le suicide.
 Le suicide n'était regardé comme illégitime que s'il n'était pas autorisé par l’État.
 Avec des variantes de détail, il en était de même à Thèbes, à Chypre.
-Si l'existence t'est odieuse, meurs; si tu es accablé par la fortune, bois la ciguë.
+Si l'existence t'est odieuse, meurs ; si tu es accablé par la fortune, bois la ciguë.
 Si tu es courbé sous la douleur, abandonne la vie.
 On trouve la même loi à Céos.
 Elle fut transportée à Marseille par les colons grecs qui fondèrent cette ville.
@@ -1115,7 +1128,7 @@ Dans la seconde période, la condamnation est absolue et sans aucune exception.
 C'est un droit soustrait désormais à l'arbitraire collectif aussi bien que privé.
 Et en effet, les idées qui lui ont imprimé cette direction sont toujours actuelles.
 Car un créancier peut toujours remettre la dette dont il est bénéficiaire.
-Il s'est empreint de religiosité; l'homme est devenu un dieu pour les hommes.
+Il s'est empreint de religiosité ; l'homme est devenu un dieu pour les hommes.
 C'est pourquoi tout attentat dirigé contre lui nous fait l'effet d'un sacrilège.
 Or le suicide est l'un de ces attentats.
 Au contraire, il est devenu un acte essentiellement religieux.
@@ -1159,12 +1172,12 @@ L'influence de l'âge sur l'un et l'autre phénomène ne révèle pas de moindre
 Il est vrai que Morselli a exprimé le sentiment contraire.
 La vérité est qu'il n'y a ni inversion ni concordance.
 C'est ce que montre le tableau trente et un.
-   | |               +--------+------------+--------------+---------------+ |               |Meurtres|Assassinats |  Hommes.
+   | |               +, , , , +, , , , , , +, , , , , , , +, , , , , , , -+ |               |Meurtres|Assassinats |  Hommes.
 Elle monte jusqu'en juin et descend régulièrement jusqu'en décembre, comme celle des suicides.
 Tableau trente-deux).
-Pour les infanticides, c'est en mai; pour les coups mortels, c'est en août et septembre.
+Pour les infanticides, c'est en mai ; pour les coups mortels, c'est en août et septembre.
 Tout autre est, nous l'avons vu, la distribution du suicide.
-/ +----------+-----------+--------------+---------------+--------------+ |          | MEURTRES.
+/ +, , , , , +, , , , , -+, , , , , , , +, , , , , , , -+, , , , , , , + |          | MEURTRES.
 | et blessures | |          |           |              |               | mortels.
 La tendance homicide devrait donc, sous l'influence de l'emprisonnement, se transformer en tendance au suicide.
 Ils paraissent même plutôt confirmer les observations précédentes.
@@ -1185,7 +1198,8 @@ Là où l'homicide ne perd pas de terrain, il reste tout au moins stationnaire.
 Pendant le même temps, le suicide augmentait dans tous ces États.
 Elle constituait donc un terme de comparaison aussi impropre que possible.
 Voici, en effet, le résultat que donne ce travail.
-/* +--------------------------------------------------------------------+ |           Nombre des affaires impoursuivies.
+/* +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , + |           Nombre des affaires impoursuivies.
+               | +, , , , , -+, , , , +, , , , -+, , , , -+, , , , +, , , , -+, , , , + |           |mille huit cent trente-cinq-trente-huit.|mille huit cent trente-neuf-quarante.
 |mille huit cent quarante-six-cinquante.
 |mille huit cent soixante et un-soixante-cinq |mille huit cent soixante-seize-quatre-vingts.
 La diminution est de trente-septpourcent pour les meurtres et de vingt-quatrepourcent pour les assassinats.
@@ -1201,18 +1215,18 @@ Pendant ce temps, le suicide évoluait en sens inverse.
 En mille huit cent trente-huit, l'augmentation est de trente pourcent.
 quatre° Le suicide est beaucoup plus urbain que rural.
 C'est le contraire pour l'homicide.
-     |            soixante-dix             |          vingt-trois virgule un            | +-------------+---------------------------+--------------------------+ |Espagne.
-    |            soixante-quatre virgule neuf           |           huit virgule deux            | +-------------+---------------------------+--------------------------+ |Hongrie.
-    |            cinquante-six virgule deux           |           huit virgule deux            | +-------------+---------------------------+--------------------------+ |Autriche.
-   |            dix virgule deux           |           huit virgule sept            | +-------------+---------------------------+--------------------------+ |Irlande.
-    |             huit virgule un           |           deux virgule trois            | +-------------+---------------------------+--------------------------+ |Belgique.
-   |             huit virgule cinq           |           quatre virgule deux            | +-------------+---------------------------+--------------------------+ |France.
-     |             six virgule quatre           |           cinq virgule six            | +-------------+---------------------------+--------------------------+ |Moyennes.
-  |             trois virgule quatre           |           trois virgule trois            | +-------------+---------------------------+--------------------------+ |Angleterre.
- |             trois virgule neuf           |           un virgule sept            | +-------------+---------------------------+--------------------------+ |Danemark.
-   |             quatre virgule six           |           trois virgule sept            | +-------------+---------------------------+--------------------------+ |Hollande.
-   |             trois virgule un           |           deux virgule cinq            | +-------------+---------------------------+--------------------------+ |Écosse.
-     |             quatre virgule quatre           |           zéro virgule sept           | +-------------+---------------------------+--------------------------+ |Moyennes.
+     |            soixante-dix             |          vingt-trois virgule un            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Espagne.
+    |            soixante-quatre virgule neuf           |           huit virgule deux            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Hongrie.
+    |            cinquante-six virgule deux           |           huit virgule deux            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Autriche.
+   |            dix virgule deux           |           huit virgule sept            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Irlande.
+    |             huit virgule un           |           deux virgule trois            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Belgique.
+   |             huit virgule cinq           |           quatre virgule deux            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |France.
+     |             six virgule quatre           |           cinq virgule six            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Moyennes.
+  |             trois virgule quatre           |           trois virgule trois            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Angleterre.
+ |             trois virgule neuf           |           un virgule sept            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Danemark.
+   |             quatre virgule six           |           trois virgule sept            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Hollande.
+   |             trois virgule un           |           deux virgule cinq            | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Écosse.
+     |             quatre virgule quatre           |           zéro virgule sept           | +, , , , , , -+, , , , , , , , , , , , , -+, , , , , , , , , , , , , + |Moyennes.
 Le même contraste s'observe à l'intérieur de l'Allemagne.
 Les célibataires ont en moyenne de vingt-cinq à trente ans, les époux environ quarante-cinq.
 La vie domestique ne leur confère aucune immunité.
@@ -1225,7 +1239,7 @@ Selon qu'elle est plus ou moins résistante, elle plie dans un sens ou dans l'au
 Un homme de moralité médiocre tue plutôt qu'il ne se tue.
 C'est que l'anomie y est à l'état aigu.
 La même cause empêche les meurtres de décroître aussi vite que s'accroissent les suicides.
-Le suicide égoïste est, vraisemblablement, le plus répandu; or il exclut les crimes de sang.
+Le suicide égoïste est, vraisemblablement, le plus répandu ; or il exclut les crimes de sang.
 Nous arrivons donc à la conclusion suivante.
 Mais ce n'est pas le lieu d'insister sur cette importante proposition de criminologie.
 Ce n'est pas un dérivatif de l'homicide.
@@ -1235,13 +1249,15 @@ Ce chapitre peut servir à élucider un problème souvent débattu.
 Or nous venons de voir que ni l'une ni l'autre hypothèse n'est fondée.
 Leurs douleurs, comme nos douleurs, nous sont plus facilement intolérables.
 Mais il est présent et agissant dans l'un comme dans l'autre.
- |     zéro virgule trois     |     zéro virgule six     |      "      |      "      | +------------+-------------+-------------+-------------+-------------+ |  vingt à vingt-cinq.
- |     trente-trois      |     trente-quatre      |     deux virgule six     |     trois       | +------------+-------------+-------------+-------------+-------------+ |  trente à quarante.
- |      "      |      "      |      "      |      "      | +------------+-------------+-------------+-------------+-------------+ |  quinze à vingt.
- |     quarante-six      |     quatre-vingt-quatre      |      neuf      |    douze virgule six     | +------------+-------------+-------------+-------------+-------------+ |  quarante à cinquante.
- |     cinquante-cinq      |     quatre-vingt-dix-huit      |     dix-sept      |     dix-neuf      | +------------+-------------+-------------+-------------+-------------+ |  cinquante à soixante.
- |     cinquante-sept      |     cent six     |     vingt-six      |     quarante      | +------------+-------------+-------------+-------------+-------------+ |  soixante à soixante-dix.
- |     trente-cinq      |     soixante-sept      |     quarante-sept      |     soixante-cinq      | +------------+-------------+-------------+-------------+-------------+ |  soixante-dix à quatre-vingts.
+ |     zéro virgule trois     |     zéro virgule six     |      "      |      "      | +, , , , , , +, , , , , , -+, , , , , , -+, , , , , , -+, , , , , , -+ |  vingt à vingt-cinq.
+ |     trente-trois      |     trente-quatre      |     deux virgule six     |     trois       | +, , , , , , +, , , , , , -+, , , , , , -+, , , , , , -+, , , , , , -+ |  trente à quarante.
+ |     cent trente-sept     |     trois cent soixante-sept     |     vingt-huit      |    quarante-huit       | +, , , , , , +, , , , , , -+, , , , , , -+, , , , , , -+, , , , , , -+ |  cinquante à soixante.
+ |      "      |      "      |      "      |      "      | +, , , , , , +, , , , , , -+, , , , , , -+, , , , , , -+, , , , , , -+ |  quinze à vingt.
+ |     quarante-six      |     quatre-vingt-quatre      |      neuf      |    douze virgule six     | +, , , , , , +, , , , , , -+, , , , , , -+, , , , , , -+, , , , , , -+ |  quarante à cinquante.
+ |     cinquante-cinq      |     quatre-vingt-dix-huit      |     dix-sept      |     dix-neuf      | +, , , , , , +, , , , , , -+, , , , , , -+, , , , , , -+, , , , , , -+ |  cinquante à soixante.
+ |     cinquante-sept      |     cent six     |     vingt-six      |     quarante      | +, , , , , , +, , , , , , -+, , , , , , -+, , , , , , -+, , , , , , -+ |  soixante à soixante-dix.
+ |     trente-cinq      |     soixante-sept      |     quarante-sept      |     soixante-cinq      | +, , , , , , +, , , , , , -+, , , , , , -+, , , , , , -+, , , , , , -+ |  soixante-dix à quatre-vingts.
+ |     un virgule trois     |     deux virgule six     |     douze      |     dix-neuf      | +, , , , , , +, , , , , , -+, , , , , , -+, , , , , , -+, , , , , , -+ / Conséquences pratiques.
 Mais cette question elle-même en suppose une autre.
 On s'étonnera peut-être que la question puisse être posée.
 Nous sommes, en effet, habitués à regarder comme anormal tout ce qui est immoral.
@@ -1287,7 +1303,7 @@ Il ne dépend pas du législateur qu'un fait nous apparaisse ou non comme morale
 Jusque-là, il serait artificiel et, par conséquent, sans grande utilité.
 Mais c'est prêter à l'éducation un pouvoir qu'elle n'a pas.
 Elle n'est que l'image et le reflet de la société.
-Elle l'imite et la reproduit en raccourci; elle ne la crée pas.
+Elle l'imite et la reproduit en raccourci ; elle ne la crée pas.
 On tourne dans un cercle.
 Le milieu artificiel de l'école ne peut le préserver que pour un temps et faiblement.
 À mesure que la vie réelle le prendra davantage, elle viendra détruire l'œuvre de l'éducateur.
@@ -1312,7 +1328,7 @@ C'est une lourde machine qui n'est faite que pour des besognes générales et si
 Il en résulte qu'elle est forcément compressive et niveleuse.
 Mais ce n'est pas seulement le suicide égoïste qui serait combattu de cette manière.
 Proche parent du précédent, le suicide anomique est justiciable du même traitement.
-Elle enfièvre et elle exaspère les premières; elle désoriente et elle déconcerte les secondes.
+Elle enfièvre et elle exaspère les premières ; elle désoriente et elle déconcerte les secondes.
 Le remède est donc le même dans l'un et l'autre cas.
 La religion qui, jadis, s'était, en partie, acquittée de ce rôle, y serait maintenant impropre.
 C'est même son inefficacité actuelle qui est la cause du mal.
@@ -1337,252 +1353,252 @@ Cette organisation ne paraît pas être restée très longtemps à l'état de pu
 À l'ancien groupement domestique se substitue alors le groupement territorial.
 Ils restent le segment élémentaire dont la société totale n'est que la reproduction agrandie.
 D'une ville à l'autre, d'un district à l'autre les différences vont en diminuant.
-Une seule force collective survécut à la tourmente: c'est l'État.
+Une seule force collective survécut à la tourmente : c'est l'État.
 Car c'est une remarque souvent faite qu'il est aussi envahissant qu'impuissant.
 Dans ces conditions, il est inévitable qu'ils sombrent dans l'égoïsme ou dans le dérèglement.
 Le libérer de toute pression sociale, c'est l'abandonner à lui-même et le démoraliser.
 Tels sont, en effet, les deux caractéristiques de notre situation morale.
 La vie générale du pays, définitivement unifiée, est réfractaire à toute dispersion de ce genre.
-On peut regretter ce qui n'est plus; mais ces regrets sont vains.
+On peut regretter ce qui n'est plus ; mais ces regrets sont vains.
 Il est impossible de ressusciter artificiellement un esprit particulariste qui n'a plus de fondement.
 Seulement, pour cela, il faut commencer par organiser la corporation.
 On peut même dire qu'il en donne la mesure.
-cinq à douze I.--Nécessité de constituer, par une définition objective, l'objet de la recherche.
+cinq à douze I., Nécessité de constituer, par une définition objective, l'objet de la recherche.
 Définition objective du suicide.
-Comment elle prévient les exclusions arbitraires et les rapprochements trompeurs: élimination des suicides d'animaux.
+Comment elle prévient les exclusions arbitraires et les rapprochements trompeurs : élimination des suicides d'animaux.
 Comment elle marque les rapports du suicide avec les formes ordinaires de la conduite.
-II.--Différence entre le suicide considéré chez les individus et le suicide comme phénomène collectif.
-Le taux social des suicides; sa définition.
+II., Différence entre le suicide considéré chez les individus et le suicide comme phénomène collectif.
+Le taux social des suicides ; sa définition.
 Sa constance et sa spécificité supérieures à celles de la mortalité générale.
 Divisions de l'ouvrage.
-I.--Théorie d'après laquelle le suicide ne serait qu'une suite de la folie.
-II.--Le suicide est-il une monomanie? L'existence de monomanies n'est plus admise.
+I., Théorie d'après laquelle le suicide ne serait qu'une suite de la folie.
+II., Le suicide est-il une monomanie ? L'existence de monomanies n'est plus admise.
 Raisons cliniques et psychologiques contraires à cette hypothèse.
 Existence de suicides raisonnables qui ne rentrent pas dans ces cadres.
 Reste à déterminer l'influence de cette condition individuelle sur le taux des suicides.
-Ce qui explique cette absence de rapports: indétermination des effets qu'implique la neurasthénie.
+Ce qui explique cette absence de rapports : indétermination des effets qu'implique la neurasthénie.
 Résultats négatifs de cette comparaison.
-I.--Nécessité de définir la race.
+I., Nécessité de définir la race.
 D'où nécessité d'une grande réserve.
-II.--Trois grandes races distinguées par Morselli.
+II., Trois grandes races distinguées par Morselli.
 Très grande diversité de l'aptitude au suicide chez les Slaves, les Celto-Romains, les nations germaniques.
-I.--Le climat n'a aucune influence.
-II.--La température.
-Variations saisonnières du suicide; leur généralité.
+I., Le climat n'a aucune influence.
+II., La température.
+Variations saisonnières du suicide ; leur généralité.
 Comment l'école italienne les explique par la température.
-III.--Conception contestable du suicide qui est à la base de cette théorie.
+III., Conception contestable du suicide qui est à la base de cette théorie.
 Hypothèse d'après laquelle ce seraient les premières chaleurs qui seraient nocives.
-IV.--Nature des causes dont dépendent ces variations.
-Comment elle rend compte des variations saisonnières du suicide; preuves confirmatives diverses.
+IV., Nature des causes dont dépendent ces variations.
+Comment elle rend compte des variations saisonnières du suicide ; preuves confirmatives diverses.
 Les variations mensuelles du suicide dépendent donc de causes sociales.
 L'imitation est un phénomène de psychologie individuelle.
-I.--Différence entre l'imitation et plusieurs autres phénomènes avec lesquels elle a été confondue.
+I., Différence entre l'imitation et plusieurs autres phénomènes avec lesquels elle a été confondue.
 Définition de l'imitation.
 Comment le problème de l'influence possible de l'imitation sur le taux des suicides reste entier.
-III.--Cette influence doit être étudiée à travers la distribution géographique des suicides.
+III., Cette influence doit être étudiée à travers la distribution géographique des suicides.
 Critères d'après lesquels elle peut être reconnue.
 Nulle trace visible de l'imitation dans la répartition géographique.
-Conséquence pratique de cette discussion: qu'il n'y a pas lieu d'interdire la publicité judiciaire.
-Conséquence théorique: l'imitation n'a pas l'efficacité sociale qu'on lui a prêtée.
+Conséquence pratique de cette discussion : qu'il n'y a pas lieu d'interdire la publicité judiciaire.
+Conséquence théorique : l'imitation n'a pas l'efficacité sociale qu'on lui a prêtée.
 La seule méthode praticable consiste à classer les suicides par leurs causes.
 Pourquoi elle convient mieux que toute autre à une étude sociologique du suicide.
-I.--Le suicide et les religions.
-Aggravation générale due au protestantisme; immunité des catholiques et surtout des juifs.
+I., Le suicide et les religions.
+Aggravation générale due au protestantisme ; immunité des catholiques et surtout des juifs.
 Comment cette explication s'applique aux juifs.
 Comment l'exception des juifs confirme la loi.
-LE SUICIDE ÉGOÏSTE (suite) I.--Immunité générale des mariés telle que l'a calculée Bertillon.
+LE SUICIDE ÉGOÏSTE (suite) I., Immunité générale des mariés telle que l'a calculée Bertillon.
 Inconvénients de la méthode qu'il a dû suivre.
 Nécessité de séparer plus complètement l'influence de l'âge et celle de l'état civil.
 Tableaux où cette séparation est effectuée.
 Lois qui s'en dégagent.
-II.--Explication de ces lois.
+II., Explication de ces lois.
 Le coefficient de préservation des époux ne tient pas à la sélection matrimoniale.
 Théorie générale du veuvage.
-IV.--Tableau récapitulatif des résultats précédents.
+IV., Tableau récapitulatif des résultats précédents.
 Elle croît avec la densité de la famille, c'est-à-dire avec son degré d'intégration.
-V.--Le suicide et les crises politiques, nationales.
+V., Le suicide et les crises politiques, nationales.
 Que la régression qu'il subit alors est réelle et générale.
-VI.--Conclusion générale du chapitre.
+VI., Conclusion générale du chapitre.
 Rapport direct entre le suicide et le degré d'intégration des groupes sociaux, quels qu'ils soient.
-Cause de ce rapport; pourquoi et dans quelles conditions la société est nécessaire à l'individu.
+Cause de ce rapport ; pourquoi et dans quelles conditions la société est nécessaire à l'individu.
 Comment, quand elle lui fait défaut, le suicide se développe.
 Preuves confirmatives de cette explication.
 Constitution du suicide égoïste.
 Constitution du suicide altruiste obligatoire.
 Autres formes de ce type.
-II.--Le suicide dans les armées européennes; généralité de l'aggravation qui résulte du service militaire.
-Elle est indépendante du célibat; de l'alcoolisme.
+II., Le suicide dans les armées européennes ; généralité de l'aggravation qui résulte du service militaire.
+Elle est indépendante du célibat ; de l'alcoolisme.
 Elle n'est pas due au dégoût du service.
 Elle est due à l'esprit militaire et à l'état d'altruisme qu'il implique.
-III.--Comment les résultats obtenus justifient la méthode suivie.
-I.--Le suicide croît avec les crises économiques.
-Cette progression se maintient dans les crises de prospérité: exemples de la Prusse, de l'Italie.
+III., Comment les résultats obtenus justifient la méthode suivie.
+I., Le suicide croît avec les crises économiques.
+Cette progression se maintient dans les crises de prospérité : exemples de la Prusse, de l'Italie.
 Les expositions universelles.
 Le suicide et la richesse.
-II.--Explication de ce rapport.
-C'est la société qui les limite; comment cette influence modératrice s'exerce normalement.
-Comment elle est empêchée par les crises; d'où dérèglement, anomie, suicides.
+II., Explication de ce rapport.
+C'est la société qui les limite ; comment cette influence modératrice s'exerce normalement.
+Comment elle est empêchée par les crises ; d'où dérèglement, anomie, suicides.
 Confirmation tirée des rapports du suicide et de la richesse.
-III.--L'anomie est actuellement à l'état chronique dans le monde économique.
+III., L'anomie est actuellement à l'état chronique dans le monde économique.
 Suicides qui en résultent.
 Constitution du suicide anomique.
-IV.--Suicides dus à l'anomie conjugale.
+IV., Suicides dus à l'anomie conjugale.
 Parallélisme des divorces et des suicides.
 En quoi consiste cette constitution matrimoniale.
 Raison de cet antagonisme.
 Preuves confirmatives de cette explication.
 Conception du mariage qui se dégage de ce chapitre.
 Utilité et possibilité de compléter la classification étiologique qui précède par une classification morphologique.
-I.--Formes fondamentales que prennent les trois courants suicidogènes en s'incarnant chez les individus.
+I., Formes fondamentales que prennent les trois courants suicidogènes en s'incarnant chez les individus.
 Formes mixtes qui résultent de la combinaison de ces formes fondamentales.
 Mais ces causes sont indépendantes de celles qui déterminent le suicide.
 Elles ne ressortissent donc pas à la présente recherche.
 Tableau synoptique des différents types de suicides.
-I.--Résultats de ce qui précède.
+I., Résultats de ce qui précède.
 Absence de relations entre le taux des suicides et les phénomènes cosmiques ou biologiques.
 Rapports définis avec les faits sociaux.
 Le taux social correspond donc à un penchant collectif de la société.
-II.--La constance et l'individualité de ce taux ne peut pas s'expliquer autrement.
-Théorie de Quételet pour en rendre compte: l'homme moyen.
-Réponse: le taux des suicides ne peut se transmettre ainsi.
+II., La constance et l'individualité de ce taux ne peut pas s'expliquer autrement.
+Théorie de Quételet pour en rendre compte : l'homme moyen.
+Réponse : le taux des suicides ne peut se transmettre ainsi.
 deux° Objection diaprés laquelle l'individu est tout le réel de la société.
 Ils ont pour substrat l'agrégat formé par les consciences individuelles réunies en société.
 Que cette conception n'a rien d'ontologique.
-IV.--Application de ces idées au suicide.
+IV., Application de ces idées au suicide.
 Méthode pour déterminer si le suicide doit être classé parmi les faits moraux ou immoraux.
 Progrès continu de la réprobation dont il est l'objet, sauf aux époques de décadence.
-II.--Rapports du suicide avec les autres formes de l'immoralité.
-Le suicide et les attentats contre la propriété; absence de tout rapport.
-III.--Discussion de la première partie de la proposition.
-IV.--Discussion de la deuxième partie.
+II., Rapports du suicide avec les autres formes de l'immoralité.
+Le suicide et les attentats contre la propriété ; absence de tout rapport.
+III., Discussion de la première partie de la proposition.
+IV., Discussion de la deuxième partie.
 Cas où l'antagonisme ne se vérifie pas.
 Cas, plus nombreux, où il se vérifie.
-Nature de ces types; pourquoi les premiers sont actuellement plus nombreux que les seconds.
+Nature de ces types ; pourquoi les premiers sont actuellement plus nombreux que les seconds.
 Comment ce qui précède éclaire la question des rapports historiques de l'égoïsme et de l'altruisme.
 Comment la question se pose malgré la nature immorale du suicide.
 Raisons de croire que l'existence d'un taux modéré de suicides n'a rien de morbide.
-II.--Moyens proposés pour conjurer le mal: un° mesures répressives.
+II., Moyens proposés pour conjurer le mal : un° mesures répressives.
 Quelles sont celles qui seraient possibles.
-Pourquoi elles ne sauraient avoir qu'une efficacité restreinte; deux° l'éducation.
-Le remède contre le suicide égoïste: rendre plus consistants les groupes qui encadrent l'individu.
+Pourquoi elles ne sauraient avoir qu'une efficacité restreinte ; deux° l'éducation.
+Le remède contre le suicide égoïste : rendre plus consistants les groupes qui encadrent l'individu.
 Les suicides des époux progressent comme ceux des célibataires.
-III.--Du groupe professionnel.
+III., Du groupe professionnel.
 Pourquoi il est seul en état de remplir cette fonction.
 Ce qu'il doit devenir pour cela.
-Position antinomique du problème: l'antagonisme des sexes.
+Position antinomique du problème : l'antagonisme des sexes.
 Moyens d'y remédier.
 L'état présent du suicide est l'indice d'une misère morale.
 Ce qu'il faut entendre par une affection morale de la société.
 Comment la réforme proposée est réclamée par l'ensemble de notre évolution historique.
-Disparition de tous les groupes sociaux intermédiaires entre l'individu et l'État; nécessité de les reconstituer.
-[un: Les règles de la Méthode sociologique, Paris, F.
-Alcan, mille huit cent quatre-vingt-quinze.] [deux: Et pourtant, nous montrerons (p.
+Disparition de tous les groupes sociaux intermédiaires entre l'individu et l'État ; nécessité de les reconstituer.
+[un : Les règles de la Méthode sociologique, Paris, F.
+Alcan, mille huit cent quatre-vingt-quinze.] [deux : Et pourtant, nous montrerons (p.
 des anim., neuf, quarante-sept).
 Les éleveurs assurent que le cheval n'est aucunement réfractaire à l'inceste.
 Voir sur toute cette question, Westcott, Suicide, p.
-quatre-vingt-sept).] [sept: D'après Bertillon, article Mortalité du Dictionnaire Encyclopédique des sciences médicales, t.
+quatre-vingt-sept).] [sept : D'après Bertillon, article Mortalité du Dictionnaire Encyclopédique des sciences médicales, t.
 Nous n'admettons pas plus d'âme substantielle dans la société que dans l'individu.
-Nous reviendrons, d'ailleurs, sur ce point.] [neuf: cinq.
+Nous reviendrons, d'ailleurs, sur ce point.] [neuf : cinq.
 Voici les indications relatives à la bibliographie générale du suicide.
 Monatsch., mille huit cent soixante-dix-huit, p.
 di psychiatria, Turin, mille huit cent quatre-vingt-six.
-II.--Études sur le suicide en général.
-cit.--Leroy, op.
+II., Études sur le suicide en général.
+cit., Leroy, op.
 Suicide, du Dictionnaire de médecine et de chirurgie, pratique, t.
-cent dix-sept.--Strahan, Suicide and Insanity, Londres, mille huit cent vingt-quatre.
-in Annales médico-psych., mille huit cent soixante-douze; Journal de la Soc.
+cent dix-sept., Strahan, Suicide and Insanity, Londres, mille huit cent vingt-quatre.
+in Annales médico-psych., mille huit cent soixante-douze ; Journal de la Soc.
 En réalité, elle est, en partie, un phénomène social.
-Nous reviendrons sur ce point.] [treize: Maladies mentales, t.
-six cent trente-neuf.] [quatorze: Ibid., t.
-six cent soixante-cinq.] [quinze: Du suicide, etc., p.
-cent trente-sept.] [seize: In Annales médico-psych., t.
-deux cent quatre-vingt-sept.] [dix-sept: Maladies mentales, t.
-cinq cent vingt-huit.] [dix-huit: cinq.
+Nous reviendrons sur ce point.] [treize : Maladies mentales, t.
+six cent trente-neuf.] [quatorze : Ibid., t.
+six cent soixante-cinq.] [quinze : Du suicide, etc., p.
+cent trente-sept.] [seize : In Annales médico-psych., t.
+deux cent quatre-vingt-sept.] [dix-sept : Maladies mentales, t.
+cinq cent vingt-huit.] [dix-huit : cinq.
 Brierre de Boismont, p.
-cent quarante.] [dix-neuf: Maladies mentales, quatre cent trente-sept.] [vingt: cinq.
-quarante-trois.] [vingt-trois: Falret, Hypochondrie et suicide, p.
-deux cent quatre-vingt-dix-neuf-trois cent sept.] [vingt-quatre: Suicide et folie-suicide, p.
-trois cent quatre-vingt-dix-sept.] [vingt-cinq: Brierre, op.
-cinq cent soixante-quatorze.] [vingt-six: Ibid., p.
-trois cent quatorze.] [vingt-sept: Maladies mentales, t.
-cinq cent vingt-neuf.] [vingt-huit: Hypochondrie et suicide, p.
-trois.] [vingt-neuf: Koch, Zur Statistik der Geisteskrankheiten.
+cent quarante.] [dix-neuf : Maladies mentales, quatre cent trente-sept.] [vingt : cinq.
+quarante-trois.] [vingt-trois : Falret, Hypochondrie et suicide, p.
+deux cent quatre-vingt-dix-neuf-trois cent sept.] [vingt-quatre : Suicide et folie-suicide, p.
+trois cent quatre-vingt-dix-sept.] [vingt-cinq : Brierre, op.
+cinq cent soixante-quatorze.] [vingt-six : Ibid., p.
+trois cent quatorze.] [vingt-sept : Maladies mentales, t.
+cinq cent vingt-neuf.] [vingt-huit : Hypochondrie et suicide, p.
+trois.] [vingt-neuf : Koch, Zur Statistik der Geisteskrankheiten.
 Stuttgart, mille huit cent soixante-dix-huit, p.
-soixante-treize.] [trente: D'après Morselli.] [trente et un: D'après Koch, op.
-cent huit-cent dix-neuf.] [trente-deux: cinq.
+soixante-treize.] [trente : D'après Morselli.] [trente et un : D'après Koch, op.
+cent huit-cent dix-neuf.] [trente-deux : cinq.
 plus bas, liv.
-un.] [trente-trois: cinq.
+un.] [trente-trois : cinq.
 plus bas, liv.
-un.] [trente-quatre: cinq.
-Tableau neuf, ci-dessous.] [trente-cinq: Koch, op.
-cent trente-neuf-cent quarante-six.] [trente-six: Koch, op.
-trente-quatre); la seconde à Oettingen, Moralstatistik, tableau annexe quatre-vingt-dix-sept.] [trente-huit: Op.
-deux cent trente-huit.] [trente-neuf: Op.
+un.] [trente-quatre : cinq.
+Tableau neuf, ci-dessous.] [trente-cinq : Koch, op.
+cent trente-neuf-cent quarante-six.] [trente-six : Koch, op.
+trente-quatre); la seconde à Oettingen, Moralstatistik, tableau annexe quatre-vingt-dix-sept.] [trente-huit : Op.
+deux cent trente-huit.] [trente-neuf : Op.
 Ils sont trop élevés pour représenter les seuls cas de folie.
 le tableau donné dans le Dictionnaire de Dechambre et où la distinction est faite.
-En tout cas, s'il y a progrès, nous ignorons le coefficient d'accélération.] [quarante-quatre: cinq.
+En tout cas, s'il y a progrès, nous ignorons le coefficient d'accélération.] [quarante-quatre : cinq.
 planche un, p.
-quarante-huit.] [quarante-sept: De la production et de la consommation des boissons alcooliques en France, p.
-cent soixante-quatorze-cent soixante-quinze.] [quarante-huit: cinq.
-planche un, ci-dessus.] [quarante-neuf: Ibid.] [cinquante: D'après Lunier, op.
+quarante-huit.] [quarante-sept : De la production et de la consommation des boissons alcooliques en France, p.
+cent soixante-quatorze-cent soixante-quinze.] [quarante-huit : cinq.
+planche un, ci-dessus.] [quarante-neuf : Ibid.] [cinquante : D'après Lunier, op.
 cent quatre-vingts et suiv.
 On trouvera des chiffres analogues, se rapportant à d'autres années, dans Prinzing, op.
 Il en est de même en Russie.
 cent soixante-cinq et suiv.; Morselli, p.
-cent cinquante-huit; Oettingen, Moralstatistik, p.
-sept cent soixante.] [cinquante-cinq: L'espèce humaine, p.
-Paris, Félix Alcan.] [cinquante-six: Article Anthropologie, dans le Dictionnaire de Dechambre, t.
-cent quatre-vingt-neuf.] [soixante: Mémoires d'anthropologie, t.
+cent cinquante-huit ; Oettingen, Moralstatistik, p.
+sept cent soixante.] [cinquante-cinq : L'espèce humaine, p.
+Paris, Félix Alcan.] [cinquante-six : Article Anthropologie, dans le Dictionnaire de Dechambre, t.
+cent quatre-vingt-neuf.] [soixante : Mémoires d'anthropologie, t.
 Les raisons d'ordre morphologique sont ici impossibles.
 Restent donc les argumenta historiques qui ne peuvent être que très conjecturaux.
 plus bas, liv.
-quatre, § un.] [soixante-quatre: Broca, op.
-trois cent quatre-vingt-quatorze.] [soixante-cinq: cinq.
+quatre, § un.] [soixante-quatre : Broca, op.
+trois cent quatre-vingt-quatorze.] [soixante-cinq : cinq.
 Topinard, Anthropologie, p.
-quatre cent soixante-quatre.] [soixante-six: La même remarque s'applique à l'Italie.
+quatre cent soixante-quatre.] [soixante-six : La même remarque s'applique à l'Italie.
 L'écart est, du reste, faible.
 Le maximum qui s'observe en Toscane et en Vénétie, est de un m.
 soixante-cinq, le minimum, en Calabre, est de un m.
 soixante, du moins pour ce qui regarde le continent italien.
 En Sardaigne, la taille s'abaisse à un m.
-cinq cent quatre-vingt-deux.] [soixante-neuf: Suicide, p.
-cent quatre-vingt-dix-sept.] [soixante-dix: Cité par Legoyt, p.
-deux cent quarante-deux.] [soixante et onze: Suicide, p.
-dix-sept-dix-neuf.] [soixante-douze: D'après Morselli, p.
-quatre cent dix.] [soixante-treize: Brierre de Boismont, op.
-cinquante-neuf; Cazauvieilh, op.
-dix-neuf.] [soixante-quatorze: Ribot, L'hérédité, p.
-Paris, Félix Alcan.] [soixante-quinze: Lisle, op.
-cent quatre-vingt-quinze.] [soixante-seize: Brierre, op.
-cinquante-sept.] [soixante-dix-sept: Luys, op.
-deux cent un.] [soixante-dix-huit: Dictionnaire encyclopédique des sciences méd., art.
-cinq cent quarante-deux.] [soixante-dix-neuf: Op.
-cent soixante-dix-cent soixante-douze.] [quatre-vingts: cinq.
-trois cent vingt-neuf et suiv.] [quatre-vingt-un: cinq.
+cinq cent quatre-vingt-deux.] [soixante-neuf : Suicide, p.
+cent quatre-vingt-dix-sept.] [soixante-dix : Cité par Legoyt, p.
+deux cent quarante-deux.] [soixante et onze : Suicide, p.
+dix-sept-dix-neuf.] [soixante-douze : D'après Morselli, p.
+quatre cent dix.] [soixante-treize : Brierre de Boismont, op.
+cinquante-neuf ; Cazauvieilh, op.
+dix-neuf.] [soixante-quatorze : Ribot, L'hérédité, p.
+Paris, Félix Alcan.] [soixante-quinze : Lisle, op.
+cent quatre-vingt-quinze.] [soixante-seize : Brierre, op.
+cinquante-sept.] [soixante-dix-sept : Luys, op.
+deux cent un.] [soixante-dix-huit : Dictionnaire encyclopédique des sciences méd., art.
+cinq cent quarante-deux.] [soixante-dix-neuf : Op.
+cent soixante-dix-cent soixante-douze.] [quatre-vingts : cinq.
+trois cent vingt-neuf et suiv.] [quatre-vingt-un : cinq.
 cent cinquante-huit et suiv.
 Il marque une étape dans la vie féminine.
 In Archives d'Anth.
-criminelle, mille huit cent quatre-vingt-sept; Corre, Le délit et le suicide à Brest.
+criminelle, mille huit cent quatre-vingt-sept ; Corre, Le délit et le suicide à Brest.
 crim., mille huit cent quatre-vingt-dix, p.
 cent neuf et suiv., deux cent cinquante-neuf et suiv.; Du même, Crime et suicide, p.
-six cent cinq-six cent trente-neuf; Morselli, p.
-cent trois-cent cinquante-sept.] [quatre-vingt-cinq: cinq.
+six cent cinq-six cent trente-neuf ; Morselli, p.
+cent trois-cent cinquante-sept.] [quatre-vingt-cinq : cinq.
 plus bas, liv.
-quatre, § un.] [quatre-vingt-six: De l'hypochondrie, etc., p.
+quatre, § un.] [quatre-vingt-six : De l'hypochondrie, etc., p.
 Nous verrons plus loin ce qu'il faut penser de cette identification.
-cent quarante-huit.] [quatre-vingt-treize: Nous laissons de côté les chiffres qui concernent la Suisse.
+cent quarante-huit.] [quatre-vingt-treize : Nous laissons de côté les chiffres qui concernent la Suisse.
 D'ailleurs la hausse d'octobre à novembre est bien faible.
-     |   un.cent quatre-vingt-onze     ---         ---      ---     | +-------------------------+------------------------------------------+ | De six heures à sept h.
+     |   un.cent quatre-vingt-onze     , -         , -      , -     | +, , , , , , , , , , , , -+, , , , , , , , , , , , , , , , , , , , , + | De six heures à sept h.
 Voici, en effet, d'après Brierre de Boismont, op.
-Voici comme ils se répartissent en Italie: / +--------------------------------------+---------+---------+---------+ |                                      |  mille huit cent quatre-vingt-six.
+Voici comme ils se répartissent en Italie : / +, , , , , , , , , , , , , , , , , , , +, , , , -+, , , , -+, , , , -+ |                                      |  mille huit cent quatre-vingt-six.
  |  mille huit cent quatre-vingt-sept.
  |  mille huit cent quatre-vingt-huit.
 Ainsi nous retrouvons partout cette constance du taux des suicides dans les milieux sociaux identiques.
 Philosophie pénale, p.
 trois cent dix-neuf et suiv.
-Alcan.--Corre, Crime et suicide, p.
-soixante-dix-sept.--Tarde, Philosophie pénale, p.
-trois cent vingt et un.] [cent quatre: Tarde, ibid., p.
+Alcan., Corre, Crime et suicide, p.
+soixante-dix-sept., Tarde, Philosophie pénale, p.
+trois cent vingt et un.] [cent quatre : Tarde, ibid., p.
 Tarde, Lois de l'imitation, premier éd., p.
 Ils ne s'expliquent pas du tout de la même manière.
 Car cette imitation n'a rien d'automatique.
@@ -1590,58 +1606,58 @@ On a pour la suivre les raisons qu'on a pour la respecter.
 Toute sorte d'expériences et d'observations seraient nécessaires qui ne sont pas faites.
 Nos explications ne sont trop souvent que des métaphores.
 le détail des faits dans Legoyt, op.
-deux cent vingt-sept et suiv.] [cent treize: cinq.
+deux cent vingt-sept et suiv.] [cent treize : cinq.
 des faits semblables dans Ebrard, op.
-planche deux, ci-dessous.] [cent dix-huit: Op.
+planche deux, ci-dessous.] [cent dix-huit : Op.
 cent quatre-vingt-treize-cent quatre-vingt-quatorze.
 Et ce ne sont pas là des cas particuliers à la Seine-et-Marne.
 Mais la proposition n'est vraie qu'en gros et comporte bien des exceptions.
-cinq, tableau vingt-six.] [cent vingt-trois: Traité des maladies mentales, p.
-deux cent quarante-trois.] [cent vingt-quatre: De la contagion du suicide, p.
-quarante-deux.] [cent vingt-cinq: cinq.
+cinq, tableau vingt-six.] [cent vingt-trois : Traité des maladies mentales, p.
+deux cent quarante-trois.] [cent vingt-quatre : De la contagion du suicide, p.
+quarante-deux.] [cent vingt-cinq : cinq.
 notamment Aubry, Contagion du meurtre, premier édit., p.
-huit cent treize et suiv.] [cent vingt-huit: un D'après Legoyt, p.
-trois cent quarante-deux.] [cent vingt-neuf: D'après Oettingen, Moralstatistik, tables annexes, p.
-cent dix.] [cent trente: Op.
-deux cent trois).] [cent trente-trois: Handwoerterbuch der Staatswissenschaften, Supplément, t.
-deux cent cinq; Oettingen, Moralstatistik, p.
+huit cent treize et suiv.] [cent vingt-huit : un D'après Legoyt, p.
+trois cent quarante-deux.] [cent vingt-neuf : D'après Oettingen, Moralstatistik, tables annexes, p.
+cent dix.] [cent trente : Op.
+deux cent trois).] [cent trente-trois : Handwoerterbuch der Staatswissenschaften, Supplément, t.
+deux cent cinq ; Oettingen, Moralstatistik, p.
 À cause des pénalités attachées au suicide, beaucoup de cas sont portés comme morts accidentelles.
-six cent vingt-six.] [cent trente-neuf: Oettingen, Moralstatistik, p.
-cinq cent quatre-vingt-deux.] [cent quarante-deux: Morselli, op.
+six cent vingt-six.] [cent trente-neuf : Oettingen, Moralstatistik, p.
+cinq cent quatre-vingt-deux.] [cent quarante-deux : Morselli, op.
 Annuaire statistique de la France, mille huit cent quatre-vingt-douze-quatre-vingt-quatorze, p.
-cinquante et cinquante et un.] [cent quarante-six: Oettingen, Moralstatistik, p.
-CXV.] [cent quarante-huit: cinq.
-deux cent vingt-trois.] [cent cinquante et un: Oettingen, ibid., p.
-cinq cent soixante-dix-sept.] [cent cinquante-deux: À l'exception de l'Espagne.
+cinquante et cinquante et un.] [cent quarante-six : Oettingen, Moralstatistik, p.
+CXV.] [cent quarante-huit : cinq.
+deux cent vingt-trois.] [cent cinquante et un : Oettingen, ibid., p.
+cinq cent soixante-dix-sept.] [cent cinquante-deux : À l'exception de l'Espagne.
 Nous citons d'après Morselli, p.
-deux cent vingt-cinq.] [cent cinquante-quatre: D'après Alwin Petersilie, Zur Statistik der höheren Lehranstalten in Preussen.
+deux cent vingt-cinq.] [cent cinquante-quatre : D'après Alwin Petersilie, Zur Statistik der höheren Lehranstalten in Preussen.
 Bureau, mille huit cent soixante-dix-sept, p.
-cent neuf et suiv.] [cent cinquante-cinq: Zeitschr.
+cent neuf et suiv.] [cent cinquante-cinq : Zeitschr.
 Bureau, mille huit cent quatre-vingt-neuf, p.
-  |    cinquante-six   |  + dix virgule quatre    | +----------+--------------------------------+-----------+------------+ |quatrième   ---- |    Au-dessous.
---  --- vingt-neuf virgule deux.
+  |    cinquante-six   |  + dix virgule quatre    | +, , , , , +, , , , , , , , , , , , , , , , +, , , , , -+, , , , , , + |quatrième   , ,  |    Au-dessous.
+,   , - vingt-neuf virgule deux.
 Oettingen, Moralstatistik, p.
-On peut même se demander si c'est là une mesure pénale.] [cent cinquante-huit: cinq.
+On peut même se demander si c'est là une mesure pénale.] [cent cinquante-huit : cinq.
 Wagner, Die Gesetzmässigkeit, etc., p.
-cent soixante-dix-sept.] [cent cinquante-neuf: cinq.
+cent soixante-dix-sept.] [cent cinquante-neuf : cinq.
 article Mariage, in Dictionnaire encyclopédique des sciences médicales, deuxième série.
-cinquante et suiv.--Cf., sur cette question, J.
+cinquante et suiv., Cf., sur cette question, J.
 On verra plus tard l'importance de cette remarque (livre deux, ch.
-cinq, § trois).] [cent soixante-deux: cinq.
+cinq, § trois).] [cent soixante-deux : cinq.
 Bertillon, art., Mariage, in Dict.
 Encycl., deuxième série.
-cinquante-deux.--Morselli, p.
-trois cent quarante-huit.--Corre, Crime et suicide, p.
+cinquante-deux., Morselli, p.
+trois cent quarante-huit., Corre, Crime et suicide, p.
 cent quatre-vingt-quinze, qui donne les mêmes renseignements.
 Mais elle est inutilisable.
 Mais de plus, nous la croyons erronée.
-|          | +---------------------+-----+-----+-----+-----+-----+-----+----------+ |Mariés.
+|          | +, , , , , , , , , , -+, , -+, , -+, , -+, , -+, , -+, , -+, , , , , + |Mariés.
 Or cela est impossible.
 On pressent par là quelle erreur a probablement été commise.
 plus haut liv.
 Ce qui détermine ce fléchissement, c'est l'action du département de la Seine.
 Dans les autres départements (cinq.
-quatre cent trente-six.] [cent soixante-dix: J.
+quatre cent trente-six.] [cent soixante-dix : J.
 Mais nous venons de voir que cette aggravation n'existe pas par rapport aux célibataires.
 Les veufs se tuent plutôt moins que les individus non mariés.
 Ces chiffres donneraient une idée fausse de la situation.
@@ -1649,156 +1665,156 @@ Or, la population célibataire est presque tout entière composée de sujets au-
 cent soixante-quinze) et Corre (Crime et suicide, p.
 La même observation s'applique à l'Allemagne et même à, presque tous les pays d'Europe.
 Il semble qu'à cette époque la nuptialité ait subi comme un coup de fouet.
-Oettingen, Moralstatistik, annexes, tableaux un, deux et trois).] [cent soixante-dix-sept: D'après Levasseur, Population française, t.
-deux cent huit.] [cent soixante-dix-huit: D'après le recensement de mille huit cent quatre-vingt-six, p.
-cent vingt-trois du Dénombrement.] [cent soixante-dix-neuf: cinq.
+Oettingen, Moralstatistik, annexes, tableaux un, deux et trois).] [cent soixante-dix-sept : D'après Levasseur, Population française, t.
+deux cent huit.] [cent soixante-dix-huit : D'après le recensement de mille huit cent quatre-vingt-six, p.
+cent vingt-trois du Dénombrement.] [cent soixante-dix-neuf : cinq.
 Annuaire statistique de la France, quinzee vol., p.
-Elle est plus sensible que lui à leur heureuse influence.] [cent quatre-vingt-deux: Article Mariage, Dict.
+Elle est plus sensible que lui à leur heureuse influence.] [cent quatre-vingt-deux : Article Mariage, Dict.
 Encycl., deuxième série, t.
-trente-six.] [cent quatre-vingt-trois: Op.
-trois cent quarante-deux.] [cent quatre-vingt-quatre: cinq.
+trente-six.] [cent quatre-vingt-trois : Op.
+trois cent quarante-deux.] [cent quatre-vingt-quatre : cinq.
 Bertillon, Les célibataires, les veufs, etc., Rev.
 La diminution est de quarante-cinq pourcent pour les premiers, de quarante-quatre pourcent pour les secondes.
 Étant donné l'accroissement général des suicides, ils confirment ceux que nous avons trouvés.
 Nous nous demandons d'autre part s'ils se réfèrent au pays tout entier.
 livre deux, chap.
-cinq, § trois.] [cent quatre-vingt-onze: cinq.
+cinq, § trois.] [cent quatre-vingt-onze : cinq.
 Dénombrement de mille huit cent quatre-vingt-six, p.
 Règles de la Méth.
 sociol., p, cent trente-neuf).
 De nombreux suicides dans la capitale en sont la triste preuve».
 Nous citons d'après Legoyt, p.
-deux cent cinquante-deux.] [cent quatre-vingt-seize: D'après Masaryck, Der Selbstmord, p.
+deux cent cinquante-deux.] [cent quatre-vingt-seize : D'après Masaryck, Der Selbstmord, p.
 plus haut, liv.
-quatre-vingt-trois et suiv.--Roth, Die Selbstmorde in der K.
+quatre-vingt-trois et suiv., Roth, Die Selbstmorde in der K.
 et de phar.
-militaire, Paris, mille huit cent quatre-vingt-quinze.] [deux cent trois: Oettingen, Moralstatistik, p.
-sept cent soixante-deux.] [deux cent quatre: Cité d'après Brierre de Boismont, p.
+militaire, Paris, mille huit cent quatre-vingt-quinze.] [deux cent trois : Oettingen, Moralstatistik, p.
+sept cent soixante-deux.] [deux cent quatre : Cité d'après Brierre de Boismont, p.
 Wyatt Gill, Myths and songs of the South Pacific, p.
-cent soixante-trois.] [deux cent neuf: Frazer, Golden Bough, t.
-deux cent seize et suiv.] [deux cent dix: Strabon, § quatre cent quatre-vingt-six.--Elien, cinq.
-César, De Bello Gallico, six, dix-neuf.] [deux cent quatorze: cinq.
+cent soixante-trois.] [deux cent neuf : Frazer, Golden Bough, t.
+deux cent seize et suiv.] [deux cent dix : Strabon, § quatre cent quatre-vingt-six., Elien, cinq.
+César, De Bello Gallico, six, dix-neuf.] [deux cent quatorze : cinq.
 Spencer, Sociologie, t.
-cent quarante-six.] [deux cent quinze: cinq.
+cent quarante-six.] [deux cent quinze : cinq.
 Jarves, History of the Sandwich Islands, mille huit cent quarante-trois, p.
 Frazer, Golden Bough loc.
-et passim.] [deux cent dix-huit: cinq.
-nat., quatre, douze.] [deux cent vingt: Posidonius, vingt-trois, ap.
-cent quinze.] [deux cent vingt-trois: Ibid., t.
+et passim.] [deux cent dix-huit : cinq.
+nat., quatre, douze.] [deux cent vingt : Posidonius, vingt-trois, ap.
+cent quinze.] [deux cent vingt-trois : Ibid., t.
 trois, premier Hælfte, p.
-cent deux.] [deux cent vingt-quatre: Mary Eastman, Dacotah, p.
-quatre-vingt-neuf, cent soixante-neuf.--Lombroso, L'Uomo delinquente, mille huit cent quatre-vingt-quatre, p.
-cinquante et un.] [deux cent vingt-cinq: Lisle, op.
-trois cent trente-trois.] [deux cent vingt-six: Lois de Manou, six, trente-deux (trad.
-Loiseleur).] [deux cent vingt-sept: Barth, The religions of India, Londres, mille huit cent quatre-vingt-onze, p.
-dix, dix-neuf et trente-sept.] [deux cent vingt-neuf: Barth, op.
-trois cent vingt-quatre.] [deux cent trente-trois: Histoire du Japon, t.
-deux.] [deux cent trente-quatre: On a appelé acedia l'état moral qui déterminait ces suicides.
+cent deux.] [deux cent vingt-quatre : Mary Eastman, Dacotah, p.
+quatre-vingt-neuf, cent soixante-neuf., Lombroso, L'Uomo delinquente, mille huit cent quatre-vingt-quatre, p.
+cinquante et un.] [deux cent vingt-cinq : Lisle, op.
+trois cent trente-trois.] [deux cent vingt-six : Lois de Manou, six, trente-deux (trad.
+Loiseleur).] [deux cent vingt-sept : Barth, The religions of India, Londres, mille huit cent quatre-vingt-onze, p.
+dix, dix-neuf et trente-sept.] [deux cent vingt-neuf : Barth, op.
+trois cent vingt-quatre.] [deux cent trente-trois : Histoire du Japon, t.
+deux.] [deux cent trente-quatre : On a appelé acedia l'état moral qui déterminait ces suicides.
 Les intérêts de la patrie ou du parti primaient tout.
 La multiplicité des exécutions capitales provient, sans doute, de la même cause.
 l'article de Roth, dans la Stat.
 Monatschrift, mille huit cent quatre-vingt-douze, p.
 (cinq ans au lieu de sept).
-La vie est faite de ces contradictions.] [deux cent quarante-sept: cinq.
+La vie est faite de ces contradictions.] [deux cent quarante-sept : cinq.
 Starck, Verbrechen und Vergehen in Preussen, Berlin, mille huit cent quatre-vingt-quatre, p.
-cinquante-cinq.] [deux cent quarante-huit: Die Gesetzmüssigkeit in Gesellchaftsleben, p.
-trois cent quarante-cinq.] [deux cent quarante-neuf: cinq.
-soixante-dix-sept-quatre-vingt-trois.] [deux cent cinquante: Ibid., p.
-cent huit-cent dix-sept.] [deux cent cinquante et un: Ibid., p.
+cinquante-cinq.] [deux cent quarante-huit : Die Gesetzmüssigkeit in Gesellchaftsleben, p.
+trois cent quarante-cinq.] [deux cent quarante-neuf : cinq.
+soixante-dix-sept-quatre-vingt-trois.] [deux cent cinquante : Ibid., p.
+cent huit-cent dix-sept.] [deux cent cinquante et un : Ibid., p.
 deux cent cinquante-sept-deux cent cinquante-neuf).
-deux.] [deux cent cinquante-neuf: cinq.
+deux.] [deux cent cinquante-neuf : cinq.
 plus haut, liv.
 On trouvera dans Legoyt (p.
 Cette omission n'atteint, d'ailleurs, en rien la conclusion à laquelle nous sommes arrivés.
 Bertillon, Annales de Dem.
 Inter., mille huit cent quatre-vingts, p.
-deux cent soixante-quinze et suiv.] [deux cent soixante-sept: cinq.
-Rolla et dans Namouna le portrait de Don Juan.] [deux cent soixante-huit: cinq.
-cent soixante et onze.] [deux cent soixante-douze: cinq.
+deux cent soixante-quinze et suiv.] [deux cent soixante-sept : cinq.
+Rolla et dans Namouna le portrait de Don Juan.] [deux cent soixante-huit : cinq.
+cent soixante et onze.] [deux cent soixante-douze : cinq.
 plus haut, liv.
 Nous les reproduisons en un tableau spécial qu'on trouvera à la fin de l'ouvrage.
-Cette lacune du recensement est des plus regrettables.] [deux cent soixante-quatorze: cinq.
+Cette lacune du recensement est des plus regrettables.] [deux cent soixante-quatorze : cinq.
 plus haut liv.
 C'est le suicide des époux trop jeunes, de la femme mariée sans enfant.
 Pour être complet, nous devrions donc constituer un quatrième type de suicide.
 Cependant, il pourrait se faire qu'il eût un intérêt historique.
 Corre, Le crime en pays créoles, p.
-six.] [deux cent soixante-dix-sept: Hypochondrie et suicide, p.
-trois cent seize.] [deux cent soixante-dix-huit: Brierre de Boismont, Du suicide, p.
-cent quatre-vingt-dix-huit.] [deux cent soixante-dix-neuf: Ibid., p.
-cent quatre-vingt-quatorze.] [deux cent quatre-vingts: On trouvera des exemples dans Brierre de Boismont, p.
-quatre cent quatre-vingt-quatorze et cinq cent six.] [deux cent quatre-vingt-un: Leroy, op.
-deux cent quarante et un.] [deux cent quatre-vingt-deux: cinq.
+six.] [deux cent soixante-dix-sept : Hypochondrie et suicide, p.
+trois cent seize.] [deux cent soixante-dix-huit : Brierre de Boismont, Du suicide, p.
+cent quatre-vingt-dix-huit.] [deux cent soixante-dix-neuf : Ibid., p.
+cent quatre-vingt-quatorze.] [deux cent quatre-vingts : On trouvera des exemples dans Brierre de Boismont, p.
+quatre cent quatre-vingt-quatorze et cinq cent six.] [deux cent quatre-vingt-un : Leroy, op.
+deux cent quarante et un.] [deux cent quatre-vingt-deux : cinq.
 des cas dans Brierre de Boismont, p.
-cent quatre-vingt-sept-cent quatre-vingt-neuf.] [deux cent quatre-vingt-trois: De tranquillitate animi, deux, sub fine.
-Lettre vingt-quatre.] [deux cent quatre-vingt-quatre: René, édition Vialat, Paris, mille huit cent quarante-neuf, p.
-cent douze.] [deux cent quatre-vingt-cinq: cinq.
+cent quatre-vingt-sept-cent quatre-vingt-neuf.] [deux cent quatre-vingt-trois : De tranquillitate animi, deux, sub fine.
+Lettre vingt-quatre.] [deux cent quatre-vingt-quatre : René, édition Vialat, Paris, mille huit cent quarante-neuf, p.
+cent douze.] [deux cent quatre-vingt-cinq : cinq.
 plus haut, liv.
-De Prov., deux, neuf et Ep., soixante et onze, seize).] [deux cent quatre-vingt-sept: Morselli, p.
-quatre cent quarante-cinq-quatre cent quarante-six.] [deux cent quatre-vingt-huit: cinq.
-un-cinquante-huit); Mayr, Die Gesetzmässigheit im Gesellschaftsleben, Munich, mille huit cent soixante-dix-sept; Oettingen, Moralstatistik, p.
+De Prov., deux, neuf et Ep., soixante et onze, seize).] [deux cent quatre-vingt-sept : Morselli, p.
+quatre cent quarante-cinq-quatre cent quarante-six.] [deux cent quatre-vingt-huit : cinq.
+un-cinquante-huit); Mayr, Die Gesetzmässigheit im Gesellschaftsleben, Munich, mille huit cent soixante-dix-sept ; Oettingen, Moralstatistik, p.
 Le suicide, au contraire, est un fait exceptionnel.
 Elle s'applique identiquement au crime sous ses différentes formes.
 Et cet état d'esprit s'impose aux individus.
 Règles de la méthode sociologique, ch.
-deux.] [deux cent quatre-vingt-dix-sept: Tarde, op.
+deux.] [deux cent quatre-vingt-dix-sept : Tarde, op.
 cit., in Annales de l'Institut de sociol., p.
-deux cent vingt-deux.] [deux cent quatre-vingt-dix-huit: cinq.
+deux cent vingt-deux.] [deux cent quatre-vingt-dix-huit : cinq.
 Frazer, Golden Bough, p.
 L'assassinat n'est puni que de mort aujourd'hui comme aux siècles derniers.
-La question n'est pas de notre ressort; nous n'avons à nous prononcer pour aucune solution.
+La question n'est pas de notre ressort ; nous n'avons à nous prononcer pour aucune solution.
 plus haut, liv.
-trois.] [trois cent quatre: cinq.
-deux cent douze.] [trois cent cinq: cinq.
+trois.] [trois cent quatre : cinq.
+deux cent douze.] [trois cent cinq : cinq.
 plus haut, liv.
 Peut-être n'est-elle pas vraie de ce dernier.
 Car celle-ci ne détermine pas tels sujets plutôt que tels autres.
 On peut admettre que certains lui résistent et qu'elle se satisfasse sur d'autres.
 La question se pose dans les mêmes termes pour les unes et pour les autres.
-Division du travail social, Introduction.] [trois cent dix: Bibliographie de la question.
+Division du travail social, Introduction.] [trois cent dix : Bibliographie de la question.
 Appiano Buonafede, Histoire critique et philosophique du suicide, mille sept cent soixante-deux, trad.
-soixante-dix-sept.] [trois cent douze: Omicidio-suicidio, p.
-soixante et un-soixante-deux.] [trois cent treize: Origines du droit français, p.
-trois cent soixante et onze.] [trois cent quatorze: Ferri, op.
-soixante-deux.] [trois cent quinze: Garrison, op.
-cent quarante-quatre, cent quarante-cinq.] [trois cent seize: Ferri, op.
-soixante-trois, soixante-quatre.] [trois cent dix-sept: Coran, trois, v.
-cent trente-neuf.] [trois cent dix-huit: Ibid., seize, v.
-soixante-trois.] [trois cent dix-neuf: Ibid., LVI, v.
-soixante.] [trois cent vingt: Ibid., trente-trois, v.
-trente-trois.] [trois cent vingt et un: Aristote, Eth.
-Nic., cinq, onze, trois.] [trois cent vingt-deux: Eschine, C.
-deux cent quarante-quatre--Platon, Lois, neuf, douze, p.
-huit cent soixante-treize.] [trois cent vingt-trois: Dion Chrysostome, Or., quatre, quatorze (éd.
+soixante-dix-sept.] [trois cent douze : Omicidio-suicidio, p.
+soixante et un-soixante-deux.] [trois cent treize : Origines du droit français, p.
+trois cent soixante et onze.] [trois cent quatorze : Ferri, op.
+soixante-deux.] [trois cent quinze : Garrison, op.
+cent quarante-quatre, cent quarante-cinq.] [trois cent seize : Ferri, op.
+soixante-trois, soixante-quatre.] [trois cent dix-sept : Coran, trois, v.
+cent trente-neuf.] [trois cent dix-huit : Ibid., seize, v.
+soixante-trois.] [trois cent dix-neuf : Ibid., LVI, v.
+soixante.] [trois cent vingt : Ibid., trente-trois, v.
+trente-trois.] [trois cent vingt et un : Aristote, Eth.
+Nic., cinq, onze, trois.] [trois cent vingt-deux : Eschine, C.
+deux cent quarante-quatre, Platon, Lois, neuf, douze, p.
+huit cent soixante-treize.] [trois cent vingt-trois : Dion Chrysostome, Or., quatre, quatorze (éd.
 Teubner, cinq, deux, p.
-deux cent sept).] [trois cent vingt-quatre: Melet.
+deux cent sept).] [trois cent vingt-quatre : Melet.
 Edition Reiske, Altenburg, mille sept cent quatre-vingt-dix-sept, p.
 Lasaulx, Ueber die Bücher des Koenigs Numa, dans ses Etudes d'antiquité classique.
 Nous citons d'après Geiger, p.
-soixante-trois.] [trois cent vingt-neuf: Servius, loc.
-cit.--Pline, Hist.
-trente-six, vingt-quatre.] [trois cent trente: trois, tit.
-deux, § trois.] [trois cent trente et un: Inst.
-orat., sept, quatre, trente-neuf.--Declam.
-trois cent trente-sept.] [trois cent trente-deux: Digeste, liv.
-seize, loi six, § sept.] [trois cent trente-trois: Ibid., liv.
-trois, loi six, § sept.] [trois cent trente-quatre: Digeste, liv.
-cinquante-huit-cinquante-neuf.] [trois cent trente-huit: cinq.
+soixante-trois.] [trois cent vingt-neuf : Servius, loc.
+cit., Pline, Hist.
+trente-six, vingt-quatre.] [trois cent trente : trois, tit.
+deux, § trois.] [trois cent trente et un : Inst.
+orat., sept, quatre, trente-neuf., Declam.
+trois cent trente-sept.] [trois cent trente-deux : Digeste, liv.
+seize, loi six, § sept.] [trois cent trente-trois : Ibid., liv.
+trois, loi six, § sept.] [trois cent trente-quatre : Digeste, liv.
+cinquante-huit-cinquante-neuf.] [trois cent trente-huit : cinq.
 notre Division du travail social, liv.
-deux.] [trois cent trente-neuf: Lyon, mille huit cent quatre-vingt-un.
+deux.] [trois cent trente-neuf : Lyon, mille huit cent quatre-vingt-un.
 Au Congrès de criminologie tenu à Rome en mille huit cent quatre-vingt-sept, M.
-mille huit cent quarante.--Despine, Psychologie natur., p.
-deux cent deux et suiv.--Tarde, Criminalité comparée, p.
-cent cinquante-deux et suiv.--Ferri, Omicidio-suicidio, quatrième édit., Turin, mille huit cent quatre-vingt-quinze, p.
-deux cent cinquante-trois et suiv.] [trois cent quarante et un: Moralstatistik, p.
-cinq cent vingt-six.] [trois cent quarante-deux: Op.
-trois cent trente-trois.--Dans les Actes du congrès de Rome, p.
+mille huit cent quarante., Despine, Psychologie natur., p.
+deux cent deux et suiv., Tarde, Criminalité comparée, p.
+cent cinquante-deux et suiv., Ferri, Omicidio-suicidio, quatrième édit., Turin, mille huit cent quatre-vingt-quinze, p.
+deux cent cinquante-trois et suiv.] [trois cent quarante et un : Moralstatistik, p.
+cinq cent vingt-six.] [trois cent quarante-deux : Op.
+trois cent trente-trois., Dans les Actes du congrès de Rome, p.
 Mais cette légère inexactitude n'altère en rien les résultats généraux qui se dégagent du tableau.
-On comprend aisément pourquoi.] [trois cent quarante-quatre: D'après Chaussinand.] [trois cent quarante-cinq: Op.
-trois cent dix et suiv.] [trois cent quarante-six: Op.
-cent trente-trois.] [trois cent quarante-huit: Op.
-quatre-vingt-quinze.] [trois cent quarante-neuf: Le suicide dans le département de Seine-et-Marne.] [trois cent cinquante: Op.
-trois cent soixante-dix-sept.] [trois cent cinquante et un: L'homme criminel, trad.
+On comprend aisément pourquoi.] [trois cent quarante-quatre : D'après Chaussinand.] [trois cent quarante-cinq : Op.
+trois cent dix et suiv.] [trois cent quarante-six : Op.
+cent trente-trois.] [trois cent quarante-huit : Op.
+quatre-vingt-quinze.] [trois cent quarante-neuf : Le suicide dans le département de Seine-et-Marne.] [trois cent cinquante : Op.
+trois cent soixante-dix-sept.] [trois cent cinquante et un : L'homme criminel, trad.
 trois cent soixante-treize) n'est pas plus probante.
 Mais, au bagne, les premiers sont beaucoup plus nombreux que les seconds.
 Ces chiffres n'ont donc rien de concluant.
@@ -1807,14 +1823,14 @@ La malveillance criminelle n'y est pourtant pour rien.
 Règles de la Méthode sociologique, chap.
 Ce qui est normal aujourd'hui ne le sera plus demain, et inversement.
 Ce qui est morbide pour les individus peut être normal pour la société.
-deux cent soixante-six.] [trois cent soixante-quinze: Oettingen, Ueber acuten und chronischen Selbstmord, p.
+deux cent soixante-six.] [trois cent soixante-quinze : Oettingen, Ueber acuten und chronischen Selbstmord, p.
 vingt-huit-trente-deux et Moralstatistik, p.
 Mais c'est se payer de mots.
 Dans ces limites, nous le croyons difficilement discutable.
-quatre cent quatre-vingt-dix-neuf.] [trois cent quatre-vingt-deux: Art.
+quatre cent quatre-vingt-dix-neuf.] [trois cent quatre-vingt-deux : Art.
 Suicide, in Diction.
-Philos.] [trois cent quatre-vingt-trois: Qu'on ne se méprenne pas sur notre pensée.
+Philos.] [trois cent quatre-vingt-trois : Qu'on ne se méprenne pas sur notre pensée.
 Marquardt, Privat Leben der Roemer, deux, p.
-quatre.] [trois cent quatre-vingt-cinq: Voir les raisons dans notre Division du travail social, L.
+quatre.] [trois cent quatre-vingt-cinq : Voir les raisons dans notre Division du travail social, L.
 trois, notamment, p.
 La femme ne serait pas, d'office, exclue de certaines fonctions et reléguée dans d'autres

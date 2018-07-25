@@ -9,11 +9,11 @@ Concepts de base / deux.trois.
 Internet francophone, anglophone et multilingue] deux.un.
 Dix ans après, le nombre de cybernautes français est estimé à trois millions.
 On nous promet bientôt Internet dans tous les foyers.
-Internet deviendra sans doute un nom commun, au même titre que: téléphone, ordinateur ou télécopieur.
+Internet deviendra sans doute un nom commun, au même titre que : téléphone, ordinateur ou télécopieur.
 En français, on écrit aussi bien Internet, sans article, que l'Internet, avec article.
 On a également tenté d'éviter le ridicule.
 De même, on parle par exemple de courrier électronique et non de Mél.
-(abrégé de: messagerie électronique), un terme à l'orthographe résolument francophone, mais beaucoup moins utilisé.
+(abrégé de : messagerie électronique), un terme à l'orthographe résolument francophone, mais beaucoup moins utilisé.
 Les paragraphes qui suivent ne se veulent en aucune manière une présentation complète d'Internet.
 Les ouvrages abondent dans ce domaine, et on en trouvera une sélection dans la bibliographie.
 Le but est seulement de "situer" Internet pour une meilleure compréhension du sujet.
@@ -112,14 +112,14 @@ L'avenir des cyberlibrairies est très prometteur.
 En revanche, les libraires sont optimistes sur les perspectives d'un marché francophone.
 Un nombre significatif de commandes provient de l'étranger.
 Il représente par exemple un pourcentage de dixpourcent des ventes pour la FNAC.
-[Dans ce chapitre:] [quatre.un.
+[Dans ce chapitre :] [quatre.un.
 Quelques exemples d'éditeurs / quatre.deux.
 Répertoires d'éditeurs / quatre.trois.
 Edition traditionnelle et édition électronique / quatre.quatre.
 L'édition électronique offre de nouvelles perspectives.
 Elle permettrait entre autres de résoudre la crise affectant les éditions universitaires et de recherche.
 Les échanges ont été effectués par courrier électronique.
-Un petit problème: nous n'avions pas de budget pour le faire réaliser.
+Un petit problème : nous n'avions pas de budget pour le faire réaliser.
 Le changement qu'Internet a apporté dans notre vie professionnelle est considérable.
 Nous sommes une petite maison d'édition installée en province.
 Internet nous a fait connaître rapidement sur une échelle que je ne soupçonnais pas.
@@ -127,7 +127,7 @@ Même les médias 'classiques' nous ont ouvert un peu leur portes grâce à notr
 Les manuscrits affluent par le courrier électronique.
 Ainsi nous avons édité deux auteurs québécois.
 Beaucoup de livres se réalisent (corrections, illustrations, envoi des documents à l'imprimeur) par ce moyen.
-Y réussirons-nous? Nous avons déjà reçu des propositions qui vont dans un sens opposé.
+Y réussirons-nous ? Nous avons déjà reçu des propositions qui vont dans un sens opposé.
 Nous les avons mis 'en veille'.
 Les éditions du Cerf se présentent comme la bibliothèque francophone de sciences humaines et religieuses.
 Trois mois après, l'éditeur avait signé des contrats avec treize auteurs et vendu cent livres.
@@ -140,16 +140,11 @@ Ils peuvent encore s'abonner à la lettre d'information pour être tenu au coura
 Par ailleurs, une réduction de vingtpourcent est accordée pour toute commande effectuée en ligne.
 Répertoires d'éditeurs Les répertoires d'éditeurs ne manquent pas.
 Biblio On Line, diffuseur français de l'information culturelle sur Internet, gère un répertoire Editeurs.
-de multiples opportunités pour susciter l'intérêt et la curiosité.
 La recherche est possible par ordre alphabétique ou bien par sujets.
 Plusieurs sites proposent des répertoires d'éditeurs internationaux.
 En voici trois.
 Mais je fais en sorte que ma création personnelle n'en souffre pas.
-Par ailleurs, Internet m'a mise en contact avec d'autres poètes, dont certains fort intéressants...
-Cela rompt le cercle de la solitude et permet d'échanger des idées.
-On se lance des défis aussi...
 Elle compte tirer à profit tous ces échanges dans une nouvelle édition de son livre.
-L'Internet va me permettre de me passer des intermédiaires: compagnies de disques, éditeurs, distributeurs...
 Puis les intermédiaires prendront tout le pouvoir.
 La presse en ligne francophone / cinq.deux.
 La presse étrangère / cinq.trois.
@@ -170,10 +165,8 @@ Il s'effectuera directement en ligne par carte bancaire ou par abonnement.
 France-Ouest, site du quotidien Ouest-France, a été créé en juillet mille neuf cent quatre-vingt-seize.
 Très vite, nous nous sommes aperçus que cela ne suffisait pas.
 Et nous offrons des services (PA [petites annonces], guide des spectacles, presse-école, boutique, etc.).
-Les retombées sur le travail quotidien des journalistes d'OF [Ouest-France] sont encore minces.
-pas simple).
 Mais cette pratique demande encore à s'étendre et à se généraliser.
-[...] [Internet est] à la fois une menace et une chance.
+[ …] [Internet est] à la fois une menace et une chance.
 Le Journal officiel est en ligne depuis début mille neuf cent quatre-vingt-dix-huit.
 Plusieurs répertoires permettent de "naviguer" sur la presse francophone.
 La recherche est possible par titre d'article, thème, revue et année.
@@ -246,7 +239,7 @@ On ne fait qu'amorcer un virage, et l'avenir est encore flou.
 Définition de la cyberbibliothèque / sept.deux.
 Cyberbibliothèques francophones / sept.trois.
 Cyberbibliothèques non francophones / sept.quatre.
-Un exemple: la toile littéraire francophone / sept.cinq.
+Un exemple : la toile littéraire francophone / sept.cinq.
 Après avoir tenté de définir la cyberbibliothèque, on décrira quelques cyberbibliothèques francophones et non francophones.
 Cyberbibliothèques francophones Hébergée par l'Université de Genève (Suisse), Athena est l'oeuvre de Pierre Perroud.
 La section Helvetia concerne les livres sur la Suisse.
@@ -285,13 +278,12 @@ Le site a été créé en mai mille neuf cent quatre-vingt-quinze par André G.
 Une Autre Terre est un site consacré à la science-fiction.
 J'ai commencé en présentant quelques bibliographies très incomplètes à l'époque et quelques critiques.
 Le forum des visiteurs est très actif, ce qui me ravit.
-et grand public de culture 'livre'.
 Les cybernautes disposaient de deux semaines pour proposer un deuxième chapitre.
 France Loisirs devait publier le roman en septembre mille neuf cent quatre-vingt-dix-huit.
 "On ne peut pas, on ne pourra pas tout numériser.
 La consultation sur écran de livres anciens offre également d'immenses perspectives.
 - est fébrilement étudié par les auteurs, éditeurs, journalistes, etc.
-[Dans ce chapitre:] [huit.un.
+[Dans ce chapitre :] [huit.un.
 Catalogues de bibliothèques francophones / huit.deux.
 Catalogues de bibliothèques non francophones / huit.trois.
 Catalogues collectifs mondiaux / huit.quatre.
@@ -308,7 +300,7 @@ On peut également intégrer au catalogue des images, extraits sonores ou bandes
 L'Union européenne a entrepris des recherches pour favoriser l'utilisation de cette norme en Europe.
 Plusieurs réseaux régionaux ont également vu le jour.
 Voici trois exemples.
-La recherche par mots peut s'effectuer à deux niveaux: recherche simple et recherche avancée.
+La recherche par mots peut s'effectuer à deux niveaux : recherche simple et recherche avancée.
 Un mot est défini comme un groupe de caractères sans espace.
 Les renvois utilisés dans la recherche par sujet sont également indiqués dans l'index alphabétique.
 Cette nouvelle infrastructure préfigure une bibliothèque électronique nationale.
@@ -329,17 +321,16 @@ Elle permet aussi de faciliter la production du CD-ROM annuel.
 Le travail est titanesque.
 Le projet était également basé sur l'utilisation de protocoles internationaux comme la norme Ztrente-neuf.cinquante.
 On peut même rêver à des catalogues communs aux bibliothèques, aux librairies et aux éditeurs.
-[Dans ce chapitre:] [neuf.un.
+[Dans ce chapitre :] [neuf.un.
 Propriété intellectuelle / neuf.deux.
 Droit du cyberespace / neuf.trois.
 Document imprimé et/ou électronique / neuf.quatre.
 Numérisation et convergence multimédia / neuf.cinq.
 Plusieurs cyberlibrairies offrent aussi un véritable magazine littéraire avec un contenu éditorial chaque jour différent.
-Tous les domaines sont couverts.
 J'ai surtout apprécié les logiciels de courrier, de transfert de fichiers, de connexion à distance.
 J'ai tenté ma chance et posé la question dans un groupe de News approprié.
 La convergence multimédia entraîne elle aussi des changements majeurs dans les métiers du livre.
-Que nous réserve la société de l'information dont nous vivons les premières années? neuf.un.
+Que nous réserve la société de l'information dont nous vivons les premières années ? neuf.un.
 Les sites web sont également soumis au droit d'auteur.
 Par contre, les journalistes voient souvent leurs articles réutilisés sans en en avoir donné l'autorisation.
 Par ailleurs, la preuve tangible de la propriété intellectuelle n'est plus du tout aussi évidente.
@@ -358,14 +349,11 @@ Son développement doit s'opérer dans le cadre de la coopération international
 S'inscrit sur la liste rouge toute personne ne souhaitant pas figurer sur l'annuaire.
 Contrairement à la liste rouge, l'inscription à la liste orange est gratuite.
 On tente de redéfinir des domaines traditionnels tels que la propriété intellectuelle ou la censure.
-Document électronique? Document numérique? Livre numérique? Livre électronique? Un vocabulaire adapté reste à définir.
+Document électronique ? Document numérique ? Livre numérique ? Livre électronique ? Un vocabulaire adapté reste à définir.
 Voici son argumentation résumée en quelques lignes.
 Or les habitudes liées à l'imprimé ne peuvent être transférées au monde numérique.
 La nature même de l'imprimé est liée à la notion de vérité, stable elle aussi.
 Mais la révolution numérique change tout ceci.
-Ceux qui...
-et ceux qui...
-le réseau devient progressivement une projection du monde lui-même, plus précise et exacte chaque jour.
 Les URNs sont, de manière universelle, uniques, persistantes et accessibles sur le réseau.
 Si une URL change, les usagers autorisés peuvent la modifier à l'intérieur du service URC.
 C'est ce qu'on appelle la numérisation.
@@ -398,182 +386,182 @@ Internet "relance" aussi les bibliothèques.
 Et grâce au cyberespace, tout le monde peut y avoir accès.
 Tous les signaux humains contenus jusque-là dans les livres ont été numérisés.
 Utilisé pour définir l'environnement virtuel.
-AACRdeux: Anglo-American cataloguing rules deux.
+AACRdeux : Anglo-American cataloguing rules deux.
 Règles de catalogage anglo-américaines, version deux.
-Adresse électronique: adresse utilisée sur le réseau Internet pour envoyer et recevoir du courrier électronique.
-Adresse Internet: adresse identifiant une machine sur le réseau Internet.
+Adresse électronique : adresse utilisée sur le réseau Internet pour envoyer et recevoir du courrier électronique.
+Adresse Internet : adresse identifiant une machine sur le réseau Internet.
 Elle est composée de quatre octets (soit trente-deux bits) généralement écrits sous forme décimale.
 Ex.: cent vingt-trois.quatre cent cinquante-six.soixante-dix-huit.quatre-vingt-dix.
-ADSL: asymmetric digital subscriber line.
+ADSL : asymmetric digital subscriber line.
 0 ou un en langage binaire).
-Annuaire: également appelé répertoire.
+Annuaire : également appelé répertoire.
 Utilisé pour cerner les centres d'intérêt des cybernautes.
-Archie: service de recherche de fichiers dans les archives d'Internet.
-ASCII: American standard code for information interchange.
+Archie : service de recherche de fichiers dans les archives d'Internet.
+ASCII : American standard code for information interchange.
 : A=un million un, B=un million dix, etc.).
 L'extension pour le français est la norme ISO-Latin-un.
-ATM: asynchronous transfer mode.
+ATM : asynchronous transfer mode.
 Protocole pouvant transmettre tout type d'information, y compris la voix et la vidéo.
 Inclut la télématique, la télévision numérique et les câblages informatiques.
-Bande passante: désigne le débit supporté par une ligne de communication.
-BBS: bulletin board services.
+Bande passante : désigne le débit supporté par une ligne de communication.
+BBS : bulletin board services.
 Appelé aussi babillard, selon le terme québécois maintenant utilisé par toute la communauté francophone.
-Bit: binary digit.
+Bit : binary digit.
 Chiffre binaire (0 ou un) qui est à la base du système numérique.
-CD: compact disc.
+CD : compact disc.
 Disque optique permettant l'enregistrement des sons (CD-audio), des données (CD-Rom) ou des vidéos (CD-vidéo).
-CD-un: compact disc interactive.
+CD-un : compact disc interactive.
 Disque permettant de stocker un ensemble de textes, images, documents sonores et vidéos.
 Consultable sur un téléviseur au moyen d'un lecteur connecté au poste.
-CD-Rom: compact disc-read only memory.
+CD-Rom : compact disc-read only memory.
 Son successeur est le DVD (digital video disc).
-CD-Rom est souvent orthographié: cédérom par les francophones.
-Commerce électronique: ensemble des transactions à distance faites sur le réseau, avec paiement électronique sécurisé.
-Cookie: chaîne de caractères formée d'un numéro d'identification attribué par le site à un cybernaute.
+CD-Rom est souvent orthographié : cédérom par les francophones.
+Commerce électronique : ensemble des transactions à distance faites sur le réseau, avec paiement électronique sécurisé.
+Cookie : chaîne de caractères formée d'un numéro d'identification attribué par le site à un cybernaute.
 Correspond au terme anglais de e-mail ou electronic mail.
 Appelé aussi courriel par les Québécois.
-Cybernaute: utilisateur d'Internet.
+Cybernaute : utilisateur d'Internet.
 Appelé également internaute.
-Disque dur: support de stockage des données dans un ordinateur.
+Disque dur : support de stockage des données dans un ordinateur.
 La capacité de stockage se mesure en giga-octets (Go).
 Le minimum recommandé est un virgule six Go, et quatre Go est la spécification idéale.
-Disquette: support magnétique permettant de transférer ou de conserver des données informatiques.
-DOS: disk operating system.
-DTD: definition of type of document - définition du type de document.
-DVD: digital video disc.
+Disquette : support magnétique permettant de transférer ou de conserver des données informatiques.
+DOS : disk operating system.
+DTD : definition of type of document - définition du type de document.
+DVD : digital video disc.
 Cette capacité devrait être multipliée par quatre dans un proche avenir.
 Un film de deux heures peut être stocké sur une face de DVD.
-E-zine: magazine électronique.
-EDI: échange de données informatisées.
+E-zine : magazine électronique.
+EDI : échange de données informatisées.
 Utilisé dans le commerce électronique inter-entreprises.
-On utilise souvent aussi le terme anglais: on line.
-Extranet: réseau propre à une communauté fonctionnant selon le même principe qu'Internet.
+On utilise souvent aussi le terme anglais : on line.
+Extranet : réseau propre à une communauté fonctionnant selon le même principe qu'Internet.
 Permet par exemple de relier tous les clients d'une entreprise.
-FAQ: frequently asked questions.
-Traduit en français par: foire aux questions.
-Favori: appelé également signet.
+FAQ : frequently asked questions.
+Traduit en français par : foire aux questions.
+Favori : appelé également signet.
 En général thématique, un forum est lisible par tous et chacun peut y participer.
-Fournisseur d'accès à Internet: entreprise louant des connexions Internet.
-Appelé aussi fournisseur de services Internet, qui correspond au terme anglais: Internet service provider.
-Freeware: logiciel gratuit.
+Fournisseur d'accès à Internet : entreprise louant des connexions Internet.
+Appelé aussi fournisseur de services Internet, qui correspond au terme anglais : Internet service provider.
+Freeware : logiciel gratuit.
 Ne pas confondre avec shareware.
-FTP: file transfer protocol.
+FTP : file transfer protocol.
 Protocole définissant les règles de transfert de fichiers entre deux ordinateurs.
-Gopher: système d'information à base de menus textuels à plusieurs niveaux.
-Hors ligne: définit les applications disponibles en utilisation locale, comme les CD-Rom.
-On utilise souvent aussi le terme anglais: off line.
-HTML: hypertext markup language.
+Gopher : système d'information à base de menus textuels à plusieurs niveaux.
+Hors ligne : définit les applications disponibles en utilisation locale, comme les CD-Rom.
+On utilise souvent aussi le terme anglais : off line.
+HTML : hypertext markup language.
 Langage de marquage utilisé pour créer ou mettre en forme des documents destinés au Web.
 Permet l'inclusion d'images, de sons et de liens hypertextes ou hypermédias vers d'autres documents.
-HTTP: hypertext transfer protocol.
+HTTP : hypertext transfer protocol.
 Protocole de transfert des pages hypertextes sur le Web.
-Hyperlien: un hyperlien peut être un lien hypertexte ou un lien hypermédia.
-Hypertexte: principe de base du Web.
+Hyperlien : un hyperlien peut être un lien hypertexte ou un lien hypermédia.
+Hypertexte : principe de base du Web.
 Les liens hypertextes sont en général soulignés et d'une couleur différente de celle du texte.
-Infographie: procédé de création d'images assistée par ordinateur.
-Inforoute: synonyme d'autoroute de l'information.
-IP: Internet protocol.
+Infographie : procédé de création d'images assistée par ordinateur.
+Inforoute : synonyme d'autoroute de l'information.
+IP : Internet protocol.
 Protocole de communication permettant d'acheminer les données en mode paquet non connecté.
-IRC: Internet relay chat.
-ISBD: international standard bibliographical description.
-ISBN: international standard book number.
-Paris: PUF, mille neuf cent quatre-vingt-dix-sept.
-Que sais-je? trois mille cent quatre-vingt-six).
+IRC : Internet relay chat.
+ISBD : international standard bibliographical description.
+ISBN : international standard book number.
+Paris : PUF, mille neuf cent quatre-vingt-dix-sept.
+Que sais-je ? trois mille cent quatre-vingt-six).
 Par exemple, la norme ISO-Latin-un définit l'extension des caractères ASCII pour le français.
-ISSN: international standard serial number.
+ISSN : international standard serial number.
 Il se présente sous forme de deux groupes de quatre chiffres séparés par un tiret.
 Le huitième caractère est un caractère de contrôle.
-LAN: local area network.
+LAN : local area network.
 Réseau local permettant l'interconnexion d'équipements informatiques dans un rayon inférieur au kilomètre.
-Laser: acronyme de: light amplification by stimulated emission of radiations.
-On utilise aussi le terme anglais: mailing list.
-MARC: machine-readable cataloguing.
+Laser : acronyme de : light amplification by stimulated emission of radiations.
+On utilise aussi le terme anglais : mailing list.
+MARC : machine-readable cataloguing.
 Format international permettant le stockage et l'échange informatique de notices bibliographiques.
-Mémoire: Voir RAM (random-access memory) et ROM (read-only memory).
+Mémoire : Voir RAM (random-access memory) et ROM (read-only memory).
 De nombreuses messageries sont gratuites, par exemple E-Mail Planet ou Hotmail.
-Microprocesseur: puce électronique contenant un circuit électronique miniature.
-Minitel: développé par France Télécom, terminal d'accès au réseau vidéotex français (Télétel).
+Microprocesseur : puce électronique contenant un circuit électronique miniature.
+Minitel : développé par France Télécom, terminal d'accès au réseau vidéotex français (Télétel).
 Très largement utilisé, il préfigure les avantages d'Internet.
-Modem: acronyme de: modulateur-démodulateur.
+Modem : acronyme de : modulateur-démodulateur.
 Appareil permettant de relier l'ordinateur au réseau Internet par le biais de la ligne téléphonique.
 La vitesse d'un modem s'exprime en kilobits par seconde (K).
 Le minimum recommandé est vingt-huit virgule huitK, et cinquante-sixK est la spécification idéale.
-Moniteur: synonyme d'écran.
+Moniteur : synonyme d'écran.
 Le plus utilisé est AltaVista.
-MS-DOS: Microsoft disc operating system.
+MS-DOS : Microsoft disc operating system.
 De plus en plus nombreuses, les applications multimédias accroissent l'interactivité entre l'ordinateur et l'utilisateur.
 Les deux principaux navigateurs sont Netscape Navigator et Microsoft Explorer.
 Appelé aussi logiciel de navigation ou browser, ou encore butineur ou fureteur par les Québécois.
-Net: abréviation de: Internet.
-Newsletter: terme souvent utilisé pour lettre d'information.
-Nom de domaine: partie centrale d'une URL, qui permet d'identifier et de situer le serveur.
+Net : abréviation de : Internet.
+Newsletter : terme souvent utilisé pour lettre d'information.
+Nom de domaine : partie centrale d'une URL, qui permet d'identifier et de situer le serveur.
 Par exemple, le nom de domaine du quotidien Libération est www.liberation.fr.
-OCR: optical character recognition: reconnaissance optique de caractères.
+OCR : optical character recognition : reconnaissance optique de caractères.
 Technologie permettant de reconstituer un texte d'après son image numérisée.
-OPAC: online public access catalogue: catalogue en ligne d'accès public.
-PAO: publication assistée par ordinateur.
-Paquet: ensemble de données.
-PC: personal computer: ordinateur personnel.
-PDF: portable document format.
-PGP: pretty good privacy.
+OPAC : online public access catalogue : catalogue en ligne d'accès public.
+PAO : publication assistée par ordinateur.
+Paquet : ensemble de données.
+PC : personal computer : ordinateur personnel.
+PDF : portable document format.
+PGP : pretty good privacy.
 Cryptage avec une clé de cent vingt-huit bits offrant un niveau maximal de sécurité.
-Pixel: picture element.
+Pixel : picture element.
 Le nombre de pixels définit la qualité de résolution de l'écran.
-Processeur: cerveau interne de l'ordinateur.
+Processeur : cerveau interne de l'ordinateur.
 La vitesse du processeur est mesurée en mégahertz (MHz).
-RAM: random-access memory.
+RAM : random-access memory.
 La RAM se mesure en méga-octets (Mo).
 Le minimum recommandé est seize Mo.
 L'utilisation de logiciels complexes exige l'utilisation d'une mémoire RAM de trente-deux ou soixante-quatre Mo.
-RAMEAU: acronyme de: répertoire d'autorités matières encyclopédique et alphabétique unifié.
-RNIS: réseau numérique à intégration de services.
+RAMEAU : acronyme de : répertoire d'autorités matières encyclopédique et alphabétique unifié.
+RNIS : réseau numérique à intégration de services.
 Le réseau RNIS français est Numéris.
-ROM: read-only memory.
-RTF: rich text format.
-Script CGI: CGI: common gateway interface.
+ROM : read-only memory.
+RTF : rich text format.
+Script CGI : CGI : common gateway interface.
 Série d'instructions permettant d'identifier la visite d'un site par un cybernaute.
-Serveur web: serveur stockant les informations affichées par le site web.
-SGML: standard generalized markup language.
+Serveur web : serveur stockant les informations affichées par le site web.
+SGML : standard generalized markup language.
 Ce logiciel est soumis au copyright.
 Ne pas confondre avec freeware.
-Smiley: marque typographique permettant au cybernaute d'exprimer son humeur.
-Spam: message électronique non sollicité.
-Spamming: envoi de spams.
+Smiley : marque typographique permettant au cybernaute d'exprimer son humeur.
+Spam : message électronique non sollicité.
+Spamming : envoi de spams.
 Le spamming est interdit par la nétiquette.
-SSII: société de service en ingénierie informatique.
+SSII : société de service en ingénierie informatique.
 Linux ou Windows quatre-vingt-dix-huit par exemple sont les systèmes d'exploitation des ordinateurs personnels (PC).
-TCP: transmission control protocol.
+TCP : transmission control protocol.
 Protocole de transport utilisé dans la plupart des applications Internet.
-TCP/IP: transmission control protocol / Internet protocol.
+TCP/IP : transmission control protocol / Internet protocol.
 Ensemble de protocoles permettant le transport de données sur Internet.
-Telnet: terminal network protocol.
-Toile: terme souvent utilisé par les francophones pour désigner le Web.
-Transpac: réseau de France Télécom pour la transmission numérique de données.
-TTA: technique de transfert asynchrone.
-Voir: ATM (asynchronous tranfer mode).
+Telnet : terminal network protocol.
+Toile : terme souvent utilisé par les francophones pour désigner le Web.
+Transpac : réseau de France Télécom pour la transmission numérique de données.
+TTA : technique de transfert asynchrone.
+Voir : ATM (asynchronous tranfer mode).
 Le terme français est peu utilisé.
-TVA: taxe à la valeur ajoutée.
+TVA : taxe à la valeur ajoutée.
 Taxe payée par les entreprises à chaque stade du circuit économique.
-Unix: système d'exploitation multi-tâche et multi-utilisateur très répandu dans le domaine scientifique.
-URL: uniform resource locator.
+Unix : système d'exploitation multi-tâche et multi-utilisateur très répandu dans le domaine scientifique.
+URL : uniform resource locator.
 Adresse d'un site web ou d'une page web.
-Le début de l'adresse: http:// est maintenant ajouté automatiquement par les navigateurs.
-URN: uniform resource name.
-Usenet: acronyme de: users' network.
+Le début de l'adresse : http :// est maintenant ajouté automatiquement par les navigateurs.
+URN : uniform resource name.
+Usenet : acronyme de : users' network.
 Son but est de constituer une plate-forme pour l'échange d'informations et d'idées entre cybernautes.
 Non censuré, Usenet est gouverné par les règles de la nétiquette.
-Visioconférence: conférence à distance au moyen d'un réseau d'ordinateurs équipés de caméras.
-VRML: virtual reality modeling language.
-Wtrois: abréviation de World Wide Web.
-WAIS: wide area information service.
+Visioconférence : conférence à distance au moyen d'un réseau d'ordinateurs équipés de caméras.
+VRML : virtual reality modeling language.
+Wtrois : abréviation de World Wide Web.
+WAIS : wide area information service.
 Appartient maintenant à America Online.
-Web: abréviation courante de World Wide Web.
-Webmestre: responsable du site et administrateur de système d'un serveur web.
+Web : abréviation courante de World Wide Web.
+Webmestre : responsable du site et administrateur de système d'un serveur web.
 Correspond au webmaster anglais.
-Windows quatre-vingt-dix-huit: créé par Microsoft, système d'exploitation pour les PC qui a remplacé Windows quatre-vingt-quinze.
+Windows quatre-vingt-dix-huit : créé par Microsoft, système d'exploitation pour les PC qui a remplacé Windows quatre-vingt-quinze.
 Son correspondant professionnel pour serveurs et stations de travail est Windows NT.
-WWW: abréviation de World Wide Web.
-Ztrente-neuf.cinquante: norme définissant un protocole pour la recherche documentaire d'un ordinateur à un autre.
+WWW : abréviation de World Wide Web.
+Ztrente-neuf.cinquante : norme définissant un protocole pour la recherche documentaire d'un ordinateur à un autre.
 "Un cyberespace à la Bibliothèque de l'ONUG." Nouvelles de la bibliothèque, vol.
 sept, nos un-deux, mille neuf cent quatre-vingt-dix-sept, p.
 L'article est bilingue français-anglais.
@@ -591,7 +579,7 @@ Cyberbibliothèques = Kahn, Annie.
 = Lambert, Bertrand.
 "Sciences-Po en ligne." Le Monde, Supplément Télévision-Radio-Multimédia, onze janvier mille neuf cent quatre-vingt-dix-huit.
 Cyberlibrairies = Alley, Brian.
-"Update: a Blackwell Milestone." Technicalities (USA), vol.
+"Update : a Blackwell Milestone." Technicalities (USA), vol.
 deux, February mille neuf cent quatre-vingt-quinze.
 = Berselli, Beth.
 quarante et un.
@@ -611,34 +599,34 @@ Dillons & Hammicks sont prêts à lancer une librairie Internet commune.
 Par Alice Rawsthorn.
 = The Financial Times.
 Droit du cyberespace = Association française de la télématique multimédia (AFTEL).
-Le droit du multimédia: de la télématique à Internet.
-Paris: Editions du Téléphone, mille neuf cent quatre-vingt-seize.
+Le droit du multimédia : de la télématique à Internet.
+Paris : Editions du Téléphone, mille neuf cent quatre-vingt-seize.
 deux cent quatre-vingt-dix p.
 ISBN deux-neuf cent neuf mille huit cent soixante-dix-neuf-dix-huit-six.
 = Commission nationale de l'informatique et des libertés (CNIL).
-Les libertés et l'informatique: vingt délibérations commentées.
-Paris: La Documentation française, mille neuf cent quatre-vingt-dix-huit.
+Les libertés et l'informatique : vingt délibérations commentées.
+Paris : La Documentation française, mille neuf cent quatre-vingt-dix-huit.
 deux cent six p.
 ISBN deux-onze-trois mille neuf cent trente et un-0.
 = Dyson, Esther.
 "Sans Etat ni Loi." Libération, Cahier Multimédia, neuf janvier mille neuf cent quatre-vingt-dix-huit.
-Par l'auteur de Release deux.0: A Design for Living in the Digital Age.
+Par l'auteur de Release deux.0 : A Design for Living in the Digital Age.
 = Kahn, Annie.
 = Kurz, Raymond A.
-Internet and the Law: Legal Fundamentals for the Internet User.
-Rockville, Maryland: Government Institutes, mille neuf cent quatre-vingt-seize.
+Internet and the Law : Legal Fundamentals for the Internet User.
+Rockville, Maryland : Government Institutes, mille neuf cent quatre-vingt-seize.
 quinze, deux cent quarante-huit p.
 ISBN 0-quatre-vingt-six mille cinq cent quatre-vingt-sept-cinq cent six-cinq.
 = Piette-Coudol, Thierry et Bertrand, André.
 Internet et la loi.
-Paris: Dalloz, mille neuf cent quatre-vingt-dix-sept.
+Paris : Dalloz, mille neuf cent quatre-vingt-dix-sept.
 huit, deux cent six p.
 ISBN deux-deux cent quarante-sept-deux mille cinq cent quatre-vingt-neuf-sept.
 = Reporters sans frontières.
 = Stern, Jacques.
 "L'urgence de la sécurité sur Internet." Le Figaro, neuf janvier mille neuf cent quatre-vingt-dix-huit.
 Internet pour les juristes.
-Paris: Dalloz, mille neuf cent quatre-vingt-seize.
+Paris : Dalloz, mille neuf cent quatre-vingt-seize.
 trois cent trente et un p.
 ISBN deux-deux cent quarante-sept-deux mille cinq cent quarante-sept-un.
 Edition électronique = Teasdale, Guy.
@@ -646,131 +634,130 @@ Novembre mille neuf cent quatre-vingt-seize.
 Mémoire de maîtrise en bibliothéconomie et sciences de l'information (MBSI) à l'Université de Montréal.
 = Vollnhals, Otto.
 Multilingual Dictionary of Electronic Publishing.
-München: K.G.&Saur, mille neuf cent quatre-vingt-seize.
+München : K.G.&Saur, mille neuf cent quatre-vingt-seize.
 trois cent quatre-vingt-quatre p.
 ISBN trois-cinq cent quatre-vingt-dix-huit-onze mille deux cent quatre-vingt-quinze-cinq.
 Internet = Barbier, Frédéric et Bertho Lavenir, Catherine.
-Histoire des médias: de Diderot à Internet.
-Paris: Armand Colin, mille neuf cent quatre-vingt-seize.
+Histoire des médias : de Diderot à Internet.
+Paris : Armand Colin, mille neuf cent quatre-vingt-seize.
 trois cent cinquante et un p.
 ISBN deux-deux cents-mille trois cent quatre-vingt-deux-cinq.
 = Berners-Lee, Tim et Ruetschi, Pierre.
 Entretien du journaliste Pierre Ruetschi avec Tim Berners-Lee.
 = Buchanan, William.
 Mastering Global Information Systems.
-London: Macmillan, mille neuf cent quatre-vingt-dix-sept.
+London : Macmillan, mille neuf cent quatre-vingt-dix-sept.
 xii, deux cent soixante-quatre p.
 ISBN 0-trois cent trente-trois-soixante-huit mille neuf cent cinquante et un-huit.
 = Cotton, Bob and Oliver, Richard.
-The Cyberspace Lexicon: An Illustrated Dictionary of Terms From Multimedia to Virtual Reality.
-London: Phaidon Press, mille neuf cent quatre-vingt-quatorze.
+The Cyberspace Lexicon : An Illustrated Dictionary of Terms From Multimedia to Virtual Reality.
+London : Phaidon Press, mille neuf cent quatre-vingt-quatorze.
 deux cent vingt-quatre p.
 ISBN 0-soixante et onze-quarante-huit-trois mille deux cent soixante-sept-sept.
 Un guide à travers le dédale des technologies existantes ou émergentes.
 = Dahl, Andrew and Lesnick, Leslie.
-Indianapolis, Indiana: New Riders Publishing, mille neuf cent quatre-vingt-seize.
+Indianapolis, Indiana : New Riders Publishing, mille neuf cent quatre-vingt-seize.
 xii, trois cent quatre-vingt-deux p.
 ISBN un-cinquante-six mille deux cent cinq-quatre cent quatre-vingt-seize-un.
 = Dufour, Arnaud.
-Le cybermarketing: intégrer Internet dans la stratégie d'entreprise.
+Le cybermarketing : intégrer Internet dans la stratégie d'entreprise.
 Paris : PUF, mille neuf cent quatre-vingt-dix-sept.
 Que sais-je ?, n° trois mille cent quatre-vingt-six.
 cent vingt-sept p.
 ISBN deux-treize-quarante-huit mille trois cent cinquante-deux-six.
 = Dufour, Arnaud.
 Paris : PUF, mille neuf cent quatre-vingt-dix-sept.
-Que sais-je?, n° trois mille soixante-treize.
+Que sais-je ?, n° trois mille soixante-treize.
 cent vingt-sept p.
 ISBN deux-treize-quarante-sept mille quatre cent soixante-neuf-un.
 = Dyson, Esther.
-Release deux.0: A Design for Living in the Digital Age.
-London: Viking, mille neuf cent quatre-vingt-dix-sept.
+Release deux.0 : A Design for Living in the Digital Age.
+London : Viking, mille neuf cent quatre-vingt-dix-sept.
 Viii, trois cent sept p.
 ISBN 0-six cent soixante-dix-quatre-vingt-sept mille six cents-trois.
 = Filloux, Frédéric.
 "Le Net dans les étoiles." Libération, Supplément Multimédia, vingt-sept février mille neuf cent quatre-vingt-dix-huit.
 = Gates, Bill.
 La route du futur.
-Paris: Presses Pocket, cop.
+Paris : Presses Pocket, cop.
 mille neuf cent quatre-vingt-quinze.
 trois cent trente-deux p.
 ISBN deux-deux cent soixante-six-sept mille cinq cent quinze-deux.
 Une description des autoroutes de l'information du point de vue d'un des géants de l'informatique.
-Avec la collaboration de Nathan Myhrvold et Peter Rinearson.
-Titre original: The Road Ahead.
+Titre original : The Road Ahead.
 Traduction française parue à l'origine chez Laffont.
 = Gilster, Paul.
-New York: Wiley, mille neuf cent quatre-vingt-dix-sept.
+New York : Wiley, mille neuf cent quatre-vingt-dix-sept.
 xii, deux cent soixante-seize p.
 ISBN 0-quatre cent soixante et onze-seize mille cinq cent vingt-quatre.
 Voir particulièrement le chapitre six consacré aux bibliothèques numériques (Searching the Virtual Library, p.
 cent cinquante-cinq-cent quatre-vingt-treize).
 = Gilster, Paul.
 The New Internet Navigator.
-New York: John Wiley & Sons, Inc., mille neuf cent quatre-vingt-quinze.
+New York : John Wiley & Sons, Inc., mille neuf cent quatre-vingt-quinze.
 xxvii, sept cent trente-cinq p.
 ISBN quatre cent soixante et onze million cent vingt-six mille neuf cent quarante-deux.
 Voir en particulier le chapitre dix (p.
 trois cent treize-trois cent quarante-quatre) consacré aux magazines électroniques, aux journaux et au Project Gutenberg.
 = Guide du routard.
 Le guide du routard Internet.
-Paris: Hachette, mille neuf cent quatre-vingt-dix-huit.
+Paris : Hachette, mille neuf cent quatre-vingt-dix-huit.
 Guide du routard.
 deux cent treize p.
 ISBN deux-un-deux cent quarante-deux mille six cent soixante-neuf-sept.
 = Huitema, Christian.
 Et Dieu créa l'Internet.
-Paris: Eyrolles, mille neuf cent quatre-vingt-seize.
+Paris : Eyrolles, mille neuf cent quatre-vingt-seize.
 quatre, deux cent un p.
 = Isaacson, Walter and Cooper Ramo, Joshua.
-"Man of the Year: Andrew Grove." Time Magazine, vingt-neuf Dec.
+"Man of the Year : Andrew Grove." Time Magazine, vingt-neuf Dec.
 mille neuf cent quatre-vingt-dix-sept - cinq Janv.
 mille neuf cent quatre-vingt-dix-huit, p.
 = Kahn, Annie.
 = Leary, Timothy.
 Chaos et cyberculture.
-Paris: Editions du Lézard, mille neuf cent quatre-vingt-seize.
+Paris : Editions du Lézard, mille neuf cent quatre-vingt-seize.
 deux cent soixante-quatorze p.
-Titre original: Chaos & Cyber Culture (Berkeley: Ronin Publishing Inc., mille neuf cent quatre-vingt-quatorze).
+Titre original : Chaos & Cyber Culture (Berkeley : Ronin Publishing Inc., mille neuf cent quatre-vingt-quatorze).
 = Lévy, Pierre.
 "XXIe, siècle des Lumières." Libération, Supplément Multimédia, seize janvier mille neuf cent quatre-vingt-dix-huit.
 = Lévy, Pierre.
-Cyberculture: rapport au Conseil de l'Europe.
-Paris: Editions Odile Jacob, mille neuf cent quatre-vingt-dix-huit.
+Cyberculture : rapport au Conseil de l'Europe.
+Paris : Editions Odile Jacob, mille neuf cent quatre-vingt-dix-huit.
 trois cent treize p.
 ISBN deux-sept mille trois cent quatre-vingt-un-cinq cent douze-deux.
 Une présentation des nouvelles technologies, de leur usage et de leurs enjeux.
 = Lévy, Pierre.
-L'intelligence collective: pour une anthropologie du cyberspace.
-Paris: La Découverte, mille neuf cent quatre-vingt-dix-sept.
+L'intelligence collective : pour une anthropologie du cyberspace.
+Paris : La Découverte, mille neuf cent quatre-vingt-dix-sept.
 deux cent quarante-cinq p.
 La Découverte/Poche, Essais, n° vingt-six.
 Le projet de l'intelligence collective dans une perspective anthropologique de longue durée.
 = Mauriac, Laurent.
 "Et Vinton Cerf créa l'Internet." Libération, Cahier Multimédia, seize janvier mille neuf cent quatre-vingt-dix-huit.
 = Negroponte, Nicolas.
-Paris: Presses Pocket, cop.
+Paris : Presses Pocket, cop.
 mille neuf cent quatre-vingt-quinze.
 deux cent quatre-vingt-dix p.
 ISBN deux-sept-trente-deux mille neuf cent quarante-six-un.
-Titre original: Being Digital.
+Titre original : Being Digital.
 Traduction française parue à l'origine chez Laffont.
 = Nora, Dominique.
 Les conquérants du cybermonde.
-Paris: Gallimard, mille neuf cent quatre-vingt-dix-sept.
+Paris : Gallimard, mille neuf cent quatre-vingt-dix-sept.
 Folio Actuel, n° cinquante-deux.
 cinq cent trente p.
 ISBN deux-sept-trente-deux mille neuf cent quarante-six-un.
 Paru à l'origine chez Calmann-Lévy.
 = Organisation internationale du Travail (OIT).
-Colloque sur la convergence multimédia, Genève, vingt-sept-vingt-neuf janvier mille neuf cent quatre-vingt-dix-sept: rapport final.
-Genève: Bureau international du Travail (BIT), mille neuf cent quatre-vingt-dix-sept.
+Colloque sur la convergence multimédia, Genève, vingt-sept-vingt-neuf janvier mille neuf cent quatre-vingt-dix-sept : rapport final.
+Genève : Bureau international du Travail (BIT), mille neuf cent quatre-vingt-dix-sept.
 cinq, cent soixante-trois p.
 (SMC/mille neuf cent quatre-vingt-dix-sept/six).
 = Perroud, Pierre.
 = Wade, Philip et Falkand, Didier.
-Cyberplanète: notre vie en temps virtuel.
-Paris: Editions Autrement, mille neuf cent quatre-vingt-dix-huit.
+Cyberplanète : notre vie en temps virtuel.
+Paris : Editions Autrement, mille neuf cent quatre-vingt-dix-huit.
 trois cent quarante-neuf p.
 Mutations, n° cent soixante-seize.
 ISBN deux-quatre-vingt-six mille deux cent soixante-sept cent quatre-vingts-0.
@@ -810,11 +797,11 @@ Avec l'informatisation et Internet, la presse doit repenser sérieusement son r�
 = Montelh, Bernard.
 (N.B.
 = Pelletier, Mario.
-"L'inforoute abolira-t-elle le journaliste?" Forces (Canada), n° cent quinze, mille neuf cent quatre-vingt-dix-sept.
+"L'inforoute abolira-t-elle le journaliste ?" Forces (Canada), n° cent quinze, mille neuf cent quatre-vingt-dix-sept.
 "Code de la propriété intellectuelle (partie législative).
 huit mille huit cent deux-huit mille huit cent treize.
 Terminologie = The Hutchinson Dictionary of Computing, Multimedia, and the Internet.
-Oxford: Helicon, mille neuf cent quatre-vingt-dix-sept.
+Oxford : Helicon, mille neuf cent quatre-vingt-dix-sept.
 xv, deux cent soixante-douze p.
 ISBN un-quatre-vingt-cinq mille neuf cent quatre-vingt-six-cent cinquante-neuf-huit.
 = Leterre, Thierry.
@@ -831,7 +818,6 @@ Permet aussi l'accès à Gallica, la bibliothèque électronique de la BnF.
 [français] = British Library (The) Le serveur de la bibliothèque nationale du Royaume-Uni.
 Au menu, infos en ligne, collections, expositions, bibliothèque numérique, services et renseignements.
 Les bookmarks de Patrick Rebollar proposent aussi de nombreux liens vers des sites littéraires francophones.
-de multiples opportunités pour susciter l'intérêt et la curiosité".
 Douze langues sont représentées, dont le français avec French Texts and Language Resources.
 Inclut une librairie en ligne et une rubrique présentant l'actualité culturelle.
 [français] = France Antiques Spécialiste français d'antiquités et de livres anciens.

@@ -1,5 +1,5 @@
 Ce dossier est disponible aussi en anglais, avec un texte différent.
-Les deux versions sont disponibles sur le NEF http://www.etudes-francaises.net/dossiers/technologies.htm.
+Les deux versions sont disponibles sur le NEF http ://www.etudes-francaises.net/dossiers/technologies.htm.
 La plupart des entretiens sont disponibles sur le NEF .
 Introduction Michael Hart fonde le Projet Gutenberg en mille neuf cent soixante et onze.
 L'ASCII permet donc uniquement la lecture de l’anglais et du latin.
@@ -22,7 +22,6 @@ L’internet est un exemple d’"anarchie réelle, moderne et fonctionnelle".
 Il n’y a pas de société régissant l’internet.
 C’est ce qui fait sa force.
 On y voit aussi une réelle solidarité.
-Tous les domaines sont couverts.
 J’ai tenté ma chance et posé la question dans un groupe de News approprié.
 Mais, à l’âge de l’information, il faut saisir les signaux.
 Populariser signifie 'rendre accessible au peuple'.
@@ -142,9 +141,9 @@ Pour le moment, je participe au développement de matériel pédagogique multim�
 D’entreprise multimédia, la société de logiciels éducatifs qui l’emploie devient une entreprise internet.
 Puis les intermédiaires prendront tout le pouvoir.
 Bien sûr, les deux sont possibles avec l’imprimé.
-Mais la différence saute aux yeux: feuilleter n’est pas cliquer.
+Mais la différence saute aux yeux : feuilleter n’est pas cliquer.
 L’internet n’a donc pas changé ma vie, mais mon rapport à l’écriture.
-(...) Depuis, j’écris (compose, mets en page, en scène) directement à l’écran.
+( …) Depuis, j’écris (compose, mets en page, en scène) directement à l’écran.
 Le maître mot y est "chantier en cours", sans palissades.
 Accouchement permanent, à vue, comme le monde sous nos yeux.
 Provisoire, comme la vie qui tâtonne, se cherche, se déprend, se reprend.
@@ -179,7 +178,7 @@ Wikipedia est immédiatement très populaire.
 WebEncyclo, publié par les éditions Atlas, est la première grande encyclopédie francophone en accès libre.
 La recherche est possible par mots-clés, thèmes, médias (cartes, liens internet, photos, illustrations) et idées.
 Après avoir été libre, l’accès est ensuite soumis à une inscription préalable gratuite.
-Qui utilise la licence Creative Commons? O’Reilly Media par exemple.
+Qui utilise la licence Creative Commons ? O’Reilly Media par exemple.
 La Public Library of Science (PLoS) utilise elle aussi la licence Creative Commons.
 L'initiative est menée avec le soutien de la Hewlett Foundation et de la Mellon Foundation.
 En mars deux mille quatre, les cinq cents cours disponibles couvrent trente-trois disciplines.

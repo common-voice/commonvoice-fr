@@ -1,15 +1,15 @@
 La Maison où est né O'Connell.
-Gravure,--Le Maréchal Bugeaud.
-Cortot.--Courrier de Paris.
-Évasion des détenus de la Force.--Théâtres.
-Une Scène de la Folle de la Cité.--Le Lizard coulé par le Véloce.
-Gravures.--Distribution des Prix du Concours général.
-La Porte de la Sorbonne.--Martin Zurbano.
+Gravure,, Le Maréchal Bugeaud.
+Cortot., Courrier de Paris.
+Évasion des détenus de la Force., Théâtres.
+Une Scène de la Folle de la Cité., Le Lizard coulé par le Véloce.
+Gravures., Distribution des Prix du Concours général.
+La Porte de la Sorbonne., Martin Zurbano.
 Résumé des derniers Événements politiques et militaires, en Espagne.
 Roman de H.
 Chapitre III, la Conversion.
-Quatorze Gravures.--Bulletin bibliographique--Annonces.--Orfévrerie.
-Deux Gravures.--Amusements des Sciences.--Problème de Dessin.
+Quatorze Gravures., Bulletin bibliographique, Annonces., Orfévrerie.
+Deux Gravures., Amusements des Sciences., Problème de Dessin.
 Maison où est né O'Connell.
 Le mardi huit août dernier, O'Connell a achevé sa soixante-huitième année.
 Monsieur le maréchal Bugeaud.
@@ -17,8 +17,9 @@ le maréchal Bugeaud a été nommé grand-croix le neuf avril mille huit cent qu
 La perte des Autrichiens fut de deux morts et quatre cents prisonniers.
 La révolution de Juillet le détourna de ses travaux agricoles et littéraires.
 L'ennemi, complètement mis en déroute, laissa quatre cents hommes sur le terrain.
-mille huit cent trente-neuf.--L'Algérie; des moyens de conserver et d'utiliser cette conquête.
+mille huit cent trente-neuf., L'Algérie ; des moyens de conserver et d'utiliser cette conquête.
 mille huit cent quarante-deux.
+Nécrologie, J.-P.
 Samedi dernier, quinze août, est mort Jean-Pierre Cortot, l'un de nos plus habiles statuaires.
 On l'avait décoré de la Légion-d'Honneur en mille huit cent vingt-quatre.
 Cortot a fourni le modèle du beau groupe qui surmonte le maître-autel de Notre-Dame-de-Lorette.
@@ -29,19 +30,19 @@ Dumont, qu'une grave indisposition empêchait de suivre le cortège funèbre de 
 Courrier de Paris.
 Il fallait ressembler plus qu'à un honnête homme pour n'être pas suspect.
 Cette surveillance et cette inquiétude ont produit quelques épisodes qui ne manquent pas d'originalité.
-Une maison s'est formée dans Regent-Street, sous le titre de: la Société des voyages.
+Une maison s'est formée dans Regent-Street, sous le titre de : la Société des voyages.
 On n'est pas plus accommodant que cela.
 La substitution du suisse au grec n'est pas encore admise par l'Académie.
 Ce livre curieux lui rappelait un monde où il avait vécu dans sa jeunesse.
 Chaque page ranimait pour lui les traits anéantis de ce passé hasardeux qu'il regrettait.
---La querelle de MMonsieur Alexandre Dum...
+La querelle de MMonsieur Alexandre Dum … et J.
 a encore quelque peu occupé les oisifs.
 Suivant les uns, Monsieur J.
 Malheureusement Edgar va chez la voisine en dire il en chanter autant.
 Aussitôt de raconter l'aventure, et, du coup, madame de Nervins est compromise.
 Monsieur Bénard a pris ce vieux vaudeville à son compte, comme s'il était nouveau.
 Le Lizard coulé par le Véloce.
-[Illustration.] [Illustration: Droit la barre          Tribord à la barre.
+[Illustration.] [Illustration : Droit la barre          Tribord à la barre.
     Tribord à la barre.
 premier position du Véloce,    deuxième position.
           troisième position.
@@ -77,11 +78,11 @@ Le vingt-sept, Grenade imita Malaga.
 Le colonel Prim rassembla trois hommes et forma le noyau de l'armée insurrectionnelle.
 Barcelone, bien qu'agitée au fond du coeur, était encore calme à la surface.
 Il est entouré, poursuivi et forcé de se réfugier dans un hôtel.
-Des cris: Meure Zurbano! meure Espartero! sortent de la foule qui s'accroît sans cesse.
+Des cris : Meure Zurbano ! meure Espartero ! sortent de la foule qui s'accroît sans cesse.
 Le onze, il était devant la ville avec huit hommes.
 C'est de là que sont datés ses premiers actes.
 Elle somma aussi le capitaine-général de se prononcer enfin.
-Il n'était pas question du régent; il semblait déjà hors de cause.
+Il n'était pas question du régent ; il semblait déjà hors de cause.
 Cet acte du capitaine-général causa une vive joie dans la ville.
 Je ne les livrerai ni à l'anarchie ni au débordement des passions.
 «Le duc de la Victoire.» Cet acte ne fit aucun effet.
@@ -97,7 +98,7 @@ La junte de Barcelone ne répondit que par quelques paroles de mépris à cette 
 L'approche de Zurbano et son ordre au gouverneur de Montjouich furent bientôt connus de Barcelone.
 Des sommations de capituler lui furent faites le vingt et un.
 Il refusa de se rendre, mais il consentit à se retirer sur Lerida.
-Castro manquait d'artillerie et de cavalerie; Zurbano en était bien pourvu.
+Castro manquait d'artillerie et de cavalerie ; Zurbano en était bien pourvu.
 Ces troupes furent cantonnées entre cette ville et Chinchilla, qu'elles occupèrent également.
 Ils offrirent leurs services à la junte.
 Leur offre fut accueillie avec enthousiasme, surtout par les troupes.
@@ -125,14 +126,14 @@ Ainsi abandonné, Mendizabal dut songer à son salut.
 Il s'y présenta dans la nuit, et fut en effet accueilli en ami malheureux.
 Cette modération fait le plus grand honneur au général Narvaez.
 On ne comprend vraiment pas les motifs de cette rage de destruction.
-Le dix-neuf, il établit ses batteries, et somma la ville de se rendre; elle refusa.
-Le feu des assiégeants commença le vingt; la place y répondit vigoureusement.
+Le dix-neuf, il établit ses batteries, et somma la ville de se rendre ; elle refusa.
+Le feu des assiégeants commença le vingt ; la place y répondit vigoureusement.
 Le vingt-trois, à midi, Espartero arriva avec sa division.
 Il se dirigea rapidement sur Cadix.
 Van Halen continua donc, son oeuvre de destruction.
 Concha n'hésita pas un instant à le charger, malgré son infériorité numérique.
 Ce fut un coup de foudre pour Espartero.
-Lecteur, as-tu souffert?--Non.--Ce livre n'est pas pour loi.
+Lecteur, as-tu souffert ?, Non., Ce livre n'est pas pour loi.
 CE fut sous le coup de l'inquiétude que Buonvicino passa la journée.
 En vain il essaya de faire diversion par d'autres soins, par des pensées différentes.
 Il attendait une réponse, et la réponse ne pouvait venir.
@@ -141,16 +142,14 @@ C'était une vaste salle dont les lambris étaient faits de poutres curieusement
 Vous pensez si ce livre est précieux pour moi.
 Approchant donc un escabeau, il s'assit près de sa maîtresse.
 Peut-être, dans ton sommeil, tes lèvres ont donné, passage à quelque mot révélateur.
-Les hommes ne savent rien, rien n'est su de ton mari.....
-En vain tu veux t'arrêter...
 Enfin il se dégagea de la multitude, et sortit de la foule.
 Il s'asseyait, marchait, méditait.
-Hélas! tout s'était évanoui; évanouie l'espérance de l'honneur, évanoui le bonheur domestique.
+Hélas ! tout s'était évanoui ; évanouie l'espérance de l'honneur, évanoui le bonheur domestique.
 Aussi cet ordre jouissait d'un grand crédit.
 Un frère le voyant immobile, absorbé dans une longue méditation, s'approcha et lui dit.
 Sur les murailles latérales, on voyait l'histoire vraie on fabuleuse de l'institution des Umiliati.
 Du reste, tout était paisible.
-Lorsqu'ils passaient à côté de Buonvicino, ils disaient: Pax vobis, et poursuivaient leur chemin.
+Lorsqu'ils passaient à côté de Buonvicino, ils disaient : Pax vobis, et poursuivaient leur chemin.
 Guidé par le son, Buonvicino arriva à l'église.
 On y avait répandu l'obscurité afin que le recueillement fût plus profond.
 Une tendre piété le saisit tout entier.
@@ -160,7 +159,7 @@ Il se répandait dans le peuple, surtout dans les campagnes.
 La renommée de Buonvicino fut aussi rapide à Milan.
 Pendant longtemps il n'osa se risquer à la revoir.
 Lorsqu'il se sentit sûr de lui-même, il alla un jour au palais de Marguerite.
---Paris, mille huit cent quarante-trois.
+, Paris, mille huit cent quarante-trois.
 Au bureau de la Revue scientifique.
 A défaut d'autres mérites, l'ouvrage que vient de publier M.
 Hoefer aurait donc celui de la nouveauté.
@@ -178,23 +177,23 @@ Raymond Lulle, Ortholain, Flamel, Basile Valentin, etc.
 C'est une époque incomparable, unique dans les annales de l'humanité.
 Enfin l'alchimie, qui va toujours en déclinant, subit elle-même l'influence de cette révolution générale.
 Le dix-septième siècle continue dignement l'oeuvre de reforme commencée dans les sciences au siècle précédent.
-Le dogmatisme absolu est détrôné: les péripatéticiens ont du céder la place aux philosophes expérimentateurs.
+Le dogmatisme absolu est détrôné : les péripatéticiens ont du céder la place aux philosophes expérimentateurs.
 Parvenu à Lavoisier, il s'arrête et termine son second volume.
 C'est là une tâche difficile, délicate même, qui exige beaucoup de temps et beaucoup d'expérience.
 Dans le livre de Monsieur Hoefer, l'ensemble est trop souvent sacrifié aux détails.
 Poésies, par madame BAYLE-MOUILLARD un vol.
-in-huit.--Paris, mille huit cent quarante-trois.
-Mais aussi n'aurait-elle pas raison de désobéir? Orfèvrerie.
+in-huit., Paris, mille huit cent quarante-trois.
+Mais aussi n'aurait-elle pas raison de désobéir ? Orfèvrerie.
 A la vue de ce beau travail, on croirait presque Benvenuto revenu parmi nous.
 C'est trop personnel.
 Amusements des Sciences.
 Ce problème est fort ancien.
-Cette carte occupera le quatrième rang: il vous sera donc facile de la trouver.
+Cette carte occupera le quatrième rang : il vous sera donc facile de la trouver.
 Il est facile de se rendre compte de ce procédé.
 Nous marquons par des astérisques ces diverses positions.
 Enfin elle arrive au marché avec trois douzaines d'oeufs.
-Comment cela peut-il se faire sans rompre aucun oeuf? II.
+Comment cela peut-il se faire sans rompre aucun oeuf ? II.
 Problème de Dessin.
 (La solution au prochain numéro.) Rébus.
 Un sceptique occasionna souvent, dans des États, l'agitation la plus dangereuse.
-[Illustration: nouveau rébus.]
+[Illustration : nouveau rébus.]

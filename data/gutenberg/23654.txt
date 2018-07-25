@@ -1,70 +1,70 @@
--- À Saint-Malo.
--- Progrès de la Révolution.
--- Mon mariage.
--- Anciennes et nouvelles connaissances.
--- L'abbé Barthélemy.
--- Changement et physionomie de Paris.
--- Club des Cordeliers.
--- Camille Desmoulins.
--- Fabre d'Églantine.
--- Opinion de Monsieur de Malesherbes sur l'Émigration.
--- Je joue et je perds.
--- Aventure du fiacre.
--- Madame Roland.
--- Barère à l'Ermitage.
--- Seconde fédération du quatorze juillet.
--- Préparatifs d'émigration.
--- J'émigre avec mon frère.
--- Aventure de Saint-Louis.
--- Nous passons la frontière.
--- Dîner chez le baron de Breteuil.
--- Départ pour l'armée des princes.
--- Rencontre de l'armée prussienne.
--- J'arrive à Trèves.
--- Armée des princes.
--- Amphithéâtre romain.
--- _Atala._ -- Les chemises de Henri quatre.
--- Vie de soldat.
--- Dernière représentation de l'ancienne France militaire.
--- Commencement du siège de Thionville.
--- Le chevalier de la Baronnais.
--- Continuation du siège.
--- Saints dans les bois.
--- Bataille de Bouvines.
--- Rencontre imprévue.
--- Effets d'un boulet et d'une bombe.
--- Marché du camp.
--- Nuit aux faisceaux d'armes.
--- Chiens hollandais.
--- Souvenir des _Martyrs_.
--- Quelle était ma compagnie.
--- Aux avant-postes.
--- Passage de la Moselle.
--- Libba sourde et muette.
--- Attaque sous Thionville.
--- Levée du siège.
--- Entrée à Verdun.
--- Maladie prussienne.
--- Petite vérole.
--- Les Ardennes.
--- Fourgons du prince de Ligne.
--- Femmes de Namur.
--- Je retrouve {p.deux} mon frère à Bruxelles.
--- Nos derniers adieux.
--- Passage à Jersey.
--- On me met à terre à Guernesey.
--- La femme du pilote.
--- Mon oncle de Bedée et sa famille.
--- Description de l'île.
--- Le duc de Berry.
--- Parents et amis disparus.
--- Malheur de vieillir.
--- Je passe en Angleterre.
--- Dernière rencontre avec Gesril.
+,  À Saint-Malo.
+,  Progrès de la Révolution.
+,  Mon mariage.
+,  Anciennes et nouvelles connaissances.
+,  L'abbé Barthélemy.
+,  Changement et physionomie de Paris.
+,  Club des Cordeliers.
+,  Camille Desmoulins.
+,  Fabre d'Églantine.
+,  Opinion de Monsieur de Malesherbes sur l'Émigration.
+,  Je joue et je perds.
+,  Aventure du fiacre.
+,  Madame Roland.
+,  Barère à l'Ermitage.
+,  Seconde fédération du quatorze juillet.
+,  Préparatifs d'émigration.
+,  J'émigre avec mon frère.
+,  Aventure de Saint-Louis.
+,  Nous passons la frontière.
+,  Dîner chez le baron de Breteuil.
+,  Départ pour l'armée des princes.
+,  Rencontre de l'armée prussienne.
+,  J'arrive à Trèves.
+,  Armée des princes.
+,  Amphithéâtre romain.
+,  _Atala._ ,  Les chemises de Henri quatre.
+,  Vie de soldat.
+,  Dernière représentation de l'ancienne France militaire.
+,  Commencement du siège de Thionville.
+,  Le chevalier de la Baronnais.
+,  Continuation du siège.
+,  Saints dans les bois.
+,  Bataille de Bouvines.
+,  Rencontre imprévue.
+,  Effets d'un boulet et d'une bombe.
+,  Marché du camp.
+Nuit aux faisceaux d'armes.
+,  Chiens hollandais.
+,  Souvenir des _Martyrs_.
+,  Quelle était ma compagnie.
+,  Aux avant-postes.
+,  Passage de la Moselle.
+,  Libba sourde et muette.
+,  Attaque sous Thionville.
+,  Levée du siège.
+,  Entrée à Verdun.
+,  Maladie prussienne.
+,  Petite vérole.
+,  Les Ardennes.
+,  Fourgons du prince de Ligne.
+,  Femmes de Namur.
+,  Je retrouve {p.deux} mon frère à Bruxelles.
+,  Nos derniers adieux.
+,  Passage à Jersey.
+,  On me met à terre à Guernesey.
+,  La femme du pilote.
+,  Mon oncle de Bedée et sa famille.
+,  Description de l'île.
+,  Le duc de Berry.
+,  Parents et amis disparus.
+,  Malheur de vieillir.
+,  Je passe en Angleterre.
+,  Dernière rencontre avec Gesril.
 Mon frère me répondit qu'il venait d'envoyer ma lettre à ma mère.
 Il s'agissait de me trouver de l'argent pour rejoindre les princes.
 Vivait retiré à Saint-Malo Monsieur de Lavigne, chevalier de Saint-Louis, ancien commandant de Lorient.
-Monsieur de Lavigne eut deux fils: l'un d'eux épousa {p.cinq} Mademoiselle de la Placelière.
+Monsieur de Lavigne eut deux fils : l'un d'eux épousa {p.cinq} Mademoiselle de la Placelière.
 On estimait sa fortune de cinq à six cent mille francs.
 L'affaire fut conduite à mon insu.
 Je ne me sentais aucune qualité du mari.
@@ -81,7 +81,7 @@ Dans les nouveaux visages, j'aperçus ceux du savant abbé Barthélemy et du po�
 {p.onze} L'abbé a trop dessiné les gynécées d'Athènes d'après les salons de Chanteloup.
 Rulhière était mort subitement, en mille sept cent quatre-vingt-onze, avant mon départ pour l'Amérique.
 Charles neuf avait prévalu.
-L'apparence du peuple n'était plus tumultueuse, curieuse, empressée; elle était menaçante.
+L'apparence du peuple n'était plus tumultueuse, curieuse, empressée ; elle était menaçante.
 Une haute cour de justice, devançant le tribunal révolutionnaire, était établie à Orléans.
 L'acceptation de la Constitution, le quatorze septembre, ne calma rien.
 Presque toujours, en politique, le résultat est contraire à la prévision.
@@ -101,18 +101,16 @@ On brûlait en effigie Monsieur de La Fayette.
 Le Club des Jacobins épurés emprunta quelques-unes de ces dispositions des Cordeliers.
 Les plus difformes de la bande obtenaient de préférence la parole.
 {p.vingt-trois} MARAT ET SES AMIS.
-On implorait Danton pour les victimes: «Je me f...
-des prisonniers,» répondit-il.
+On implorait Danton pour les victimes : «Je me f … des prisonniers,» répondit-il.
 Danton fut attrapé au traquenard qu'il avait tendu.
 C'était avant d'être traduit au tribunal qu'il fallait en déclarer l'infamie.
 Une obsession vengeresse forçait ces égorgeurs de chrétiens à confesser incessamment le nom du Christ.
 Il donna le signal de la réaction contre la Terreur.
 Il paraît qu'on n'apprend pas à mourir en tuant les autres.
 Il approuvait mon retour d'Amérique et pressait mon frère de partir avec moi.
-Il y répondit; des raisonnements généraux passant aux détails, il me cita des exemples embarrassants.
+Il y répondit ; des raisonnements généraux passant aux détails, il me cita des exemples embarrassants.
 Les préparatifs de mon départ traînèrent.
-L'argent manquait donc toujours; il en fallut emprunter.
-Il était grand joueur; il me proposa d'aller aux salons de M...
+L'argent manquait donc toujours ; il en fallut emprunter.
 Le cocher se souvint de m'avoir mené.
 La demoiselle de la rue de Cléry affirma n'avoir rien vu dans le fiacre.
 Si je faisais aujourd'hui un pas pour retrouver un million, je veux être pendu.
@@ -123,67 +121,66 @@ Il était plus que temps de prendre une détermination.
 Tivoli appartenait à Monsieur Boutin, dont la fille avait épousé Monsieur de Malesherbes.
 Mes quinze cents francs retrouvés semblaient un trésor suffisant pour me ramener triomphant à Paris.
 Les voyageurs, fort patriotes, parlant d'accrocher les aristocrates à la lanterne, augmentaient sa frayeur.
-Il but beaucoup et remonta dans la diligence; nous rentrâmes dans le coupé.
+Il but beaucoup et remonta dans la diligence ; nous rentrâmes dans le coupé.
 L'émigration avait ses agents de salut qui devinrent, par le résultat, des agents de perdition.
 Nous traversâmes des blés parmi lesquels serpentaient des sentiers à peine tracés.
 Le commandant du poste nous plaça entre ses cavaliers et nous emmena.
 J'aurais mieux aimé trouver à Tournay ce naïf astronome du XIe siècle que des Pandours.
 Il nous est permis de nous rendre à Bruxelles, exil acheté par trop de soin.
 L'esprit de Rivarol nuisait à son talent, sa parole à sa plume.
-Je répondis: «De Niagara.» Rivarol s'écria: «De la cataracte!» Je me tus.
+Je répondis : «De Niagara.» Rivarol s'écria : «De la cataracte !» Je me tus.
 On se leva de table.
 Du reste, c'était la seule suzeraineté dont la France se reconnût vassale.
 La cathédrale d'Aix-la-Chapelle fût bâtie par Karl le Grand et consacrée par Léon III.
 Les autorités sont ici l'archevêque Turpin et Pétrarque.
 Je remontai le Rhin jusqu'à Coblentz (Confluentia).
 L'armée des princes n'y était plus.
-On n'avait pas besoin de moi; on n'avait que trop de ces braves après combat.
+On n'avait pas besoin de moi ; on n'avait que trop de ces braves après combat.
 Je m'engageai dans la septième compagnie bretonne, que commandait Monsieur de Goyon-Miniac.
-Nous avions des tentes; du reste, nous manquions de tout.
+Nous avions des tentes ; du reste, nous manquions de tout.
 Nous demeurâmes deux jours à Trèves.
 L'ordre arriva de marcher sur Thionville.
 Nous faisions cinq à six lieues par jour.
-Cette vie de soldat est très amusante; je me croyais encore parmi les Indiens.
+Cette vie de soldat est très amusante ; je me croyais encore parmi les Indiens.
 Auprès de notre camp indigent et obscur, en existait un autre brillant et riche.
-Nous surgîmes invaincus à Thionville, le premier septembre; car, chemin faisant, nous ne rencontrâmes personne.
+Nous surgîmes invaincus à Thionville, le premier septembre ; car, chemin faisant, nous ne rencontrâmes personne.
 Peu de jours après, il nous arriva des canons et des canonniers autrichiens.
 Ma compagnie fut commandée de renfort.
 La marine chargea bravement, mais elle fut culbutée et nous découvrit.
-Les assaillants se retirèrent je ne sais pourquoi; s'ils eussent tenu, ils nous enlevaient.
+Les assaillants se retirèrent je ne sais pourquoi ; s'ils eussent tenu, ils nous enlevaient.
 La Révolution a fauché, avant la maturité, cette riche moisson du père de famille.
 Le corps autrichien de Waldeck commença d'opérer.
 L'attaque devint plus vive de notre côté.
 Le village du grand chemin trans-Moselle était sans cesse pris et repris.
 Je me trouvai deux fois à ces assauts.
-J'eus toutes les peines du monde à le mettre debout; sa bedaine était triplée.
+J'eus toutes les peines du monde à le mettre debout ; sa bedaine était triplée.
 Il s'était formé derrière notre camp une espèce de marché.
 Des fouées brillaient çà et là.
 On voyait rôder devant les fourneaux les vivandiers en blouse, les militaires en uniforme.
 Des cantinières allaient criant en allemand et en français.
 Les cantinières qui nous apportaient la pitance restaient avec nous pour écouter notre Arabe.
 Dans ce château demeurait la Dame des grandes compagnies.
-La séance fut levée: le brouhaha fut grand et les rires prolongés.
+La séance fut levée : le brouhaha fut grand et les rires prolongés.
 Nous nous rapprochâmes de Thionville, au bruit du canon de la place.
-Nos petites ressources s'épuisaient; {p.soixante-quinze} Paris semblait s'éloigner.
-Ferron fut frappé de ma prédiction: c'est la première de ma vie.
+Nos petites ressources s'épuisaient ; {p.soixante-quinze} Paris semblait s'éloigner.
+Ferron fut frappé de ma prédiction : c'est la première de ma vie.
 J'ai été le chien hollandais du vaisseau de la légitimité.
 À notre second mouvement, nous nous formâmes en colonne et nous commençâmes de défiler.
 Vers neuf heures, nous entendîmes à notre gauche le feu d'une décharge.
 Les tambours battirent la charge, et nous allâmes en désordre à l'ennemi.
 Elle pleurait en regardant trois ou quatre tués, nouveaux sourds et muets gisant autour d'elle.
-Les tambours ne battaient point; le commandement se faisait à voix basse.
+Les tambours ne battaient point ; le commandement se faisait à voix basse.
 Le prince commença un feu nourri auquel la ville répondit vigoureusement.
 Nous tirâmes aussitôt.
-Le ciel était en feu; nous étions ensevelis dans des torrents de fumée.
+Le ciel était en feu ; nous étions ensevelis dans des torrents de fumée.
 Un obus, crevé à six pouces de terre, m'envoya un éclat à la cuisse droite.
 J'entourai ma cuisse avec mon mouchoir.
 Nous rentrâmes dans nos positions, après une marche accablante de trois jours.
 Longwy, patrie de François de Mercy, était tombé le vingt-trois août.
 De toutes parts des festons et des couronnes attestaient le passage de Frédéric-Guillaume.
 Pons attacha à ses épigrammes émoussées la pointe d'un poignard.
-(Arnauld.) La maladie des Prussiens se communiqua à notre petite armée; j'en fus atteint.
+(Arnauld.) La maladie des Prussiens se communiqua à notre petite armée ; j'en fus atteint.
 Notre cavalerie était allée rejoindre Frédéric-Guillaume à Valmy.
-«Il fallut se séparer.
 Les frères d'armes se dirent un dernier adieu, et prirent divers chemins sur la terre.
 Je me sentis saisi d'un autre mal.
 La petite vérole était complétement sortie, et je me sentais soulagé.
@@ -206,17 +203,17 @@ Il fut effrayé de mon spectre.
 On chercha une chambre hors de l'hôtel, car le maître refusa absolument de m'admettre.
 Un perruquier offrait un bouge convenable à mes misères.
 Mon frère m'amena un chirurgien et un médecin.
-Il avait reçu des lettres de Paris; Monsieur de Malesherbes l'invitait à rentrer en France.
+Il avait reçu des lettres de Paris ; Monsieur de Malesherbes l'invitait à rentrer en France.
 Il approuva mon dessein de passer dans l'île de Jersey, et m'avança vingt-cinq louis.
-La gangrène s'était mise à ma blessure; on la pansa avec du quinquina.
+La gangrène s'était mise à ma blessure ; on la pansa avec du quinquina.
 Ces premiers secours obtenus, je m'obstinai à partir pour Ostende.
-J'arrivai doucement à Ostende par les canaux: j'y trouvai quelques Bretons, mes compagnons d'armes.
+J'arrivai doucement à Ostende par les canaux : j'y trouvai quelques Bretons, mes compagnons d'armes.
 Nous nolisâmes une barque pontée et nous dévalâmes la Manche.
 Nous couchions dans la cale, sur les galets qui servaient de lest.
 La vigueur de mon tempérament était enfin épuisée.
-Je ne pouvais plus parler; les mouvements d'une grosse mer achevèrent de m'abattre.
+Je ne pouvais plus parler ; les mouvements d'une grosse mer achevèrent de m'abattre.
 J'étais apparemment voué à la pitié.
-La jeune marinière prit tous les soins possibles de l'étranger: je lui dois la vie.
+La jeune marinière prit tous les soins possibles de l'étranger : je lui dois la vie.
 Le lendemain, on me rembarqua.
 Nous mîmes à la voile, et nous abordâmes la pointe occidentale de Jersey.
 Un de mes compagnons, Monsieur du Tilleul, se rendit à Saint-Hélier, auprès de mon oncle.
@@ -225,50 +222,47 @@ Je demeurai quatre mois entre la vie et la mort.
 Mon oncle, sa femme, son fils et ses trois filles se relevaient à mon chevet.
 Le médecin, M.
 Delattre, avait défendu de me parler de choses sérieuses et surtout de politique.
-Je n'en fus pas étonné: je l'avais prévue.
+Je n'en fus pas étonné : je l'avais prévue.
 Mon frère, de retour en France, s'était retiré à Malesherbes.
-Saint-Hélier, solitaire, demeurait dans les rochers de Césarée; les Vandales le massacrèrent.
+Saint-Hélier, solitaire, demeurait dans les rochers de Césarée ; les Vandales le massacrèrent.
 J'eus un grand plaisir à sortir aux premiers jours de mai.
-Hélas! notre hilarité présente ne se composait que de notre gaieté passée.
+Hélas ! notre hilarité présente ne se composait que de notre gaieté passée.
 En nous retraçant les scènes de Monchoix, nous trouvions le moyen de rire à Jersey.
 Vous pouvez aimer, mais on ne peut plus vous aimer.
 Le paquebot sur lequel je m'embarquai était encombré de familles émigrées.
-Nous ne nous étions pas vus depuis Brest; nous devions nous séparer à Southampton.
+Nous ne nous étions pas vus depuis Brest ; nous devions nous séparer à Southampton.
 Je lui racontai mes voyages, il me raconta les siens.
 {p.cent sept} LIVRE huit Literary Fund.
--- Grenier de Holborn.
--- Dépérissement de ma santé.
--- Visite aux médecins.
--- Émigrés à Londres.
--- Travaux littéraires.
--- Ma société avec Hingant.
--- Nos promenades.
--- Une nuit dans l'église de Westminster.
--- Secours imprévu.
--- Logement sur un cimetière.
--- Nouveaux camarades d'infortune.
--- Nos plaisirs.
--- Mon cousin de la Boüétardais.
--- Fête somptueuse.
--- Fin de mes quarante écus.
--- Nouvelle détresse.
--- Table d'hôte.
--- Dîner à London-Tavern.
--- Manuscrits de Camden.
--- Mes occupations dans la province.
--- Mort de mon frère.
--- Malheurs de ma famille.
--- Deux Frances.
--- Lettres de Hingant.
--- Retour à Londres.
--- Rencontre extraordinaire.
--- Défaut de mon caractère.
--- L'_Essai historique sur les révolutions_.
--- Son effet.
--- Lettre de Lemierre, neveu du poète.
+,  Grenier de Holborn.
+,  Dépérissement de ma santé.
+,  Visite aux médecins.
+,  Émigrés à Londres.
+,  Ma société avec Hingant.
+,  Nos promenades.
+,  Une nuit dans l'église de Westminster.
+,  Logement sur un cimetière.
+,  Nouveaux camarades d'infortune.
+,  Nos plaisirs.
+,  Mon cousin de la Boüétardais.
+,  Fête somptueuse.
+,  Fin de mes quarante écus.
+,  Nouvelle détresse.
+,  Table d'hôte.
+,  Dîner à London-Tavern.
+,  Manuscrits de Camden.
+,  Mes occupations dans la province.
+,  Mort de mon frère.
+,  Malheurs de ma famille.
+,  Deux Frances.
+,  Lettres de Hingant.
+,  Retour à Londres.
+,  Défaut de mon caractère.
+,  L'_Essai historique sur les révolutions_.
+,  Son effet.
+,  Lettre de Lemierre, neveu du poète.
 J'ai rencontré là mon ami Monsieur Canning.
 Mes amis, aussi pauvres que moi, me traînaient de médecin en médecin.
-«Ne comptez pas sur une longue carrière;» tel fut le résumé de ses consultations.
+«Ne comptez pas sur une longue carrière ;» tel fut le résumé de ses consultations.
 Ils étaient tous très gais.
 Le défaut de notre nation, la légèreté, s'était dans ce moment changé en vertu.
 Hingant, que j'avais rencontré sur le paquebot de Jersey, s'était lié avec moi.
@@ -279,8 +273,8 @@ J'étais aux premières loges pour voir le monde tel qu'il est.
 Peu à peu, m'accoutumant à l'obscurité, j'entrevis les figures placées aux tombeaux.
 J'entendis le bruit d'un baiser, et la cloche tinta le point du jour.
 La sonneuse fut tout épouvantée lorsque je sortis avec elle par la porte du cloître.
-Les traductions ne venaient plus; Peltier, homme de plaisir, s'ennuyait d'une obligeance prolongée.
-Hingant voyait aussi s'amoindrir son trésor; entre nous deux, nous ne possédions que soixante francs.
+Les traductions ne venaient plus ; Peltier, homme de plaisir, s'ennuyait d'une obligeance prolongée.
+Hingant voyait aussi s'amoindrir son trésor ; entre nous deux, nous ne possédions que soixante francs.
 Nous diminuâmes la ration de vivres, comme sur un vaisseau lorsque la traversée se prolonge.
 Au lieu d'un schelling par tête, nous ne dépensions plus à dîner qu'un demi-schelling.
 Ces abstinences fatiguaient les nerfs de mon ami.
@@ -304,19 +298,18 @@ Cette fête m'a coûté quarante mille francs.
 Ce qu'il y a de plus délicat en mets, vins et fleurs, abondait.
 Portland-Place était encombré de brillantes voitures.
 Je ne voyais plus devant moi que l'hôpital ou la Tamise.
-Ah! ah!...» Peltier, plié en deux, se tenait les genoux à force de rire.
 Monsieur de Combourg était invité à toutes les parties.
 Je dus à l'étude le premier adoucissement de mon sort.
 Cicéron avait raison de recommander le commerce des lettres dans les chagrins de la vie.
 Les femmes étaient charmées de rencontrer un Français pour parler français.
 Mon oncle de Bedée me manda les persécutions éprouvées par le reste de mes parents.
-Un autre monument m'est resté de ces malheurs: voici ce que m'écrit M.
+Un autre monument m'est resté de ces malheurs : voici ce que m'écrit M.
 Fait au Tribunal, le trois floréal, l'an deux de la République française.
-«Mais tu as peut-être d'autres enfants?» répliqua le commissaire.
+«Mais tu as peut-être d'autres enfants ?» répliqua le commissaire.
 Ma mère nomma ma femme et mes soeurs détenues à Rennes.
 L'ordre fut expédié de mettre celles-ci en liberté, et l'on contraignit ma mère de sortir.
 Je l'ai montrée à quelques personnes qui avaient les yeux mouillés en la lisant.
-Rousseau vint pleurer dans sa prison, à Vincennes: Voyez comme mes amis m'aiment.
+Rousseau vint pleurer dans sa prison, à Vincennes : Voyez comme mes amis m'aiment.
 Je lisais pendant cette fièvre des extraits du Phédon et du Timée.
 Présenté dans cette maison, j'y fus mieux reçu que partout ailleurs.
 Elle reparaissait au thé et charmait le sommeil communicatif du vieux ministre.
@@ -324,7 +317,7 @@ Appuyé au bout du piano, j'écoutais miss Ives en silence.
 J'étais plus à l'aise avec un génie plus chaste et plus mâle, Dante.
 Les années de Charlotte Ives et les miennes concordaient.
 Ayant fait une chute de cheval, je restai quelque temps chez Monsieur Ives.
-C'était l'hiver; les songes de ma vie commencèrent à fuir devant la réalité.
+C'était l'hiver ; les songes de ma vie commencèrent à fuir devant la réalité.
 Je voyais venir avec consternation le moment où je serais obligé de me retirer.
 La veille du jour annoncé comme celui de mon départ, le dîner fut morne.
 Elle croyait que je pleurais de bonheur, et elle se mit à sangloter de joie.
@@ -332,23 +325,23 @@ Je sortis, et, sans rentrer dans ma chambre, je partis à pied.
 Depuis cette époque, je n'ai rencontré qu'un attachement assez élevé pour m'inspirer la même confiance.
 Regardez d'un oeil favorable votre servante.
 À Londres, on était surpris de mes façons.
-Je me suis avancé vers l'étrangère; elle était si émue qu'elle pouvait à peine marcher.
+Je me suis avancé vers l'étrangère ; elle était si émue qu'elle pouvait à peine marcher.
 Sa main était toujours entre les deux miennes.
-Je suis honteuse: excusez-moi.
+Je suis honteuse : excusez-moi.
 Mes enfants sont fils de l'amiral Sulton, que j'épousai trois ans après votre départ d'Angleterre.
 Mais aujourd'hui je n'ai pas la tête assez à moi pour entrer dans le détail.
-Je me rendis le lendemain chez lady Sulton; je la trouvai seule.
-Canning, nommé gouverneur des Indes, est votre ami; il pourrait emmener mon fils avec lui.
+Je me rendis le lendemain chez lady Sulton ; je la trouvai seule.
+Canning, nommé gouverneur des Indes, est votre ami ; il pourrait emmener mon fils avec lui.
 Je rendis compte à lady Sulton de ma démarche.
 Cette dernière entrevue fut douloureuse.
-«Farewell! farewell! me dit-elle, souvenez-vous de mon fils.
+«Farewell ! farewell ! me dit-elle, souvenez-vous de mon fils.
 Rentré à l'ambassade, je m'enfermai et j'ouvris le paquet.
 Voilà mon histoire avec miss Ives.
-Mais d'où m'était venu mon dernier malheur? de mon obstination au silence.
+Mais d'où m'était venu mon dernier malheur ? de mon obstination au silence.
 Pour comprendre ceci, il faut entrer dans mon caractère.
 Charlotte, que je cherchais ainsi à me réconcilier par la gloire, présidait à mes études.
 Son image était assise devant moi tandis que j'écrivais.
-Abandonnons-les, ces souvenirs; les souvenirs vieillissent et s'effacent comme les espérances.
+Abandonnons-les, ces souvenirs ; les souvenirs vieillissent et s'effacent comme les espérances.
 Ma vie va changer, elle va couler sous d'autres cieux, dans d'autres vallées.
 Imprimé chez Baylis, l'Essai parut chez Deboffe en mille sept cent quatre-vingt-dix-sept.
 Cette date est celle {p.cent cinquante et un} d'une des transformations de ma vie.
@@ -359,7 +352,7 @@ J'avais adressé des exemplaires de l'Essai à La Harpe, Ginguené et de Sales.
 Je portais mon coeur je ne sais comment.
 La vieille monarchie périssait avec tous ses abus et toutes ses grâces.
 Il obtint la rédaction du Courrier français.
-Presque tous les avares sont gens d'esprit: il faut que je sois bien bête.
+Presque tous les avares sont gens d'esprit : il faut que je sois bien bête.
 Elle écrit maintenant, et ses talents reproduiront à merveille ce qu'elle a vu.
 Le jeune Fontanes, élevé par un frère d'un grand mérite, vint à Paris.
 Logé auprès de l'Odéon, en errant autour de la Chartreuse, il en célébra la solitude.
@@ -369,14 +362,14 @@ Quand les jours devinrent mauvais, il se réfugia à Lyon et s'y maria.
 Proscrit au dix-huit fructidor, l'Angleterre fut son port de salut.
 Rousseau, tenant par son goût à Fénelon.
 Il a été souverainement injuste envers madame de Staël.
-Il se logea auprès de moi; nous ne nous quittions plus.
+Il se logea auprès de moi ; nous ne nous quittions plus.
 {p.cent soixante-huit} UN PAYSAN VENDÉEN.
 {p.cent soixante-dix} Les deux Frances se rencontrèrent sur ce sol nivelé par elles.
 Le vainqueur sentit la grandeur du vaincu.
 Bonaparte appela les combats de la Vendée «des combats de géants».
-Les Vendéens députaient vers les exilés; les géants envoyaient demander des chefs aux pygmées.
+Les Vendéens députaient vers les exilés ; les géants envoyaient demander des chefs aux pygmées.
 Dans la conversation il éclatait en colères littéraires risibles.
-En politique, il déraisonnait; les crimes conventionnels lui avaient donné l'horreur de la liberté.
+En politique, il déraisonnait ; les crimes conventionnels lui avaient donné l'horreur de la liberté.
 Fontanes fut rappelé en France.
 Il m'embrassa en faisant des voeux pour notre prochaine réunion.
 J'ai été cinq ou six jours dans les plus cruelles perplexités.
@@ -385,36 +378,36 @@ Mes terreurs sont aujourd'hui fort diminuées.
 Le dernier courrier m'a porté des assurances de paix et de bonne volonté.
 J'en ai la preuve évidente entre les mains.
 Travaillez, travaillez, mon cher ami, devenez illustre.
-Vous le pouvez: l'avenir est à vous.
-Écrivez-moi; que nos coeurs communiquent, que nos muses soient toujours amies.
+Vous le pouvez : l'avenir est à vous.
+Écrivez-moi ; que nos coeurs communiquent, que nos muses soient toujours amies.
 Mon attachement est inaltérable.
 Je serai seul tant que je ne serai point auprès de vous.
 Parlez-moi de vos travaux.
 «Adieu, je vous embrasse tendrement, et suis votre ami.
 Fontanes m'apprend qu'il faisait des vers en changeant d'exil.
-On ne peut jamais tout ravir au poète; il emporte avec lui sa lyre.
+On ne peut jamais tout ravir au poète ; il emporte avec lui sa lyre.
 {p.cent soixante-dix-sept} LIVRE neuf Mort de ma mère.
--- Retour à la religion.
--- _Génie du christianisme._ -- Lettre du chevalier de Panat.
--- Mon oncle, M.
-de Bedée: sa fille aînée.
--- Littérature anglaise.
--- Dépérissement de l'ancienne école.
--- Romans anciens.
--- Romans nouveaux.
--- Walter Scott.
--- Poésie nouvelle.
--- Lord Byron.
--- L'Angleterre de Richmond à Greenwich.
--- Course avec Peltier.
--- Collège d'Eton.
--- Moeurs privées.
--- Moeurs politiques.
--- George trois.
--- Rentrée des émigrés en France.
--- Mort de lord Londonderry.
--- Fin de ma carrière de soldat et de voyageur.
--- Je débarque à Calais.
+,  Retour à la religion.
+,  _Génie du christianisme._ ,  Lettre du chevalier de Panat.
+,  Mon oncle, M.
+de Bedée : sa fille aînée.
+,  Littérature anglaise.
+,  Dépérissement de l'ancienne école.
+,  Romans anciens.
+,  Romans nouveaux.
+,  Walter Scott.
+,  Poésie nouvelle.
+,  Lord Byron.
+,  L'Angleterre de Richmond à Greenwich.
+Course avec Peltier.
+,  Collège d'Eton.
+,  Moeurs privées.
+,  Moeurs politiques.
+,  George trois.
+,  Rentrée des émigrés en France.
+,  Mort de lord Londonderry.
+,  Fin de ma carrière de soldat et de voyageur.
+,  Je débarque à Calais.
 Quand tu cesseras d'être l'objet de nos sollicitudes, nous aurons cessé de vivre.
 Mon enfance et ma jeunesse se liaient intimement au souvenir de ma mère.
 Ma soeur me manda le dernier voeu {p.cent quatre-vingts} de ma mère.
@@ -435,11 +428,11 @@ Toutefois, de grandes figures demeuraient.
 On retrouvait partout Milton et Shakespeare.
 Le créateur de Desdémone et de Juliette vieillissait sans cesser d'être amoureux.
 Lorsque le poète quitta la vie, Charles Ier comptait seize ans.
-Homère a fécondé l'antiquité: Eschyle, Sophocle, Euripide, Aristophane, Horace, Virgile, sont ses fils.
+Homère a fécondé l'antiquité : Eschyle, Sophocle, Euripide, Aristophane, Horace, Virgile, sont ses fils.
 Dante a engendré l'Italie moderne, depuis Pétrarque jusqu'au Tasse.
-Rabelais a créé les lettres françaises; Montaigne, La Fontaine, Molière, viennent de sa descendance.
+Rabelais a créé les lettres françaises ; Montaigne, La Fontaine, Molière, viennent de sa descendance.
 Les romans, à la fin du siècle dernier, avaient été compris dans la proscription générale.
-Fielding se soutenait; Sterne, entrepreneur d'originalité, était passé.
+Fielding se soutenait ; Sterne, entrepreneur d'originalité, était passé.
 On lisait encore le Vicaire de Wakefield.
 Les ouvrages d'Anne Radcliffe font une espèce à part.
 On banniroit des mains de notre peuple et moy et cent autres.
@@ -448,17 +441,13 @@ Après eux vinrent les restaurateurs des ballades.
 Darwin et Beattie moururent deux ans après mon retour de l'exil.
 Beattie avait annoncé l'ère nouvelle de la lyre.
 Cet ermite instruit le jeune minstrel et lui révèle le secret de son génie.
-L'idée était heureuse; l'exécution n'a pas répondu au bonheur de l'idée.
-ici où il palpita, ici mon coeur pourra reposer.
-Puissé-je m'endormir où s'éveillèrent mes espérances,...
-mêlé à la terre où coururent mes pas,...
+L'idée était heureuse ; l'exécution n'a pas répondu au bonheur de l'idée.
 Voilà ce que nous devenons.
-nous vîmes tous ces promontoires marqués par des temples ou des tombeaux...
 Maintenant que l'enthousiasme s'est un peu calmé, on me refuse moins cet honneur.
 Ainsi, un autre talent supérieur a évité mon nom dans un ouvrage sur la Littérature.
-Childe-Harold aurait dû rester: le monde me pouvait perdre sans s'apercevoir de ma disparition.
+Childe-Harold aurait dû rester : le monde me pouvait perdre sans s'apercevoir de ma disparition.
 Henri tressaillit d'aise au signal parti de la Tour de Londres.
-Le parc de Stowe est célèbre par ses fabriques: j'aime mieux ses ombrages.
+Le parc de Stowe est célèbre par ses fabriques : j'aime mieux ses ombrages.
 Nous nous arrêtâmes deux jours à Oxford.
 Nous ravaudâmes les vingt-cinq collèges, les bibliothèques, les tableaux, le muséum, le jardin des plantes.
 Tout n'était pas encore machine dans les professions manufacturières, folie dans les rangs privilégiés.
@@ -470,15 +459,15 @@ Je dirai au monde entier que la Constitution est en péril.
 J'allai voir ce qu'il appelait sa pépinière, his nursery.
 Monsieur Pitt, grand et maigre, avait un air triste et moqueur.
 Un valet de chambre conduisait sa maison.
-Old England! Je commençais à tourner les yeux vers ma terre natale.
+Old England ! Je commençais à tourner les yeux vers ma terre natale.
 Une grande révolution s'était opérée.
-Madame Lindsay était partie; elle écrivait à MM.
+Madame Lindsay était partie ; elle écrivait à MM.
 Fontanes m'appelait, pour achever à Paris l'impression {p.deux cent vingt-sept} du Génie du christianisme.
 MMonsieur Dulau interrompirent le tirage du Génie du christianisme, et m'en donnèrent les feuilles composées.
-Que d'événements sont entassés dans ma présente existence! Passez, hommes, passez; viendra mon tour.
+Que d'événements sont entassés dans ma présente existence ! Passez, hommes, passez ; viendra mon tour.
 Nous mîmes quatre heures à passer de Douvres à Calais.
 Vous voyez où j'habite maintenant.
-M'y voici encore; j'y reprends la plume pour continuer mes confessions.
+M'y voici encore ; j'y reprends la plume pour continuer mes confessions.
 La France m'était aussi nouvelle que me l'avaient été autrefois les forêts de l'Amérique.
 Madame Lindsay demeurait aux Ternes.
 Monsieur de Fontanes demeurait dans la rue Saint-Honoré, aux environs de Saint-Roch.
@@ -491,22 +480,22 @@ Tel est le fond de cette société humaine qui porta Alexandre et qui portait Na
 Je visitais les lieux où j'avais promené les rêveries de mes premières années.
 Dans mes couvents d'autrefois, les clubistes avaient été chassés après les moines.
 J'assistai, en mille huit cent un, à la seconde transformation sociale.
-L'un était réputé Italien ou Espagnol, l'autre Prussien ou Hollandais: j'étais Suisse.
+L'un était réputé Italien ou Espagnol, l'autre Prussien ou Hollandais : j'étais Suisse.
 On distinguait les vieilles générations républicaines qui se retiraient, des générations impériales qui s'avançaient.
 L'émigré rentré causait tranquillement avec les assassins de quelques-uns de ses proches.
 Les révolutionnaires enrichis commençaient à s'emménager dans les grands hôtels vendus du faubourg Saint-Germain.
 Ma tête se montrait un peu au-dessus de l'obscurité.
 Ce premier succès semblait annoncer celui qui l'allait suivre.
-Après tant de succès militaires, un succès littéraire paraissait un prodige; on en était affamé.
+Après tant de succès militaires, un succès littéraire paraissait un prodige ; on en était affamé.
 L'étrangeté de l'ouvrage ajoutait à la surprise de la foule.
 Le vieux siècle la repoussa, le nouveau l'accueillit.
 Atala devint si populaire qu'elle alla grossir, avec la Brinvilliers, la collection de Curtius.
 Parodies, caricatures, moqueries m'accablaient.
 Tout ce train servait à augmenter le fracas de mon apparition.
 Je devins à la mode.
-La tête me tourna: j'ignorais les jouissances de l'amour-propre, et j'en fus enivré.
+La tête me tourna : j'ignorais les jouissances de l'amour-propre, et j'en fus enivré.
 J'aimai la gloire comme une femme, comme un premier amour.
-Cependant, poltron que j'étais, mon effroi égalait ma passion: conscrit, j'allais mal au feu.
+Cependant, poltron que j'étais, mon effroi égalait ma passion : conscrit, j'allais mal au feu.
 Si je n'ai pas été gâté, il faut que ma nature soit bonne.
 Des émigrés m'arrivèrent, entre autres MMonsieur de Bonald et Chênedollé.
 Madame de Beaumont revint à Paris et désira me connaître.
@@ -519,50 +508,51 @@ Sur la gauche s'étendait la plaine de Viry jusqu'aux fontaines de Juvisy.
 Après mon arrivée en France, j'avais écrit à ma famille pour l'informer de mon retour.
 Madame la comtesse de {p.deux cent soixante-dix} Caud, Lucile, se présenta ensuite.
 Pendant l'hiver à Paris, je fis quelques nouvelles connaissances.
-Qu'était-il donc, Talma? Lui, son siècle et le temps antique.
+Qu'était-il donc, Talma ? Lui, son siècle et le temps antique.
 Sa grâce, qui n'était point la grâce convenue, vous saisissait comme le malheur.
 Sa seule entrée en scène, le seul son de sa voix étaient puissamment tragiques.
 L'empire voltairien poussa un cri et courut aux armes.
-Posez Dieu pour principe, et le Verbe va suivre: le Fils naît forcément du Père.
+Posez Dieu pour principe, et le Verbe va suivre : le Fils naît forcément du Père.
 Il suspendit l'Habeas corpus pour la pensée comme pour la liberté individuelle.
 Reconnaissons aussi que le public, fatigué d'anarchie, reprenait volontiers le joug des règles.
 Pendant ce demi-siècle elle n'était employée que par l'opposition.
 Aussi rien n'était plus ennuyeux que cette pâle résurrection de la littérature d'autrefois.
--- Madame de Custine.
--- Monsieur de Saint-Martin.
--- Mmes d'Houdetot et Saint-Lambert.
--- Voyage dans le midi de la France, mille huit cent deux.
--- Années de ma vie mille huit cent deux et mille huit cent trois.
--- Monsieur de la Harpe.
--- Sa mort.
--- Années de ma vie mille huit cent deux et mille huit cent trois.
--- Entrevue avec Bonaparte.
--- Année de ma vie mille huit cent trois.
--- Je suis nommé premier secrétaire d'ambassade à Rome.
--- Année de ma vie mille huit cent trois.
--- Voyage de Paris aux Alpes de Savoie.
--- Du mont Cenis à Rome.
--- Milan et Rome.
--- Palais du cardinal Fesch.
--- Mes occupations.
--- Année de ma vie mille huit cent trois.
--- Manuscrit de Madame de Beaumont.
--- Lettres de Madame de Caud.
--- Arrivée de Madame de Beaumont à Rome.
--- Lettres de ma soeur.
--- Lettre de Madame de Krüdener.
--- Mort de Madame de Beaumont.
--- Année de ma vie mille huit cent trois.
--- Années de ma vie mille huit cent trois et mille huit cent quatre.
--- Première idée de mes Mémoires.
--- Je suis nommé ministre de France dans le Valais.
--- Départ de Rome.
--- Année de ma vie mille huit cent quatre.
--- République du Valais.
--- Visite au château des Tuileries.
--- Hôtel de Montmorin.
--- J'entends crier la mort du duc d'Enghien.
--- Je donne ma démission.
+,  Madame de Custine.
+,  Monsieur de Saint-Martin.
+,  Mmes d'Houdetot et Saint-Lambert.
+,  Voyage dans le midi de la France, mille huit cent deux.
+,  Années de ma vie mille huit cent deux et mille huit cent trois.
+Monsieur de la Harpe.
+,  Sa mort.
+,  Années de ma vie mille huit cent deux et mille huit cent trois.
+Entrevue avec Bonaparte.
+,  Année de ma vie mille huit cent trois.
+,  Je suis nommé premier secrétaire d'ambassade à Rome.
+,  Année de ma vie mille huit cent trois.
+,  Voyage de Paris aux Alpes de Savoie.
+,  Du mont Cenis à Rome.
+,  Milan et Rome.
+,  Palais du cardinal Fesch.
+,  Mes occupations.
+,  Année de ma vie mille huit cent trois.
+,  Manuscrit de Madame de Beaumont.
+,  Lettres de Madame de Caud.
+,  Arrivée de Madame de Beaumont à Rome.
+,  Lettres de ma soeur.
+,  Lettre de Madame de Krüdener.
+,  Mort de Madame de Beaumont.
+,  Année de ma vie mille huit cent trois.
+Lettres de Monsieur Chênedollé, de Monsieur de Fontanes, de Monsieur Necker et Madame de Staël.
+,  Années de ma vie mille huit cent trois et mille huit cent quatre.
+,  Première idée de mes Mémoires.
+,  Je suis nommé ministre de France dans le Valais.
+,  Départ de Rome.
+,  Année de ma vie mille huit cent quatre.
+,  République du Valais.
+,  Visite au château des Tuileries.
+,  Hôtel de Montmorin.
+,  J'entends crier la mort du duc d'Enghien.
+,  Je donne ma démission.
 Ma vie se trouva toute dérangée aussitôt qu'elle cessa d'être à moi.
 J'avais une foule de connaissance en dehors de ma société habituelle.
 J'étais appelé dans les châteaux que l'on rétablissait.
@@ -571,9 +561,9 @@ Madame Lindsay, que je n'avais cessé de voir, me fit connaître Julie Talma.
 Madame de Clermont-Tonnerre m'attira chez elle.
 Nous avions une grand'mère commune, et elle voulait bien m'appeler son cousin.
 Elle avait, en prison, converti Monsieur de La Harpe.
-J'arrivai au rendez-vous à six heures; le philosophe du ciel était à son poste.
+J'arrivai au rendez-vous à six heures ; le philosophe du ciel était à son poste.
 Nous nous assîmes et nous commençâmes à manger en silence.
-Je ne l'ai jamais revu: il courut mourir dans le jardin de M.
+Je ne l'ai jamais revu : il courut mourir dans le jardin de M.
 Lenoir-Laroche, mon voisin d'Aulnay.
 Quand ses idées étaient explicables, elles étaient élevées et d'une nature supérieure.
 Il suffit de tenir bon dans la vie pour que les illégitimités deviennent des légitimités.
@@ -581,14 +571,13 @@ Lyon me fit un extrême plaisir.
 Je fus réveillé le matin par le son des cloches.
 Les couvents suspendus aux coteaux semblaient avoir recouvré leurs solitaires.
 Le fils de Monsieur Ballanche, propriétaire, après M.
-Migneret, du Génie du Christianisme, était devenu mon hôte: il est devenu mon ami.
-Je me croyais en Amérique: le Rhône me représentait mes grandes rivières sauvages.
+Migneret, du Génie du Christianisme, était devenu mon hôte : il est devenu mon ami.
+Je me croyais en Amérique : le Rhône me représentait mes grandes rivières sauvages.
 Il est aisé de prévoir que les écrivains se diviseront.
 En allant de libraire en libraire, je déterrai le contrefacteur, à qui j'étais inconnu.
 Il habitait un bel hôtel entre cour et jardin.
 Avignon me rappela mon compatriote.
 Du Guesclin valait bien Bonaparte, puisqu'il arracha la France à la conquête.
-«Mon Italie!...
 D'Avignon je me rendis à Marseille.
 Le silence régnait dans la chapelle restaurée, tandis que le vent mugissait au dehors.
 Je suis aussi allé chercher Jean Reboul.
@@ -603,9 +592,9 @@ Le coeur me palpita, lorsque ayant traversé la Loire à Nantes, j'entrai en Bre
 Il n'avait encore aucune charlatanerie dans le regard, rien de théâtral et d'affecté.
 Bonaparte m'aperçut et me reconnut, j'ignore à quoi.
 Il me pressèrent de profiter de la fortune.
-L'idée d'être quelque chose ne m'était jamais venue; je refusai net.
+L'idée d'être quelque chose ne m'était jamais venue ; je refusai net.
 Alors on fit parler une autorité à laquelle il m'était difficile de résister.
-Monsieur de Talleyrand occupait le ministère des relations extérieures; il m'expédia ma nomination.
+Monsieur de Talleyrand occupait le ministère des relations extérieures ; il m'expédia ma nomination.
 À Lyon, je revis mon ami Monsieur Ballanche.
 Les petites églises, environnées d'arbres, font un contraste touchant avec les grandes montagnes.
 Là, s'était incorporée au rocher la haine d'un homme, plus puissante que tous les obstacles.
@@ -613,14 +602,14 @@ De l'autre côté du Mont-Cenis, la Doire vous ouvre l'entrée de l'Italie.
 L'armée française s'établissait, comme une colonie militaire, dans les plaines de la Lombardie.
 À mon passage à Milan, un grand peuple réveillé ouvrait un moment les yeux.
 Rome est rentrée dans ses ruines, Venise dans sa mer.
-[Illustration: Madame de BEAUMONT au colysée.] Le général Murat commandait à Milan.
+[Illustration : Madame de BEAUMONT au colysée.] Le général Murat commandait à Milan.
 J'avais pour lui une lettre de madame Bacciochi.
 J'avais suivi la route de Florence, de Sienne et de Radicofani.
 Le lendemain j'assistai à l'office de la Saint-Pierre.
 Pie sept, pâle, triste et religieux, était le vrai pontife des tribulations.
-Deux jours après, je fus présenté à Sa Sainteté: elle me fit asseoir auprès d'elle.
+Deux jours après, je fus présenté à Sa Sainteté : elle me fit asseoir auprès d'elle.
 L'abbé de Bonnevie et moi, nous fîmes, le mieux que nous pûmes, laver notre demeure.
-Un horrible cancan sortit de cette démarche insolite; tous les diplomates se boutonnèrent.
+Un horrible cancan sortit de cette démarche insolite ; tous les diplomates se boutonnèrent.
 Il se vantait d'être l'auteur du discours de Robespierre à l'Être suprême.
 Il eût montré un vrai talent de parole, s'il avait été appelé à la tribune.
 «Depuis plusieurs années, ma santé dépérit d'une manière sensible.
@@ -630,18 +619,18 @@ Ce défaut absolu d'illusion, et par conséquent d'entraînement, fait mon malhe
 Je possède cette correspondance, que la mort m'a rendue.
 Mon frère m'a mandé qu'il espérait vous voir en Italie.
 Écrivez-moi donc, madame, afin que je puisse conserver une idée qui m'est si nécessaire.
-«Je n'ai point encore vu Monsieur Chênedollé; je désire beaucoup son arrivée.
+«Je n'ai point encore vu Monsieur Chênedollé ; je désire beaucoup son arrivée.
 «Je suis désolée que vous soyez dans un pays qui vous déplaît.
 Je voudrais vous voir environnée d'objets propres à vous distraire et à vous ranimer.
-J'habite maintenant Rennes: je me trouve assez bien de mon isolement.
+J'habite maintenant Rennes : je me trouve assez bien de mon isolement.
 Je crois, madame, vous avoir parlé de mes chagrins et de mes agitations.
 Heureusement la réflexion est venue à mon secours.
 Madame de Beaumont, parvenue à Milan, y rencontra M.
-Je fus terrifié à sa vue; elle n'avait plus que la force de sourire.
+Je fus terrifié à sa vue ; elle n'avait plus que la force de sourire.
 Dans les auberges, les servantes même se laissaient prendre à cette douce commisération.
 J'y déposai la mourante.
-Le chagrin est mon élément: je ne me retrouve que quand je suis malheureux.
-Souffrez mes lamentations: je suis sûr que vous êtes aussi malheureux que moi.
+Le chagrin est mon élément : je ne me retrouve que quand je suis malheureux.
+Souffrez mes lamentations : je suis sûr que vous êtes aussi malheureux que moi.
 La malade elle-même recommença à croire {p.trois cent soixante-quatre} à sa vie.
 Des lettres cruelles à lire m'arrivaient de tous côtés, m'exprimant des craintes et des espérances.
 Mais laissons mes peines et parlons de tes inquiétudes.
@@ -649,12 +638,12 @@ Je me plais à penser que, lorsque tu recevras cette lettre, tes soucis seront d
 Tiens ta promesse et ne manque pas de m'en donner le plus possible des nouvelles.
 Si tu me revois, je crains que tu ne me retrouves qu'entièrement insensée.
 Donne-moi vite des nouvelles de madame de Beaumont.
-Ah! rassurez-moi, parlez-moi; dites-lui que je l'aime sincèrement, que je fais des voeux pour elle.
+Ah ! rassurez-moi, parlez-moi ; dites-lui que je l'aime sincèrement, que je fais des voeux pour elle.
 Je m'emportai contre le médecin, puis je le suppliai d'attendre au moins jusqu'au lendemain.
 Ma nuit fut cruelle, avec le secret que j'avais dans le sein.
 La malade ne me permit pas de la passer dans sa chambre.
 Le vendredi quatre novembre, j'entrai, suivi du médecin.
-Je sortis: quand je rentrai, je ne savais plus si j'existais.
+Je sortis : quand je rentrai, je ne savais plus si j'existais.
 Madame de Beaumont me demanda ce que me voulait le médecin.
 Je me jetai au bord de son lit, en fondant en larmes.
 Elle me fit signe de me retirer et resta seule avec son confesseur.
@@ -670,17 +659,17 @@ Un de ces pères était d'Auvergne et né à Montmorin même.
 Le dimanche six novembre, la messe de l'enterrement fut célébrée.
 Les funérailles eussent été moins françaises à Paris qu'elles ne le furent à Rome.
 La population romaine, accoutumée aux étrangers, leur sert de frères et de soeurs.
-Vous savez si je vous aime: venez.
+Vous savez si je vous aime : venez.
 Sa mémoire vivra dans des coeurs dignes d'elle.
 J'ai fait passer à Monsieur de la Luzerne la touchante relation qui lui était destinée.
 Le vieux Saint-Germain, domestique de votre amie, s'est chargé de la porter.
 Ce bon serviteur m'a fait pleurer en me parlant de sa maîtresse.
 J'avoue que cet oubli m'étonne et m'afflige.
 Sa voix doit avoir plus de force que la mienne.
-Si je ne consultais que mon propre bonheur, je vous dirais: Venez tout à l'heure.
+Si je ne consultais que mon propre bonheur, je vous dirais : Venez tout à l'heure.
 Votre éducation, vos habitudes, veulent un peu de dépense.
 J'espère toujours que rien ne vous déterminera à chercher la fortune chez les étrangers.
-Cette aimable femme vous aimait: elle vous conseillera bien.
+Cette aimable femme vous aimait : elle vous conseillera bien.
 Il avait été collègue de Monsieur de Montmorin.
 Coppet, le vingt-sept novembre mille huit cent trois.
 Mon cher Francis, donnez-moi une place dans votre vie.
@@ -691,9 +680,9 @@ Continuez de rendre illustre celui qu'elle a tant aimé.
 Adieu, mon cher François.
 Je vous écrirai de Weimar en Saxe.
 Répondez-moi là, chez MMonsieur Desport, banquiers.
-«Adieu tendrement: douloureusement adieu.
+«Adieu tendrement : douloureusement adieu.
 Cette lettre empressée, affectueusement rapide, écrite par une femme illustre, me causa un redoublement d'attendrissement.
-Rome y entrera; ce n'est que comme cela que je puis désormais parler de Rome.
+Rome y entrera ; ce n'est que comme cela que je puis désormais parler de Rome.
 J'entrepris un commentaire de quelques livres de la Bible, en commençant par la Genèse.
 Il ne faut pas que l'homme porte la main au fruit de vie.
 Il me proposa d'aller passer quinze jours ou un mois à Naples.
@@ -703,7 +692,7 @@ Si, par hasard, on recherchait ces documents, on les trouverait à leur place.
 Les orangers étaient couverts de leurs fruits, et les myrtes de leurs fleurs.
 J'ai peint la baie de Naples dans les Martyrs.
 Je montai au Vésuve et descendis dans son cratère.
-Je me pillais: je jouais une scène de René.
+Je me pillais : je jouais une scène de René.
 Je revins à Rome.
 Canova m'accorda l'entrée de son atelier tandis qu'il travaillait à une statue de nymphe.
 Ailleurs, les modèles des marbres du tombeau que j'avais commandé étaient déjà d'une grande expression.
@@ -712,30 +701,30 @@ Le conseil de la ville de Sion m'écrivit.
 «Agréez, monsieur, les assurances de notre respectueuse considération.
 Je n'ai jamais pu m'expliquer ce qui avait frappé l'aide de camp.
 Satisfait d'avoir rempli ma tâche en me présentant aux Tuileries, je me retirai.
-Monsieur Clausel de Coussergues arriva sur ces entrefaites; il avait aussi entendu crier l'arrêt.
+Monsieur Clausel de Coussergues arriva sur ces entrefaites ; il avait aussi entendu crier l'arrêt.
 Néanmoins, ce mouvement de sympathie, qui nous emporte à la louange d'une action généreuse, s'arrêta.
 Je rendis les frais d'établissement, et tout fut fini en apparence.
 Si j'avais rempli un devoir dans des vues lointaines d'ambition, je me serais trompé.
 {p.quatre cent neuf} LIVRE trois Mort du duc d'Enghien.
--- Année de ma vie mille huit cent quatre.
--- Le général Hulin.
--- Le duc de Rovigo.
--- Monsieur de Talleyrand.
--- Part de chacun.
--- Bonaparte, son sophisme et ses remords.
--- Ce qu'il faut conclure de tout ce récit.
--- Inimitiés enfantées par la mort du duc d'Enghien.
--- Un article du _Mercure_.
--- Changement dans la vie de Bonaparte.
--- Abandon de Chantilly.
+,  Année de ma vie mille huit cent quatre.
+,  Le général Hulin.
+,  Le duc de Rovigo.
+,  Monsieur de Talleyrand.
+,  Part de chacun.
+,  Bonaparte, son sophisme et ses remords.
+,  Ce qu'il faut conclure de tout ce récit.
+,  Inimitiés enfantées par la mort du duc d'Enghien.
+,  Un article du _Mercure_.
+,  Changement dans la vie de Bonaparte.
+,  Abandon de Chantilly.
 Afin de tromper cet instinct, je suis accouru à Chantilly.
 J'ai erré sur la pelouse, où de vieux gardes se traînent à l'orée des bois.
 le duc d'Enghien, à la vue des ruines de Chantilly.
 Les serviteurs, les amis, les parents de Bonaparte étaient consternés.
 Le plus jeune des Condé était à Ettenheim, dans le duché de Bade.
-Il écouta patiemment les objections: ce fut Cambacérès qui s'exprima avec le plus de vigueur.
+Il écouta patiemment les objections : ce fut Cambacérès qui s'exprima avec le plus de vigueur.
 Bonaparte l'en remercia et passa outre.
-La bombe lancée ne revient pas; elle va où le génie l'envoie, et tombe.
+La bombe lancée ne revient pas ; elle va où le génie l'envoie, et tombe.
 Le duc d'Enghien fut arrêté à Ettenheim.
 Le duc d'Enghien est conduit à Strasbourg.
 À cinq heures et demie, les portes enfoncées, emmené au Moulin, près la Tuilerie.
@@ -745,12 +734,11 @@ Embarqué pour Rhisnau.
 Débarqué et marché à pied jusqu'à Pfortsheim.
 Déjeuné à l'auberge.
 Arrivé à Strasbourg, chez le colonel Charlot, vers cinq heures et demie.
-Transféré une demi-heure après, dans un fiacre, à la citadelle.......
 On ne me laisse que le temps de m'habiller.
 J'embrasse mes malheureux compagnons, mes gens.
 Je pars seul avec deux officiers de gendarmerie et deux gendarmes.
-Le dix-huit mars, il partit pour la Malmaison; c'était le dimanche des Rameaux.
-Pourquoi? parce qu'il avait vu le premier consul pleurer à Marengo.
+Le dix-huit mars, il partit pour la Malmaison ; c'était le dimanche des Rameaux.
+Pourquoi ? parce qu'il avait vu le premier consul pleurer à Marengo.
 On assure que le premier consul fit rédiger tous les ordres pour Vincennes.
 Je crois à cette version, bien que je ne puisse l'attester, puisque ces ordres manquent.
 Non, le destin avait prononcé son oracle.
@@ -759,13 +747,10 @@ Le premier consul s'était enfermé seul pendant plusieurs heures.
 Et puis le vent souffla, et tout fut fini.
 Je n'ai point eu de relations avec lui.
 Je sais qu'il a désiré me voir.
-de la loi du...
-ainsi conçu......
-et en conséquence l'a condamné à la peine de mort.
 «Veuillez agréer un exemplaire de ma publication relative à l'assassinat du duc d'Enghien.
 Vient après cela l'examen du jugement.
 «Pas un seul témoin n'a été ni entendu ni produit contre l'accusé.
-«L'accusé est déclaré coupable! Coupable de quoi? Le jugement ne le dit pas.
+«L'accusé est déclaré coupable ! Coupable de quoi ? Le jugement ne le dit pas.
 J'écris pour dire la vérité, même en tout ce qui peut m'être contraire.
 Un membre fit la proposition de transmettre cette demande au gouvernement.
 D'ailleurs, nous ne trouvâmes dans la loi aucune disposition qui nous autorisât à surseoir.
@@ -774,8 +759,8 @@ Ma naissance, mon opinion, ajouta-t-il, me rendent à jamais l'ennemi de votre g
 On ne peut l'en accuser.
 «Vingt ans écoulés n'ont point adouci l'amertume de mes regrets.
 Leur naïveté ne les justifie pas, mais elle les excuse.
-Je lui dis: «Laissez mourir tout cela; en France l'oubli ne se fait pas attendre.
-Vous prêtez le flanc à vos ennemis; ils ne manqueront pas de vous répondre.
+Je lui dis : «Laissez mourir tout cela ; en France l'oubli ne se fait pas attendre.
+Vous prêtez le flanc à vos ennemis ; ils ne manqueront pas de vous répondre.
 À cette occasion, M.
 Mais que ce {p.quatre cent quarante} soit ou ne soit pas ce M.
 Je tiens ce fait de celui qui a reçu l'ordre de l'y laisser pénétrer.
@@ -783,7 +768,7 @@ Le ministre invite le premier consul à sévir contre ses ennemis.
 Il y eut une délibération du conseil pour l'arrestation du duc d'Enghien.
 Monsieur de Caulaincourt n'est coupable que d'avoir exécuté l'ordre de l'arrestation.
 La commission militaire a jugé le duc d'Enghien, mais avec douleur et repentir.
-La France aurait pu gagner à ma réunion avec l'empereur; moi, j'y aurais perdu.
+La France aurait pu gagner à ma réunion avec l'empereur ; moi, j'y aurais perdu.
 Aucune autre réponse ne sort de la bouche du prévenu.
 La simplicité répétait la fable, en lui donnant un accent de sincérité.
 L'orgueil dit ces choses-là, et la sottise les croit.
@@ -792,25 +777,24 @@ Il a beau passer dessus avec sa gloire, elles sont demeurées là pour le perdre
 À Saint-Pétersbourg, un service funèbre avait été célébré pour le jeune Condé.
 Madame de Staël était en Prusse lorsque la nouvelle de Vincennes arriva.
 Il n'osait rien leur reprocher, car il n'avait plus la liberté vertueuse du blâme.
-le soleil reçut l'ordre de détourner ses rênes du chemin de l'équateur...
 À diverses reprises, la forêt entière est tombée sous la cognée.
 Des personnages des temps écoulés ont parcouru ces chasses aujourd'hui muettes, jadis retentissantes.
 {p.quatre cent soixante-cinq} LIVRE quatre Année de ma vie mille huit cent quatre.
--- Je viens demeurer rue Miromesnil.
--- Alexis de Tocqueville.
--- Le Ménil.
--- Madame de Coislin.
--- Voyage à Vichy, en Auvergne et au mont Blanc.
--- Retour à Lyon.
--- Course à la Grande Chartreuse.
--- Mort de Madame de Caud.
--- Années de ma vie mille huit cent cinq et mille huit cent six.
--- Je reviens à Paris.
--- Je pars pour le Levant.
--- Je m'embarque à Constantinople sur un bâtiment qui portait des pèlerins pour la Syrie.
--- De Tunis jusqu'à ma rentrée en France par l'Espagne.
--- Réflexions sur mon voyage.
--- Mort de Julien.
+,  Je viens demeurer rue Miromesnil.
+,  Alexis de Tocqueville.
+,  Le Ménil.
+,  Madame de Coislin.
+,  Voyage à Vichy, en Auvergne et au mont Blanc.
+,  Retour à Lyon.
+,  Course à la Grande Chartreuse.
+,  Mort de Madame de Caud.
+,  Années de ma vie mille huit cent cinq et mille huit cent six.
+,  Je reviens à Paris.
+,  Je pars pour le Levant.
+,  Je m'embarque à Constantinople sur un bâtiment qui portait des pèlerins pour la Syrie.
+,  De Tunis jusqu'à ma rentrée en France par l'Espagne.
+,  Réflexions sur mon voyage.
+,  Mort de Julien.
 Le petit hôtel que je louai fut occupé depuis par M.
 Je rentrais, et j'essayais de m'endormir au bruit de mon peuplier.
 Quelques-unes des personnes de l'ancienne société de madame de Beaumont m'introduisirent dans de nouveaux châteaux.
@@ -844,28 +828,28 @@ J'ai fait cette nuit de longues réflexions sur ton caractère et ta manière d'
 Voilà la dernière lettre de moi que tu recevras le matin.
 J'ai beau te faire part de mes idées.
 Je ne veux pas gêner sa politesse.
-Quelle pitié que l'attention que je me porte! Dieu ne peut plus m'affliger qu'en toi.
+Quelle pitié que l'attention que je me porte ! Dieu ne peut plus m'affliger qu'en toi.
 Adieu, mon ami.
 Tu seras peut-être étonné de mon langage depuis hier matin.
 Bonjour, mon pauvre frère.
 Je possédais ce {p.quatre cent quatre-vingt-seize} bien sans m'en douter.
 Cependant je suis assez contente, depuis hier, de mon courage.
 Je me suis délaissée.
-Continue à être toujours aimable envers moi: ce sera humanité ces jours-ci.
+Continue à être toujours aimable envers moi : ce sera humanité ces jours-ci.
 Bonjour, mon ami.
-À tantôt, j'espère.» «Sois tranquille, mon ami; ma santé se rétablit à vue d'oeil.
+À tantôt, j'espère.» «Sois tranquille, mon ami ; ma santé se rétablit à vue d'oeil.
 Je me demande souvent pourquoi j'apporte tant de soin à l'étayer.
 Je suis comme un insensé qui édifierait une forteresse au milieu d'un désert.
-«--Nous retrouverons bientôt ce que nous avons perdu.
+«, Nous retrouverons bientôt ce que nous avons perdu.
 Nous en approchons tous les jours à grands {p.quatre cent quatre-vingt-dix-sept} pas.
 Encore un peu, et il n'y aura plus de quoi pleurer.
-C'est nous qui mourons: ce que nous aimons vit et ne mourra point.
+C'est nous qui mourons : ce que nous aimons vit et ne mourra point.
 Si tu veux, je recommencerai demain et t'en conterai peut-être davantage.
 Bonsoir, mon ami.
 Bonjour, mon ami.
 «Je te dis à mon réveil mille tendresses et te donne cent bénédictions.
-Ne me viens tantôt qu'à quatre heures; je compte être dehors jusqu'à ce moment.
-Je ne veux plus m'occuper de tout cela; de ce moment-ci, je m'abandonne.
+Ne me viens tantôt qu'à quatre heures ; je compte être dehors jusqu'à ce moment.
+Je ne veux plus m'occuper de tout cela ; de ce moment-ci, je m'abandonne.
 Mes idées, alors, cherchaient à surmonter mon courage.
 J'éprouve quelquefois une grande répugnance de coeur à boire mon calice.
 Remplis ma mémoire de souvenirs agréables qui prolongent auprès de toi mon existence.
@@ -873,7 +857,7 @@ Puisque tu comptes sur moi aujourd'hui, j'irai tantôt te voir à onze heures.
 Nous arrangerons ensemble ce qui te conviendra le mieux pour l'avenir.
 Je lui proposai de venir avec nous.
 Elle me répondit qu'elle voulait passer l'été seule, et qu'elle allait renvoyer Virginie à Fougères.
-Je la quittai; elle était plus tranquille.
+Je la quittai ; elle était plus tranquille.
 Madame de Chateaubriand partit pour Vichy, et je me disposai à la suivre.
 Avant de quitter Paris, j'allai revoir Lucile.
 Écris-moi à Villeneuve.
@@ -902,10 +886,7 @@ Comme j'étais couché tout habillé, je fus bientôt debout, m'enquérant de la
 De temps en temps un cri s'élevait de la proue, quand on revoyait le Carmel.
 J'aperçus enfin, moi-même, cette montagne, comme une tache ronde au-dessous des rayons du soleil.
 Je me mis alors à genoux à la manière des Latins.
-À deux heures de l'après-midi, nous revîmes Jaffa.
 «Un bateau se détacha de la terre avec trois religieux.
-Il était profondément encaissé, et roulait avec lenteur une onde épaisse: c'était le Jourdain...
-«Les Bethléémites se dépouillèrent et se plongèrent dans le Jourdain.
 «Nous levâmes l'ancre à deux heures.
 Un pilote nous mit hors du port.
 Le vent était faible et de la partie du midi.
@@ -919,16 +900,16 @@ Quand j'arrivai d'Alexandrie, nous jetâmes l'ancre en face les débris de la ci
 Je les regardais {p.cinq cent vingt-sept} du bord sans pouvoir deviner ce que c'était.
 Je la visitai avant de m'embarquer pour l'Europe.
 Il y a aussi comme les distributions de bains qui sont submergés par la mer.
-Il existe encore de très belles citernes; on en voyait d'autres qui étaient comblées.
+Il existe encore de très belles citernes ; on en voyait d'autres qui étaient comblées.
 Le peu d'habitants qui occupent ces contrées cultivent les terres qui leur sont nécessaires.
-J'arrivai à Paris avant les nouvelles que je donnais de moi: j'avais devancé ma vie.
+J'arrivai à Paris avant les nouvelles que je donnais de moi : j'avais devancé ma vie.
 Je vous rends la justice qui vous est due à tant de titres.
 «J'ai l'honneur d'être, et je m'en vante, votre franc admirateur.
 Rue Caumartin, nº vingt-trois.
 Abd-el-Ouald fait toujours des siennes à la Mecque.
 «J'ai l'honneur d'être, etc.
 Des circonstances indépendantes de ma volonté m'empêchèrent de voir mademoiselle Dupont.
-Voudrais-je revoir ces contrées lointaines? Une ou deux, peut-être.
+Voudrais-je revoir ces contrées lointaines ? Une ou deux, peut-être.
 À la vue de ce voyage, j'en médite un plus grand.
 Les feux de mon bûcher ont prévenu ceux de l'hymen.
 Ma vocation est définitivement pour l'hôpital où gît la vieille société.
@@ -938,28 +919,29 @@ Le second retour du roi met fin à son second exil.
 Les deux beaux-frères restèrent jusqu'à la fin dans les meilleurs termes.
 Et il n'y a pas manqué.
 Revenu d'Amérique, et à la veille d'émigrer, M.
-Monsieur de Chateaubriand va se trouver entre deux  oncles.
+Monsieur de Chateaubriand va se trouver entre deux oncles.
 Je cite mes auteurs.
-Quand l'auteur  d'_Atala_ commença à faire du bruit, Monsieur Buisson dit à M.
+Quand l'auteur d'_Atala_ commença à faire du bruit, Monsieur Buisson dit à M.
 Elle a d'ailleurs contre elle des documents authentiques, des pièces irréfragables.
 Mais il y a plus.
 Cet oncle Buisson, «le riche négociant de Lorient», n'a jamais existé.
- C'est une vérité indubitable qu'il n'y a qu'un seul talent  dans le monde.
- Chaque livre portera un titre particulier.
- Au reste, mon cher ami, je passe ma vie fort tristement.
- J'ai revu la plupart des lieux que nous avions vus ensemble.
-Par ailleurs, j'ai  laissé là toutes vos anciennes connaissances.
-Je ne vois  presque plus P[anat].
-Quelques personnes m'ont questionné  sur votre compte.
+J'ai appris avec une grande et vraie joie vos heureux travaux au bord de l'Elbe.
+C'est une vérité indubitable qu'il n'y a qu'un seul talent dans le monde.
+Chaque livre portera un titre particulier.
+Au reste, mon cher ami, je passe ma vie fort tristement.
+J'ai revu la plupart des lieux que nous avions vus ensemble.
+Par ailleurs, j'ai laissé là toutes vos anciennes connaissances.
+Je ne vois presque plus P[anat].
+Quelques personnes m'ont questionné sur votre compte.
 J'ai répondu comme je le devais.
-Il paraît  que beaucoup _de petites gens_ sont peu contents de vous.
- Nous reverrons-nous jamais, mon cher ami? Je ne sais, mais  je suis triste.
+Il paraît que beaucoup _de petites gens_ sont peu contents de vous.
+Nous reverrons-nous jamais, mon cher ami ? Je ne sais, mais je suis triste.
 Des hauteurs du bonheur ne m'oubliez pas.
-Adieu, croyez au sincère, au  très sincère attachement de votre ami des terres de l'exil.
- Je ne signe point, ne signez plus.
-Le cousin vous dit mille  choses ainsi que Monsieur de L[amoignon].
-Le contrôleur des  finances n'a point tenu sa parole et je suis fort  malheureux.
-Rappelez-moi au souvenir de l'ancien ami  F[lins].
+Adieu, croyez au sincère, au très sincère attachement de votre ami des terres de l'exil.
+Je ne signe point, ne signez plus.
+Le cousin vous dit mille choses ainsi que Monsieur de L[amoignon].
+Le contrôleur des finances n'a point tenu sa parole et je suis fort malheureux.
+Rappelez-moi au souvenir de l'ancien ami F[lins].
 En un mois, il aurait écrit son ouvrage.
 Je ne saurais, je l'avoue, m'associer ici aux conclusions de l'honorable et savant écrivain.
 Madame de Farcy était morte le vingt-deux juillet mille sept cent quatre-vingt-dix-neuf.
@@ -969,69 +951,59 @@ Sa mère était morte le trente et un mai mille sept cent quatre-vingt-dix-huit.
 Il ne la reçut qu'assez longtemps après.
 Lisons maintenant la lettre du dix-neuf août.
 Il se divise en sept parties.
- La seconde se rapporte aux traditions des Écritures.
-Il est purement littéraire et  nous connaissons bien votre indulgence pour l'auteur.
-Nous  croyons que vous serez contente de ce que vous verrez.
+La seconde se rapporte aux traditions des Écritures.
+Il est purement littéraire et nous connaissons bien votre indulgence pour l'auteur.
+Nous croyons que vous serez contente de ce que vous verrez.
 Salut, bonheur et souvenir.
 Vous vous en procurerez un fort aisément.
- (Suscription) À la citoyenne...
- à Paris.
+(Suscription) À la citoyenne … à Paris.
 Cette lettre, comme celle du dix-neuf août, doit être reproduite en entier.
-Voici cette lettre:  Je reçois votre lettre en date du dix-sept septembre.
-La tristesse  qui y règne m'a pénétré l'âme.
-Vous m'embrassez les larmes  aux yeux, me dites-vous.
-Il aura désormais avec vous  toutes mes pensées.
- Il faut que je vous parle encore de l'ouvrage auquel vous  vous intéressez.
-Il formera deux volumes in-huit{o} de trois cent cinquante  pages chacun.
-Veillez aux  papiers publics lorsqu'il paraîtra; écrivez-moi souvent.
- Dulau et Cie, libraires_.
-_Mon nom est inutile sur  l'adresse_; mettez seulement après Dulau, deux étoiles...
-Nous parlons  sans cesse de vous.
+Voici cette lettre : Je reçois votre lettre en date du dix-sept septembre.
+La tristesse qui y règne m'a pénétré l'âme.
+Vous m'embrassez les larmes aux yeux, me dites-vous.
+Il aura désormais avec vous toutes mes pensées.
+Il faut que je vous parle encore de l'ouvrage auquel vous vous intéressez.
+Il formera deux volumes in-huit{o} de trois cent cinquante pages chacun.
+Veillez aux papiers publics lorsqu'il paraîtra ; écrivez-moi souvent.
+Dulau et Cie, libraires_.
+Nous parlons sans cesse de vous.
 Il vous aime presque autant que moi.
 Nous aurons à y revenir.
-Le citoyen  du B...
-Vous y retrouverez, en citation, les morceaux  qui vous ont plu davantage dans les _Natchez_.
- Je désire donc, mon cher ami, que vous prépariez les voies  auprès d'un libraire.
+Vous y retrouverez, en citation, les morceaux qui vous ont plu davantage dans les _Natchez_.
+Je désire donc, mon cher ami, que vous prépariez les voies auprès d'un libraire.
 C'est là mon unique espérance.
-vous parlera  (radiation de la liste {p.cinq cent soixante-deux} des émigrés).
- Du B...
- Peut-être même cette personne me devancera-t-elle.
-Elle  compte bien vous gronder pour votre paresse envers vos amis.
- Écrivez-moi sur le champ un petit mot; notre ami du B...
-se  chargera de me le faire passer.
+Peut-être même cette personne me devancera-t-elle.
+Elle compte bien vous gronder pour votre paresse envers vos amis.
 Nous serons à Paris le dix.
- Annoncez-moi à Madame F[ontanes] et réclamez pour moi ses  bontés.
+Annoncez-moi à Madame F[ontanes] et réclamez pour moi ses bontés.
 Je vous embrasse tendrement.
- C'est cette troisième édition que je publie.
-Ce  genre d'attaque, employé pour détruire l'effet d'un ouvrage  religieux, est fort connu.
- Mes sentiments religieux n'ont pas toujours été ce qu'ils  sont aujourd'hui.
+C'est cette troisième édition que je publie.
+Ce genre d'attaque, employé pour détruire l'effet d'un ouvrage religieux, est fort connu.
+Mes sentiments religieux n'ont pas toujours été ce qu'ils sont aujourd'hui.
 Je suis devenu chrétien.
-Obscur israélite,  j'apporte aujourd'hui mon grain de sable.
+Obscur israélite, j'apporte aujourd'hui mon grain de sable.
 La première édition du Génie du christianisme fut tirée à quatre mille exemplaires.
 L'ouvrage, je l'ai dit, avait paru le vingt-quatre germinal.
 L'heure, certes, était propice et solennelle.
 CHATEAUBRIAND ET Madame DE CUSTINE.
 Certes, dans ces deux volumes, l'auteur a mis de l'esprit, de l'intérêt, de la délicatesse.
 On me permettra cependant de tenir pour fâcheuses de telles publications.
-Cette correspondance existait pourtant; elle était aux mains d'un heureux collectionneur, Monsieur Chédieu de Robethon.
+Cette correspondance existait pourtant ; elle était aux mains d'un heureux collectionneur, Monsieur Chédieu de Robethon.
 Ce dernier n'avait pas moins de quarante lettres de Chateaubriand à Madame de Custine.
-Pas un signe de vie de votre part...
-_On_ se plaint de mes rigueurs et _on_ m'offre des  merveilles.
-ne peut être que Fouché.
+_On_ se plaint de mes rigueurs et _on_ m'offre des merveilles.
 Désintéressé, généreux, n'entendant rien aux affaires, Chateaubriand était parfois à court d'argent.
 Il y avait là une question de délicatesse et d'honneur.
 C'est dans ces circonstances qu'il s'adressa à Madame de Custine.
-Mais cela ne  serait rien si je n'avais à me plaindre de vous.
- Quant à moi, madame, je ne vous en demeure pas moins  attaché.
-Ainsi, madame, le ciel se  joue de nos projets et de nos espérances.
-Bien fou qui croit  aux sentiments qui paraissent les plus fermes et les plus  durables.
-J'ai été tellement le jouet des hommes et des  prétendus amis, que j'y renonce.
- Cette lettre très inattendue vous fera sans doute de la  peine.
-Vous vous  êtes fort trompée si vous avez cru que Madame...
-J'ai toujours cru, au reste, que vous avez  eu tort de me refuser.
-C'est la première  et la dernière fois que je vous parlerai de ces choses-là.
- C'est à vous maintenant à juger si cela doit nous éloigner  l'un de l'autre.
- Je vous recommande mon ami.
+Mais cela ne serait rien si je n'avais à me plaindre de vous.
+Quant à moi, madame, je ne vous en demeure pas moins attaché.
+Ainsi, madame, le ciel se joue de nos projets et de nos espérances.
+Bien fou qui croit aux sentiments qui paraissent les plus fermes et les plus durables.
+J'ai été tellement le jouet des hommes et des prétendus amis, que j'y renonce.
+Cette lettre très inattendue vous fera sans doute de la peine.
+J'ai toujours cru, au reste, que vous avez eu tort de me refuser.
+C'est la première et la dernière fois que je vous parlerai de ces choses-là.
+C'est à vous maintenant à juger si cela doit nous éloigner l'un de l'autre.
+Je vous recommande mon ami.
 Nous ne sommes encore qu'en mille huit cent quatre.
 Madame de Custine ne mourra que vingt-deux ans plus tard.
 Chateaubriand approuva ces projets, et peut-être en fut-il l'inspirateur.
@@ -1039,50 +1011,49 @@ Elle ne laissera plus à Chateaubriand une heure de répit.
 Monsieur Bardoux les tient naturellement pour fondés.
 Bardoux n'a pas eu de chance.
 Un moment, il crut avoir partie gagnée, mais le succès espéré ne vint pas.
- J'avais de grandes espérances.
-Elles ont été trompées pour  le moment.
-Mais j'ai la promesse pour Astolphe pour  une autre circonstance qui n'est pas très éloignée.
- Mille tendresses à tous.
+J'avais de grandes espérances.
+Elles ont été trompées pour le moment.
+Mais j'ai la promesse pour Astolphe pour une autre circonstance qui n'est pas très éloignée.
+Mille tendresses à tous.
 C'est à lui-même et à lui seul qu'Astolphe de Custine doit imputer d'avoir tout perdu.
 Monsieur Chédieu de Robethon s'est vu dans la nécessité d'en parler, au moins sommairement.
 Il me serait impossible de reproduire ici son récit.
 À peine y puis-je faire allusion.
 À partir de ce déplorable événement, tout fut fini pour Madame de Custine.
 Chateaubriand ne fut pas ingrat.
-Les obsèques furent célébrées, le dimanche matin, à  Notre-Dame.
- Mais si ce dévouement courageux fit sa gloire, il n'a pas  fait son bonheur.
-Il n'arrachait que l'estime  où tant d'autres auraient obtenu enthousiasme.
-Mais à l'aspect de ce tombeau,  tous les ennemis sont désarmés.
-Ici les haines finissent, et  la vérité seule demeure.
-Les talents de La Harpe ne seront  plus enfin contestés.
-Les circonstances où la mort le  frappe, rendent sa perte encore plus douloureuse.
-Ses mains mourantes se sont détachées  avec peine du dernier monument qu'il élevait.
- Les injustices se réparaient.
+Le convoi est parti à une heure pour le cimetière de la barrière de Vaugirard.
+Mais si ce dévouement courageux fit sa gloire, il n'a pas fait son bonheur.
+Il n'arrachait que l'estime où tant d'autres auraient obtenu enthousiasme.
+Mais à l'aspect de ce tombeau, tous les ennemis sont désarmés.
+Ici les haines finissent, et la vérité seule demeure.
+Les talents de La Harpe ne seront plus enfin contestés.
+Les circonstances où la mort le frappe, rendent sa perte encore plus douloureuse.
+Ses mains mourantes se sont détachées avec peine du dernier monument qu'il élevait.
+Les injustices se réparaient.
 Ils savaient bien, au fond, que cette sincérité ne pouvait être mise en doute.
 Je prie MM.
-Je nomme Monsieur Boulard,  notaire, mon ami depuis vingt ans, mon exécuteur  testamentaire.
+Je nomme Monsieur Boulard, notaire, mon ami depuis vingt ans, mon exécuteur testamentaire.
 L'épisode est des plus intéressants, et vaut, je crois, d'être rappelé.
 La Harpe avait pour ami Monsieur Récamier, le mari de la belle Juliette.
 Mais la mère cacha avec soin cette disposition à l'épouseur, et entraîna sa fille.
 Ici encore, l'attitude et la conduite de La Harpe furent de tous points irréprochables.
- Ma confiance a été aveugle et on en a indignement abusé.
+Ma confiance a été aveugle et on en a indignement abusé.
 Bien des choses d'ailleurs les rapprochaient.
 Émigrés tous les deux, ils avaient combattu sous le même drapeau.
 Leur exil avait eu même durée.
 On avait vu alors son ardeur philosophique se changer en une piété tendre.
 Mais il ne s'en tint pas à des articles de journaux.
-Engagez Monsieur Clausel à commencer le plus tôt  possible son _édition chrétienne_.
-Le monument de Madame de Beaumont me coûtera  neuf francs.
-J'ai vendu tout ce que j'avais pour en payer  une partie...
-Clausel remplissait à merveille ces conditions; aussi s'acquitta-t-il de sa tâche avec un plein succès.
+Engagez Monsieur Clausel à commencer le plus tôt possible son _édition chrétienne_.
+Le monument de Madame de Beaumont me coûtera neuf francs.
+Clausel remplissait à merveille ces conditions ; aussi s'acquitta-t-il de sa tâche avec un plein succès.
 Son édition abrégée du Génie du Christianisme fut plusieurs fois réimprimée.
 Une indemnité de dix francs était alors allouée à chaque député.
 Madame de Chateaubriand l'appelait, dès cette époque «notre meilleur ami».
- J'irai donc incessamment à la Marine solliciter un _brevet  de mort_ pour son neveu.
-Monsieur de Chateaubriand l'a rencontré l'autre jour, chez le  restaurateur.
-Il a grand tort pour l'avenir, mais il a raison pour  le présent.
-Mais voilà une des plus longues  lettres que j'aie jamais écrites.
-Souvenez-vous seulement toujours du tendre et  sincère attachement que je vous ai voué.
+J'irai donc incessamment à la Marine solliciter un _brevet de mort_ pour son neveu.
+Monsieur de Chateaubriand l'a rencontré l'autre jour, chez le restaurateur.
+Il a grand tort pour l'avenir, mais il a raison pour le présent.
+Mais voilà une des plus longues lettres que j'aie jamais écrites.
+Souvenez-vous seulement toujours du tendre et sincère attachement que je vous ai voué.
 Il fit partie des Chambres jusqu'en mille huit cent vingt-sept.
 Selon le mot de Joubert, il était à la fois ardent et doux.
 Adieu, aimez-nous aussi et vivez longtemps.
@@ -1091,244 +1062,211 @@ La lettre est très longue.
 Monsieur Clausel de Coussergues mourut le sept juillet mille huit cent quarante-six.
 Madame de Chateaubriand était morte le neuf février mille huit cent quarante-sept.
 Les noms de Clausel et de Chateaubriand ne se sauraient séparer.
-Ce  sont ces lettres que l'on donne ici.
-Monsieur de Cl...
-était le frère de Clausel de Coussergues.
+Ce sont ces lettres que l'on donne ici.
 Tout le monde avait du talent dans la famille des Clausel.
-Frère de Monsieur Clausel de  Coussergues, membre de la Chambre des députés, et de M.
-L'abbé Clausel de Montals fut appelé à l'épiscopat en mille huit cent vingt-quatre.
+Frère de Monsieur Clausel de Coussergues, membre de la Chambre des députés, et de M.
 Dans l'article du Journal des Débats, il est question de Monsieur Clausel, grand vicaire d'Amiens.
 «Peu d'hommes, dit la Biographie universelle, ont eu plus d'agrément dans l'esprit.
-Ces  mémoires, écrits sur des cahiers reliés en maroquin rouge,  je les ai lus.
+Ces mémoires, écrits sur des cahiers reliés en maroquin rouge, je les ai lus.
 La révélation de Maxime du Camp ne laissa pas de causer quelque surprise.
-«Vraiment, écrit-il, sa femme (de Chateaubriand) entend mieux que lui les petites choses...
 Chez elle, pas la moindre trace de bas-bleuisme.
-Je commençai à  rêver.
-Si Monsieur Réal voyait le prisonnier...
-se sentait  touché par sa franchise...
-L'ordre du premier  Consul ne lui fut remis qu'à cinq heures du matin...
-Ils contenaient l'injonction...
+Je commençai à rêver.
 in-huit{o}).
-Je n'ai pas connu une âme plus noble et plus  généreuse.
-Elle était  très liée avec Monsieur de Chateaubriand, alors en Terre-Sainte.
- Elle parlait de l'Alhambra avec l'enthousiasme d'une  artiste...
- (_Mémoires et Souvenirs du baron Hyde de Neuville_, tome un,  p.
+Je n'ai pas connu une âme plus noble et plus généreuse.
+Elle était très liée avec Monsieur de Chateaubriand, alors en Terre-Sainte.
+(_Mémoires et Souvenirs du baron Hyde de Neuville_, tome un, p.
 quatre cent quarante-quatre et suiv.).
 {p.six cent quatre} À quelques années de là, Madame de Noailles devenait folle.
-Sa folie n'est  point violente, mais elle est déchirante.
+Sa folie n'est point violente, mais elle est déchirante.
 Cela est déchirant.
-Vous sentirez tout  cela.
-Je ne connais que Monsieur de Chateaubriand et vous qui  puissiez m'entendre sur ce sujet.
- Je ne puis penser qu'à cela.
+Je ne connais que Monsieur de Chateaubriand et vous qui puissiez m'entendre sur ce sujet.
+Je ne puis penser qu'à cela.
 cent quatre-vingt-quatre.) {p.six cent cinq} TABLE DES MATIÈRES Je vais trouver ma mère.
--- À Saint-Malo.
--- Progrès de la Révolution.
--- Mon mariage.
--- Anciennes et nouvelles connaissances.
--- L'abbé Barthélemy.
--- Changement et physionomie de Paris.
--- Club des Cordeliers.
--- Camille Desmoulins.
--- Fabre d'Églantine.
--- Opinion de Monsieur de Malesherbes sur l'Émigration.
--- Je joue et je perds.
--- Aventure du fiacre.
--- Madame Roland.
--- Barère à l'Ermitage.
--- Seconde fédération du quatorze juillet.
--- Préparatifs d'émigration.
--- J'émigre avec mon frère.
--- Aventure de Saint-Louis.
--- Nous passons la frontière.
--- Dîner chez le baron de Breteuil.
--- Départ pour l'armée des princes.
--- Rencontre de l'armée prussienne -- J'arrive à Trèves.
--- Armée des princes.
--- Amphithéâtre romain.
--- Les chemises de Henri quatre.
--- Vie de soldat.
--- Dernière représentation de l'ancienne France militaire.
--- Commencement du siège de Thionville.
--- Le chevalier de la Baronnais.
--- Continuation du siège.
--- Saints dans les bois.
--- Bataille de Bouvines.
--- Rencontre imprévue.
--- Effets d'un boulet et d'une bombe.
--- Marché du camp.
--- Nuit aux faisceaux d'armes.
--- Chiens hollandais.
--- Souvenir des Martyrs.
--- Quelle était ma compagnie.
--- Aux avant-postes.
--- Passage de la Moselle.
--- Libba sourde et muette.
--- Attaque sous Thionville.
--- Levée du siège.
--- Entrée à Verdun.
--- Maladie prussienne.
--- Petite vérole.
--- Les Ardennes.
---Fourgons du prince de Ligne.
--- Femmes de Namur.
--- Je retrouve mon frère à Bruxelles.
--- Nos derniers adieux.
--- Passage à Jersey.
--- On me met à terre à Guernesey.
--- La femme du pilote.
---Mon oncle de Bedée et sa famille.
--- Description de l'île.
--- Le duc de Berry.
--- Parents et amis disparus.
--- Malheur de vieillir.
--- Je passe en Angleterre.
--- Dernière rencontre avec Gesril ..............................................
-un Literary Fund.
--- Grenier de Holborn.
--- Dépérissement de ma santé.
--- Visite aux médecins.
--- Émigrés à Londres.
--- Travaux littéraires.
--- Ma société avec Hingant.
--- Nos promenades.
--- Une nuit dans l'église de Westminster.
--- Secours imprévu.
--- Logement sur un cimetière.
--- Nouveaux camarades d'infortune.
--- Nos plaisirs.
--- Mon cousin de la Boüétardais.
--- Fête somptueuse.
--- Fin de mes quarante écus.
--- Nouvelle détresse.
--- Table d'hôte.
--- Dîner à London-Tavern.
--- Manuscrits de Camden.
--- Mes occupations dans la province.
--- Mort de mon frère.
--- Malheurs de ma famille.
--- Deux Frances.
--- Lettres de Hingant.
--- Retour à Londres.
--- Rencontre extraordinaire.
--- Défaut de mon caractère.
--- L'Essai historique sur les révolutions.
--- Son effet.
--- Lettre de Lemierre, neveu du poète.
--- Cléry ........
-cent sept Mort de ma mère.
--- Retour à la religion.
--- Génie du Christianisme.
--- Lettre du chevalier de Panat.
--- Mon oncle M.
-de Bedée: sa fille aînée.
--- Littérature anglaise.
--- Dépérissement de l'ancienne école.
--- Romans anciens.
--- Romans nouveaux.
--- Walter Scott.
--- Poésie nouvelle.
--- Lord Byron.
--- L'Angleterre de Richmond à Greenwich.
--- Course avec Peltier.
--- Collège d'Eton.
--- Moeurs privées.
--- Moeurs politiques.
--- George trois.
--- Rentrée des émigrés en France.
--- Mort de lord Londonderry.
--- Fin de ma carrière de soldat et de voyageur.
--- Je débarque à Calais .......
-cent soixante-dix-sept Séjour à Dieppe.
--- Deux sociétés.
--- Où en sont mes Mémoires.
--- Année mille huit cents.
--- Vue de la France.
--- J'arrive à Paris.
--- Changement de la société.
--- Année de ma vie mille huit cent un.
--- Le Mercure.
---Année de ma vie mille huit cent un -- Madame de Beaumont, sa société.
--- Année de ma vie mille huit cent un.
--- Été à Savigny.
--- Année de ma vie mille huit cent deux.
--- Années de ma vie mille huit cent deux et mille huit cent trois.
--- Génie du christianisme.
--- Chute annoncée.
--- Cause du succès final.
--- Génie du christianisme; suite.
--- Défauts de l'ouvrage ......
--- Madame de Custine.
--- Monsieur de Saint-Martin.
--- Madame d'Houdetot et Saint-Lambert.
--- Voyage dans le midi de la France, mille huit cent deux.
--- Années de ma vie mille huit cent deux et mille huit cent trois.
--- Monsieur de la Harpe.
--- Sa mort.
--- Années de ma vie mille huit cent deux et mille huit cent trois.
--- Entrevue avec Bonaparte.
--- Année de ma vie mille huit cent trois.
--- Je suis nommé premier secrétaire d'ambassade à Rome.
--- Année de ma vie mille huit cent trois.
--- Voyage de Paris aux Alpes de Savoie.
--- Du mont Cenis à Rome.
--- Milan et Rome.
--- Palais du cardinal Fesch.
--- Mes occupations.
--- Année de ma vie mille huit cent trois.
--- Manuscrit de Madame de Beaumont.
--- Lettres de Madame de Caud.
--- Arrivée de Madame de Beaumont à Rome.
--- Lettres de ma soeur.
--- Lettre de Madame de Krüdener.
--- Mort de Madame de Beaumont.
--- Année de ma vie mille huit cent trois.
--- Années de ma vie mille huit cent trois et mille huit cent quatre.
--- Première idée de mes Mémoires.
--- Je suis nommé ministre de France dans le Valais.
--- Départ de Rome.
--- Année de ma vie mille huit cent quatre.
--- République du Valais.
--- Visite au château des Tuileries.
--- Hôtel de Montmorin.
--- J'entends crier la mort du duc d'Enghien.
--- Je donne ma démission ...............................................
-deux cent quatre-vingt-treize Mort du duc d'Enghien.
--- Année de ma vie mille huit cent quatre.
--- Le général Hulin.
--- Le duc de Rovigo.
--- Monsieur de Talleyrand.
--- Part de chacun.
--- Bonaparte, son sophisme et ses remords.
--- Ce qu'il faut conclure de tout ce récit.
--- Inimitiés enfantées par la mort du duc d'Enghien.
--- Un article du Mercure.
--- Changement dans la vie de Bonaparte.
--- Abandon de Chantilly ................
-quatre cent neuf Année de ma vie mille huit cent quatre.
--- Je viens demeurer rue Miromesnil.
--- Alexis de Tocqueville.
--- Le Ménil.
--- Madame de Coislin.
--- Voyage à Vichy, en Auvergne et au mont Blanc.
--- Retour à Lyon.
--- Course à la Grande Chartreuse.
--- Mort de Madame de Caud.
--- Années de ma vie mille huit cent cinq et mille huit cent six.
--- Je reviens à Paris.
--- Je pars pour le Levant.
--- Je m'embarque à Constantinople sur un bâtiment qui portait des pèlerins pour la Syrie.
--- De Tunis jusqu'à ma rentrée en France par l'Espagne.
--- Réflexions sur mon voyage.
--- Mort de Julien ...
-cinq cent quarante-neuf III.--Fontanes et Chateaubriand ................................
-cinq cent cinquante-deux IV.--Comment fut composé le «Génie du Christianisme» ...........
-cinq cent cinquante-quatre V.--La rentrée en France .......................................
-cinq cent soixante et un VI.--Le Génie du christianisme .................................
-cinq cent soixante-trois VII.--Chateaubriand et Madame de Custine ..........................
-cinq cent soixante-huit VIII.--La mort de La Harpe .....................................
-cinq cent soixante-dix-huit IX.--Les quatre Clausel ........................................
-cinq cent quatre-vingt-six X.--Le cahier rouge ............................................
-cinq cent quatre-vingt-treize XI.--Le Conseiller Réal et l'anecdote du duc de Rovigo .........
-cinq cent quatre-vingt-dix-huit XII.--La comtesse de Noailles ..................................
-six cent deux Paris.(France).--Imp.
-Paul Dupont (Cl.)--
+,  À Saint-Malo.
+,  Progrès de la Révolution.
+,  Mon mariage.
+,  Anciennes et nouvelles connaissances.
+,  L'abbé Barthélemy.
+,  Changement et physionomie de Paris.
+,  Club des Cordeliers.
+,  Camille Desmoulins.
+,  Fabre d'Églantine.
+,  Opinion de Monsieur de Malesherbes sur l'Émigration.
+,  Je joue et je perds.
+,  Aventure du fiacre.
+,  Madame Roland.
+,  Barère à l'Ermitage.
+,  Seconde fédération du quatorze juillet.
+,  Préparatifs d'émigration.
+,  J'émigre avec mon frère.
+,  Aventure de Saint-Louis.
+,  Nous passons la frontière.
+,  Dîner chez le baron de Breteuil.
+,  Départ pour l'armée des princes.
+,  Rencontre de l'armée prussienne ,  J'arrive à Trèves.
+,  Armée des princes.
+,  Amphithéâtre romain.
+,  Les chemises de Henri quatre.
+,  Vie de soldat.
+,  Dernière représentation de l'ancienne France militaire.
+,  Commencement du siège de Thionville.
+,  Le chevalier de la Baronnais.
+,  Continuation du siège.
+,  Saints dans les bois.
+,  Bataille de Bouvines.
+,  Rencontre imprévue.
+,  Effets d'un boulet et d'une bombe.
+,  Marché du camp.
+,  Nuit aux faisceaux d'armes.
+,  Chiens hollandais.
+,  Souvenir des Martyrs.
+,  Quelle était ma compagnie.
+,  Aux avant-postes.
+,  Passage de la Moselle.
+,  Libba sourde et muette.
+,  Attaque sous Thionville.
+,  Levée du siège.
+,  Entrée à Verdun.
+,  Maladie prussienne.
+,  Petite vérole.
+,  Les Ardennes.
+, Fourgons du prince de Ligne.
+,  Femmes de Namur.
+,  Je retrouve mon frère à Bruxelles.
+,  Nos derniers adieux.
+,  Passage à Jersey.
+,  On me met à terre à Guernesey.
+,  La femme du pilote.
+, Mon oncle de Bedée et sa famille.
+,  Description de l'île.
+,  Le duc de Berry.
+,  Parents et amis disparus.
+,  Malheur de vieillir.
+,  Je passe en Angleterre.
+,  Dernière rencontre avec Gesril  … un Literary Fund.
+,  Grenier de Holborn.
+,  Dépérissement de ma santé.
+,  Visite aux médecins.
+,  Émigrés à Londres.
+,  Ma société avec Hingant.
+,  Nos promenades.
+,  Une nuit dans l'église de Westminster.
+,  Secours imprévu.
+,  Logement sur un cimetière.
+,  Nouveaux camarades d'infortune.
+,  Nos plaisirs.
+,  Mon cousin de la Boüétardais.
+,  Fête somptueuse.
+,  Fin de mes quarante écus.
+,  Table d'hôte.
+,  Dîner à London-Tavern.
+,  Manuscrits de Camden.
+,  Mes occupations dans la province.
+,  Mort de mon frère.
+,  Malheurs de ma famille.
+,  Deux Frances.
+,  Lettres de Hingant.
+,  Retour à Londres.
+,  Rencontre extraordinaire.
+,  Défaut de mon caractère.
+L'Essai historique sur les révolutions.
+,  Son effet.
+,  Lettre de Lemierre, neveu du poète.
+,  Cléry  … cent sept Mort de ma mère.
+,  Retour à la religion.
+,  Génie du Christianisme.
+,  Lettre du chevalier de Panat.
+,  Mon oncle M.
+de Bedée : sa fille aînée.
+,  Littérature anglaise.
+,  Dépérissement de l'ancienne école.
+,  Romans anciens.
+,  Romans nouveaux.
+,  Poésie nouvelle.
+,  Lord Byron.
+,  L'Angleterre de Richmond à Greenwich.
+,  Course avec Peltier.
+,  Collège d'Eton.
+,  Moeurs politiques.
+,  Rentrée des émigrés en France.
+,  Mort de lord Londonderry.
+,  Fin de ma carrière de soldat et de voyageur.
+,  Je débarque à Calais  … cent soixante-dix-sept Séjour à Dieppe.
+,  Deux sociétés.
+,  Où en sont mes Mémoires.
+Année mille huit cents.
+,  Vue de la France.
+,  J'arrive à Paris.
+,  Changement de la société.
+,  Année de ma vie mille huit cent un.
+,  Le Mercure.
+, Année de ma vie mille huit cent un ,  Madame de Beaumont, sa société.
+,  Année de ma vie mille huit cent un.
+,  Été à Savigny.
+,  Année de ma vie mille huit cent deux.
+,  Années de ma vie mille huit cent deux et mille huit cent trois.
+,  Génie du christianisme.
+,  Chute annoncée.
+,  Cause du succès final.
+Génie du christianisme ; suite.
+,  Madame de Custine.
+,  Monsieur de Saint-Martin.
+,  Madame d'Houdetot et Saint-Lambert.
+,  Voyage dans le midi de la France, mille huit cent deux.
+,  Années de ma vie mille huit cent deux et mille huit cent trois.
+,  Monsieur de la Harpe.
+,  Sa mort.
+,  Années de ma vie mille huit cent deux et mille huit cent trois.
+,  Entrevue avec Bonaparte.
+,  Année de ma vie mille huit cent trois.
+,  Je suis nommé premier secrétaire d'ambassade à Rome.
+,  Année de ma vie mille huit cent trois.
+,  Voyage de Paris aux Alpes de Savoie.
+,  Du mont Cenis à Rome.
+,  Milan et Rome.
+,  Palais du cardinal Fesch.
+,  Mes occupations.
+,  Année de ma vie mille huit cent trois.
+,  Manuscrit de Madame de Beaumont.
+,  Lettres de Madame de Caud.
+,  Arrivée de Madame de Beaumont à Rome.
+,  Lettres de ma soeur.
+,  Lettre de Madame de Krüdener.
+,  Mort de Madame de Beaumont.
+,  Année de ma vie mille huit cent trois.
+,  Années de ma vie mille huit cent trois et mille huit cent quatre.
+,  Première idée de mes Mémoires.
+,  Je suis nommé ministre de France dans le Valais.
+,  Départ de Rome.
+,  Année de ma vie mille huit cent quatre.
+,  République du Valais.
+,  Visite au château des Tuileries.
+,  Hôtel de Montmorin.
+,  J'entends crier la mort du duc d'Enghien.
+,  Je donne ma démission  … deux cent quatre-vingt-treize Mort du duc d'Enghien.
+,  Année de ma vie mille huit cent quatre.
+,  Le général Hulin.
+,  Le duc de Rovigo.
+,  Monsieur de Talleyrand.
+,  Part de chacun.
+,  Bonaparte, son sophisme et ses remords.
+,  Ce qu'il faut conclure de tout ce récit.
+,  Inimitiés enfantées par la mort du duc d'Enghien.
+,  Un article du Mercure.
+,  Changement dans la vie de Bonaparte.
+,  Abandon de Chantilly  … quatre cent neuf Année de ma vie mille huit cent quatre.
+,  Je viens demeurer rue Miromesnil.
+,  Alexis de Tocqueville.
+,  Le Ménil.
+,  Madame de Coislin.
+,  Voyage à Vichy, en Auvergne et au mont Blanc.
+,  Retour à Lyon.
+,  Course à la Grande Chartreuse.
+,  Mort de Madame de Caud.
+,  Années de ma vie mille huit cent cinq et mille huit cent six.
+,  Je reviens à Paris.
+,  Je pars pour le Levant.
+,  Je m'embarque à Constantinople sur un bâtiment qui portait des pèlerins pour la Syrie.
+,  De Tunis jusqu'à ma rentrée en France par l'Espagne.
+,  Réflexions sur mon voyage.
+Paul Dupont (Cl.), 
