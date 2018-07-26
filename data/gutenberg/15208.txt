@@ -38,6 +38,7 @@ Jacquemin ne répondit rien.
 Jacquemin, dit le commissaire de police, répondez.
 Est-il vrai que vous ayez tué votre femme ? Même silence.
 Eh bien ! monsieur Ledru, dit le docteur en s'adressant au maire, allons impasse des Sergents.
+Mais pourquoi n'y veux-tu pas venir ? demanda le maire.
 Il faut que vous veniez, dit le commissaire de Police.
 Eh bien ! je me serais tué.
 Oui, à vous, tout ce que vous voudrez, monsieur Ledru, demandez, interrogez.
@@ -144,7 +145,7 @@ Laquelle ? C'est que vous viendrez signer le procès-verbal chez moi.
 Avec le plus grand plaisir, monsieur, mais quand cela ? Dans une heure à peu près.
 Je vous montrerai ma maison ; elle a appartenu à Scarron, cela vous intéressera.
 Dans une heure, monsieur, je serai chez vous.
-[Illustration] Une heure après, j'étais chez Monsieur Ledru.
+Une heure après, j'étais chez Monsieur Ledru.
 Le hasard fit que je le rencontrai dans la cour.
 Après le dîner, vous serez libre de rester ou de partir.
 Aujourd'hui, par extraordinaire, nous dînerons à trois heures et demie ou quatre.
@@ -224,7 +225,7 @@ Eh bien ! vous vous trompez, mon cher ami, voilà tout.
 Le docteur fit un geste de doute.
 N'importe, vous comprendrez tout seul alors.
 Voyons, parlez, dit le docteur d'un ton incrédule.
-[Illustration : Monsieur Ledru.] Voyons ces faits.
+Voyons ces faits.
 Les voici : un° le siège du sentiment est dans le cerveau, n'est-ce pas ? C'est probable.
 Des preuves ? Les voici : Haller, dans ses Éléments de physique, t.
 Il s'est trompé, je le veux bien.
@@ -260,10 +261,12 @@ J'entendais ces rugissements venir à moi comme on entend ceux d'une cataracte.
 Le couperet glissa, la tête détachée du tronc tomba sur la plate-forme et rebondit.
 Un arrêt du tribunal révolutionnaire venait de le condamner à trois mois de prison.
 Je lui demandai ce qui avait pu le porter à cette action.
+Pendant le récit de Monsieur Ledru, la nuit était tout à fait venue.
 On n'entendait donc pas un souffle.
 Le docteur seul ouvrait la bouche.
 Je lui saisis la main pour l'empêcher de parler, et, en effet, il se tut.
 Au bout de quelques secondes, Monsieur Ledru continua.
+Ce ne pouvaient être des malfaiteurs : il était dix heures du soir à peine.
 Il me semble que tu pourrais bien dire : citoyens.
 Je me demandais quelle pouvait être cette femme.
 Le problème était impossible à résoudre.
@@ -319,6 +322,7 @@ Demain, à dix heures, cher Albert.
 Je voulus lui baiser la main, elle me présenta le front.
 Le lendemain soir, à neuf heures et demie, j'étais dans la rue.
 À dix heures moins un quart, Solange ouvrait la porte.
+Chacun de nous avait devancé l'heure.
 Je ne fis qu'un bond jusqu'à elle.
 Je vois que vous avez de bonnes nouvelles, dit-elle en souriant.
 D'excellentes ; d'abord, voici votre carte.
@@ -449,7 +453,6 @@ Oh ! pour le coup, je tressaillis.
 Albert ! … Une seule personne au monde me nommait ainsi.
 Alors, il me sembla que des lèvres encore tièdes s'appuyaient sur ma main.
 Oh ! je jetai un cri terrible.
-[Illustration :, Oh ! je jetai un cri terrible.
 Je ne me l'explique pas, dit Monsieur Ledru ; je le raconte ; voilà tout.
 Parbleu ! la belle affaire ! Par une hallucination.
 Le froid, la pluie, l'obscurité, avaient troublé les organes de M.
@@ -485,6 +488,7 @@ Je m'approchai doucement sur la pointe du pied, et j'entendis la voix de John.
 Sa folie, tu sais, c'est de voir un chat noir et codeur de feu.
 Ce soir, il m'a demandé si je ne voyais pas ce chat sur ses genoux.
 Et qu'as-tu répondu ? demanda la femme de chambre.
+Pardieu ! j'ai répondu que je le voyais, dit John.
 Pauvre cher homme, je n'ai pas voulu le contrarier ; alors devine ce qu'il a fait.
 Il me donne vingt-cinq livres par an pour voir un chat : je le vois.
 Qu'il m'en donne trente, et j'en verrai deux.
@@ -541,6 +545,7 @@ La journée paraît longue ainsi passée en tête à tête.
 Eh bien ! dit-il en se levant, victoire ! Comment ! victoire ? demanda le malade.
 Le docteur regarda sa montre, mais ne dit rien.
 Vous vous étiez trompé, n'est-ce pas, docteur ? dit le malade ; il est six heures juste.
+Oui ; eh bien ? Eh bien ! voilà le squelette qui entre.
 Et le malade se rejeta en arrière avec un profond soupir.
 Le docteur regarda de tous côtés.
 Où le voyez-vous donc ? demanda-t-il.
@@ -635,6 +640,7 @@ Le bruit que je produisis en ouvrant la porte fit retourner le voleur.
 Malgré la menace du pistolet dirigé contre moi, j'avançai jusqu'aux marches de l'autel.
 Cette tranquillité du pauvre vicaire parut émouvoir le bandit.
 Mais je montai les trois marches de l'autel et lui arrêtai le bras.
+Il essaya de jeter un rire moqueur, mais le rire commencé s'interrompit de lui-même.
 Puis il fit le signe de la croix.
 Maintenant, suis-moi, lui dis-je.
 Nous sortîmes par la petite porte ; en moins de cinq minutes, nous fûmes chez moi.
@@ -807,6 +813,7 @@ Il étendit la main, et cette main étendue semblait commander à son frère lui
 Il prononça quelques mots en langue moldave.
 Ces mots parurent faire une profonde impression sur les bandits.
 Mais, à ce long et bouillant discours, l'aîné des deux frères ne répondit qu'un mot.
+Les bandits s'inclinèrent.
 Il fit un geste, les bandits se rangèrent derrière nous.
 Eh bien ! soit, Grégoriska, dit Kostaki reprenant la langue française.
 Cette femme n'ira pas à la caverne, mais elle n'en sera pas moins à moi.
@@ -1025,5 +1032,4 @@ Comme l'avait espéré Grégoriska, mes nuits cessèrent d'être fréquentées p
 Il était temps de se retirer ; nous prîmes congé de Monsieur Ledru.
 Un an après, cet excellent homme mourut.
 Je m'empresse de le faire.
-Je ne suis jamais retourné à Fontenay-aux-Roses.
-[Illustration :, Hedwige ! un baiser ! le dernier, le seul, Hedwige ! je meurs.]
+Je ne suis jamais retourné à Fontenay-aux-Roses

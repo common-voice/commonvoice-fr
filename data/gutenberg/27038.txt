@@ -14,8 +14,6 @@ On a désormais deux supports - papier et numérique - au lieu d’un seul.
 Le livre imprimé a cinq siècles et demi.
 Le livre numérique est plus difficile à dater.
 Ce problème terminologique est soulevé par Pierre Schweitzer, concepteur du baladeur de textes @folio.
-Quelques balises / un.deux.
-Chronologie détaillée] un.un.
 Ces quelques balises précèdent une chronologie détaillée.
 D’abord essentiellement anglophones, les collections deviennent peu à peu multilingues.
 Ce nombre est lisible quels que soient la plate-forme, le logiciel et la langue utilisés.
@@ -58,8 +56,6 @@ Le nombre de livres et de volontaires augmente rapidement.
 En août deux mille trois, le catalogue approche les quatorze.000 titres.
 Les cours (textes, vidéos, travaux pratiques en laboratoire, simulations, etc.) sont régulièrement actualisés.
 Ces périodiques seront également disponibles en version imprimée.
-Des échanges accrus / deux.deux.
-De nouveaux genres littéraires / deux.trois.
 On assiste aussi aux débuts de la littérature numérique.
 Des échanges accrus Silvaine Arabo est poète et plasticienne.
 Elle vit en France, dans la région Poitou-Charentes.
@@ -127,10 +123,6 @@ Je n’ai jamais vu de livre numérique.
 La série best-seller du romancier espagnol relate les aventures du Capitan Alatriste au dix-septe siècle.
 Le nouveau titre à paraître s’intitule El Oro del Rey.
 On a voulu tester et cela faisait partie du jeu.
-[trois.un.
-Editeurs commerciaux / trois.deux.
-Editeurs non commerciaux / trois.trois.
-L’auto-édition / trois.quatre.
 En deux mille trois, le catalogue de CyLibris comprend une cinquantaine de titres.
 CyLibris est aujourd’hui une petite structure.
 Elle change de nom en février deux mille un pour devenir Edition Actu.
@@ -161,9 +153,6 @@ Puis les intermédiaires prendront tout le pouvoir.
 Il permet l’accès immédiat au texte intégral des documents cités.
 Les erreurs peuvent aussitôt être corrigées.
 La question du droit d’auteur serait également entièrement à revoir.
-[quatre.un.
-Librairies traditionnelles / quatre.deux.
-Librairies en ligne / quatre.trois.
 Trois ans plus tard, la librairie est présente sur le web.
 "Mon site est embryonnaire et en construction, raconte-t-elle en novembre deux mille.
 "Internet tue les librairies spécialisées.
@@ -188,9 +177,6 @@ Il permet aussi de vendre des livres par chapitres.
 Ce qui signifie les convertir à des formats convenant aux différents 'readers' du marché.
 ( …) Enfin Numilog devient aussi progressivement un diffuseur.
 Seront ajoutés progressivement les nouveaux formats utiles sur le marché.
-[cinq.un.
-Numérisation : mode texte et mode image / cinq.deux.
-Bibliothèques pionnières / cinq.trois.
 Du bibliothécaire au cyberthécaire / cinq.quatre.
 Nombre d'entre eux sont en accès libre.
 La première étape est donc la numérisation de ces dernières.
@@ -240,8 +226,6 @@ Ces commentaires ont depuis disparu.
 Ceci n’est pas près de changer.
 Les bibliothèques nationales archivent d'ailleurs aussi les documents électroniques et les pages web.
 Les bibliothèques publiques ne semblent pas près de disparaître non plus.
-[six.un.
-Dictionnaires en ligne / six.deux.
 La recherche est possible par mots-clés, thèmes, médias (cartes, liens internet, photos, illustrations) et idées.
 Après avoir été libre, l’accès est ensuite soumis à une inscription gratuite au préalable.
 La consultation du site est payante.
@@ -262,10 +246,6 @@ Ceci crée un marché et permet aux gens de les utiliser.
 La réponse de la communauté scientifique internationale est remarquable.
 Un des objectifs de la Public Library of Science est de devenir elle-même éditeur.
 Les cours (textes, vidéos, travaux pratiques en laboratoire, simulations, etc.) sont régulièrement actualisés.
-[sept.un.
-Plusieurs logiciels de lecture / sept.deux.
-Une diffusion par divers canaux / sept.trois.
-Une progression régulière / sept.quatre.
 Compacts, les fichiers PDF peuvent être imprimés en conservant leur aspect d’origine.
 Téléchargeable gratuitement, l’OeB est un format ouvert appartenant au domaine public.
 Le format original est toutefois utilisé uniquement par les professionnels de la publication.
@@ -294,10 +274,6 @@ Le nombre de livres et de volontaires augmente rapidement.
 En août deux mille trois, le catalogue approche les quatorze.000 titres.
 Bookshare.org propose aussi des oeuvres du domaine public en téléchargement libre.
 De nombreux spécialistes décident d’unir leurs forces pour oeuvrer en commun.
-[huit.un.
-Les livres électroniques / huit.deux.
-Les assistants personnels (PDA) / huit.trois.
-L'avenir des machines de lecture / huit.quatre.
 Son poids est de cinq cent dix grammes.
 Son autonomie est de quinze heures.
 Il dispose d’un modem de trente-six virgule six Kbps (kilobits par seconde).
@@ -337,8 +313,6 @@ Intitulé SmartPaper, le matériau correspondant sera produit en rouleaux, tout 
 La vente d’affichettes fonctionnant sur piles devrait débuter en deux mille quatre.
 Viendront ensuite les panneaux de signalisation, puis le papier électronique et le journal électronique.
 Mais les développements les plus importants sont encore à venir.
-Les systèmes de codage / neuf.deux.
-Des communautés linguistiques / neuf.trois.
 L’ASCII permet donc uniquement la lecture de l’anglais.
 Mais le multilinguisme devient bientôt une nécessité vitale.
 Il faut que le réseau respecte les lettres accentuées, les lettres spécifiques, etc.

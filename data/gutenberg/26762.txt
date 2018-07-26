@@ -1,6 +1,5 @@
 La scène, au commencement de la pièce, est en Angleterre, ensuite toujours en France.
-[Note un : O, lettre de l'alphabet.
-Allusion à la forme circulaire de cette lettre.] Londres., Antichambre dans le palais du roi.
+Londres., Antichambre dans le palais du roi.
 Entrent L'ARCHEVÊQUE DE CANTORBÉRY, L'ÉVÊQUE D'ÉLY.
 ÉLY., Mais, milord, quel obstacle lui opposerons-nous aujourd'hui ? CANTORBÉRY., C'est à quoi il faut réfléchir.
 ÉLY., Ce serait presque épuiser la caisse.
@@ -17,7 +16,6 @@ Entrent LE ROI HENRI, GLOCESTER, BEDFORD, WARWICK, WESTMORELAND, EXETER, et suit
 LE ROI., Où est mon respectable prélat de Cantorbéry ? EXETER., Il n'est pas ici.
 LE ROI, à Exeter., Cher oncle, envoyez-le chercher.
 WESTMORELAND., Mon souverain, ferons-nous entrer l'ambassadeur ? LE ROI., Pas encore, mon cousin.
-[Note deux : La même idée se rencontre dans Cicéron, de Republica, lib.
 LE ROI., Qu'on introduise les ambassadeurs envoyés de la part du dauphin.
 (Un seigneur de la suite sort.
 L'AMBASSADEUR., Les voici en peu de mots.
@@ -47,6 +45,7 @@ PISTOL., Diable ! l'épée vaut un serment, et les serments doivent être respe
 NYM., Je veux avoir mes huit schellings que j'ai gagnés à un pari.
 Cela n'est-il pas juste ? Car je serai vivandier dans le camp, et nos profits croîtront.
 Donne-moi ta main.
+NYM., Moi, je veux mon noble.
 PISTOL., Tu l'auras comptant.
 Mes chers bons amis, venez donc chez lui.
 (Ils sortent.) Southampton., Chambre du conseil.
@@ -64,12 +63,12 @@ Sont-ils graves et savants ? tu le paraissais aussi.
 Sont-ils sortis d'une famille illustre ? tu le paraissais aussi.
 SCROOP., C'est avec justice que Dieu a dévoilé nos desseins.
 Je prie Dieu et vous, mon roi, de me pardonner.
-Mon souverain, pardonnez-moi ma faute sans épargner ma vie.
 Sortez de ces lieux, coupables et malheureuses victimes, et allez à la mort.
 Nous ne doutons plus de l'heureux succès de cette guerre.
 Allons gaiement à bord : que les étendards de la guerre se déploient et s'avancent.
 PISTOL., Non, mon grand coeur est tout navré.
 BARDOLPH., Je voudrais être avec lui quelque part, soit au ciel ou en enfer.
+Du avait décrit en médecin les maladies morales.
 BARDOLPH., Et après les femmes.
 L'HÔTESSE., Ah ! cela n'est pas vrai, par exemple.
 LE PAGE., Très-vrai ; car il a dit que c'étaient des diables incarnés.
@@ -78,7 +77,7 @@ Ce nez rubicond est toute la fortune que j'aie amassée à son service.
 NYM., Décamperons-nous, enfin ? Le roi sera parti de Southampton.
 PISTOL., Allons, partons.
 Choisissez et payez comptant, voilà tout ce que tu as à dire.
-Va à présent essuyer tes yeux.
+LE PAGE., Ma foi, c'est une mauvaise nourriture, à ce qu'on dit.
 PISTOL, au page., Prends un baiser sur ses douces lèvres, et marche : allons.
 BARDOLPH., Adieu, notre hôtesse.
 PISTOL., Fais voir que tu es une bonne ménagère ; sois sédentaire, je te l'ordonne.
@@ -100,6 +99,7 @@ LE ROI DE FRANCE., Demain vous serez amplement instruit de nos résolutions.
 LE ROI DE FRANCE., Vous serez bientôt congédié avec des propositions avantageuses.
 Ce n'est pas trop d'une courte nuit pour répondre sur des objets de cette importance.
 Continuez d'être favorables, et que vos pensées complètent notre représentation.
+(Le choeur sort.) Harfleur assiégé., Bruit de combat.
 Entrent LE ROI HENRI, EXETER, BEDFORD, GLOCESTER, et des soldats avec des échelles de siége.
 Entrent NYM, BARDOLPH ET LE PAGE.
 BARDOLPH., Allons, avance, avance ; à la brèche, à la brèche.
@@ -144,10 +144,12 @@ CATHERINE., De nails, de arm, de ilbow.
 ALIX., Sauf votre honneur, de elbow.
 CATHERINE., Aussi dis-je de elbow, de neck et de chin.
 Comment appelez-vous les pieds et la robe ? ALIX., De foot, madame, et de coun.
-[Note vingt : The gown, la robe, et cætera.] ALIX., Excellent, madame.
+d'un son mauvais, corruptible, grossier et impudique, et dont les dames d'honneur ne peuvent user.
+ALIX., Excellent, madame.
 CATHERINE., C'est assez pour une fois.
 Autre salle du même palais.
 LE ROI DE FRANCE., Il est certain qu'il a passé la rivière de Somme.
+LE ROI DE FRANCE., Où est le héraut Montjoie ? Ordonnez-lui de partir sur-le-champ.
 Vous, prince dauphin, vous resterez avec nous dans Rouen.
 LE DAUPHIN., Non, mon père, j'en conjure Votre Majesté.
 (Ils sortent.) Le camp anglais en Picardie.
@@ -165,10 +167,12 @@ FLUELLEN., Enseigne Pistol, je vois bien à peu près ce que vous voulez dire.
 PISTOL., Allons, tant mieux pour vous.
 PISTOL., Meurs, et va à tous les diables, et figue pour ton amitié.
 FLUELLEN., Fort bien.
+(Pistol sort.) FLUELLEN., Fort bon.
 GOWER., Cet homme-là, c'est le plus fieffé misérable qui fut jamais.
 Je le remets bien à présent ; c'est un infâme entremetteur, un coupe-jarret.
 Le duc d'Exeter a très-galamment conservé le pont.
 Ah ! je peux bien assurer Votre Majesté que c'est un brave homme que ce duc.
+(On entend la trompette du héraut.) (Montjoie s'avance.) LE ROI., Oui, je te reconnais.
 Qu'as-tu à m'apprendre ? MONTJOIE., Les intentions de mon maître.
 LE ROI., Déclare-les.
 La prudence est un meilleur soldat que la témérité.
@@ -179,7 +183,7 @@ LE ROI., Tu remplis bien ton office.
 (Il lui remet une bourse.) Voilà pour te payer ton message, Montjoie.
 Va : dis à ton maître de bien se consulter.
 Rends cette réponse à ton roi.
-[Note vingt-cinq : L'armée anglaise était attaquée de la dysenterie.] MONTJOIE., Elle sera fidèlement rendue.
+MONTJOIE., Elle sera fidèlement rendue.
 Je remercie Votre Majesté.
 (Montjoie s'en va.) GLOCESTER., J'espère qu'ils ne viendront pas nous attaquer à présent.
 (Ils sortent.) Le camp français, à Azincourt.
@@ -193,13 +197,12 @@ LE DUC D'ORLÉANS., Votre maîtresse porte bien.
 LE DAUPHIN., Oui, moi seul ; c'est là le mérite, la perfection exigée d'une bonne maîtresse.
 LE DAUPHIN., Peut-être la vôtre en a fait de même.
 LE CONNÉTABLE., La mienne n'était pas bridée.
-[Note vingt-six : Kerne, chevalier irlandais.] LE CONNÉTABLE., Vous vous connaissez en équitation.
+LE DAUPHIN., Elle était donc vieille et tranquille, et vous galopâtes avec des caleçons étroits.
+LE CONNÉTABLE., Vous vous connaissez en équitation.
 LE DAUPHIN., Recevez donc une leçon de moi.
 LE CONNÉTABLE., J'aimerais autant que ma maîtresse fût une rosse.
 LE DAUPHIN., Je te dis, connétable, que ma maîtresse porte ses propres cheveux.
 LE CONNÉTABLE., Je pourrais en dire autant si j'avais une truie pour maîtresse.
-LE DAUPHIN., Le chien est retourné à son vomissement, et la truie lavée au bourbier.
-Tu te sers de tout.
 LE DAUPHIN., Il en tombera quelques-unes demain, j'espère.
 LE CONNÉTABLE., Et cependant mon ciel n'en manquera pas encore pour cela.
 LE DAUPHIN., Allons, il est minuit : je vais m'armer.
@@ -267,22 +270,22 @@ Il n'y a pas de quoi employer tous nos bras.
 Le souffle de votre valeur les renversera.
 Mais l'honneur nous le défend.
 Que dirai-je de plus ? Nous n'avons que peu à faire, et tout sera fini.
+LE CONNÉTABLE., Ils ont récité leurs dernières prières, et n'attendent plus que la mort.
 Allons, partons : le soleil est déjà haut, et nous dépensons le jour dans l'inaction.
 (Ils sortent.) Le camp anglais.
 WESTMORELAND., Ils ont soixante mille combattants.
 EXETER., C'est cinq contre un ! et des troupes toutes fraîches.
 BEDFORD., Sa valeur égale sa bonté : ce sont la valeur et la bonté d'un prince.
 Non, non, mon cousin, ne souhaitez pas un Anglais de plus.
-Ce jour est appelé la fête de Saint-Crépin.
 LE ROI., Tout est prêt, si nos coeurs le sont.
 (A tous les chefs.) Vous connaissez tous vos postes : Dieu soit avec vous ! (Fanfares.
 LE ROI., Qui t'a envoyé cette fois ? MONTJOIE., Le connétable de France.
 Héraut, épargne tes peines.
+rencontre ici avec Lucain, liv.
 LE ROI., Conduis-la, brave York.
 Bruits de guerre, combats, etc.
 Arrivent PISTOL, UN SOLDAT FRANÇAIS, ET l'ancien PAGE de Falstaff.
 LE SOLDAT FRANÇAIS., Oh ! prenez miséricorde., Ayez pitié de moi.
-[Note trente-trois : Moy, pièce de monnaie.
 LE PAGE, au Français., Écoutez : comment êtes-vous appelé ? LE SOLDAT FRANÇAIS., Monsieur le Fer.
 LE PAGE., Il dit qu'il s'appelle Monsieur Fer.
 PISTOL., Monsieur Fer ! Ah ! par Dieu, je le ferrerai, je le ferlherai, je le ferrèterai.
@@ -359,13 +362,13 @@ C'est un bon écu, je t'assure, ou bien attends, je le changerai.
 LE ROI., Cette liste porte dix mille Français morts restés sur le champ de bataille.
 FLUELLEN., Oui, sur ma conscience, il nous a fait grand bien.
 LE ROI., Remplissons tous les devoirs religieux.
-Qu'on chante le Non nobis et le Te Deum.
 La pensée court d'un pas si rapide, que vous pouvez déjà le suivre sur Blackheath.
 Moi-même j'ai employé l'intervalle à vous rappeler … qu'il est passé.
-[Note trente-cinq : Le comte d'Essex, alors favori d'Elisabeth.] France., Corps de garde anglais.
+France., Corps de garde anglais.
 FLUELLEN., Il y a des occasions et des causes, des pourquoi dans toutes choses.
 Retire-toi de moi ; l'odeur du poireau me donne des vapeurs.
-PISTOL., Non, pardieu, pour Cadwallader, et toutes ses chèvres, je ne le mangerai pas.
+ne le mangerai pas.
+FLUELLEN., Tiens, voilà une chèvre pour toi.
 Tiens, voilà un peu d'assaisonnement avec.
 GOWER., Allons, en voilà assez, capitaine : vous l'avez étourdi du coup.
 PISTOL., Quoi ! faut-il que je morde ? FLUELLEN., Oui, sans doute, sans question, et sans ambiguïtés.
@@ -409,5 +412,4 @@ LE ROI., Je suis satisfait.
 Ainsi ces villes pucelles dont vous parlez peuvent lui rendre grâce.
 LE ROI DE FRANCE., Nous avons consenti à toutes les conditions raisonnables.
 (A l'assemblée.) Et soyez-moi tous témoins qu'ici j'embrasse mon épouse et ma reine.
-Il paraît cependant assez probable qu'elle est antérieure.
-Cette pièce anonyme est fort courte et très-médiocre.]
+Il paraît cependant assez probable qu'elle

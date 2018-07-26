@@ -138,6 +138,10 @@ def parse_one_book(bookid):
             #print('FOUND ONE CHAPTER @', this_line, "'{}'".format(line))
             continue
 
+        if line.find('[') >= 0 or line.find(']') >= 0:
+            #print('FOUND SOME EXTRA NOTE')
+            continue
+
         line = maybe_normalize(line)
         line = maybe_normalize(line, mapping=mapping_specific)
         line = filter_numbers(line).lstrip()

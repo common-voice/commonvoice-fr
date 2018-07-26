@@ -1,5 +1,4 @@
-[Note un : Relics of anc.
-deux cent vingt-deux.] SATURNINUS, fils du dernier empereur de Rome, et ensuite proclamé lui-même empereur.
+SATURNINUS, fils du dernier empereur de Rome, et ensuite proclamé lui-même empereur.
 BASSIANUS, frère de Saturninus, amoureux de Lavinia.
 TITUS ANDRONICUS, noble romain, général dans la guerre contre les Goths.
 MARCUS ANDRONICUS, tribun du peuple, et frère de Titus.
@@ -31,6 +30,7 @@ SATURNINUS., Je te rends grâces, noble Titus, père de mon existence.
 Reposez-vous sur ma parole ; et que l'abattement n'éteigne pas toutes vos espérances.
 Vos nobles intentions me garantissent que ces paroles sont une courtoisie royale.
 BASSIANUS, s'emparant de Lavinia., Seigneur Titus, avec votre permission, cette jeune fille est à moi.
+LUCIUS., Et il en restera le possesseur, tant que Lucius vivra.
 TITUS., Traîtres, loin de moi.
 Où est la garde de l'empereur ? Trahison, seigneur ! Lavinia est ravie.
 TITUS, à Saturninus., Suivez-moi, seigneur, et bientôt je la ramènerai dans vos bras.
@@ -59,7 +59,7 @@ Il faut que nous soyons tous amis.
 SATURNINUS., Volontiers, Titus ; et je vous en remercie.
 (Ils sortent.) Rome., La scène est devant le palais impérial.
 Loin de moi ces vêtements d'esclave, loin de moi les vaines pensées.
-AARON., Des massues, des massues !, Ces amoureux ne pourront pas se tenir en paix.
+tenir en paix.
 Ayez honte de vous-mêmes et remettez vos épées dans le fourreau.
 CHIRON., Aaron, je donnerais mille morts pour jouir de celle que j'aime.
 AARON, à part., Oui, des gens comme Saturninus pourraient bien les porter aussi.
@@ -76,8 +76,10 @@ Mes enfants, chargez-vous, avec nous, du soin d'accompagner et de protéger la p
 (Fanfares des cors.
 (Tous partent.) On voit une partie de la forêt déserte et sauvage.
 AARON, avec un sac d'or.
+Honneur la couleur de son corps ; il le rend comme lui, souillé, détesté et abominable.
 BASSIANUS., Le roi, mon frère, sera informé de ceci.
 LAVINIA., Oui, car ces écarts l'ont déjà fait remarquer.
+DÉMÉTRIUS, poignardant Bassianus., Voilà la preuve que je suis votre fils.
 LAVINIA., Chers seigneurs, priez-la d'entendre seulement un mot de moi.
 Prie-la de montrer la pitié d'une femme.
 TAMORA., Je ne sais ce que cela veut dire : entraînez-la.
@@ -132,11 +134,9 @@ AARON., Oui, de quelque message extravagant de la part de son extravagant grand-
 AARON., Oui, fort bien.
 C'est un passage d'Horace : justement, vous y êtes.
 AARON, à part., Priez plutôt tous les démons ; les dieux nous ont abandonnés.
-AARON., A qui ? [Note dix-neuf : Delivered, veut dire : livrée, délivrée et accouchée.
-De là l'équivoque.] LA NOURRICE., Je veux dire qu'elle est accouchée.
+LA NOURRICE., Je veux dire qu'elle est accouchée.
 DÉMÉTRIUS., Misérable, qu'as-tu fait ? AARON., Ce que tu ne peux défaire.
-CHIRON., Tu as perdu notre mère.
-[Note vingt : Thou hast undone our mother ; … to undo, défaire et perdre de réputation.
+perdre de réputation.
 DÉMÉTRIUS., Oui, chien d'enfer, et c'est ainsi que tu l'as perdue.
 CHIRON., Il ne vivra pas.
 AARON., Il ne mourra pas.
@@ -159,9 +159,12 @@ Vraiment, tu ne manques pas le but, et la flèche y arrive tout droit.
 MARCUS., Cousins, ses chagrins sont au-dessus de tous les remèdes.
 Allons, à l'ouvrage., Vous êtes un habile archer, Marcus.
 Marcus, tire quand je te l'ordonnerai.
+MARCUS., Cousins, lancez toutes vos flèches vers la cour, nous mortifierons l'empereur dans son orgueil.
 TITUS., Allons amis, tirez.
 (Ils tirent.) A merveille, Lucius.
 Cher enfant, c'est dans le sein de la Vierge, envoie-la à Pallas.
+TITUS., Que dit Jupiter ? Voilà ce que je te demande.
+MARCUS., Allons, seigneur, cela est juste ce qu'il faut pour votre harangue.
 Qu'il aille remettre les pigeons à l'empereur de votre part.
 TITUS., Allons, drôle, approche : ne fais plus de difficulté ; mais donne tes pigeons à l'empereur.
 TITUS., Eh bien, voilà une supplique pour toi.
@@ -181,6 +184,7 @@ Je vous ai apporté une lettre, et une paire de colombes que voilà.
 LE PAYSAN., Combien aurai-je d'argent ? TAMORA., Allons, misérable, tu vas être pendu.
 TAMORA., Roi, prenez les sentiments d'un empereur, comme vous en portez le titre.
 Vous pouvez en faire autant pour la populace insensée de Rome.
+SATURNINUS., Mais il ne voudra pas prier son fils pour nous.
 ÉMILIUS., Je vais exécuter vos ordres.
 SATURNINUS., Allez ; puissiez-vous réussir et le persuader ! (Ils sortent.) Plaine aux environs de Rome.
 LUCIUS, à la tête des Goths ; tambours, drapeaux.

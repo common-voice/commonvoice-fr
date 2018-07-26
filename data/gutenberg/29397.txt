@@ -1,7 +1,7 @@
-[Illustration : LA MESURE DE LA TERRE.
+l'Ouvrage intitulé : Voyage historique dans l'Amérique méridionale, par Par Ch.
 ANDRÉ et P.
 Astronome à l'Observatoire de Paris.
-[Illustration] Quai des Grands-Augustins, cinquante-cinq.
+Quai des Grands-Augustins, cinquante-cinq.
 mille neuf cent huit Tous droits de traduction et de reproduction réservés.
 Une exception est à faire cependant.
 Ainsi la Terre nous aide à comprendre le monde.
@@ -44,9 +44,7 @@ D'où la nécessité de réductions au centre, toujours pénibles et incertaines
 L'opération de Picard avait été entreprise sous les auspices de l'Académie des Sciences récemment fondée.
 En même temps des missions scientifiques étaient envoyées au Sénégal, à la Guyane, aux Antilles.
 En d'autres termes, l'intensité de la pesanteur diminue quand on se rapproche de l'équateur.
-[Illustration : Fig.
-Dispositions adoptées au XVIIIe siècle pour la mesure des bases.
-Amsterdam, mille sept cent cinquante-deux.] [Illustration : Fig.
+siècle pour la mesure des bases.
 Les résultats étaient discordants.
 Newton renonça à suivre les conséquences de cette idée.
 Cette déviation, en un seconde, a pour valeur approchée Rω²/deux.
@@ -65,13 +63,8 @@ Cela revient à supposer toute la masse de la Terre réunie en un seul point.
 Même dans cette hypothèse erronée, l'aplatissement apparaît comme une conséquence de la fluidité primitive.
 La réalité de l'aplatissement était mise en doute aussi bien que sa valeur.
 Eisenschmidt, mathématicien allemand, formulait une objection d'un caractère plus grave.
-[Note un : EISENSCHMIDT, Dissertation de la figure de la Terre.
-Strasbourg, mille six cent quatre-vingt-onze.] Cassini, adoptant cette conclusion, entreprit de la vérifier.
-Considérant ce résultat comme établi, Mairan entreprit de le justifier théoriquement.
-Il déploie beaucoup d'ingéniosité pour mettre en doute la fluidité primitive de la Terre.
 Reste à concilier la forme oblongue avec l'augmentation constatée de la pesanteur vers le pôle.
 Celui-ci, d'ailleurs, annonçait de nouvelles vérifications.
-[Illustration : Fig.
 Pour cette double raison, il devait incliner vers l'opinion qui dominait en France.
 C'était aller trop loin.
 C'était méconnaître l'influence de la marche des glaciers et de la dérive des banquises.
@@ -79,7 +72,6 @@ La thèse de Newton trouvait d'ailleurs des partisans distingués, même en Fran
 Il y commente et justifie avec intelligence les résultats de Newton.
 Deux expéditions furent organisées.
 L'une devait se rendre au Pérou, l'autre en Laponie.
-[Illustration : Fig.
 Deux relations nous sont parvenues, écrites, l'une par Maupertuis, l'autre par l'abbé Outhier.
 Elles se complètent utilement sur plus d'un point.
 Les calculs, mis au net, donnaient cinquante-sept quatre cent vingt-deux toises au degré.
@@ -90,13 +82,9 @@ Elle s'adjoignit ultérieurement deux officiers espagnols, George Juan et Antoni
 Godin, le plus ancien académicien, était le chef nominal.
 Mais l'expédition devait durer bien davantage et les résultats ne furent élucidés que longtemps après.
 C'est à Saint-Domingue que Bouguer imagina et fit réaliser le pendule invariable.
-[Note quatre : G.
 Une vive polémique s'ouvrit et ne se termina que par la mort d'un des adversaires.
-[Illustration : Fig.
 Adoptons le premier résultat, qui tient le milieu entre les deux autres.
 La correction aurait dû, nous ne pouvons en douter aujourd'hui, être faite en sens contraire.
-[Illustration : Fig.
-Mesure d'une base géodésique avec une règle monométallique.
 Elles montrent que deux ellipsoïdes différents peuvent répondre à une même vitesse angulaire.
 Partant de ces hypothèses, Clairaut démontre tout une série de lois remarquables.
 Deuxième loi., Le rapport e/a³ prend des valeurs croissantes de la surface au centre.
@@ -106,28 +94,16 @@ On peut se permettre cette simplification pour la Terre et pour la Lune.
 Il est plus difficile de s'en contenter pour Jupiter ou Saturne.
 Dans un Mémoire inséré aux Annales de l'Observatoire de Paris, t.
 La limite supérieure conduit à l'aplatissement de Newton et à l'homogénéité de toute la masse.
-[Illustration : Fig.
-Transport des abris pour la mesure d'une base.
 Or ces propriétés n'appartiennent qu'à une catégorie restreinte de surfaces.
-[Illustration : Fig.
-Abri de campagne pour le cercle méridien.
 On a ainsi, très sensiblement, l'axe instantané de rotation du globe terrestre.
 On ne peut donc pas compter, d'une manière absolue, sur l'invariabilité des latitudes géographiques.
 Rien n'indique, en effet, par rapport aux étoiles, la situation de l'axe principal d'inertie.
-[Illustration : Fig.
-Montage d'un abri pour les observations géodésiques.
-[Illustration : Fig.
-Établissement d'un signal pour les visées géodésiques.
+L'altitude est également susceptible de deux définitions différentes.
 Mais, jusqu'à présent, cette distinction ne présente guère qu'un intérêt théorique.
-[Illustration : Fig.
-Mesure des bases à l'aide des fils de métal invar de Monsieur C.-E.
 Avec une série de sections parallèles, on peut établir un modèle en relief.
 Il s'en faut de beaucoup, à l'heure présente, que ce vaste programme soit réalisé.
-[Illustration : Fig.
-Mesure des bases à l'aide des fils de métal invar.
 Tous ces aplatissements sont, on le voit, plus forts que ceux qui résultent des triangulations.
-[Illustration : Fig.
-Mesure de l'intervalle de deux repères mobiles à l'aide d'un fil de métal invar.
+l'aide d'un fil de métal invar.
 Mais le voisinage de la mer ou des montagnes donne ordinairement lieu à des surprises.
 Ces deux parties sont, à tous les points de vue, bien loin d'être équivalentes.
 On verrait apparaître dans l'axe de l'Atlantique deux grandes îles longitudinales jalonnées de foyers volcaniques.
@@ -152,44 +128,29 @@ Mais cette structure est sujette à être modifiée par l'érosion.
 Elle fait l'objet de Chapitres importants dans les Traités de Géologie et de Géographie physique.
 Les profondeurs mêmes de l'Océan reçoivent un continuel dépôt de débris organiques.
 L'érosion détruit les montagnes, les sédiments comblent les mers.
-[Illustration : Fig.
-Exemple de formes superficielles en rapport avec la structure interne.
-(Cluse du Jura bernois.) DE LAPPARENT, Abrégé de Géologie, fig.
-[Illustration : Fig.
-Exemple de plis couchés amincis, étirés et partiellement enlevés par ablation superficielle.
-DE LAPPARENT, Abrégé de Géologie, fig.
-cent cinquante-huit, p.
+la structure interne.
+partiellement enlevés par ablation superficielle.
 L'épaisseur d'une même couche est loin d'être uniforme dans toute son étendue.
-[Illustration : Fig.
-Exemple d'une structure montagneuse imparfaitement transformée par l'érosion.
+imparfaitement transformée par l'érosion.
 Causse du Larzac.
 L'érosion est intervenue pour adoucir le relief.
 Les eaux peuvent aussi enlever la tête d'un pli couché, en couper la racine.
 Ces bouleversements indéniables n'embrassent en somme que des portions restreintes de la surface terrestre.
 Enfin les massifs cristallins présentent jusque près de leur cime des restes de stratifications horizontales.
-[Illustration : Fig.
-Exemple de formes superficielles en discordance avec la structure interne.
-(Coupe des Dents de Morcles, Suisse.) De Lapparent, Abrégé de Géologie, fig.
-cent soixante et un, p.
+avec la structure interne.
 On pourrait supposer que cette déformation s'accomplira par des affaissements locaux avec rupture.
 Elle ne reconnaît que des mouvements centripètes inégalement répartis.
 Mais cette théorie ne semble pas capable de s'assimiler tous les faits.
 Des roches contemporaines se rencontrent en grandes masses à des niveaux extrêmement différents.
-Cet exemple, que nous empruntons à Monsieur J.
-[Note six : J.
-LE CONTE, Earth crust movements and their causes (Science, Vol.
+Ce raisonnement, n'est pas concluant, ainsi que l'a fait voir Monsieur G.-H.
 Darwin, parce qu'il laisse dans l'ombre l'intervention de la pesanteur.
 Les matières liquides situées au-dessous refluent sous les parties saillantes et les soulèvent.
 Les différences de niveau tendent ainsi à s'exagérer jusqu'à ce qu'une rupture se produise.
-[Note sept : Philosophical Magazine, Vol.
-vingt-trois, mille huit cent quatre-vingt-sept.] [Illustration : Fig.
-Exemple d'une structure montagneuse entièrement sculptée par l'érosion.
+sculptée par l'érosion.
 Région des sources du Rhône et de l'Aar.
 (D'après la Carte au un/cent mille : la Suisse, par Ch.
-Boissonnas.)] Certains auteurs, à la suite de J.
-[Note huit : J.
-DANA, Manual of Geology, mille huit cent soixante-quinze, p.
-sept cent quarante-huit.] Mais la répercussion du phénomène ne s'arrête pas là.
+des sédiments, agissant par leur poids, comme la cause première de l'effort orogénique.
+Mais la répercussion du phénomène ne s'arrête pas là.
 Il y a surcharge pour les bas-fonds, allégement pour les hauteurs.
 Dès lors l'équilibre intérieur du globe terrestre se trouve compromis.
 Tous les matériaux connus sont écrasés, pulvérisés, à ces énormes pressions.
@@ -224,7 +185,6 @@ Il y a donc discordance entre les surfaces de niveau et les isothermes.
 Or, beaucoup de roches augmentent de densité, quand elles se solidifient, après fusion.
 Quel que soit le mécanisme de la compensation, elle est réalisée avec une approximation remarquable.
 On leur substitue l'observation simultanée du point d'ébullition de l'eau et de la colonne barométrique.
-[Note neuf : Helmert, Dr Heckers Bestimmung der Schwerkraft auf dem Atlantischen Ocean.
 Descartes est un adhérent du système de Copernic.
 La Terre, elle aussi, a dû traverser une période d'incandescence.
 Elle est un astre éteint, conservant dans son intérieur un feu central.
@@ -270,7 +230,6 @@ Lord Kelvin (Phil.
 Monsieur G.-H.
 D'après les travaux du Service international (Bull.
 Il y a une période annuelle, compliquée d'une période de quatre cent trente jours.
-[Illustration : Fig.
 Celles-ci apparaissent sur toutes les grandes cassures de l'écorce terrestre, même au centre de l'Asie.
 Monsieur de Launay a montré (Comptes rendus, t.
 Sa surface nous apparaît avec une netteté et une permanence absolue, sans interposition d'enveloppes vaporeuses.
@@ -281,22 +240,15 @@ D'autres voient dans ce disque brillant un miroir qui nous réfléchit l'image d
 Il faut ensuite, pour enregistrer un progrès notable, descendre jusqu'à l'époque moderne.
 Il acquit aussitôt la conviction de la nature montagneuse du sol.
 Les altitudes trouvées par lui (8km à 9km) sont notablement exagérées.
-[Illustration : Fig.
-vingt et un.
-Distribution générale des teintes sur la Lune.
 Galilée n'a reconnu que les deux dernières.
 Vers la même époque, le P.
 Son Philippe quatre est devenu Copernic.
 Il ne semble pas que ce projet ait été réalisé.
-[Illustration : Fig.
-Carte lunaire de Langrenus (mille six cent quarante-cinq).
 Des dessins spéciaux sont consacrés aux formations les plus intéressantes.
 Parmi les modernes, Copernic, Tycho Brahé, Kepler, Gassendi sont les mieux partagés.
 Les amis ou les confrères de Riccioli n'ont pas davantage lieu de se plaindre.
 Mais ce manque de justice distributive était à peu près inévitable.
-[Illustration : Fig.
-Carte lunaire d'Hévélius (mille six cent quarante-cinq).
-(Les deux cercles représentent les limites de la libration en latitude.
+cercles représentent les limites de la libration en latitude.
 L'importance de cette libration n'est pas indiquée par la théorie de Newton.
 On n'a d'ailleurs pas constaté davantage un aplatissement suivant la ligne des pôles.
 Le méridien ne présente, par rapport à la forme circulaire, que des inégalités purement accidentelles.
@@ -319,8 +271,6 @@ On a tenté de sortir de cette difficulté par une autre voie.
 Cette méthode laborieuse a été appliquée par Nasmyth et Carpenter.
 On peut encore espérer qu'un dessinateur consciencieux ne figurera rien dont il ne soit sûr.
 Le mouleur le plus habile introduira fatalement des détails qui n'existent pas.
-[Illustration : Fig.
-Fragment de la Carte lunaire de Schmidt.
 Hévélius et Herschel inclinent à l'opinion contraire.
 Cassini cite des exemples de nuages et de points lumineux temporaires.
 Ils croient pouvoir en inférer que ces objets sont des formations modernes.
@@ -335,10 +285,7 @@ Pickering, qu'il y a variation périodique.
 Nous renverrons aux Ouvrages spéciaux pour la discussion des cas analogues.
 Ce programme, pris à la lettre, dépasse encore les ressources de l'Analyse.
 Darwin, dont les Mémoires ont paru dans les Philosophical Transactions.
-Nous allons essayer de résumer ici les conclusions du plus important.
-[Note dix : G.-H.
-[Illustration : Fig.
-vingt-cinq.] On comprend sans peine l'origine de ce frottement (fig.
+On comprend sans peine l'origine de ce frottement (fig.
 La Terre, plus volumineuse, provoque sur la Lune des marées bien plus fortes.
 Le frein mis en jeu, agissant sur une masse moindre, est plus efficace.
 A cette augmentation de distance correspond un ralentissement dans le mouvement angulaire.
@@ -393,15 +340,9 @@ Lord Rosse et le Dr Boeddiker ont obtenu des résultats encore plus nets.
 Ils évaluent à cinq cents° C.
 l'abaissement de température qui se produit sur la Lune dans le cours d'une éclipse totale.
 Depuis Langley a réalisé une combinaison beaucoup plus sensible du thermopile et du galvanomètre.
-[Note onze : LANGLEY et VERY, The temperature of the Moon.
-American Journal of Science, vol.
 Cette évaluation est fort incertaine.
 Cette conclusion a soulevé des objections nombreuses.
-Monsieur Very, collaborateur de Langley, a repris les mesures avec des appareils plus perfectionnés.
 La température moyenne de l'hémisphère éclairé doit être voisine de +quatre-vingt-dix-sept° C.
-[Note douze : F.-W.
-VERY, The probable range of the temperature of the Moon.
-Astrophysical Journal, vol.
 Nous y reconnaîtrons d'abord, à première vue, des différences de niveau considérables.
 Prenons, par exemple, l'image de Théophile, l'un des cirques les plus profonds de la Lune.
 La pente intérieure est raide, inclinée de trente° en moyenne.
@@ -444,7 +385,7 @@ Pour nos contemporains, ce sont uniquement des fragments plissés par compressio
 Ce dernier point de vue pourrait bien être trop exclusif.
 Elle n'est donc pas une condition nécessaire pour la genèse des montagnes.
 Plus bas, les couches, se contractant plus que celles qui les supportent, se trouvent étirées.
-[Note treize : C.
+Ce chiffre de 8km est relatif aux conditions que la Terre traverse aujourd'hui.
 Il tend à augmenter si le refroidissement poursuit sa marche régulière.
 Les plissements seront supprimés, et la tendance à l'étirement deviendra générale.
 C'est précisément ce qui semble s'être produit pour la Lune.
@@ -500,16 +441,11 @@ Théorie de l'ébullition., D'autres expérimentateurs, notamment M.
 Un moment vient où des bulles volumineuses crèvent à la surface.
 C'est ainsi que, pour Monsieur Ericsson (Nature, vol.
 trente-quatre, année mille huit cent quatre-vingt-six, p.
-Elles ont été publiées en mille huit cent quatre-vingt-dix-huit.
-Alsdorf renonce à l'emploi des substances pâteuses essayées par ses prédécesseurs.
 On y projette sous divers angles des balles élastiques de caoutchouc ou de laine.
 En se relevant, le projectile exerce sur la poudre une sorte d'aspiration.
 Que l'on emploie un projectile de forme irrégulière, et l'enceinte va devenir anguleuse.
-[Note quatorze : H.
-ALSDORF, Experimentelle Darstellungen von Gebilden der Mondoberfläche, mit besonderer Berücksichtigung des Details.
-Gaea, mille huit cent quatre-vingt-dix-huit, Erstes Heft, s.
-trente-cinq.] [Illustration : Fig.
-Reproduction artificielle des cirques lunaires, par Monsieur HERMANN ALSDORF.
+Mondoberfläche, mit besonderer Berücksichtigung des Details.
+Gaea, par Monsieur HERMANN ALSDORF.
 On le proscrit au début, mais en définitive on revient à lui.
 Cette persistance dans l'action ne cadre pas avec un tempérament voyageur.
 Autant que nous pouvons le savoir, les cyclones détruisent et ne bâtissent pas.
@@ -517,7 +453,6 @@ L'explication météorique ou balistique se défend mieux.
 Elle peut en effet invoquer à la fois des faits d'observation et des expériences.
 Il semble, d'abord, qu'il y ait disproportion inadmissible entre l'effet constaté et la cause présumée.
 Les bolides tombés sur la Terre n'approchent point de la dimension des cirques.
-of Washington, vol.
 Mais la difficulté la plus grave est ailleurs.
 Le gaz dispose pour s'échapper du très large orifice créé par le projectile.
 Ce serait l'expansion subite que la lave, de même que l'eau, éprouve en se solidifiant.
@@ -718,38 +653,11 @@ Elles semblent toutefois révéler les mouvements tardifs des compartiments subm
 La première écorce cohérente correspond à une figure d'équilibre relatif actuelle.
 Mais toutes les hypothèses que l'on peut faire à ce sujet sont très hasardées.
 Mais la contraction entraînera, dans les deux cas, des conséquences fort différentes.
-[Illustration : Fig.
-Reproduction artificielle du type lunaire arctique, par Monsieur Hirtz.
-[Illustration : FIG.
-vingt-huit., Les cirques Messier et Messier A.
-vingt-neuf., Messier et Messier A.
-trente., Répartition des mers sur la Lune.
-trente et un., Un cirque lunaire.
-trente-deux., La Mer des Crises.
-trente-trois., La Mer du Nectar.
-trente-quatre., La Mer des Humeurs.
-trente-cinq., La Mer de la Tranquillité.
-Agrandissement d'un cliché obtenu à l'Observatoire de Paris, le seize février mille huit cent quatre-vingt-dix-neuf.
-trente-six., Les Apennins lunaires.
-trente-sept., Le Caucase et les Alpes lunaires.
-quarante et un., Petavius.
-Agrandissement d'un cliché obtenu à l'Observatoire de Paris, le dix septembre mille neuf cents.
-quarante-deux., Auréole sombre de Tycho.
-Agrandissement d'un cliché obtenu à l'Observatoire de Paris, le dix septembre mille neuf cents.
-quarante-trois., Sillons et encadrements rectilignes autour de Herschel, Albategnius, Arzachel.
-quarante-quatre., Le Mur Droit et la région environnante.
-quarante-cinq., Sillon formant tangente commune intérieure aux contours d'Almanon et d'Albufeda.
-quarante-six., Plaines encadrées de cordons saillants (type arctique).
+arctique, par Monsieur Hirtz.
+Agrandissement d'un cliché obtenu à arctique).
 Région de Méton, Euctemon.
-quarante-sept., Clavius, Heinsius, les digues de Tycho.
-Agrandissement d'un cliché obtenu à l'Observatoire de Paris, le quatre septembre mille neuf cent quatre.
-quarante-neuf., Bloc montagneux entre Hippalus et Ramsden.
-Agrandissement d'un cliché obtenu à l'Observatoire de Paris, le trois septembre mille neuf cent quatre.
-cinquante., Gassendi et la Mer des Humeurs.
-cinquante et un., Posidonius.
-Terres immergées à une profondeur inférieure à deux millem.
+Ce bloc, visible à la partie supérieure de l'épreuve, a profondeur inférieure à deux millem.
 Position des arêtes du tétraèdre terrestre d'après MMonsieur Lowthian Green et de Lapparent.
-Terres émergées dont l'altitude moyenne est inférieure à millem.
 Plateaux et massifs dont l'altitude moyenne dépasse millem.
 Fosses océaniques où la profondeur moyenne dépasse cinq millem.
-Les points accompagnés de chiffres correspondent aux plus grandes profondeurs mesurées.]
+Les points accompagnés de chiffres correspondent

@@ -3,6 +3,7 @@ Les deux versions sont disponibles sur le NEF http ://www.etudes-francaises.net
 La plupart des entretiens sont disponibles sur le NEF .
 Introduction Michael Hart fonde le Projet Gutenberg en mille neuf cent soixante et onze.
 L'ASCII permet donc uniquement la lecture de l’anglais et du latin.
+Le premier système d'encodage informatique est l’ASCII (American standard code for information interchange).
 L'ASCII permet uniquement la lecture de l’anglais et du latin.
 Avec le développement du web, l’échange des données s’internationalise de plus en plus.
 Ce nombre est lisible quels que soient la plateforme, le logiciel et la langue utilisés.
@@ -30,7 +31,7 @@ UNIMARC peut aussi être utilisé comme standard pour le développement de nouve
 De plus, tous les travaux dérivés sont eux-mêmes soumis au copyleft.
 En mille neuf cent quatre-vingt-neuf, il met en réseau des documents utilisant l'hypertexte.
 Le W3C est présidé par Tim Berners-Lee.
-[En détail] Tim Berners-Lee invente le web en mille neuf cent quatre-vingt-neuf-quatre-vingt-dix.
+Tim Berners-Lee invente le web en mille neuf cent quatre-vingt-neuf-quatre-vingt-dix.
 Certains appellent cette étape le web un.0.
 Le web permet au livre de se convertir.
 Le web devient une vaste encyclopédie.
@@ -195,6 +196,7 @@ Ils sont téléchargeables sous forme de fichiers PDF et imprimables dans leur e
 Ces livres sont disponibles dans la collection Text Archive de l’Internet Archive.
 La barre des deux cents.000 livres numérisés est franchie en mai deux mille sept.
 La barre du million de livres numérisés est franchie en décembre deux mille huit.
+WorldCat, grand catalogue collectif mondial, voit le jour dès mille neuf cent soixante et onze.
 La mise en ligne de RedLightGreen inaugure une ère nouvelle.
 RedLightGreen est particulièrement destiné aux étudiants du premier cycle universitaire, préparant à la licence.
 A la même date, le RLG est intégré à OCLC.

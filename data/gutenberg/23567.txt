@@ -1,7 +1,7 @@
 mille huit cent quatre-vingt-huit MATHILDE.
               Mmes JUDITH.
 La scène se passe dans la chambre à coucher de Mathilde.
-[Illustration : Un caprice] MATHILDE, seule, travaillant au filet.
+MATHILDE, seule, travaillant au filet.
 Encore un point, et j'ai fini.
 Elle sonne ; un domestique entre.
 Est-on venu de chez Janisset ? Non, madame, pas encore.
@@ -249,8 +249,7 @@ Décidément, vous ne prenez pas de thé ? Non, il me fait mal.
 Eh bien ! donnez-m'en.
 Plaît-il, madame ? Donnez-m'en.
 Chavigny se lève et remplit une tasse qu'il offre à madame de Léry.
-C'est bon ; mettez ça là.
-[Avons-nous un ministère ce soir ? Je n'en sais rien.
+Je n'en sais rien.
 Ce sont de drôles d'auberges que ces ministères.
 Vous n'y avez pas mis assez de sucre.
 Mettez-m'en un ou deux morceaux.
@@ -367,8 +366,7 @@ J'ai quelque envie d'avoir un caprice, avant de répondre à ce discours-là.
 Il me semble que c'en est l'instant, puisque vous en plaidez la thèse.
 Elle prend une carte dans le jeu.
 Allons, comte, dites rouge ou noir.
-Voulez-vous me dire quel est l'enjeu ? L'enjeu est une discrétion[B].
-(Note de l'auteur.)] Soit., J'appelle rouge.
+Soit., J'appelle rouge.
 C'est le valet de pique ; vous avez perdu.
 Donnez-moi cette bourse bleue.
 Est-elle petite ou grande, cette main ? Elle est charmante et douce comme le satin.
@@ -572,7 +570,7 @@ mille huit cent quarante-neuf LA MARÉCHALE.
         Mademoiselles JUDITH.
 Costumes du temps de Louis seize.
 Sur le théâtre elle a jeté Son petit bouquet poétique.
-Pourvu que vous l'ayez porté, Le reste est moins, en vérité, [Illustration : Louison] LISETTE, seule.
+Pourvu que vous l'ayez porté, Le reste est moins, en vérité, LISETTE, seule.
 Me voilà bien chanceuse ; il n'en faut plus qu'autant.
 Le sort est, quand il veut, bien impatientant.
 J'avais pour précepteur le curé du village ; J'appris ce qu'il savait, même un peu davantage.
@@ -762,15 +760,13 @@ J'étais bien aise aussi de réparer mes torts, Car j'ai failli tantôt mettre L
 Ma raison me trahit et se change en effroi.
 Et lui, madame, hélas ! c'est bien tout le contraire.
 Le ciel a pris plaisir à le former pour plaire.
-[Note C : Ces vers et les dix-neuf suivants se suppriment au théâtre.
-(Note de l'auteur.)] Oui, j'ai tort de pleurer, c'est ce qui me désole.
 Vous savez ses grands airs, et combien elle est belle.
 Oui, c'est une superbe et sotte créature.
 Un noeud qu'elle portait tomba de sa coiffure.
 Je ne vous blâme pas d'être un peu trop sensible.
 Prenez quelque repos, enfant, s'il est possible.
-Laissez là vos chagrins, et la dame aux grands airs[D].
-(Note de l'auteur.)] Grâce pour mes chagrins, madame, ils me sont chers.
+Ce sont de doux chagrins qui vous semblent amers.
+Grâce pour mes chagrins, madame, ils me sont chers.
 Mon coeur, qui d'un soutien s'était fait l'habitude, Pour la première fois connut la solitude.
 Je ne vous blâme point, je vous l'ai dit, Lucile.
 Vous voulez qu'on vous aime, et rien n'est plus facile.
@@ -1617,7 +1613,7 @@ DAME PAQUE, femme de maître Bernard.
 CARMOSINE, leur fille.
                    Mademoiselle THUILLIER.
 La scène se passe à Palerme.
-[Illustration : Carmosine] Une salle chez maître Bernard.
+Une salle chez maître Bernard.
 Comme il vous plaira.
 Mélangez vos herbes empestées tout à votre aise.
 Le seul résultat de votre obstination sera de la voir mourir dans nos bras.
@@ -1715,10 +1711,12 @@ Elle détourne les yeux quand je la regarde.
 Et il m'est défendu de vous entendre.
 On entend chanter dans la rue.
 N'est-ce pas la voix de Minuccio ? Oui, ma reine toute belle ; c'est Minuccio d'Arezzo lui-même.
+Il Priez-le de monter ici, mon père ; il égaiera notre souper.
 MAITRE BERNARD, à la fenêtre.
 Holà ! Minuccio, mon ami, viens ici souper avec nous.
 Le voilà qui monte, il me fait signe de la tête.
 C'est un musicien remarquable, fort bon chanteur et joueur d'instruments.
+Voilà ce que je prise en lui, et j'aime mieux Bonsoir, Minuccio.
 D'où te vient cette tristesse ? De vos yeux aux miens.
 Telle est la vraie loi de nature, et c'est pécher que de s'en écarter.
 Crois-tu cela ? Il n'y a qu'à regarder.
@@ -1742,8 +1740,6 @@ C'est un message de votre cher Antoine.
 C'est une lettre de Marc-Antoine, notre ami de Messine.
 Ta mère s'est trompée à cause de la ressemblance des noms.
 Si cette lettre est de Perillo, lisez-la-moi, je vous en prie.
-«Je vais bientôt quitter Palerme.
-«Et j'ai entendu Carmosine dire que mon triste amour lui faisait horreur.
 Il était trop beau pour être possible.
 Durant six ans, ce rêve fut ma vie, il fut aussi tout mon courage.
 Maintenant le malheur se montre à moi.
@@ -1802,9 +1798,6 @@ Oui, c'est une chose très ordinaire.
 La salle se remplit de monde.
 Faites place, retirez-vous.
 SER VESPASIANO, à Minuccio.
-Eh bien ! ne l'avez-vous pas gardé ? C'est juste.
-Voici Leurs Majestés.
-[LA REINE, à demi voix aux assistants.
 Ne vous effrayez pas, bonnes gens.
 Vous savez combien il vous aime.
 Nous sommes tous solidaires, nous répondons tous des hécatombes du jour de Pâques.
@@ -1830,7 +1823,6 @@ En vérité ! À Perillo.
 Comment t'appelles-tu ? Perillo, Sire.
 Eh bien ! Perillo, en venant ici, tu as trouvé ton étoile.
 Perillo s'agenouille de nouveau devant la reine, qui lui donne sa main à baiser.
-Perillo, [tu as raison de vouloir être soldat plutôt qu'avocat.
 Celui qui cherche la mort peut aussi la donner.
 Commence par là ; c'est le plus sage.
 Perillo, en sortant, rencontre Minuccio et échange quelques mots avec lui.
@@ -1838,7 +1830,6 @@ Il nous dira quelque chose de sa façon.
 MINUCCIO, à Vespasiano.
 Retirez-vous, le roi m'a appelé.
 Bon, bon, la reine m'a fait signe.
-[MINUCCIO, à part.
 Je ne m'en débarrasserai jamais.
 Et des tensons.
 Et des jeux-partis.
@@ -1858,8 +1849,6 @@ Votre Majesté a bien de la bonté.
 Mon mariage n'est point encore fait.
 C'est toi, Vespasiano ? Eh bien ! un autre jour.
 Certainement, Sire, certainement.
-[À part.
-Il ne parle point de Calatabellotte.] Aux demoiselles.
 Qu'avez-vous à rire, vous autres ? Ah ! vous autres ! Oui, vous et les autres.
 Le roi m'interroge, et je réponds.
 SER VESPASIANO, à part.
@@ -1874,8 +1863,6 @@ De quoi parlez-vous ? De mon mariage.
 C'est bien malgré moi, je vous le jure, qu'il n'a pas été consommé.
 Une autre fois, une autre fois.
 Votre Majesté sera satisfaite.
-Dès que je pourrai m'esquiver, je vais voler chez cette belle.] LE ROI, lisant toujours.
-Voilà qui est bien.
 Allons, Minuccio, fais jaser un peu ces jeunes filles.
 Tout le monde s'assoit en cercle.
 Lequel vaut mieux, mesdemoiselles, ou posséder ou espérer ? Il vaut beaucoup mieux posséder.
@@ -1884,7 +1871,6 @@ Et espérer peu de plaisir.
 MINUCCIO, à la troisième demoiselle.
 Ser Vespasiano est vaincu.
 Une autre demande, Minuccio.
-Cependant … Et nous n'en aurons jamais d'autres.
 La musique de ma romance nouvelle n'est pas encore composée ; j'en sais seulement les paroles.
 Eh bien ! soit., Et vous, mesdemoiselles … Sire, nous ne dirons plus un mot.
 SER VESPASIANO, à part.
@@ -1896,7 +1882,7 @@ Est-ce de Cipolla ? Encore moins.
 Silence ! Récite d'abord ta chanson ; tu nous diras ensuite quel est l'auteur.
 On porte ainsi un meilleur jugement.
 Votre Majesté se rit des principes.
-Cependant], jusqu'à dix-huit ans, son coeur n'avait pas encore parlé.
+Que deviendrait la justice ma romance est une jeune fille.
 Voilà un singulier roman.
 À deux genoux je demande merci.
 Par grâce, Amour, va-t'en vers sa demeure.
@@ -1926,7 +1912,6 @@ Non, je vous le jure.
 Pensez-vous cela ? J'espère que non ; cependant je me sens bien coupable.
 Et maintenant … Ne craignez plus rien ; cette fois mes maux vont finir.
 Hier tu en disais autant.
-Oh ! j'en suis bien sûre aujourd'hui.
 Minuccio lui donne sa romance écrite ; elle la relit tout bas.
 LES PRÉCÉDENTS, SER VESPASIANO, DAME PAQUE, sortant de la maison.
 SER VESPASIANO, à dame Pâque.
@@ -1973,21 +1958,19 @@ CARMOSINE ET PERILLO viennent du fond.
 Il faut me le promettre, Antoine.
 Songez à ce que deviendrait mon père si Dieu me retirait de ce monde.
 Pourquoi ces cruelles pensées ? vous ne parliez pas ainsi tout à l'heure.
-S'il venait à me perdre, je ne sais vraiment pas comment il supporterait ce malheur.
 S'il devait aujourd'hui n'en avoir plus qu'un seul … Mais vous nous disiez d'espérer.
 Ce n'est rien ; je ne vois personne.
 Vous pouvez encore revenir sur votre détermination, … j'en suis convaincue, je le sais.
+Je ne vous parle pas de cette démarche, ni du prendrez ma place après moi.
 Carmosine ! … Vous me parlez, en vérité, comme si vous aviez un pied dans la tombe.
 Prends garde ! Ne parle pas si haut.
-J'en ai déjà de charmants présages.
 Vous l'aimez beaucoup, Carmosine.
 De qui parles-tu ? Je n'en sais rien ; mais la mort seule n'a point tant d'attraits.
 Je te demande de ne point trahir la confiance que j'ai en toi.
-Soyez sans crainte ; mais, de votre côté, promettez-moi du moins … Il suffit.
-Ma part ! Dieu juste, quelle horreur ! … Et vous pensez qu'il est possible … Épargne-moi, épargne-moi.
+Ma part ! Dieu juste, quelle horreur ! … Et vous pensez qu'il est possible … CARMOSINE, seule.
+chose attentivement, et paraissent se consulter.
 Minuccio semble les retenir … Perillo m'aurait-il trahie ? On sonne une seconde fois.
-Ce sont deux dames voilées qui sonnent.
-Michel, où es-tu ? Ouvre donc] CARMOSINE, LA REINE, MICHEL, ouvrant la grille.
+CARMOSINE, LA REINE, MICHEL, ouvrant la grille.
 Une femme, qui accompagne la reine, reste au fond du théâtre.
 N'est-ce pas ici que demeure maître Bernard, le médecin ? Oui, madame.
 Puis-je lui parler ? Je vais l'avertir.
@@ -2004,14 +1987,15 @@ Il le mérite à tous égards.
 Maître Bernard et Minuccio paraissent sur le seuil de la maison.
 MAITRE BERNARD, bas à Minuccio.
 Qui donc est là avec ma fille ? Ne dites mot, venez avec moi.
+vous demande encore une fois pardon de ce que ma démarche peut avoir d'étrange.
 Vous êtes souffrante, m'a-t-on dit.
 Un peu, madame.
 On ne le croirait pas.
 Il ne saurait être bien sérieux, à votre âge.
 En tout temps, Dieu fait ce qu'il veut.
 Cela est cruel.
-Un homme, sans doute, doit s'en défendre.
 Je n'en obtiendrai pas davantage.
+Dès qu'elle se marie, il me semble … Eh bien ! achevez votre pensée.
 Mais je craindrais … Parlez, de grâce, je vous écoute ; je m'intéresse aussi à votre amie.
 Que dites-vous ? Supposez plus encore.
 CARMOSINE, fléchissant le genou.
@@ -2022,7 +2006,7 @@ Personne n'a compté mes nuits, personne n'a vu toutes mes larmes, pas même mon
 Ah ! je ne croyais pas que j'en viendrais jamais à en parler moi-même.
 Ce secret ! c'était ma vie elle-même, et je la lui ai envoyée.
 Voilà mon histoire, madame, je voulais qu'il la sût, et mourir.
-Quoi ! madame, c'est le roi lui-même … Qui m'a tout dit.
+Quoi ! madame, c'est le roi lui-même … guérissiez, que vous soyez heureuse.
 Je ne vous demandais, moi, qu'un peu d'amitié.
 CARMOSINE, d'une voix faible.
 C'est lui qui veut que je reprenne courage ? Oui ; je vous répète ses propres paroles.
@@ -2043,16 +2027,15 @@ Oui, en ce moment le prêtre est à l'autel, et tous s'inclinent devant lui.
 Prions ensemble, mon enfant ; demandons à Dieu quelle réponse vous allez faire à votre roi.
 On entend de nouveau le son des clairons.
 Des écuyers et des hommes d'armes s'arrêtent à la grille, le roi paraît bientôt après.
-Elle a été, Sire, et elle est encore gravement malade.
 Il est vrai que, depuis ce matin à peu près, l'amélioration est notable.
 Je m'en réjouis.
+En bonne foi, il serait fâcheux que le monde fût À Carmosine.
 Approchez un peu, je vous prie.
-[SER VESPASIANO, à Minuccio.
 Voyez-vous ce que je vous ai dit ? Il va arranger toute l'affaire.
 Calatabellotte est à moi.
 Point, c'est une simple consultation, qu'ils vont faire en particulier.
 Les Espagnols tiennent cela des Arabes.
-Le roi est un grand médecin ; c'est la méthode d'Albucassis.] LE ROI, à Carmosine.
+Le roi est un LE ROI, à Carmosine.
 Vous tremblez, je crois.
 Vous défiez-vous de moi ? Non, Sire.
 Eh bien ! donc, donnez-moi la main.

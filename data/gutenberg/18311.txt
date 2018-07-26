@@ -60,8 +60,6 @@ HERMIONE., Jamais ? LÉONTES., Jamais, qu'une seule fois.
 Mais allons au but.
 LÉONTES., Vraiment ! c'est mon beau petit coq.
 Quoi ! as-tu noirci ton nez ? On dit que c'est une copie du mien.
-Allons, petit capitaine, il faut être propre.
-Quoi, toujours jouant du virginal sur sa main.
 POLIXÈNE., Qu'a donc le roi de Sicile ? HERMIONE., Il paraît un peu troublé.
 (A part.).
 (A part, observant Hermione.), Je pêche en ce moment, quoique tu n'aperçoives point l'hameçon.
@@ -141,8 +139,7 @@ Veillez sur votre enfant, seigneur ; il est à vous.
 Va, jette-le au feu, car c'est toi qui animes ta femme.
 LÉONTES., Vous êtes tous des menteurs.
 LÉONTES., Tu pourras le faire.
-Jure sur cette épée que tu exécuteras mes ordres.
-[Note onze : Forme de serment jadis usitée.] ANTIGONE., Je le jure, seigneur.
+Jure sur cette épée que tu exécuteras mes ANTIGONE., Je le jure, seigneur.
 ANTIGONE., Je jure de le faire, quoiqu'une mort présente eût été plus miséricordieuse.
 UN SEIGNEUR., Vous conviendrez, seigneur, qu'ils ont fait une incroyable diligence.
 Tant qu'elle respirera, mon coeur sera pour moi un fardeau.
@@ -157,7 +154,6 @@ Ce fantôme dont vous voulez m'épouvanter, je le cherche.
 Seigneur, je m'en rapporte à l'oracle : qu'Apollon soit mon juge.
 CLÉOMÈNE ET DION., Nous jurons tout cela.
 LÉONTES., Brisez le sceau et lisez.
-[Note douze : C'est le vixit des Latins.] LÉONTES., Comment, parti ? LE PAGE., Est mort.
 Hélas ! j'ai trop montré la témérité d'une femme ; il est blessé dans son noble coeur.
 Recueillez toute votre patience, je ne dirai plus rien.
 (Ils sortent.) Un désert de la Bohême voisin de la mer.
@@ -208,7 +204,9 @@ MOPSA., Allons en mesure.
 POLIXÈNE., Elle danse avec grâce.
 LE FILS DU BERGER., Il ne pouvait pas venir plus à propos.
 LE VALET., Il a des chansons pour l'homme ou la femme de toutes grandeurs.
+Elle s'en débarrasse et lui fait lâcher POLIXÈNE., Voilà un honnête garçon.
 LE FILS DU BERGER., Sur ma parole, tu parles d'un marchand bien ingénieux.
+LE FILS DU BERGER., Je t'en prie, amène-le-nous, et qu'il s'avance en chantant.
 PERDITA., Avertissez-le d'avance de ne pas se servir de mots inconvenants dans ses airs.
 PERDITA., Oui, mon cher frère, ou que je n'ai envie de le savoir.
 AUTOLYCUS s'avance en chantant.
@@ -319,8 +317,8 @@ AUTOLYCUS., Je serais bien aise de savoir l'issue de tout cela.
 (Survient un autre gentilhomme.) PREMIER GENTILHOMME., Voici un gentilhomme qui peut-être en saura davantage.
 Quelles nouvelles, Roger ? SECOND GENTILHOMME., Rien que feux de joie.
 PREMIER GENTILHOMME., Sont-ils revenus à la cour ? TROISIÈME GENTILHOMME., Non.
+Shakspeare, qui naquit dix-huit ans après sa mort.
 Le poëte commet ici un anachronisme volontaire pour louer le peintre.
-Notre absence nous fait perdre des connaissances précieuses.
 LE FILS, à Autolycus., Je suis bien aise de vous rencontrer, monsieur.
 Vous feriez bien mieux de dire que ces vêtements ne sont pas nés gentilshommes.
 AUTOLYCUS., Je sais que vous êtes actuellement, monsieur, un gentilhomme né.

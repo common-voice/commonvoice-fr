@@ -5,7 +5,6 @@ SLENDER, cousin de Shallow.
   HÔTE deux propriétaires, habitants Monsieur PAGE.
   } de Windsor.
 WILLIAM PAGE, jeune garçon, fils de Monsieur Page.
-SIR HUGH EVANS, curé gallois.
 LE DOCTEUR CAIUS, médecin français.
 PISTOL,         }  suivants de Falstaff.
 ROBIN, page de Falstaff.
@@ -15,19 +14,15 @@ MISTRISS ANNE PAGE, sa fille, amoureuse de Fenton.
 MISTRISS QUICKLY, servante du docteur Caius.
 Domestiques de Page, de Ford, etc.
 La scène est à Windsor et dans les environs.
+A Windsor, devant la maison de Page.
 Entrent LE JUGE SHALLOW, SLENDER et sir HUGH EVANS.
 SHALLOW., Tenez, sir Hugh, ne cherchez pas à m'en dissuader.
 Je veux porter cela à la chambre étoilée.
 Fût-il vingt fois sir John Falstaff, il ne se jouera pas de Robert Shallow, écuyer.
 SLENDER., Écuyer du comté de Glocester, juge de paix et coram.
-SHALLOW., Oui, cousin Slender, et aussi Cust-alorum.
-SHALLOW., C'est une vieille casaque.
-EVANS., Il peut très-bien se trouver sur une vieille casaque une douzaine de lous-lous blancs.
-Cela va parfaitement ensemble, c'est un animal familier à l'homme, un emblème d'affection.
-[Note quatre : White luce (brochets).
-EVANS., Il gâtera tout, s'il écartèle.
-[Note sept : It is marring indeed, if he quarter it.
-Shallow lui a dit qu'il pouvait écarteler en se mariant (marrying).
+la chose, c'est que la casaque est vieille.
+Loulou est un mot rendre en français.
+qu'il pouvait écarteler en se mariant (marrying).
 Evans lui répond qu'en effet écarteler (quarter) est le moyen de tout gâter (marring).
 If he has a quarter of your coat, there is but three skirts for yourself.
 SHALLOW., Non, le conseil en entendra parler : il y a rébellion.
@@ -58,13 +53,12 @@ SHALLOW., Ce n'est pas de cela qu'il s'agit., Vous aurez à en répondre.
 FALSTAFF., Je vais répondre sur-le-champ : j'ai fait tout cela.
 Voilà ma réponse.
 SHALLOW., Le conseil connaîtra de l'affaire.
+on se moquera de vous.
 EVANS., Pauca verba, sir John, et de bonnes choses.
 BARDOLPH., Comment ! fromage de Banbury ? SLENDER., Bien, bien il ne s'agit pas de cela.
-PISTOL., Comment, Méphistophélès ? SLENDER., A la bonne heure, mais il ne s'agit pas de cela.
+SLENDER., A la bonne heure, mais il ne s'agit pas de cela.
 NYM., Une balafre.
 Je dis : pauca, pauca.
-Une balafre, voilà la chose.
-[Note huit : 'Twere better for you, if it were known in counsel.
 Falstaff répond : Good worts, good cabbage.
 Cabbage signifie chou, et worts est un vieux mot ayant la même signification.
 Il le met à tout propos, et hors de propos, dans la bouche de Nym.
@@ -76,7 +70,6 @@ FALSTAFF., Pistol, cela est-il vrai ? EVANS., Non, c'est faux, si c'est une bou
 SLENDER., Par ces gants, alors, c'est donc cet autre.
 (Montrant Nym.) NYM., Prenez garde, monsieur, finissez vos plaisanteries.
 SLENDER., Par ce chapeau, c'est donc celui-là, avec sa figure rouge.
-FALSTAFF, à Bardolph., Que répondez vous, Jean et l'Ecarlate ? [Note douze : Scarlet and John.
 EVANS., Il faut dire les cinq sens.
 SLENDER., Oui, vous parliez aussi latin ce soir-là.
 Vous l'avez entendu.
@@ -94,8 +87,7 @@ Je vous expliquerai la chose, si vous êtes capable de cela.
 SLENDER., Non, je veux agir comme mon cousin Shallow me le dira.
 EVANS., Mais ce n'est pas là la question : la question est concernant votre mariage.
 SHALLOW., Oui, c'est là le point, mon cher.
-EVANS., Vous marier, c'est là le point, et avec mistriss Anne Page.
-[Note treize : Marry is it.
+SLENDER., Eh bien ! s'il en est ainsi, je veux bien l'épouser, sous toutes conditions raisonnables.
 EVANS., Eh ! non.
 Par les bienheureuses âmes d'en haut, vous devez répondre de ce qui est possible.
 Pouvez-vous tourner vos désirs vers elle.
@@ -136,7 +128,6 @@ Entrent FALSTAFF, L'HÔTE, BARDOLPH, NYM, PISTOL et ROBIN.
 FALSTAFF., Franchement, mon hôte, il faut que je réforme quelques-uns de mes gens.
 L'HÔTE., Congédie, mon gros Hercule : chasse-les allons, qu'ils détalent.
 FALSTAFF., Je vis céans, à raison de dix livres par semaine.
-L'HÔTE., Tu es un empereur, un César, un Kaiser, un casseur, comme tu voudras.
 Je prendrai Bardolph à mes gages : il percera mes tonneaux, il tirera le vin.
 L'HÔTE., J'ai dit : il peut me suivre.
 (A Bardolph.) Je veux te voir travailler la bière, et frelater le vin.
@@ -158,6 +149,7 @@ PISTOL., Les petits des corbeaux doivent avoir leur pâture.
 FALSTAFF., Mes bons garçons, il faut que je vous apprenne où j'en suis.
 PISTOL., A deux aunes de tour et plus.
 FALSTAFF., Trêve de plaisanterie pour le moment, Pistol.
+Je suis gros, dépenser : je m'occupe de faire ressource.
 En deux mots, j'ai le projet de faire l'amour à la femme de Ford.
 NYM., L'ancre est jetée bien avant.
 PISTOL., Et autant de diables à ses trousses.
@@ -188,6 +180,7 @@ QUICKLY., Allons, allons, que Dieu n'envoie pas de plus mauvais lot à Anne Page
 Dites à Monsieur le curé Evans que je ferai de mon mieux pour votre maître.
 Courez à cette porte, bon jeune homme ; entrez dans le cabinet.
 (Elle chante.) La, re, la, la rela, etc.
+(Le docteur Caius rentre.) bagatelles.
 Allez, je vous prie, chercher dans mon cabinet une boîte verte, un coffre vert, vert.
 Du reste, cela ne se trouve guère ainsi que dans la première scène.
 S'il avait trouvé le jeune homme ! Les cornes lui seraient venues à la tête.
@@ -212,8 +205,8 @@ CAIUS., Sir Hugh Evans vous a envoyé ? Baillez-moi une feuille de papier, Rugb
 SIMPLE., C'est une forte charge que d'avoir comme cela quelqu'un sur les bras.
 Il n'est ni chez vous ni chez nous.
 Vous ferez bien de vous en aller : il n'est pas bon que vous restiez.
-Palsambleu ! je lui couperai toutes ses deux oreilles.
-Palsambleu ! je ne lui laisserai pas un os qu'il puisse jeter à son chien.
+Palsambleu ! laisserai pas un os qu'il puisse jeter à son chien.
+(Simple sort.) QUICKLY., Hélas ! il ne parle que pour son ami.
 Palsambleu ! je veux avoir Anne Page pour moi.
 QUICKLY., Monsieur, la jeune fille vous aime, et tout ira bien.
 Il faut laisser jaser le monde.
@@ -253,9 +246,6 @@ Oh ! si mon mari voyait cette lettre, elle fournirait un aliment éternel à sa
 MISTRISS PAGE., Regardez, le voilà qui vient, et mon bon mari avec lui.
 MISTRISS FORD., Vous êtes la plus heureuse des deux.
 MISTRISS PAGE., Allons comploter ensemble contre notre gras chevalier., Retirons-nous de côté.
-PISTOL., L'espoir, dans certaines affaires, n'est autre chose qu'un chien écourté.
-Sir John convoite ta femme.
-[Note dix-neuf : Curtail dog.
 Ford, sois sur tes gardes.
 Oh ! l'odieux nom ! FORD., Quel nom, monsieur ? PISTOL., Le nom de corne.
 (Pistol sort.) FORD., J'aurai de la patience.
@@ -267,8 +257,9 @@ Ce gaillard-là a un grand talent pour mettre les choses à rebours du bon sens.
 FORD., Je prétends trouver Falstaff.
 PAGE., Je n'ai jamais vu un drôle si compassé et si affecté.
 FORD., Si je découvre quelque chose, nous verrons.
+me serait caution de sa sincérité.
 FORD., Celui-ci m'a tout l'air d'un honnête homme et d'un homme de sens.
-PAGE, à sa femme., Ah ! te voilà, Meg ? [Note vingt : Cataian, voyageur revenant du Cataï.
+MISTRISS PAGE., Où allez-vous, George ?, Écoutez.
 Nous avons à causer avec vous.
 FORD., Ils étaient à ses gages ? PAGE., Eh ! sans doute.
 FORD., Je n'en aime pas mieux l'avis qu'ils nous donnent.
@@ -300,9 +291,6 @@ FALSTAFF., Bon, poursuis ; mistriss Ford, dites-vous ? QUICKLY., Votre Seigneu
 Je prie Votre Seigneurie, un peu plus de ce côté.
 Vous l'avez mise en train de telle sorte, que c'est une chose surprenante.
 Eh bien, je vous réponds qu'ils n'obtinrent pas d'elle un seul coup d'oeil.
-Pourtant il y avait des comtes ; bien plus, des gardes du roi.
-Eh bien, je vous réponds que pour elle c'est tout un.
-[Note vingt-quatre : Pensioners.
 Au fait, mon cher Mercure femelle.
 QUICKLY., Bon, c'est bien dit.
 Mais j'ai encore une autre commission pour Votre Seigneurie.
@@ -354,9 +342,9 @@ C'est à cette heure-là que son maudit jaloux, son mari, doit être absent.
 Revenez me trouver ce soir, vous verrez comme j'avance les affaires.
 Je veux l'avoir comme une clef du coffre de ce coquin de cornard.
 Ce sera ma ferme.
-FALSTAFF., Qu'il aille se faire pendre, ce manant de mangeur de croûtes.
-Je veux lui faire une peur à ne savoir où donner de la tête.
+FALSTAFF., Qu'il aille se faire pendre, ce manant de mangeur de tête.
 Reviens me trouver ce soir.
+(Falstaff sort.) FORD., Damné pendard de débauché ! le coeur me crève de colère.
 CAIUS., Palsambleu ! il a sauvé son âme en ne venant pas.
 Il a bien prié dans sa Bible puisqu'il ne vient pas.
 Palsambleu ! Jack Rugby, il est mort s'il vient.
@@ -370,7 +358,6 @@ Nous sommes les enfants des femmes, monsieur Page.
 PAGE., C'est une vérité, monsieur Shallow.
 SHALLOW., Cela se retrouve toujours, monsieur Page.
 Il faut que je vous ramène, et que vous m'accompagniez, monsieur le docteur.
-[Note vingt-six : Muck water.
 CAIUS., Palsambleu ! j'ai plus de papier mâché dans ma personne que l'Anglais.
 CAIUS., Palsambleu ! voyez-vous ; il me chantera pouille.
 Je veux, moi, qu'il en soit ainsi.
@@ -398,7 +385,7 @@ EVANS., Je vous prie donnez-moi ma robe, ou plutôt gardez-la entre vos bras.
 SHALLOW., Eh ! qui vous savait ici, monsieur le curé ? Bien le bonjour, sir Hugh.
 Surprenez un joueur sans ses dés, et un docteur sans ses livres, vous crierez miracle.
 PAGE., Nous sommes venus vous chercher, monsieur le curé, pour faire une bonne oeuvre.
-[Note vingt-sept : Four score.
+placée dans le printemps de mille quatre cent quatorze.
 Jean de Gaunt était né en mille trois cent trente-neuf.
 PAGE., Je parie que c'est lui qui devait se battre avec le docteur.
 Retenez-les tous deux., Voilà le docteur Caius.
@@ -430,8 +417,6 @@ SHALLOW., Quant à moi, il faut que vous m'en dispensiez, monsieur Ford.
 SLENDER., Il faut bien que vous m'excusiez aussi.
 SLENDER., J'espère que vous êtes pour moi, père Page.
 CAIUS., Oui, palsambleu ! et la jeune fille m'aime : ma gouvernante Quickly m'a dit tout cela.
-Allez, c'est lui qui l'aura ; ses boutons ont fleuri.
-C'est lui qui l'aura.
 S'il prend ma fille, qu'il la prenne sans dot.
 Mon argent attend mon consentement, et mon consentement n'est pas pour lui.
 FORD., Que du moins quelques-uns de vous viennent dîner avec moi.
@@ -453,7 +438,7 @@ MISTRISS FORD., Allez., Toi, va dire à ton maître que je suis seule.
 Mistriss Page, souvenez-vous de votre rôle.
 (Robin sort.) MISTRISS PAGE., Je te le promets.
 Si j'y manque, sifflez-moi.
-(Falstaff entre.) FALSTAFF., T'ai-je obtenu, mon céleste bijou ? Je mourrais maintenant sans regret.
+(Falstaff entre.) sans regret.
 N'ai-je pas assez vécu ? C'est ici le terme de mon ambition.
 MISTRISS FORD., Moi votre lady, sir John ! Hélas ! je serais une pauvre lady.
 FALSTAFF., Tu es une traîtresse de parler ainsi.
@@ -469,8 +454,9 @@ C'est précisément le moment de la lessive, envoyez-le par vos gens au pré Dat
 MISTRISS FORD., Il est trop gros pour y entrer.
 (Entrent Ford, Page, Caius, sir Hugh Evans.) FORD., Approchez, je vous prie.
 Arrêtez ; où portez-vous ceci ? ROBERT., Vraiment, à la rivière.
-Si je pouvais me laver aussi de cette corne de cerf.
 Commençons par chercher mes clefs ; les voilà.
+le mot buck qui signifie également lessive, lessiver et daim.
+Le jeu PAGE., Cher monsieur Ford, calmez-vous ; c'est trop vous faire injure à vous-même.
 FORD., Soit, monsieur Page, soit.
 Montons, messieurs ; vous allez avoir du plaisir.
 EVANS., Ce sont là des visions, et des jalousies bien fantastiques.
@@ -497,7 +483,7 @@ PAGE., Allons, messieurs, entrons.
 J'ai un faucon admirable pour le bois.
 Est-ce chose dite ? FORD., Tout à fait.
 EVANS., S'il y en a un, je serai le second de la compagnie.
-CAIUS., S'il y en a un ou deux, je serai le troisième.
+FORD., Monsieur Page, venez, je vous en prie.
 (Ils sortent.
 CAIUS., C'est bon, oui de tout mon coeur.
 EVANS., Ce pouilleux de coquin avec ses tours et ses moqueries.
@@ -520,9 +506,7 @@ O mon garçon ! tu avais un père … SLENDER., J'avais un père, mistriss Ann
 SHALLOW., Mistriss Anne, mon neveu vous aime.
 SLENDER., Oui, je vous aime autant que j'aime aucune autre femme du comté de Glocester.
 SHALLOW., Il vous entretiendra conformément à votre qualité.
-SLENDER., Je vous en réponds.
-Robe longue ou robe courte, personne, dans le rang d'écuyer, ne m'en revaudra.
-[Note trente-deux : Come curt and long tail, viennent courte et longue queue.
+dans le rang d'écuyer, ne m'en revaudra.
 ANNE., Mon bon monsieur Shallow, laissez-le faire sa cour lui-même.
 SHALLOW., Vraiment, je vous en remercie ; je vous remercie de cet encouragement.
 Cousin, elle vous appelle : je vous laisse.
@@ -539,13 +523,11 @@ Accordez-moi votre appui.
 ANNE., Ma bonne mère, ne me mariez pas à cet imbécile.
 MISTRISS PAGE., Ce n'est pas mon intention : je vous cherche un meilleur époux.
 QUICKLY., C'est le docteur, mon maître.
-ANNE., Hélas ! j'aimerais mieux être enterrée vivante, ou assommée à coups de navets.
-[Note trente-trois : Bow'd to death with turnips.] MISTRISS PAGE., Allons, ne vous chagrinez pas.
 Monsieur Fenton, je ne serai ni votre amie, ni votre ennemie.
 Jusque-là, adieu, monsieur : il faut que Nancy rentre ; son père se fâcherait.
 (Mistriss Page et Anne sortent.) FENTON., Adieu, ma chère madame ; adieu, Nan.
-Fenton., Mais nos dames m'ont donné une autre commission pour le chevalier sir John Falstaff.
 Quelle bête je suis de m'amuser ici.
+(Elle sort.) Une chambre dans l'hôtellerie de la Jarretière.
 Entrent FALSTAFF et BARDOLPH.
 FALSTAFF., Bardolph, holà ! BARDOLPH., Me voilà, monsieur.
 FALSTAFF., Va me chercher une pinte de vin d'Espagne, et mets une rôtie dedans.
@@ -557,8 +539,8 @@ BARDOLPH., Entrez, la femme.
 Je donne le bonjour à Votre Seigneurie.
 FALSTAFF., Ote-moi tous ces calices ; prépare-moi un pot de vin d'Espagne avec du sucre.
 BARDOLPH., Et des oeufs, monsieur ? FALSTAFF., Non, simple, naturel.
-[Note trente-cinq : un have ford enough.
-Falstaff joue ici sur le mot ford, qui signifie un cours d'eau peu profond.
+m'a mis dedans ; j'en ai le ventre Plein.
+signifie un cours d'eau peu profond.
 FALSTAFF., Eh bien ! je consens à l'aller visiter.
 Dites-lui de réfléchir sur ce que vaut un homme.
 Qu'elle considère sa propre fragilité, et qu'elle apprécie mon mérite.
@@ -579,9 +561,8 @@ FORD., Il est déjà huit heures passées, monsieur.
 FALSTAFF., En vérité ? Je pars donc pour mon rendez-vous.
 Adieu, adieu, vous l'aurez, monsieur Brook.
 Monsieur Brook, vous ferez Ford cocu.
-Le sens d'hornmad n'est pas bien déterminé.
 On ne sait si c'est fou de jalousie, ou fou par l'influence de la lune.
-Horns, croissant : le jeu de mots ne pouvait se rendre en français.] La rue.
+Horns, croissant : le jeu La rue.
 Entrent MISTRISS PAGE, MISTRISS QUICKLY et WILLIAM.
 Mistriss Ford vous prie de venir sur-le-champ.
 Voici son maître., Je vois que c'est aujourd'hui jour de congé.
@@ -590,10 +571,7 @@ EVANS., Ici, William ; levez la tête, allons.
 MISTRISS PAGE., Venez ici, mon enfant ; levez la tête, répondez à votre maître.
 N'ayez pas peur.
 EVANS., William, combien de nombres dans les noms ? WILLIAM., Deux.
-QUICKLY., Vraiment, j'aurais cru que les noms étaient impairs, car on dit : pair ou non.
-EVANS., Finissez voire babil.
-Qu'est-ce que c'est blanc, William ? [Note trente-sept : Od's nouns.
-C'est sur le mot pulcher qu'Evans interroge William.
+Quickly entend polcats (putois) et s'écrie qu'il y a des WILLIAM., Albus.
 Qu'est-ce que c'est lapis, William ? WILLIAM., Une pierre.
 EVANS., Et qu'est-ce que c'est une pierre, William ? WILLIAM., Un caillou.
 EVANS., Non, c'est lapis.
@@ -605,10 +583,11 @@ Bien ! qu'est-ce que c'est que l'accusatif ? WILLIAM., Accusativo, hunc.
 EVANS., Je vous en prie, rappelez-vous, enfant.
 Accusativo, hunc, hanc, hoc.
 QUICKLY., Hein, quand, coq.
-C'est du latin pour la basse-cour, sur ma parole.
 EVANS., Finissez donc, la femme.
 MISTRISS PAGE., Paix donc.
 WILLIAM., Génitif, horum, harum, horum.
+coquine ? enfant, ne parlez jamais de cette créature-là.
+Il a fallu, pour être EVANS., N'avez-vous pas de honte, la femme ? QUICKLY., Non.
 Vous avez tort d'apprendre ces choses-là à cet enfant.
 MISTRISS PAGE., Je t'en prie, tais-toi.
 EVANS., A présent, William, dites-moi quelques déclinaisons de vos pronoms.
@@ -682,7 +661,6 @@ Cela est hors de notre portée ; nous n'y connaissons rien.
 Descendez, sorcière que vous êtes, vieille bohémienne ; descendez, quand je vous le dis.
 MISTRISS FORD., Non, mon bon cher mari.
 Mes bons messieurs, empêchez-le de frapper la vieille femme.
-[Note quarante-trois : Mother prat.
 Hors de chez moi, sorcière.
 (Il le bat.) Vieux graillon, coquine, drôlesse, salope que vous êtes.
 Ah ! je vous conjurerai, moi, je vous dirai la bonne aventure.
@@ -725,13 +703,8 @@ EVANS., Dépêchons-nous, ce sera un plaisir admirable, et une très-vertueuse f
 Slender a de bons biens, mais c'est un idiot.
 (Elle sort.) Une pièce dans l'hôtellerie de la Jarretière.
 Entrent L'HÔTE et SIMPLE.
-Sur la muraille est peinte tout fraîchement et tout nouvellement l'histoire de l'Enfant prodigue.
-Allez, frappez, appelez ; il vous parlera comme un anthropophaginien.
-Frappez, vous dit-on.
-[Note quarante-cinq : Running bed.
 L'HÔTE., Ah ! une grosse femme ! Elle pourrait voler le chevalier.
-Es-tu là ? C'est ton hôte, ton Ephésien qui t'appelle.
-[Note quarante-sept : Ephesian.
+Je vais l'appeler., Eh ! mon gros chevalier, gros sir John, parle-nous du creux qui t'appelle.
 Mes appartements sont honnêtes.
 FALSTAFF., J'ai parlé de cela à la vieille femme.
 Slender est précisément celui-là même qui la lui a dérobée.
@@ -744,14 +717,12 @@ FALSTAFF., Dissimule-les, ou tu es mort.
 FALSTAFF., Oui, oui, c'est sa destinée.
 SIMPLE., Quoi, monsieur ? FALSTAFF., De l'avoir ou non.
 Allez, rapportez-lui que la vieille femme me l'a dit ainsi.
-[Note quarante-huit : Master tike.
 Je réjouirai mon maître par ces bonnes nouvelles.
 (Simple sort.) L'HÔTE., Tu es un savant, tu es un savant, sir John.
 (Entre Bardolph.) BARDOLPH., Hélas ! merci de nous, monsieur ; nous sommes volés, volés, en conscience.
 L'HÔTE., Où sont mes chevaux ? Rends-moi bon compte de mes chevaux, coquin.
 BARDOLPH., Partis avec les filous.
 Je vous en informe par bonne volonté, voyez-vous.
-(Il sort.) [Note quarante-neuf : Couzin germans, hat have cozened.
 Je vous dis ceci par bonne volonté.
 (Il sort.) L'HÔTE., Au secours ! haro ! Cours, traître !, Assistez-moi, chevalier.
 Je suis ruiné.
@@ -774,13 +745,11 @@ Adieu ; je m'y rendrai.
 Voici la troisième tentative ; le nombre impair me portera bonheur, j'espère.
 FALSTAFF., Adieu, vous dis-je : le temps se perd, allez, levez la tête, et rengorgez-vous.
 (Sort mistriss Quickly.
-Je suis pressé, venez avec moi ; je vous conterai tout cela, monsieur Brook.
 Suivez-moi, je vous dirai d'étranges choses de ce coquin de Ford.
 J'en serai vengé cette nuit et je vous livrerai sa femme.
 Votre expédition est réglée ; j'ai la Ford dans mes mains.
 Venez, d'étranges affaires se préparent, monsieur Brook, venez.
-(Ils sortent.) [Note cinquante : Life is a shuttle.
-Allusion à des paroles de l'Écriture.] Le parc de Windsor.
+(Ils sortent.) Le parc de Windsor.
 Entrent PAGE, SHALLOW ET SLENDER.
 PAGE., Venez, venez.
 Mon fils Slender, songez à ma fille.
@@ -807,15 +776,11 @@ Allons, allons, trottez, trottez.
 Entre FALSTAFF déguisé avec un bois de cerf sur la tête.
 FALSTAFF., L'horloge de Windsor a sonné minuit ; l'heure s'avance., Dieux au sang amoureux, assistez-moi maintenant.
 Souviens-toi, Jupiter, que tu devins taureau pour ton Europe : l'amour s'assit entre tes cornes.
-(Il l'embrasse.) [Note cinquante-quatre : Black scut.] [Note cinquante-cinq : Potatoes.
-Les patates, lorsqu'on les introduisit en Angleterre, y passaient pour un stimulant.
+(Il l'embrasse.) Angleterre, y passaient pour un stimulant.
+Pour les MISTRESS FORD, Mistriss Page est venue avec moi, mon cher coeur.
 FALSTAFF., Partagez-moi comme un chevreuil offert à deux juges ; prenez chacune un quartier.
-Je garde pour moi mes côtes ; mes épaules seront pour le garde du bois.
-Quant à mes cornes, je les lègue à vos maris.
-[Note cinquante-six : The fellow of this walk.
 (Entrent sir Hugh Evans en satyre, mistriss Quickly et Pistol.
 Lutin crieur, faites l'appel des Fées.
-[Note cinquante-sept : You orphan-heirs of fixed destiny.
 Ensuite heir, dans la langue de Shakspeare, signifie pour le moins aussi souvent possesseur qu'héritier.
 Notre rayonnante reine hait les malpropres et la malpropreté.
 FALSTAFF, bas, tremblant., Ce sont des lutins ! quiconque leur parle est mort.
@@ -826,8 +791,7 @@ PISTOL., A l'épreuve, venez ! EVANS., Venez voir si son bois prendra feu.
 EVANS., Cela est juste ; il est plein de vices et d'iniquités.
 Un bruit de chasse se fait entendre derrière le théâtre ; toutes les fées s'enfuient.
 Ses chevaux sont saisis pour gage, monsieur Brook.
-[Note cinquante-huit : My deer.
-Toujours le même jeu de mots entre deer et dear.
+Allons, je ne vous prendrai plus dear.
 MISTRISS FORD., Oui ; et aussi un boeuf gras : les preuves subsistent.
 EVANS., Le fromage n'est pas bon avec le beurre ; et votre ventre est tout beurre.
 MISTRISS PAGE., D'un essoufflé ! PAGE., Vieux, glacé, flétri, et d'une bedaine intolérable.

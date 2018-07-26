@@ -104,7 +104,6 @@ LE CHEVALIER, riant.
 Ha ! ha ! LA CHÂTELAINE.
 Quel scandale ! BERTRAND.
 Maintenant, hébergez-moi, car j'ai grand appétit et suis fort las.
-[Illustration : Du Guesclin s'échappant de la tour.] LE CHEVALIER.
 Merci, cher oncle ! N'est-ce pas que vous m'apprendrez à faire des armes ? LA CHÂTELAINE.
 Votre indulgence achèvera de le perdre.
 Une place publique devant la maison du chevalier de La Motte.
@@ -178,7 +177,6 @@ Oh ! je serai vainqueur.
 (Il met la lance en arrêt et attaque un chevalier.) LE CHEVALIER.
 Quelle intrépidité ! RACHEL.
 Madame, c'est le même qui tout à l'heure était si mal vêtu.
-[Illustration : Du Guesclin renverse un chevalier] OLIVIER.
 Quels coups de lance il donne ! JEAN.
 Sans doute il ne veut pas être connu, car il garde toujours sa visière baissée.
 Non, ce jeune chevalier veut combattre encore et sans montrer son visage.
@@ -328,12 +326,13 @@ Voyez ? en suis-je digne ? (Il lui montre ce qu'il vient de peindre.) BUONAVIT
 Quoi ! c'est lui qui a peint ta face de brigand ? BUONAVITA.
 Oui, lui-même ; un instant lui a suffi pour finir ce portrait.
 (Les brigands se rangent autour du portrait de Buonavita.) TOUS, admirant le portrait.
+C'est un miracle, ma foi ! … Vive le petit Filippo ! … BUONAVITA.
 LES PRÉCÉDENTS, RITA accourant éperdue, puis FRANCESCO armé d'une fourche et d'un pieu.
 Rendez-nous nos enfants, nos pauvres enfants.
 Désarmez cet homme, et amenez-le-moi.
 Emmenez vos bestiaux et prenez cette bourse, Francesco.
 Envoyez-le à Florence auprès de Masaccio ; cet or payera ses études.
-[Illustration : Les brigands rendent la liberté à Filippo Lippi.] FRANCESCO, prenant la bourse.
+FRANCESCO, prenant la bourse.
 Que Dieu vous bénisse, monseigneur ! BRUTACCIO.
 Laquelle ? j'y souscris d'avance.
 Je vous le jure ! BUONAVITA.
@@ -349,6 +348,7 @@ Je suis de Melun et je vois cela d'ici, reprit le gentilhomme, continue.
 Cette inclination pour les livres m'est venue tout petit.
 Mon père la surveillait de près et l'empêchait de rien mettre de côté.
 Déballez, lui dis-je, je puis tout de même vous acheter un livre.
+J'aurais voulu rappeler le marchand ; mais il n'était plus temps.
 Oh ! j'aurais voulu en ce moment être une souris et qu'un chat me mangeât.
 Je cachai le livre dans ma paillasse et je me cachai sous mon lit.
 «On frappa : «C'est moi, c'est Jeanne ; ouvre vite, me dit ma soeur aînée.
@@ -376,10 +376,12 @@ Suis-moi sans avoir peur, répliqua le père.
 Des hallebardiers étaient là, éloignant à coups de lance les curieux qui s'aventuraient trop près.
 La foule et les archers, comme frappés de stupeur, les laissèrent s'éloigner.
 Sur l'heure même on fit équiper des chevaux et l'on prit la fuite.
+Il fallut quitter la bonne princesse et se remettre en route.
 Le seigneur d'Aubigné commandait à Orléans pour ceux de sa religion.
 Le vieux Béroalde s'était juré de ramener l'enfant à son père.
 Après bien des périls ils arrivèrent aux portes de la ville assiégée.
 Mais là un spectacle horrible les attendait.
+«N'entrons pas, dit maître Béroalde ; ici la mort est certaine.
 «Ici, toi ici, mon pauvre enfant ! s'écria celui-ci.
 Cependant le fléau l'atteignit.
 Tout en donnant à l'enfant les breuvages prescrits, il ne discontinuait pas de chanter.
@@ -392,6 +394,7 @@ Celui-ci émerveillé prédit à l'enfant qu'il serait un jour un homme célèbr
 Il apprit la rhétorique à Digne et il étudia la philosophie à Aix.
 Il partageait l'opinion du philosophe italien sur le mouvement de la terre.
 Molière et Bachaumont furent ses disciples.
+Voici ce qui s'était passé chez lui depuis qu'il en était sorti furtivement.
 L'enfant, reconnaissant la voix de ses parents, se hâta d'accourir.
 «Que fais-tu dehors à cette heure ? dit le père en secouant rudement son fils.
 Ils rentrèrent tous trois au logis, bras dessus, bras dessous, et en parfaite harmonie.
@@ -434,6 +437,7 @@ Le duc de Bouillon sourit d'orgueil en reconnaissant son enfant.
 L'ennemi ! répéta Turenne à moitié éveillé.
 Son père l'entoura de ses bras et l'y serrant.
 «Prisonnier ! prisonnier de guerre ! s'écria-t-il.
+Vous, mon père ! vous ! dit le jeune vicomte en reconnaissant la voix.
 Dans ses bras aussi,» répliqua l'enfant en baisant son père au front.
 Les serviteurs reprirent à pas précipités la route du château.
 Elle se jeta dans les bras de son mari et de son fils.
@@ -450,7 +454,7 @@ Qui sait ? Mon petit ami, ajouta le vieil officier, vous êtes âpre à la cont
 «Il sera indomptable,» murmura l'officier.
 Le précepteur n'osa pas le contredire et en prévint sa mère.
 En ce moment une ombre blanche glissa derrière le taillis.
-[Illustration : Duel de Turenne] Commençons,» s'écria Henri, impatient du combat.
+Commençons,» s'écria Henri, impatient du combat.
 «Vous, ma mère ! dit-il en se retournant.
 Moi qui viens pour être votre second, répliqua la duchesse en l'embrassant.
 Vous aviez raison, mon enfant ; Alexandre est un héros réel : Quinte Curce n'a pas menti.
@@ -575,12 +579,14 @@ Pour aujourd'hui surtout, ayez à honneur d'être notre Saül.
 Je vous quitte, voilà monseigneur qui arrive, promettez-moi que nous serons contents.
 C'était une ronde de bacchantes qu'il avait composée pour un directeur de théâtre italien.
 Il répondit : «C'est la faute du chapitre qui m'a réduit au désespoir.
+L'organiste s'inclina profondément et se rendit à son poste.
 Les assistants pleuraient d'attendrissement.
 C'est ce qui fait l'idéal des grandes oeuvres des poëtes et des musiciens.
 C'est ainsi qu'il fut tout de suite reçu dans quelques grandes maisons.
 Dès ce jour sa fortune lui parut faite, et, en effet, tout lui sourit.
 Le pauvre organiste de Clermont commençait à goûter ce qu'on appelle la gloire.
 C'est là que la voix s'élevait.
+«Mais je l'adore, répondit la jeune femme en riant.
 Il s'y retira avec son père et sa mère qu'il honora toujours d'un respect religieux.
 Il mourut à cinquante-six ans, pleuré de quelques amis et surtout de Bolingbroke.
 Pope tient dans la poésie anglaise le rang que Boileau occupe dans la poésie française.
@@ -607,7 +613,7 @@ Il rapportait religieusement à son frère tout l'argent de cette vente.
 Quant à lui, il se contentait de l'espèce de gloire qu'il pensait en recueillir.
 Le bon ouvrier lut à son fils avec simplicité les trois scènes.
 Benjamin passait de l'enthousiasme à l'attendrissement.
-[Illustration : James l'appela traître et parjure] James l'appela traître et parjure.
+James l'appela traître et parjure.
 Cependant la nécessité le pressait.
 Toutes lui furent fermées.
 Benjamin accourut, guidé par la sinistre lueur ; plusieurs personnes avaient péri ; c'était un spectacle navrant.
@@ -631,6 +637,7 @@ Nous avons l'honneur d'être en relation avec un certain dominicain qui passe po
 Un cardinal l'aperçut, et dès lors ne cessa plus de l'observer.
 Aux chants succédaient des morceaux de musique instrumentale.
 Mais je crois l'avoir vu, murmura Son Éminence.
+Monseigneur, vous m'avez vu lire et non écrire, répondit l'enfant respectueusement, mais avec assurance.
 Le lendemain, l'enfant de génie était mandé au Vatican : le pape avait désiré le voir.
 Deux attachés de l'ambassade d'Autriche le suivaient.
 En une demi-heure le morceau fut composé, et Mozart reçut son diplôme.

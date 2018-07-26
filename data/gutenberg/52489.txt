@@ -7,7 +7,6 @@ le principe acidifiable qui constitue leur acide propre ; 3º.
 la base saline, terreuse, ou métallique qui détermine l'espèce particulière de sel.
 La seconde partie est principalement formée des tableaux de la nomenclature des sels neutres.
 Un ouvrage de ce genre paroissoit desiré depuis long-temps, & je crois qu'il sera de quelqu'utilité.
-DISCOURS PRÉLIMINAIRE,                                        page v De la formation des fluides aériformes & de leur décomposition ; CHAP.
 Des combinaisons du calorique & de la CHAP.
 Vues générales sur la formation & la CHAP.
 Analyse de l'air de l'atmosphère : CHAP.
@@ -25,9 +24,9 @@ De la fermentation putride,                           cent cinquante-trois CHAP.
 De la fermentation acéteuse,                           cent cinquante-neuf CHAP.
 Des combinaisons du calorique & de la formation des fluides élastiques aériformes.
 (Voyez Mém.
+page quatre cent vingt-six.) planche sept, fig.
 dix-sept, monté sur son pied P.
 Enfin, tout le monde sait que l'eau commence à bouillir à quatre-vingts degrés.
-mille sept cent quatre-vingts, page trois cent trente-cinq.
 qui demeurent constamment dans l'état aériforme, au degré habituel de chaleur & de pression de l'atmosphère.
 C'est ce sens que je vais chercher encore à fixer par quelques définitions.
 Le calorique libre est celui qui n'est engagé dans aucune combinaison.
@@ -78,6 +77,7 @@ On prépare avec le même soin le double de gaz hydrogène.
 Enfin on allume ce gaz à l'aide d'une étincelle électrique.
 En fournissant ainsi de chacun des deux airs, on parvient à continuer très-long-tems la combustion.
 Voyez la troisième partie de cet Ouvrage.
+De la quantité de Calorique qui se dégage des différentes espèces de combustion.
 Voyez Mémoires de l'Acad.
 des Sciences, année mille sept cent quatre-vingts, page trois cent cinquante-cinq.
 Voyez aussi la troisième partie de cet Ouvrage.
@@ -102,7 +102,6 @@ Les acides végétaux qu'on connoît jusqu'à présent, sont au nombre de treize
 C'est ce que je me propose de développer un peu davantage dans le Chapitre suivant.
 Ces acides sont : L'acide lactique.
 De la décomposition des Matières végétales & animales par l'action du feu.
-[B] Ajout dans l'errata du tome deux : Nota.
 Quant à l'azote, il s'unit à l'hydrogène pour former de l'ammoniaque ou alkali volatil.
 Les rectifications successives de ces mêmes huiles présentent un autre phénomène confirmatif de cette théorie.
 De la décomposition des Oxides végétaux par la fermentation vineuse.
@@ -121,6 +120,7 @@ Berthollet a détaillées dans les Mémoires de l'Acad.
 Ils ont remarqué que souvent la partie musculaire se convertissoit en une véritable graisse animale.
 De la Fermentation acéteuse.
 De la formation des Sels neutres, & des différentes bases qui entrent dans leur composition.
+Je ne rangerai pas non telles que la chaux, la magnésie, &c.
 Et toutes les substances métalliques.
 De la Potasse.
 Bientôt après une portion de carbone & une d'hydrogène se combinent pour former de l'huile.
@@ -140,6 +140,7 @@ Suite des réflexions sur les bases salifiables, & sur la formation des Sels neu
 Berthollet va donner incessamment un travail important.
 Ainsi nous avons distingué l'acide sulfureux de l'acide sulfurique, l'acide phosphoreux de l'acide phosphorique.
 les sels neutres formés par l'acide le moins oxygéné.
+De la Combinaison des Acides avec les bases salifiables, & de la Formation des Sels neutres.
 J'y présente 1º.
 Les combinaisons de l'oxygène avec les substances simples métalliques & non métalliques.
 Les combinaisons de l'oxygène avec les radicaux composés.
@@ -309,7 +310,7 @@ _Des Fourneaux,_                                          cinq cent trente-sept 
 _Des moyens d'augmenter considérablement l'action EXTRAIT des Registres de l'Académie Royale des Sciences.
 EXTRAIT des Registres de la Société Royale de Médecine.
 EXTRAIT des Registres de la Société Royale d'Agriculture.
-                                                       six cent cinquante-six [Illustration] Description des appareils & des opérations manuelles de la Chimie.
+                                                       six cent cinquante-six Description des appareils & des opérations manuelles de la Chimie.
 Des instrumens propres à déterminer le poids absolu & la pesanteur spécifique des corps solides & liquides.
 Mais il n'en est pas de même pour les Physiciens & pour les Chimistes.
 c'est-à-dire, en fractions décimales de livres.
@@ -827,4 +828,5 @@ A Paris, ce six Février mille sept cent quatre-vingt-neuf.
 Signé, BROUSSONET, Secrétaire perpétuel.
 De l'Imprimerie de CHARDON, rue de la Harpe.
 mille sept cent quatre-vingt-neuf.
-Fautes à corriger, & Additions
+Fautes à corriger, & Additions.
+Liste des modifications : Page  quatorze : «prêt» remplacé par «près» (que l'éther,  … est tout près)

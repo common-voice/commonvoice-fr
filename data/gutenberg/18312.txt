@@ -2,8 +2,6 @@ Volume cinq Le roi Lear.
 Cymbeline., La méchante femme mise à la raison.
 Peines d'amour perdues., Périclès.
 Il ne réserva rien pour Cordélia.
-[Note un : Chroniques de Hollinshed, Hist.
-of England, liv.
 Ce dénoûment a été changé par Tatel, et Cordélia rétablie dans ses droits.
 Addison s'est prononcé contre ce changement.
 La scène est dans la Grande-Bretagne.
@@ -31,7 +29,9 @@ LEAR., A la bonne heure.
 Que cet orgueil qu'elle appelle franchise serve à la marier.
 Rétracte ton arrêt ; répare, par une plus mûre délibération, ta monstrueuse précipitation.
 LEAR., Kent, sur ta vie, pas un mot de plus.
+contre tes ennemis ; je ne crains pas de la perdre, si c'est pour te sauver.
 LEAR, en colère., Ote-toi de ma vue.
+KENT., Regardes-y mieux, Lear, et laisse-moi demeurer devant tes yeux of thine eye.
 LEAR, mettant la main sur son épée., Vassal ! mécréant ! ALBANIE ET CORNOUAILLES., Cher seigneur, arrêtez.
 KENT., Continue, tue ton médecin, et donne le salaire à ta funeste maladie.
 Va-t'en ; par Jupiter ! cet arrêt ne sera pas révoqué.
@@ -86,15 +86,12 @@ Tout m'est bon, si je puis le faire servir à mes vues.
 GONERILLE., Par le jour et la nuit ! c'est m'insulter.
 OSWALD., Le voilà qui vient, madame ; je l'entends.
 Je voudrais qu'il s'en plaignît.
-Souvenez-vous de ce que je vous ai dit.
-[Note six : As flatteries, when they are seen abused.
 Prévenez vos camarades d'en agir de même.
 Je voudrais trouver en ceci, et j'en viendrai bien à bout, une occasion de m'expliquer.
 (Ils sortent.) Une salle du palais.
 Entre KENT déguisé.
 (Cors de chasse.
 (Sort un domestique.), Ah ! ah ! qui es-tu, toi ? KENT., Un homme, seigneur.
-[Note sept : And to eat no fish.
 Que veux-tu ? KENT., Du service.
 LEAR., Qui voudrais-tu servir ? KENT., Vous.
 LEAR., Qu'est-ce que c'est ? KENT., De l'autorité.
@@ -109,8 +106,6 @@ Allez, et dites à ma fille que je veux lui parler.
 (Sort un chevalier ; rentre Oswald.), Eh ! vous, l'ami ! l'ami ! approchez.
 Qui suis-je, s'il vous plaît ? OSWALD., Le père de ma maîtresse.
 LEAR., Le père de ma maîtresse ! et vous le valet de votre maître.
-KENT., Ni donner du nez en terre non plus, mauvais joueur de ballon.
-[Note huit : Base foot-ball player.
 KENT., Allons, relevez-vous, mon maître, et dehors.
 Je vous apprendrai votre place.
 Hors d'ici ! hors d'ici ! Si vous voulez prendre encore la mesure d'un lourdaud, restez ici.
@@ -125,11 +120,11 @@ LEAR., Tu es un fou bien mordant.
 KENT., Ceci n'est pas tout à fait de la folie, seigneur.
 LEAR., Si vous mentez, vaurien, vous serez fouetté.
 LE FOU., Je me demande quelle parenté tu as avec tes filles.
+(Entre Gonerille.) Depuis quelques jours, je vous trouve un peu trop refrognée.
 LEAR., Quelqu'un me connaît-il ici ? Ce n'est point là Lear.
 LE FOU., Qui feront de vous un père obéissant.
-[Note treize : A brothel.] LEAR., Ténèbres et démons !, Sellez mes chevaux.
-[Note quinze : Like an engine.
-Engine (engin, machine) était le nom de l'instrument ordinaire de la torture.
+LEAR., Ténèbres et démons !, Sellez mes chevaux.
+de l'instrument ordinaire de la torture.
 LE FOU., Noncle Lear, noncle Lear, attends-moi, et emmène ton fou avec toi.
 Un renard qu'on a pris (Il sort.) GONERILLE., Cet homme a été bien conseillé.
 Oswald, m'a-t-on entendu ? ALBANIE., Vous pourriez pousser trop loin vos craintes.
@@ -147,13 +142,10 @@ LEAR, à Kent., Prenez les devants, et rendez-vous à Glocester avec cette lettr
 Si vous ne faites pas la plus grande diligence, j'y arriverai avant vous.
 KENT., Je ne dormirai point, seigneur, que je n'aie remis votre lettre.
 Saurais-tu me dire pourquoi on a le nez au milieu du visage ? LEAR., Non.
-LEAR., C'est moi qui l'ai mise dans son tort.
-[Note seize : un did her wrong.
 Tu serais un très-bon fou.
 LEAR., Comment cela ? LE FOU., Tu n'aurais pas dû être vieux avant d'être sage.
 Je ne voudrais pas devenir fou.
-LEAR., Viens, mon enfant.
-[Note dix-huit : FOOL.
+Une cour dans le château du duc de Glocester.
 Entrent EDMOND ET CURAN, par différents côtés.
 EDMOND., Dieu te garde, Curan.
 CURAN., Et vous aussi, monsieur.
@@ -173,22 +165,21 @@ Edmond, j'apprends que vous avez rempli envers votre père le rôle d'un fils.
 EDMOND., C'était mon devoir, seigneur.
 CORNOUAILLES., Le poursuit-on ? GLOCESTER., Oui, mon bon seigneur.
 CORNOUAILLES., S'il est arrêté, il n'y a plus à craindre aucun mal de sa part.
-EDMOND., Je vous servirai fidèlement, seigneur, quoi qu'il arrive.
-[Note dix-neuf : However else.] GLOCESTER., Je remercie pour lui Votre Grâce.
+GLOCESTER., Je remercie pour lui Votre Grâce.
 Leurs divers messagers attendent ailleurs nos dépêches.
 GLOCESTER., Madame, disposez de moi : Vos Seigneuries sont les très-bienvenues.
 (Ils sortent.) Devant le château de Glocester.
 Entrent KENT ET OSWALD, de différents côtés.
-OSWALD., Je te souhaite le bonjour, l'ami.
-Es-tu de la maison ? [Note vingt : Good dawning.
 OSWALD., Où pourrons-nous mettre nos chevaux ? KENT., Dans le bourbier.
 OSWALD., Je t'en prie, si tu m'aimes, dis-le-moi.
 KENT., Je ne t'aime pas.
 OSWALD., A la bonne heure, je ne m'en soucie guère.
+bien à t'en soucier.
+OSWALD., Et pourquoi me traites-tu ainsi ? Je ne te connais pas.
 KENT., Et moi, compagnon, je te connais.
-[Note vingt-deux : Three suited (qui a trois habits complets).
-L'épée à la main, indigne canaille de bâtard ; l'épée à la main.
+(Il tire son épée.) OSWALD., Laisse-moi, je n'ai rien à démêler avec toi.
 KENT., Tirez donc, gredin.
+Vous venez apporter des lettres contre le père.
 Avancez, mon jeune maître.
 CORNOUAILLES., Quelle est la cause de votre querelle ? Parlez.
 OSWALD., Je puis à peine respirer, seigneur.
@@ -204,8 +195,8 @@ Mais j'intercéderai pour toi.
 KENT., N'en faites rien, seigneur, je vous prie.
 Je vous souhaite le bonjour.
 GLOCESTER., Le duc est à blâmer en ceci : on prendra mal la chose.
-(Il s'endort.) [Note vingt-huit : Thou out of heaven's benediction comest To the warm sun.
-Warburton regarde ce mot comme une corruption de Turlupin.
+(Il s'endort.) Une partie de la bruyère.
+(Il sort.) corruption de Turlupin.
 KENT dans les ceps.
 Entrent LEAR, LE FOU, UN GENTILHOMME.
 KENT., Salut à mon noble maître.
@@ -215,13 +206,14 @@ LEAR., Non, non, ils n'en auraient pas été capables ! KENT., Si vraiment, ils
 Plus pourvu de courage que de raison, j'ai mis l'épée à la main.
 Il a alarmé toute la maison par ses lâches et bruyantes clameurs.
 LE FOU., L'hiver n'est pas encore passé, si les oies sauvages volent de ce côté.
+Le père qui porte des haillons pourrais en compter pendant une année.
 LEAR., Ne me suivez pas, restez ici.
+Celui, monsieur, qui sert et cherche son intérêt perdy.
 GLOCESTER., Eh ! mon bon seigneur, je viens de les en informer.
 LEAR., Les en informer ? Me comprends-tu, homme ? GLOCESTER., Oui, mon bon seigneur.
 LEAR., Le roi voudrait parler à Cornouailles.
 Le père chéri voudrait parler à sa fille ; il exige d'elle son obéissance.
 GLOCESTER., Je voudrais voir la bonne intelligence entre vous.
-[Note trente-six : The cockney.
 CORNOUAILLES., Salut à Votre Seigneurie.
 RÉGANE., Je suis joyeuse de voir Votre Altesse.
 Retournez chez ma soeur.
@@ -280,9 +272,7 @@ KENT., Qui es-tu, toi qui es là à grommeler dans la paille ? Sors.
 (Entre Edgar vêtu comme un fou.) EDGAR., Va-t'en ; le malin esprit me suit.
 A travers l'aubépine piquante souffle le vent froid.
 Hum ! va à ton lit tout froid, et réchauffe-toi.
-EDGAR., Pillicock était sur la montagne de Pillicock.
-Holà ! holà ! hoé ! hoé ! [Note trente-sept : Nom d'un démon.
-Elle fait mun … zuum … Ah ! non, nenni, dauphin, mon garçon, cesse, laisse-le passer.
+Probablement les domestiques des grandes maisons imitaient en trot by.
 EDGAR., Pauvre Tom a froid.
 LEAR., Laissez-moi vous dire un mot à part.
 Pauvre banni ! Tu dis que le roi devient fou.
@@ -307,7 +297,6 @@ Entrent GLOCESTER, LEAR, KENT, LE FOU ET EDGAR.
 GLOCESTER., Il fait meilleur ici qu'en plein air : sachez-m'en quelque gré.
 Je vais vous fournir autant que je pourrai les moyens de rendre ceci plus commode.
 Je ne vous quitte pas pour longtemps.
-Priez, innocents, et gardez-vous du malin esprit.
 EDGAR., Le malin esprit me mord dans le dos.
 Hopdance crie dans le ventre de Tom pour avoir deux harengs blancs.
 Cesse de croasser, ange noir ; je n'ai rien à manger pour toi.
@@ -377,7 +366,6 @@ Ce fidèle serviteur sera notre intermédiaire.
 Comprends, et prospère.
 EDMOND., Tout à vous, jusqu'au sein de la mort.
 OSWALD., Madame, voici mon seigneur.
-(Il sort.) (Entre Albanie.) GONERILLE., Je valais jadis la peine de m'appeler.
 ALBANIE., Mais il n'est pas ici.
 LE MESSAGER., Non, mon bon seigneur ; je viens de le rencontrer comme il s'en retournait.
 (Ils sortent.) Le camp français près de Douvres.
@@ -386,7 +374,7 @@ Un important motif me retient encore pour quelque temps sous le déguisement qui
 Je vous prie, venez avec moi.
 (Ils sortent.) Toujours dans le camp., Une tente.
 Entrent CORDÉLIA, UN MÉDECIN, des Soldats.
-[Note quarante-quatre : A century.] LE MÉDECIN., Madame, il y a des moyens.
+LE MÉDECIN., Madame, il y a des moyens.
 (Entre un messager.) LE MESSAGER., Des nouvelles, madame : l'armée anglaise s'avance.
 RÉGANE., Mais l'armée de mon frère, est-elle en marche ? OSWALD., Oui, madame.
 RÉGANE., Lord Edmond n'a-t-il pas vu votre maître chez lui ? OSWALD., Non, madame.
@@ -410,7 +398,6 @@ EDGAR, feignant de se retirer., Adieu donc, mon bon seigneur.
 GLOCESTER, De tout mon coeur.
 EDGAR., Si je me joue ainsi de son désespoir, c'est pour l'en guérir.
 Ta vie est un miracle ; parle donc encore.
-[Note quarante-cinq : Gossamer.
 GLOCESTER., Je me rappelle maintenant.
 EDGAR., Cherche la liberté d'esprit et la patience.
 Dans le but ! dans le but !, Holà ! le mot d'ordre.
@@ -423,8 +410,6 @@ GLOCESTER., Oh ! laissez-moi baiser cette main.
 LEAR., Que je l'essuie d'abord, elle sent la mortalité.
 Je crois que tu me regardes de travers.
 LEAR., Lis donc.
-[Note quarante-six : Your eyes are in a heavy case, your purse in a light.
-Cela était impossible à rendre.] GLOCESTER., Je le vois parce que je le sens.
 Vois ce juge qui gourmande si sévèrement ce simple voleur.
 Coquin de sergent, retiens ta main sanguinaire.
 L'usurier fait pendre l'escroc.
@@ -453,7 +438,6 @@ OSWALD., Retire-toi, ordure.
 EDGAR., Che vous câsserai vos dents, monchieur ; avancez., Ch' m'embarrasse bien de vos pottes.
 (Ils se battent.
 Edgar abat Oswald d'un coup de bâton.) OSWALD., Esclave, tu m'as tué.
-Délivrez-moi du dégoût que j'y éprouve, et, pour votre salaire, prenez-y place.
 Votre épouse (voudrais-je dire) et affectionnée servante.
 (Edgar sort traînant dehors le corps d'Oswald.) GLOCESTER., Le roi est fou.
 Entrent CORDÉLIA ET KENT.
@@ -464,6 +448,7 @@ CORDÉLIA., Qu'il en soit donc ainsi, mon bon seigneur.
 (Au médecin.) Comment va le roi ? LE MÉDECIN., Madame, il dort toujours.
 LE MÉDECIN., Votre Majesté permet-elle qu'on éveille le roi ? Il y a longtemps qu'il repose.
 CORDÉLIA., Très-bien ! LE MÉDECIN., Veuillez bien vous approcher., Plus fort la musique.
+LE MÉDECIN., Parlez, madame, cela vaut mieux.
 LE MÉDECIN., Il est à peine éveillé ; laissons-le un instant tranquille.
 LEAR., Je vous en prie, ne vous moquez pas de moi.
 Si vous avez du poison pour moi, je le prendrai.
@@ -501,6 +486,7 @@ Il ne s'agit que d'être prêt ; venez.
 GLOCESTER., Vous avez raison.
 (Ils sortent.) Le camp anglais, près de Douvres.
 LEAR., Sur de tels sacrifices, ma Cordélia, les dieux eux-mêmes viennent jeter l'encens.
+(Lear et Cordélia sortent, accompagnés de gardes.) EDMOND., Ici, capitaine, un mot.
 Prends ce papier.
 (Il lui donne un papier.) Suis-les à la prison.
 Ou dis que tu le feras, ou cherche d'autres moyens de fortune.

@@ -4,10 +4,8 @@ La scène se passe dans diverses parties de l'empire romain.
 Alexandrie., Un appartement du palais de Cléopâtre.
 Entrent DÉMÉTRIUS ET PHILON.
 PHILON., En vérité, ce fol amour de notre général passe la mesure.
-Il est devenu le soufflet et l'éventail qui apaisent les impudiques désirs d'une Égyptienne.
-Regarde, les voilà qui viennent.
+Il est devenu le soufflet Regarde, les voilà qui viennent.
 Entrent Antoine et Cléopâtre avec leur suite.
-Regarde et vois.
 CLÉOPATRE., Je veux établir, par une limite, jusqu'à quel point je puis être aimée.
 ANTOINE., Alors il te faudra découvrir un nouveau ciel et une nouvelle terre.
 CLÉOPATRE., Non ; écoute ces nouvelles, Antoine, Fulvie peut-être est courroucée.
@@ -27,10 +25,7 @@ CHARMIANE., Que les rides m'en préservent ! ALEXAS., Ne troublez point sa pres
 CHARMIANE., Chut ! LE DEVIN., Vous aimerez plus que vous ne serez aimée.
 CHARMIANE., J'aimerais mieux m'échauffer le foie avec le vin.
 ALEXAS., Allons, écoutez.
-[Note quatre : Hérode rendit hommage aux Romains pour conserver le royaume de Judée.
 C'est ainsi qu'Hamlet dit d'un comédien qu'il outre le caractère d'Hérode, out-Herods Herod.
-CHARMIANE., Oh ! merveilleux ! J'aime bien mieux une longue vie que des figues.
-[Note cinq : Expression proverbiale.
 CHARMIANE., Tais-toi, insensé ! Je te pardonne, parce que tu es un sorcier.
 ALEXAS., Vous croyez que votre couche est la seule confidente de vos désirs.
 CHARMIANE., Allons, viens.
@@ -40,7 +35,6 @@ LE DEVIN., Voilà une main qui présage la chasteté, si rien ne s'y oppose d'ai
 LE DEVIN., Vos destinées se ressemblent.
 IRAS., Mais comment, comment ? Citez quelques particularités.
 LE DEVIN., J'ai dit.
-Oh ! qu'il épouse une femme qui ne puisse pas marcher.
 CHARMIANE., Ainsi soit-il.
 ÉNOBARBUS., Silence : voici Antoine.
 CHARMIANE., Ce n'est pas lui ; c'est la reine.
@@ -61,6 +55,7 @@ ANTOINE., Fulvie est morte.
 ANTOINE., Les affaires qu'elle a entamées dans l'État ne peuvent supporter mon absence.
 ANTOINE., Plus de frivoles réponses., Que nos officiers soient instruits de ma résolution.
 Sextus Pompée a défié César, et il tient l'empire de la mer.
+Plus d'un germe se venin du serpent, mais est déjà doué de la vie.
 (Ils sortent.) CLÉOPATRE., Où est-il ? CHARMIANE., Je ne l'ai pas vu depuis.
 CLÉOPATRE., Voyez où il est, qui est avec lui, et ce qu'il fait.
 Volez, et revenez.
@@ -84,13 +79,12 @@ CLÉOPATRE., Fulvie doit me l'avoir appris.
 Maintenant, joue devant moi une scène de dissimulation profonde et qui imite l'honneur parfait.
 ANTOINE., Vous m'échaufferez le sang., Cessez.
 CLÉOPATRE., Tu pourrais faire mieux, mais ceci est bien déjà.
-[Note dix : Suivant une antique tradition, les Antonius descendaient d'Hercule par son fils Antéon.
 (Ils sortent.) Rome., Un appartement dans la maison de César.
 Entrent OCTAVE, CÉSAR, LÉPIDE et leur suite.
 Il pêche, il boit, et les lampes de la nuit éclairent ses débauches.
 Vous reconnaîtrez dans Antoine l'abrégé de toutes les faiblesses dont l'humanité est capable.
 CÉSAR., Vous êtes trop indulgent.
-Light est ici pour frivole.] (Entre un messager.) LÉPIDE., Voici encore des nouvelles.
+(Entre un messager.) LÉPIDE., Voici encore des nouvelles.
 CÉSAR., Je ne devais pas m'attendre à moins.
 Ils font de fréquentes et vives incursions sur les côtes d'Italie.
 Nul vaisseau ne peut se montrer qu'il ne soit pris aussitôt qu'aperçu.
@@ -105,7 +99,6 @@ LÉPIDE., Adieu, seigneur.
 CÉSAR., N'en doutez pas, seigneur ; je sais que c'est mon devoir.
 (Ils sortent.) Alexandrie., Appartement du palais.
 Entrent CLÉOPATRE, CHARMIANE, IRAS, l'eunuque MARDIAN.
-CHARMIANE., Madame ? CLÉOPATRE., Ah ! ah ! donne-moi une potion de mandragore.
 CHARMIANE., Vous songez trop à lui.
 CLÉOPATRE., O trahison ! … CHARMIANE., Madame, j'espère qu'il n'en est point ainsi.
 As-tu des inclinations ? L'EUNUQUE., Oui, gracieuse reine.
@@ -121,7 +114,6 @@ MÉNÉCRATE., De Silvius, seigneur.
 MÉNAS., Je ne puis croire que César et Antoine puissent s'accorder ensemble.
 (Ils sortent.) Rome., Appartement dans la maison de Lépide.
 ÉNOBARBUS., Je l'engagerai à répondre comme lui-même.
-Par Jupiter, si je portais la barbe d'Antoine je ne me ferais pas raser aujourd'hui.
 ÉNOBARBUS., Tout temps est bon pour les affaires qu'il fait naître.
 LÉPIDE., Les moins importantes doivent céder aux plus graves.
 ÉNOBARBUS., Non, si les moins importantes viennent les premières.
@@ -171,8 +163,6 @@ OCTAVIE., Adieu, seigneur.
 CÉSAR., Adieu, Antoine.
 ANTOINE., Dis-moi qui, de César ou de moi, élèvera le plus haut sa fortune.
 O Antoine, ne reste donc point à ses côtés.
-Ainsi donc, mets toujours assez de distance entre lui et toi.
-[Note seize : A fear.
 Il a tant de bonheur, qu'il te battra malgré tous tes avantages.
 Dès qu'il brille près de toi, ton éclat s'éclipse.
 Loin de César, il reprend toute sa grandeur.
@@ -284,8 +274,8 @@ MÉNAS., Allons, venez.
 (Ils sortent.) A bord de la galère de Pompée, près de Messine.
 Entrent deux ou trois serviteurs avec un dessert.
 PREMIER SERVITEUR., C'est ici qu'ils se placeront, camarade.
-PREMIER SERVITEUR., Ils lui ont fait boire les coups de charité.
-[Note vingt : Coup de charité, alms-drink.
+La plus faible vent du monde les renversera.
+SECOND SERVITEUR., Lépide est haut en couleur.
 PREMIER SERVITEUR., Ce qui élève une guerre violente entre lui et sa tempérance.
 LÉPIDE., Vous avez là de prodigieux serpents.
 ANTOINE., Oui, Lépide.
@@ -450,17 +440,19 @@ SCARUS., Cela est aisé ; et j'irai aussi attendre là l'événement.
 ANTOINE et sa suite.
 ANTOINE., Écoutez, la terre me défend de la fouler plus longtemps.
 Fuyez, et allez faire votre paix avec César.
+TOUS., Fuir ? Non, pas nous.
 Descendez tout droit au rivage.
 Je vous rejoindrai tout à l'heure.
 IRAS., Consolez-le, chère reine.
 CHAHMIANE., Le consoler ! Oui, sans doute.
 CLÉOPATRE., - Laissez-moi m'asseoir.
 O Junon ! ANTOINE., Non, non, non, non.
+CLÉOPATRE., Ah ! restez-là.
 ÉROS., La reine, seigneur, la reine ! IRAS., Avancez vers lui, madame.
 Il est hors de lui, il est accablé par la honte.
 CLÉOPATRE., Oh ! pardonne-moi ! ANTOINE., Maintenant il faut que j'envoie d'humbles propositions à ce jeune homme.
 CLÉOPATRE., Oh ! pardon.
-[Note vingt-neuf : Euphronius.] Le camp de César en Égypte.
+Le camp de César en Égypte.
 CÉSAR, AGRIPPA, DOLABELLA, THYRÉUS, suite.
 CÉSAR., Qu'on fasse entrer l'envoyé d'Antoine.
 (Entre Euphronius.) CÉSAR., Approche et parle.
@@ -473,7 +465,6 @@ THYRÉUS., César, je pars.
 THYRÉUS., César, je le ferai.
 Alexandrie., Appartement du palais.
 Entrent CLÉOPATRE, ÉNOBARBUS, CHARMIANE, IRAS.
-CLÉOPATRE., Que faut-il faire, Énobarbus ? ÉNOBARBUS., Penser et mourir.
 CLÉOPATRE., Tais-toi, je t'en prie.
 (Entrent Antoine et Euphronius) ANTOINE., Et c'est là sa réponse ? EUPHRONIUS., Oui, seigneur.
 ANTOINE., Ainsi, la reine sera bien accueillie si elle veut me sacrifier.
@@ -617,14 +608,13 @@ Dis-leur à tous de fuir.
 (Scarus sort.) O soleil ! je ne verrai plus ton lever.
 C'est ici que nous nous disons adieu.
 Le pin qui les couvrait de son ombre est dépouillé de toute son écorce.
-Éros ! Éros ! [Note trente-deux : Triple turn'd whore.
 Tu seras exposée aux regards des rustres, comme un monstre étrange, pour quelque vile obole.
 La magicienne mourra.
 Elle m'a vendu à ce petit Romain, et je péris victime de ses complots.
+C'est ce Lychas qui avait apporté à Alexandrie., Appartement du palais.
 CLÉOPATRE., Secourez-moi, mes femmes.
 CHARMIANE., Venez au tombeau de Ptolémée.
 Enfermez-vous là, et envoyez lui annoncer que vous êtes morte.
-CLÉOPATRE., Allons au tombeau … Mardian, va lui annoncer que je me suis tuée.
 ANTOINE., Éros, tu me vois encore ! ÉROS., Oui, mon noble maître.
 ÉROS., Oui, seigneur.
 ANTOINE., Loin de moi, eunuque insolent ; tais-toi.
@@ -666,7 +656,6 @@ CLÉOPATRE., O Charmiane ! c'en est fait, je ne sors plus d'ici ! CHARMIANE., 
 L'étendue de ma douleur doit égaler la grandeur de sa cause.
 Regardez de l'autre côté du monument, ses gardes l'ont apporté jusqu'ici.
 Mes amis, secondez-nous ; élevons-le jusqu'à moi.
-Aidez-moi, mes femmes ; il faut que nous le montions ici ; bons amis, secondez-moi.
 Ceux qui font des souhaits sont toujours fous.
 Oh ! viens, viens, viens.
 Ah ! si mes lèvres avaient ce pouvoir, je les userais à force de baisers.
@@ -708,7 +697,7 @@ CLÉOPATRE., Vous mentez, et les dieux vous entendent.
 CLÉOPATRE., Parlez, seigneur, je vous prie.
 CÉSAR., Sachez, Cléopâtre, que nous sommes plus disposés à les excuser qu'à les aggraver.
 Je prends congé de vous.
-CLÉOPATRE., Voilà l'état de mes richesses, de l'argenterie et des bijoux que je possède.
+bijoux que je possède.
 Il est exact ; et jusqu'aux moindres effets, rien n'y est omis.
 CLÉOPATRE., Qu'ai-je donc gardé ? SÉLEUCUS., Assez pour racheter tout ce que vous déclarez.
 CÉSAR., Ne rougissez pas, Cléopâtre, j'approuve votre prudence.
@@ -733,7 +722,7 @@ Ma résolution est prise, et je ne sens plus rien en moi d'une femme.
 CLÉOPATRE., Éloigne-toi, et laisse-nous seuls.
 On disait comment elle était morte de cette morsure, quelle douleur elle avait ressentie.
 Mais le plus dangereux, c'est que ce reptile est un étrange reptile.
-Mentir en tout honneur serait plus difficile à expliquer.] CLÉOPATRE., Va-t'en, adieu.
+Mentir en tout honneur serait plus difficile à CLÉOPATRE., Va-t'en, adieu.
 LE PAYSAN., Je vous souhaite beaucoup de plaisir avec cette bête.
 LE PAYSAN., N'oubliez pas, voyez-vous, que le ver fera son devoir de ver.
 CLÉOPATRE., Oui, oui, adieu.

@@ -45,7 +45,6 @@ CATHERINE., Docte lord cardinal, apportez de la charité dans toutes les affaire
 LE ROI HENRI., Laissez-le parler., Allons, continue.
 L'INTENDANT., Sur mon âme, je ne dirai que la vérité.
 LE ROI HENRI., Poursuis.
-C'est, de la tête aux pieds, un traître dans toute la force du terme.
 Entrent LE LORD CHAMBELLAN ET LE LORD SANDS.
 SANDS., Non, milord, et je n'en ferai rien, tant qu'il en restera un chicot.
 SANDS., Je suis aux ordres de Votre Seigneurie.
@@ -76,6 +75,7 @@ SECOND BOURGEOIS., Y étiez-vous ? PREMIER BOURGEOIS., Oui, j'y étais.
 SECOND BOURGEOIS., A-t-il été déclaré coupable ? PREMIER BOURGEOIS., Oui, vraiment, il l'a été ; et condamné.
 SECOND BOURGEOIS., J'en suis affligé.
 PREMIER BOURGEOIS., Il y en a bien d'autres que vous.
+SECOND CITOYEN., Était-ce le moine qui nourrissait son imagination de ses prophéties ? PREMIER BOURGEOIS., Lui-même.
 SECOND BOURGEOIS., Je ne crois pas qu'il ait peur de la mort.
 SECOND BOURGEOIS., Certainement le cardinal est au fond de tout ceci.
 PREMIER BOURGEOIS., Cela est vraisemblable d'après toutes les conjectures.
@@ -115,7 +115,6 @@ ANNE., O volonté de Dieu ! il vaudrait mieux qu'elle n'eût jamais connu la gr
 LA VIEILLE DAME., Hélas ! pauvre dame ! la voilà redevenue étrangère.
 ANNE., On doit la plaindre d'autant plus.
 LA VIEILLE DAME., Le contentement est notre plus grand bien.
-ANNE., Sur ma foi et mon honneur, je ne voudrais pas être reine.
 ANNE., Non, en vérité.
 LA VIEILLE DAME., En ce cas, vous êtes d'une constitution bien faible.
 Nous nous affligions des chagrins de notre maîtresse.
@@ -170,7 +169,7 @@ Nous sommes destinés à guérir de tels chagrins et non à les faire naître.
 CAMPEGGIO., Madame, vous l'éprouverez.
 Vous faites tort à vos vertus par ces craintes d'une faible femme.
 Le roi vous aime ; prenez bien garde de perdre cet avantage.
-[Note neuf : Shakspeare a fait dans cette scène un double emploi du même personnage.
+SURREY., J'accueille avec joie la plus légère occasion que je puisse personnage.
 NORFOLK., Oh ! cessez de le craindre, son charme est détruit.
 Non, il est enfoncé dans la disgrâce de manière à ne s'en relever jamais.
 Le roi a déjà épousé cette belle.
@@ -337,20 +336,20 @@ CRANMER., Arrêtez, mes bons lords : j'ai encore un mot à vous dire.
 Jetez les yeux ici, milords.
 LE ROI HENRI., Bien, bien., Allons, milords, respectez-le.
 Recevez-le parmi vous, pensez bien de lui, soyez bien pour lui, il en est digne.
+les fonts de baptême de cuillers dorées, qu'on appelait les cuillers des apôtres.
 Les gens magnifiques en donnaient douze sur chacune desquelles était la figure d'un apôtre.
 De moins généreux se réduisaient aux quatre évangélistes.
 (Tous sortent.) La cour du palais.
 Bruit et tumulte derrière le théâtre.
 Entre LE PORTIER avec son VALET.
-LE PORTIER., Je vais bien vous faire cesser ce vacarme tout à l'heure, canaille.
-Prenez-vous la cour du palais pour Paris-Garden ? Allez, malotrus, allez brailler ailleurs.
+UNE VOIX, derrière le théâtre., Mon bon monsieur le portier, j'appartiens à la charcuterie.
 LE PORTIER., Appartiens à la potence, et va te faire pendre, coquin.
 Autant vaudrait entreprendre de reculer Saint-Paul que de les faire bouger.
 LE PORTIER., Puisses-tu être pendu ! Comment sont-ils entrés ? LE VALET., Hélas ! je n'en sais rien.
 LE PORTIER., Vous n'avez rien fait.
+faucher devant moi.
 Je crois, ma foi, que le diable était de leur bande.
-[Note seize : A brazier.
-Brazier veut dire un brasier, et un homme qui travaille.
+Il a fallu, pour donner quelque sens à la plaisanterie, d'une assemblée de puritains.
 Une armée entière ne les contiendrait pas.
 LE PORTIER., Faites place pour la princesse.
 LE VALET., Vous, grand vaurien, serrez-vous, ou je vous caresserai la tête.

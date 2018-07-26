@@ -8,12 +8,9 @@ To create "typographically friendly" Etexts, un adhere to the following rules.
  Paragraphs are separated by blank lines.
  Centering, right, and left justification is indicated by **  sept.
  Block quotations are indented to start in column cinq and set huit.
- Text set in italics is bracketed by underscore characters, neuf.
- Footnotes are included in-line, bracketed by "[]".
  Chapter "numbers" need not be numeric, they can be any text.
 D'ici à la fin du document le texte sera redigé en français.
 xxx       Texte imprimé en italiques.
-[xxx]       Note au bas de la page.
 Anglais, à coup sûr, Phileas Fogg n'était peut-être pas Londonner.
 Ce gentleman ne figurait dans aucun comité d'administration.
 Il n'était ni industriel, ni négociant, ni marchand, ni agriculteur.
@@ -290,7 +287,6 @@ Je ne me trompe pas.
 De là, il lança au directeur de la police métropolitaine cette dépêche que l'on connaît.
 Le Mongolia, dont les feux étaient activement poussés, marchait de manière à devancer l'arrivée réglementaire.
 La plupart des passagers embarqués à Brindisi avaient presque tous l'Inde pour destination.
-[Le traitement des fonctionnaires civils est encore plus élevé.
 Les passagères ,  il y en avait quelques-unes ,  changeaient de toilette deux fois par jour.
 On faisait de la musique, on dansait même, quand la mer le permettait.
 Les dames disparaissaient alors ; les pianos se taisaient ; chants et danses cessaient à la fois.
@@ -1981,7 +1977,8 @@ Où Phileas Fogg se montre à la hauteur des XXXIV.
 Qui procure à Passepartout l'occasion de XXXV.
 Dans lequel Passepartout ne se fait pas XXXVI.
 Dans lequel Phileas Fogg fait de nouveau XXXVII.
-*/ while (isspace(lp[strlen(lp) - deux])) { } } /  PROTEXT  ,   Output text with character-level transformations.
+ / }; }; }; }; }; }; /  OUTGIF  ,   Create GIF navigation buttons for HTML trees.
+*/ } } /  PROTEXT  ,   Output text with character-level transformations.
  / static void navaids(basename, chapno, last, out) { /* Previous chapter button.
 */ if (chapno > un) { } else { } /* Up to table of contents button.
 */ if (html) { } else { } /* Line level file processing.

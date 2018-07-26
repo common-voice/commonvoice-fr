@@ -30,7 +30,6 @@ S'il n'est pas né pour être pendu, notre sort est pitoyable.
 (Ils sortent.) (Rentre le bosseman.) LE BOSSEMAN., Amenez le mât de hune.
 Allons, plus bas, plus bas.
 Mettez à la cape sous la grande voile risée.
-[Note deux : As leaky as an unstaunched wench.
 SÉBASTIEN., Ma patience est à bout.
 ANTONIO., Nous périssons par la trahison de ces ivrognes.
 Ce bandit au gosier énorme, je voudrais le voir noyé et roulé par dix marées.
@@ -47,9 +46,7 @@ Viens m'aider ; ôte-moi mon manteau magique., Bon.
 Assieds-toi, car il faut maintenant que tu en saches davantage.
 MIRANDA., Certainement, seigneur, je peux m'en souvenir.
 MIRANDA., Cependant je ne m'en souviens pas.
-[Note trois : MIR.
-What foul play had we, etc.
-By foul play, as thou say'st were we, etc.
+thou say'st were we, etc.
 Je vous en prie, continuez.
 Ton perfide oncle … M'écoutes-tu ? MIRANDA., Avec la plus grande attention, seigneur.
 MIRANDA., Mon cher seigneur, j'écoute.
@@ -115,7 +112,6 @@ Il a perdu ses compagnons, et il erre dans l'île pour les trouver.
 PROSPERO, à part.
 Les choses vont au gré de ma volonté.
 Esprit, charmant esprit, je te délivrerai dans deux jours pour ta récompense.
-[Note quatre : If you be made or no.
 Mais pour fille, bien certainement je le suis.
 Hélas ! il m'entend et c'est parce qu'il m'entend que je pleure.
 PROSPERO., Doucement, jeune homme : un mot encore.
@@ -142,16 +138,15 @@ ALONZO., Je t'en prie, laisse-moi en paix.
 SÉBASTIEN., Il prend goût à la consolation comme à une soupe froide.
 ANTONIO., Il ne sera pas si aisément débarrassé du consolateur.
 SÉBASTIEN., Une … Parlez donc.
-GONZALO., Tout lui apporte une douleur, en effet.
-Vous avez parlé plus juste que vous ne croyez.
+plus juste que vous ne croyez.
+SÉBASTIEN., Et vous l'avez pris plus raisonnablement que je ne l'espérais.
 GONZALO., Bien, j'ai fini ; mais cependant … SÉBASTIEN., Cependant il continuera de parler.
 ANTONIO., Parions qui de lui ou d'Adrian chantera le premier.
 SÉBASTIEN., Va pour le vieux coq.
 ANTONIO., Pour le jeune coq.
 SÉBASTIEN., C'est dit.
 L'enjeu ? ANTONIO., Un éclat de rire.
-ADRIAN., Il faut qu'elle jouisse d'une température subtile, moelleuse et délicate.
-[Note sept : Dans l'anglais, temperance.
+moelleuse et délicate.
 SÉBASTIEN., Oui, et subtile, comme il l'a dit très-savamment.
 ADRIAN., L'air souffle sur nous le plus doucement du monde.
 SÉBASTIEN., Oui, comme s'il avait des poumons, et des poumons gâtés.
@@ -225,14 +220,13 @@ CALIBAN., L'esprit me tourmente.
 Oh ! STEPHANO., C'est là quelque monstre de l'île, avec quatre jambes.
 Celui-là, je m'imagine, aura gagné la fièvre.
 Dans ce moment Prospero agit sur toi.
-STEPHANO, à Caliban., Allons, venez ; voici qui vous donnera la parole, chat.
-Ouvrez la bouche ; je peux dire que cela secouera votre tremblement, et comme il faut.
 (Caliban boit avec plaisir.) Vous ne connaissez pas celui qui est ici votre ami.
 Allons, ouvrez encore vos mâchoires.
+TRINCULO., Je crois reconnaître cette voix.
 Ce pourrait être … Mais il est noyé.
 Ce sont des diables.
 Allons, ainsi soit-il ! Je vais en verser un peu dans ton autre bouche.
-Laissons-le là, je n'ai pas une longue cuiller, moi.
+Laissons-le là, TRINCULO., Stephano ? si tu es Stephano, touche-moi, parle-moi.
 Je suis Trinculo ;, ne sois pas effrayé,, ton bon ami Trinculo.
 S'il y a ici des jambes à Trinculo, ce sont celles-là.
 Mais n'es-tu donc pas noyé, Stephano ? Je commence à espérer que tu n'es pas noyé.
@@ -269,9 +263,6 @@ Tu as tout à fait les yeux dans la tête.
 STEPHANO., Mon serviteur le monstre a noyé sa langue dans le vin.
 Pour moi, la mer ne peut me noyer.
 Tu seras mon lieutenant, monstre, ou mon enseigne.
-TRINCULO., Votre lieutenant, si vous m'en croyez ; il n'est pas bon à montrer comme enseigne.
-[Note onze : TRINCULO., Your lieutenant, if you list ; he's no standard.
-Standard signifie enseigne, modèle : il signifie aussi un arbre fruitier qui se soutient sans tuteur.
 STEPHANO., Trinculo, tâche d'avoir dans ta tête une bonne langue.
 CALIBAN., Je remercie mon noble maître.
 Te plaît-il d'ouïr encore la prière que je t'ai faite ? STEPHANO., Oui-da, j'y consens.
@@ -302,8 +293,7 @@ Dieu conserve nos excellences ! et Trinculo et toi, vous serez nos vice-rois.
 Goûtes-tu le projet, Trinculo ? TRINCULO., Excellent.
 STEPHANO., Donne-moi ta main.
 CALIBAN., Tu me rends gai ; je suis plein d'allégresse.
-L'un des commentateurs de Shakspeare, M.
-Steevens, parait embarrassé du sens de cette expression.
+Allons, soyons l'heure ? Steevens, parait embarrassé du sens de cette expression.
 Mais il me semble que les deux mots dont elle se compose s'expliquent l'un l'autre.
 Allons, Trinculo, chantons.
 (Stephano chante.) Moquons-nous d'eux ; observons-les, observons-les, et moquons-nous d'eux ; La pensée est libre.
@@ -351,7 +341,7 @@ N'approche pas que tu ne m'entendes appeler.
 ARIEL., Oui, je comprends.
 Sois plus retenu, ou autrement bonsoir à votre promesse.
 FERDINAND., Je la garantis, seigneur.
-[Note seize : Of my liver, de mes reins.] PROSPERO., Bien.
+Le froid virginal de la blanche PROSPERO., Bien.
 Parais-ici, et vivement … (A Ferdinand.) Point de langue ; tout yeux ; du silence.
 IRIS., Ne crains point sa présence ici.
 CÉRÈS., La plus majestueuse des reines, l'auguste Junon s'avance : je la reconnais à sa démarche.
@@ -373,14 +363,15 @@ PROSPERO., Tu as très-bien fait, mon oiseau.
 Garde encore ta forme invisible.
 ARIEL., J'y vais, j'y vais.
 Nous voilà tout près de sa caverne.
-[Note dix-huit : Le mot anglais est Jack.
 CALIBAN., Mon bon prince, conserve-moi toujours tes bonnes grâces.
 Tout est coi ici, comme s'il était encore minuit.
 STEPHANO., Donne-moi ta main.
 Je commence à avoir des idées sanguinaires.
+Il y a dans CALIBAN., Laisse tout cela, imbécile ; ce n'est que de la drogue.
 Par ma main ! je prétends avoir cette robe.
 TRINCULO., Ta Grandeur l'aura.
 Jerkin, d'un autre côté, signifie pourpoint et faucon.
+Mais c'en est assez et plus qu'il ne faut sur cette bizarre TRINCULO., Faites, faites.
 N'en déplaise à votre Grandeur, nous volons à la ligne et au cordeau.
 STEPHANO., Je te remercie de ce bon mot.
 Tiens, voilà un habit pour la peine.
@@ -389,7 +380,8 @@ Tant que je serai roi de ce pays, l'esprit n'ira point sans récompense.
 Tiens, encore un habit pour la peine.
 TRINCULO., Allons, monstre, un peu de glu à vos doigts, et puis emportez-nous le reste.
 CALIBAN., Je n'en veux pas.
-Dans le Lancashire, on les appelait tree geese, oies d'arbre.] STEPHANO., Monstre, étendez vos doigts.
+Nous perdrons là notre temps, et nous horriblement bas.
+Dans le Lancashire, on les STEPHANO., Monstre, étendez vos doigts.
 Vite, emportez ceci.
 TRINCULO., Et ceci.
 STEPHANO., Oui, et ceci encore.
@@ -407,6 +399,7 @@ Va les élargir, Ariel.
 Je veux lever mes charmes, rétablir leurs facultés, et ils vont être rendus à eux-mêmes.
 ARIEL., Je vais les amener, seigneur.
 On en voit de pareils dans la Bourgogne.
+Partout (A l'instant une musique solennelle commence.) (Entre Ariel.
 Après lui s'avance Alonzo, faisant des gestes frénétiques ; Gonzalo l'accompagne.
 Viennent ensuite Sébastien et Antonio dans le même état, accompagnés d'Adrian et de Francisco.
 Tous entrent dans le cercle tracé par Prospero.
@@ -440,9 +433,9 @@ Nous étions endormis, morts, et (comment ? nous n'en savons rien) tous jetés 
 Il faut qu'un oracle nous instruise de ce que nous en devons penser.
 Des trois en voilà deux que vous devez connaître et réclamer.
 Quant à ce fruit des ténèbres, je déclare qu'il m'appartient.
-[Note vingt-quatre : One so strong.
 ALONZO., N'est-ce pas là Stephano, mon ivrogne de sommelier ? SÉBASTIEN., Il est encore ivre.
 Où a-t-il eu du vin ? ALONZO., Et Trinculo est aussi tout branlant.
+Où ont-ils trouvé le been in such a pickle, etc.
 Je n'aurai plus peur des mouches.
 PROSPERO., Monsieur le drôle, vous vouliez être le roi de cette île.
 STEPHANO., J'aurais donc été un cancre de roi.
@@ -453,4 +446,5 @@ ALONZO., Hors d'ici ! Allez remettre tout cet équipage où vous l'avez trouvé
 SÉBASTIEN., Où ils l'ont volé plutôt.
 ALONZO., Je languis d'entendre l'histoire de votre vie ; elle doit intéresser étrangement l'oreille qui l'écoute.
 Libre ensuite, rends-toi aux éléments et vis joyeux., Venez, de grâce.
-Si vous voulez que vos offenses vous soient pardonnées, Que votre indulgence me renvoie absous
+Si vous voulez que vos offenses vous soient pardonnées, Que votre indulgence me renvoie absous.
+nécromanciens dans leurs derniers moments, et l'efficacité des prières

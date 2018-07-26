@@ -7,10 +7,12 @@ Paolo, qui l'aime, s'aperçoit de sa méprise et la détrompe.
 Bientôt tout s'éclaircit.
 Ambrogio se réjouit du retour de son fils et consent au mariage de sa fille.
 ORSINO, duc d'Illyrie.
+La scène est dans une ville d'Illyrie et sur la côte voisine.
 Appartement dans le palais du duc.
 LE DUC, CURIO, seigneurs.
 L'imagination est si féconde en formes changeantes, que rien n'égale ses bizarres fantaisies.
 CURIO., Voulez-vous venir chasser, seigneur ? LE DUC., Quoi donc, Curio ? CURIO., La biche.
+(Ils sortent.) La côte de la mer.
 VIOLA, UN CAPITAINE, suivi de matelots.
 VIOLA., Amis, quel est ce pays ? LE CAPITAINE., C'est l'Illyrie, madame.
 VIOLA., Et que ferai-je en Illyrie ? mon frère est dans l'Élysée.
@@ -25,11 +27,10 @@ Je veux m'attacher au service de ce duc.
 LE CAPITAINE., Soyez son eunuque, moi je serai votre muet.
 (Ils sortent.) Appartement de la maison d'Olivia.
 SIR TOBIE et MARIE.
-Madame votre nièce a de grandes objections à vos heures indues.
-SIR TOBIE., Eh bien ! qu'elle excipe avant d'être excipée.
+MARIE., Sur ma parole, sir Tobie, il faut que vous veniez de meilleure heures indues.
+MARIE., Fort bien ; mais il faut vous confiner dans les modestes limites de l'ordre.
 SIR TOBIE., Quoi ? sir André Ague-cheek ? MARIE., Oui, lui-même.
 SIR TOBIE., C'est un homme des plus braves qu'il y ait en Illyrie.
-Allons, fille, castiliano vulgo : voici sir André Ague-face.
 MARIE., Salut, monsieur.
 SIR TOBIE., Accoste, sir André, accoste.
 SIR ANDRÉ., Qu'est-ce que c'est ? SIR TOBIE., La femme de chambre de ma nièce.
@@ -42,7 +43,6 @@ Est-ce là le sens du mot accoste ? MARIE., Portez-vous bien, messieurs.
 SIR ANDRÉ., Par ma foi, vous allez l'avoir tout à l'heure, car voici ma main.
 MARIE., Maintenant, monsieur, la pensée est libre.
 Je vous prie de porter votre main à la baratte au beurre, et laissez-la boire.
-SIR ANDRÉ., Pourquoi, mon cher coeur ? quelle est votre métaphore ? MARIE., Elle est sèche, monsieur.
 Mais que signifie votre plaisanterie ? MARIE., C'est une plaisanterie toute sèche, monsieur.
 SIR TOBIE., Il n'y a pas de doute.
 SIR ANDRÉ., Mais cela me sied assez bien, n'est-il pas vrai ? SIR TOBIE., A merveille.
@@ -50,7 +50,7 @@ SIR ANDRÉ., Ma foi, je retourne chez moi demain, sir Tobie.
 Le comte lui-même, qui est ici tout près, lui fait la cour.
 SIR TOBIE., Elle ne veut point du comte.
 Je lui en ai entendu faire le serment.
-[Note quinze : Caper, cabriole, capre.] SIR TOBIE., Et moi je sais découper le mouton.
+SIR TOBIE., Et moi je sais découper le mouton.
 Que je vous voie faire la cabriole.
 Ah ! plus haut : ah ! ah ! à merveille.
 (Ils sortent.) Appartement du palais du duc.
@@ -62,12 +62,12 @@ Les lèvres de Diane ne sont pas plus fraîches, ni plus vermeilles.
 MARIE et LE BOUFFON.
 MARIE., Compte là-dessus.
 LE BOUFFON., Il ne voit plus personne à craindre.
-MARIE., Bonne réponse de carême ! Je puis t'apprendre l'origine de ces mots.
-Et quant au malheur d'être renvoyé, l'été y pourvoira.
 LE BOUFFON., Juste ; en bonne foi, tout juste ! Allons, va ton chemin.
 LE BOUFFON., Est-ce que vous n'entendez pas, camarades ? Emmenez madame.
 OLIVIA., Monsieur, je leur ai commandé de vous faire sortir.
+LE BOUFFON., Une méprise du plus haut degré ! Madame, cuclus non facit dans le cerveau.
 Bonne madonna, donnez-moi la permission de prouver que vous êtes une folle.
+OLIVIA., Peux-tu le prouver ? LE BOUFFON., Très-adroitement, bonne madonna.
 OLIVIA., Voyons ta preuve.
 OLIVIA., Allons, monsieur, à défaut d'autre passe-temps, je vous demanderai votre preuve.
 LE BOUFFON., Je crois, madame, que son âme est en enfer.
@@ -79,6 +79,7 @@ Oh ! vous pouvez m'en croire, comme je vous le dis : oui, cela m'est égal.
 LE BOUFFON., Il n'est encore que fou, madame ; et le fou aura soin du fou.
 (Le bouffon sort.) (Malvolio rentre.) MALVOLIO., Madame, il jure qu'il vous parlera.
 OLIVIA., Dites-lui qu'il ne me parlera pas.
+OLIVIA., Quelle espèce d'homme est-ce ? MALVOLIO., Mais de l'espèce des hommes.
 OLIVIA., Et quelles sont ses manières ? MALVOLIO., De fort mauvaises manières.
 Il veut vous parler, que vous vouliez ou non.
 OLIVIA., Qu'il vienne ; appelez ma demoiselle.
@@ -100,7 +101,6 @@ Oui, je le jurerais, que tu l'es en effet.
 Allons, soit., Holà, Malvolio ! (Rentre Malvolio.) MALVOLIO., Me voici, madame, à vos ordres.
 Cours vite, Malvolio.
 MALVOLIO., Madame, j'y cours.
-Destin, montre ta puissance : nous ne disposons pas de nous-mêmes.
 ANTONIO., Faites-moi connaître au moins en quel lieu vous vous proposez d'aller.
 ANTONIO., Excusez-moi, monsieur, de la mauvaise chère que je vous ai fait faire.
 Je vais à la cour du comte Orsino : adieu.
@@ -113,13 +113,14 @@ Et elle, dans sa méprise, parait raffoler de moi.
 (Elle sort.) Appartement de la maison d'Olivia.
 SIR TOBIE., Approchez, sir André.
 (Entre le bouffon.) SIR ANDRÉ., Voici, ma foi, le fou qui vient.
+SIR ANDRÉ., Excellent ! c'est la plus jolie folie pour la fin.
 Allons, une chanson.
 SIR TOBIE., Avance ; voilà douze sous pour toi ; chante-nous une chanson.
 LE BOUFFON chante.
 O ma maîtresse ! où êtes-vous errante ? SIR ANDRÉ., Admirable, en vérité ! SIR TOBIE., Bien, très-bien.
 Qu'est-ce que l'amour ? Il n'est pas fait pour l'avenir.
 SIR ANDRÉ., Une voix douce comme du miel, aussi vrai que je suis chevalier.
-SIR TOBIE., A entendre par le nez, c'est une douce contagion.
+Ferons-nous cela ? SIR ANDRÉ., Si vous m'aimez, faisons-le.
 Je suis un chien pour les canons.
 LE BOUFFON., Par Notre-Dame, monsieur, il y a des chiens qui vont bien au canon.
 SIR ANDRÉ., Certainement ; chantons : Coquin, tais-toi.
@@ -128,8 +129,8 @@ LE BOUFFON., Je ne commencerai jamais si je me tais.
 SIR ANDRÉ., Bon là, ma foi.
 SIR TOBIE, chantant., Ah ! le douzième jour de décembre.
 MARIE., Au nom de Dieu, taisez-vous.
-Allez au diable.
-SIR TOBIE, chantant., Adieu, cher coeur, puisqu'il faut que je parte.
+Allez MALVOLIO., Sir Tobie, il faut que je sois tout rond avec vous.
+SIR TOBIE, chantant., Adieu, cher coeur, puisqu'il faut que je MALVOLIO., Oui, bon sir Tobie.
 SIR TOBIE, chantant., Ses yeux dénotent que ses jours sont bientôt à leur fin.
 MALVOLIO., Les choses en sont-elles là ? SIR TOBIE, chantant., Mais moi, je ne mourrai jamais.
 LE BOUFFON., En cela vous mentez, sir Tobie.
@@ -142,17 +143,14 @@ SIR ANDRÉ., Oh ! si je le croyais, je le battrais comme un chien.
 SIR TOBIE., Excellent ! Je flaire la ruse.
 SIR ANDRÉ., Elle me monte aussi au nez.
 MARIE., Oui, mon projet est un cheval de cette couleur-là.
-SIR ANDRÉ., Et votre cheval fera de lui un âne.
 MARIE., Un plaisir de roi, je vous en assure.
 Je sais que ma médecine opérera sur lui.
 Pour ce soir, au lit ; et rêvons à l'événement.
-Adieu ! (Elle sort.) SIR TOBIE., Bonne nuit, Penthésilée.
-[Note quarante-deux : Nom d'une amazone.] SIR ANDRÉ., Par ma foi, c'est une brave fille.
+Adieu ! (Elle sort.) SIR ANDRÉ., Par ma foi, c'est une brave fille.
 SIR TOBIE., C'est une excellente levrette, et de race pure, et une fille qui m'adore.
 Qu'en dites-vous ? SIR ANDRÉ., J'ai été adoré aussi jadis, moi.
 SIR TOBIE., Allons-nous mettre au lit, chevalier., Tu aurais besoin d'envoyer demander plus d'argent.
 SIR ANDRÉ., Si je ne peux regagner votre nièce, je suis dans un mauvais pas.
-[Note quarante-trois : «Cut.
 (Ils sortent.) Appartement dans le palais du duc.
 LE DUC, VIOLA, CURIO et autres.
 CURIO., Avec la permission de Votre Altesse, celui qui pourrait le chanter n'est pas ici.
@@ -175,14 +173,12 @@ VIOLA., Ma foi, il le faudra bien.
 Hélas ! on peut bien appeler leur amour un appétit des sens.
 Mais le mien est aussi affamé que la mer, et peut digérer autant qu'elle.
 Je vous l'assure, elles ont le coeur aussi fidèle que nous.
-LE DUC., Et quelle est son histoire ? VIOLA., Une page blanche, seigneur.
 (Ils sortent.) Le jardin d'Olivia.
 SIR TOBIE, SIR ANDRÉ et FABIAN.
 SIR TOBIE., Viens avec nous, seigneur Fabian.
 (Marie sort.) (Entre Malvolio.) MALVOLIO., C'est la fortune : tout est une affaire de fortune.
 Que dois-je penser de tout cela ? SIR TOBIE., Ce coquin a bien de la présomption.
-SIR TOBIE., Paix ! paix ! MALVOLIO., Il y en a des exemples.
-La dame de Strachy a épousé un valet de garde-robe.
+SIR TOBIE., Paix ! paix ! valet de garde-robe.
 SIR TOBIE., Veux-tu, canaille … FABIAN., Patience, ou nous rompons tous les fils de notre plan.
 MALVOLIO., «De plus, vous dépensez le trésor de votre temps avec un imbécile de chevalier.
 SIR ANDRÉ., C'est moi, je vous le garantis.
@@ -201,7 +197,9 @@ En effet elle peut me commander.
 Je la sers : elle est ma maîtresse.
 M.O.A.un.
 SIR TOBIE., Oh ! oui, viens-en à bout : le voilà maintenant dérouté et en défaut.
-FABIAN., Sowter va donner de la voix là-dessus, quoique cela sente aussi fort qu'un renard.
+aussi fort qu'un renard.
+MALVOLIO., M, Malvolio., Eh bien ! c'est la lettre initiale de mon nom.
+plus de châtiments à vos talons que de bonnes fortunes devant vous.
 Mon étoile m'a placée au-dessus de toi ; mais ne t'effraye point de la grandeur.
 Ta destinée t'ouvre les bras, que ton audace et ton courage l'embrassent.
 Voilà les conseils que donne celle qui soupire pour toi.
@@ -215,7 +213,6 @@ SIR TOBIE., Je te suivrais aux portes du Tartare merveilleux démon d'esprit.
 SIR ANDRÉ., Je veux en être aussi.
 (Ils sortent.) Le jardin d'Olivia.
 VIOLA, LE BOUFFON avec un tambourin.
-VIOLA., Avec ta permission, l'ami, et celle de ta musique, vis-tu avec ton tambourin.
 VIOLA., Je garantis que tu es un joyeux drôle, et qui n'as souci de rien.
 VIOLA., N'es-tu pas le fou de madame Olivia ? LE BOUFFON., Non, en vérité, monsieur.
 Le mari est le plus gros.
@@ -225,7 +222,7 @@ Tiens, voilà de quoi dépenser.
 VIOLA., Je te comprends, l'ami ; c'est mendier adroitement.
 (Entrent sir Tobie et sir André.) SIR ANDRÉ., Salut à vous, mon gentilhomme.
 VIOLA., Et à vous, monsieur.
-SIR TOBIE., Dieu vous garde, monsieur.
+VIOLA., Et vous aussi ; votre serviteur.
 SIR ANDRÉ., J'espère, monsieur, que vous l'êtes comme je suis le vôtre.
 SIR TOBIE., Tâtez vos jambes, monsieur ; mettez-les en mouvement.
 SIR TOBIE., Je veux dire que vous marchiez, monsieur, que vous entriez.
@@ -242,7 +239,6 @@ A présent, que je vous entende me répondre.
 VIOLA., Je vous plains.
 OLIVIA., C'est déjà un pas vers l'amour.
 OLIVIA., Allons, il me semble qu'il est encore temps d'en rire.
-VIOLA., Eh bien ! en route pour l'occident.
 OLIVIA., Si je pense cela, je le pense aussi de vous.
 VIOLA., Eh bien ! vous pensez juste : je ne suis pas ce que je suis.
 OLIVIA., Je voudrais que vous fussiez ce que je vous souhaiterais être.
@@ -256,7 +252,6 @@ FABIAN., C'est là une grande preuve de l'amour qu'elle a pour vous.
 FABIAN., Il n'y a pas d'autre parti que celui-là, sir André.
 Peu importe qu'il soit spirituel, pourvu qu'il soit éloquent, et plein d'invention.
 Insulte-le avec toute la licence de l'encre.
-SIR ANDRÉ., Où vous retrouverai-je ? SIR TOBIE., Nous irons te demander au cubiculo : va.
 J'ai bien de la peine à m'empêcher de lui lancer quelque chose à la tête.
 SIR TOBIE., Allons, mène-nous, mène-nous où il est.
 (Ils sortent.) Une rue.
@@ -288,7 +283,6 @@ FABIAN., En vérité, vous le rendrez fou.
 MARIE., La maison n'en sera que plus tranquille.
 SIR TOBIE., Allons, nous l'enfermerons dans une chambre obscure, enchaîné.
 Mais voyez, voyez.
-[Note cinquante-sept : Jour consacré aux fêtes.] SIR ANDRÉ., Voici le cartel.
 Je garantis, qu'il y a du poivre et du vinaigre.
 FABIAN., Est-il bien insultant ? SIR ANDRÉ., S'il l'est ? Oh ! je vous en réponds ; lisez-le seulement.
 SIR TOBIE., Donnez-moi.
@@ -319,7 +313,6 @@ Il faut qu'il se batte avec vous, à cause de son serment.
 FABIAN., Cédez le terrain, si vous le voyez trop furieux.
 Allons, en garde.
 Si vous l'offensez, je vous défie en son nom, j'embrasse sa défense et vous attaque.
-SIR TOBIE., Si vous êtes un entrepreneur, je suis à vous.
 Bacon fit aussi une harangue à cette occasion.
 SIR TOBIE, à Antonio., Je serai à vous tout à l'heure.
 Il vous portera bien doucement, et il a la bouche fine.
@@ -362,7 +355,6 @@ Voici les confédérés qui viennent.
 MALVOLIO., Messire Topas, messire Topas, bon messire Topas, allez trouver madame.
 LE BOUFFON., Insensé, tu te trompes.
 Je ne suis pas plus fou que vous ; mettez-moi à l'épreuve par quelque question régulière.
-[Note soixante-cinq : Bon pour toutes les friponneries.
 Je voudrais que nous fussions tous heureusement quittes de ce méchant tour.
 Viens me trouver ensuite dans ma chambre.
 (Il sort avec Marie.) LE BOUFFON, chantant.
@@ -393,13 +385,14 @@ FABIAN., Tout ce que tu voudras.
 LE BOUFFON., Ne demandez pas à voir cette lettre.
 LE DUC., C'est précisément le contraire ; bien pour tes amis.
 LE BOUFFON., Non, monsieur, mal.
-Voilà pourquoi je suis mal pour mes amis et bien pour mes ennemis.
+LE DUC., Ton explication est excellente.
 LE BOUFFON., Par ma foi ! non, monsieur, quoiqu'il vous plaise d'être un de mes amis.
 LE DUC., Ah ! tu me donnes là un mauvais conseil.
 LE DUC., Tu ne m'attraperas plus d'argent ce coup-ci.
 LE BOUFFON., Ah ! monsieur, bercez-la, votre générosité, jusqu'à ce que je revienne ; j'y vais, monsieur.
 VIOLA., Madame ? LE DUC., Aimable Olivia.
 LE DUC., Toujours aussi cruelle ? OLIVIA., Toujours aussi constante, seigneur.
+Memphis, chef d'une bande de voleurs, qui devint amoureux de Chariclée.
 Si je mens, ô vous, témoins célestes, punissez sur ma vie mes fautes contre l'amour.
 (Un domestique sort.) LE DUC, à Viola., Allons, viens.
 OLIVIA., Où voulez-vous qu'il aille, seigneur ? Césario, mon époux, arrête.
@@ -409,7 +402,6 @@ Ne crains point, Césario : prends possession de ta fortune.
 Nous l'avions pris pour un poltron, mais c'est un vrai diable incarné.
 VIOLA., Pourquoi vous adressez-vous à moi ? Jamais je ne vous ai fait aucun mal.
 Ses yeux étaient fermés à huit heures du matin.
-[Note soixante-huit : Danses d'un caractère sérieux.] OLIVIA., Qu'on l'emmène.
 J'avais une soeur, que l'aveugle fureur des flots a engloutie.
 VIOLA., Mon père avait un signe sur le front.
 SÉBASTIEN., Et le mien aussi.

@@ -3,10 +3,8 @@ Les cyberbibliothèques permettent de consulter de nombreux textes à l'écran.
 De plus en plus de catalogues de bibliothèques sont consultables en ligne.
 Tant pis, ou plutôt tant mieux.
 Le monde d'Internet est rapide.
-Chiffres et éléments techniques / deux.deux.
-Concepts de base / deux.trois.
-"Info-riches" et "info-pauvres" / deux.quatre.
-Internet francophone, anglophone et multilingue] deux.un.
+Passionnée par les langues, elle "Info-riches" et "info-pauvres" / deux.quatre.
+Internet francophone, anglophone et deux.un.
 Dix ans après, le nombre de cybernautes français est estimé à trois millions.
 On nous promet bientôt Internet dans tous les foyers.
 Internet deviendra sans doute un nom commun, au même titre que : téléphone, ordinateur ou télécopieur.
@@ -44,6 +42,7 @@ Plusieurs organismes internationaux travaillent au développement d'Internet.
 En voici trois.
 dix-huitpourcent des cybernautes lisaient moins de livres, 5pourcent en lisaient plus.
 quinzepourcent lisaient moins de quotidiens et magazines, douzepourcent en lisaient plus.
+Il explique aussi : connaissance.
 Mais, à l'âge de l'information, il faut saisir les signaux.
 Populariser signifie 'rendre accessible au peuple'.
 La télé n'a pas tué la radio, ni le cinéma.
@@ -74,10 +73,7 @@ Le Club des poètes, lui, présente son site en anglais, en espagnol et en portu
 La traduction étant entièrement automatisée, elle est évidemment approximative.
 Internet est multilingue.
 Toutes les langues y sont déjà représentées.
-Cyberlibrairies francophones / trois.deux.
-Cyberlibrairies non francophones / trois.trois.
 Librairies de livres anciens / trois.quatre.
-Fournisseurs de livres pour bibliothèques / trois.cinq.
 D'autres librairies n'ont ni murs, ni vitrine, ni enseigne sur la rue.
 Leur vitrine est leur site web, et toutes leurs transactions s'effectuent par le biais d'Internet.
 La commande s'effectue par Internet, Minitel ou téléphone.
@@ -112,10 +108,7 @@ L'avenir des cyberlibrairies est très prometteur.
 En revanche, les libraires sont optimistes sur les perspectives d'un marché francophone.
 Un nombre significatif de commandes provient de l'étranger.
 Il représente par exemple un pourcentage de dixpourcent des ventes pour la FNAC.
-[Dans ce chapitre :] [quatre.un.
-Quelques exemples d'éditeurs / quatre.deux.
-Répertoires d'éditeurs / quatre.trois.
-Edition traditionnelle et édition électronique / quatre.quatre.
+traditionnelle et édition électronique / quatre.quatre.
 L'édition électronique offre de nouvelles perspectives.
 Elle permettrait entre autres de résoudre la crise affectant les éditions universitaires et de recherche.
 Les échanges ont été effectués par courrier électronique.
@@ -132,7 +125,6 @@ Nous les avons mis 'en veille'.
 Les éditions du Cerf se présentent comme la bibliothèque francophone de sciences humaines et religieuses.
 Trois mois après, l'éditeur avait signé des contrats avec treize auteurs et vendu cent livres.
 "La création de 00h00.com marque la véritable naissance de l'édition en ligne.
-C'est cette idée d'origine, de nouveau départ qui s'exprime dans le nom de marque, 00h00.
 Il y faut inventer de nouvelles manières de faire les choses.
 Le recherche est possible par auteur, par titre et par genre.
 Ils peuvent participer à des forums ou commenter les oeuvres proposées par l'éditeur.
@@ -146,14 +138,10 @@ En voici trois.
 Mais je fais en sorte que ma création personnelle n'en souffre pas.
 Elle compte tirer à profit tous ces échanges dans une nouvelle édition de son livre.
 Puis les intermédiaires prendront tout le pouvoir.
-La presse en ligne francophone / cinq.deux.
-La presse étrangère / cinq.trois.
-La presse électronique / cinq.quatre.
 Puis les éditeurs de ces journaux ont créé des serveurs web.
 D'autres journaux et magazines sont purement électroniques.
 L'intégralité du mensuel en cours est consultable gratuitement pendant les deux semaines suivant sa parution.
 Un forum permanent de discussion en ligne permet au journal de discuter avec ses lecteurs.
-[Grâce à Internet,] le travail journalistique s'enrichit de sources faciles d'accès, aisément disponibles.
 L'archivage est automatique.
 Nous espérons également mettre sur site L'Humanité hebdo dans les mêmes délais.
 Certains s'en servent pour transmettre leurs articles, leurs reportages.
@@ -164,9 +152,8 @@ L'abonnement minimal sera de cinquante FF pour dix articles.
 Il s'effectuera directement en ligne par carte bancaire ou par abonnement.
 France-Ouest, site du quotidien Ouest-France, a été créé en juillet mille neuf cent quatre-vingt-seize.
 Très vite, nous nous sommes aperçus que cela ne suffisait pas.
-Et nous offrons des services (PA [petites annonces], guide des spectacles, presse-école, boutique, etc.).
+Et nous boutique, etc.).
 Mais cette pratique demande encore à s'étendre et à se généraliser.
-[ …] [Internet est] à la fois une menace et une chance.
 Le Journal officiel est en ligne depuis début mille neuf cent quatre-vingt-dix-huit.
 Plusieurs répertoires permettent de "naviguer" sur la presse francophone.
 La recherche est possible par titre d'article, thème, revue et année.
@@ -195,9 +182,6 @@ C'est une façon de déjouer la censure.
 Terminée en juin mille neuf cent quatre-vingt-dix-huit, la première session comprenait huit diplômés.
 Internet permet une information en profondeur qu'aucun organe de presse ne pouvait donner jusqu'ici.
 Derrière l'information du jour se trouve toute une encyclopédie qui aide à la comprendre.
-Bibliothèques francophones / six.deux.
-Répertoires de bibliothèques / six.trois.
-Internet dans les bibliothèques / six.quatre.
 Les cyberbibliothèques, ensembles de textes électroniques disponibles sur Internet, seront abordées au chapitre suivant.
 Le serveur de la BPI propose un accès direct aux catalogues des bibliothèques françaises.
 Site trilingue anglais-français-allemand, Gabriel est l'acronyme de "Gateway and Bridge to Europe's National Libraries".
@@ -231,19 +215,16 @@ Cela diminue grandement les délais.
 Ses archives sont intégralement disponibles sur le Web.
 Les associations de bibliothécaires sont également présentes sur le Web.
 Elle regroupe des bibliothécaires de tous types d'établissements et de toutes catégories.
+Les professionnels des bibliothèques sont les acteurs d'un enjeu six.quatre.
 Nous sommes en pleine période de transition.
 Par contre, les bibliothèques publiques auront probablement une durée de vie plus longue.
 Mais c'est sans doute aussi une question de génération.
 On ne fait qu'amorcer un virage, et l'avenir est encore flou.
 "Je me vois devenir de plus en plus un bibliothécaire virtuel, dit-il.
-Définition de la cyberbibliothèque / sept.deux.
-Cyberbibliothèques francophones / sept.trois.
 Cyberbibliothèques non francophones / sept.quatre.
-Un exemple : la toile littéraire francophone / sept.cinq.
 Après avoir tenté de définir la cyberbibliothèque, on décrira quelques cyberbibliothèques francophones et non francophones.
 Cyberbibliothèques francophones Hébergée par l'Université de Genève (Suisse), Athena est l'oeuvre de Pierre Perroud.
 La section Helvetia concerne les livres sur la Suisse.
-Nous nous orientons aujourd'hui vers des corpus thématiques, aussi complets que possibles, mais plus restreints.
 Dès le début, je l'ai utilisé avec mes étudiants, sur papier ou sur écran.
 Je sais qu'ils continuent de s'en servir, bien qu'ils ne suivent plus mon cours.
 La Bibliothèque municipale de Lyon par exemple met ses enluminures à la disposition du public.
@@ -254,7 +235,6 @@ Un double-clic sur une imagette permet de voir l'image agrandie.
 Le nombre de sessions d'interrogations de la base était d'une cinquantaine par jour.
 J'ai en effet travaillé avec des outils sous UNIX, qui n'étaient pas très faciles d'utilisation.
 Nous avions peu d'expérience de la chose, à l'époque, et les pages étaient très verbeuses.
-Il était donc nécessaire de faire connaître l'ensemble de l'INaLF par ce moyen.
 Les résultats de cette enquête sont disponibles en ligne.
 La base de données correspondant au premier volume est accessible en ligne à titre expérimental.
 La recherche d'images par mot, portion de texte ou catégorie sera également possible à l'avenir.
@@ -273,6 +253,7 @@ Un site littéraire est pratiquement toujours doublé d'une cyberbibliothèque.
 Voici quelques exemples.
 Cahin-caha, je renouvelle chaque mois.
 Voici aussi quelques exemples pris dans les sites consacrés à la poésie.
+bouleversée puisqu'elle est indépendante de cette création sur Internet.
 Théâtrales est une collection de textes et d'hypertextes en français sur le théâtre.
 Le site a été créé en mai mille neuf cent quatre-vingt-quinze par André G.
 Une Autre Terre est un site consacré à la science-fiction.
@@ -283,9 +264,7 @@ France Loisirs devait publier le roman en septembre mille neuf cent quatre-vingt
 "On ne peut pas, on ne pourra pas tout numériser.
 La consultation sur écran de livres anciens offre également d'immenses perspectives.
 - est fébrilement étudié par les auteurs, éditeurs, journalistes, etc.
-[Dans ce chapitre :] [huit.un.
-Catalogues de bibliothèques francophones / huit.deux.
-Catalogues de bibliothèques non francophones / huit.trois.
+bibliothèques non francophones / huit.trois.
 Catalogues collectifs mondiaux / huit.quatre.
 Il permet de répertorier et présenter les documents de manière systématique.
 Depuis qu'ils sont disponibles sur Internet, les catalogues sont moins austères et plus conviviaux.
@@ -321,10 +300,7 @@ Elle permet aussi de faciliter la production du CD-ROM annuel.
 Le travail est titanesque.
 Le projet était également basé sur l'utilisation de protocoles internationaux comme la norme Ztrente-neuf.cinquante.
 On peut même rêver à des catalogues communs aux bibliothèques, aux librairies et aux éditeurs.
-[Dans ce chapitre :] [neuf.un.
-Propriété intellectuelle / neuf.deux.
-Droit du cyberespace / neuf.trois.
-Document imprimé et/ou électronique / neuf.quatre.
+imprimé et/ou électronique / neuf.quatre.
 Numérisation et convergence multimédia / neuf.cinq.
 Plusieurs cyberlibrairies offrent aussi un véritable magazine littéraire avec un contenu éditorial chaque jour différent.
 J'ai surtout apprécié les logiciels de courrier, de transfert de fichiers, de connexion à distance.
@@ -354,7 +330,6 @@ Voici son argumentation résumée en quelques lignes.
 Or les habitudes liées à l'imprimé ne peuvent être transférées au monde numérique.
 La nature même de l'imprimé est liée à la notion de vérité, stable elle aussi.
 Mais la révolution numérique change tout ceci.
-Les URNs sont, de manière universelle, uniques, persistantes et accessibles sur le réseau.
 Si une URL change, les usagers autorisés peuvent la modifier à l'intérieur du service URC.
 C'est ce qu'on appelle la numérisation.
 La numérisation a également considérablement accéléré le processus matériel de production.
@@ -562,10 +537,10 @@ Windows quatre-vingt-dix-huit : créé par Microsoft, système d'exploitation p
 Son correspondant professionnel pour serveurs et stations de travail est Windows NT.
 WWW : abréviation de World Wide Web.
 Ztrente-neuf.cinquante : norme définissant un protocole pour la recherche documentaire d'un ordinateur à un autre.
+Edition électronique / Internet / Internet en France / Langues / Presse / Bibliothèques = Bibliothèque des Nations Unies à Genève.
 "Un cyberespace à la Bibliothèque de l'ONUG." Nouvelles de la bibliothèque, vol.
 sept, nos un-deux, mille neuf cent quatre-vingt-dix-sept, p.
 L'article est bilingue français-anglais.
-= Lassalle, Hélène.
 = Peyret, Emmanuelle.
 = Roumieux, Olivier.
 L'impact de l'Internet sur la profession de bibliothécaire.
@@ -762,7 +737,6 @@ trois cent quarante-neuf p.
 Mutations, n° cent soixante-seize.
 ISBN deux-quatre-vingt-six mille deux cent soixante-sept cent quatre-vingts-0.
 Internet en France = Latrive, Florent.
-= Lassalle, Hélène.
 = Briançon, Pierre.
 "Le Net intimide les libraires." Libération, Cahier Multimédia, quatorze novembre mille neuf cent quatre-vingt-dix-sept.
 En France, la vente en ligne de livres tarde à se développer.
@@ -793,6 +767,7 @@ Obligeant les autres médias à courir derrière le réseau de l'information." =
 Le site rédactionnel NewsWorks regroupe neuf groupes de presse des Etats-Unis traditionnellement concurrents (N.B.
 Ce site fut fermé en mars mille neuf cent quatre-vingt-dix-huit).
 = Mauriac, Laurent.
+Ce sous-développement, que souligne un rapport remis au nouveau médium." = Maurice, Antoine.
 Avec l'informatisation et Internet, la presse doit repenser sérieusement son rôle.
 = Montelh, Bernard.
 (N.B.
@@ -806,48 +781,17 @@ xv, deux cent soixante-douze p.
 ISBN un-quatre-vingt-cinq mille neuf cent quatre-vingt-six-cent cinquante-neuf-huit.
 = Leterre, Thierry.
 "Ces mots qui s'en 'mél'." Libération, Supplément Multimédia, quatorze novembre mille neuf cent quatre-vingt-dix-sept.
-Ce site a malheureusement disparu.
-[français] = Alice.it "Il libro nella rete." Une cyberlibrairie italienne.
 Permet aussi la recherche d'images et la recherche par sujets.
-[anglais] = Amazon.com Fondée en juillet mille neuf cent quatre-vingt-quatorze par Jeffrey P.
-Par la suite, il est devenu un annuaire consacré à l'enseignement supérieur et la recherche.
-Elle regroupe des bibliothécaires de tous types d'établissements et de toutes catégories.
 La section Helvetia concerne les livres sur la Suisse.
-Liens avec de nombreuses autres cyberbibliothèques.
-Permet aussi l'accès à Gallica, la bibliothèque électronique de la BnF.
-[français] = British Library (The) Le serveur de la bibliothèque nationale du Royaume-Uni.
 Au menu, infos en ligne, collections, expositions, bibliothèque numérique, services et renseignements.
-Les bookmarks de Patrick Rebollar proposent aussi de nombreux liens vers des sites littéraires francophones.
-Douze langues sont représentées, dont le français avec French Texts and Language Resources.
-Inclut une librairie en ligne et une rubrique présentant l'actualité culturelle.
-[français] = France Antiques Spécialiste français d'antiquités et de livres anciens.
-Héberge notamment plusieurs sites de librairies et de catalogues de livres anciens.
-[français, anglais] = France Edition Site de l'organisme de promotion de l'édition française à l'étranger.
-Propose notamment un annuaire des éditeurs adhérents.
+Héberge notamment = France Edition Site de l'organisme de promotion de l'édition française à l'étranger.
 On peut aussi adhérer au club en ligne et passer commande en ligne.
-Recherche possible par thème ou par période (jour, semaine, mois, et archives).
-L'abonnement minimal sera de cinquante FF pour dix articles.
-Voir notamment la section rassemblant des documents électroniques sur ces différents sujets.
-[anglais] = Internet Public Library (IPL) La première bibliothèque publique d'Internet et pour Internet.
+= Internet Public Library (IPL) La première bibliothèque publique d'Internet et pour Internet.
 Propose notamment une cyberbibliothèque de vingt.cent soixante-six documents catalogués et résumés.
-Couvre plus de cent soixante pays, soit environ deux cent cinquante destinations.
-[anglais] = Libération Le site web d'un des grands quotidiens français.
-Un répertoire de deux.cinq cents sites web de bibliothèques dans plus de soixante-dix pays.
 Il complète Le Micro Bulletin, revue papier destinée aux utilisateurs de l'informatique dans la recherche.
-[français] = Multimédium Cyberquotidien québécois des nouvelles technologies de l'information.
-Propose notamment Infos techno, qui est une sélection de revues informatiques francophones et anglophones.
-[anglais] = Novalis Société française de vente par correspondance de disques, livres, vidéos et multimédia.
 Gère la plus grande base bibliographique mondiale avec ses trente-huit millions de notices.
-Définit et conduit la politique québécoise en matière de linguistique et de terminologie.
-[français] = Pagina Magazine de l'édition à parution hebdomadaire, présente l'actualité littéraire française.
-Possibilité de recherche d'articles par date ou par sujet.
 Environ deux cents titres disponibles en ligne.
 Contrairement au OCLC Online Computer Library Center, il propose plusieurs notices pour le même document.
-[anglais] = SJCPL's Public Library WWW Servers Par la St.
-La Cyberspace Law Bibliography est une bibliographie très complète sur le droit du cyberespace.
-Les tables des matières des périodiques et l'index par mots-clés sont en accès libre.
-Reliée à l'Experimental Search System (ESS) de la Library of Congress.
-[anglais] = (Virtual) Baguette (The) "Discussion en direct, humour et divertissement".
+= (Virtual) Baguette (The) "Discussion en direct, humour et divertissement".
 Il a également intégré Mygale pour créer MultiMania.
-Comprend notamment des secteurs sur les bibliothèques, les cyberbibliothèques et les textes électroniques.
 Qu'elles soient ici chaleureusement remerciées

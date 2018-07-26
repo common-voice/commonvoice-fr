@@ -1,4 +1,4 @@
-[Illustration : Editor's arms.] Copyright, mille huit cent quatre-vingt-cinq, by Henry HOLT & Co.
+Copyright, mille huit cent quatre-vingt-cinq, by Henry HOLT & Co.
 The biographical and critical notices are short, comprehensive, in the clearest and simplest possible style.
 There is nothing elaborate in them, nothing superfluous.
 It is both interesting and instructive to know what good critics think of good writers.
@@ -13,7 +13,6 @@ Ce qui précède appartient, à proprement parler, à l'histoire de la langue, d
 5º Le XIXe Siècle, ou Littérature contemporaine, Époque historique et critique.
 L'Italie possédait le Dante, l'Espagne Cervantes, l'Angleterre Shakspeare.
 La France était restée en arrière.
-La langue d'oc fleurit la première.
 Au treizee siècle elle possédait une littérature brillante, la littérature provençale.
 Le français du nord ou français wallon devint la langue nationale.
 Né vers mille cent cinquante-six et mort vers mille deux cent treize.
@@ -145,6 +144,7 @@ L'érudition a fait son temps ; Descartes est un disciple devenu maître.
 Le premier de tous les préjugés dont il s'est délivré, c'est la superstition de l'antiquité.
 Descartes ne veut pour preuve que des raisons pures, des vérités de sens intime.
 Né à Rouen en mille six cent six ; mort en mille six cent quatre-vingt-quatre.
+Il l'éleva à la hauteur à n'avaient pu atteindre.
 Il se distingua également comme poëte comique.
 Sa comédie le Menteur ouvrit la voie dans laquelle Molière devait s'immortaliser.
 Un incident curieux se rattache à la glorieuse histoire du Cid.
@@ -165,7 +165,6 @@ Mais, si Corneille a moins d'imagination, il a plus d'âme.
 Moins varié, il est plus profond.
 Tragédie en cinq Actes.
 Tulle, Roi de Rome.
-[La scène est à Rome, dans une salle de la maison d'Horace.
 Sabine, Julie et Camille s'entretiennent des malheurs qui les menacent.
 La guerre a éclaté entre Rome et Albe.
 De quelque manière qu'elle se termine, leurs familles en souffriront.
@@ -173,7 +172,7 @@ Ce qui sera la joie de l'une sera le deuil de l'autre.
 Camille voit déjà son mariage avec Curiace brisé.
 Il apporte des nouvelles rassurantes.
 Curiace en félicite son beau-frère Horace.
-Arrive Flavian, porteur d'une importante nouvelle.] Scène deux., Horace, Curiace, Flavian.
+Scène deux., Horace, Curiace, Flavian.
 Albe de trois guerriers a-t-elle fait le choix ? Flavian.
 Je viens pour vous l'apprendre.
               Eh bien, qui sont les trois ? Flavian.
@@ -190,9 +189,11 @@ Le sort, qui de l'honneur nous ouvre la barrière, C.
 Il est vrai que nos noms ne sauraient plus périr, H.
 Si vous n'êtes Romain, soyez digne de l'être, C.
 Je vous connais encor, et c'est ce qui me tue ; H.
+Non, non, n'embrassez pas de vertu par contrainte, fratricide.
 Le brave Albain croirait manquer au plus sacré des devoirs.
-Qu'est-ce ci, mes enfants ? écoutez-vous vos flammes ? [Sabine et Camille se retirent en pleurant.
-Horace recommande à son père de les retenir, de les surveiller.
+Les deux guerriers ont peine à se défendre contre la vivacité de leur Scène sept.
+Qu'est-ce ci, mes enfants ? écoutez-vous vos flammes ? père de les retenir, de les surveiller.
+Pourront-ils permettre tant d'atrocité ? Le vieil Horace Scène cinq.
 Je viens vous apporter de fâcheuses nouvelles, Le vieil Horace.
 Le vieil H.
 Nous venez-vous, Julie, apprendre la victoire ? Julie.
@@ -208,8 +209,8 @@ Tout beau, ne les pleurez pas tous ; Julie.
 Que vouliez-vous qu'il fît contre trois ? Le vieil H.
                     Qu'il mourût Sabine.
 Écoutez un peu moins ces ardeurs généreuses, Le vieil Horace.
-Sabine, votre coeur se console aisément ; [Camille intercède pour son frère.
-Le vieil Horace lui ordonne de ne plus lui parler d'un infâme.
+Sabine, votre coeur se console aisément ; plus lui parler d'un infâme.
+Ce récit change sa fureur en allégresse, et jette Scène trois.
 Le vieil H.
 Ma soeur, voici le bras qui venge nos deux frères, Camille.
 Recevez donc mes pleurs ; c'est ce que je lui dois.
@@ -342,13 +343,15 @@ Comédie en cinq Actes.
 (mille six cent soixante-douze.) Personnages.
 Chrysale, bon bourgeois.
 La scène est à Paris, dans la maison de Chrysale.
+songe à se marier.
 C'est là une chose à laquelle il va travailler, sans retard, de tous ses soins.
 Clitandre vous demande Henriette pour femme.
-[Chrysale y consent de bon coeur.
+parler à la femme de son frère pour la rendre favorable à ce projet.
 Chrysale se fait fort d'obtenir son consentement.
 Le péché semble petit à Chrysale, mais n'importe ; il faut que Martine se retire.
 Seul avec sa femme, il aborde la question du mariage.
-Henriette voudrait se retirer.
+entendre Monsieur Trissotin lire des vers de sa composition.
+Sait peu les beautés de tout ce qu'on écrit, Philaminte.
 Aussi bien ai-je à vous dire ensuite Trissotin.
 Les sciences n'ont rien qui vous puisse enflammer, Henriette.
 Aussi peu l'un que l'autre, et je n'ai Bélise.
@@ -435,8 +438,8 @@ Oh ! oh ! oh ! celui-là ne s'attend point du tout.
 On n'a que lui qui puisse écrire de ce goût.
 Ne dis plus qu'il est amarante, Philaminte.
 Je ne sais, du moment que je vous ai connu, Trissotin à Philaminte.
-Lépine vient annoncer qu'un homme est là, qui désire parler à Monsieur Trissotin.
-Il est vêtu de noir, et parle d'un ton doux.] Trissotin.
+Lépine vient annoncer qu'un homme est là, qui désire Trissotin.
+C'est cet ami savant qui m'a fait tant d'instance Scène cinq.
 Trissotin (présentant Vadius).
 Voici l'homme qui meurt du désir Philaminte.
 La main qui le présente en dit assez le prix.
@@ -486,19 +489,17 @@ Cependant nous voyons qu'elle ne vous plaît pas.
 Vous donnez sottement vos qualités aux autres.
 Fort impertinemment vous me jetez les vôtres.
 Allez, petit grimaud, barbouilleur de papier.
-Allez, rimeur de balle, opprobre du métier.
 Allez, fripier d'écrits, impudent plagiaire.
-Allez, cuistre  … [Vadius sorti, Trissotin s'excuse.
 Philaminte propose de parler d'une autre affaire.
 Henriette va entendre quelque chose qui l'intéresse au plus haut point.
 Henriette se récrie, et prie Monsieur Trissotin de rengaîner son ravissement.
 Un mariage proposé n'est pas un mariage fait.
 Il n'est plus temps.
 Un sot savant est sot plus qu'un sot ignorant.
+remet à Philaminte un billet de la part de son maître.
 Celui-ci, pour se venger de Trissotin, cherche à faire manquer son mariage par certaines insinuations.
-[Et elle invite Clitandre à assister à la signature du contrat.
-Trissotin est sans appréhension là-dessus ; il trouvera peut-être l'art de se faire aimer.
-D'ailleurs quels que soient les accidents] À tous événements le sage est préparé.
+À tous événements le sage est préparé.
+Et pour la mieux braver voilà, malgré ses dents, changer, d'être ferme.
 Philaminte arrive avec le notaire.
 Elle est peu agréablement surprise de revoir Martine.
 Sur la demande de Chrysale on procède au contrat.
@@ -520,7 +521,6 @@ Ce talent ne s'affirma qu'assez tard.
 Il avait plus de quarante ans.
 Il s'était déjà exercé dans différents genres de poésie.
 Son Élégie aux nymphes de Vaux est un chef-d'oeuvre de sentiment et de style.
-Il la composa à l'occasion de la chute du surintendant Fouquet, son protecteur et ami.
 Mais ni ses petits poëmes ni ses contes n'auraient immortalisé son nom.
 La lecture d'Ésope et de Phèdre le mit en humeur de composer des fables.
 Ce fut une révélation.
@@ -562,13 +562,11 @@ Ni l'or ni la grandeur ne nous rendent heureux.
 Né à Paris en mille six cent trente-six, mort en mille sept cent onze.
 Le XVIIe siècle est éminemment un siècle d'ordre, d'autorité et de discipline.
 Il fallait une réaction délibérée.
-C'est ce que fit Nicolas Boileau, surnommé Despréaux.
 Grâce à cette libéralité, il s'acheta une petite maison à Auteuil.
 L'effet de ses oeuvres fut immense ; il se fait encore sentir aujourd'hui.
 Ce qui les caractérise, c'est le culte de la raison et l'amour du vrai.
 Son caractère était aussi élevé que son talent.
 Il était naturellement bon, et aimait à faire le bien.
-L'avocat Patru est réduit par les circonstances à vendre sa bibliothèque.
 Une foule nombreuse accompagna son cortège funèbre.
 Il prêche le respect de la pensée.
 Ce respect impose le choix de l'expression.
@@ -577,6 +575,7 @@ Il était ennemi de tout ce qui n'était pas dans le vrai.
 Le vrai était sa passion, son culte.
 Ceux qui y manquent sont les objets de sa critique impitoyable, de sa fine raillerie.
 Libre et franc, il donne à chaque chose son nom.
+Il appelle celle d'un honnête homme.
 Il est scrupuleux observateur des convenances.
 Les convenances sont une partie du vrai.
 S'il a été sévère pour les autres, il l'est tout d'abord pour lui-même.
@@ -588,7 +587,6 @@ En ce monde il n'est point de parfaite sagesse.
 Chacun veut en sagesse ériger sa folie.
 Le plus sage est celui qui ne pense point l'être.
 Souvent de tous nos maux la raison est le pire.
-Paris est pour le riche un pays de Cocagne.
 Le mal qu'on dit d'autrui ne produit que du mal.
 …Quelques vains lauriers que promette la guerre Un Auguste aisément peut faire des Virgiles.
 Qui vit content de rien possède toute chose.
@@ -629,7 +627,6 @@ Assuérus, roi de Perse.
 Choeur de jeunes filles israélites.
 La scène est à Suse, dans le palais d'Assuérus.
 (Le théâtre représente l'appartement d'Esther.) Scène un.
-[Esther raconte à son amie Élise comment elle est devenue reine de Perse.
 Une Israélite, chantant derrière le théâtre.
 Ma soeur, quelle voix Une autre.
 J'en reconnais les agréables sons : Toutes deux.
@@ -662,7 +659,6 @@ Dieu qui veux bien que de simples enfants Tout le choeur.
 Tu vois nos pressants dangers : Une Israélite, seule.
 Arme-toi, viens nous défendre.
 Tout le choeur.
-Pourquoi ?] L'heureux Aman a-t-il quelques secrets ennuis ? Aman.
 Peux-tu le demander dans la place où je suis ? Hydaspe.
 Hé ! qui jamais du ciel eut des regards plus doux ? Aman.
 L'univers ! Tous les jours un homme  … un vil esclave Hydaspe.
@@ -671,29 +667,30 @@ Le nom de Mardochée, est-il connu de toi ? Hydaspe.
 Qui ? ce chef d'une race abominable, impie ? Aman.
 Hé, seigneur ! d'une si belle vie, Aman.
 L'insolent devant moi ne se courba jamais.
+Seigneur, vous le savez, son avis salutaire Hydaspe.
 Vous serez de sa vue affranchi dans dix jours : Aman.
 Ah ! que ce temps est long à mon impatience ! Hydaspe.
 Ce n'est donc pas, seigneur, le sang amalécite Aman.
-[Le roi venant Aman se retire.
-Assuérus reste seul avec Asaph, un de ses officiers de service.
+ses officiers de service.
 On lui promit beaucoup : c'est tout ce que j'ai su.
+"Ah ! que plutôt l'injure échappe à ma vengeance, Assuérus.
 Quel pays reculé le cache à mes bienfaits ? Asaph.
 Assis le plus souvent aux portes du palais, Assuérus.
 Et je dois d'autant moins oublier la vertu, Asaph.
 Mardochée est le nom que je viens de vous lire.
 Et son pays ? Asaph.
          Seigneur, puisqu'il faut vous le dire, Assuérus.
-Aman arrive.] Scène cinq.
+Il est donc Juif ? Ô ciel, sur le point que la vie Scène cinq.
 Que penses-tu ? Aman.
          Seigneur, je cherche, j'envisage Assuérus.
 Je vois que la sagesse elle-même t'inspire.
-Dieux ! [Quand Assuérus est seul, Esther entre, s'appuyant sur Élise.] Assuérus.
 Sans mon ordre on porte ici ses pas ! Esther.
 Mes filles, soutenez votre reine éperdue : Assuérus.
 Ô bonté qui m'assure autant qu'elle m'honore ! Assuérus.
 Ah ! que vous enflammez mon désir curieux ! Esther.
 Seigneur, si j'ai trouvé grâce devant vos yeux, Assuérus.
-Le choeur, seul en scène, exhale ses craintes et ses espérances.] Élise.
+Le choeur, seul en scène, exhale ses craintes et ses Élise.
+Que vous semble, mes soeurs, de l'état où nous sommes ? Une des Israélites chante.
 Un moment a changé ce courage inflexible : Le choeur chante.
 Dieu, notre Dieu, sans doute a versé dans son coeur La même Israélite chante.
 Tel qu'un ruisseau docile Élise.
@@ -709,27 +706,28 @@ Pour contenter ses frivoles désirs Une autre, seule.
 Le bonheur de l'impie est toujours agité ; La même, avec une autre.
 Ô douce paix ! Nulle paix pour l'impie : il la cherche, elle fuit ; Une autre.
 La gloire des méchants en un moment s'éteint ; Le choeur.
-La tristesse et la colère sont peintes sur son front.
 Zarès lui conseille de l'éclaircir et de penser à l'honneur que lui fait la reine.
-Il l'a cent fois dit lui-même :] Quiconque ne sait pas dévorer un affront, Aman.
-À cela sa femme lui répond :] Seigneur, nous sommes seuls.
+Il l'a cent fois dit Quiconque ne sait pas dévorer un affront, Aman.
+Seigneur, nous sommes seuls.
 Que le peuple est heureux, Tout le choeur.
 Ô repos ! ô tranquillité ! Une autre.
 J'admire un roi victorieux, Une autre.
 La veuve en sa défense espère.
 De l'orphelin il est le père.
 Et les larmes du juste implorant son appui Scène quatre.
-[Assuérus subjugué par les grâces d'Esther, lui parle du ton le plus affectueux.
+… Dites promptement ce que vous demandez, Esther.
 Je ne m'égare point dans ces vastes désirs.
 À périr ! Vous ! Quel peuple ? Et quel est Aman (tout bas).
 Esther, seigneur, eut un Juif pour son père.
-[Le roi ne s'attendait pas à cela.
+Mais je demande au moins que, pour grâce dernière, Assuérus.
 Ô Dieu, confonds l'audace et l'imposture ! Aman.
 De votre gloire ! Moi ? Ciel ! Le pourriez-vous croire ? Assuérus.
                         Tais-toi ! Esther.
 Notre ennemi cruel devant vous se déclare.
           Il restait seul de notre famille, Assuérus.
 Quel jour mêlé d'horreur vient effrayer mon âme ! (Le roi s'éloigne.) Une Israélite.
+Vérité que j'implore, achève de jette à ses pieds et la supplie de le sauver.
+Mortel chéri du ciel, mon salut et ma joie, Scène neuf.
 Tout le choeur.
 Dieu fait triompher l'innocence : Une Israélite.
 Il a vu contre nous les méchants s'assembler, Une autre.
@@ -771,7 +769,6 @@ La liberté de la parole n'existait pas en matière politique.
 Elle resta exclusivement le privilège de la chaire.
 Là le roi lui laissa pleine carrière.
 Il débuta de très-bonne heure étonnant ceux qui l'écoutèrent.
-Il s'était exercé dans ce genre dès les premières années de son séjour à Paris.
 Il le renouvela plusieurs fois.
 Les plus admirées sont la première, la deuxième et la sixième.
 Lorsque l'éducation du Dauphin fut terminée, Louis quatorze le nomma évêque de Meaux.
@@ -811,6 +808,7 @@ Son grand coeur ni ne s'aigrit, ni ne s'emporta contre elle.
 Triste consolation, puisque, malgré ce grand courage, nous l'avons perdue.
 C'est la grande vanité des choses humaines.
 Mais ici notre imagination nous abuse encore.
+plus rien à espérer, que tout soit fini.
 Mais en priant pour son âme, chrétiens, songeons à nous-mêmes.
 Fénelon, comme Bossuet, est une des gloires de l'église en France.
 Les critiques du XVIIIe siècle l'ont loué sans réserve.

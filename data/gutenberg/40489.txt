@@ -14,17 +14,14 @@ La tentative, c'est l'acte ainsi défini, mais arrêté avant que la mort en soi
 Cette définition suffit à exclure de notre recherche tout ce qui concerne les suicides d'animaux.
 Mais, en réalité, l'odeur du sang suffit à déterminer ce mouvement instinctif de recul.
 Les caractères distinctifs du suicide, tels que nous l'avons défini, font donc défaut.
-C'est pourquoi, dans ce qui suivra, nous n'aurons à nous occuper que du suicide humain.
 Ils ne sont que la forme exagérée de pratiques usuelles.
 Mais cette certitude peut être plus ou moins forte.
 Et pourtant, ces différentes manières d'agir ne se distinguent pas radicalement des suicides proprement dits.
 On verra mieux dans la suite ce que ces rapprochements ont d'instructif.
-/* Constance du suicide dans les principaux pays d'Europe (Chiffres absolus).
 Si l'on considère un plus long intervalle de temps, on constate des changements plus graves.
 Nous appellerons cette donnée numérique taux de la mortalité-suicide propre à la société considérée.
 On le calcule généralement par rapport à un million ou à cent mille habitants.
 C'est ce que nous avons fait au tableau deux (cinq.
-On s'en aperçoit en comparant les écarts moyens.
 / +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , + |                      A., Chiffres absolus.
  |    huit virgule cinq | vingt-deux virgule huit| Moy.
  |   dix virgule un | vingt-quatre virgule un| Moy.
@@ -47,16 +44,12 @@ Par suite, elles intéressent le psychologue, non le sociologue.
 Le taux des suicides est le produit de ces facteurs.
 C'est pourquoi nous devons nous y tenir.
 Tel est l'objet du présent travail qui comprendra trois parties.
-Le suicide et les états psychopathiques.
 L'hypothèse, en tout cas, ne peut pas être écartée sans discussion.
 Telle est la folie.
-C'est la thèse soutenue par d'assez nombreux aliénistes.
-Falret et Moreau de Tours s'expriment dans des termes presque identiques.
 Cette théorie peut être et a été défendue de deux manières différentes.
 Mais l'autre preuve, si elle peut être administrée, serait concluante.
 Dans la terminologie traditionnelle de la pathologie mentale, on appelle monomanies ces délires restreints.
 Mais, aujourd'hui, cette opinion est universellement abandonnée.
-Le malade, préoccupé d'idées religieuses, se croira perdu, destiné à périr, etc.».
 Il y a surtout absence d'équilibre et de coordination dans la pensée comme dans l'action.
 L'ancienne théorie des facultés ne compte plus guère de défenseurs.
 Mais il reste possible qu'il n'ait lieu qu'à l'état de folie.
@@ -64,14 +57,14 @@ Ce n'en est qu'un syndrome épisodique, mais qui est fréquent.
 D'ailleurs, d'une expérience aussi étroitement spéciale, on ne saurait induire aucune loi générale.
 Les spécialistes se sont peu attachés, en général, à classer les suicides d'aliénés.
 On peut cependant considérer que les quatre types suivants renferment les espèces les plus importantes.
-Les traits essentiels de cette classification sont empruntés à Jousset et à Moreau de Tours.
+Les traits essentiels de cette classification sont empruntés à Jousset et à Moreau I.
 Suicide maniaque., Il est dû soit à des hallucinations, soit à des conceptions délirantes.
 Ce qui distingue cette affection, c'est son extrême mobilité.
 C'est un perpétuel tourbillon.
 À peine un état de conscience est-il né qu'il est remplacé par un autre.
 S'il se reproduit plus tard, ce sera pour un autre motif.
 L'incident le plus insignifiant peut amener de ces brusques transformations.
-Aussitôt, notre homme s'en retourne paisiblement chez lui, ne songeant plus à se tuer.
+Aussitôt, notre homme s'en retourne II.
 Les plaisirs n'ont pour lui aucun attrait ; il voit tout en noir.
 La vie lui semble ennuyeuse ou douloureuse.
 Elles sont fixes, au contraire, comme l'état général dont elles dérivent.
@@ -80,8 +73,6 @@ Rien ne ressemble moins à cet esprit de suite que la perpétuelle instabilité 
 On dirait que le sujet a passé son envie.
 Il tient aux conceptions délirantes du sujet.
 On ne saurait donc, sans abuser des mots, voir un fou dans tout suicidé.
-Et il cite l'exemple de Décius, de d'Assas, etc.
-Falret, de même, refuse de considérer Curtius, Codrus, Aristodème comme des suicidés.
 Voilà donc au moins un groupe de suicides d'où la folie est absente.
 On passe des unes aux autres par une dégradation insensible.
 Ainsi, il y a des suicides, et en grand nombre, qui ne sont pas vésaniques.
@@ -94,17 +85,18 @@ Elle est toujours en voie de devenir.
 Or, c'est ce qui manque au névropathe.
 Malheureusement, celle-ci n'est pas atteinte par la statistique.
 Mais un biais va nous fournir les moyens de tourner la difficulté.
-Mayr de son côté a trouvé des chiffres analogues.
-Tableau quatre Part de chaque sexe dans le chiffre total des suicides.
+Part de chaque sexe dans le chiffre total des suicides.
 / +, , , , , , , , , , , , , , , -+, , , , , , , , -+, , , , , , , , , + +, , , , , , , , , , , , , , , -+, , , , , , , , -+, , , , , , , , , + |                               |  des suicides.
  |    combien d'    | |                               |                 |                  | |                               | Hommes.| Femmes.| Hommes.| Femmes.
 | +, , , , , , , , , , , , , , , -+, , , , +, , , , +, , , , +, , , , -+ |Autriche (mille huit cent soixante-treize-soixante-dix-sept).
 Tout au moins devraient-elles se tuer autant.
 Tableau quatre, ci-dessus).
-Tableau cinq Tendance à la folie dans les différentes confessions religieuses.
+Tendance à la folie dans les différentes confessions religieuses.
 / +, , , , , , , , , , , , , , -+, , , , , , , , , , , , , , , , , , , + |                             |            de chaque culte           | |                             +, , , , , , , +, , , , , , , +, , , , + |                             | Protestants.
 | +, , , , , , , , , , , , , , -+, , , , , , , +, , , , , , , +, , , , + | Silésie (mille huit cent cinquante-huit).
 Or, tout au contraire, le penchant au suicide y est très faible.
+Nous exception, les premiers se tuent beaucoup moins que les seconds.
+suicide croît régulièrement depuis l'enfance jusqu'à la vieillesse la plus avancée.
 Inversement, c'est pendant la maturité que la folie éclate avec le plus de fréquence.
 Tableau six Rapports du suicide et de la folie dans les différents pays d'Europe.
       |     deux cent deux (mille huit cent soixante et onze)     |   trente-cinq             |            | +, , , , , , , -+, , , , , , , , , , +, , , , , , , , , +, , , , , , + | Norwège.
@@ -112,18 +104,15 @@ Tableau six Rapports du suicide et de la folie dans les différents pays d'Europ
      |     cent quatre-vingts (mille huit cent soixante et onze)     |   quatorze             |            | +, , , , , , , -+, , , , , , , , , , +, , , , , , , , , +      soixante-trois    | | Suède.
     |     cent trente-quatre (mille huit cent soixante-huit)     |   soixante-six (mille huit cent soixante-six-soixante-dix)   |            | +, , , , , , , -+, , , , , , , , , , +, , , , , , , , , +, , , , , , + | Bavière.
 Cependant les deux maxima peuvent être complètement séparés.
-Dans d'autres localités c'est l'inverse qui se produit.
-Morselli, il est vrai, est arrivé à des résultats un peu différents.
-Voici, en effet, ce que l'on trouve.
 Aurait-il quelque influence sur la marche du suicide ? A priori, l'hypothèse paraît peu vraisemblable.
 Mais rien ne saurait prévaloir contre les faits.
-La comparaison des deux cartes confirme celle des moyennes.
-[Illustration : Planche un.
+Si l'on compare la carte française des suicides avec celle des presque aucun rapport.
+La comparaison des deux cartes confirme celle des Planche un.
 SUICIDES ET ALCOOLISME.
+Suicides (mille huit cent soixante-dix-huit-mille huit cent quatre-vingt-sept) Planche un.
 SUICIDES ET ALCOOLISME.
 La rencontre est accidentelle.
 La comparaison des différents pays d'Allemagne confirme cette conclusion.
-Alcoolisme et suicide en Allemagne.
 / +, , , , , +, , , , , , , +, , , , , , , -+, , , , , , , , , , , , , + |          |Consommation  | Moyenne des   |          Pays            | |          |de l'alcool   | suicides dans |                          | |          |  (mille huit cent quatre-vingt-quatre-quatre-vingt-six).
  | le groupe.
    |                          | +, , , , , +, , , , , , , +, , , , , , , -+, , , , , , , , , , , , , + |          |treize lit.
@@ -165,7 +154,6 @@ Mais Morselli est allé plus loin.
    |pour mille|Seine).
 |quatre-vingt-treize (sans| |              |          |        |             |          |la      | |              |          |        |             |          |Seine).
 Elle peut très bien n'être due qu'à la simple rencontre de facteurs indépendants.
-deux° Nous verrons plus loin que le suicide était fréquent chez les anciens Celtes.
 Or il n'en est rien.
 C'est en Norwège que se trouvent les plus hautes tailles de l'Europe (un m.
 Pourtant, dans la presqu'île Scandinave, le taux des suicides n'est pas élevé.
@@ -182,10 +170,8 @@ Tout fou n'est pas porté à se tuer.
 Mais on peut en rendre compte sans l'attribuera l'hérédité.
 La puissance contagieuse de l'exemple suffit à le produire.
 Nous verrons, en effet, dans un prochain chapitre que le suicide est éminemment contagieux.
-On a voulu voir dans ces similitudes une preuve de plus en faveur de l'hérédité.
 On dirait qu'ils sont la copie les uns des autres.
 Le crochet enlevé, l'épidémie prit fin.
-Moreau cite le fait suivant.
 Dès lors, (elle) se croit tout à fait vouée à une mort violente.
 Or, l'homme qu'elle croyait être son père ne l'était réellement pas.
 Mais il y a plus.
@@ -194,12 +180,9 @@ Mais si la propriété transmise est possible à tout âge, elle devrait se mani
 Mais, en fait, c'est le contraire qui se passe.
 Le suicide est extrêmement rare chez les enfants.
 Encore n'est-il pas prouvé que ces faits extraordinaires doivent être attribués à l'hérédité.
-Ils ne sont nulle part aussi nombreux que dans les grandes villes.
-Il y a plus.
 Suicides aux différents âges (pour un million de sujets de chaque âge).
 La Suède est la seule société où le maximum tombe entre quarante et cinquante ans.
 Nous voici donc ramenés à la conclusion du chapitre précédent.
-Le suicide et les facteurs cosmiques.
 Cette zone coïncide assez bien avec la région la plus tempérée de l'Europe.
 Mais on n'a aucune raison d'imputer ces faits à la proximité du climat tempéré.
 Le climat des différentes régions est cependant resté le même.
@@ -210,7 +193,6 @@ Tableau dix Distribution régionale du suicide en Italie.
     |   exprimé en fonction     | |              |                         |                           | |              |                         |de celui du Nord représenté| |              |                         |                           | |              |                         |       par cent.
 L'influence de la température saisonnière paraît mieux établie.
 Les faits peuvent être diversement interprétés, mais ils sont constants.
-La statistique l'a aujourd'hui définitivement réfutée.
 L'homme quitte de préférence la vie au moment où elle est le plus facile.
 Il n'est pas un pays qui fasse exception à cette loi.
 La proportion, à quelques unités près, est la même partout.
@@ -227,14 +209,12 @@ En premier lieu, elle implique une conception très contestable du suicide.
 Or, au contraire, il résulte très souvent d'une extrême dépression.
 Les variations qu'elles présentent selon les saisons doivent donc avoir une autre cause.
 C'est en rentrant à bord que se déclarent les symptômes du terrible horrors.
-Mais elle n'est pas spéciale à la chaleur ; le froid violent agit de même.
 La question reste donc entière.
 C'est à l'analyse des données statistiques qu'il faut en demander la solution.
 Or il n'en est rien.
 Le tableau douze (cinq.
 |suicides |   Temp.
    | suicides| Temp.
-On peut faire la même remarque pour presque tous les autres mois.
 Le cas de décembre est particulièrement significatif.
 Les variations thermométriques et celles du suicide sont donc sans aucun rapport.
 Les pays les plus chauds devraient être les plus éprouvés.
@@ -284,7 +264,6 @@ Les habitants sont plongés dans un véritable sommeil.
 En août, tout commence à s'apaiser, les suicides diminuent.
 Les mêmes causes agissent, d'ailleurs, quoiqu'à un moindre degré, sur l'ensemble du territoire.
 La vie urbaine est, elle aussi, plus active pendant la belle saison.
-Une dernière expérience va confirmer cette interprétation des faits.
 Les occupations des citadins peuvent se poursuivre à peu près également toute l'année.
 Or les faits sont rigoureusement conformes à notre déduction.
 Le tableau seize (cinq.
@@ -307,13 +286,12 @@ On dira peut-être que cette création se réduit à accroître l'intensité de 
 Mais d'abord, un changement quantitatif ne laisse pas d'être une nouveauté.
 Mais, en réalité, il n'y a là ni modèles ni copies.
 Elle diffère tout au moins de la précédente en ce qu'elle implique une reproduction.
-C'est nous qui en sommes les auteurs, alors même que nous ne l'avons pas inventée.
 Elle n'en devient le tout que dans le troisième cas.
 Là, elle tient toute la place : l'acte nouveau n'est que l'écho de l'acte initial.
 Or, il n'a cette propriété que dans les cas de reproduction automatique.
+Là, il tout ce qui s'y passe est un produit de la contagion imitative.
 Les termes du problème étant ainsi définis, examinons les faits.
 Il n'est pas douteux que l'idée du suicide ne se communique contagieusement.
-Quand Lord Castlereagh se jeta dans le Vésuve, plusieurs de ses compagnons suivirent son exemple.
 L'arbre de Timon le Misanthrope est resté historique.
 C'est le cas notamment de ce qu'on a parfois appelé les suicides obsidionaux.
 Il y a donc impropriété à parler d'imitation.
@@ -325,24 +303,20 @@ Mais il faut l'interroger avec méthode.
 Il est clair qu'il ne peut être imité s'il n'est en vue.
 Ces règles posées, faisons-en l'application.
 Enfin, l'action des grandes villes est ainsi trop noyée pour pouvoir être facilement aperçue.
-La lecture nous en a donné les résultats les plus inattendus.
-Voici les chiffres qu'il nous donne : / +, , , , , , , , -+, , , , , , , , , , , , -+, , , , , , , , , , , , + |                 |     Période mille huit cent cinquante et un-soixante-trois.
  |     Période mille huit cent soixante-cinq-soixante-six.
 | +, , , , , , , , -+, , , , , , , , , , , , -+, , , , , , , , , , , , + |Arrond.
 Or les arrondissements les plus éprouvés sont ceux de Toulon et de Forcalquier.
 Personne ne dira pourtant que Marseille soit à leur remorque.
 Malheureusement, une carte communale des suicides est impossible à construire pour toute l'étendue du pays.
-Si nous sortons de France, nous pourrons faire des constatations identiques.
 Il s'en faut pourtant que l'Allemagne ait les yeux fixés sur ces deux petits États.
 Ce n'est ni Dresde ni Altenbourg qui donnent le ton à Hambourg et à Berlin.
 Une telle configuration n'a donc rien qui décèle l'influence de l'imitation.
 Car ce dernier garde généralement la même constitution sur d'assez larges étendues de territoire.
 Jamais celui-ci n'étend son action au delà de ses limites naturelles.
 C'est qu'elles sont toutes trois catholiques.
+Or, à voir comme ces deux pays s'opposent l'un à l'autre des sociétés différentes.
 La moyenne est aussi basse d'un côté qu'élevée de l'autre.
-[Illustration : Planche trois.
-(d'après Morselli).
-] Une autre expérience pourrait être tentée qui confirmerait, pensons-nous, les preuves qui précèdent.
+Une autre expérience pourrait être tentée qui confirmerait, pensons-nous, les preuves qui précèdent.
 Malheureusement, cette place est assez difficile à déterminer.
 Il y a ainsi moins d'exemples qui sollicitent l'imitation.
 Alors les exemples, s'accumulant, se renforcent mutuellement.
@@ -366,8 +340,7 @@ Mais il est possible d'obvier à cet inconvénient, au moins dans une certaine m
 Or, de tous les phénomènes, les volitions humaines sont les plus complexes.
 On ne saurait donner comme base à une explication des suicides des informations aussi suspectes.
 C'est ce que montre le tableau dix-sept (Voir ci-dessous).
-Tableau dix-sept France.
-Part de chaque catégorie de motifs sur cent suicides annuels de chaque sexe.
+Tableau dix-sept Part de chaque catégorie de motifs sur cent suicides annuels de chaque sexe.
  |mille huit cent cinquante-quatre-soixante-dix-huit.| mille huit cent quatre-vingts.
  | +, , , , , , , , , , , , , , , , +, , , , , , , , -+, , , , , , , , -+ |Douleurs physiques.
                       |   quatorze virgule quatre cinq    |   treize virgule un quatre   | +, , , , , , , , , , , , , , , , , , , , , -+, , , , , , +, , , , , -+ |Amour contrarié et jalousie.
@@ -380,7 +353,6 @@ Le suicide égoïste.
 Observons d'abord la manière dont les différentes confessions religieuses agissent sur le suicide.
 Mais il n'en est pas de même de la plupart des sociétés catholiques et protestantes.
 Néanmoins, cette première comparaison est encore trop sommaire.
-Provinces bavaroises (mille huit cent soixante-sept-soixante-quinze).
  |           |Franconie.|           |Palatinat.|           | +, , , , , +, , , , , -+, , , , , +, , , , , -+, , , , , +, , , , , -+ |Franconie |   deux cent sept     |Souabe.
   |   cent dix-huit     |Haute-    |   cent quatorze     | |centrale.
  |           | +, , , , , +, , , , , -+, , , , , +, , , , , -+, , , , , +, , , , , -+ |Haute     |   deux cent quatre     |          |           |Basse-    |    quarante-neuf     | |Franconie.|           |          |           |Bavière.
@@ -424,6 +396,7 @@ Suicides, dans les différents pays, pour un million de sujets de chaque confess
  |   cent trente-cinq virgule quatre   |   quarante-neuf virgule un    |cent cinq virgule neuf|    Morselli.
    | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |  , -   (mille huit cent quatre-vingt-quatre-quatre-vingt-onze).
     | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ |   , ,     (mille huit cent soixante-treize-soixante-seize)|   cent quatre-vingt-dix     |  cent vingt      | soixante  |   Nous-même.
+      | +, , , , , , , , , , +, , , , , -+, , , , , -+, , -+, , , , , , , , -+ / beaucoup de suicides que les fidèles des autres cultes.
 Encore est-il très rare qu'ils dépassent de beaucoup le taux des catholiques.
 Aussi se tuent-ils trois fois moins que les protestants.
 Il semblerait donc que, quand le protestantisme devient minorité, sa tendance au suicide diminue.
@@ -450,9 +423,6 @@ Ainsi le cas de l'Angleterre, loin d'infirmer notre théorie, en est une vérifi
 Mais voici une preuve confirmative d'une plus grande généralité.
 Au fond, ces deux penchants n'en font qu'un et ils résultent de la même cause.
 On en peut dire autant de l'ensemble des nations catholiques comparées aux nations protestantes.
-Même coïncidence en Prusse pour le duché de Posen et la province de Prusse.
-Le rapport est le même pour les femmes des deux cultes.
-On objectera peut-être que l'instruction primaire ne peut servir à mesurer l'état de l'instruction générale.
 L'enseignement populaire et général est un indice plus sûr.
 Notre première proposition ainsi démontrée, reste à prouver la seconde.
 Elle s'observe également à l'intérieur de chaque confession religieuse.
@@ -483,12 +453,9 @@ tableau Provinces italiennes comparées sous le rapport du suicide et de l'instr
     |            quatre virgule six sept              |            huit virgule un        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Basilicate.
  |            quatre virgule trois cinq              |           quinze        | +, , , , , , -+, , , , , , , , , , , , , , , +, , , , , , , , , , , -+ |Moyennes.
 On peut faire les mêmes observations en France.
-Si l'on compare les pays protestants entre eux, on retrouve le même parallélisme.
-Le fait ne se rencontre dans aucun autre pays.
 D'autres faits peuvent encore être rapprochés des précédents et servir à les confirmer.
 Il en est de même en Bavière.
 Or elle est aussi beaucoup moins instruite.
-En Angleterre, il est bien moindre que dans les autres pays d'Europe.
 La proportion serait, dans certains endroits, de trois cent cinquante pourcent.
 Il en est de même dans l'enseignement supérieur.
 Voilà d'où vient la complexité de sa physionomie.
@@ -521,21 +488,21 @@ Les suicides des époux seraient à ceux des célibataires comme cent est à soi
 La vie de famille a ainsi pour résultat de renverser le rapport.
 Les rapports sont sensiblement les mêmes en Italie.
 On pourrait faire des constatations analogues dans les différents pays.
+Partout, le taux des alors que, en vertu de l'âge, il devrait être plus élevé.
 Mais il en va tout autrement.
 Elle élève beaucoup plus le premier taux que le second.
 Or, c'est cet écart dont l'économie constitue presque toute l'immunité dont bénéficient les gens mariés.
 Celle-ci apparaît donc moindre qu'elle n'est en réalité.
 Cette méthode a même donné lieu à de plus graves erreurs.
-Malheureusement, les publications officielles ne nous fournissent pas les éléments nécessaires pour cette comparaison.
-Elles nous font connaître, en effet, l'âge des suicidés indépendamment de leur état civil.
 Nous avons classé ainsi environ vingt-cinq.000 suicides.
 Il n'y a donc pas lieu d'établir les moyennes d'après un plus grand nombre d'années.
 Les tableaux vingt et vingt et un (cinq.
 cent quatre-vingt-deux et cent quatre-vingt-trois) contiennent ces différents résultats.
+Même manifeste la même aggravation, du moins pour le sexe masculin.
 France (mille huit cent quatre-vingt-neuf-mille huit cent quatre-vingt-onze).
 |     cent treize     | cinq cents  |  "  |    zéro virgule deux deux    |   "   |     "      | +, , , -+, , , , , , -+, , , +, , -+, , , , , , +, , , -+, , , , , , + |vingt-vingt-cinq.
 Il est supérieur à celui qu'avait calculé Bertillon.
-Ce coefficient évolue suivant l'âge.
+Le chiffre de un virgule six, indiqué Ce coefficient évolue suivant l'âge.
 trois° Le coefficient de préservation des mariés par rapport aux célibataires varie avec les sexes.
 Nous rencontrerons, chemin faisant, des faits qui confirmeront cette loi.
 Les faits étant ainsi établis, il nous faut chercher à les expliquer.
@@ -546,7 +513,6 @@ Il aurait moins précipité son jugement s'il n'avait pas aussi sommairement obs
 Or, aujourd'hui, la neurasthénie passe plutôt pour une marque de distinction que pour une tare.
 Dans nos sociétés raffinées, éprises des choses de l'intelligence, les nerveux constituent presque une noblesse.
 Seuls, les fous caractérisés sont exposés à se voir refuser l'accès du mariage.
-Cette élimination restreinte ne suffit pas à expliquer l'importante immunité des gens mariés.
 Or, en fait, le coefficient de préservation évolue selon une tout autre loi.
 Au point de départ, il est très souvent remplacé par un coefficient d'aggravation.
 En second lieu, le maximum est réalisé presque d'emblée.
@@ -565,7 +531,6 @@ Les premiers, en effet, donnent neuf cent trente-sept suicides par million.
 Le taux des célibataires du même âge (cinq.
 Ce nombre est à neuf cent trente-sept, comme cent soixante est à cent.
 Et encore, en le calculant ainsi, l'avons-nous plutôt atténué qu'exagéré.
-Il est clair que, de cette comparaison, leur immunité ne pourrait ressortir que renforcée.
 Mais cette perte n'est imputable que pour une faible part à la dissolution du mariage.
 Le premier de ces nombres n'est inférieur au second que de vingt pourcent.
 Un rouage essentiel fait défaut et tout le mécanisme en est déconcerté.
@@ -575,7 +540,6 @@ Encore celle-ci n'est-elle qu'atténuée.
 Un fait paraît même, au premier abord, devoir imposer cette hypothèse.
 Or il n'en est rien.
 Le premier de ces nombres est au second comme cent est à soixante.
-On a même cru que cette opinion était démontrée par les faits.
 | sur cent suicides de veufs.
 | +, , , , -+, , , , -+, , , , , , , , , -+, , , , -+, , , , , , , , , + | ANNÉES.
      | +, , , , -+, , , , -+, , , , , , , , , -+, , , , -+, , , , , , , , , + | mille huit cent soixante et onze.
@@ -606,11 +570,9 @@ tableau vingt-deux).
           |                             | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |quinze-vingt.
  |     deux cent vingt-quatre     |       |       |               |             | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |vingt-vingt-cinq.
  |     cent quatre-vingt-seize     |   soixante-quatre  |       |     trois virgule zéro six      |             | +, , , , +, , , , , , -+, , , -+, , , -+, , , , , , , -+, , , , , , -+ |vingt-cinq-trente.
-Or on retrouve exactement la même inversion entre veufs et veuves.
 Ainsi, quel que soit le sexe favorisé, le veuvage suit régulièrement le mariage.
 Il arrive très souvent qu'il vaut mieux que le célibat.
 Elle n'en est que le prolongement.
-Le tableau suivant résume les faits qui viennent d'être établis.
 Influence de la famille sur le suicide dans chaque sexe.
    |     trois cent trente-six     |       deux virgule neuf       | +, , , , , , , , , , , -+, , , , , , -+, , , , , , , , -+ |Époux sans enfants.
      |     cent cinquante     |                 | +, , , , , , , , , , , -+, , , , , , -+, , , , , , , , -+ |Épouses avec enfants.
@@ -634,7 +596,6 @@ Les deux cartes (cinq.
 ci-dessous) ont, d'ailleurs, la même configuration générale.
 Ce rapport se retrouve même dans certains détails.
 Or la même particularité se retrouve sur l'autre carte.
-C'est donc que chaque famille compte un plus petit nombre de membres.
 Voilà une conséquence du malthusianisme que ne prévoyait pas son inventeur.
 Ce résultat concorde avec celui auquel nous étions précédemment arrivés.
 Ils ne peuvent être puissants si la famille est désintégrée.
@@ -642,7 +603,6 @@ On signale le même fait dans l'empire ottoman.
 On a parfois écrit que les grandes commotions politiques multipliaient les suicides.
 Mais Morselli a bien montré que les faits contredisent cette opinion.
 Les suicides restent stationnaires.
-De simples crises électorales, pour peu qu'elles aient d'intensité, ont parfois le même résultat.
 / +, , , , , +, , , -+, , , -+, , , -+, , , -+, , , -+, , , -+ |          | mille huit cent soixante-seize.
 | mille huit cent soixante-dix-sept.
 | mille huit cent soixante-dix-huit.
@@ -666,7 +626,6 @@ Celles-là seulement agissent qui excitent les passions.
 Seulement, elle n'a pas pris aux événements la même part morale.
 Il a participé à la guerre par la volonté de son roi, mais sans entrain.
 L'enthousiasme ne vint qu'après et il fut modéré.
-De ce fait, on peut rapprocher le suivant qui a la même signification.
 La vraie raison de cette différence est donc ailleurs.
 Ces faits ne comportent donc qu'une explication.
 De leur côté, une raison leur manque pour supporter avec patience les misères de l'existence.
@@ -692,36 +651,24 @@ L'immunité de l'animal n'a pas d'autres causes.
 Ils trouvent aisément au dehors un objectif auquel ils puissent s'attacher.
 L'homme, au contraire, y est maintenant à l'étroit.
 Mais alors, il lui en faut d'autres.
-Le suicide altruiste.
 Dans l'ordre de la vie, rien n'est bon sans mesure.
 Il en est ainsi des phénomènes sociaux.
-On a dit quelquefois que le suicide était inconnu des sociétés inférieures.
 En ces termes, l'assertion est inexacte.
 Mais il en est un autre qui s'y trouve à l'état endémique.
 On retrouve la même coutume chez les Thraces, les Hérules, etc.
 Le même usage s'est longtemps maintenu dans l'Inde.
-Le feu serait souillé s'il ne recevait l'homme respirant encore».
-Mêmes pratiques chez les Troglodytes et chez les Sères, renommés pourtant pour leur moralité.
 C'était le cas en Gaule.
-Jamais un dévoué ne devait survivre à son chef.
-Des observateurs ont rencontré le même usage à Hawaï.
-Le suicide est donc certainement très fréquent chez les peuples primitifs.
 Mais il y présente des caractères très particuliers.
 deux° Suicides de femmes à la mort de leur mari.
 trois° Suicides de clients ou de serviteurs à la mort de leurs chefs.
 La société pèse donc sur lui pour l'amener à se détruire.
 Aussi, est-ce en vue de fins sociales qu'elle impose ce sacrifice.
 Il faut que la destinée de l'un soit celle des autres.
-Il en est de même de la femme par rapport au mari.
-Cette description suffit à déterminer de quoi dépendent ces suicides.
 Mais cette faible individuation ne peut elle-même avoir qu'une seule cause.
 C'est pourquoi nous appellerons suicide altruiste celui qui résulte d'un altruisme intense.
 Nous donnerons donc le nom de suicide altruiste obligatoire au type ainsi constitué.
 Autrement dit, le suicide altruiste est une espèce qui comprend plusieurs variétés.
 Nous venons d'en déterminer une ; voyons les autres.
-Les voyageurs modernes ont observé des pratiques semblables dans une multitude de sociétés inférieures.
-En Polynésie, une légère offense suffit très souvent à déterminer un homme au suicide.
-Chez les Dacotahs, chez les Creeks, le moindre désappointement entraîne souvent aux résolutions désespérées.
 Dans tous ces cas, l'homme se tue sans être expressément tenu de se tuer.
 Cependant, ces suicides ne sont pas d'une autre nature que le suicide obligatoire.
 Si l'opinion ne les impose pas formellement, elle ne laisse pas de leur être favorable.
@@ -731,9 +678,7 @@ Déjà sous l'influence du brahmanisme, l'Hindou se tuait facilement.
 Les lois de Manou ne recommandent, il est vrai, le suicide que sous certaines réserves.
 Mais, ces conditions remplies, il n'a que faire de la vie.
 C'est le cas du jaïnisme.
-Le fidèle se laissait mourir de faim.
 Là, ils se laissent tranquillement mourir de faim.
-Il n'est pas de suicides dont le caractère altruiste soit plus marqué.
 C'est donc qu'il se considère comme n'ayant pas d'existence propre.
 L'impersonnalité est ici portée à son maximum ; l'altruisme est à l'état aigu.
 Mais, à cet égard, tous les suicides se ressemblent.
@@ -741,12 +686,9 @@ Depuis longtemps en effet, on a remarqué qu'elles coexistent généralement ave
 Jamais on ne l'y rencontre à l'état de pratique rituelle.
 C'est donc qu'entre elle et le panthéisme il y a vraisemblablement un rapport.
 On peut notamment classer sous cette rubrique la mort d'un certain nombre de martyrs chrétiens.
-Mais ce sont des cas isolés qui ne se produisent qu'exceptionnellement.
 La différence en plus varie entre vingt-cinq et neuf cents pourcent (cinq.
 tableau vingt-trois).
 Comparaison des suicides militaires et des suicides civils dans les principaux pays d'Europe.
-Encore les suicides d'officiers ne sont-ils pas compris dans ce chiffre.
-Triés avec soin, ils n'ont pas de tares organiques qui soient graves.
 Mais quoiqu'il en soit de cette hypothèse, il y a un moyen d'isoler ce facteur.
 Si l'on compte à part les suicides de sous-officiers, ce coefficient est encore plus élevé.
 La cause que l'on a le plus fréquemment invoquée est le dégoût du service.
@@ -770,7 +712,6 @@ Mais pour cela, une abnégation intellectuelle est nécessaire qui n'est guère 
           |                     | +, , , , , -+, , , , , , , , , , , , , , , , , +, , , , , , , , , , -+ |France.
    |               un virgule trois                |    cent cinquante (mille huit cent soixante et onze-soixante-quinze)    | +, , , , , -+, , , , , , , , , , , , , , , , , +, , , , , , , , , , -+ |Prusse.
    |           entre trois et quatre           |    trente-sept (mille huit cent soixante-quatorze-soixante-dix-sept)     | +, , , , , -+, , , , , , , , , , , , , , , , , +, , , , , , , , , , -+ |Autriche.
-Elle s'observe d'une manière encore plus frappante à l'intérieur de l'empire austro-hongrois.
  | +, , , , , , , , , +, , , , , , , , , , , , , , -+, , , , , , , , , -+ |Vienne (Autriche  |           un virgule quatre deux              |       six cent soixante         | |inférieure et     |                             |                   | |supérieure.
       |                             |                   | |Salzbourg).
       |                             |                   | +, , , , , , , , , +, , , , , , , -+, , , , , , -+, , , , +, , , , , + |Bruno (Moravie    |     deux virgule quatre un      |             |  cinq cent quatre-vingts   |          | |et Silésie).
@@ -780,13 +721,9 @@ On peut faire en France des remarques analogues.
 Seulement, il n'a cette influence prophylactique que s'il reste modéré.
 S'il dépasse un certain degré d'intensité, il devient lui-même une source originale de suicides.
 / +, , , , , , , -+, , , , , -+, , , , , , , +, , , , , , , , , , , , -+ |               |réel ou    |pour un        |    D'AGGRAVATION.
-     |           |              |      |masculine, de trente-cinq  | +, , , , , , , -+, , , , , -+, , , , , , , +, , , |ans, tout état    | |Gendarmerie.
-  |    ,      |cinq cent soixante-dix (mille huit cent soixante-treize).
-  | deux virgule quatre cinq |civil réuni.
      |           |              |      |même âge, des     | |               |           |              |      |années mille huit cent quatre-vingt-neuf-quatre-vingt-onze.
 Le suicide dans l'armée varie donc comme cet état moral.
 Mais ce mouvement de régression est bien, antérieur à la nouvelle loi sur le recrutement.
-On le retrouve d'ailleurs partout.
 Or, si notre explication est fondée, c'est bien ainsi que les choses devaient se passer.
 Elles ont, par conséquent, perdu du terrain.
 Tout prouve donc que le suicide militaire n'est qu'une forme du suicide altruiste.
@@ -802,8 +739,6 @@ Les conséquences s'en firent sentir non seulement à Paris, mais dans toute la 
  |      mille huit cent quatre-vingt-deux.
        |      mille huit cent quatre-vingt-trois.
 Mais elle est contredite par les faits.
-On observe en Bavière des faits analogues.
-Naturellement, la quantité des produits augmenta pendant le même temps selon la même proportion.
 En Prusse, le même phénomène s'est produite deux reprises.
 En mille huit cent soixante-six, ce royaume reçoit un premier accroissement.
 Ce gain de gloire et de puissance est aussitôt accompagné d'une brusque poussée de suicides.
@@ -812,7 +747,6 @@ Jamais le développement du suicide n'a été aussi rapide.
 C'est ce qui paraît surtout avoir eu lieu pour l'Exposition de mille huit cent soixante-dix-huit.
 En Irlande, où le paysan mène une vie si pénible, on se tue très peu.
 On peut même dire que la misère protège.
-[Illustration : Planche cinq.
 Planche cinq, ci-dessus).
 Par conséquent, en tant qu'ils dépendent de l'individu seul, ils sont illimités.
 Une soif inextinguible est un supplice perpétuellement renouvelé.
@@ -852,7 +786,6 @@ Il semble qu'il y ait une sorte de sacrilège à les endiguer.
 C'est que l'état de crise et d'anomie y est constant et, pour ainsi dire, normal.
 Dès lors, que le moindre revers survienne et l'on est sans forces pour le supporter.
 Tableau vingt-quatre Suicides pour un million de sujets de chaque profession.
-/ +, , , , , , , -+, , , , +, , , , , +, , , , -+, , , , , -+, , , , , + |               |        |          |         |           |libérales | |               |        |          |         |           |.
     |        |          |         |           |          | +, , , , , , , -+, , , , +, , , , , +, , , , -+, , , , , -+, , , , , + |Saxe (mille huit cent soixante-dix-huit).
 Tableau vingt-quatre, ci-dessus).
 C'est elle qui rappelle le mieux ce qu'était autrefois la constitution générale de l'ordre économique.
@@ -907,21 +840,18 @@ Influence du divorce sur l'immunité des époux.
      |de préservation| |                               |                    | des époux par | |           PAYS                |                    | rapport aux   | |                               |                    | garçons.
      | |                               +, , , , , , , , , , +               | |                               |  Garçons  | Époux.
  +, , , , , -+, , , , +               | |fréquent.
-   |                 | Sur cent habitants  |     zéro virgule six trois      | |        |                 | mâles de tout état |               | |             |                 | civil,             |               | |             |                 +, , , , , -+, , , , +               | |             |                 |  Garçons.
-Nous n'avons pu nous procurer le chiffre des divorces dans le grand-duché d'Oldenbourg.
+   |                 | Sur cent habitants  |     zéro virgule six trois      | |             |                 | civil,             |               | |             |                 +, , , , , -+, , , , +               | |             |                 |  Garçons.
 Les divorces sont beaucoup plus fréquents dans la Seine que dans le reste du pays.
 En moyenne, il est de un virgule sept trois.
 Or, en fait, ce sont ces derniers qui sont le plus atteints.
 Reste à choisir entre ces deux dernières hypothèses.
 Or c'est exactement l'inverse qui a lieu.
 Tableau vingt-huit, ci-dessous).
-Influence du divorce sur l'immunité des épouses.
 Dans la Seine, le rapport est renversé.
 C'est cette comparaison qui fait l'objet du tableau vingt-neuf.
 De cette proposition sortent deux conséquences.
 Tout ce qui précède tend à prouver que c'est précisément le cas du divorce.
 Il n'y a rien là qui soit de nature à la préserver exceptionnellement.
-Cette hypothèse écartée, il n'en reste plus qu'une de possible.
 Car l'amour est, chez nous, un fait beaucoup plus mental qu'organique.
 Ce sont des raisons morales qui le suscitent autant que des sollicitations physiques.
 Aussi n'a-t-il plus la périodicité régulière et automatique qu'il présente chez l'animal.
@@ -931,14 +861,11 @@ Il règle toute cette vie passionnelle, et le mariage monogamique plus étroitem
 C'est cette détermination qui fait l'état d'équilibre moral dont bénéficie l'époux.
 Si ses jouissances sont définies, elles sont assurées, et cette certitude consolide son assiette mentale.
 Tout autre est la situation du célibataire.
-Du moment qu'on n'est arrêté par rien, on ne saurait s'arrêter soi-même.
 L'existence médiocre du célibataire vulgaire suffit pour cela.
 L'incertitude de l'avenir, jointe à sa propre indétermination, le condamne donc à une perpétuelle mobilité.
 Or, le divorce implique un affaiblissement de la réglementation matrimoniale.
 Il ne saurait donc, au même degré, produire ses effets utiles.
 Elle se résigne moins aisément à la condition qui lui est faite.
-Par conséquent, le nombre total des suicides s'élève.
-Mais cette conséquence du divorce est spéciale à l'homme ; elle n'atteint pas l'épouse.
 Or une telle discipline, là même où elle est utile, ne va pas sans inconvénients.
 En fixant pour jamais la condition conjugale, elle empêche d'en sortir quoiqu'il puisse arriver.
 En bornant l'horizon, elle ferme les issues et interdit toutes les espérances, même légitimes.
@@ -947,7 +874,6 @@ La règle est donc pour elle une gêne sans grands avantages.
 Par suite, tout ce qui l'assouplit et l'allège ne peut qu'améliorer la situation de l'épouse.
 Voilà pourquoi le divorce la protège, pourquoi aussi elle y recourt volontiers.
 L'anomie matrimoniale peut donc exister dans l'opinion sans être encore inscrite dans la loi.
-C'est, en effet, ce qui ressort du seul document que nous connaissions sur ce point.
 Ce dernier taux est même inférieur à celui des époux(trois cent dix-huit).
 Tableau vingt et un).
 La période sexuelle n'affecte donc pas la marche des suicides féminins.
@@ -955,7 +881,6 @@ Nous savons maintenant à quoi ce coefficient correspond.
 Nous venons d'en dire la raison.
 C'est donc qu'elle en a un moindre besoin.
 Or c'est ce que suppose la théorie qui vient d'être exposée.
-Formes individuelles des différents types de suicides.
 C'est cette marque collective qu'il s'agit de retrouver.
 Il est certain, d'ailleurs, que cette opération ne peut être faite qu'avec une exactitude approximative.
 Cependant, même sous ces réserves, cette recherche est loin d'être sans utilité.
@@ -977,7 +902,7 @@ Le patient choisit son heure et médite son plan longtemps à l'avance.
 Même les moyens lents ne lui répugnent pas.
 Une mélancolie calme et qui, parfois, n'est pas sans douceur, marque ses derniers moments.
 Il s'analyse jusqu'au bout.
-On aperçoit aisément comment ces particularités diverses se rattachent au suicide égoïste.
+Tel est le cas de ce fréquentée et s'y laisse mourir de faim.
 Il n'est guère douteux qu'elles n'en soient la conséquence et l'expression individuelle.
 Le sujet, au lieu de méditer tristement sur son état, en prend allégrement son parti.
 C'est le suicide épicurien.
@@ -988,7 +913,6 @@ Mais, sous ces nuances diverses, les traits essentiels du phénomène restent le
 Je suis aussi calme que si je prenais une goutte le matin.
 C'est assez extraordinaire, j'en conviens, mais c'est pourtant comme cela.
 Tout est vrai.
-Je vais mourir une seconde fois avec une conscience tranquille».
 L'égoïste qui se tue ne se laisse jamais aller à de pareilles violences.
 Elle l'oppresse, mais ne l'irrite pas par des froissements aigus.
 Il la trouve vide plutôt que douloureuse.
@@ -1040,7 +964,6 @@ Elle n'a pas une force suffisante pour pouvoir, à elle seule, déterminer un su
 Et encore cette évaluation est-elle infiniment exagérée.
 L'anormal a été ainsi employé à déterminer le normal.
 Mais si l'erreur est pratiquement peu importante, elle ne laisse pas d'exister.
-Ainsi, la théorie de l'homme moyen ne résout pas le problème.
 Reprenons-le donc et voyons bien comme il se pose.
 C'est donc qu'elle est collective.
 Il est même naturel qu'ils aient une constance supérieure à celle de la mortalité générale.
@@ -1051,7 +974,6 @@ Cependant, il faut s'entendre.
 Or ce monde n'est rien s'il n'est pas un système de réalités.
 L'association est, elle aussi, un facteur actif qui produit des effets spéciaux.
 Or, elle est par elle-même quelque chose de nouveau.
-La première assertion est une négation hardie de toute la psychologie contemporaine.
 Il s'en faut donc que la nature de la conscience soit désormais sans mystère.
 Quant à la seconde proposition, elle est purement arbitraire.
 Malheureusement, les faits ne montrent que trop combien la conscience est incompétente en la matière.
@@ -1060,7 +982,6 @@ Il est évident, au contraire, qu'elle est essentiellement faite de représentat
 Seulement, les représentations collectives sont d'une tout autre nature que celles de l'individu.
 Un exemple achèvera de faire comprendre notre pensée.
 Mais cette explication simpliste est sans rapport avec les faits.
-C'est la science qui lui a appris de combien il leur est inférieur.
 Même nous n'avons pas craint de comparer cette extériorité à celle des forces physiques.
 Car il ne faut pas perdre de vue ce qui a été précédemment établi.
 Si donc il était réellement impossible qu'elle leur fût extérieure, le problème serait insoluble.
@@ -1071,7 +992,6 @@ Car elles ont un mode d'action qui leur est propre.
 La majeure partie en reste diffuse.
 Hier, on était tout au cosmopolitisme, aujourd'hui, c'est le patriotisme qui l'emporte.
 Ce serait prendre le signe pour la chose signifiée.
-Mais enfin ce n'est qu'un signe.
 Elle est extérieure à chaque individu moyen pris à part.
 Voici, par exemple, qu'un grand danger public détermine une poussée du sentiment patriotique.
 On sait à quelles extrémités elles se laissent entraîner si rien ne leur résiste.
@@ -1094,12 +1014,7 @@ La névropathie fait seulement que ceux-ci succombent de préférence à ceux-l�
 Certains seulement sont appelés, si l'on peut parler ainsi.
 Mais une dernière question reste à résoudre.
 Il en est un facteur auxiliaire, mais important.
-Voilà pourquoi les suicidés ne remplissent leur destinée que par couches successives de générations.
-Rapports du suicide avec les autres phénomènes sociaux.
-Pour des raisons que nous avons exposées ailleurs, cette méthode ne saurait être la nôtre.
-Aussitôt que les sociétés chrétiennes furent constituées, le suicide y fut formellement proscrit.
 La législation civile s'inspira du droit canon, en ajoutant aux peines religieuses des peines matérielles.
-La folie n'était même pas toujours considérée comme une excuse.
 Les biens étaient confisqués.
 Il n'est pas, d'ailleurs, sans avoir conservé quelque chose de son ancien caractère criminologique.
 D'après la jurisprudence la plus générale, le complice du suicide est poursuivi comme homicide.
@@ -1113,14 +1028,10 @@ En Autriche, les anciennes prescriptions canoniques sont maintenues presque int�
 Le droit russe est plus sévère.
 La sépulture chrétienne lui est refusée.
 La simple tentative est punie d'une amende que l'autorité ecclésiastique est chargée de fixer.
-Les sociétés mahométanes ne prohibent pas moins énergiquement le suicide.
 Le suicide n'était regardé comme illégitime que s'il n'était pas autorisé par l’État.
-Avec des variantes de détail, il en était de même à Thèbes, à Chypre.
 Si l'existence t'est odieuse, meurs ; si tu es accablé par la fortune, bois la ciguë.
 Si tu es courbé sous la douleur, abandonne la vie.
-On trouve la même loi à Céos.
-Elle fut transportée à Marseille par les colons grecs qui fondèrent cette ville.
-Les statuts d'une confrérie religieuse de Lanuvium édictaient la même pénalité.
+En tout cas, Servius, dans son commentaire quiconque s'était pendu était privé de sépulture.
 Seulement, avec le temps, la liste des excuses légitimes s'allongea.
 Encore est-il possible qu'il ne soit pas absolument toléré dans tous les cas.
 C'est le symptôme d'un état morbide.
@@ -1131,7 +1042,6 @@ Car un créancier peut toujours remettre la dette dont il est bénéficiaire.
 Il s'est empreint de religiosité ; l'homme est devenu un dieu pour les hommes.
 C'est pourquoi tout attentat dirigé contre lui nous fait l'effet d'un sacrilège.
 Or le suicide est l'un de ces attentats.
-Au contraire, il est devenu un acte essentiellement religieux.
 Le droit de vivre lui paraît impliquer logiquement le droit de mourir.
 On le rencontre ailleurs.
 Or la société a ses besoins qui ne sont pas les nôtres.
@@ -1149,11 +1059,9 @@ C'est une erreur.
 Un sentiment collectif qui s'abandonnerait à ce point serait bientôt sans force.
 Mais il faut maintenir le principe, à savoir que l'homicide de soi-même doit être réprouvé.
 Reste à chercher par quels signes extérieurs cette réprobation doit se manifester.
-Mais les preuves pour la démontrer font totalement défaut.
 D'ailleurs, la configuration générale des deux courbes exclut toute idée de rapprochement.
 L'ascension est continue et progressive.
 Monsieur Lacassagne paraît, du reste, être resté isolé dans son opinion.
-Elle compte de nombreux défenseurs et mérite un sérieux examen.
 Cependant, ces remarques étaient restées isolées, quand l'école italienne de criminologie s'en empara.
 Ferri et Morselli, en particulier, en firent la base de toute une doctrine.
 D'après eux, l'antagonisme du suicide et de l'homicide serait une loi absolument générale.
@@ -1165,28 +1073,23 @@ Le meurtrier et le suicidé seraient tous deux des dégénérés et des impuissa
 En un mot, le meurtre de soi et le meurtre d'autrui sont deux actes violents.
 Le suicide serait donc un homicide transformé et atténué.
 C'est une soupape de sûreté qu'il est utile de laisser ouverte.
-D'après Oettingen, la moitié des meurtres domestiques lui serait imputable.
 La proportion est de cinquante et un pourcent en Allemagne, de cinquante-deux pourcent en Autriche.
 On sait, au contraire, combien est grande l'immunité de la femme contre le suicide.
 L'influence de l'âge sur l'un et l'autre phénomène ne révèle pas de moindres différences.
-Il est vrai que Morselli a exprimé le sentiment contraire.
-La vérité est qu'il n'y a ni inversion ni concordance.
+Il est qu'il n'y a ni inversion ni concordance.
 C'est ce que montre le tableau trente et un.
    | |               +, , , , +, , , , , , +, , , , , , , +, , , , , , , -+ |               |Meurtres|Assassinats |  Hommes.
 Elle monte jusqu'en juin et descend régulièrement jusqu'en décembre, comme celle des suicides.
 Tableau trente-deux).
 Pour les infanticides, c'est en mai ; pour les coups mortels, c'est en août et septembre.
 Tout autre est, nous l'avons vu, la distribution du suicide.
-/ +, , , , , +, , , , , -+, , , , , , , +, , , , , , , -+, , , , , , , + |          | MEURTRES.
+Tableau trente-deux Variations mensuelles des différentes formes de la criminalité / +, , , , , +, , , , , -+, , , , , , , +, , , , , , , -+, , , , , , , + |          | MEURTRES.
 | et blessures | |          |           |              |               | mortels.
 La tendance homicide devrait donc, sous l'influence de l'emprisonnement, se transformer en tendance au suicide.
 Ils paraissent même plutôt confirmer les observations précédentes.
-C'est ce qu'il nous suffisait d'établir.
-Mais la seconde proposition de l'école reste à discuter.
 Il est certain que, dans nombre de cas, la loi d'inversion ne se vérifie pas.
 Or, au même moment, les suicides augmentaient dans des proportions considérables.
 Le même phénomène s'était produit pendant les années mille huit cent quarante-cinquante.
-Même phénomène en Saxe.
 La distribution géographique des deux phénomènes donne lieu à des observations analogues.
 La régression est moins marquée pour les assassinats.
 Le recul n'est sensible que si l'on tient compte de l'accroissement de la population.
@@ -1194,12 +1097,10 @@ Cette différence dans l'évolution de l'assassinat n'a rien qui doive surprendr
 À ce dernier titre, il est placé sous la dépendance d'autres facteurs que l'homicide.
 Le même phénomène s'observe en Prusse.
 Le mouvement s'est continué ensuite, quoique avec un peu plus de lenteur.
-Là où l'homicide ne perd pas de terrain, il reste tout au moins stationnaire.
 Pendant le même temps, le suicide augmentait dans tous ces États.
 Elle constituait donc un terme de comparaison aussi impropre que possible.
 Voici, en effet, le résultat que donne ce travail.
-/* +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , + |           Nombre des affaires impoursuivies.
-               | +, , , , , -+, , , , +, , , , -+, , , , -+, , , , +, , , , -+, , , , + |           |mille huit cent trente-cinq-trente-huit.|mille huit cent trente-neuf-quarante.
+/* +, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , + +, , , , , -+, , , , +, , , , -+, , , , -+, , , , +, , , , -+, , , , + |           |mille huit cent trente-cinq-trente-huit.|mille huit cent trente-neuf-quarante.
 |mille huit cent quarante-six-cinquante.
 |mille huit cent soixante et un-soixante-cinq |mille huit cent soixante-seize-quatre-vingts.
 La diminution est de trente-septpourcent pour les meurtres et de vingt-quatrepourcent pour les assassinats.
@@ -1209,7 +1110,6 @@ De  quatre virgule un suicides à trente pour un million.
 deux cent soixante et onze virgule neuf homicides pour un million.
 Elles produisent le même effet sur les vols, les escroqueries les abus de confiance, etc.
 Mais il est un crime qui fait exception.
-Le même phénomène s'était déjà produit pendant les premières années du règne de Louis-Philippe.
 Les compétitions des partis politiques y furent d'une extrême violence.
 Pendant ce temps, le suicide évoluait en sens inverse.
 En mille huit cent trente-huit, l'augmentation est de trente pourcent.
@@ -1263,6 +1163,7 @@ On s'étonnera peut-être que la question puisse être posée.
 Nous sommes, en effet, habitués à regarder comme anormal tout ce qui est immoral.
 Elle n'a, pourtant, rien de subversif.
 Ce n'est pas que l'un soit toujours la cause de l'autre.
+Le lien qui est nécessaire.
 Il n'est pas de peuple dont la morale ne soit quotidiennement violée.
 Par suite, il est normal.
 On ne sortira pas de là.
@@ -1286,7 +1187,6 @@ La vie est souvent rude, souvent décevante ou vide.
 Il faut donc que la sensibilité collective reflète ce côté de l'existence.
 Elle n'est fondée que si elle ne dépasse pas certaines limites.
 On a dit qu'elle était la rançon de la civilisation.
-Mais un premier fait doit nous mettre en garde contre ce raisonnement.
 Et pourtant, jusqu'au XVIIIe siècle, le suicide ne fut que faiblement développé.
 La rapidité avec laquelle ils se sont accrus ne permet même pas d'autre hypothèse.
 Encore les transformations qui sont ainsi possibles sont-elles restreintes.
@@ -1294,14 +1194,12 @@ Les changements que suppose la statistique des suicides contemporains ne peuvent
 Mais alors, si la cause est anormale, il n'en peut être autrement de l'effet.
 À ces différentes raisons, une dernière peut être ajoutée.
 Or, on sait comme ils se sont multipliés de nos jours.
-Nous croyons volontiers que notre indulgence actuelle pour le suicide est, en effet, excessive.
 Le relâchement de notre système répressif sur ce point est, par lui-même, un phénomène anormal.
 L'opinion est donc facilement partagée dans les jugements qu'elle porte sur lui.
 Pour toutes ces raisons, on ne pourrait donc édicter que des peines morales.
 D'ailleurs, à elles seules, elles n'atteindraient pas le mal à sa source.
 Il ne dépend pas du législateur qu'un fait nous apparaisse ou non comme moralement haïssable.
 Jusque-là, il serait artificiel et, par conséquent, sans grande utilité.
-Mais c'est prêter à l'éducation un pouvoir qu'elle n'a pas.
 Elle n'est que l'image et le reflet de la société.
 Elle l'imite et la reproduit en raccourci ; elle ne la crée pas.
 On tourne dans un cercle.
@@ -1341,8 +1239,7 @@ Pour l'instant, nous n'avons à nous occuper que des rapports du divorce et du s
 Il en résulte qu'il est socialisé à un bien plus haut degré qu'elle.
 Mais il n'est pas du tout prouvé que cette opposition doive nécessairement se maintenir.
 Seulement ces différences seront, plus que dans le passé, utilisées socialement.
-Ils se socialiseraient également, mais de manières différentes.
-Et c'est bien dans ce sens que paraît se faire l'évolution.
+Ils se socialiseraient également, mais faire l'évolution.
 C'est donc à diminuer cette dernière qu'il faut employer nos efforts.
 Même les aptitudes les plus inférieures peuvent y trouver une place.
 Seulement, il ne faut pas se méprendre sur le sens du mot.
@@ -1352,7 +1249,6 @@ Nous avons dit en quoi, selon nous, doit consister cette réforme.
 Cette organisation ne paraît pas être restée très longtemps à l'état de pureté.
 À l'ancien groupement domestique se substitue alors le groupement territorial.
 Ils restent le segment élémentaire dont la société totale n'est que la reproduction agrandie.
-D'une ville à l'autre, d'un district à l'autre les différences vont en diminuant.
 Une seule force collective survécut à la tourmente : c'est l'État.
 Car c'est une remarque souvent faite qu'il est aussi envahissant qu'impuissant.
 Dans ces conditions, il est inévitable qu'ils sombrent dans l'égoïsme ou dans le dérèglement.
@@ -1491,14 +1387,10 @@ L'état présent du suicide est l'indice d'une misère morale.
 Ce qu'il faut entendre par une affection morale de la société.
 Comment la réforme proposée est réclamée par l'ensemble de notre évolution historique.
 Disparition de tous les groupes sociaux intermédiaires entre l'individu et l'État ; nécessité de les reconstituer.
-[un : Les règles de la Méthode sociologique, Paris, F.
-Alcan, mille huit cent quatre-vingt-quinze.] [deux : Et pourtant, nous montrerons (p.
 des anim., neuf, quarante-sept).
 Les éleveurs assurent que le cheval n'est aucunement réfractaire à l'inceste.
-Voir sur toute cette question, Westcott, Suicide, p.
-quatre-vingt-sept).] [sept : D'après Bertillon, article Mortalité du Dictionnaire Encyclopédique des sciences médicales, t.
 Nous n'admettons pas plus d'âme substantielle dans la société que dans l'individu.
-Nous reviendrons, d'ailleurs, sur ce point.] [neuf : cinq.
+Nous bibliographie spéciale des questions particulières qui y sont traitées.
 Voici les indications relatives à la bibliographie générale du suicide.
 Monatsch., mille huit cent soixante-dix-huit, p.
 di psychiatria, Turin, mille huit cent quatre-vingt-six.
@@ -1507,87 +1399,23 @@ cit., Leroy, op.
 Suicide, du Dictionnaire de médecine et de chirurgie, pratique, t.
 cent dix-sept., Strahan, Suicide and Insanity, Londres, mille huit cent vingt-quatre.
 in Annales médico-psych., mille huit cent soixante-douze ; Journal de la Soc.
-En réalité, elle est, en partie, un phénomène social.
-Nous reviendrons sur ce point.] [treize : Maladies mentales, t.
-six cent trente-neuf.] [quatorze : Ibid., t.
-six cent soixante-cinq.] [quinze : Du suicide, etc., p.
-cent trente-sept.] [seize : In Annales médico-psych., t.
-deux cent quatre-vingt-sept.] [dix-sept : Maladies mentales, t.
-cinq cent vingt-huit.] [dix-huit : cinq.
-Brierre de Boismont, p.
-cent quarante.] [dix-neuf : Maladies mentales, quatre cent trente-sept.] [vingt : cinq.
-quarante-trois.] [vingt-trois : Falret, Hypochondrie et suicide, p.
-deux cent quatre-vingt-dix-neuf-trois cent sept.] [vingt-quatre : Suicide et folie-suicide, p.
-trois cent quatre-vingt-dix-sept.] [vingt-cinq : Brierre, op.
-cinq cent soixante-quatorze.] [vingt-six : Ibid., p.
-trois cent quatorze.] [vingt-sept : Maladies mentales, t.
-cinq cent vingt-neuf.] [vingt-huit : Hypochondrie et suicide, p.
-trois.] [vingt-neuf : Koch, Zur Statistik der Geisteskrankheiten.
-Stuttgart, mille huit cent soixante-dix-huit, p.
-soixante-treize.] [trente : D'après Morselli.] [trente et un : D'après Koch, op.
-cent huit-cent dix-neuf.] [trente-deux : cinq.
-plus bas, liv.
-un.] [trente-trois : cinq.
-plus bas, liv.
-un.] [trente-quatre : cinq.
-Tableau neuf, ci-dessous.] [trente-cinq : Koch, op.
-cent trente-neuf-cent quarante-six.] [trente-six : Koch, op.
-trente-quatre); la seconde à Oettingen, Moralstatistik, tableau annexe quatre-vingt-dix-sept.] [trente-huit : Op.
-deux cent trente-huit.] [trente-neuf : Op.
+trente-quatre); la chiffres mêmes qu'il donne.
 Ils sont trop élevés pour représenter les seuls cas de folie.
 le tableau donné dans le Dictionnaire de Dechambre et où la distinction est faite.
-En tout cas, s'il y a progrès, nous ignorons le coefficient d'accélération.] [quarante-quatre : cinq.
-planche un, p.
-quarante-huit.] [quarante-sept : De la production et de la consommation des boissons alcooliques en France, p.
-cent soixante-quatorze-cent soixante-quinze.] [quarante-huit : cinq.
-planche un, ci-dessus.] [quarante-neuf : Ibid.] [cinquante : D'après Lunier, op.
-cent quatre-vingts et suiv.
-On trouvera des chiffres analogues, se rapportant à d'autres années, dans Prinzing, op.
+raison inverse du suicide.
 Il en est de même en Russie.
-cent soixante-cinq et suiv.; Morselli, p.
-cent cinquante-huit ; Oettingen, Moralstatistik, p.
-sept cent soixante.] [cinquante-cinq : L'espèce humaine, p.
-Paris, Félix Alcan.] [cinquante-six : Article Anthropologie, dans le Dictionnaire de Dechambre, t.
-cent quatre-vingt-neuf.] [soixante : Mémoires d'anthropologie, t.
 Les raisons d'ordre morphologique sont ici impossibles.
 Restent donc les argumenta historiques qui ne peuvent être que très conjecturaux.
-plus bas, liv.
-quatre, § un.] [soixante-quatre : Broca, op.
-trois cent quatre-vingt-quatorze.] [soixante-cinq : cinq.
-Topinard, Anthropologie, p.
-quatre cent soixante-quatre.] [soixante-six : La même remarque s'applique à l'Italie.
 L'écart est, du reste, faible.
 Le maximum qui s'observe en Toscane et en Vénétie, est de un m.
 soixante-cinq, le minimum, en Calabre, est de un m.
 soixante, du moins pour ce qui regarde le continent italien.
-En Sardaigne, la taille s'abaisse à un m.
-cinq cent quatre-vingt-deux.] [soixante-neuf : Suicide, p.
-cent quatre-vingt-dix-sept.] [soixante-dix : Cité par Legoyt, p.
-deux cent quarante-deux.] [soixante et onze : Suicide, p.
-dix-sept-dix-neuf.] [soixante-douze : D'après Morselli, p.
-quatre cent dix.] [soixante-treize : Brierre de Boismont, op.
-cinquante-neuf ; Cazauvieilh, op.
-dix-neuf.] [soixante-quatorze : Ribot, L'hérédité, p.
-Paris, Félix Alcan.] [soixante-quinze : Lisle, op.
-cent quatre-vingt-quinze.] [soixante-seize : Brierre, op.
-cinquante-sept.] [soixante-dix-sept : Luys, op.
-deux cent un.] [soixante-dix-huit : Dictionnaire encyclopédique des sciences méd., art.
-cinq cent quarante-deux.] [soixante-dix-neuf : Op.
-cent soixante-dix-cent soixante-douze.] [quatre-vingts : cinq.
-trois cent vingt-neuf et suiv.] [quatre-vingt-un : cinq.
-cent cinquante-huit et suiv.
 Il marque une étape dans la vie féminine.
 In Archives d'Anth.
 criminelle, mille huit cent quatre-vingt-sept ; Corre, Le délit et le suicide à Brest.
 crim., mille huit cent quatre-vingt-dix, p.
-cent neuf et suiv., deux cent cinquante-neuf et suiv.; Du même, Crime et suicide, p.
-six cent cinq-six cent trente-neuf ; Morselli, p.
-cent trois-cent cinquante-sept.] [quatre-vingt-cinq : cinq.
-plus bas, liv.
-quatre, § un.] [quatre-vingt-six : De l'hypochondrie, etc., p.
+variété de l'homicide.
 Nous verrons plus loin ce qu'il faut penser de cette identification.
-cent quarante-huit.] [quatre-vingt-treize : Nous laissons de côté les chiffres qui concernent la Suisse.
-D'ailleurs la hausse d'octobre à novembre est bien faible.
      |   un.cent quatre-vingt-onze     , -         , -      , -     | +, , , , , , , , , , , , -+, , , , , , , , , , , , , , , , , , , , , + | De six heures à sept h.
 Voici, en effet, d'après Brierre de Boismont, op.
 Voici comme ils se répartissent en Italie : / +, , , , , , , , , , , , , , , , , , , +, , , , -+, , , , -+, , , , -+ |                                      |  mille huit cent quatre-vingt-six.
@@ -1596,241 +1424,85 @@ Voici comme ils se répartissent en Italie : / +, , , , , , , , , , , , , , , ,
 Ainsi nous retrouvons partout cette constance du taux des suicides dans les milieux sociaux identiques.
 Philosophie pénale, p.
 trois cent dix-neuf et suiv.
-Alcan., Corre, Crime et suicide, p.
-soixante-dix-sept., Tarde, Philosophie pénale, p.
-trois cent vingt et un.] [cent quatre : Tarde, ibid., p.
-Tarde, Lois de l'imitation, premier éd., p.
+Une pareille terminologie ne peut être qu'une source de de l'imitation, premier éd., p.
 Ils ne s'expliquent pas du tout de la même manière.
 Car cette imitation n'a rien d'automatique.
 On a pour la suivre les raisons qu'on a pour la respecter.
 Toute sorte d'expériences et d'observations seraient nécessaires qui ne sont pas faites.
 Nos explications ne sont trop souvent que des métaphores.
-le détail des faits dans Legoyt, op.
-deux cent vingt-sept et suiv.] [cent treize : cinq.
-des faits semblables dans Ebrard, op.
-planche deux, ci-dessous.] [cent dix-huit : Op.
-cent quatre-vingt-treize-cent quatre-vingt-quatorze.
+La Marne aurait alors compté un suicide sur deux.sept cent quatre-vingt-onze habitants ; la contagieuse.
 Et ce ne sont pas là des cas particuliers à la Seine-et-Marne.
 Mais la proposition n'est vraie qu'en gros et comporte bien des exceptions.
-cinq, tableau vingt-six.] [cent vingt-trois : Traité des maladies mentales, p.
-deux cent quarante-trois.] [cent vingt-quatre : De la contagion du suicide, p.
-quarante-deux.] [cent vingt-cinq : cinq.
-notamment Aubry, Contagion du meurtre, premier édit., p.
-huit cent treize et suiv.] [cent vingt-huit : un D'après Legoyt, p.
-trois cent quarante-deux.] [cent vingt-neuf : D'après Oettingen, Moralstatistik, tables annexes, p.
-cent dix.] [cent trente : Op.
-deux cent trois).] [cent trente-trois : Handwoerterbuch der Staatswissenschaften, Supplément, t.
-deux cent cinq ; Oettingen, Moralstatistik, p.
+Mais ils n'ont cette influence qu'autant qu'ils sont autre France.
+La situation du judaïsme dans ce pays d'une grande exactitude.
 À cause des pénalités attachées au suicide, beaucoup de cas sont portés comme morts accidentelles.
-six cent vingt-six.] [cent trente-neuf : Oettingen, Moralstatistik, p.
-cinq cent quatre-vingt-deux.] [cent quarante-deux : Morselli, op.
-Annuaire statistique de la France, mille huit cent quatre-vingt-douze-quatre-vingt-quatorze, p.
-cinquante et cinquante et un.] [cent quarante-six : Oettingen, Moralstatistik, p.
-CXV.] [cent quarante-huit : cinq.
-deux cent vingt-trois.] [cent cinquante et un : Oettingen, ibid., p.
-cinq cent soixante-dix-sept.] [cent cinquante-deux : À l'exception de l'Espagne.
-Nous citons d'après Morselli, p.
-deux cent vingt-cinq.] [cent cinquante-quatre : D'après Alwin Petersilie, Zur Statistik der höheren Lehranstalten in Preussen.
 Bureau, mille huit cent soixante-dix-sept, p.
-cent neuf et suiv.] [cent cinquante-cinq : Zeitschr.
-Bureau, mille huit cent quatre-vingt-neuf, p.
   |    cinquante-six   |  + dix virgule quatre    | +, , , , , +, , , , , , , , , , , , , , , , +, , , , , -+, , , , , , + |quatrième   , ,  |    Au-dessous.
 ,   , - vingt-neuf virgule deux.
-Oettingen, Moralstatistik, p.
-On peut même se demander si c'est là une mesure pénale.] [cent cinquante-huit : cinq.
-Wagner, Die Gesetzmässigkeit, etc., p.
-cent soixante-dix-sept.] [cent cinquante-neuf : cinq.
-article Mariage, in Dictionnaire encyclopédique des sciences médicales, deuxième série.
+On peut même se demander médicales, deuxième série.
 cinquante et suiv., Cf., sur cette question, J.
-On verra plus tard l'importance de cette remarque (livre deux, ch.
-cinq, § trois).] [cent soixante-deux : cinq.
-Bertillon, art., Mariage, in Dict.
-Encycl., deuxième série.
-cinquante-deux., Morselli, p.
-trois cent quarante-huit., Corre, Crime et suicide, p.
+deux cent quatre-vingts et suiv., Durkheim, Suicide et natalité, in Revue philosophique, France.
 cent quatre-vingt-quinze, qui donne les mêmes renseignements.
 Mais elle est inutilisable.
 Mais de plus, nous la croyons erronée.
 |          | +, , , , , , , , , , -+, , -+, , -+, , -+, , -+, , -+, , -+, , , , , + |Mariés.
 Or cela est impossible.
 On pressent par là quelle erreur a probablement été commise.
-plus haut liv.
 Ce qui détermine ce fléchissement, c'est l'action du département de la Seine.
 Dans les autres départements (cinq.
-quatre cent trente-six.] [cent soixante-dix : J.
 Mais nous venons de voir que cette aggravation n'existe pas par rapport aux célibataires.
-Les veufs se tuent plutôt moins que les individus non mariés.
 Ces chiffres donneraient une idée fausse de la situation.
 Or, la population célibataire est presque tout entière composée de sujets au-dessous de trente ans.
-cent soixante-quinze) et Corre (Crime et suicide, p.
 La même observation s'applique à l'Allemagne et même à, presque tous les pays d'Europe.
 Il semble qu'à cette époque la nuptialité ait subi comme un coup de fouet.
-Oettingen, Moralstatistik, annexes, tableaux un, deux et trois).] [cent soixante-dix-sept : D'après Levasseur, Population française, t.
-deux cent huit.] [cent soixante-dix-huit : D'après le recensement de mille huit cent quatre-vingt-six, p.
-cent vingt-trois du Dénombrement.] [cent soixante-dix-neuf : cinq.
-Annuaire statistique de la France, quinzee vol., p.
-Elle est plus sensible que lui à leur heureuse influence.] [cent quatre-vingt-deux : Article Mariage, Dict.
-Encycl., deuxième série, t.
-trente-six.] [cent quatre-vingt-trois : Op.
-trois cent quarante-deux.] [cent quatre-vingt-quatre : cinq.
-Bertillon, Les célibataires, les veufs, etc., Rev.
 La diminution est de quarante-cinq pourcent pour les premiers, de quarante-quatre pourcent pour les secondes.
 Étant donné l'accroissement général des suicides, ils confirment ceux que nous avons trouvés.
 Nous nous demandons d'autre part s'ils se réfèrent au pays tout entier.
-livre deux, chap.
-cinq, § trois.] [cent quatre-vingt-onze : cinq.
-Dénombrement de mille huit cent quatre-vingt-six, p.
 Règles de la Méth.
 sociol., p, cent trente-neuf).
 De nombreux suicides dans la capitale en sont la triste preuve».
 Nous citons d'après Legoyt, p.
-deux cent cinquante-deux.] [cent quatre-vingt-seize : D'après Masaryck, Der Selbstmord, p.
-plus haut, liv.
 quatre-vingt-trois et suiv., Roth, Die Selbstmorde in der K.
-et de phar.
-militaire, Paris, mille huit cent quatre-vingt-quinze.] [deux cent trois : Oettingen, Moralstatistik, p.
-sept cent soixante-deux.] [deux cent quatre : Cité d'après Brierre de Boismont, p.
-Wyatt Gill, Myths and songs of the South Pacific, p.
-cent soixante-trois.] [deux cent neuf : Frazer, Golden Bough, t.
-deux cent seize et suiv.] [deux cent dix : Strabon, § quatre cent quatre-vingt-six., Elien, cinq.
-César, De Bello Gallico, six, dix-neuf.] [deux cent quatorze : cinq.
-Spencer, Sociologie, t.
-cent quarante-six.] [deux cent quinze : cinq.
-Jarves, History of the Sandwich Islands, mille huit cent quarante-trois, p.
-Frazer, Golden Bough loc.
-et passim.] [deux cent dix-huit : cinq.
-nat., quatre, douze.] [deux cent vingt : Posidonius, vingt-trois, ap.
-cent quinze.] [deux cent vingt-trois : Ibid., t.
-trois, premier Hælfte, p.
-cent deux.] [deux cent vingt-quatre : Mary Eastman, Dacotah, p.
-quatre-vingt-neuf, cent soixante-neuf., Lombroso, L'Uomo delinquente, mille huit cent quatre-vingt-quatre, p.
-cinquante et un.] [deux cent vingt-cinq : Lisle, op.
-trois cent trente-trois.] [deux cent vingt-six : Lois de Manou, six, trente-deux (trad.
-Loiseleur).] [deux cent vingt-sept : Barth, The religions of India, Londres, mille huit cent quatre-vingt-onze, p.
-dix, dix-neuf et trente-sept.] [deux cent vingt-neuf : Barth, op.
-trois cent vingt-quatre.] [deux cent trente-trois : Histoire du Japon, t.
-deux.] [deux cent trente-quatre : On a appelé acedia l'état moral qui déterminait ces suicides.
 Les intérêts de la patrie ou du parti primaient tout.
 La multiplicité des exécutions capitales provient, sans doute, de la même cause.
-l'article de Roth, dans la Stat.
-Monatschrift, mille huit cent quatre-vingt-douze, p.
+On tuait aussi aux documents officiels, soit à Wagner (op.
 (cinq ans au lieu de sept).
-La vie est faite de ces contradictions.] [deux cent quarante-sept : cinq.
-Starck, Verbrechen und Vergehen in Preussen, Berlin, mille huit cent quatre-vingt-quatre, p.
-cinquante-cinq.] [deux cent quarante-huit : Die Gesetzmüssigkeit in Gesellchaftsleben, p.
-trois cent quarante-cinq.] [deux cent quarante-neuf : cinq.
-soixante-dix-sept-quatre-vingt-trois.] [deux cent cinquante : Ibid., p.
-cent huit-cent dix-sept.] [deux cent cinquante et un : Ibid., p.
 deux cent cinquante-sept-deux cent cinquante-neuf).
-deux.] [deux cent cinquante-neuf : cinq.
-plus haut, liv.
+guère susceptible d'être sanctionnée juridiquement.
+Compte-rendu de mille huit cent quatre-vingts); mais la statistique des n'existait pas du tout alors.
 On trouvera dans Legoyt (p.
 Cette omission n'atteint, d'ailleurs, en rien la conclusion à laquelle nous sommes arrivés.
-Bertillon, Annales de Dem.
 Inter., mille huit cent quatre-vingts, p.
-deux cent soixante-quinze et suiv.] [deux cent soixante-sept : cinq.
-Rolla et dans Namouna le portrait de Don Juan.] [deux cent soixante-huit : cinq.
-cent soixante et onze.] [deux cent soixante-douze : cinq.
-plus haut, liv.
+Voilà pourquoi le divorce est produire des effets prophylactiques que plus tard, après trente ans.
 Nous les reproduisons en un tableau spécial qu'on trouvera à la fin de l'ouvrage.
-Cette lacune du recensement est des plus regrettables.] [deux cent soixante-quatorze : cinq.
-plus haut liv.
 C'est le suicide des époux trop jeunes, de la femme mariée sans enfant.
 Pour être complet, nous devrions donc constituer un quatrième type de suicide.
 Cependant, il pourrait se faire qu'il eût un intérêt historique.
 Corre, Le crime en pays créoles, p.
-six.] [deux cent soixante-dix-sept : Hypochondrie et suicide, p.
-trois cent seize.] [deux cent soixante-dix-huit : Brierre de Boismont, Du suicide, p.
-cent quatre-vingt-dix-huit.] [deux cent soixante-dix-neuf : Ibid., p.
-cent quatre-vingt-quatorze.] [deux cent quatre-vingts : On trouvera des exemples dans Brierre de Boismont, p.
-quatre cent quatre-vingt-quatorze et cinq cent six.] [deux cent quatre-vingt-un : Leroy, op.
-deux cent quarante et un.] [deux cent quatre-vingt-deux : cinq.
-des cas dans Brierre de Boismont, p.
-cent quatre-vingt-sept-cent quatre-vingt-neuf.] [deux cent quatre-vingt-trois : De tranquillitate animi, deux, sub fine.
-Lettre vingt-quatre.] [deux cent quatre-vingt-quatre : René, édition Vialat, Paris, mille huit cent quarante-neuf, p.
-cent douze.] [deux cent quatre-vingt-cinq : cinq.
-plus haut, liv.
-De Prov., deux, neuf et Ep., soixante et onze, seize).] [deux cent quatre-vingt-sept : Morselli, p.
-quatre cent quarante-cinq-quatre cent quarante-six.] [deux cent quatre-vingt-huit : cinq.
-un-cinquante-huit); Mayr, Die Gesetzmässigheit im Gesellschaftsleben, Munich, mille huit cent soixante-dix-sept ; Oettingen, Moralstatistik, p.
 Le suicide, au contraire, est un fait exceptionnel.
 Elle s'applique identiquement au crime sous ses différentes formes.
 Et cet état d'esprit s'impose aux individus.
-Règles de la méthode sociologique, ch.
-deux.] [deux cent quatre-vingt-dix-sept : Tarde, op.
-cit., in Annales de l'Institut de sociol., p.
-deux cent vingt-deux.] [deux cent quatre-vingt-dix-huit : cinq.
-Frazer, Golden Bough, p.
 L'assassinat n'est puni que de mort aujourd'hui comme aux siècles derniers.
 La question n'est pas de notre ressort ; nous n'avons à nous prononcer pour aucune solution.
-plus haut, liv.
-trois.] [trois cent quatre : cinq.
-deux cent douze.] [trois cent cinq : cinq.
-plus haut, liv.
 Peut-être n'est-elle pas vraie de ce dernier.
 Car celle-ci ne détermine pas tels sujets plutôt que tels autres.
 On peut admettre que certains lui résistent et qu'elle se satisfasse sur d'autres.
 La question se pose dans les mêmes termes pour les unes et pour les autres.
-Division du travail social, Introduction.] [trois cent dix : Bibliographie de la question.
-Appiano Buonafede, Histoire critique et philosophique du suicide, mille sept cent soixante-deux, trad.
-soixante-dix-sept.] [trois cent douze : Omicidio-suicidio, p.
-soixante et un-soixante-deux.] [trois cent treize : Origines du droit français, p.
-trois cent soixante et onze.] [trois cent quatorze : Ferri, op.
-soixante-deux.] [trois cent quinze : Garrison, op.
-cent quarante-quatre, cent quarante-cinq.] [trois cent seize : Ferri, op.
-soixante-trois, soixante-quatre.] [trois cent dix-sept : Coran, trois, v.
-cent trente-neuf.] [trois cent dix-huit : Ibid., seize, v.
-soixante-trois.] [trois cent dix-neuf : Ibid., LVI, v.
-soixante.] [trois cent vingt : Ibid., trente-trois, v.
-trente-trois.] [trois cent vingt et un : Aristote, Eth.
-Nic., cinq, onze, trois.] [trois cent vingt-deux : Eschine, C.
-deux cent quarante-quatre, Platon, Lois, neuf, douze, p.
-huit cent soixante-treize.] [trois cent vingt-trois : Dion Chrysostome, Or., quatre, quatorze (éd.
-Teubner, cinq, deux, p.
-deux cent sept).] [trois cent vingt-quatre : Melet.
-Edition Reiske, Altenburg, mille sept cent quatre-vingt-dix-sept, p.
-Lasaulx, Ueber die Bücher des Koenigs Numa, dans ses Etudes d'antiquité classique.
-Nous citons d'après Geiger, p.
-soixante-trois.] [trois cent vingt-neuf : Servius, loc.
-cit., Pline, Hist.
-trente-six, vingt-quatre.] [trois cent trente : trois, tit.
-deux, § trois.] [trois cent trente et un : Inst.
-orat., sept, quatre, trente-neuf., Declam.
-trois cent trente-sept.] [trois cent trente-deux : Digeste, liv.
-seize, loi six, § sept.] [trois cent trente-trois : Ibid., liv.
-trois, loi six, § sept.] [trois cent trente-quatre : Digeste, liv.
-cinquante-huit-cinquante-neuf.] [trois cent trente-huit : cinq.
-notre Division du travail social, liv.
-deux.] [trois cent trente-neuf : Lyon, mille huit cent quatre-vingt-un.
-Au Congrès de criminologie tenu à Rome en mille huit cent quatre-vingt-sept, M.
+La situation critique et philosophique du suicide, mille sept cent soixante-deux, trad.
 mille huit cent quarante., Despine, Psychologie natur., p.
 deux cent deux et suiv., Tarde, Criminalité comparée, p.
-cent cinquante-deux et suiv., Ferri, Omicidio-suicidio, quatrième édit., Turin, mille huit cent quatre-vingt-quinze, p.
-deux cent cinquante-trois et suiv.] [trois cent quarante et un : Moralstatistik, p.
-cinq cent vingt-six.] [trois cent quarante-deux : Op.
-trois cent trente-trois., Dans les Actes du congrès de Rome, p.
 Mais cette légère inexactitude n'altère en rien les résultats généraux qui se dégagent du tableau.
-On comprend aisément pourquoi.] [trois cent quarante-quatre : D'après Chaussinand.] [trois cent quarante-cinq : Op.
-trois cent dix et suiv.] [trois cent quarante-six : Op.
-cent trente-trois.] [trois cent quarante-huit : Op.
-quatre-vingt-quinze.] [trois cent quarante-neuf : Le suicide dans le département de Seine-et-Marne.] [trois cent cinquante : Op.
-trois cent soixante-dix-sept.] [trois cent cinquante et un : L'homme criminel, trad.
-trois cent soixante-treize) n'est pas plus probante.
+Ce qui confirme cette hypothèse, c'est que les épidémies de suicides sont fréquentes plus probante.
 Mais, au bagne, les premiers sont beaucoup plus nombreux que les seconds.
 Ces chiffres n'ont donc rien de concluant.
 Il y aurait donc lieu de les défalquer.
 La malveillance criminelle n'y est pourtant pour rien.
-Règles de la Méthode sociologique, chap.
+On voit combien ces deux sortes de crimes question qu'à la trancher.
 Ce qui est normal aujourd'hui ne le sera plus demain, et inversement.
 Ce qui est morbide pour les individus peut être normal pour la société.
-deux cent soixante-six.] [trois cent soixante-quinze : Oettingen, Ueber acuten und chronischen Selbstmord, p.
-vingt-huit-trente-deux et Moralstatistik, p.
 Mais c'est se payer de mots.
 Dans ces limites, nous le croyons difficilement discutable.
-quatre cent quatre-vingt-dix-neuf.] [trois cent quatre-vingt-deux : Art.
-Suicide, in Diction.
-Philos.] [trois cent quatre-vingt-trois : Qu'on ne se méprenne pas sur notre pensée.
-Marquardt, Privat Leben der Roemer, deux, p.
-quatre.] [trois cent quatre-vingt-cinq : Voir les raisons dans notre Division du travail social, L.
-trois, notamment, p.
-La femme ne serait pas, d'office, exclue de certaines fonctions et reléguée dans d'autres
+Encore peut-on prévoir qu'ils seront eux-mêmes beaucoup plus le caractère strictement réglementaire qu'elle a aujourd'hui.
+La femme ne serait pas, d'office, exclue de certaines fonctions et reléguée dans d'autres.
+Il serait sensiblement uniforme, sans être de cette évolution.
+Nous n'entendons pas dire que les sociétés modernes
