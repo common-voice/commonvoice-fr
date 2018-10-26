@@ -1,9 +1,11 @@
+import requests
 import roman
 import re
 import os
 import sys
 
 from num2words import num2words
+from pathlib import Path
 from typing.re import Pattern
 
 from collections import Counter
@@ -352,3 +354,41 @@ def set_custom_boundaries(doc):
     elif token.text in ['.', '!', '?', "...", "…"]: 
       doc[token.i+1].is_sent_start = True    
   return doc
+
+
+def maybe_download(archive_name: str, target_dir: Path, archive_url: str):
+    target_dir.mkdir(exist_ok=True, parents=True)
+    # If archive file does not exist, download it...
+    archive_path = target_dir / archive_name
+
+    if not archive_path.exists():
+        print('No archive "%s" - downloading...' % archive_path)
+        req = requests.get(archive_url, stream=True)
+        total_size = int(req.headers.get('content-length', 0))
+        done = 0
+
+        with archive_path.open('wb') as f:
+            for data in req.iter_content(1024 * 1024):
+                done += len(data)
+                f.write(data)
+
+    else:
+        print('Found archive "%s" - not downloading.' % archive_path)
+    return archive_path
+
+
+def maybe_extract(archive_path: Path, extracted_path: Path):
+    # If target_dir/extracted_data does not exist, extract archive in target_dir
+    if not extracted_path.is_dir():
+        print(f'No directory "{extracted_path}" - extracting archive...')
+        extracted_path.mkdir(exist_ok=True, parents=True)
+
+        if archive_path.suffix.lower() == '.zip':
+            import zipfile
+            with zipfile.ZipFile(archive_path) as zip_f:
+                zip_f.extractall(extracted_path)
+        else:
+            raise NotImplementedError(f'archive extension[{archive_path.suffix.lower()}] not supported yet')
+
+    else:
+        print('Found directory "%s" - not extracting it from archive.' % archive_path)
