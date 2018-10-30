@@ -17,7 +17,7 @@ pyparsing==2.2.0
 python-dateutil==2.7.3
 python-editor==1.0.3
 rdflib==4.2.2
-requests==2.18.4
+requests==2.20.0
 roman==2.0.0
 six==1.11.0
 spacy==2.0.11
