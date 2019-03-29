@@ -61,8 +61,6 @@ N'hésitez pas à participer selon vos capacités:
 - En répondant à une issue que vous souhaitez aider.
 - En créant une [Pull Request] afin d'améliorer du code.
 
-[//]: #urls references
-
   [DeepSpeech]: <https://github.com/mozilla/DeepSpeech>
   [Mozilla]: <https://www.mozilla.org/fr/>
   [Common Voice]: <https://voice.mozilla.org/fr>
