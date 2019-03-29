@@ -52,6 +52,7 @@ N'hésitez pas à participer selon vos capacités:
 
 - Proposer des phrases dans [Sentence Collector].
 - Donner votre voix ou valider des voix sur [Common Voice].
+- Partager les liens vers [Sentence Collector] et [Common Voice] sur les réseaux socieux afin de faire connaître le projet et l'améliorer. 
 
 
 ### Technique:
