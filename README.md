@@ -11,7 +11,7 @@ Sur ce site, vous pouvez soit offrir votre voix, soit valider les textes.
 
 Un second outil est un collecteur de phrases [Sentence Collector]. En effet pour que vous puissiez donner votre voix dans [Common Voice], il faut des phrases et ces phrases doivent être libre de droits.
 
-[CorporaCreator] est un outil en ligne de commande qui permet de nettoyer les phrases collectées par [Common Voice] et les préparées pour être utilisé par [DeepSpeech]. 
+[CorporaCreator] est un outil en ligne de commande qui permet de nettoyer les phrases collectées par [Common Voice] et de produire un jeu de données mis à disposition par Common Voice. 
 
 
 ## Sentence Collector
