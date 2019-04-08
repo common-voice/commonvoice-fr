@@ -32,7 +32,6 @@ Si vous connaissez d'autres sources offrant des données dans le domaine public 
 
 ## CorporaCreator
 
-Durant ces derniers mois, les équipes de Mozilla se sont rendu compte que certaine donnée émanant de [Common Voice] posait des soucis à [DeepSpeech].
 Dans ce dépôt nous collectons les problèmes liés à la langue française afin d'améliorer la reconnaissance vocale. Par exemple, les [nombres] qui peuvent être assemblé différemment.
 
 
