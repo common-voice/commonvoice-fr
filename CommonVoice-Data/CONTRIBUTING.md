@@ -41,7 +41,7 @@ Usage: `sh debats-assemblee-nationale.sh`
 
 ## Length.py
 
-Pas utilisé, probablement à nettoyer
+Vérifie la répartition des tailles et des mots par rapport à une référence
 
 
 ## Libre Théatre
