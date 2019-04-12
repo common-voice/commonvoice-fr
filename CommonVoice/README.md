@@ -156,4 +156,4 @@ On essaie de construire un premier ensemble de départ, ~10k phrases de sources 
 
 - [La guerre des assistants vocaux commence aujourd'hui en France](https://www.forbes.fr/technologie/la-guerre-des-assistants-vocaux-commence-aujourdhui-en-france/)
 - [Mozilla veut amplifier son virage sur les contenus personnalisés](https://www.lesechos.fr/07/03/2018/lesechos.fr/0301387403003_mozilla-veut-amplifier-son-virage-sur-les-contenus-personnalises.htm)
-- [common voice pour que la voix soit libre](https://framablog.org/2018/12/19/projet-common-voice-pour-que-la-voix-soit-libre/ Projet) - Framablog du 19 décembre 2018
+- [common voice pour que la voix soit libre](https://framablog.org/2018/12/19/projet-common-voice-pour-que-la-voix-soit-libre/) - Framablog du 19 décembre 2018
