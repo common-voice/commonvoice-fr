@@ -8,9 +8,9 @@
 
 - [Participer à Common Voice](#Participer-à-Common-Voice)
 
-** [La voix](#la-voix)
+  - [La voix](#la-voix)
 
-** [Proposer et valider de nouvelles phrases](#Proposer-et-valider-de-nouvelles-phrases)
+  - [Proposer et valider de nouvelles phrases](#Proposer-et-valider-de-nouvelles-phrases)
 
 - [Processus pour Common Voice fr](#Processus-pour-Common-Voice-fr)
 
