@@ -14,9 +14,9 @@
 
 - [Processus pour Common Voice fr](#Processus-pour-Common-Voice-fr)
 
-** [Étape en cours](#etape-en-cours)
+  - [Étape en cours](#etape-en-cours)
 
-** [Construction du corpus de texte](#construction-du-corpus-de-texte)
+  - [Construction du corpus de texte](#construction-du-corpus-de-texte)
 
 - [Liens à garder pour plus tard](#Liens-à-garder-pour-plus-tard)
 
@@ -24,13 +24,13 @@
 
 - [Annonces et articles intéressants](#Annonces-et-articles-intéressants)
 
-** [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
+  - [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
 
-** [Article de la communauté Française](#article-de-la-communauté-française)
+  - [Article de la communauté Française](#article-de-la-communauté-française)
 
-** [Interview](#interview)
+  - [Interview](#interview)
 
-** [Autres articles](#autres-articles)
+  - [Autres articles](#autres-articles)
 
 Vous trouverez dans ce wiki l'ensemble des instructions, documentations... pour le projet Common Voice
 
@@ -156,4 +156,4 @@ On essaie de construire un premier ensemble de départ, ~10k phrases de sources 
 
 - [La guerre des assistants vocaux commence aujourd'hui en France](https://www.forbes.fr/technologie/la-guerre-des-assistants-vocaux-commence-aujourdhui-en-france/)
 - [Mozilla veut amplifier son virage sur les contenus personnalisés](https://www.lesechos.fr/07/03/2018/lesechos.fr/0301387403003_mozilla-veut-amplifier-son-virage-sur-les-contenus-personnalises.htm)
-- [common voice pour que la voix soit libre]([https://framablog.org/2018/12/19/projet-common-voice-pour-que-la-voix-soit-libre/ Projet) - Framablog du 19 décembre 2018
+- [common voice pour que la voix soit libre](https://framablog.org/2018/12/19/projet-common-voice-pour-que-la-voix-soit-libre/ Projet) - Framablog du 19 décembre 2018
