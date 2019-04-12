@@ -1,0 +1,127 @@
+# Groupe de travail pour Common Voice en français
+
+## Table of contents
+
+1. [Introduction](#introduction)
+2. [Canaux](#canaux)
+3. [Participer à Common Voice **pour tous**](#Participer-à-Common-Voice-pour tous)
+
+  1. [La voix](#la-voix)
+  2. [Proposer et valider de nouvelles phrases](#Proposer-et-valider-de-nouvelles-phrases)
+
+4. [Processus pour Common Voice fr](#Processus-pour-Common-Voice-fr)
+
+  1. [Étape en cours](#etape-en-cours)
+  2. [Construction du corpus de texte](#construction-du-corpus-de-texte)
+  3. [Contraintes](#contraintes)
+  4. [Sources de données en CC0](#sources-de-donnees-en-cc0)
+  5. [Liens à garder pour plus tard](#Liens à garder pour plus tard)
+  6. [Rajouter des phrases](#Rajouter des phrases)
+
+5. [Annonces et articles intéressants](#Annonces-et-articles-intéressants)
+
+  1. [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
+  2. [Article de la communauté Française](#article-de-la-communauté-française)
+  3. [Interview](#interview)
+  4. [Autres articles](#autres-articles)
+
+Vous trouverez dans ce wiki l'ensemble des instructions, documentations... pour le projet Common Voice
+
+# Introduction
+
+Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux machines à parler comme tout un chacun. Il va permettre de collecter les données pour fournir du contenu aux algorithmes comme pour [DeepSpeech](https://github.com/mozfr/besogne/wiki/DeepSpeech-fr)
+
+# Canaux
+
+- **Common Voice fr** sur Telegram pour la discussion/coordination : [s'inscrire au groupe](https://t.me/joinchat/A7h94U7VCFrCnXrDMff2Vw)
+- [Discourse Mozilla](https://discourse.mozilla.org/c/voice)
+
+# Participer à Common Voice **pour tous**
+
+## La voix
+
+Il est possible de parler et d'écouter des voix pour faire grossir la base de données - [site officiel Common Voice](https://voice.mozilla.org) - [Parler](https://voice.mozilla.org/fr/speak) - [Ecouter](https://voice.mozilla.org/fr/listen)
+
+### Proposer et valider de nouvelles phrases
+
+Plusieurs étapes :
+
+1. Vous devez posséder un compte sur [<https://voice.mozilla.org> Common Voice]
+2. Identifiez-vous sur [<https://common-voice.github.io/sentence-collector/#/login> Collecteur de phrases] avec les identifiants de Common voice
+3. Pour valider les phrases, il faut utiliser la [<https://common-voice.github.io/sentence-collector/#/review/fr> page de validation]
+4. Si vous souhaitez ajouter de nouvelles phrases, vous devez vous rendre sur [<https://common-voice.github.io/sentence-collector/#/add> Ajouter une nouvelle phrase]
+
+## Processus pour Common Voice fr
+
+C'est un processus en deux grosses étapes :
+
+1. Construction d'un corpus de texte à faire lire, cf. les contraintes ci-dessous.
+
+2. Contribution vocale :
+
+3. Différents genres
+
+4. Différents âges
+
+5. Différents accents
+
+6. Une fois collecté suffisamment de variétés et de quantité (centaines d'heures d'audio), construction des ensembles pour l'apprentissage du modèle français.
+
+### Étape en cours
+
+On essaie de construire un premier ensemble de départ, ~10k phrases de sources variées, pour lancer une langue. Soumission des textes via <https://voice-sprint.mozilla.community/upload/>, soit directement pour des petits volumes, soit indirectement (Pastebin, etc. dépôts git...) pour les grosses quantités. Ensuite, processus **manuel** de validation des envois pour vérifier un minimum de qualité. Pour faire partie de cette équipe de validateurs, prenez langue sur <https://discourse.mozilla.org/c/voice>
+
+### Construction du corpus de texte
+
+#### Contraintes
+
+- Common Voice redistribue en [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) "Creative Commons -- CC0 1.0 universel"), il faut des corpus de texte « compatibles »
+- Texte représentatif (dialogues de film, débats, théâtre)
+- Différents registres de langue nécessaires
+- Normalisation des nombres (chiffres romains aussi)
+- **Voir `commonvoice-fr` pour du code qui normalise proprement le texte**
+
+#### Sources de données en CC0
+
+- <http://data.assemblee-nationale.fr/**> Licence ≃ CC0, avec attribution __Débats en XML_ _Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr**> ~1.4M phrases, 35M mots, 110k mots uniques__ ~40k mots importés sur Crowdin (20180511)
+
+- <https://www.gutenberg.org/**> Licence domaine public __HTML, ePUB, Kindle et texte brut (UTF-8)_ _Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr**> Premiers essais, 1 000 livres extraits au hasard sur la langue française__ ~2.2M phrases, 42M mots, 430k mots uniques
+
+- <http://www.cuisine-libre.fr/**> Licence domaine public __HTML, texte brut (UTF-8)_ _**À PARSER__
+
+- <http://libretheatre.fr/**> Licence domaine public__HTML, texte brut (UTF-8)** Parser en cours : <https://github.com/Common-Voice/commonvoice-fr>
+
+- <http://www.inlibroveritas.net/**> [Licence Art Libre – LAL 1.3](http://artlibre.org/licence/lal) __PDF_ _**À PARSER__
+
+### Liens à garder pour plus tard
+
+- Corpus vocaux scientifiques en français sur [<https://www.ortolang.fr/market/corpora?filters=%7B%22corporaType.id%22:%5B%22speech_corpora%22%5D%7D&viewMode=tile&orderProp=rank&orderDir=desc> Ortolang]
+- [<http://golem13.fr/5000-films-tombes-dans-le-domaine-public-a-telecharger-gratuitement/\>]
+- [<https://www.apar.tv/cinema/700-films-rares-et-gratuits-disponibles-ici-et-maintenant/\>]
+
+### Rajouter des phrases
+
+- [<https://common-voice.github.io/sentence-collector/#/add\>]
+
+# Annonces et articles intéressants
+
+## Section Presse annonce Mozilla
+
+- [Common Voice devient multilingue et s'enrichit de nouvelles langues](https://blog.mozilla.org/press-fr/2018/06/07/common-voice-devient-multilingue-et-senrichit-de-nouvelles-langues/) - 7 juin 2018
+- [Common Voice : Mutualiser nos voix – Mozilla publie le plus grand jeu de données vocales transcrites du domaine public à ce jour](https://blog.mozilla.org/press-fr/2019/02/28/common-voice-mutualiser-nos-voix-mozilla-publie-le-plus-grand-jeu-de-donnees-vocales-transcrites-du-domaine-public-a-ce-jour/) - 28 février 2019
+
+## Article de la communauté Française
+
+- [Haussons la voix tous ensemble pour le Web](https://blog.mozfr.org/post/2017/07/Haussons-la-voix-tous-ensemble-pour-le-Web-Common-Voice) - Traduction de l'article de Daniel Kessler du 19 juillet 2017 par la communauté Mozilla francophone
+- [Mozilla ouvre la voix](https://blog.mozfr.org/post/2017/07/Mozilla-ouvre-la-voix-reconnaissance-vocale) - Article de Kelly Davis du 28 juillet 2017 sur les plans de Mozilla d'ouvrir la reconnaissance vocale traduit par la communauté Mozilla francophone
+
+## Interview
+
+- [Common Voice arrive en France !](https://www.ausy.fr/fr/actualites-techniques/common-voice-arrive-en-france)
+- [Common voice : Mozilla reconnaissance vocale](https://www.blogdumoderateur.com/common-voice-mozilla-reconnaissance-vocale/)
+
+## Autres articles
+
+- [La guerre des assistants vocaux commence aujourd'hui en France](https://www.forbes.fr/technologie/la-guerre-des-assistants-vocaux-commence-aujourdhui-en-france/)
+- [Mozilla veut amplifier son virage sur les contenus personnalisés](https://www.lesechos.fr/07/03/2018/lesechos.fr/0301387403003_mozilla-veut-amplifier-son-virage-sur-les-contenus-personnalises.htm)
+- [common voice pour que la voix soit libre]([https://framablog.org/2018/12/19/projet-common-voice-pour-que-la-voix-soit-libre/ Projet) - Framablog du 19 décembre 2018
