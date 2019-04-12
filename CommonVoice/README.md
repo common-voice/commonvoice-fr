@@ -3,9 +3,7 @@
 ## Table of contents
 
 - [Introduction](#introduction)
-
 - [Canaux](#canaux)
-
 - [Participer à Common Voice](#Participer-à-Common-Voice)
 
   - [La voix](#la-voix)

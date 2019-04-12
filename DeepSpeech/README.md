@@ -2,32 +2,35 @@
 
 ## Table of contents
 
-1. [Introduction](#introduction)
-2. [Canaux](#canaux)
-3. [Participer à DeepSpeech **pour tous**](#Participer-à-DeepSpeech-pour tous)
-4. [Processus pour DeepSpeech fr](#Processus-pour-deepSpeech-fr)
-5. [Bien démarrer](#[bien-démarrer)
+- [Introduction](#introduction)
+- [Canaux](#canaux)
+- [Participer à DeepSpeech](#Participer-à-DeepSpeech)
+- [Processus pour DeepSpeech fr](#Processus-pour-deepSpeech-fr)
+- [Bien démarrer](#bien-démarrer)
 
-  1. [Où trouver des jeux de données](#Ou-trouver-des-jeux-de-données)
-  2. [Speech-to-Text et Text-to-Speech](#Speech-to-Text-et-Text-to-Speech)
-  3. [La parole vers le texte et Le texte vers la parole](#La-parole-vers-le-texte-et-Le-texte-vers-la-parole)
+  - [Où trouver des jeux de données](#Ou-trouver-des-jeux-de-données)
 
-6. [Exemples](exemples)
+  - [Speech-to-Text et Text-to-Speech](#Speech-to-Text-et-Text-to-Speech)
 
-  1. [Convertir la parole vers le texte](#Convertir-la-parole-vers-le-texte)
-  2. [Utiliser DeepSpeech pour vos projets webs](#Utiliser-DeepSpeech-pour-vos-projets-webs)
+  - [La parole vers le texte et Le texte vers la parole](#La-parole-vers-le-texte-et-Le-texte-vers-la-parole)
 
-7. [Projets disponible](#projets-disponible)
+- [Exemples](exemples)
 
-8. [Annonces et articles intéressants](#Annonces-et-articles-intéressants)
+  - [Convertir la parole vers le texte](#Convertir-la-parole-vers-le-texte)
 
-  1. [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
+  - [Utiliser DeepSpeech pour vos projets webs](#Utiliser-DeepSpeech-pour-vos-projets-webs)
+
+- [Projets disponible](#projets-disponible)
+
+- [Annonces et articles intéressants](#Annonces-et-articles-intéressants)
+
+  - [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
 
 Vous trouverez dans ce wiki l'ensemble des instructions, documentations... pour le projet Common Voice
 
 # Introduction
 
-Le projet DeepSpeech est un autre projet pour transformer les ondes sonores en texte à partir de l'algorithme d'apprentissage proposé par [Common Voice](#https://github.com/mozfr/besogne/wiki/Common-Voice-fr).
+Le projet DeepSpeech est un autre projet pour transformer les ondes sonores en texte à partir de l'algorithme d'apprentissage proposé par [Common Voice](https://github.com/Common-Voice/commonvoice-fr/CommonVoice).
 
 # Canaux
 
@@ -36,7 +39,7 @@ Le projet DeepSpeech est un autre projet pour transformer les ondes sonores en t
 
 # Participer à DeepSpeech _pour tous_
 
-Le projet **DeepSpeech** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/mozfr/besogne/wiki/Common-Voice-fr#Participer__Common_Voice_pour_tous)
+Le projet **DeepSpeech** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/Common-Voice/commonvoice-fr/CommonVoice#Participer-à-Common-Voice)
 
 # Processus pour DeepSpeech fr
 
@@ -50,7 +53,7 @@ C'est un processus en deux grosses étapes :
 
 ### Où trouver des jeux de données
 
-- [<https://voice.mozilla.org/fr/datasets>]
+- <https://voice.mozilla.org/fr/datasets>
 
 ### Speech-to-Text et Text-to-Speech
 
