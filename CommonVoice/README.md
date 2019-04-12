@@ -4,11 +4,23 @@
 
 1. [Introduction](#introduction)
 2. [Canaux](#canaux)
-3. [Participer à Common Voice](#Participer-à-Common-Voice) . [La voix](#la-voix) . [Proposer et valider de nouvelles phrases](#Proposer-et-valider-de-nouvelles-phrases)
+3. [Participer à Common Voice](#Participer-à-Common-Voice)
+4. [La voix](#la-voix)
+5. [Proposer et valider de nouvelles phrases](#Proposer-et-valider-de-nouvelles-phrases)
 
-4. [Processus pour Common Voice fr](#Processus-pour-Common-Voice-fr) . [Étape en cours](#etape-en-cours) . [Construction du corpus de texte](#construction-du-corpus-de-texte) . [Liens à garder pour plus tard](#Liens-à-garder-pour-plus-tard) . [Rajouter des phrases](#Rajouter-des-phrases)
+6. [Processus pour Common Voice fr](#Processus-pour-Common-Voice-fr)
 
-5. [Annonces et articles intéressants](#Annonces-et-articles-intéressants) . [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla) . [Article de la communauté Française](#article-de-la-communauté-française) . [Interview](#interview) . [Autres articles](#autres-articles)
+7. [Étape en cours](#etape-en-cours)
+8. [Construction du corpus de texte](#construction-du-corpus-de-texte)
+9. [Liens à garder pour plus tard](#Liens-à-garder-pour-plus-tard)
+10. [Rajouter des phrases](#Rajouter-des-phrases)
+
+11. [Annonces et articles intéressants](#Annonces-et-articles-intéressants)
+
+12. [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
+13. [Article de la communauté Française](#article-de-la-communauté-française)
+14. [Interview](#interview)
+15. [Autres articles](#autres-articles)
 
 Vous trouverez dans ce wiki l'ensemble des instructions, documentations... pour le projet Common Voice
 
