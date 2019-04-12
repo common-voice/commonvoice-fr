@@ -75,7 +75,7 @@ C'est un processus en deux grosses étapes :
 
 - [C#](https://github.com/mozilla/DeepSpeech/tree/master/examples/net_framework)
 - [NodeJS](https://github.com/mozilla/DeepSpeech/tree/master/examples/nodejs_wav)
-- [Streaming NodeJS]([https://github.com/mozilla/DeepSpeech/tree/master/examples/ffmpeg_vad_streaming)
+- [Streaming NodeJS](https://github.com/mozilla/DeepSpeech/tree/master/examples/ffmpeg_vad_streaming)
 - [transcription (streaming) Python](https://github.com/mozilla/DeepSpeech/tree/master/examples/vad_transcriber)
 
 # Projets disponible
