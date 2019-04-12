@@ -12,7 +12,6 @@
 4. [Processus pour Common Voice fr](#Processus-pour-Common-Voice-fr)
 
   - [Étape en cours](#etape-en-cours)
-
   - [Construction du corpus de texte](#construction-du-corpus-de-texte)
 
 5. [Liens à garder pour plus tard](#Liens-à-garder-pour-plus-tard)
