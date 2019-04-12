@@ -4,52 +4,41 @@
 
 1. [Introduction](#introduction)
 2. [Canaux](#canaux)
-3. [Participer à Common Voice **pour tous**](#Participer-à-Common-Voice-pour tous)
+3. [Participer à Common Voice](#Participer-à-Common-Voice) . [La voix](#la-voix) . [Proposer et valider de nouvelles phrases](#Proposer-et-valider-de-nouvelles-phrases)
 
-  1. [La voix](#la-voix)
-  2. [Proposer et valider de nouvelles phrases](#Proposer-et-valider-de-nouvelles-phrases)
+4. [Processus pour Common Voice fr](#Processus-pour-Common-Voice-fr) . [Étape en cours](#etape-en-cours) . [Construction du corpus de texte](#construction-du-corpus-de-texte) . [Liens à garder pour plus tard](#Liens-à-garder-pour-plus-tard) . [Rajouter des phrases](#Rajouter-des-phrases)
 
-4. [Processus pour Common Voice fr](#Processus-pour-Common-Voice-fr)
-
-  1. [Étape en cours](#etape-en-cours)
-  2. [Construction du corpus de texte](#construction-du-corpus-de-texte)
-  3. [Contraintes](#contraintes)
-  4. [Sources de données en CC0](#sources-de-donnees-en-cc0)
-  5. [Liens à garder pour plus tard](#Liens à garder pour plus tard)
-  6. [Rajouter des phrases](#Rajouter des phrases)
-
-5. [Annonces et articles intéressants](#Annonces-et-articles-intéressants)
-
-  1. [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
-  2. [Article de la communauté Française](#article-de-la-communauté-française)
-  3. [Interview](#interview)
-  4. [Autres articles](#autres-articles)
+5. [Annonces et articles intéressants](#Annonces-et-articles-intéressants) . [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla) . [Article de la communauté Française](#article-de-la-communauté-française) . [Interview](#interview) . [Autres articles](#autres-articles)
 
 Vous trouverez dans ce wiki l'ensemble des instructions, documentations... pour le projet Common Voice
 
 # Introduction
 
-Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux machines à parler comme tout un chacun. Il va permettre de collecter les données pour fournir du contenu aux algorithmes comme pour [DeepSpeech](https://github.com/mozfr/besogne/wiki/DeepSpeech-fr)
+Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux machines à parler comme tout un chacun. Il va permettre de collecter les données pour fournir du contenu aux algorithmes comme pour [DeepSpeech](https://github.com/Common-Voice/commonvoice-fr/DeepSpeech)
 
 # Canaux
 
 - **Common Voice fr** sur Telegram pour la discussion/coordination : [s'inscrire au groupe](https://t.me/joinchat/A7h94U7VCFrCnXrDMff2Vw)
 - [Discourse Mozilla](https://discourse.mozilla.org/c/voice)
 
-# Participer à Common Voice **pour tous**
+# Participer à Common Voice
 
 ## La voix
 
-Il est possible de parler et d'écouter des voix pour faire grossir la base de données - [site officiel Common Voice](https://voice.mozilla.org) - [Parler](https://voice.mozilla.org/fr/speak) - [Ecouter](https://voice.mozilla.org/fr/listen)
+Il est possible de parler et d'écouter des voix pour faire grossir la base de données
+
+- [site officiel Common Voice](https://voice.mozilla.org)
+- [Parler](https://voice.mozilla.org/fr/speak)
+- [Ecouter](https://voice.mozilla.org/fr/listen)
 
 ### Proposer et valider de nouvelles phrases
 
 Plusieurs étapes :
 
-1. Vous devez posséder un compte sur [<https://voice.mozilla.org> Common Voice]
-2. Identifiez-vous sur [<https://common-voice.github.io/sentence-collector/#/login> Collecteur de phrases] avec les identifiants de Common voice
-3. Pour valider les phrases, il faut utiliser la [<https://common-voice.github.io/sentence-collector/#/review/fr> page de validation]
-4. Si vous souhaitez ajouter de nouvelles phrases, vous devez vous rendre sur [<https://common-voice.github.io/sentence-collector/#/add> Ajouter une nouvelle phrase]
+1. Vous devez posséder un compte sur [Common Voice](https://voice.mozilla.org)
+2. Identifiez-vous sur [Collecteur de phrases](https://common-voice.github.io/sentence-collector/#/login) avec les identifiants de Common voice
+3. Pour valider les phrases, il faut utiliser la [page de validation](https://common-voice.github.io/sentence-collector/#/review/fr)
+4. Si vous souhaitez ajouter de nouvelles phrases, vous devez vous rendre sur [Ajouter une nouvelle phrase](https://common-voice.github.io/sentence-collector/#/add)
 
 ## Processus pour Common Voice fr
 
@@ -59,13 +48,11 @@ C'est un processus en deux grosses étapes :
 
 2. Contribution vocale :
 
-3. Différents genres
+  - Différents genres
+  - Différents âges
+  - Différents accents
 
-4. Différents âges
-
-5. Différents accents
-
-6. Une fois collecté suffisamment de variétés et de quantité (centaines d'heures d'audio), construction des ensembles pour l'apprentissage du modèle français.
+3. Une fois collecté suffisamment de variétés et de quantité (centaines d'heures d'audio), construction des ensembles pour l'apprentissage du modèle français.
 
 ### Étape en cours
 
@@ -75,7 +62,7 @@ On essaie de construire un premier ensemble de départ, ~10k phrases de sources 
 
 #### Contraintes
 
-- Common Voice redistribue en [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr) "Creative Commons -- CC0 1.0 universel"), il faut des corpus de texte « compatibles »
+- Common Voice redistribue en [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr "Creative Commons -- CC0 1.0 universel"), il faut des corpus de texte **compatibles**
 - Texte représentatif (dialogues de film, débats, théâtre)
 - Différents registres de langue nécessaires
 - Normalisation des nombres (chiffres romains aussi)
@@ -83,25 +70,48 @@ On essaie de construire un premier ensemble de départ, ~10k phrases de sources 
 
 #### Sources de données en CC0
 
-- <http://data.assemblee-nationale.fr/**> Licence ≃ CC0, avec attribution __Débats en XML_ _Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr**> ~1.4M phrases, 35M mots, 110k mots uniques__ ~40k mots importés sur Crowdin (20180511)
+- <http://data.assemblee-nationale.fr/>
 
-- <https://www.gutenberg.org/**> Licence domaine public __HTML, ePUB, Kindle et texte brut (UTF-8)_ _Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr**> Premiers essais, 1 000 livres extraits au hasard sur la langue française__ ~2.2M phrases, 42M mots, 430k mots uniques
+  - Licence ≃ CC0, avec attribution
+  - Débats en XML
+  - Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr**>
+  - ~1.4M phrases, 35M mots, 110k mots uniques
+  - ~40k mots importés sur Crowdin (20180511)
 
-- <http://www.cuisine-libre.fr/**> Licence domaine public __HTML, texte brut (UTF-8)_ _**À PARSER__
+- <https://www.gutenberg.org/>
 
-- <http://libretheatre.fr/**> Licence domaine public__HTML, texte brut (UTF-8)** Parser en cours : <https://github.com/Common-Voice/commonvoice-fr>
+  - Licence domaine public
+  - HTML, ePUB, Kindle et texte brut (UTF-8)
+  - Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr>
+  - Premiers essais, 1 000 livres extraits au hasard sur la langue française
+  - ~2.2M phrases, 42M mots, 430k mots uniques
 
-- <http://www.inlibroveritas.net/**> [Licence Art Libre – LAL 1.3](http://artlibre.org/licence/lal) __PDF_ _**À PARSER__
+- <http://www.cuisine-libre.fr/>
+
+  - Licence domaine public
+  - HTML, texte brut (UTF-8)
+  - À PARSER
+
+- <http://libretheatre.fr/>
+
+  - Licence domaine public
+  - HTML, texte brut (UTF-8)
+  - Parser en cours : <https://github.com/Common-Voice/commonvoice-fr>
+
+- <http://www.inlibroveritas.net/>
+
+  - [Licence Art Libre – LAL 1.3](http://artlibre.org/licence/lal)
+  - **PDF À PARSER**
 
 ### Liens à garder pour plus tard
 
-- Corpus vocaux scientifiques en français sur [<https://www.ortolang.fr/market/corpora?filters=%7B%22corporaType.id%22:%5B%22speech_corpora%22%5D%7D&viewMode=tile&orderProp=rank&orderDir=desc> Ortolang]
-- [<http://golem13.fr/5000-films-tombes-dans-le-domaine-public-a-telecharger-gratuitement/\>]
-- [<https://www.apar.tv/cinema/700-films-rares-et-gratuits-disponibles-ici-et-maintenant/\>]
+- Corpus vocaux scientifiques en français sur [Ortolang](https://www.ortolang.fr/market/corpora?filters=%7B%22corporaType.id%22:%5B%22speech_corpora%22%5D%7D&viewMode=tile&orderProp=rank&orderDir=desc)
+- <http://golem13.fr/5000-films-tombes-dans-le-domaine-public-a-telecharger-gratuitement/\>
+- <https://www.apar.tv/cinema/700-films-rares-et-gratuits-disponibles-ici-et-maintenant/\>
 
 ### Rajouter des phrases
 
-- [<https://common-voice.github.io/sentence-collector/#/add\>]
+- <https://common-voice.github.io/sentence-collector/#/add\>
 
 # Annonces et articles intéressants
 
