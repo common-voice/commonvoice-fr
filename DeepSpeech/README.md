@@ -1,6 +1,6 @@
 # Groupe de travail pour DeepSpeech en français
 
-## Table of contents
+## Table des matières
 
 - [Introduction](#introduction)
 - [Canaux](#canaux)
@@ -12,21 +12,21 @@
 
   - [Speech-to-Text et Text-to-Speech](#Speech-to-Text-et-Text-to-Speech)
 
-  - [La parole vers le texte et Le texte vers la parole](#La-parole-vers-le-texte-et-Le-texte-vers-la-parole)
+  - [La parole vers le texte et le texte vers la parole](#La-parole-vers-le-texte-et-le-texte-vers-la-parole)
 
-- [Exemples](exemples)
+- [Exemples](#exemples)
 
   - [Convertir la parole vers le texte](#Convertir-la-parole-vers-le-texte)
 
-  - [Utiliser DeepSpeech pour vos projets webs](#Utiliser-DeepSpeech-pour-vos-projets-webs)
+  - [Utiliser DeepSpeech pour vos projets webs](#Utiliser-DeepSpeech-pour-vos-projets-web)
 
-- [Projets disponible](#projets-disponible)
+- [Projets disponibles](#projets-disponibles)
 
 - [Annonces et articles intéressants](#Annonces-et-articles-intéressants)
 
   - [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
 
-Vous trouverez dans ce wiki l'ensemble des instructions, documentations... pour le projet Common Voice
+Vous trouverez dans ce document l'ensemble des instructions, documentations… pour le projet Common Voice.
 
 # Introduction
 
@@ -39,13 +39,13 @@ Le projet DeepSpeech est un autre projet pour transformer les ondes sonores en t
 
 # Participer à DeepSpeech _pour tous_
 
-Le projet **DeepSpeech** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/Common-Voice/commonvoice-fr/CommonVoice#Participer-à-Common-Voice)
+Le projet **DeepSpeech** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/Common-Voice/commonvoice-fr#Participer-à-Common-Voice).
 
 # Processus pour DeepSpeech fr
 
 C'est un processus en deux grosses étapes :
 
-1. Vous aidez à convertir du Texte vers l'Audio et l'Audio en Texte
+1. Vous aidez à convertir du texte vers l'audio et l'audio en texte
 
 **EN CONSTRUCTION**
 
@@ -59,9 +59,9 @@ C'est un processus en deux grosses étapes :
 
 - [Modèles DeepSpeech](https://github.com/mozilla/deepspeech)
 
-### La parole vers le texte et Le texte vers la parole (en FR)
+### La parole vers le texte et le texte vers la parole (en fr)
 
-- [Modèle DeepSpeech en Français](https://github.com/Common-Voice/commonvoice-fr/projects/3)
+- [Modèle DeepSpeech en français](https://github.com/Common-Voice/commonvoice-fr/projects/3)
 - [Common Voice CorporaCreator](https://github.com/Common-Voice/commonvoice-fr/projects/2)
 - [Common Voice Sentence Collector](https://github.com/Common-Voice/commonvoice-fr/projects/1)
 
@@ -71,23 +71,23 @@ C'est un processus en deux grosses étapes :
 
 - [convertir la parole en texte](https://hacks.mozilla.org/2018/09/speech-recognition-deepspeech/)
 
-### Utiliser DeepSpeech pour vos projets webs
+### Utiliser DeepSpeech pour vos projets web
 
 - [C#](https://github.com/mozilla/DeepSpeech/tree/master/examples/net_framework)
 - [NodeJS](https://github.com/mozilla/DeepSpeech/tree/master/examples/nodejs_wav)
 - [Streaming NodeJS](https://github.com/mozilla/DeepSpeech/tree/master/examples/ffmpeg_vad_streaming)
 - [transcription (streaming) Python](https://github.com/mozilla/DeepSpeech/tree/master/examples/vad_transcriber)
 
-# Projets disponible
+# Projets disponibles
 
-- [mycroft](https://mycroft.ai/blog/deepspeech-update/) - Assistant vocal open source
-- [Leon](https://getleon.ai/) - Assistant personnel open source
-- [Baidu](https://github.com/mozilla/deepspeech) - Implémentation d'une architecture DeepSpeech
-- [Snips](https://snips.ai/) - Assistant vocal décentralisé et privé.
-- FusionPBX - Système de commutation téléphonique installé dans une organisation privée et servant à transcrire des messages téléphoniques
+- [mycroft](https://mycroft.ai/blog/deepspeech-update/) – assistant vocal open source
+- [Leon](https://getleon.ai/) – assistant personnel open source
+- [Baidu](https://github.com/mozilla/deepspeech) – implémentation d'une architecture DeepSpeech
+- [Snips](https://snips.ai/) – assistant vocal décentralisé et privé
+- FusionPBX – système de commutation téléphonique installé dans une organisation privée et servant à transcrire des messages téléphoniques
 
 # Annonces et articles intéressants
 
-## Section Presse annonce Mozilla
+## Section Presse Mozilla
 
-- [Common Voice : Mutualiser nos voix – Mozilla publie le plus grand jeu de données vocales transcrites du domaine public à ce jour](https://blog.mozilla.org/press-fr/2019/02/28/common-voice-mutualiser-nos-voix-mozilla-publie-le-plus-grand-jeu-de-donnees-vocales-transcrites-du-domaine-public-a-ce-jour/) - 28 février 2019
+- [Common Voice : Mutualiser nos voix – Mozilla publie le plus grand jeu de données vocales transcrites du domaine public à ce jour](https://blog.mozilla.org/press-fr/2019/02/28/common-voice-mutualiser-nos-voix-mozilla-publie-le-plus-grand-jeu-de-donnees-vocales-transcrites-du-domaine-public-a-ce-jour/) – 28 février 2019
