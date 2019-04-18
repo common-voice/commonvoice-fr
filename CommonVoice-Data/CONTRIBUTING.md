@@ -15,7 +15,7 @@ Ce dossier contient des fichiers avec des données tests pour vérifier que les 
 ## Adresses
 
 Extracteurs d'adresses françaises.
-Address data are extracted from [source: BANO](https://www.data.gouv.fr/fr/datasets/base-d-adresses-nationale-ouverte-bano/)
+Les données sont extraites de [source: BANO](https://www.data.gouv.fr/fr/datasets/base-d-adresses-nationale-ouverte-bano/)
 
 Licence: ODbL 
 
@@ -23,7 +23,7 @@ Fichier(s): bano.py
 
 Usage: `$ python bano.py data/addresses`
 
-see `$ python bano.py --help` for more info/options
+Pour plus d'infos et voir les options: `$ python bano.py --help`
 
 ## Débats Assemblée Nationale
 
@@ -56,7 +56,7 @@ Fichier(s) : libretheatre.py
 
 Usage: `$ python libretheatre.py data/libretheatre`
 
-see `$ python libretheatre.py --help` for more info/options
+Pour plus d'infos et voir les options: `$ python libretheatre.py --help`
 
 
 ## Projet Gutenberg
@@ -72,7 +72,8 @@ Le fichier livres-projet-gutenberg.sh vérifie que vous n'avez pas de fichier tx
 
 Usage: `sh livres-projet-gutenberg.sh`
 (Afin de lancer cette commande vous devez disposer d'un shell.)
-Vous pouvez également lancer le script python directement. Pour plus d'infos et voir les options: `$ python project-gutenberg.py --help`
+Vous pouvez également lancer le script python directement. 
+Pour plus d'infos et voir les options: `$ python project-gutenberg.py --help`
 
 
 ## Names
@@ -83,11 +84,11 @@ Licence: NO LICENSE
 
 > Ils [Les fichiers détail] peuvent être téléchargés gratuitement et les données contenues dans ces fichiers peuvent être réutilisées, y compris à des fins commerciales, sans licence et sans versement de redevance, dans le cadre des mentions légales sur le site.
 
-see https://www.insee.fr/fr/information/1300614 for more info 
+Pour plus d'infos: https://www.insee.fr/fr/information/1300614 
 
 Usage: `$ python names.py data/names.txt`
 
-see `$ python names.py --help` for more info/options
+Pour plus d'infos et voir les options: `$ python names.py --help`
 
 
 ## Utils.py
