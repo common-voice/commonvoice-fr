@@ -26,11 +26,11 @@
 
   - [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
 
-Vous trouverez dans ce document l'ensemble des instructions, documentations… pour le projet Common Voice.
+Vous trouverez dans ce document l'ensemble des instructions, documentations... pour le projet Common Voice.
 
 # Introduction
 
-Le projet DeepSpeech est un autre projet pour transformer les ondes sonores en texte à partir de l'algorithme d'apprentissage proposé par [Common Voice](https://github.com/Common-Voice/commonvoice-fr/CommonVoice).
+Le projet DeepSpeech est un autre projet de la fondation Mozilla, pour transformer les ondes sonores en texte à partir de l'algorithme d'apprentissage proposé par [Common Voice](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice).
 
 # Canaux
 
@@ -39,15 +39,13 @@ Le projet DeepSpeech est un autre projet pour transformer les ondes sonores en t
 
 # Participer à DeepSpeech _pour tous_
 
-Le projet **DeepSpeech** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/Common-Voice/commonvoice-fr#Participer-à-Common-Voice).
+Le projet **DeepSpeech** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice#Participer-à-Common-Voice).
 
 # Processus pour DeepSpeech fr
 
 C'est un processus en deux grosses étapes :
 
 1. Vous aidez à convertir du texte vers l'audio et l'audio en texte
-
-**EN CONSTRUCTION**
 
 ## Bien démarrer
 
@@ -61,9 +59,8 @@ C'est un processus en deux grosses étapes :
 
 ### La parole vers le texte et le texte vers la parole (en fr)
 
-- [Modèle DeepSpeech en français](https://github.com/Common-Voice/commonvoice-fr/projects/3)
-- [Common Voice CorporaCreator](https://github.com/Common-Voice/commonvoice-fr/projects/2)
-- [Common Voice Sentence Collector](https://github.com/Common-Voice/commonvoice-fr/projects/1)
+- Common Voice Corpora Creator : [FR](https://github.com/Common-Voice/commonvoice-fr/voice-corpus-tool) [EN](https://github.com/mozilla/voice-corpus-tool)
+- Common Voice Sentence Collector : [FR](https://github.com/Common-Voice/commonvoice-fr/sentence-collector) [EN](https://github.com/Common-Voice/sentence-collector)
 
 ## Exemples
 

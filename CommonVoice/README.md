@@ -30,11 +30,11 @@
 
   - [Autres articles](#autres-articles)
 
-Vous trouverez dans ce document l'ensemble des instructions, documentations… pour le projet Common Voice.
+Vous trouverez dans ce document l'ensemble des instructions, documentations... pour le projet Common Voice.
 
 # Introduction
 
-Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux machines à parler comme tout un chacun. Il va permettre de collecter les données pour fournir du contenu aux algorithmes comme pour [DeepSpeech](https://github.com/Common-Voice/commonvoice-fr/DeepSpeech)
+Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux machines à parler comme tout un chacun. Il va permettre de collecter les données pour fournir du contenu aux algorithmes comme pour [DeepSpeech](https://github.com/Common-Voice/commonvoice-fr/wiki/DeepSpeech)
 
 # Canaux
 
