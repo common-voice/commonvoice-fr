@@ -22,7 +22,7 @@ pushd $HOME/ds/
 			--dev_batch_size ${BATCH_SIZE} \
 			--test_batch_size ${BATCH_SIZE} \
 			--n_hidden ${N_HIDDEN} \
-			--epoch ${EPOCH} \
+			--epochs ${EPOCHS} \
 			--learning_rate ${LEARNING_RATE} \
 			--dropout_rate ${DROPOUT} \
 			--lm_alpha ${LM_ALPHA} \
