@@ -7,7 +7,7 @@ ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
 ARG batch_size=68
 ARG n_hidden=2048
-ARG epoch=30
+ARG epochs=30
 ARG learning_rate=0.00025
 ARG dropout=0.15
 ARG lm_alpha=0.75
@@ -29,7 +29,7 @@ ENV DS_BRANCH=$ds_branch
 
 ENV BATCH_SIZE=$batch_size
 ENV N_HIDDEN=$n_hidden
-ENV EPOCH=$epoch
+ENV EPOCHS=$epochs
 ENV LEARNING_RATE=$learning_rate
 ENV DROPOUT=$dropout
 ENV LM_ALPHA=$lm_alpha
