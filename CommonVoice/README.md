@@ -39,7 +39,8 @@ Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux
 # Canaux
 
 - **Common Voice fr** sur Telegram pour la discussion et la coordination : [s’inscrire au groupe](https://t.me/joinchat/A7h94U7VCFrCnXrDMff2Vw)
-- [Discourse Mozilla](https://discourse.mozilla.org/c/voice)
+- [Discourse Mozilla Francophone](https://discourse.mozilla.org/c/voice/fr)
+- [Discourse Mozilla (anglais)](https://discourse.mozilla.org/c/voice)
 
 # Participer à Common Voice
 
