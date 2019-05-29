@@ -1,7 +1,7 @@
 FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=41c3ffbed2d9e6c8e00522353115f373b48573db
+ARG ds_branch=df5545299e748aa272d92a0bdfa2cb51fd198528
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
@@ -12,6 +12,7 @@ ARG learning_rate=0.00025
 ARG dropout=0.15
 ARG lm_alpha=0.75
 ARG lm_beta=1.85
+ARG early_stop=1
 
 # Make sure we can extract filenames with UTF-8 chars
 ENV LANG=C.UTF-8
@@ -34,6 +35,8 @@ ENV LEARNING_RATE=$learning_rate
 ENV DROPOUT=$dropout
 ENV LM_ALPHA=$lm_alpha
 ENV LM_BETA=$lm_beta
+
+ENV EARLY_STOP=$early_stop
 
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
@@ -80,6 +83,11 @@ WORKDIR $DS_DIR
 RUN cat requirements.txt | sed -e 's/^tensorflow/tensorflow-gpu/g' | pip install -r /dev/stdin
 
 RUN pip install `python util/taskcluster.py --decoder`
+
+RUN TASKCLUSTER_SCHEME="https://index.taskcluster.net/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s" python util/taskcluster.py \
+	--target="$(pwd)" \
+	--artifact="convert_graphdef_memmapped_format" \
+	--branch="r1.13" && chmod +x convert_graphdef_memmapped_format
 
 WORKDIR $HOMEDIR
 
