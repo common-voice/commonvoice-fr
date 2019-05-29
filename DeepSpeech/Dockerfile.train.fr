@@ -84,6 +84,11 @@ RUN cat requirements.txt | sed -e 's/^tensorflow/tensorflow-gpu/g' | pip install
 
 RUN pip install `python util/taskcluster.py --decoder`
 
+RUN TASKCLUSTER_SCHEME="https://index.taskcluster.net/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s" python util/taskcluster.py \
+	--target="$(pwd)" \
+	--artifact="convert_graphdef_memmapped_format" \
+	--branch="r1.13" && chmod +x convert_graphdef_memmapped_format
+
 WORKDIR $HOMEDIR
 
 RUN wget -O - https://bitbucket.org/eigen/eigen/get/3.2.8.tar.bz2 | tar xj

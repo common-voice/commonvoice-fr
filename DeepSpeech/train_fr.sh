@@ -56,12 +56,6 @@ pushd $HOME/ds/
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.pbmm" ]; then
-		export TASKCLUSTER_SCHEME="https://index.taskcluster.net/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s"
-		python util/taskcluster.py \
-			--target="$(pwd)" \
-			--artifact="convert_graphdef_memmapped_format" \
-			--branch="r1.13"
-		chmod +x convert_graphdef_memmapped_format
 		./convert_graphdef_memmapped_format --in_graph=/mnt/models/output_graph.pb --out_graph=/mnt/models/output_graph.pbmm
 	fi;
 popd
