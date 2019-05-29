@@ -12,6 +12,7 @@ ARG learning_rate=0.00025
 ARG dropout=0.15
 ARG lm_alpha=0.75
 ARG lm_beta=1.85
+ARG early_stop=1
 
 # Make sure we can extract filenames with UTF-8 chars
 ENV LANG=C.UTF-8
@@ -34,6 +35,8 @@ ENV LEARNING_RATE=$learning_rate
 ENV DROPOUT=$dropout
 ENV LM_ALPHA=$lm_alpha
 ENV LM_BETA=$lm_beta
+
+ENV EARLY_STOP=$early_stop
 
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
