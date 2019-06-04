@@ -9,6 +9,11 @@ pushd $HOME/ds/
 
 	mkdir -p /mnt/sources/feature_cache || true
 
+	if [ -f "/transfer-checkpoint/checkpoint" ]; then
+		echo "Using checkpoint from ${TRANSFER_CHECKPOINT}"
+		cp -a /transfer-checkpoint/* /mnt/checkpoints/
+	fi;
+
 	if [ ! -f "/mnt/models/output_graph.pb" ]; then
 		EARLY_STOP_FLAG="--early_stop"
 		if [ "${EARLY_STOP}" = "0" ]; then

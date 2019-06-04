@@ -14,11 +14,15 @@ pushd $HOME/ds/
 		exit 1
 	fi;
 
+	if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
+		IMPORT_AS_ENGLISH="--normalize"
+	fi;
+
 	if [ ! -f "/mnt/extracted/data/cv-fr/clips/train.csv" ]; then
 		mkdir -p /mnt/extracted/data/cv-fr/ || true
 
 		tar -C /mnt/extracted/data/cv-fr/ -xf /mnt/sources/fr.tar.gz
 
-		python bin/import_cv2.py /mnt/extracted/data/cv-fr/
+		python bin/import_cv2.py ${IMPORT_AS_ENGLISH} /mnt/extracted/data/cv-fr/
 	fi;
 popd
