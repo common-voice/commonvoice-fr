@@ -1,0 +1,107 @@
+FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
+
+ARG ds_repo=mozilla/DeepSpeech
+ARG ds_branch=df5545299e748aa272d92a0bdfa2cb51fd198528
+ARG kenlm_repo=kpu/kenlm
+ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
+
+ARG batch_size=68
+ARG n_hidden=2048
+ARG epochs=30
+ARG learning_rate=0.00025
+ARG dropout=0.15
+ARG lm_alpha=0.75
+ARG lm_beta=1.85
+ARG early_stop=1
+
+# Make sure we can extract filenames with UTF-8 chars
+ENV LANG=C.UTF-8
+
+# Avoid keyboard-configuration step
+ENV DEBIAN_FRONTEND noninteractive
+
+ENV HOMEDIR /home/trainer
+
+ENV VIRTUAL_ENV_NAME ds-train-fr
+ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
+ENV DS_DIR $HOMEDIR/ds
+
+ENV DS_BRANCH=$ds_branch
+
+ENV BATCH_SIZE=$batch_size
+ENV N_HIDDEN=$n_hidden
+ENV EPOCHS=$epochs
+ENV LEARNING_RATE=$learning_rate
+ENV DROPOUT=$dropout
+ENV LM_ALPHA=$lm_alpha
+ENV LM_BETA=$lm_beta
+
+ENV EARLY_STOP=$early_stop
+
+ENV PATH="$VIRTUAL_ENV/bin:$PATH"
+
+# Get basic packages
+RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
+    build-essential \
+    curl \
+    wget \
+    git \
+    python3 \
+    python3-pip \
+    ca-certificates \
+    cmake \
+    libboost-all-dev \
+    zlib1g-dev \
+    libbz2-dev \
+    liblzma-dev \
+    pkg-config \
+    g++ \
+    virtualenv \
+    unzip \
+    pixz \
+    sox \
+    libsox-fmt-all
+
+RUN groupadd -g 999 trainer && \
+    adduser --system --uid 999 --group trainer
+
+# Below that point, nothing requires being root
+USER trainer
+
+WORKDIR $HOMEDIR
+
+RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
+
+RUN git clone https://github.com/$ds_repo.git $DS_DIR
+
+WORKDIR $DS_DIR
+
+RUN git checkout $ds_branch
+
+WORKDIR $DS_DIR
+
+RUN cat requirements.txt | sed -e 's/^tensorflow/tensorflow-gpu/g' | pip install -r /dev/stdin
+
+RUN pip install `python util/taskcluster.py --decoder`
+
+RUN TASKCLUSTER_SCHEME="https://index.taskcluster.net/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s" python util/taskcluster.py \
+	--target="$(pwd)" \
+	--artifact="convert_graphdef_memmapped_format" \
+	--branch="r1.13" && chmod +x convert_graphdef_memmapped_format
+
+WORKDIR $HOMEDIR
+
+RUN wget -O - https://bitbucket.org/eigen/eigen/get/3.2.8.tar.bz2 | tar xj
+
+RUN git clone --depth 1 https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch \
+    && mkdir -p build \
+    && cd build \
+    && EIGEN3_ROOT=$HOMEDIR/eigen-eigen-07105f7124f9 cmake .. \
+    && make -j
+
+ENV PATH="$HOMEDIR/kenlm/build/bin/:$PATH"
+
+# Copy now so that docker build can leverage caches
+COPY --chown=trainer:trainer *.sh $HOMEDIR/
+
+ENTRYPOINT "$HOMEDIR/run.sh"

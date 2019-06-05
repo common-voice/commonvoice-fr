@@ -35,7 +35,8 @@ Le projet DeepSpeech est un autre projet de la fondation Mozilla, pour transform
 # Canaux
 
 - **DeepSpeech** utilise le canal **Common Voice fr** pour la discussion/coordination : [s'inscrire au groupe](https://t.me/joinchat/A7h94U7VCFrCnXrDMff2Vw)
-- [Discourse Mozilla](https://discourse.mozilla.org/c/voice)
+- [Discourse Mozilla Francophone](https://discourse.mozilla.org/c/voice/fr)
+- [Discourse Mozilla (anglais)](https://discourse.mozilla.org/c/voice)
 
 # Participer à DeepSpeech _pour tous_
 
