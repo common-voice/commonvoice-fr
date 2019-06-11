@@ -4,6 +4,8 @@ set -xe
 
 export PATH=$(dirname "$0"):$PATH
 
+env
+
 checks.sh
 
 export TMP=/mnt/tmp

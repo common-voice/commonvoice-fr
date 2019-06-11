@@ -2,6 +2,7 @@ FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG ds_repo=mozilla/DeepSpeech
 ARG ds_branch=df5545299e748aa272d92a0bdfa2cb51fd198528
+ARG ds_sha1=df5545299e748aa272d92a0bdfa2cb51fd198528
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
@@ -13,6 +14,8 @@ ARG dropout=0.15
 ARG lm_alpha=0.75
 ARG lm_beta=1.85
 ARG early_stop=1
+
+ARG english_compatible=0
 
 # Make sure we can extract filenames with UTF-8 chars
 ENV LANG=C.UTF-8
@@ -27,6 +30,7 @@ ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
 ENV DS_DIR $HOMEDIR/ds
 
 ENV DS_BRANCH=$ds_branch
+ENV DS_SHA1=$ds_sha1
 
 ENV BATCH_SIZE=$batch_size
 ENV N_HIDDEN=$n_hidden
@@ -36,9 +40,13 @@ ENV DROPOUT=$dropout
 ENV LM_ALPHA=$lm_alpha
 ENV LM_BETA=$lm_beta
 
+ENV ENGLISH_COMPATIBLE=$english_compatible
+
 ENV EARLY_STOP=$early_stop
 
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
+
+RUN env
 
 # Get basic packages
 RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
@@ -60,7 +68,8 @@ RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
     unzip \
     pixz \
     sox \
-    libsox-fmt-all
+    libsox-fmt-all \
+    locales locales-all
 
 RUN groupadd -g 999 trainer && \
     adduser --system --uid 999 --group trainer
@@ -103,5 +112,7 @@ ENV PATH="$HOMEDIR/kenlm/build/bin/:$PATH"
 
 # Copy now so that docker build can leverage caches
 COPY --chown=trainer:trainer *.sh $HOMEDIR/
+
+COPY --chown=trainer:trainer lingua_libre_skiplist.txt $HOMEDIR/
 
 ENTRYPOINT "$HOMEDIR/run.sh"
