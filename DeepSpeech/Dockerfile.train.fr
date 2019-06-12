@@ -69,7 +69,8 @@ RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
     pixz \
     sox \
     libsox-fmt-all \
-    locales locales-all
+    locales locales-all \
+    zip
 
 RUN groupadd -g 999 trainer && \
     adduser --system --uid 999 --group trainer
