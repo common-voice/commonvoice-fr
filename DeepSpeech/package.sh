@@ -3,28 +3,32 @@
 set -xe
 
 pushd /mnt
-	zip -r9 --junk-paths             \
-		model_tensorflow_fr.zip  \
-		models/output_graph.pbmm \
-		models/alphabet.txt      \
-		lm/lm.binary             \
-		lm/trie
 
-	zip -r9 --junk-paths               \
-		model_tflite_fr.zip        \
-		models/output_graph.tflite \
-		models/alphabet.txt        \
-		lm/lm.binary               \
-		lm/trie
+	if [ ! -f "model_tensorflow_fr.tar.xz" ]; then
+		tar -cf - \
+			-C /mnt/models/ output_graph.pbmm alphabet.txt \
+			-C /mnt/lm/ lm.binary trie | xz -T0 > model_tensorflow_fr.tar.xz
+	fi;
+
+	if [ ! -f "model_tflite_fr.tar.xz" ]; then
+		tar -cf - \
+			-C /mnt/models/ output_graph.tflite alphabet.txt \
+			-C /mnt/lm/ lm.binary trie | xz -T0 > model_tflite_fr.tar.xz
+	fi;
 	
-	all_checkpoint_path=""
-	for ckpt in $(grep 'all_model_checkpoint_paths' checkpoints/checkpoint | cut -d'"' -f2);
-	do
-		all_checkpoint_path="${all_checkpoint_path} ${ckpt}.*"
-	done;
-
-	zip -r9 --junk-paths           \
-		checkpoint_fr.zip      \
-		checkpoints/checkpoint \
-		${all_checkpoint_path}
+	if [ ! -f "checkpoint_fr.tar.xz" ]; then
+		all_checkpoint_path=""
+		for ckpt in $(grep '^model_checkpoint_path:' checkpoints/checkpoint | cut -d'"' -f2);
+		do
+			ckpt_file=$(basename "${ckpt}")
+			for f in $(find checkpoints/ -type f -name "${ckpt_file}.*");
+			do
+				ckpt_to_add=$(basename "${f}")
+				all_checkpoint_path="${all_checkpoint_path} ${ckpt_to_add}"
+			done;
+		done;
+	
+		tar -cf - \
+			-C /mnt/checkpoints/ checkpoint ${all_checkpoint_path} | xz -T0 > "checkpoint_fr.tar.xz"
+	fi;
 popd
