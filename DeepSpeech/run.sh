@@ -22,3 +22,5 @@ generate_alphabet.sh
 build_lm.sh
 
 train_fr.sh
+
+package.sh

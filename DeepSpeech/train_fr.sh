@@ -9,7 +9,9 @@ pushd $HOME/ds/
 
 	mkdir -p /mnt/sources/feature_cache || true
 
-	if [ -f "/transfer-checkpoint/checkpoint" ]; then
+        # Do not overwrite checkpoint file if model already exist: we will likely
+	# only package
+	if [ -f "/transfer-checkpoint/checkpoint" -a ! -f "/mnt/models/output_graph.pb" ]; then
 		echo "Using checkpoint from ${TRANSFER_CHECKPOINT}"
 		cp -a /transfer-checkpoint/* /mnt/checkpoints/
 	fi;
