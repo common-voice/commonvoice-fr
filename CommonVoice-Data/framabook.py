@@ -1,6 +1,7 @@
 import os
 import re
 import argparse
+import unicodedata
 
 import ebooklib
 from ebooklib import epub
@@ -152,6 +153,16 @@ def parse_epub(filename: str, abbr: bool, code: bool):
         print('Abbreviation counts:\n{0}'.format(counter_abbrs.items()))
     return book_plaintext
 
+def clean_sentence(string: str):
+    """
+    Clean one sentence
+    """
+    # normalize
+    string = unicodedata.normalize("NFKD", string)
+    string = string.lstrip(' -—»|') # didascalies and others
+    string = string.replace('\n', ' ')
+    return string
+
 def list_files(inputdir: str):
     """
     List epub files from inputdir
@@ -195,7 +206,9 @@ def main(
         else:
             # extract sentences using utils module
             sentences = extract_sentences([text],
-                min_words=minwords, max_words=maxwords, nlp=None)
+                min_words=minwords, max_words=maxwords, nlp=nlp)
+            # clean and filter sentences
+            sentences = [clean_sentence(x) for x in sentences]
             string_final = '\n'.join(list(sentences))
         if not dry:
             save_text(string_final, filename, inputdir, outputdir)
