@@ -52,7 +52,7 @@ def clean_html(soup):
     remove_subtree(soup.find_all('code'))
     return soup
 
-def clean_epub_item(item, abbr, code):
+def clean_epub_item(item, abbr: bool, code: bool):
     """
     Parse and clean an epub item
     """
@@ -61,15 +61,16 @@ def clean_epub_item(item, abbr, code):
     # abbr
     abbrs = [x.text for x in soup.find_all('abbr')]
     # print text from code tags
-    for item in soup.find_all('code'):
-        print('<code>: {0}'.format(item.text))
+    if code:
+        for item in soup.find_all('code'):
+            print('<code>: {0}'.format(item.text))
     # clean html
     soup_cleaned = clean_html(soup)
     # remove_markup
     plaintext = ''.join(soup_cleaned.find_all(text=True))
     return plaintext, abbrs
 
-def parse_epub(filename, abbr, code):
+def parse_epub(filename: str, abbr: bool, code: bool):
     """
     Parse an epub file
     """
@@ -92,7 +93,7 @@ def parse_epub(filename, abbr, code):
         print('Abbreviation counts:\n{0}'.format(counter_abbrs.items()))
     return book_plaintext
 
-def list_files(inputdir):
+def list_files(inputdir: str):
     """
     List epub files from inputdir
     """
@@ -100,7 +101,7 @@ def list_files(inputdir):
     filenames = [os.path.join(inputdir, f) for f in filenames if f.endswith(".epub")]
     return filenames
 
-def save_text(string, filename, inputdir, outputdir):
+def save_text(string: str, filename: str, inputdir: str, outputdir: str):
     """
     Save string as a txt file
     """
@@ -109,7 +110,15 @@ def save_text(string, filename, inputdir, outputdir):
     with open(filename, 'w') as f:
         f.write(string)
 
-def main(one, dry, abbr, code, minwords, maxwords, inputdir, outputdir):
+def main(
+        inputdir: str,
+        outputdir: str,
+        minwords: int = 3,
+        maxwords: int = 15,
+        one: bool = False,
+        dry: bool = False,
+        abbr: bool = False,
+        code: bool = False):
     filenames = list_files(inputdir)
     if one:
         filenames = filenames[0:1]
@@ -123,13 +132,14 @@ def parse_arguments():
     Parse command line arguments
     """
     parser = argparse.ArgumentParser(description='Framabook text content extraction for Common Voice')
+
+    parser.add_argument('--minwords', type=int, default=3, help='Minimum number of words to accept a sentence')
+    parser.add_argument('--maxwords', type=int, default=15, help='Maximum number of words to accept a sentence')
+
     parser.add_argument('--one', action='store_true', default=False, help='Stop after the first file written.')
     parser.add_argument('--dry', action='store_true', default=False, help='Dry run, do not write any data file.')
     parser.add_argument('--abbr', action='store_true', default=False, help='Print abbreviations extracted from abbr tags.')
     parser.add_argument('--code', action='store_true', default=False, help='Print deleted text from code tags.')
-
-    parser.add_argument('--minwords', type=int, default=3, help='Minimum number of words to accept a sentence')
-    parser.add_argument('--maxwords', type=int, default=15, help='Maximum number of words to accept a sentence')
 
     parser.add_argument('inputdir', type=str, help='Input directory')
     parser.add_argument('outputdir', type=str, help='Output directory')
