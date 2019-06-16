@@ -79,6 +79,11 @@ def clean_html(soup):
     # remove footnotes
     remove_subtree(soup.find_all(attrs={"epub:type": "footnote"}))
     remove_subtree(soup.find_all(attrs={"epub:type": "noteref"}))
+    # remove bibliography
+    remove_subtree(soup.find_all(attrs={"epub:type": "biblioentry"}))
+    for item in soup.find_all('li'): # empty list items
+        if re.match(r'^[ \;\-\.]+$', item.get_text()):
+            item.extract()
     # remove special formating from Pouhiou's novels
     remove_subtree(soup.find_all('code'))
     # replace abbreviations
