@@ -6,9 +6,10 @@ import ebooklib
 from ebooklib import epub
 
 from bs4 import BeautifulSoup
+import spacy
 
 from collections import Counter
-from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sentences, check_output_dir
+from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sentences, check_output_dir, set_custom_boundaries
 
 
 # keep only some epub items whose names match the regex
@@ -178,6 +179,12 @@ def main(
         abbr: bool = False,
         code: bool = False,
         plaintext: bool = False):
+    try:
+        nlp = spacy.load('fr_core_news_sm')
+        nlp.add_pipe(set_custom_boundaries, before='parser')
+    except OSError:
+        raise OSError('French model not installed. Please run:\n'\
+                      'python -m spacy download fr_core_news_sm')
     filenames = list_files(inputdir)
     if one:
         filenames = filenames[0:1]
