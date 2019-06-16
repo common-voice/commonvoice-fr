@@ -119,19 +119,19 @@ def main(
         dry: bool = False,
         abbr: bool = False,
         code: bool = False,
-        sentences: bool = True):
+        plaintext: bool = False):
     filenames = list_files(inputdir)
     if one:
         filenames = filenames[0:1]
     for filename in filenames:
-        plaintext = parse_epub(filename, abbr, code)
-        if sentences:
+        text = parse_epub(filename, abbr, code)
+        if plaintext:
+            string_final = text
+        else:
             # extract sentences using utils module
-            sentences = extract_sentences([plaintext],
+            sentences = extract_sentences([text],
                 min_words=minwords, max_words=maxwords, nlp=None)
             string_final = '\n'.join(list(sentences))
-        else:
-            string_final = plaintext
         if not dry:
             save_text(string_final, filename, inputdir, outputdir)
 
@@ -149,7 +149,7 @@ def parse_arguments():
     parser.add_argument('--abbr', action='store_true', default=False, help='Print abbreviations extracted from abbr tags.')
     parser.add_argument('--code', action='store_true', default=False, help='Print deleted text from code tags.')
 
-    parser.add_argument('--sentences', action='store_true', default=True, help='Extract sentences. If False, write plain text.')
+    parser.add_argument('--plaintext', action='store_true', default=False, help='Extract plain text. If False, write extracted sentences.')
 
     parser.add_argument('inputdir', type=str, help='Input directory')
     parser.add_argument('outputdir', type=str, help='Output directory')
