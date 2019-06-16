@@ -6,7 +6,6 @@ import ebooklib
 from ebooklib import epub
 
 from bs4 import BeautifulSoup
-from random import shuffle
 
 from collections import Counter
 from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sentences, check_output_dir
@@ -16,10 +15,42 @@ from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sente
 REGEX_CHAPITRE = r'.*ch(apitre)?\-?[0-9]+\.xhtml$'
 
 ABBRS_MAPPING = {
+    'ADN': 'Acide désoxyribonucléique',
+    'BD': 'Bande dessinée',
+    'CD': 'Compact Disc',
+    'CRS': 'Compagnies républicaines de sécurité',
+    'C.V.': 'Curriculum vitæ',
     'DTC': 'Dans Ton Cul',
+    'DRM': 'Gestion des droits numériques',
+    'EDF': 'Electricité de France',
+    'FAI': 'Fournisseur d\'accès internet',
+    'FMI': 'Fonds monétaire international',
+    'HD': 'Haute définition',
+    'HLM': 'Habitation à loyer modéré',
     'IRL': 'In Real Life',
+    'IVG': 'Interruption volontaire de grossesse',
+    'GIGN': 'Groupe d\'intervention de la Gendarmerie nationale',
+    'LGBT': 'Lesbiennes, gays, bisexuels et transgenres',
+    'ONG': 'Organisation non gouvernementale',
+    'ORTF': 'Office de radiodiffusion-télévision française',
+    'QG': 'Quartier général',
     'NdP': 'Note de Pouhiou',
-    # TODO
+    'PIB': 'Produit intérieur brut',
+    'PMU': 'Pari mutuel urbain',
+    'PS': 'Parti Socialiste',
+    'PQ': 'Papier toilette',
+    'RER': 'Réseau express régional',
+    'THC': 'Tétrahydrocannabinol',
+    'SAV': 'Service après-vente',
+    'SDF': 'Sans domicile fixe',
+    'SNCF': 'Société nationale des chemins de fer français',
+    'USA': 'États-Unis d\'Amérique',
+    'TER': 'Train express régionale',
+    'TGV': 'Train grande vitesse',
+    'VF': 'Version française',
+    'VMC': 'Ventilation mécanique contrôlée',
+    'V.O.I.P.': 'Voix sur IP',
+    'WC': 'Toilettes',
 }
 
 
@@ -50,6 +81,11 @@ def clean_html(soup):
     remove_subtree(soup.find_all(attrs={"epub:type": "noteref"}))
     # remove special formating from Pouhiou's novels
     remove_subtree(soup.find_all('code'))
+    # replace abbreviations
+    for k,v in ABBRS_MAPPING.items():
+        abbrs_items = soup.find_all('abbr', string=k)
+        for item in abbrs_items:
+            item.string = v
     return soup
 
 def clean_epub_item(item, abbr: bool, code: bool):
