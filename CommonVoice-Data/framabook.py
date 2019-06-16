@@ -104,6 +104,8 @@ def clean_epub_item(item, abbr: bool, code: bool):
     soup_cleaned = clean_html(soup)
     # remove_markup
     plaintext = ''.join(soup_cleaned.find_all(text=True))
+    # remove hashtags from Pouhiou's novels
+    plaintext = plaintext.replace('#', '')
     return plaintext, abbrs
 
 def parse_epub(filename: str, abbr: bool, code: bool):
