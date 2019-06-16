@@ -35,7 +35,6 @@ ABBRS_MAPPING = {
     'ONG': 'Organisation non gouvernementale',
     'ORTF': 'Office de radiodiffusion-télévision française',
     'QG': 'Quartier général',
-    'NdP': 'Note de Pouhiou',
     'PIB': 'Produit intérieur brut',
     'PMU': 'Pari mutuel urbain',
     'PS': 'Parti Socialiste',
@@ -57,6 +56,8 @@ ABBRS_MAPPING = {
 # mapping in all the text
 MAPPING_WORDS = {
     '#': '', # remove hashtags from Pouhiou's novels
+    'NdP': '', # remove "note de pouhiou"
+    '()': '',
     'NdT': 'Note du traducteur',
     'NDT': 'Note du traducteur',
 }
