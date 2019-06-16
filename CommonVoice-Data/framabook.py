@@ -14,6 +14,7 @@ from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sente
 # keep only some epub items whose names match the regex
 REGEX_CHAPITRE = r'.*ch(apitre)?\-?[0-9]+\.xhtml$'
 
+# mapping for abbr tags
 ABBRS_MAPPING = {
     'ADN': 'Acide désoxyribonucléique',
     'BD': 'Bande dessinée',
@@ -51,6 +52,13 @@ ABBRS_MAPPING = {
     'VMC': 'Ventilation mécanique contrôlée',
     'V.O.I.P.': 'Voix sur IP',
     'WC': 'Toilettes',
+}
+
+# mapping in all the text
+MAPPING_WORDS = {
+    '#': '', # remove hashtags from Pouhiou's novels
+    'NdT': 'Note du traducteur',
+    'NDT': 'Note du traducteur',
 }
 
 
@@ -109,8 +117,9 @@ def clean_epub_item(item, abbr: bool, code: bool):
     soup_cleaned = clean_html(soup)
     # remove_markup
     plaintext = ''.join(soup_cleaned.find_all(text=True))
-    # remove hashtags from Pouhiou's novels
-    plaintext = plaintext.replace('#', '')
+    # mapping words
+    for k,v in MAPPING_WORDS.items():
+        plaintext = plaintext.replace(k, v)
     return plaintext, abbrs
 
 def parse_epub(filename: str, abbr: bool, code: bool):
