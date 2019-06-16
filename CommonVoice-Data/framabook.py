@@ -128,10 +128,15 @@ def parse_epub(filename: str, abbr: bool, code: bool):
             print('...Ignoring {0}'.format(name))
             continue
         print('...Parsing {0}'.format(name))
+        # parse and clean chapter
         plaintext, abbrs = clean_epub_item(item, abbr, code)
         list_plaintexts.append(plaintext)
         counter_abbrs += Counter(abbrs)
     book_plaintext = '\n\n\n'.join(list_plaintexts)
+    # replace numbers
+    book_plaintext = filter_numbers(book_plaintext)
+    # normalize
+    book_plaintext = maybe_normalize(book_plaintext)
     if abbr:
         print('Abbreviation counts:\n{0}'.format(counter_abbrs.items()))
     return book_plaintext
