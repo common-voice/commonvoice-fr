@@ -3,6 +3,7 @@ bs4==0.0.1
 certifi==2018.4.16
 chardet==3.0.4
 decorator==4.3.0
+EbookLib==0.17.1
 future==0.16.0
 Gutenberg==0.6.1
 idna==2.6

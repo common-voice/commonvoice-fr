@@ -119,6 +119,12 @@ On essaie de construire un premier ensemble de départ – ~10k phrases de sourc
   - HTML, texte brut (UTF-8)
   - Parser en cours <https://github.com/Common-Voice/commonvoice-fr>
 
+- <https://framabook.org/>
+
+  - Différentes licences, dont certains livres en CC0
+  - epub, LaTeX, PDF
+  - Parser en cours <https://github.com/Common-Voice/commonvoice-fr>
+
 - <http://www.inlibroveritas.net/>
 
   - [Licence Art Libre – LAL 1.3](http://artlibre.org/licence/lal)
