@@ -60,9 +60,17 @@ MAPPING_WORDS = {
     '#': '', # remove hashtags from Pouhiou's novels
     'NdP': '', # remove "note de pouhiou"
     '()': '',
+    '. .': '.', # rest from hashtags deletion
     'NdT': 'Note du traducteur',
     'NDT': 'Note du traducteur',
 }
+
+# remove tags with class="hashtag" for the following epub titles
+TITLES_REMOVE_HASHTAGS = [
+    '#Smartarded',
+    '#MonOrchide. Le Cycle des NoéNautes, II',
+    # Apolog ok
+]
 
 
 def remove_subtree(selector):
@@ -72,7 +80,7 @@ def remove_subtree(selector):
     if selector:
         [x.extract() for x in selector]
 
-def clean_html(soup):
+def clean_html(soup, remove_hashtags = False):
     """
     Clean an HTML BeautifulSoup tree
     """
@@ -97,6 +105,8 @@ def clean_html(soup):
             item.extract()
     # remove special formating from Pouhiou's novels
     remove_subtree(soup.find_all('code'))
+    if remove_hashtags:
+        remove_subtree(soup.find_all(attrs={"class": "hashtag"}))
     # replace abbreviations
     for k,v in ABBRS_MAPPING.items():
         abbrs_items = soup.find_all('abbr', string=k)
@@ -104,7 +114,7 @@ def clean_html(soup):
             item.string = v
     return soup
 
-def clean_epub_item(item, abbr: bool, code: bool):
+def clean_epub_item(item, abbr: bool, code: bool, remove_hashtags:bool = False):
     """
     Parse and clean an epub item
     """
@@ -117,7 +127,7 @@ def clean_epub_item(item, abbr: bool, code: bool):
         for item in soup.find_all('code'):
             print('<code>: {0}'.format(item.text))
     # clean html
-    soup_cleaned = clean_html(soup)
+    soup_cleaned = clean_html(soup, remove_hashtags)
     # remove_markup
     plaintext = ''.join(soup_cleaned.find_all(text=True))
     # mapping words
@@ -131,6 +141,7 @@ def parse_epub(filename: str, abbr: bool, code: bool):
     """
     book = epub.read_epub(filename)
     title = book.get_metadata('DC', 'title')[0][0]
+    remove_hashtags = title in TITLES_REMOVE_HASHTAGS # indicate to remove hashtags
     print('\nParsing book "{0}"'.format(title))
     list_plaintexts = []
     counter_abbrs = Counter()
@@ -141,7 +152,7 @@ def parse_epub(filename: str, abbr: bool, code: bool):
             continue
         print('...Parsing {0}'.format(name))
         # parse and clean chapter
-        plaintext, abbrs = clean_epub_item(item, abbr, code)
+        plaintext, abbrs = clean_epub_item(item, abbr, code, remove_hashtags)
         list_plaintexts.append(plaintext)
         counter_abbrs += Counter(abbrs)
     book_plaintext = '\n\n\n'.join(list_plaintexts)
