@@ -9,7 +9,7 @@ pushd $HOME/ds/
 
 	sha1=$(sha1sum --binary /mnt/sources/fr.tar.gz | awk '{ print $1 }')
 
-	if [ "${sha1}" != "30dbf694ddc3951829c894b91328f4cf10179dcf" ]; then
+	if [ "${sha1}" != "2515b82b529a78c9febd5957d88dfa189ddb67e1" ]; then
 		echo "Invalid Common Voice FR dataset"
 		exit 1
 	fi;
