@@ -77,9 +77,17 @@ C’est un processus en deux grosses étapes :
 
 ### Étape en cours
 
-On essaie de construire un premier ensemble de départ – ~10k phrases de sources variées – pour lancer une langue. Ensuite prend place le processus **manuel** de validation des envois pour vérifier un minimum de qualité. Pour faire partie de cette équipe de validateurs, prenez langue sur <https://discourse.mozilla.org/c/voice>.
+Le corpus de texte est suffisant pour collecter de la données vocale. De nouvelles sources de texte sont toujours bienvenues, cependant. Pour en discuter <https://discourse.mozilla.org/c/voice/fr>.
 
 ### Construction du corpus de texte
+
+#### Méthode
+
+Pour construire initialement et continuer à améliorer le corpus de texte, le processus est :
+ - Identification d'un jeu de données intéressant (licence, volume)
+ - Écriture d'un outil d'importation avec les paramètres adéquats (filtrage, etc.)
+ - Transformation de la source complète en texte brut UTF-8 importé dans `CommonVoice-data/`
+ - Envoi sur Sentence Collector pour validation et inclusion : https://common-voice.github.io/sentence-collector/
 
 #### Contraintes
 
@@ -117,6 +125,12 @@ On essaie de construire un premier ensemble de départ – ~10k phrases de sourc
 
   - Licence domaine public
   - HTML, texte brut (UTF-8)
+  - Parser en cours <https://github.com/Common-Voice/commonvoice-fr>
+
+- <https://framabook.org/>
+
+  - Différentes licences, dont certains livres en CC0
+  - epub, LaTeX, PDF
   - Parser en cours <https://github.com/Common-Voice/commonvoice-fr>
 
 - <http://www.inlibroveritas.net/>

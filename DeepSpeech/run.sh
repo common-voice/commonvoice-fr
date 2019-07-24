@@ -4,6 +4,8 @@ set -xe
 
 export PATH=$(dirname "$0"):$PATH
 
+env
+
 checks.sh
 
 export TMP=/mnt/tmp
@@ -20,3 +22,5 @@ generate_alphabet.sh
 build_lm.sh
 
 train_fr.sh
+
+package.sh
