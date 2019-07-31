@@ -260,11 +260,11 @@ def recursive_text(root, finaltext=""):
 
 def extract_sentences(arr, min_words, max_words, nlp=None):
   full_text = ' '.join(arr)
-  if nlp == None: #if no nlp object were passed, we use basic sentence splitting      
+  if nlp == None: #if no nlp object were passed, we use basic sentence splitting
     raw_sentences = (full_text).split('. ')
-  else: 
+  else:
       #if we pass a nlp object, we use the Spacy library. See example in libretheatre.py
-    doc = nlp(full_text, disable=["ner", "parser"])  
+    doc = nlp(full_text, disable=["ner", "parser"])
     #Retrieve a list of common nouns, pronouns, and expressions in the doc. We'll use them to spot stage directions
     most_common_expressions = common_nouns(doc) + common_collocations(full_text)
     #Retrieve a sentence list, removing stage directions (see maybe_clean_stage_directions function )
@@ -289,13 +289,13 @@ def common_collocations(text, occurences=20):
     results = finder.nbest(m.student_t, occurences)
     final_results += [" ".join(gram) for gram in results]
   return final_results
-  
+
 def common_nouns(doc):
-       
+
   nouns = [token.text for token in doc if token.is_stop != True and token.is_punct != True and token.pos_ in ["NOUN", "PROPN"]]
   word_freq = Counter(nouns)
-  word_list = [word for word, occ in word_freq.most_common(15) if occ > 2] 
-  return word_list 
+  word_list = [word for word, occ in word_freq.most_common(15) if occ > 2]
+  return word_list
 
 def maybe_clean_stage_directions(sentence, most_common_expressions):
   """ Fonction destinée à supprimer les didascalies du texte
@@ -306,53 +306,53 @@ def maybe_clean_stage_directions(sentence, most_common_expressions):
     sentence = sentence[1:]
     if sentence.text == "":
         break
-    
+
   #Don't keep sentences longer than 4 words
-  if len([word for word in sentence if word.is_punct == False and word.is_space == False]) < 4: 
-    return None  
-  
+  if len([word for word in sentence if word.is_punct == False and word.is_space == False]) < 4:
+    return None
+
   #All-caps word followed by a punctuation mark: certainly a stage direction (Example : "ALFRED, déconcerté")
-  if sentence[0].is_upper and sentence[1].is_punct: 
+  if sentence[0].is_upper and sentence[1].is_punct:
     return None
   #Frequent word starting the sentence, and followed by a punctuation mark -> stage direction
-  elif sentence[0].text in most_common_expressions and sentence[1].is_punct: 
+  elif sentence[0].text in most_common_expressions and sentence[1].is_punct:
     return None
   #Frequent collocation starting the sentence, and followed by a punctuation mark -> stage direction. Example: "Le marquis, hésitant".
-  elif sentence[0:2].text in most_common_expressions and sentence[3].is_punct: 
+  elif sentence[0:2].text in most_common_expressions and sentence[3].is_punct:
     return None
   #Two all-caps word starting the sentence
-  elif sentence[0].is_upper and sentence[1].is_upper: 
+  elif sentence[0].is_upper and sentence[1].is_upper:
     #followed by a punctuation mark: stage direction. Example : "LA COMTESSE, troublée".
-    if sentence[2].is_punct: 
-      return None    
-    #followed by a capitalized word: probably a character's name followed by her line. 
-    elif sentence[2].text[0].isupper() and sentence[2].is_upper == False: 
+    if sentence[2].is_punct:
+      return None
+    #followed by a capitalized word: probably a character's name followed by her line.
+    elif sentence[2].text[0].isupper() and sentence[2].is_upper == False:
       #let's remove the character's name
-      return sentence[2:].text  
+      return sentence[2:].text
   #All-caps word starting a sentence, followed by a capitalized word, not followed by a punctuation mark: probably a character's name followed by her line
   elif sentence[0].is_upper and sentence[1].text[0].isupper() and sentence[1].is_punct == False:
     return sentence[1:].text #Removing the character's name at the sentence's start
   #Like above, except we check the 3 first words instead
-  elif sentence[0].is_upper and sentence[1].is_upper and sentence[1].text[0].isupper() and sentence[1].is_punct == False: 
-    return sentence[2:].text  
+  elif sentence[0].is_upper and sentence[1].is_upper and sentence[1].text[0].isupper() and sentence[1].is_punct == False:
+    return sentence[2:].text
   #If it's an all-caps sentence, then it's certainly a stage direction. Example: "IN THE WORKSHOP"
-  elif sentence.text.isupper(): 
+  elif sentence.text.isupper():
     return None
   #If it's a sentence among the most common expressions in the text, it's certainly a stage direction
-  elif sentence.text in most_common_expressions: 
+  elif sentence.text in most_common_expressions:
     return None
   else:
     return sentence.text
 
 def set_custom_boundaries(doc):
   for token in doc[:-1]:
-    next_token = doc[token.i+1]  
+    next_token = doc[token.i+1]
     if token.text in [";", ","] or next_token.text[0].islower():
       doc[token.i+1].is_sent_start = False
     elif doc[token.i+1].is_punct and doc[token.i+1].text not in ["-"]:
-      doc[token.i+1].is_sent_start = False  
-    elif token.text in ['.', '!', '?', "...", "…"]: 
-      doc[token.i+1].is_sent_start = True    
+      doc[token.i+1].is_sent_start = False
+    elif token.text in ['.', '!', '?', "...", "…"]:
+      doc[token.i+1].is_sent_start = True
   return doc
 
 

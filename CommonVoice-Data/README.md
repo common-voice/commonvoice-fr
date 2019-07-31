@@ -119,6 +119,8 @@ Lors du lancement d'un terminal, vous activez l'environnement :
 
 ## EPUB
 
+Documentation [EPUB](https://buildmedia.readthedocs.org/media/pdf/ebooklib/latest/ebooklib.pdf)
+
 - [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil)
 
   - Licence : [Licence Ouverte](https://fr.wikisource.org/wiki/Licence_Ouverte)
