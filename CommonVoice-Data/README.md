@@ -26,7 +26,7 @@
 
 # Introduction
 
-Scripts pour extraire des contenus [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr "Creative Commons – CC0 1.0 universel") à destination du projet [Sentence-collector](https://common-voice.github.io/sentence-collector/) venant de différentes sources.
+Scripts permettant d'extraire des contenus [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr "Creative Commons – CC0 1.0 universel") à destination du projet [Sentence-collector](https://common-voice.github.io/sentence-collector/) sous différents formats.
 
 Les phrases obtenues sont composés entre 5 à 10 mots et pourront être ajouter à <https://common-voice.github.io/sentence-collector/#/add>
 
