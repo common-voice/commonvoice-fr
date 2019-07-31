@@ -30,6 +30,8 @@
 
   - [Autres articles](#autres-articles)
 
+  - [Conférences](#conférences)
+
 Vous trouverez dans ce document l’ensemble des instructions, documentations… pour le projet Common Voice.
 
 # Introduction
@@ -170,3 +172,9 @@ Pour construire initialement et continuer à améliorer le corpus de texte, le p
 
 - [La guerre des assistants vocaux commence aujourd’hui en France](https://www.forbes.fr/technologie/la-guerre-des-assistants-vocaux-commence-aujourdhui-en-france/) : Audrey Chabal, le 12 juin 2018, avec propos de Sylvestre Ledru de Mozilla
 - [Projet Common Voice : pour que la voix soit libre](https://framablog.org/2018/12/19/projet-common-voice-pour-que-la-voix-soit-libre/) – Framasoft sur le Framablog du 19 déc. 2018
+- [Faire de la reconnaissance vocale un bien commun](https://www.humanite.fr/faire-de-la-reconnaissance-vocale-un-bien-commun-675371/) – L'Humanité du 31 Juil. 2019
+
+## Conférences
+
+- [Common Voice](https://www.slideshare.net/hellosct1/common-voice) – L'Humanité du 9 juin 2019
+- [Voix et machines](https://www.slideshare.net/hellosct1/voix-et-machines) – L'Humanité du 7 Juil. 2019
