@@ -8,16 +8,17 @@
 
   - [requirements](#requirements)
   - [Installation](#installation)
-  - [Mise à jour](#mise-à-jour)
   - [Execution](#execution)
 
 - [Ressource](#ressource)
 
-  - [Addresses](#addresses)
-  - [Names](#names)
+  - [CSV](#csv)
+  - [TXT](#txt)
   - [XML](#xml)
+  - [JSON](#json)
   - [EPUB](#epub)
-  - [TODO](#todo)
+
+- [TODO](#todo)
 
 - [Testing](#testing)
 
@@ -25,9 +26,9 @@
 
 # Introduction
 
-Scripts pour extraire des contenus [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr "Creative Commons – CC0 1.0 universel") à destination du projet [Sentence-collector](https://common-voice.github.io/sentence-collector/) de différentes sources.
+Scripts pour extraire des contenus [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr "Creative Commons – CC0 1.0 universel") à destination du projet [Sentence-collector](https://common-voice.github.io/sentence-collector/) venant de différentes sources.
 
-Les phrases obtenues sont composés entre 5 à 10 mots
+Les phrases obtenues sont composés entre 5 à 10 mots et pourront être ajouter à <https://common-voice.github.io/sentence-collector/#/add>
 
 
 # Environnement
@@ -59,7 +60,6 @@ Installation d'un nouvel environnement dans le dossier DATA
 `$ pip install -r requirements.txt`
 
 
-## Mise à jour
 
 ## Execution
 
@@ -72,38 +72,60 @@ Lors du lancement d'un terminal, vous activez l'environnement :
 
 # Ressource
 
-## Addresses
+## CSV
 
-Address data are extracted from [source: BANO](https://www.data.gouv.fr/fr/datasets/base-d-adresses-nationale-ouverte-bano/)
+- [BANO](https://www.data.gouv.fr/fr/datasets/base-d-adresses-nationale-ouverte-bano/)
 
-Licence: ODbL
+  - Address data are extracted from
+  - Licence: ODbL
+  - Usage: `$ python bano.py data/addresses`
+  - see `$ python bano.py --help` for more info/options
 
-Usage: `$ python bano.py data/addresses`
+## TXT
 
-see `$ python bano.py --help` for more info/options
+- [Gutenberg](https://www.gutenberg.org/)
 
-## Names
-Names data are extracted from [source: INSEE](https://www.insee.fr)
+  - Licence domaine public
+  - HTML, ePUB, Kindle et texte brut (UTF-8)
+  - Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr>
+  - Premiers essais, 1 000 livres extraits au hasard sur la langue française
+  - ~2,2M phrases, 42M mots, 430k mots uniques
+  - Usage: `$ python project-gutenberg.py`
 
-Licence: NO LICENSE
+- [INSEE](https://www.insee.fr)
 
-> Ils [Les fichiers détail] peuvent être téléchargés gratuitement et les données contenues dans ces fichiers peuvent être réutilisées, y compris à des fins commerciales, sans licence et sans versement de redevance, dans le cadre des mentions légales sur le site.
+  - Licence: NO LICENSE
 
-see https://www.insee.fr/fr/information/1300614 for more info
+  > Ils [Les fichiers détail] peuvent être téléchargés gratuitement et les données contenues dans ces fichiers peuvent être réutilisées, y compris à des fins commerciales, sans licence et sans versement de redevance, dans le cadre des mentions légales sur le site.
 
-Usage: `$ python names.py data/names.txt`
+  - see https://www.insee.fr/fr/information/1300614 for more info
+  - Usage: `$ python names.py data/insee/names.txt`
+  - see `$ python names.py --help` for more info/options
 
-see `$ python names.py --help` for more info/options
+
+- [libre théatre](http://libretheatre.fr/)
+
+    - Licence: domaine public
+    - Format : HTML, texte brut (UTF-8)
+    - Parser en cours <https://github.com/Common-Voice/commonvoice-fr>
+
 
 ## XML
 
-- <http://data.assemblee-nationale.fr/>
+- [Assemblée nationale](http://data.assemblee-nationale.fr/)
 
   - Licence ≃ CC0, avec attribution
   - Débats en XML
   - Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr>
   - ~1.4M phrases, 35M mots, 110k mots uniques
   - ~40k mots importés sur Crowdin (20180511)
+
+## JSON
+
+- [Wikipedia](https://fr.wikipedia.org)
+
+  - Licence
+  - Contenu : Echantillons de phrases de quelques pages
 
 
 ## EPUB
@@ -119,22 +141,30 @@ see `$ python names.py --help` for more info/options
   - see `$ python wikisource.py --help` for more info/options
 
 
-- [source: Framabook](https://framabook.org/)
+- [Framabook](https://framabook.org/)
 
   - Licence: Différentes licences, dont certains livres en CC0
   - Usage: `$ python framabook.py data/framabook/epub/ data/framabook/txt/`
   - see `$ python framabook.py --help` for more info/options
 
-## TODO
 
 
-- <https://www.gutenberg.org/>
+# TODO
 
-  - Licence domaine public
-  - HTML, ePUB, Kindle et texte brut (UTF-8)
-  - Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr>
-  - Premiers essais, 1 000 livres extraits au hasard sur la langue française
-  - ~2,2M phrases, 42M mots, 430k mots uniques
+Il a été identifié des sites internets à parser :
+
+  - <http://www.cuisine-libre.fr/>
+
+    - Licence domaine public
+    - HTML, texte brut (UTF-8)
+    - À PARSER
+
+
+  - <http://www.inlibroveritas.net/>
+
+    - [Licence Art Libre – LAL 1.3](http://artlibre.org/licence/lal)
+    - **PDF À PARSER**
+
 
 # Testing
 

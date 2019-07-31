@@ -99,26 +99,9 @@ Pour construire initialement et continuer à améliorer le corpus de texte, le p
 - Normalisation des nombres (chiffres romains aussi).
 - **Voir `commonvoice-fr` pour du code qui normalise proprement le texte**.
 
-#### Sources de données en CC0
+#### Sources de données
 
-- <http://www.cuisine-libre.fr/>
-
-  - Licence domaine public
-  - HTML, texte brut (UTF-8)
-  - À PARSER
-
-- <http://libretheatre.fr/>
-
-  - Licence domaine public
-  - HTML, texte brut (UTF-8)
-  - Parser en cours <https://github.com/Common-Voice/commonvoice-fr>
-
-
-
-- <http://www.inlibroveritas.net/>
-
-  - [Licence Art Libre – LAL 1.3](http://artlibre.org/licence/lal)
-  - **PDF À PARSER**
+Les sources des données sont disponibles à partir du projet [Common Voice Data](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice-Data)
 
 ### Liens à garder pour plus tard
 
