@@ -83,7 +83,10 @@ TITLES_REMOVE_HASHTAGS = [
     # Apolog ok
 ]
 
+# the characters to be deleted before saving the file
 REMOVE_CHARACTERS = [
+    'TABLE DES MATIÈRES.',
+    '^',
     ' 1.',' 2.',' 3.',' 4.',' 5.',' 6.',' 7.',' 8.',' 9.',' 10.',
     ' 11.',' 12.',' 13.',' 14.',' 15.',' 16.',' 17.',' 18.',' 19.',' 20.',
     ' 21.',' 22.',' 23.',' 24.',' 25.',' 26.',' 27.',' 28.',' 29.',' 30.',
@@ -208,6 +211,10 @@ def save_text(string: str, filename: str, inputdir: str, outputdir: str):
     """
     Save string as a txt file
     """
+    # Remove characters useless
+    for tag in REMOVE_CHARACTERS:
+        string = string.replace(tag,'')
+    # construction file and save
     filename = filename.replace(inputdir, outputdir)
     filename = filename.replace('.epub', '.txt')
     with open(filename, 'w') as f:

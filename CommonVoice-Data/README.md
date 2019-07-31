@@ -6,11 +6,11 @@
 
 - [Environnement](#environnement)
 
-  - [requirements](#requirements)
+  - [Prérequis](#prérequis)
   - [Installation](#installation)
   - [Execution](#execution)
 
-- [Ressource](#ressource)
+- [Ressources](#ressources)
 
   - [CSV](#csv)
   - [TXT](#txt)
