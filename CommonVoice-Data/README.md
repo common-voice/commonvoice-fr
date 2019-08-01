@@ -8,7 +8,7 @@
 
   - [Prérequis](#prérequis)
   - [Installation](#installation)
-  - [Execution](#execution)
+  - [Exécution](#execution)
 
 - [Ressources](#ressources)
 
@@ -57,8 +57,6 @@ Installation d'un nouvel environnement dans le dossier DATA
 ## Exécution
 
 Lors du lancement d'un terminal, vous activez l'environnement :
-
-`$ python3 -m venv venv`
 
 `$ . venv/bin/activate`
 
@@ -128,7 +126,7 @@ Documentation [EPUB](https://buildmedia.readthedocs.org/media/pdf/ebooklib/lates
   > Sélection : les ouvrages sélectionnés sont des premières éditions dont le délai légal du monopole d'exploitation est dépassé
 
   - Usage : `$ python wikisource.py data/wikisource/epub/<auteur> data/wikisource/txt/<auteur>`
-  - Example : `$ python wikisource.py data/wikisource/epub/jules-verne data/wikisource/txt/jules-verne`
+  - Exemple : `$ python wikisource.py data/wikisource/epub/jules-verne data/wikisource/txt/jules-verne`
   - see `$ python wikisource.py --help` for more info/options
 
 - [Framabook](https://framabook.org/)
