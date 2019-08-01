@@ -233,7 +233,7 @@ def main(
         plaintext: bool = False):
     try:
         nlp = spacy.load('fr_core_news_sm')
-        nlp.max_length = 1500000
+        nlp.max_length = 3500000
         nlp.add_pipe(set_custom_boundaries, before='parser')
     except OSError:
         raise OSError('French model not installed. Please run:\n'\
