@@ -74,6 +74,7 @@ MAPPING_WORDS = {
     '. .': '.', # rest from hashtags deletion
     'NdT': 'Note du traducteur',
     'NDT': 'Note du traducteur',
+    '°': ' degré',
 }
 
 # remove tags with class="hashtag" for the following epub titles
@@ -225,7 +226,7 @@ def main(
         inputdir: str,
         outputdir: str,
         minwords: int = 3,
-        maxwords: int = 15,
+        maxwords: int = 14,
         one: bool = False,
         dry: bool = False,
         abbr: bool = False,
