@@ -53,6 +53,10 @@ C'est un processus en deux grosses étapes :
 
 ## Bien démarrer
 
+### Installation et configuration
+
+- Les détails d'installation et de configuration sont disponible à la page de [Contribution](https://github.com/Common-Voice/commonvoice-fr/blob/master/DeepSpeech/CONTRIBUTING.md)
+
 ### Où trouver des jeux de données
 
 - <https://voice.mozilla.org/fr/datasets>
