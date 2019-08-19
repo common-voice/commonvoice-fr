@@ -8,6 +8,8 @@
 - [Processus pour DeepSpeech fr](#Processus-pour-deepSpeech-fr)
 - [Bien démarrer](#bien-démarrer)
 
+  - [Installation et configuration](#Installation-et-configuration)
+
   - [Où trouver des jeux de données](#Ou-trouver-des-jeux-de-données)
 
   - [Speech-to-Text et Text-to-Speech](#Speech-to-Text-et-Text-to-Speech)
@@ -22,9 +24,8 @@
 
 - [Projets disponibles](#projets-disponibles)
 
-- [Annonces et articles intéressants](#Annonces-et-articles-intéressants)
 
-  - [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
+
 
 Vous trouverez dans ce document l'ensemble des instructions, documentations... pour le projet Common Voice.
 
@@ -49,6 +50,10 @@ C'est un processus en deux grosses étapes :
 1. Vous aidez à convertir du texte vers l'audio et l'audio en texte
 
 ## Bien démarrer
+
+### Installation et configuration
+
+- Les détails d'installation et de configuration sont disponible à la page de [Contribution](https://github.com/Common-Voice/commonvoice-fr/blob/master/DeepSpeech/CONTRIBUTING.md)
 
 ### Où trouver des jeux de données
 
@@ -83,9 +88,3 @@ C'est un processus en deux grosses étapes :
 - [Baidu](https://github.com/mozilla/deepspeech) – implémentation d'une architecture DeepSpeech
 - [Snips](https://snips.ai/) – assistant vocal décentralisé et privé
 - FusionPBX – système de commutation téléphonique installé dans une organisation privée et servant à transcrire des messages téléphoniques
-
-# Annonces et articles intéressants
-
-## Section Presse Mozilla
-
-- [Common Voice : Mutualiser nos voix – Mozilla publie le plus grand jeu de données vocales transcrites du domaine public à ce jour](https://blog.mozilla.org/press-fr/2019/02/28/common-voice-mutualiser-nos-voix-mozilla-publie-le-plus-grand-jeu-de-donnees-vocales-transcrites-du-domaine-public-a-ce-jour/) – 28 février 2019
