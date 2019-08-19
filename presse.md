@@ -10,8 +10,6 @@ Vous trouverez les informations pour :
 
 - [DeepSpeech fr](https://github.com/Common-Voice/commonvoice-fr/tree/master/DeepSpeech)
 
-- [Data](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice-Data) pour Sentence-collector
+- [Data](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice-Data)
 
 - [Visuel](https://github.com/Common-Voice/commonvoice-fr/wiki/visuel)
-
-- [Annonces et articles intéressants](https://github.com/Common-Voice/commonvoice-fr/tree/master/presse.md)

@@ -22,11 +22,7 @@
 
 - [Projets disponibles](#projets-disponibles)
 
-- [Annonces et articles intéressants](#Annonces-et-articles-intéressants)
 
-  - [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
-
-  - [Autres articles](#autres-articles)
 
 
 Vous trouverez dans ce document l'ensemble des instructions, documentations... pour le projet Common Voice.
@@ -90,13 +86,3 @@ C'est un processus en deux grosses étapes :
 - [Baidu](https://github.com/mozilla/deepspeech) – implémentation d'une architecture DeepSpeech
 - [Snips](https://snips.ai/) – assistant vocal décentralisé et privé
 - FusionPBX – système de commutation téléphonique installé dans une organisation privée et servant à transcrire des messages téléphoniques
-
-# Annonces et articles intéressants
-
-## Section Presse Mozilla
-
-- [Common Voice : Mutualiser nos voix – Mozilla publie le plus grand jeu de données vocales transcrites du domaine public à ce jour](https://blog.mozilla.org/press-fr/2019/02/28/common-voice-mutualiser-nos-voix-mozilla-publie-le-plus-grand-jeu-de-donnees-vocales-transcrites-du-domaine-public-a-ce-jour/) – 28 février 2019
-
-## Autres articles
-
-- [Faire de la reconnaissance vocale un bien commun](https://www.humanite.fr/faire-de-la-reconnaissance-vocale-un-bien-commun-675371/) – L'Humanité du 31 Juil. 2019
