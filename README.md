@@ -1,14 +1,13 @@
-CommonVoice -- DeepSpeech
-=========================
+# Common Voice – DeepSpeech
 
-Centralisation d'outil de construction et de nettoyage de jeux de données pour
-CommonVoice et de production de modèles DeepSpeech en Français.
-
+Centralisation d'outils de construction et de nettoyage de jeux de données pour Common Voice et de production de modèles DeepSpeech en français.
 
 # Sur le dépôt
 
-Vous trouverez les documentations pour
+Vous trouverez les informations pour :
 
-- CommonVoice FR
-- DeepSpeesh FR 
+- [Common Voice fr](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice)
 
+- [DeepSpeech fr](https://github.com/Common-Voice/commonvoice-fr/wiki/DeepSpeech)
+
+- [Visuel](https://github.com/Common-Voice/commonvoice-fr/wiki/visuel)
