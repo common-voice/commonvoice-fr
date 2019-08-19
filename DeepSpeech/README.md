@@ -26,6 +26,9 @@
 
   - [Section Presse annonce Mozilla](#Section-Presse-annonce-Mozilla)
 
+  - [Autres articles](#autres-articles)
+
+
 Vous trouverez dans ce document l'ensemble des instructions, documentations... pour le projet Common Voice.
 
 # Introduction
@@ -49,6 +52,10 @@ C'est un processus en deux grosses étapes :
 1. Vous aidez à convertir du texte vers l'audio et l'audio en texte
 
 ## Bien démarrer
+
+### Installation et configuration
+
+- Les détails d'installation et de configuration sont disponible à la page de [Contribution](https://github.com/Common-Voice/commonvoice-fr/blob/master/DeepSpeech/CONTRIBUTING.md)
 
 ### Où trouver des jeux de données
 
@@ -89,3 +96,7 @@ C'est un processus en deux grosses étapes :
 ## Section Presse Mozilla
 
 - [Common Voice : Mutualiser nos voix – Mozilla publie le plus grand jeu de données vocales transcrites du domaine public à ce jour](https://blog.mozilla.org/press-fr/2019/02/28/common-voice-mutualiser-nos-voix-mozilla-publie-le-plus-grand-jeu-de-donnees-vocales-transcrites-du-domaine-public-a-ce-jour/) – 28 février 2019
+
+## Autres articles
+
+- [Faire de la reconnaissance vocale un bien commun](https://www.humanite.fr/faire-de-la-reconnaissance-vocale-un-bien-commun-675371/) – L'Humanité du 31 Juil. 2019
