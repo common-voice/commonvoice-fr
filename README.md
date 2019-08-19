@@ -8,6 +8,8 @@ Vous trouverez les informations pour :
 
 - [Common Voice fr](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice)
 
-- [DeepSpeech fr](https://github.com/Common-Voice/commonvoice-fr/wiki/DeepSpeech)
+- [DeepSpeech fr](https://github.com/Common-Voice/commonvoice-fr/tree/master/DeepSpeech)
+
+- [Data](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice-Data)
 
 - [Visuel](https://github.com/Common-Voice/commonvoice-fr/wiki/visuel)
