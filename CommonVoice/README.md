@@ -30,6 +30,8 @@
 
   - [Autres articles](#autres-articles)
 
+  - [Conférences](#conférences)
+
 Vous trouverez dans ce document l’ensemble des instructions, documentations… pour le projet Common Voice.
 
 # Introduction
@@ -97,46 +99,9 @@ Pour construire initialement et continuer à améliorer le corpus de texte, le p
 - Normalisation des nombres (chiffres romains aussi).
 - **Voir `commonvoice-fr` pour du code qui normalise proprement le texte**.
 
-#### Sources de données en CC0
+#### Sources de données
 
-- <http://data.assemblee-nationale.fr/>
-
-  - Licence ≃ CC0, avec attribution
-  - Débats en XML
-  - Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr>
-  - ~1.4M phrases, 35M mots, 110k mots uniques
-  - ~40k mots importés sur Crowdin (20180511)
-
-- <https://www.gutenberg.org/>
-
-  - Licence domaine public
-  - HTML, ePUB, Kindle et texte brut (UTF-8)
-  - Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr>
-  - Premiers essais, 1 000 livres extraits au hasard sur la langue française
-  - ~2,2M phrases, 42M mots, 430k mots uniques
-
-- <http://www.cuisine-libre.fr/>
-
-  - Licence domaine public
-  - HTML, texte brut (UTF-8)
-  - À PARSER
-
-- <http://libretheatre.fr/>
-
-  - Licence domaine public
-  - HTML, texte brut (UTF-8)
-  - Parser en cours <https://github.com/Common-Voice/commonvoice-fr>
-
-- <https://framabook.org/>
-
-  - Différentes licences, dont certains livres en CC0
-  - epub, LaTeX, PDF
-  - Parser en cours <https://github.com/Common-Voice/commonvoice-fr>
-
-- <http://www.inlibroveritas.net/>
-
-  - [Licence Art Libre – LAL 1.3](http://artlibre.org/licence/lal)
-  - **PDF À PARSER**
+Les sources des données sont disponibles à partir du projet [Common Voice Data](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice-Data)
 
 ### Liens à garder pour plus tard
 
@@ -170,3 +135,9 @@ Pour construire initialement et continuer à améliorer le corpus de texte, le p
 
 - [La guerre des assistants vocaux commence aujourd’hui en France](https://www.forbes.fr/technologie/la-guerre-des-assistants-vocaux-commence-aujourdhui-en-france/) : Audrey Chabal, le 12 juin 2018, avec propos de Sylvestre Ledru de Mozilla
 - [Projet Common Voice : pour que la voix soit libre](https://framablog.org/2018/12/19/projet-common-voice-pour-que-la-voix-soit-libre/) – Framasoft sur le Framablog du 19 déc. 2018
+- [Faire de la reconnaissance vocale un bien commun](https://www.humanite.fr/faire-de-la-reconnaissance-vocale-un-bien-commun-675371/) – L'Humanité du 31 Juil. 2019
+
+## Conférences
+
+- [Common Voice](https://www.slideshare.net/hellosct1/common-voice) – L'Humanité du 9 juin 2019
+- [Voix et machines](https://www.slideshare.net/hellosct1/voix-et-machines) – L'Humanité du 7 Juil. 2019
