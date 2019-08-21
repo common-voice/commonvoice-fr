@@ -23,7 +23,7 @@
 
 # Introduction
 
-Scripts to extract content in [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr "Creative Commons – CC0 1.0 universel") for the   [Sentence-collector](https://common-voice.github.io/sentence-collector/) project in différent format.
+Scripts to extract content in [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr "Creative Commons – CC0 1.0 universel") for the   [Sentence-collector](https://common-voice.github.io/sentence-collector/) project in different format.
 
 The sentences obtained are composed of 3 to 14 words and can be added at  <https://common-voice.github.io/sentence-collector/#/add>
 
@@ -31,7 +31,7 @@ The sentences obtained are composed of 3 to 14 words and can be added at  <https
 
 ## Configuration
 
-The scripts were developed under:
+The scripts were tested under:
 
 - Linux
 
