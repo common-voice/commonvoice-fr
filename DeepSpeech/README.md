@@ -25,8 +25,6 @@
 - [Projets disponibles](#projets-disponibles)
 
 
-
-
 Vous trouverez dans ce document l'ensemble des instructions, documentations... pour le projet Common Voice.
 
 # Introduction
