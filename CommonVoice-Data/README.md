@@ -1,16 +1,17 @@
 # Common Voice Data
 
-## Table des matières
+## Table of Contents
 
 - [Introduction](#introduction)
 
-- [Environnement](#environnement)
+- [Environment](#environment)
 
-  - [Prérequis](#prérequis)
+  - [Configuration](#Configuration)
   - [Installation](#installation)
-  - [Exécution](#execution)
+  - [Execution](#execution)
+  - [Close](#Close)
 
-- [Ressources](#ressources)
+- [Resources](#resources)
 
   - [CSV](#csv)
   - [TXT](#txt)
@@ -18,21 +19,19 @@
   - [JSON](#json)
   - [EPUB](#epub)
 
-- [TODO](#todo)
-
 - [Testing](#testing)
 
 # Introduction
 
-Scripts permettant d'extraire des contenus en [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr "Creative Commons – CC0 1.0 universel") à destination du projet [Sentence-collector](https://common-voice.github.io/sentence-collector/) sous différents formats.
+Scripts to extract content in [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.fr "Creative Commons – CC0 1.0 universel") for the   [Sentence-collector](https://common-voice.github.io/sentence-collector/) project in différent format.
 
-Les phrases obtenues sont composées de 5 à 10 mots et pourront être ajoutées à <https://common-voice.github.io/sentence-collector/#/add>
+The sentences obtained are composed of 3 to 14 words and can be added at  <https://common-voice.github.io/sentence-collector/#/add>
 
-# Environnement
+# Environment
 
-## Prérequis
+## Configuration
 
-Les scripts ont été développés sous :
+The scripts were developed under:
 
 - Linux
 
@@ -40,81 +39,104 @@ Les scripts ont été développés sous :
 
 ## Installation
 
-Installation d'un nouvel environnement dans le dossier DATA
+Installing a new environment in the DATA folder
 
-`$ git clone.....`
-
-`$ cd CommonVoice-Data`
-
-`$ python3 -m venv venv`
-
-`$ . venv/bin/activate`
-
-`$ pip install -r requirements.txt`
-
-`$ python -m spacy download fr_core_news_sm`
+```
+git clone git@github.com:Common-Voice/commonvoice-fr.git
+cd CommonVoice-Data
+python3 -m venv venv
+. venv/bin/activate
+pip install -r requirements.txt
+```
 
 
-## Exécution
+if you get the following message :
+```
+  Can't find a local Berkeley DB installation
+```
+you must do this :
 
-Lors du lancement d'un terminal, vous activez l'environnement :
+```
+sudo apt-get install libdb-dev
+brew install berkeley-db
+```
 
-`$ . venv/bin/activate`
 
-# Ressources
+## Execution
+
+When launching a terminal, you activate the environment:
+
+```
+cd CommonVoice-Data
+. venv/bin/activate
+```
+
+
+## Close
+
+if you want to stop the environment, you deactivate the environment:
+
+```
+deactivate
+```
+
+
+# Resources
 
 ## CSV
 
 - [BANO](https://www.data.gouv.fr/fr/datasets/base-d-adresses-nationale-ouverte-bano/)
 
   - Address data are extracted from
-  - Licence : ODbL
-  - Usage : `$ python bano.py data/addresses`
-  - see `$ python bano.py --help` for more info/options
+  - Licence: ODbL
+  - Usage: `$ python bano.py data/addresses`
+  - see: `$ python bano.py --help` for more info/options
 
 ## TXT
 
 - [Gutenberg](https://www.gutenberg.org/)
 
-  - Licence domaine public
-  - HTML, ePUB, Kindle et texte brut (UTF-8)
-  - Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr>
-  - Premiers essais, 1 000 livres extraits au hasard sur la langue française
-  - ~2,2M phrases, 42M mots, 430k mots uniques
+  - Licence: public domain
+  - 1,000 books randomly extracted on the French language
+  - ~2,2M sentences, 42M words, 430k unique words
   - Usage : `$ python project-gutenberg.py`
 
 - [INSEE](https://www.insee.fr)
 
   - Licence: NO LICENSE
 
-  > Ils [Les fichiers détail] peuvent être téléchargés gratuitement et les données contenues dans ces fichiers peuvent être réutilisées, y compris à des fins commerciales, sans licence et sans versement de redevance, dans le cadre des mentions légales sur le site.
+  > They [The detail files] may be downloaded free of charge and the data contained in these files may be reused, including for commercial purposes, without licence and without payment of royalties, as part of the legal notices on the site.
 
   - see https://www.insee.fr/fr/information/1300614 for more info
   - Usage: `$ python names.py data/insee/names.txt`
   - see `$ python names.py --help` for more info/options
 
-- [libre théatre](http://libretheatre.fr/)
 
-    - Licence : domaine public
-    - Format : HTML, texte brut (UTF-8)
-    - Parser en cours <https://github.com/Common-Voice/commonvoice-fr>
+- [libre theatre](http://libretheatre.fr/)
+
+    - Licence: public domain
+    - Format: HTML, plain text (UTF-8)
+    - Usage: `$ python libretheatre.py`
+    - see: `$ python libretheatre.py --help` for more info/options
+
 
 ## XML
 
 - [Assemblée nationale](http://data.assemblee-nationale.fr/)
 
-  - Licence ≃ CC0, avec attribution
-  - Débats en XML
-  - Parser qui commence à fonctionner : <https://github.com/Common-Voice/commonvoice-fr>
-  - ~1.4M phrases, 35M mots, 110k mots uniques
-  - ~40k mots importés sur Crowdin (20180511)
+  - Licence: CC0, with attribution
+  - Débates in XML
+  - ~1.4M sentences, 35M words, 110k unique words
+  - Format : HTML, plain text (UTF-8)
+  - Usage: `$ debats-assemblee-nationale.sh`
 
 ## JSON
 
 - [Wikipédia](https://fr.wikipedia.org)
 
-  - Licence
-  - Contenu : échantillons de phrases de quelques pages
+  - Licence:
+  - Content: Sample sentences of a few pages
+  - Usage: `$ python wikipedia.py`
 
 ## EPUB
 
@@ -122,34 +144,22 @@ Documentation [EPUB](https://buildmedia.readthedocs.org/media/pdf/ebooklib/lates
 
 - [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil)
 
-  - Licence : [Licence Ouverte](https://fr.wikisource.org/wiki/Licence_Ouverte)
+  - Licence: [Open License](https://fr.wikisource.org/wiki/Licence_Ouverte)
 
-  > Sélection : les ouvrages sélectionnés sont des premières éditions dont le délai légal du monopole d'exploitation est dépassé
+  > Selection: the selected works are first editions whose legal time limit for the operating monopoly has been exceeded
 
-  - Usage : `$ python wikisource.py data/wikisource/epub/<auteur> data/wikisource/txt/<auteur>`
-  - Exemple : `$ python wikisource.py data/wikisource/epub/jules-verne data/wikisource/txt/jules-verne`
-  - see `$ python wikisource.py --help` for more info/options
+  - Usage: `$ python wikisource.py data/wikisource/epub/<author> data/wikisource/txt/<author>`
+  - see: `$ python wikisource.py --help` for more info/options
+  - Example: `$ python wikisource.py data/wikisource/epub/jules-verne data/wikisource/txt/jules-verne`
+
 
 - [Framabook](https://framabook.org/)
 
-  - Licence  : différentes licences, dont certains livres en CC0
+  - License: various licenses, including some CC0 books
   - Usage : `$ python framabook.py data/framabook/epub/ data/framabook/txt/`
-  - see `$ python framabook.py --help` for more info/options
+  - see: `$ python framabook.py --help` for more info/options
 
-# TODO
 
-Il a été identifié des sites internet à parser :
-
-  - <http://www.cuisine-libre.fr/>
-
-    - Licence domaine public
-    - HTML, texte brut (UTF-8)
-    - À PARSER
-
-  - <http://www.inlibroveritas.net/>
-
-    - [Licence Art Libre – LAL 1.3](http://artlibre.org/licence/lal)
-    - **PDF À PARSER**
 
 # Testing
 
