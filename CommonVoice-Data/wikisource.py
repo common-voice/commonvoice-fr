@@ -4,6 +4,7 @@ import os
 import re
 import argparse
 import unicodedata
+import subprocess
 
 import ebooklib
 from ebooklib import epub
@@ -18,6 +19,11 @@ from lxml import etree
 from collections import Counter
 from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sentences, check_output_dir, set_custom_boundaries
 
+# URL file EPUB
+EPUB_LINK = 'https://tools.wmflabs.org/wsexport/tool/book.php?lang=fr&format=epub&page=Une+ville+flottante'
+
+#filename temporary
+FILENAME_TMP = 'temp.epub'
 
 # list of XHTML files not to be taken into account
 EXCLUDE_FILE = [
@@ -207,7 +213,6 @@ def list_files(inputdir: str):
     filenames = [os.path.join(inputdir, f) for f in filenames if f.endswith(".epub")]
     return filenames
 
-
 def save_text(string: str, filename: str, inputdir: str, outputdir: str):
     """
     Save string as a txt file
@@ -215,9 +220,18 @@ def save_text(string: str, filename: str, inputdir: str, outputdir: str):
     # Remove characters useless
     for tag in REMOVE_CHARACTERS:
         string = string.replace(tag,'')
-    # construction file and save
-    filename = filename.replace(inputdir, outputdir)
-    filename = filename.replace('.epub', '.txt')
+
+    if inputdir == '-1':
+        # contruction filename export
+        a,b = EPUB_LINK.split('page=',1)
+        new_name = filename.replace(filename, outputdir + '/' + b.replace ('+','-') + '.txt')
+        os.remove(filename)
+        filename = new_name
+    else:
+        # construction file and save
+        filename = filename.replace(inputdir, outputdir)
+        filename = filename.replace('.epub', '.txt')
+
     with open(filename, 'w') as f:
         f.write(string)
 
@@ -241,7 +255,14 @@ def main(
         raise OSError('French model not installed. Please run:\n'\
                       'python -m spacy download fr_core_news_sm')
 
-    filenames = list_files(inputdir)
+    if inputdir == '-1':
+        # download file
+        subprocess.call(['wget', '-O', FILENAME_TMP, EPUB_LINK,'--no-check-certificate'])
+        filenames = [FILENAME_TMP]
+    else:
+        # list file directory
+        filenames = list_files(inputdir)
+
     for filename in filenames:
         text = parse_epub(filename, abbr, code)
         if plaintext:
@@ -273,12 +294,18 @@ def parse_arguments():
 
     parser.add_argument('--plaintext', action='store_true', default=False, help='Extract plain text. If False, write extracted sentences.')
 
-    parser.add_argument('inputdir', type=str, help='Input directory')
+    parser.add_argument('inputdir', type=str, help='Input directory OR -1 for URL file')
     parser.add_argument('outputdir', type=str, help='Output directory')
 
     args = parser.parse_args()
-    check_output_dir(args.inputdir)
+
+    # if it is different from -1 then the EPUB file is in the DATA folder
+    # if it is -1 we will call the url of the variable EPUB_LINK
+    if args.inputdir != '-1':
+        check_output_dir(args.inputdir)
+
     check_output_dir(args.outputdir)
+
     return vars(args)
 
 if __name__ == '__main__':

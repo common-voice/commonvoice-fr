@@ -148,10 +148,12 @@ Documentation [EPUB](https://buildmedia.readthedocs.org/media/pdf/ebooklib/lates
 
   > Selection: the selected works are first editions whose legal time limit for the operating monopoly has been exceeded
 
-  - Usage: `$ python wikisource.py data/wikisource/epub/<author> data/wikisource/txt/<author>`
   - see: `$ python wikisource.py --help` for more info/options
-  - Example: `$ python wikisource.py data/wikisource/epub/jules-verne data/wikisource/txt/jules-verne`
+  - Usage 1: `$ python wikisource.py -1 data/wikisource/txt/<author>`
+  - Example 1: `$ python wikisource.py -1 data/wikisource/txt/jules-verne`
 
+  - Usage 2: `$ python wikisource.py data/wikisource/epub/<author> data/wikisource/txt/<author>`
+  - Example 2: `$ python wikisource.py data/wikisource/epub/jules-verne data/wikisource/txt/jules-verne`
 
 - [Framabook](https://framabook.org/)
 
