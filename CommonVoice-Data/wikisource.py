@@ -20,7 +20,7 @@ from collections import Counter
 from utils import splitIntoWords, filter_numbers, maybe_normalize, extract_sentences, check_output_dir, set_custom_boundaries
 
 # URL file EPUB
-EPUB_LINK = 'https://tools.wmflabs.org/wsexport/tool/book.php?lang=fr&format=epub&page=Une+ville+flottante'
+EPUB_LINK = 'https://tools.wmflabs.org/wsexport/tool/book.php?lang=fr&format=epub&page=Les_Forceurs_de_blocus'
 
 #filename temporary
 FILENAME_TMP = 'temp.epub'
