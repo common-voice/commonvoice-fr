@@ -106,3 +106,6 @@ ENV/
 
 #directory
 .directory
+
+#vscode
+.vscode
