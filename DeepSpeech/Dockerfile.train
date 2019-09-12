@@ -1,10 +1,12 @@
 FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=df5545299e748aa272d92a0bdfa2cb51fd198528
-ARG ds_sha1=df5545299e748aa272d92a0bdfa2cb51fd198528
+ARG ds_branch=6e53fd8fe0f1c7469dcf946a2eeed4d7aace6afd
+ARG ds_sha1=6e53fd8fe0f1c7469dcf946a2eeed4d7aace6afd
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
+
+ARG model_languag=fr
 
 ARG batch_size=68
 ARG n_hidden=2048
@@ -25,12 +27,14 @@ ENV DEBIAN_FRONTEND noninteractive
 
 ENV HOMEDIR /home/trainer
 
-ENV VIRTUAL_ENV_NAME ds-train-fr
+ENV VIRTUAL_ENV_NAME ds-train
 ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
 ENV DS_DIR $HOMEDIR/ds
 
 ENV DS_BRANCH=$ds_branch
 ENV DS_SHA1=$ds_sha1
+
+ENV MODEL_LANGUAGE=$model_language
 
 ENV BATCH_SIZE=$batch_size
 ENV N_HIDDEN=$n_hidden
@@ -103,7 +107,7 @@ WORKDIR $HOMEDIR
 
 RUN wget -O - https://bitbucket.org/eigen/eigen/get/3.2.8.tar.bz2 | tar xj
 
-RUN git clone --depth 1 https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch \
+RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch \
     && mkdir -p build \
     && cd build \
     && EIGEN3_ROOT=$HOMEDIR/eigen-eigen-07105f7124f9 cmake .. \

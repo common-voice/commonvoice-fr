@@ -11,16 +11,6 @@ checks.sh
 export TMP=/mnt/tmp
 export TEMP=/mnt/tmp
 
-import_cvfr.sh
-
-import_lingualibre.sh
-
-import_trainingspeech.sh
-
-generate_alphabet.sh
-
-build_lm.sh
-
-train_fr.sh
+source run_${MODEL_LANGUAGE}.sh
 
 package.sh
