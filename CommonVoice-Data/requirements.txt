@@ -5,7 +5,7 @@ chardet==3.0.4
 decorator==4.3.0
 EbookLib==0.17.1
 future==0.16.0
-Gutenberg==0.6.1
+Gutenberg==0.8.0
 idna==2.6
 isodate==0.6.0
 Mako==1.0.7
