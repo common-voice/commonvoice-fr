@@ -4,19 +4,19 @@ set -xe
 
 pushd /mnt
 
-	if [ ! -f "model_tensorflow_fr.tar.xz" ]; then
+	if [ ! -f "model_tensorflow_it.tar.xz" ]; then
 		tar -cf - \
 			-C /mnt/models/ output_graph.pbmm alphabet.txt \
 			-C /mnt/lm/ lm.binary trie | xz -T0 > model_tensorflow_fr.tar.xz
 	fi;
 
-	if [ ! -f "model_tflite_fr.tar.xz" ]; then
+	if [ ! -f "model_tflite_it.tar.xz" ]; then
 		tar -cf - \
 			-C /mnt/models/ output_graph.tflite alphabet.txt \
 			-C /mnt/lm/ lm.binary trie | xz -T0 > model_tflite_fr.tar.xz
 	fi;
 	
-	if [ ! -f "checkpoint_fr.tar.xz" ]; then
+	if [ ! -f "checkpoint_it.tar.xz" ]; then
 		all_checkpoint_path=""
 		for ckpt in $(grep '^model_checkpoint_path:' checkpoints/checkpoint | cut -d'"' -f2);
 		do
@@ -29,6 +29,6 @@ pushd /mnt
 		done;
 	
 		tar -cf - \
-			-C /mnt/checkpoints/ checkpoint ${all_checkpoint_path} | xz -T0 > "checkpoint_fr.tar.xz"
+			-C /mnt/checkpoints/ checkpoint ${all_checkpoint_path} | xz -T0 > "checkpoint_it.tar.xz"
 	fi;
 popd

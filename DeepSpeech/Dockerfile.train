@@ -6,7 +6,7 @@ ARG ds_sha1=6e53fd8fe0f1c7469dcf946a2eeed4d7aace6afd
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
-ARG model_languag=fr
+ARG model_languag=it
 
 ARG batch_size=68
 ARG n_hidden=2048

@@ -2,7 +2,7 @@
 
 set -xe
 
-import_cvfr.sh
+import_cvit.sh
 
 import_lingualibre.sh
 
@@ -12,4 +12,4 @@ generate_alphabet.sh
 
 build_lm.sh
 
-train_fr.sh
+train_it.sh
