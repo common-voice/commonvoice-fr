@@ -15,17 +15,23 @@ random.shuffle(cache_listing)
 
 pagecount = 0
 pages = []
+
+
 def getPage():
     global pages
     if len(pages) < 1:
-        response = json.loads(urllib.request.urlopen("https://fr.wikipedia.org/w/api.php?format=json&action=query&generator=random&grnnamespace=0&grnlimit=1000").read())
-        pages += [page["title"] for id,page in response["query"]["pages"].items()]
+        response = json.loads(urllib.request.urlopen(
+            "https://it.wikipedia.org/w/api.php?format=json&action=query&generator=random&grnnamespace=0&grnlimit=1000").read())
+        pages += [page["title"]
+                  for id, page in response["query"]["pages"].items()]
 
     return pages.pop()
 
+
 def getPageText(title):
     print(title)
-    response = json.loads(urllib.request.urlopen("https://fr.wikipedia.org/w/api.php?action=query&titles=" + urllib.parse.quote(title) + "&prop=extracts&format=json&explaintext=1&exsectionformat=plain&redirects=1").read())
+    response = json.loads(urllib.request.urlopen("https://it.wikipedia.org/w/api.php?action=query&titles=" +
+                                                 urllib.parse.quote(title) + "&prop=extracts&format=json&explaintext=1&exsectionformat=plain&redirects=1").read())
     page_id = list(response["query"]["pages"].values())[0]["pageid"]
     text = list(response["query"]["pages"].values())[0]["extract"].lower()
 
@@ -34,8 +40,10 @@ def getPageText(title):
 
     return text
 
+
 def splitIntoWords(text):
     return WORD_REGEX.split(text)
+
 
 def getWordsInRandomArticle():
     global pagecount
@@ -70,12 +78,13 @@ csv = open("01_frequencies_wikipedia.csv", "w")
 
 wordcount_total = len(words)
 wordcount = 0
-for word,freq in by_frequency:
+for word, freq in by_frequency:
     if word in enable:
-#        print("{:10d} {:.5} {}".format(freq, freq / wordcount_total, word))
+        #        print("{:10d} {:.5} {}".format(freq, freq / wordcount_total, word))
         csv.write("{},{:.10f},{}\n".format(freq, freq / wordcount_total, word))
         wordcount += 1
 csv.close()
 
-print("WORDS: {} (UNIQUE: {}, IN DICTIONARY: {})".format(wordcount_total, len(by_frequency), wordcount))
+print("WORDS: {} (UNIQUE: {}, IN DICTIONARY: {})".format(
+    wordcount_total, len(by_frequency), wordcount))
 print("PAGES: {}".format(pagecount))
