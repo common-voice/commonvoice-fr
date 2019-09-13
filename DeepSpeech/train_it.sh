@@ -45,7 +45,7 @@ pushd $HOME/ds/
             --checkpoint_step 1 \
             --checkpoint_dir /mnt/checkpoints/ \
             --export_dir /mnt/models/ \
-            --export_language "ita"
+            --export_language "it"
     fi;
 
     if [ ! -f "/mnt/models/output_graph.tflite" ]; then
