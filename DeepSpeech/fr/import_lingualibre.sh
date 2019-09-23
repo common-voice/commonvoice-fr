@@ -13,7 +13,7 @@ pushd $HOME/ds/
 			--iso639-3 fra                                  \
 			--english-name French                           \
 			${IMPORT_AS_ENGLISH}                            \
-			--bogus-records $HOME/lingua_libre_skiplist.txt \
+			--bogus-records $HOME/${MODEL_LANGUAGE}/lingua_libre_skiplist.txt \
 			/mnt/extracted/data/lingualibre
 	fi;
 popd
