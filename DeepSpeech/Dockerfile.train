@@ -10,9 +10,9 @@ ARG model_language=fr
 
 ARG batch_size=68
 ARG n_hidden=2048
-ARG epochs=30
-ARG learning_rate=0.00025
-ARG dropout=0.15
+ARG epochs=60
+ARG learning_rate=0.0001
+ARG dropout=0.2
 ARG lm_alpha=0.75
 ARG lm_beta=1.85
 ARG early_stop=1
