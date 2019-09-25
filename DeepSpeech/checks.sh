@@ -2,6 +2,11 @@
 
 set -xe
 
+sudo id
+
+# Workaround libnvidia-ml.so: https://github.com/NVIDIA/nvidia-docker/issues/854#issuecomment-451464721
+sudo /sbin/ldconfig
+
 nvidia-smi
 
 for dir in $(find /mnt/ -maxdepth 1 -type d);

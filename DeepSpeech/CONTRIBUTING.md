@@ -54,7 +54,7 @@ will be copied from that place.
 Training successfull on:
  - 64GB RAM
  - 2x RTX 2080 Ti
- - Debian Sid, kernel 4.19, driver 418.56
+ - Debian Sid, kernel 5.2, driver 430.50
  - With ~250h of audio, one training epoch takes ~15min, and validation takes ~50s
 
 ## Run the image:
@@ -63,7 +63,7 @@ The `mount` option is really important: this is where intermediate files, traini
 well as final model files will be produced.
 
 ```
-$ docker run --runtime=nvidia --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt <docker-image-id>
+$ docker run --tty --runtime=nvidia --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt <docker-image-id>
 ```
 
 Training parameters can be changed at runtime as well using environment variables.
