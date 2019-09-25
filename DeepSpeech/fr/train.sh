@@ -23,6 +23,7 @@ pushd $HOME/ds/
 		fi;
 
 		python -u DeepSpeech.py \
+			--show_progressbar \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--lm_binary_path /mnt/lm/lm.binary \
 			--lm_trie_path /mnt/lm/trie \
@@ -40,9 +41,6 @@ pushd $HOME/ds/
 			--lm_alpha ${LM_ALPHA} \
 			--lm_beta ${LM_BETA} \
 			${EARLY_STOP_FLAG} \
-			--display_step 0 \
-			--validation_step 1 \
-			--checkpoint_step 1 \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
 			--export_language "fra"
@@ -58,7 +56,6 @@ pushd $HOME/ds/
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
 			--export_tflite \
-			--nouse_seq_length \
 			--export_language "fra"
 	fi;
 

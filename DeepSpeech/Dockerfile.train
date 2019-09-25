@@ -1,18 +1,18 @@
 FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=6e53fd8fe0f1c7469dcf946a2eeed4d7aace6afd
-ARG ds_sha1=6e53fd8fe0f1c7469dcf946a2eeed4d7aace6afd
+ARG ds_branch=513c8e9ab7e2abc9b3fc62e7f1514b83156e8f97
+ARG ds_sha1=513c8e9ab7e2abc9b3fc62e7f1514b83156e8f97
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
-ARG model_languag=fr
+ARG model_language=fr
 
 ARG batch_size=68
 ARG n_hidden=2048
-ARG epochs=30
-ARG learning_rate=0.00025
-ARG dropout=0.15
+ARG epochs=60
+ARG learning_rate=0.0001
+ARG dropout=0.2
 ARG lm_alpha=0.75
 ARG lm_beta=1.85
 ARG early_stop=1
@@ -72,12 +72,16 @@ RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
     unzip \
     pixz \
     sox \
+    sudo \
     libsox-fmt-all \
     locales locales-all \
     xz-utils
 
 RUN groupadd -g 999 trainer && \
     adduser --system --uid 999 --group trainer
+
+RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
+    chmod 0440 /etc/sudoers.d/trainer
 
 # Below that point, nothing requires being root
 USER trainer
@@ -101,7 +105,7 @@ RUN pip install `python util/taskcluster.py --decoder`
 RUN TASKCLUSTER_SCHEME="https://index.taskcluster.net/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s" python util/taskcluster.py \
 	--target="$(pwd)" \
 	--artifact="convert_graphdef_memmapped_format" \
-	--branch="r1.13" && chmod +x convert_graphdef_memmapped_format
+	--branch="r1.14" && chmod +x convert_graphdef_memmapped_format
 
 WORKDIR $HOMEDIR
 
@@ -116,8 +120,10 @@ RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $ke
 ENV PATH="$HOMEDIR/kenlm/build/bin/:$PATH"
 
 # Copy now so that docker build can leverage caches
-COPY --chown=trainer:trainer *.sh $HOMEDIR/
+COPY --chown=trainer:trainer checks.sh generate_alphabet.sh package.sh run.sh $HOMEDIR/
 
-COPY --chown=trainer:trainer lingua_libre_skiplist.txt $HOMEDIR/
+COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/*.sh $HOMEDIR/${MODEL_LANGUAGE}/
+
+COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/lingua_libre_skiplist.txt $HOMEDIR/${MODEL_LANGUAGE}/
 
 ENTRYPOINT "$HOMEDIR/run.sh"
