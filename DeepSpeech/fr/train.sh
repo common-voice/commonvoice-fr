@@ -23,7 +23,8 @@ pushd $HOME/ds/
 		fi;
 
 		python -u DeepSpeech.py \
-			--show_progressbar \
+			--show_progressbar True \
+			--use_cudnn_rnn True \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--lm_binary_path /mnt/lm/lm.binary \
 			--lm_trie_path /mnt/lm/trie \
