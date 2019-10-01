@@ -10,6 +10,8 @@ ${MODEL_LANGUAGE}/import_trainingspeech.sh
 
 ${MODEL_LANGUAGE}/import_slr57.sh
 
+${MODEL_LANGUAGE}/import_m-ailabs.sh
+
 generate_alphabet.sh
 
 ${MODEL_LANGUAGE}/build_lm.sh
