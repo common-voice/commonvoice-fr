@@ -17,6 +17,7 @@ ARG lm_alpha=0.75
 ARG lm_beta=1.85
 ARG early_stop=1
 
+ARG lm_evaluate_range=
 ARG english_compatible=0
 
 # Make sure we can extract filenames with UTF-8 chars
@@ -44,6 +45,7 @@ ENV DROPOUT=$dropout
 ENV LM_ALPHA=$lm_alpha
 ENV LM_BETA=$lm_beta
 
+ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 ENV ENGLISH_COMPATIBLE=$english_compatible
 
 ENV EARLY_STOP=$early_stop
