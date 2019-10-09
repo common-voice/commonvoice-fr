@@ -8,11 +8,11 @@ ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
 ARG model_language=fr
 
-ARG batch_size=68
+ARG batch_size=64
 ARG n_hidden=2048
 ARG epochs=60
 ARG learning_rate=0.0001
-ARG dropout=0.2
+ARG dropout=0.25
 ARG lm_alpha=0.75
 ARG lm_beta=1.85
 ARG early_stop=1
