@@ -25,6 +25,7 @@ pushd $HOME/ds/
 		python -u DeepSpeech.py \
 			--show_progressbar True \
 			--use_cudnn_rnn True \
+			--automatic_mixed_precision True \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--lm_binary_path /mnt/lm/lm.binary \
 			--lm_trie_path /mnt/lm/trie \
