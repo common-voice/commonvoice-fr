@@ -171,7 +171,8 @@ def clean_sentence(string: str):
     # normalize
     string = unicodedata.normalize("NFKC", string)
     string = string.lstrip(' -—»|') # didascalies and others
-    string = string.replace('\n', '')
+    string = string.replace('\n', ' ')
+    string = string.strip()
     return string
 
 def list_files(inputdir: str):
