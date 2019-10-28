@@ -78,7 +78,7 @@ Pas une déchirure, pas une flexion, pas une déformation.
 À l’intérieur, peu de désordre, en somme.
 Leurs saisines étaient intactes.
 C’était Michel Ardan.
-Il se palpa, poussa un « hem » sonore, puis il dit :« Michel Ardan, complet.
+Il se palpa, poussa un « hem » sonore, puis il dit : « Michel Ardan, complet.
 Le courageux Français voulut se lever ; mais il ne put se tenir debout.
 Cela me produit le même effet que deux bouteilles de Corton.
 Seulement, c’est peut-être moins agréable à avaler !
@@ -95,7 +95,7 @@ Le gaz ne s’était pas échappé.
 Ces corps étaient renversés l’un sur l’autre, comme des masses inertes.
 Nicholl dessus, Barbicane dessous.
 Ardan redressa le capitaine, l’accota contre un divan, et le frictionna vigoureusement.
-Puis, regardant autour de lui :« Et Barbicane ? demanda-t-il.
+Puis, regardant autour de lui : « Et Barbicane ? demanda-t-il.
 Chacun son tour, répondit tranquillement Michel Ardan.
 J’ai commencé par toi, Nicholl, parce que tu étais dessus.
 Passons maintenant à Barbicane.
@@ -345,7 +345,7 @@ D’où résulte que gr égale...
 Soixante-deux millions quatre cent vingt-six mille mètres carrés, répondit Nicholl.
 Et maintenant ? demanda Michel Ardan.
 J’ai une vague idée que cela doit être ainsi, dit Michel.
-Barbicane écrivit rapidement sur le papier :Nicholl lut d’un œil avide.
+Barbicane écrivit rapidement sur le papier :   Nicholl lut d’un œil avide.
 C’est cela ! c’est cela ! s’écria-t-il.
 Est-ce clair ? demanda Barbicane.
 C’est écrit en lettres de feu ! répondit Nicholl.
@@ -373,7 +373,7 @@ Nicholl revit ses chiffres.
 Les trois amis se regardèrent silencieusement.
 De déjeuner, plus question.
 Nicholl s’était croisé les bras, examinant ses calculs.
-Michel Ardan murmurait :« Voilà bien ces savants !
+Michel Ardan murmurait : « Voilà bien ces savants !
 Ils n’en font jamais d’autres !
 Tout d’un coup, le capitaine fit une réflexion qui alla droit à Barbicane.
 Ah çà ! dit-il, il est sept heures du matin.
@@ -1351,7 +1351,7 @@ C’est son secret lui-même que Dieu nous dira !
 Elle s’identifiera avec l’éternelle sagesse !
 Barbicane croisa ses bras sur sa poitrine par un mouvement de sublime résignation.
 À la volonté du Ciel !
-dit-il « Eh bien, lieutenant, et ce sondage ?
+dit-il                « Eh bien, lieutenant, et ce sondage ?
 Je crois, monsieur, que l’opération touche à sa fin, répondit le lieutenant Bronsfield.
 En effet, Bronsfield, c’est une forte dépression, dit le capitaine Blomsberry.
 J’en conviens, Bronsfield.

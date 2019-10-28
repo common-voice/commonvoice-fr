@@ -39,7 +39,7 @@ Non, je suis du Midi, répondit le jeune homme.
 Ce dernier, en effet, n’en disait pas si long d’habitude.
 Moi, dit-il, je suis de Montsou, je m’appelle Bonnemort.
 C’est un surnom ? demanda Étienne étonné.
-Le vieux eut un ricanement d’aise, et montrant le Voreux : — Oui, oui...
+Le vieux eut un ricanement d’aise, et montrant le Voreux :  — Oui, oui...
 Étienne le regardait, regardait le sol qu’il tachait de la sorte.
 Il y a longtemps, reprit-il, que vous travaillez à la mine ?
 Bonnemort ouvrit tout grands les deux bras.
@@ -52,7 +52,7 @@ D’ailleurs, je suis solide, à part les jambes.
 Une crise de toux l’interrompit encore.
 Et ça vous fait tousser aussi ? dit Étienne.
 Mais il répondit non de la tête, violemment.
-Puis, quand il put parler : — Non, non, je me suis enrhumé, l’autre mois.
+Puis, quand il put parler :  — Non, non, je me suis enrhumé, l’autre mois.
 Jamais je ne toussais, à présent je ne peux plus me débarrasser...
 Et le drôle, c’est que je crache, c’est que je crache...
 Un raclement monta de sa gorge, il cracha noir.
@@ -74,7 +74,7 @@ On ne compte plus...
 Ah ! oui, ah ! oui, il y en a, de l’argent !
 En bas, la cage devait être réparée, les moulineurs avaient repris leur besogne.
 Si monsieur Hennebeau savait à quoi tu perds le temps !
-Il demanda : — Alors, c’est à monsieur Hennebeau, la mine ?
+Il demanda :  — Alors, c’est à monsieur Hennebeau, la mine ?
 Non, expliqua le vieux, monsieur Hennebeau n’est que le directeur général.
 Il est payé comme nous.
 D’un geste, le jeune homme montra l’immensité des ténèbres.
@@ -180,7 +180,7 @@ Dès quatre heures, la descente des ouvriers commençait.
 Cinq cent cinquante-quatre mètres, répondit l’homme.
 Mais il y a quatre accrochages au-dessus, le premier à trois cent vingt.
 Tous deux se turent, les yeux sur le câble qui remontait.
-Étienne reprit : — Et quand ça casse ?
+Étienne reprit :  — Et quand ça casse ?
 Ah ! quand ça casse...
 Le mineur acheva d’un geste.
 Pourquoi s’entêter ? ce maître-porion le congédierait comme les autres.
@@ -189,7 +189,7 @@ C’étaient les Maheu et les Levaque.
 Mais, derrière elle, Maheu avait entendu, et il répondit, il causa un instant.
 Non, on n’avait besoin de personne.
 Ce pauvre diable d’ouvrier, perdu sur les routes, l’intéressait.
-Lorsqu’il le quitta, il dit aux autres :— Hein !
+Lorsqu’il le quitta, il dit aux autres : — Hein !
 On pourrait être comme ça...
 Faut pas se plaindre, tous n’ont pas du travail à crever.
 Comme les Maheu arrivaient, des rires éclataient dans la grosse chaleur.
@@ -214,7 +214,7 @@ Que fait-il donc, cette rosse de Chaval ?
 Encore quelque fille culbutée sur un tas de pierres !...
 Nous sommes en retard d’une demi-heure, aujourd’hui.
 Zacharie et Levaque se rôtissaient tranquillement les épaules.
-Le premier finit par dire : — C’est Chaval que tu attends ?...
+Le premier finit par dire :  — C’est Chaval que tu attends ?...
 Il est arrivé avant nous, il est descendu tout de suite.
 Comment ! tu sais ça et tu ne m’en dis rien !...
 Étienne la laissa passer, monta derrière elle.
@@ -239,7 +239,7 @@ Celui-ci a quatre mètres de diamètre, continuait Maheu, pour l’instruire.
 Tenez ! nous arrivons au niveau, entendez-vous ?
 Étienne se demandait justement quel était ce bruit d’averse.
 Déjà, on retombait au néant.
-Maheu disait : — C’est le premier accrochage.
+Maheu disait :  — C’est le premier accrochage.
 Nous sommes à trois cent vingt mètres...
 Trois autres accrochages passèrent, dans un envolement de clartés.
 La pluie assourdissante battait les ténèbres.
@@ -274,7 +274,7 @@ J’ai deux kilomètres à faire de Montsou, et je suis là le premier !
 Étienne avait senti l’injure, sans comprendre encore.
 Un silence régna, tous se mettaient au travail.
 Tu es donc une fille ? murmura-t-il, stupéfait.
-Elle répondit de son air gai, sans rougeur : — Mais oui...
+Elle répondit de son air gai, sans rougeur :  — Mais oui...
 Vrai ! tu y as mis le temps !
 C’était Maheu qui souffrait le plus.
 Mais son supplice s’aggravait surtout de l’humidité.
@@ -390,7 +390,7 @@ Dans la taille, le travail des haveurs avait repris.
 Tout disparaissait dans cette rage du gain disputé si rudement.
 Zacharie, est-ce fait ?
 Le jeune homme boisait depuis un instant.
-Il s’éveilla, il répondit :— Oui, ça suffira, on verra demain.
+Il s’éveilla, il répondit : — Oui, ça suffira, on verra demain.
 Et il retourna prendre sa place à la taille.
 Levaque et Chaval, eux aussi, lâchaient la rivelaine.
 Il y eut un repos.
@@ -430,8 +430,8 @@ Quand je vous dis qu’ils se fichent du monde ! criait l’ingénieur.
 Et vous, nom d’un chien ! vous ne surveillez donc pas ?
 Mais si, mais si, balbutiait le maître-porion.
 On est las de leur répéter les choses.
-Négrel appela violemment : — Maheu !
-Il continuait : — Voyez ça, est-ce que ça tient ?...
+Négrel appela violemment :  — Maheu !
+Il continuait :  — Voyez ça, est-ce que ça tient ?...
 C’est bâti comme quatre sous.
 Pardi ! je comprends que le raccommodage nous coûte si cher.
 N’est-ce pas ? pourvu que ça dure tant que vous en avez la responsabilité !
@@ -471,7 +471,7 @@ Voyons, tu peux bien nous laisser monter.
 Impossible, demande au porion...
 On me mettrait à l’amende.
 De nouveaux grondements furent étouffés.
-Catherine se pencha, dit à l’oreille d’Étienne :— Viens donc voir l’écurie.
+Catherine se pencha, dit à l’oreille d’Étienne : — Viens donc voir l’écurie.
 C’est là qu’il fait bon !
 Elle se trouvait à gauche, au bout d’une courte galerie.
 L’unique lampe avait une lueur calme de veilleuse.
@@ -569,7 +569,7 @@ Elle était en politique beaucoup plus radicale que son mari.
 La lettre de Pluchart, dit-elle.
 Ah ! s’il était le maître, celui-là, ça ne tarderait pas à mieux aller !
 Ce nom, jeté brusquement, le fit tressaillir.
-Il dit tout haut, comme malgré lui :— Je le connais, Pluchart.
+Il dit tout haut, comme malgré lui : — Je le connais, Pluchart.
 Un homme capable, j’ai causé souvent avec lui.
 Alors, l’affaire fut conclue en quatre paroles.
 Il y avait une chambre, le locataire était parti le matin.
@@ -597,7 +597,7 @@ Oh ! si monsieur et madame voyaient mademoiselle !...
 Elle dort, oh ! elle dort, ainsi qu’un Jésus...
 On n’a pas idée de ça, c’est un plaisir à la regarder.
 Le père et la mère échangeaient des regards attendris.
-Il dit en souriant :— Viens-tu voir ?
+Il dit en souriant : — Viens-tu voir ?
 Cette pauvre mignonne ! murmura-t-elle.
 Et ils montèrent ensemble.
 Ce maudit vent l’aura empêchée de fermer les yeux, dit la mère doucement.
@@ -635,7 +635,7 @@ Elle finit par se remettre à son chocolat.
 Est-ce que tu as quelque chose à me dire ? demanda Monsieur Grégoire.
 Non rien du tout, se hâta de répondre Deneulin.
 Cécile le questionna sur Jeanne et sur Lucie, ses filles.
-Monsieur Grégoire reprit :— Et tout marche-t-il bien, à la fosse ?
+Monsieur Grégoire reprit : — Et tout marche-t-il bien, à la fosse ?
 Dame ! je suis bousculé avec les camarades, par cette saleté de crise...
 Ah ! nous payons les années prospères !
 Heureusement, rien n’est désespéré, je m’en tirerai quand même.
@@ -645,7 +645,7 @@ On devait, disait-il, trouver là de l’or à la pelle.
 L’idée était juste.
 Maintenant, tout dégringole, tu peux courir...
 Monsieur Grégoire achevait son chocolat, sans hâte.
-Il répondit paisiblement :— Jamais !...
+Il répondit paisiblement : — Jamais !...
 Tu sais bien que je ne veux pas spéculer.
 Il ne faut pas être si gourmand, que diable !
 Deneulin l’écoutait avec un sourire gêné.
@@ -738,7 +738,7 @@ Oh ! les pauvres mignons ! s’écria Cécile, sont-ils pâlots d’être allés
 Honorine, va donc chercher le paquet, dans l’armoire.
 Justement, continuait Cécile, j’ai encore deux robes de laine et des fichus...
 Vous allez voir, ils auront chaud, les pauvres mignons !
-La Maheude, alors, retrouva sa langue, bégayant :— Merci bien, Mademoiselle...
+La Maheude, alors, retrouva sa langue, bégayant : — Merci bien, Mademoiselle...
 Vous êtes tous bien bons...
 Vous n’avez que ces deux-là ? demanda madame Grégoire, pour rompre le silence.
 Sept enfants, mais pourquoi ? bon Dieu !
@@ -918,7 +918,7 @@ Non, le grand-père était déjà sorti, pour son tour de promenade accoutumé.
 Et le silence recommença.
 Tous deux vinrent se planter près du père, le petit en avant.
 Est-ce que les enfants en ont eu ? demanda-t-il.
-Et, comme sa femme hésitait :— Tu sais, je n’aime pas ces injustices.
+Et, comme sa femme hésitait : — Tu sais, je n’aime pas ces injustices.
 Mais oui, ils en ont eu ! s’écria-t-elle, en colère.
 N’est-ce pas, Alzire, que nous avons tous mangé du fromage ?
 Vous devriez rougir d’être toujours dans l’assiette de votre père.
@@ -988,7 +988,7 @@ La nuit venait par grandes fumées, noyant les lointains perdus de la plaine.
 C’était d’une tristesse blafarde et morte d’ensevelissement.
 D’abord, ce furent la Brûlé et son gendre Pierron.
 Pierron la suivait paisiblement, sans répondre.
-Il finit par dire :— Fallait peut-être sauter sur le chef.
+Il finit par dire : — Fallait peut-être sauter sur le chef.
 Merci ! pour avoir des ennuis !
 Tends le derrière, alors ! cria-t-elle.
 Ah ! nom de Dieu ! si ma fille m’avait écoutée !...
@@ -1080,7 +1080,7 @@ Brusquement, Catherine regarda autour d’elle.
 Oh ! non, oh ! non, murmura-t-elle, je t’en prie, laisse-moi !
 Non, non, je ne veux pas ! je te dis que je suis trop jeune...
 Vrai ! plus tard, quand je serai faite au moins.
-Il grogna sourdement :— Bête ! rien à craindre alors...
+Il grogna sourdement : — Bête ! rien à craindre alors...
 Qu’est-ce que ça te fiche ?
 Mais il ne parla pas davantage.
 Il l’avait empoignée solidement, il la jetait sous le hangar.
@@ -1142,7 +1142,7 @@ Il faut que ça pète, répéta énergiquement madame Rasseneur.
 Oui, oui, crièrent-ils tous les trois, il faut que ça pète.
 Souvarine flattait maintenant les oreilles de Pologne, dont le nez se frisait de plaisir.
 S’il monte trop haut, l’offre trop grande le fait baisser...
-Il se leva, en disant :— Allons nous coucher.
+Il se leva, en disant : — Allons nous coucher.
 Tout ça ne m’empêchera pas de me lever à trois heures.
 Rasseneur fermait la maison.
 Un fonds d’idées obscures, endormies en lui, s’agitait, s’élargissait.
@@ -1155,7 +1155,7 @@ Chaval s’emporta, jamais il n’aurait baissé, lui !
 Et Zacharie, venu par curiosité, déclara que c’était dégoûtant.
 Mais Étienne les fit taire d’un geste de sourde violence.
 Ça finira, nous serons les maîtres, un jour !
-Il répéta :— Les maîtres...
+Il répéta : — Les maîtres...
 Ah ! foutu sort ! ce ne serait pas trop tôt !
 C’était le dernier dimanche de juillet, le jour de la ducasse de Montsou.
 Le dimanche bouleversait les heures du lever, chez les Maheu.
@@ -1173,7 +1173,7 @@ Presque tous les dimanches, le machineur s’enfermait, écrivait ou lisait.
 Joues-tu ? demanda Levaque à Maheu.
 Il avait trop chaud, il crevait déjà de soif.
 Apporte donc une chope.
-Et, se retournant vers Maheu :— Tu sais, c’est moi qui paie.
+Et, se retournant vers Maheu : — Tu sais, c’est moi qui paie.
 Maintenant, tous se tutoyaient.
 Un jour ou l’autre, il finirait par chercher au coron une famille.
 Mais des cris éclatèrent, Levaque avait abattu toutes les quilles d’un coup.
@@ -1250,7 +1250,7 @@ Pourquoi ne prenaient-ils pas un logeur, Étienne par exemple, qui cherchait une
 Et, si nous nous mettons en grève, tu comprends l’utilité de cette caisse.
 Hein ? c’est dit, tu en es ?
 Pierron avait baissé les yeux, pâlissant.
-Il bégaya :— Je réfléchirai...
+Il bégaya : — Je réfléchirai...
 Quand on se conduit bien, c’est la meilleure caisse de secours.
 Et, justement, Zacharie revenait enfin, avec Mouquet et Levaque.
 Paisiblement, Philomène déclara qu’elle aimait mieux le voir rire que pleurer.
@@ -1261,7 +1261,7 @@ On arriva débandé au coron.
 Étienne avait emmené Chaval boire encore chez Rasseneur.
 Tape là-dedans, tu es un bon !
 Un commencement d’ivresse faisait flamber les yeux d’Étienne.
-Il cria :— Oui, soyons d’accord...
+Il cria : — Oui, soyons d’accord...
 Vois-tu, moi, pour la justice je donnerais tout, la boisson et les filles.
 Jamais, du reste, elle n’eut à se fâcher.
 Étienne ne se plaignait guère que de Jeanlin, qui dormait en chien de fusil.
@@ -1324,7 +1324,7 @@ Maheu approuva de la tête.
 Et cause donc à ces messieurs de l’affaire de ton père.
 Le médecin s’entend avec la Direction...
 N’est-ce pas ? vieux, que le médecin se trompe, que vous pouvez encore travailler ?
-Elle dut répéter sa question, et il grogna :— Bien sûr que je travaillerai.
+Elle dut répéter sa question, et il grogna : — Bien sûr que je travaillerai.
 On n’est pas fini parce qu’on a mal aux jambes.
 Mon Dieu ! nous serons bientôt tous morts, si ça continue.
 Quand on est mort, dit Maheu, on n’a plus faim.
@@ -1386,7 +1386,7 @@ Elle réalisait des économies dans la poche de ses mineurs.
 Nom de Dieu de nom de Dieu ! répéta Maheu en relevant la tête.
 Nous sommes des jeans-foutre, si nous acceptons ça !
 Mais le guichet se trouvait libre, il s’approcha pour être payé.
-Puis, il répéta :— Maheu et consorts, veine Filonnière, taille numéro sept...
+Puis, il répéta : — Maheu et consorts, veine Filonnière, taille numéro sept...
 Pardon, Monsieur, balbutia le haveur saisi, êtes-vous sûr de ne pas vous tromper ?
 Non, non je ne me trompe pas, reprit l’employé.
 Quant au père Bonnemort, il n’avait que trois journées.
@@ -1459,7 +1459,7 @@ Poussée par le vent de la chute, une poussière épaisse montait dans les voies
 Lorsque les premiers butèrent contre l’éboulement, ils crièrent, appelèrent les camarades.
 Le dommage n’avait rien de grave.
 Mais les cœurs se serrèrent, lorsqu’un râle de mort sortit des décombres.
-Bébert, lâchant son train, accourait en répétant :— Jeanlin est dessous !
+Bébert, lâchant son train, accourait en répétant : — Jeanlin est dessous !
 Il fut pris d’une fureur de désespoir, il ne lâcha que des jurons.
 Nom de Dieu ! nom de Dieu ! nom de Dieu !
 On voulait les faire taire, elles s’affolaient, hurlaient plus fort, à chaque râle.
@@ -1583,7 +1583,7 @@ Chez moi, tous les hommes sont descendus, ce matin.
 Mais ça peut gagner.
 Je ne suis pas tranquille...
 Voyons, où en êtes-vous ?
-Alors, il s’interrompit pour dire :— Déjeunez avec nous.
+Alors, il s’interrompit pour dire : — Déjeunez avec nous.
 Je vous continuerai ça au dessert.
 Elle fut d’ailleurs charmante.
 Mais elle a eu peur de recevoir des pierres...
@@ -1598,7 +1598,7 @@ La conversation était tombée sur la crise industrielle, qui s’aggravait depu
 Et ils vivaient bien, et ils prenaient des goûts de luxe...
 Aujourd’hui, naturellement, ça leur semble dur, de revenir à leur frugalité ancienne.
 Elles sont délicates, n’est-ce pas ?
-Le directeur continuait :— Mais, en vérité, est-ce notre faute ?
+Le directeur continuait : — Mais, en vérité, est-ce notre faute ?
 Nous sommes atteints cruellement, nous aussi...
 C’est ce que les ouvriers ne veulent pas comprendre.
 Tout se tient, une secousse lointaine suffit à ébranler le monde...
@@ -1644,7 +1644,7 @@ Et pourquoi me piller ?
 N’êtes-vous pas un actionnaire de Montsou ?
 Vous ne faites rien, vous vivez du travail des autres.
 Enfin, vous êtes l’infâme capital, et cela suffit...
-Il bégaya :— De l’argent volé, ma fortune !
+Il bégaya : — De l’argent volé, ma fortune !
 Est-ce que mon bisaïeul n’avait pas gagné, et durement, la somme placée autrefois ?
 Est-ce que nous n’avons pas couru tous les risques de l’entreprise ?
 Est-ce que je fais un mauvais usage des rentes, aujourd’hui ?
@@ -1662,7 +1662,7 @@ Mais moi, j’y resterai, si la grève gagne Vandame.
 Ah ! je ne me vois pas à la noce, je vous assure !
 Cette confession involontaire parut frapper Monsieur Hennebeau.
 Mais Deneulin regrettait déjà ses plaintes.
-Il cria :— Jamais de la vie !
+Il cria : — Jamais de la vie !
 Une charlotte de pommes meringuée fut comblée d’éloges.
 Mais, de nouveau, l’idée de ce mariage, fait là, devant lui, le rassura.
 Hippolyte servait le café, lorsque la femme de chambre accourut, pleine d’effarement.
@@ -1682,7 +1682,7 @@ Ce serait propre, de lâcher les camarades !...
 Je fais mon devoir.
 Elle se coucha à son tour.
 Ni l’un ni l’autre ne parlait.
-Puis, après un long silence, elle répondit :— Tu as raison, vas-y.
+Puis, après un long silence, elle répondit : — Tu as raison, vas-y.
 Seulement, mon pauvre vieux, nous sommes foutus.
 Il y avait des pommes de terre.
 Comme il ne restait qu’un petit morceau de beurre, personne n’y toucha.
@@ -1946,7 +1946,7 @@ Maheu la débarrassa et Pluchart put continuer.
 Puis, il donna la parole au citoyen Rasseneur, qui la demandait.
 Déjà, Rasseneur se plantait à côté de la table, près des chopes.
 Une chaise retournée lui servait de tribune.
-Il semblait très ému, il toussa avant de lancer à pleine voix :— Camarades...
+Il semblait très ému, il toussa avant de lancer à pleine voix : — Camarades...
 Pourtant, ce jour-là, dès les premiers mots, il avait senti une opposition sourde.
 Aussi avançait-il prudemment.
 C’était un vote réglé à l’avance.
@@ -1954,7 +1954,7 @@ Citoyens, dit Pluchart, permettez-moi de prendre la parole.
 Un silence profond se fit.
 Peu à peu, il l’enflait et en tirait des effets pathétiques.
 Une houle agita les têtes.
-Quelques-uns crièrent : — C’est ça !...
+Quelques-uns crièrent :  — C’est ça !...
 C’était la conquête du monde avant trois ans.
 Et il énumérait les peuples conquis.
 De tous côtés pleuvaient les adhésions.
@@ -2003,7 +2003,7 @@ Aide-moi donc, il faudrait lui faire boire quelque chose.
 Elle en ressortit aussitôt avec du genièvre et un pain.
 Le genièvre ressuscita la vieille, qui, sans parler, mordit au pain, goulument.
 Lorsqu’elle eut mangé, elle s’en alla, étourdie.
-Et, comme il hésitait :— Alors, tu as toujours peur de moi ?
+Et, comme il hésitait : — Alors, tu as toujours peur de moi ?
 Il la suivit, gagné par son rire.
 Ce pain qu’elle avait donné de si grand cœur, l’attendrissait.
 Cette chambre était très propre, il lui en fit compliment.
@@ -2145,7 +2145,7 @@ Ce fut d’ailleurs ce qui arriva, ce soir-là.
 J’en veux, tu sais.
 C’est moi qui l’ai prise.
 Hein, quoi ? cria-t-il.
-Puis, passant derrière eux :— Maintenant, vous allez rester là cinq minutes, sans vous retourner...
+Puis, passant derrière eux : — Maintenant, vous allez rester là cinq minutes, sans vous retourner...
 Lentement, une grande affection était née entre eux, dans leur commune terreur.
 Mais ni lui ni elle ne se serait permis de désobéir.
 C’était, d’ailleurs, dans l’intention de rompre.
@@ -2238,7 +2238,7 @@ Un silence profond tomba du ciel étoilé.
 Mais Étienne, déjà, continuait d’une voix changée.
 Est-ce qu’il se trouverait des lâches pour manquer à leur parole ?
 Il resta les bras en l’air.
-Des voix criaient :— Justice !...
+Des voix criaient : — Justice !...
 Il est temps, justice !
 Peu à peu, Étienne s’échauffait.
 Il n’avait pas l’abondance facile et coulante de Rasseneur.
@@ -2276,14 +2276,14 @@ Votez-vous la continuation de la grève ?
 Oui ! oui ! hurlèrent les voix.
 Et quelles mesures arrêtez-vous ?...
 Notre défaite est certaine, si des lâches descendent demain.
-Les voix reprirent, avec leur souffle de tempête :— Mort aux lâches !
+Les voix reprirent, avec leur souffle de tempête : — Mort aux lâches !
 Vous décidez donc de les rappeler au devoir, à la foi jurée...
 C’est cela, aux fosses ! aux fosses !
 Elle n’y était décidément pas.
 Oui, je vois des charbonniers de Vandame, qui n’ont pas quitté leur fosse...
 Pour toi ou pour un autre...
 Tu travailles à Jean-Bart...
-Une voix gouailleuse interrompit :— Oh ! il travaille...
+Une voix gouailleuse interrompit : — Oh ! il travaille...
 Il a une femme qui travaille pour lui.
 Chaval jura, le sang au visage.
 Nom de Dieu ! c’est défendu de travailler, alors ?
@@ -2419,7 +2419,7 @@ Qu’avait-elle donc ?
 Ce n’était pas une frime au moins, histoire de faire un somme ?
 Tiens-toi un peu que je trempe ça dans l’eau.
 Il s’effarait de la voir si molle.
-Elle ouvrit les yeux, elle bégaya :— J’ai froid.
+Elle ouvrit les yeux, elle bégaya : — J’ai froid.
 Ah ! j’aime mieux ça, par exemple ! cria Chaval soulagé.
 Quand elle se souvint, elle fut honteuse.
 Comment avait-elle osé enlever tout !
@@ -2427,7 +2427,7 @@ Bigre ! mais je crève de froid, dit-il en se rhabillant à son tour.
 Jamais elle ne l’avait vu si gentil.
 Cela aurait été si bon de vivre d’accord !
 Une tendresse la pénétrait, dans l’alanguissement de sa fatigue.
-Elle lui sourit, elle murmura :— Embrasse-moi.
+Elle lui sourit, elle murmura : — Embrasse-moi.
 Bien sûr, répondit-il, on serait mieux sous les arbres...
 Elle fut si touchée de l’entendre en convenir, qu’elle fit la vaillante.
 Oh ! c’est une mauvaise disposition.
@@ -2543,7 +2543,7 @@ Tas de bandits, vous verrez ça, quand nous serons redevenus les plus forts !
 C’étaient les femmes qui poussaient, glapissantes, excitant les hommes.
 La porte céda, tout de suite, une porte sans serrure, fermée simplement au loquet.
 Aux chaudières ! hurlait la Brûlé.
-Enfin, le premier put dire :— Mais il y a des hommes au fond, camarades !
+Enfin, le premier put dire : — Mais il y a des hommes au fond, camarades !
 Le vacarme redoubla, des voix partaient de toutes parts.
 Tant pis ! fallait pas descendre !...
 C’est bien fait pour les traîtres !...
@@ -2581,7 +2581,7 @@ Ah ! salope, toi aussi !...
 Quand ta mère crève de faim, tu la trahis pour ton maquereau !
 Maheu retint le bras, empêcha la gifle.
 La vue de Catherine avait achevé d’exaspérer Étienne.
-Il répétait :— En route ! aux autres fosses ! et tu viens avec nous, sale cochon !
+Il répétait : — En route ! aux autres fosses ! et tu viens avec nous, sale cochon !
 Tous l’entraînaient, le forçaient à galoper au milieu d’eux.
 Alors, en deux minutes, Jean-Bart se vida.
 La voie de sortie était trop étroite, des palissades furent rompues.
@@ -2612,14 +2612,14 @@ Vivement descendu de la passerelle, le porion barrait la porte, maintenant.
 Alors, Maheu voulut intervenir.
 Le vieux demeura un moment muet.
 Évidemment, son ignorance en matière de coalition égalait celle du haveur.
-Enfin, il répondit :— C’est votre droit, je ne dis pas.
+Enfin, il répondit : — C’est votre droit, je ne dis pas.
 Mais, moi, je ne connais que la consigne...
 Je suis seul, ici.
 Les derniers mots se perdirent dans des huées.
 Nom de Dieu ! vous ne passerez pas !...
 Ne poussez donc plus, je me fous dans le puits devant vous !
 Il y eut un frémissement, la foule recula, saisie.
-Lui, continuait :— Quel est le cochon qui ne comprend pas ça ?...
+Lui, continuait : — Quel est le cochon qui ne comprend pas ça ?...
 Moi, je ne suis qu’un ouvrier comme vous autres.
 On m’a dit de garder, je garde.
 Une grande secousse remporta la bande.
@@ -2666,7 +2666,7 @@ La Maheude, hors d’elle, tapait aussi fort que la Levaque.
 Pour rigoler, Jeanlin lui avait vidé une lampe dans le cou.
 Mais ces vengeances ne donnaient pas à manger.
 Les ventres criaient plus haut.
-Et la grande lamentation domina encore :— Du pain ! du pain ! du pain !
+Et la grande lamentation domina encore : — Du pain ! du pain ! du pain !
 Justement, à la Victoire, un ancien porion tenait une cantine.
 Sans doute il avait pris peur, sa baraque était abandonnée.
 Et, brusquement, il s’aperçut que Chaval avait filé, au milieu du tumulte.
@@ -2675,7 +2675,7 @@ Oui, nom de Dieu ! tu la casseras !
 Gaston-Marie ! à Gaston-Marie !
 Va-t’en donc ! cria Maheu à Catherine, qui elle aussi avait repris sa course.
 La bande, de nouveau, sillonna la plaine rase.
-Le cri recommença :— Du pain ! du pain ! du pain !
+Le cri recommença : — Du pain ! du pain ! du pain !
 Mais c’était surtout la pompe qu’on menaçait.
 Allons ! tu as juré avec les autres !
 Quelques-uns même brisaient sur elle des bâtons.
@@ -2703,7 +2703,7 @@ Je vous saute à la figure, moi ! si vous le touchez encore.
 Il avait failli d’abord l’assommer.
 Tout de suite, Chaval prit sa course, et Catherine galopa derrière lui.
 La foule, saisie, les regardait disparaître au coude de la route.
-Seule, la Maheude murmura :— Vous avez tort, fallait le garder.
+Seule, la Maheude murmura : — Vous avez tort, fallait le garder.
 Il va pour sûr faire quelque traîtrise.
 Mais la bande s’était remise en marche.
 Un colporteur qui passait, leur apprit que les dragons descendaient du côté de Crèvecœur.
@@ -2765,7 +2765,7 @@ D’où sortent-ils donc, ces bandits-là ?
 Dans le foin, Cécile ne bougeait plus.
 Il promènerait des têtes, il sèmerait l’or des coffres éventrés.
 Les femmes hurleraient, les hommes auraient ces mâchoires de loups, ouvertes pour mordre.
-Un grand cri s’éleva, domina la Marseillaise :— Du pain ! du pain ! du pain !
+Un grand cri s’éleva, domina la Marseillaise : — Du pain ! du pain ! du pain !
 Était-ce donc ce soir même que l’antique société craquait ?
 Et ce qu’ils virent, alors, acheva de les hébéter.
 Il n’avait rien d’obscène, ce derrière, et ne faisait pas rire, farouche.
@@ -2814,7 +2814,7 @@ Vous savez, dit-il, que ces dames ne sont pas rentrées encore.
 Pour la première fois, une inquiétude émotionna les Grégoire.
 Cécile pas rentrée ! comment rentrerait-elle, si la plaisanterie de ces mineurs se prolongeait ?
 J’ai songé à faire dégager la maison, ajouta Monsieur Hennebeau.
-Rose, demeurée là, osa murmurer de nouveau :— Oh ! monsieur, ils ne sont pas méchants.
+Rose, demeurée là, osa murmurer de nouveau : — Oh ! monsieur, ils ne sont pas méchants.
 Seulement, je réponds de la tranquillité...
 Peut-être même avait-on pillé ses mannes.
 Un peu de patience, dit Monsieur Hennebeau.
@@ -2830,7 +2830,7 @@ D’autre part, l’idée de sa ruine le bouleversait.
 Tranquillement, Monsieur Hennebeau affectait de faire les honneurs de chez lui.
 On causa pourtant, sans cesse ramené à cette inconcevable révolte.
 Alors, tout se gâta.
-Aussitôt, le cri s’éleva :— Vive la sociale ! à mort les bourgeois ! à mort !
+Aussitôt, le cri s’éleva : — Vive la sociale ! à mort les bourgeois ! à mort !
 Attends ! cria la Brûlé, on va t’en mettre au cul, de la dentelle !
 C’est à nous que ces salopes volent ça, reprit la Levaque.
 Elles se collent du poil sur la peau, lorsque nous crevons de froid...
@@ -3019,7 +3019,7 @@ Ah ! ça lui va, de parler ! reprenait Levaque.
 Oui, oui, on m’a dit que tu l’as dit.
 J’ai dit ce que j’ai dit, fichez-moi la paix, hein !...
 En effet, Pierron s’emportait, défendait sa femme.
-Mise au courant, elle se contenta de dire :— Ce cochon-là me déshonore.
+Mise au courant, elle se contenta de dire : — Ce cochon-là me déshonore.
 Et le médecin ? demanda Maheu, en refermant la porte.
 Pas venu, répondit la Maheude, toujours debout devant la fenêtre.
 Les petits sont rentrés ?
@@ -3114,7 +3114,7 @@ Je suis entré chez toi, pour te montrer que je t’estime quand même.
 Souvarine, les yeux noyés, tâtonnant de ses mains nerveuses, ne semblait pas avoir entendu.
 En Russie, rien ne marchait, il était désespéré des nouvelles qu’il avait reçues.
 Jamais ils n’en sortiront, avec leurs bêtises !
-Il cria :— Vous serez tous fauchés, culbutés, jetés à la pourriture.
+Il cria : — Vous serez tous fauchés, culbutés, jetés à la pourriture.
 Il naîtra, celui qui anéantira votre race de poltrons et de jouisseurs.
 Bien dit ! répéta madame Rasseneur, de son air poli et convaincu.
 Il se fit encore un silence.
@@ -3259,7 +3259,7 @@ Maintenant, il fallait pourtant se décider à le sortir.
 La veille, le palefrenier avait passé une heure avec deux hommes, ficelant Trompette.
 On attela Bataille, pour l’amener jusqu’au puits.
 Sur le carreau, les charbonniers restaient sombres, devant le cadavre de Trompette.
-Une femme dit à demi-voix :— Encore un homme, ça descend si ça veut !
+Une femme dit à demi-voix : — Encore un homme, ça descend si ça veut !
 Tous se ruaient, il fallut qu’Étienne les arrêtât.
 On était tous frères, on devait s’entendre.
 Au mot de république, le capitaine avait eu un geste nerveux.
@@ -3282,7 +3282,7 @@ Alors, les autres se joignirent à elle, ce furent des bordées d’insultes.
 Quelques-uns criaient encore : « Vivent les soldats ! au puits l’officier !
 Ah ! les jean-foutre ! hurla la Brûlé, en reculant.
 Déjà, tous revenaient, dans un mépris exalté de la mort.
-Des femmes se précipitaient, la Maheude et la Levaque clamaient :— Tuez-nous, tuez-nous donc !
+Des femmes se précipitaient, la Maheude et la Levaque clamaient : — Tuez-nous, tuez-nous donc !
 Nous voulons nos droits.
 Allez-y, pour voir, répétait Maheu, allez-y un peu, si vous êtes de bons bougres !
 Lâches, vous n’osez pas...
@@ -3461,7 +3461,7 @@ Il y eut un nouveau silence.
 C’était notre punition, continua durement Souvarine.
 Nous étions coupables de nous aimer...
 Étienne s’était arrêté, frissonnant, sous la nuit fraîche.
-Il ne discuta pas, il dit simplement :— Nous sommes loin, veux-tu que nous retournions ?
+Il ne discuta pas, il dit simplement : — Nous sommes loin, veux-tu que nous retournions ?
 Tout serait oublié, le pardon était offert même aux plus compromis.
 Oui, j’ai vu, répondit le machineur.
 Eh bien ! qu’est-ce que tu en penses ?
@@ -3494,7 +3494,7 @@ Personne ne répondit, seuls les ronflements des autres continuaient.
 Pendant cinq minutes, rien ne bougea.
 Puis, il y eut un nouveau craquement.
 Eh bien ! pourquoi ne réponds-tu pas ? qu’est-ce que tu fais donc ?
-Elle finit par dire :— Je me lève.
+Elle finit par dire : — Je me lève.
 À cette heure, tu te lèves ?
 Oui, je retourne travailler à la fosse.
 Va-t’en, je vais m’habiller.
@@ -3512,7 +3512,7 @@ Habillons-nous et ne faisons pas de bruit.
 Ils s’habillèrent dans les ténèbres, avec mille précautions.
 Tous dormaient, mais il fallait traverser le couloir étroit, où couchait la mère.
 Quand ils partirent, le malheur voulut qu’ils butèrent contre une chaise.
-Elle s’éveilla, elle demanda, dans l’engourdissement du sommeil :— Hein ? qui est-ce ?
+Elle s’éveilla, elle demanda, dans l’engourdissement du sommeil : — Hein ? qui est-ce ?
 C’est moi, ne vous inquiétez pas, dit celui-ci.
 J’étouffe, je sors respirer un peu.
 Et la Maheude se rendormit.
@@ -3526,7 +3526,7 @@ Souvarine l’avait écouté, frémissant.
 Il l’empoigna par une épaule, il le rejeta vers le coron.
 Rentre chez toi, je le veux, entends-tu !
 Mais, Catherine s’étant approchée, il la reconnut, elle aussi.
-Il dit simplement :— Va.
+Il dit simplement : — Va.
 Alors, tu pars toujours ?
 Eh bien ! donne-moi la main, mon vieux.
 Bon voyage et sans rancune.
@@ -3627,7 +3627,7 @@ Maintenant, la Maheude était là, parmi les femmes.
 Oui, oui, Catherine y était, Étienne aussi, un camarade les avait vus.
 Mais, au sujet des autres, l’accord ne se faisait toujours pas.
 Les noms ! les noms ! de grâce les noms !
-Négrel, énervé, dit très haut aux surveillants :— Mais faites-les donc taire !
+Négrel, énervé, dit très haut aux surveillants : — Mais faites-les donc taire !
 C’est à mourir de chagrin.
 Nous ne les savons pas, les noms.
 Deux heures s’étaient passées déjà.
@@ -3737,7 +3737,7 @@ Brusquement, la porte d’à côté s’ouvrit, et la Levaque parut.
 Oh ! monsieur et madame, mille pardons ! excusez-moi, mademoiselle !...
 C’est la voisine que vous voulez.
 Elle n’y est pas, elle est à Réquillart...
-Puis, d’un air hésitant, elle murmura :— J’ai la clef.
+Puis, d’un air hésitant, elle murmura : — J’ai la clef.
 Si monsieur et madame y tiennent absolument...
 Le grand-père est là.
 Les Grégoire, stupéfaits, la regardèrent.
@@ -3843,7 +3843,7 @@ Brusquement, ils se cognèrent contre des éclats de poutre, qui barraient le pl
 Des terres avaient coulé, un éboulement empêchait d’aller plus haut.
 Par bonheur, une porte s’ouvrait là, et ils débouchèrent dans une voie.
 Devant eux, la lueur d’une lampe les stupéfia.
-Un homme leur criait rageusement :— Encore des malins aussi bêtes que moi !
+Un homme leur criait rageusement : — Encore des malins aussi bêtes que moi !
 Comme il s’échappait, un dernier effondrement, derrière son dos, avait bouché la galerie.
 Il les aurait assommés.
 Ah ! c’est toi, Catherine !
@@ -3859,7 +3859,7 @@ La retraite se trouvait coupée déjà.
 Pas une issue, tous trois étaient murés.
 Alors, tu restes ? ajouta Chaval goguenard.
 Il y a encore ici de la place pour deux hommes...
-Le jeune homme reprit :— Si nous tapions, on nous entendrait peut-être.
+Le jeune homme reprit : — Si nous tapions, on nous entendrait peut-être.
 J’en suis las, de taper...
 Tiens ! essaie toi-même avec cette pierre.
 Puis, il colla son oreille, pour écouter.
@@ -3877,7 +3877,7 @@ Vrai, tu refuses ? dit-il à la herscheuse, de son air provoquant.
 Mon Dieu ! est-ce qu’on ne pouvait finir en bonne amitié !
 Il y avait un jour qu’ils étaient enfermés ensemble.
 La deuxième lampe pâlissait, ils allumèrent la troisième.
-Chaval entama son autre tartine, et il grogna :— Viens donc, bête !
+Chaval entama son autre tartine, et il grogna : — Viens donc, bête !
 Catherine eut un frisson.
 Pour la laisser libre, Étienne s’était détourné.
 Les larmes qu’elle étouffait ruisselèrent alors.
@@ -3914,7 +3914,7 @@ Mais le flot les rattrapa, ils baignèrent jusqu’à la ceinture.
 Debout, acculés, l’échine collée contre la roche, ils la regardaient croître, toujours, toujours.
 Quand elle atteindrait leur bouche, ce serait fini.
 Nom de Dieu ! jura sourdement Étienne.
-Elle répéta le mot des mineurs, à voix basse :— La mort souffle la lampe.
+Elle répéta le mot des mineurs, à voix basse : — La mort souffle la lampe.
 Pourtant, devant cette menace, leur instinct luttait, une fièvre de vivre les ranima.
 Et ils souffraient surtout des ténèbres, qui les empêchaient de voir venir la mort.
 Un grand silence régnait, la mine gorgée d’eau ne bougeait plus.
@@ -3997,7 +3997,7 @@ Si, l’Homme, tu sais ?...
 Tiens ! il est là...
 Oh ! j’ai peur, oh ! j’ai peur !
 Elle se tut, grelottante.
-Puis, à voix très basse, elle continua :— Non, c’est toujours l’autre.
+Puis, à voix très basse, elle continua : — Non, c’est toujours l’autre.
 Celui qui est avec nous, celui qui n’est plus.
 Ça le reprend, sa jalousie...
 Oh ! renvoie-le, oh ! garde-moi, garde-moi tout entière !
@@ -4030,7 +4030,7 @@ Il dut tourner la tête, le puits l’exaspérait.
 Toi aussi ! murmura-t-il, navré.
 Maintenant, dans le nouveau flot monté de la baraque, il les reconnaissait tous.
 Toi aussi ! toi aussi ! toi aussi !
-Et tous frémissaient, bégayaient d’une voix étouffée :— J’ai une mère...
+Et tous frémissaient, bégayaient d’une voix étouffée : — J’ai une mère...
 J’ai des enfants...
 Il faut du pain.
 Et la Maheude ? demanda Étienne.
