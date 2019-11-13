@@ -61,6 +61,22 @@ pushd $HOME/ds/
 			--export_language "fra"
 	fi;
 
+	if [ ! -f "/mnt/models/fr-fr.zip" ]; then
+		python -u DeepSpeech.py \
+			--alphabet_config_path /mnt/models/alphabet.txt \
+			--lm_binary_path /mnt/lm/lm.binary \
+			--lm_trie_path /mnt/lm/trie \
+			--feature_cache /mnt/sources/feature_cache \
+			--n_hidden ${N_HIDDEN} \
+			--beam_width ${BEAM_WIDTH} \
+			--lm_alpha ${LM_ALPHA} \
+			--lm_beta ${LM_BETA} \
+			--checkpoint_dir /mnt/checkpoints/ \
+			--export_dir /mnt/models/fr-fr \
+			--export_zip \
+			--export_language "Français (FR)"
+	fi;
+
 	if [ ! -f "/mnt/models/output_graph.pbmm" ]; then
 		./convert_graphdef_memmapped_format --in_graph=/mnt/models/output_graph.pb --out_graph=/mnt/models/output_graph.pbmm
 	fi;

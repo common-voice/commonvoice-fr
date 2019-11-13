@@ -1,8 +1,8 @@
 FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=80493c83c3c3b732ed6116babbbabc5adf8cecdc
-ARG ds_sha1=80493c83c3c3b732ed6116babbbabc5adf8cecdc
+ARG ds_branch=c5935644a1758c5d9e678642eb83106376dc0cd8
+ARG ds_sha1=c5935644a1758c5d9e678642eb83106376dc0cd8
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
@@ -15,6 +15,7 @@ ARG learning_rate=0.0001
 ARG dropout=0.3
 ARG lm_alpha=0.65
 ARG lm_beta=1.45
+ARG beam_width=500
 ARG early_stop=1
 
 ARG lm_evaluate_range=
@@ -44,6 +45,7 @@ ENV LEARNING_RATE=$learning_rate
 ENV DROPOUT=$dropout
 ENV LM_ALPHA=$lm_alpha
 ENV LM_BETA=$lm_beta
+ENV BEAM_WIDTH=$beam_width
 
 ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 ENV ENGLISH_COMPATIBLE=$english_compatible
