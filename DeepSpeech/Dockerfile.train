@@ -2,7 +2,7 @@ FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG ds_repo=mozilla/DeepSpeech
 ARG ds_branch=b3787ee1888322dc68b8b3e4a5f6f859ba9dd05e
-ARG ds_sha1=b3787ee1888322dc68b8b3e4a5f6f859ba9dd05e
+ARG ds_sha1=dab5183a985652f46b4b2dadde2d4df08e5fa4bf
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
