@@ -62,6 +62,7 @@ pushd $HOME/ds/
 	fi;
 
 	if [ ! -f "/mnt/models/fr-fr.zip" ]; then
+		mkdir /mnt/models/fr-fr || rm /mnt/models/fr-fr/*
 		python -u DeepSpeech.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--lm_binary_path /mnt/lm/lm.binary \
