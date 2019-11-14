@@ -49,7 +49,7 @@ pushd /mnt/extracted
 	fi;
 
 	if [ ! -f "/mnt/lm/trie" ]; then
-		curl -sSL https://index.taskcluster.net/v1/task/project.deepspeech.deepspeech.native_client.master.${DS_SHA1}.cpu/artifacts/public/native_client.tar.xz | pixz -d | tar -xf -
+		curl -sSL https://community-tc.services.mozilla.com/api/index/v1/task/project.deepspeech.deepspeech.native_client.master.${DS_SHA1}.cpu/artifacts/public/native_client.tar.xz | pixz -d | tar -xf -
 		./generate_trie /mnt/models/alphabet.txt /mnt/lm/lm.binary /mnt/lm/trie
 	fi;
 
