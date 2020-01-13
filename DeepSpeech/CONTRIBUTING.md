@@ -12,7 +12,7 @@
 ## Build the image:
 
 ```
-$ docker build -f Dockerfile.train.fr .
+$ docker build -f Dockerfile.train .
 ```
 
 Several parameters can be customized:
