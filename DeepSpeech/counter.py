@@ -21,7 +21,7 @@ def main(input_file, output_file, top_count=100000):
     vocab_str = '\n'.join(word for word, count in counter.most_common(top_count))
     print('Writing {}'.format(output_file))
     with open(output_file, 'w', encoding='utf-8') as output:
-        output.write(vocab_str.encode('utf-8'))
+        output.write(vocab_str)
 
 if __name__ == '__main__':
     main(sys.argv[1], sys.argv[2], int(sys.argv[3]))

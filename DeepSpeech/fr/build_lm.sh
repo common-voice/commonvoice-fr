@@ -32,13 +32,13 @@ pushd /mnt/extracted
 
 		python $HOME/counter.py sources_lm.txt top_words.txt 500000
 
-		lmplz	--order 5 \
+		lmplz	--order 4 \
 			--temp_prefix /mnt/tmp/ \
 			--memory 80% \
 			--text sources_lm.txt \
 			--arpa /mnt/lm/lm.arpa \
 			--skip_symbols \
-			--prune 0 0 0 1
+			--prune 0 0 1
 
 		filter single model:/mnt/lm/lm.arpa /mnt/lm/lm_filtered.arpa < top_words.txt
 
