@@ -1,8 +1,8 @@
 FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=b3787ee1888322dc68b8b3e4a5f6f859ba9dd05e
-ARG ds_sha1=dab5183a985652f46b4b2dadde2d4df08e5fa4bf
+ARG ds_branch=92d8bad7c113885690867a6128a7728325f540f3
+ARG ds_sha1=92d8bad7c113885690867a6128a7728325f540f3
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
@@ -92,6 +92,16 @@ USER trainer
 
 WORKDIR $HOMEDIR
 
+RUN wget -O - https://bitbucket.org/eigen/eigen/get/3.2.8.tar.bz2 | tar xj
+
+RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch \
+    && mkdir -p build \
+    && cd build \
+    && EIGEN3_ROOT=$HOMEDIR/eigen-eigen-07105f7124f9 cmake .. \
+    && make -j
+
+WORKDIR $HOMEDIR
+
 RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
 
 RUN git clone https://github.com/$ds_repo.git $DS_DIR
@@ -106,25 +116,17 @@ RUN cat requirements.txt | sed -e 's/^tensorflow/tensorflow-gpu/g' | pip install
 
 RUN pip install `python util/taskcluster.py --decoder`
 
-RUN TASKCLUSTER_SCHEME="https://community-tc.services.mozilla.com/tasks/index/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s" python util/taskcluster.py \
+RUN TASKCLUSTER_SCHEME="https://community-tc.services.mozilla.com/api/index/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s" python util/taskcluster.py \
 	--target="$(pwd)" \
 	--artifact="convert_graphdef_memmapped_format" \
-	--branch="r1.14" && chmod +x convert_graphdef_memmapped_format
+	--branch="r1.15" && chmod +x convert_graphdef_memmapped_format
 
 WORKDIR $HOMEDIR
-
-RUN wget -O - https://bitbucket.org/eigen/eigen/get/3.2.8.tar.bz2 | tar xj
-
-RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch \
-    && mkdir -p build \
-    && cd build \
-    && EIGEN3_ROOT=$HOMEDIR/eigen-eigen-07105f7124f9 cmake .. \
-    && make -j
 
 ENV PATH="$HOMEDIR/kenlm/build/bin/:$PATH"
 
 # Copy now so that docker build can leverage caches
-COPY --chown=trainer:trainer checks.sh generate_alphabet.sh package.sh run.sh $HOMEDIR/
+COPY --chown=trainer:trainer checks.sh generate_alphabet.sh package.sh run.sh counter.py $HOMEDIR/
 
 COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/*.sh $HOMEDIR/${MODEL_LANGUAGE}/
 

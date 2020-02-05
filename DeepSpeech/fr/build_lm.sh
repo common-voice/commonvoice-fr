@@ -27,9 +27,11 @@ pushd /mnt/extracted
 		> wiki_fr_lower_accents.txt
 	fi;
 
-	cat wiki_fr_lower.txt debats-assemblee-nationale.txt > sources_lm.txt
-
 	if [ ! -f "/mnt/lm/lm.binary" ]; then
+		cat wiki_fr_lower.txt debats-assemblee-nationale.txt > sources_lm.txt
+
+		python $HOME/counter.py sources_lm.txt top_words.txt 500000
+
 		lmplz	--order 4 \
 			--temp_prefix /mnt/tmp/ \
 			--memory 80% \
@@ -38,13 +40,15 @@ pushd /mnt/extracted
 			--skip_symbols \
 			--prune 0 0 1
 
+		filter single model:/mnt/lm/lm.arpa /mnt/lm/lm_filtered.arpa < top_words.txt
+
 		build_binary -a 255 \
 			-q 8 \
 			trie \
-			/mnt/lm/lm.arpa \
+			/mnt/lm/lm_filtered.arpa \
 			/mnt/lm/lm.binary
 
-		rm /mnt/lm/lm.arpa
+		rm /mnt/lm/lm.arpa /mnt/lm/lm_filtered.arpa
 		> wiki_fr_lower.txt
 	fi;
 

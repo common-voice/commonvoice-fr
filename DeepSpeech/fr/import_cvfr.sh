@@ -3,14 +3,16 @@
 set -xe
 
 pushd $HOME/ds/
-	if [ ! -f "/mnt/sources/fr.tar.gz" ]; then
+	CV_FR="cv-3-fr.tar.gz"
+
+	if [ ! -f "/mnt/sources/cv-3-fr.tar.gz" ]; then
 		exit 1
 	fi;
 
-	sha1=$(sha1sum --binary /mnt/sources/fr.tar.gz | awk '{ print $1 }')
+	sha1=$(sha1sum --binary /mnt/sources/cv-3-fr.tar.gz | awk '{ print $1 }')
 
-	if [ "${sha1}" != "2515b82b529a78c9febd5957d88dfa189ddb67e1" ]; then
-		echo "Invalid Common Voice FR dataset"
+	if [ "${sha1}" != "5ba6967d08aee255a36b2a8087cf638e499d163f" ]; then
+		echo "Invalid Common Voice FR v3 dataset"
 		exit 1
 	fi;
 
@@ -21,7 +23,12 @@ pushd $HOME/ds/
 	if [ ! -f "/mnt/extracted/data/cv-fr/clips/train.csv" ]; then
 		mkdir -p /mnt/extracted/data/cv-fr/ || true
 
-		tar -C /mnt/extracted/data/cv-fr/ -xf /mnt/sources/fr.tar.gz
+		tar -C /mnt/extracted/data/cv-fr/ -xf /mnt/sources/cv-3-fr.tar.gz
+
+		# Allow overwriting TSVs files before importing, for hacking with Corpora Creator
+		if [ -f "/mnt/sources/cv-fr-overwrite.tar.gz" ]; then
+			tar -C /mnt/extracted/data/cv-fr/ -xf /mnt/sources/cv-fr-overwrite.tar.gz
+		fi;
 
 		python bin/import_cv2.py ${IMPORT_AS_ENGLISH} /mnt/extracted/data/cv-fr/
 	fi;
