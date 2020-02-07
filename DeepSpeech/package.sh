@@ -31,4 +31,6 @@ pushd /mnt
 		tar -cf - \
 			-C /mnt/checkpoints/ checkpoint ${all_checkpoint_path} | xz -T0 > "checkpoint_fr.tar.xz"
 	fi;
+
+	cp /mnt/models/*.zip .
 popd
