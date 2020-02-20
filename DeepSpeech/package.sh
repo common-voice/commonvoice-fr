@@ -29,7 +29,7 @@ pushd /mnt
 		done;
 	
 		tar -cf - \
-			-C /mnt/checkpoints/ checkpoint ${all_checkpoint_path} | xz -T0 > "checkpoint_fr.tar.xz"
+			-C /mnt/checkpoints/ best_dev_checkpoint ${all_checkpoint_path} | xz -T0 > "checkpoint_fr.tar.xz"
 	fi;
 
 	cp /mnt/models/*.zip .
