@@ -35,6 +35,13 @@ Some parameters for the model itself:
  - `dropout` to define the dropout applied
  - `lm_alpha`, `lm_beta` to control language model alpha and beta parameters
 
+Pay attention to automatic mixed precision: it will speed up the training
+process (by itself and because it allows to increase batch size). However,
+this is only viable when you are experimenting on hyper-parameters. Proper
+selection of best evaluating model seems to vary much more when AMP is enabled
+than when it is disabled. So use with caution when tuning parameters and
+disable it when making a release.
+
 Default values should provide good experience.
 
 The default batch size has been tested with this mix of dataset:

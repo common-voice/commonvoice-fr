@@ -23,10 +23,15 @@ pushd $HOME/ds/
 			EARLY_STOP_FLAG="--noearly_stop"
 		fi;
 
+		AMP_FLAG=""
+		if [ "${AMP}" = "1" ]; then
+			AMP_FLAG="--automatic_mixed_precision True"
+		fi;
+
 		python -u DeepSpeech.py \
 			--show_progressbar True \
 			--use_cudnn_rnn True \
-			--automatic_mixed_precision True \
+			${AMP_FLAG} \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--lm_binary_path /mnt/lm/lm.binary \
 			--lm_trie_path /mnt/lm/trie \
@@ -57,7 +62,6 @@ pushd $HOME/ds/
 			--beam_width ${BEAM_WIDTH} \
 			--lm_alpha ${LM_ALPHA} \
 			--lm_beta ${LM_BETA} \
-			${EARLY_STOP_FLAG} \
 			--load "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
