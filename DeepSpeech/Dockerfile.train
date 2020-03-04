@@ -8,15 +8,16 @@ ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
 ARG model_language=fr
 
-ARG batch_size=96
+ARG batch_size=64
 ARG n_hidden=2048
-ARG epochs=60
+ARG epochs=30
 ARG learning_rate=0.0001
 ARG dropout=0.3
 ARG lm_alpha=0.65
 ARG lm_beta=1.45
 ARG beam_width=500
 ARG early_stop=1
+ARG amp=0
 
 ARG lm_evaluate_range=
 ARG english_compatible=0
@@ -51,6 +52,7 @@ ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 ENV ENGLISH_COMPATIBLE=$english_compatible
 
 ENV EARLY_STOP=$early_stop
+ENV AMP=$amp
 
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
