@@ -3,7 +3,9 @@ FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 ARG ds_repo=mozilla/DeepSpeech
 ARG ds_branch=92d8bad7c113885690867a6128a7728325f540f3
 ARG ds_sha1=92d8bad7c113885690867a6128a7728325f540f3
-ARG cc_repo=MestafaKamal/CorporaCreator
+ARG cc_repo=mozilla/CorporaCreator
+ARG cc_branch=
+ARG cc_sha1=
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
@@ -19,7 +21,7 @@ ARG lm_beta=1.45
 ARG beam_width=500
 ARG early_stop=1
 
-ARG duplicate_sentence_count=2
+ARG duplicate_sentence_count=1
 
 ARG lm_evaluate_range=
 ARG english_compatible=0
@@ -130,6 +132,10 @@ RUN TASKCLUSTER_SCHEME="https://community-tc.services.mozilla.com/api/index/v1/t
 WORKDIR $HOMEDIR
 
 RUN git clone https://github.com/$cc_repo.git $CC_DIR
+
+WORKDIR $CC_DIR
+
+RUN git checkout $cc_branch
 
 WORKDIR $CC_DIR
 

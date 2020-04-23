@@ -16,7 +16,7 @@ pushd $HOME/ds/
 		exit 1
 	fi;
 
-	if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
+	if [ "${ENGLISH_COMPATIBLE}" = "1" ] ; then
 		IMPORT_AS_ENGLISH="--normalize"
 	fi;
 
@@ -25,9 +25,13 @@ pushd $HOME/ds/
 
 		tar -C /mnt/extracted/data/cv-fr/ -xf /mnt/sources/cv-3-fr.tar.gz
 
-		create-corpora -d /mnt/extracted/corpora -f /mnt/extracted/data/cv-fr/validated.tsv -l fr -s ${DUPLICATE_SENTENCE_COUNT}
+		if [ ${DUPLICATE_SENTENCE_COUNT} -gt 1 ]; then
 
-		mv /mnt/extracted/corpora/fr/*.tsv /mnt/extracted/data/cv-fr/
+			create-corpora -d /mnt/extracted/corpora -f /mnt/extracted/data/cv-fr/validated.tsv -l fr -s ${DUPLICATE_SENTENCE_COUNT}
+
+			mv /mnt/extracted/corpora/fr/*.tsv /mnt/extracted/data/cv-fr/
+
+		fi;
 
 		# Allow overwriting TSVs files before importing, for hacking with Corpora Creator
 		if [ -f "/mnt/sources/cv-fr-overwrite.tar.gz" ]; then
