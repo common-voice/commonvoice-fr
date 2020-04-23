@@ -16,7 +16,7 @@ pushd $HOME/ds/
 		exit 1
 	fi;
 
-	if [ "${ENGLISH_COMPATIBLE}" = "1" ] ; then
+	if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 		IMPORT_AS_ENGLISH="--normalize"
 	fi;
 
