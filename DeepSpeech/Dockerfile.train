@@ -4,8 +4,8 @@ ARG ds_repo=mozilla/DeepSpeech
 ARG ds_branch=92d8bad7c113885690867a6128a7728325f540f3
 ARG ds_sha1=92d8bad7c113885690867a6128a7728325f540f3
 ARG cc_repo=mozilla/CorporaCreator
-ARG cc_branch=
-ARG cc_sha1=
+ARG cc_branch=64d63b69c3665645186565afd237b2266ed1abe9
+ARG cc_sha1=64d63b69c3665645186565afd237b2266ed1abe9
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
