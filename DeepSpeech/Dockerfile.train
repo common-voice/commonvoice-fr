@@ -140,8 +140,8 @@ RUN git checkout $cc_branch
 WORKDIR $CC_DIR
 
 RUN sed -i '43i \ \ \ \ \ \ \ \ # FIXME: THIS IS WRONG DONT USE VALIDATED.TSV AS A SOURCE \
-        if not ("locale" in corpora_data.columns): \
-            corpora_data["locale"] = [ self.args.langs[0] ] * len(corpora_data.index)' ./src/corporacreator/corpora.py
+\ \ \ \ \ \ \ \ if not ("locale" in corpora_data.columns): \
+\ \ \ \ \ \ \ \ \ \ \ \ corpora_data["locale"] = [ self.args.langs[0] ] * len(corpora_data.index)' ./src/corporacreator/corpora.py
 
 RUN pip install -r requirements.txt
 
