@@ -4,7 +4,6 @@ ARG ds_repo=mozilla/DeepSpeech
 ARG ds_branch=92d8bad7c113885690867a6128a7728325f540f3
 ARG ds_sha1=92d8bad7c113885690867a6128a7728325f540f3
 ARG cc_repo=mozilla/CorporaCreator
-ARG cc_branch=64d63b69c3665645186565afd237b2266ed1abe9
 ARG cc_sha1=64d63b69c3665645186565afd237b2266ed1abe9
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
@@ -135,13 +134,14 @@ RUN git clone https://github.com/$cc_repo.git $CC_DIR
 
 WORKDIR $CC_DIR
 
-RUN git checkout $cc_branch
+RUN git checkout $cc_sha1
 
 WORKDIR $CC_DIR
 
-RUN sed -i '43i \ \ \ \ \ \ \ \ # FIXME: THIS IS WRONG DONT USE VALIDATED.TSV AS A SOURCE \
-\ \ \ \ \ \ \ \ if not ("locale" in corpora_data.columns): \
-\ \ \ \ \ \ \ \ \ \ \ \ corpora_data["locale"] = [ self.args.langs[0] ] * len(corpora_data.index)' ./src/corporacreator/corpora.py
+# Copy copora patch
+COPY --chown=trainer:trainer corpora.patch $CC_DIR
+
+RUN patch p1 < corpora.patch
 
 RUN pip install -r requirements.txt
 
