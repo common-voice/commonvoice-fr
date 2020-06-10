@@ -18,7 +18,7 @@ pushd /mnt
 	
 	if [ ! -f "checkpoint_fr.tar.xz" ]; then
 		all_checkpoint_path=""
-		for ckpt in $(grep '^model_checkpoint_path:' checkpoints/checkpoint | cut -d'"' -f2);
+		for ckpt in $(grep '^model_checkpoint_path:' checkpoints/best_dev_checkpoint | cut -d'"' -f2);
 		do
 			ckpt_file=$(basename "${ckpt}")
 			for f in $(find checkpoints/ -type f -name "${ckpt_file}.*");
@@ -29,6 +29,8 @@ pushd /mnt
 		done;
 	
 		tar -cf - \
-			-C /mnt/checkpoints/ checkpoint ${all_checkpoint_path} | xz -T0 > "checkpoint_fr.tar.xz"
+			-C /mnt/checkpoints/ best_dev_checkpoint ${all_checkpoint_path} | xz -T0 > "checkpoint_fr.tar.xz"
 	fi;
+
+	cp /mnt/models/*.zip .
 popd

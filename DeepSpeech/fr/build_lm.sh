@@ -12,6 +12,10 @@ pushd /mnt/extracted
 		curl -sSL https://github.com/Common-Voice/commonvoice-fr/releases/download/lm-0.1/wiki.txt.xz | pixz -d | tr '[:upper:]' '[:lower:]' > wiki_fr_lower.txt
 	fi;
 
+	if [ ! -f "debats-assemblee-nationale.txt" ]; then
+		curl -sSL https://github.com/Common-Voice/commonvoice-fr/releases/download/lm-0.1/debats-assemblee-nationale.txt.xz | pixz -d | tr '[:upper:]' '[:lower:]' > debats-assemblee-nationale.txt
+	fi;
+
 	if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 		mv wiki_fr_lower.txt wiki_fr_lower_accents.txt
 		# Locally force LANG= to make iconv happy and avoid errors like:
@@ -24,26 +28,32 @@ pushd /mnt/extracted
 	fi;
 
 	if [ ! -f "/mnt/lm/lm.binary" ]; then
-		lmplz	--order 3 \
+		cat wiki_fr_lower.txt debats-assemblee-nationale.txt > sources_lm.txt
+
+		python $HOME/counter.py sources_lm.txt top_words.txt 500000
+
+		lmplz	--order 4 \
 			--temp_prefix /mnt/tmp/ \
 			--memory 80% \
-			--text wiki_fr_lower.txt \
+			--text sources_lm.txt \
 			--arpa /mnt/lm/lm.arpa \
 			--skip_symbols \
-			--prune 0 1
+			--prune 0 0 1
+
+		filter single model:/mnt/lm/lm.arpa /mnt/lm/lm_filtered.arpa < top_words.txt
 
 		build_binary -a 255 \
 			-q 8 \
 			trie \
-			/mnt/lm/lm.arpa \
+			/mnt/lm/lm_filtered.arpa \
 			/mnt/lm/lm.binary
 
-		rm /mnt/lm/lm.arpa
+		rm /mnt/lm/lm.arpa /mnt/lm/lm_filtered.arpa
 		> wiki_fr_lower.txt
 	fi;
 
 	if [ ! -f "/mnt/lm/trie" ]; then
-		curl -sSL https://index.taskcluster.net/v1/task/project.deepspeech.deepspeech.native_client.master.${DS_SHA1}.cpu/artifacts/public/native_client.tar.xz | pixz -d | tar -xf -
+		curl -sSL https://community-tc.services.mozilla.com/api/index/v1/task/project.deepspeech.deepspeech.native_client.master.${DS_SHA1}.cpu/artifacts/public/native_client.tar.xz | pixz -d | tar -xf -
 		./generate_trie /mnt/models/alphabet.txt /mnt/lm/lm.binary /mnt/lm/trie
 	fi;
 

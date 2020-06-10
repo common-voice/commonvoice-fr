@@ -12,7 +12,7 @@
 ## Build the image:
 
 ```
-$ docker build -f Dockerfile.train.fr .
+$ docker build -f Dockerfile.train .
 ```
 
 Several parameters can be customized:
@@ -24,6 +24,9 @@ Several parameters can be customized:
     "English-compatible mode": this will affect behavior such as english
     alphabet file can be re-used, when doing transfer-learning from English
     checkpoints for example.
+ - lm_evaluate_range, if non empty, this will perform a LM alpha/beta evaluation
+    the parameter is expected to be a space-separated list of comma-separated
+    "lm_alpha,lm_beta" values, e.g., "0.5,1.5 0.6,1.4"
 
 Some parameters for the model itself:
  - `batch_size` to specify the batch size for training, dev and test dataset
@@ -31,6 +34,13 @@ Some parameters for the model itself:
  - `learning_rate` to define the learning rate of the network
  - `dropout` to define the dropout applied
  - `lm_alpha`, `lm_beta` to control language model alpha and beta parameters
+
+Pay attention to automatic mixed precision: it will speed up the training
+process (by itself and because it allows to increase batch size). However,
+this is only viable when you are experimenting on hyper-parameters. Proper
+selection of best evaluating model seems to vary much more when AMP is enabled
+than when it is disabled. So use with caution when tuning parameters and
+disable it when making a release.
 
 Default values should provide good experience.
 

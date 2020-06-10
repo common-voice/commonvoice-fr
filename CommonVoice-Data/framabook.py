@@ -169,9 +169,10 @@ def clean_sentence(string: str):
     Clean one sentence
     """
     # normalize
-    string = unicodedata.normalize("NFKD", string)
+    string = unicodedata.normalize("NFKC", string)
     string = string.lstrip(' -—»|') # didascalies and others
     string = string.replace('\n', ' ')
+    string = string.strip()
     return string
 
 def list_files(inputdir: str):
