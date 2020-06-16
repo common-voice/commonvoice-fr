@@ -6,7 +6,7 @@ ARG ds_sha1=fcd9563fcd8b47ee5719b24a9d7f0d9a4eaf372f
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=64d63b69c3665645186565afd237b2266ed1abe9
 ARG kenlm_repo=kpu/kenlm
-ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
+ARG kenlm_branch=87e85e66c99ceff1fab2500a7c60c01da7315eec
 
 ARG model_language=fr
 
