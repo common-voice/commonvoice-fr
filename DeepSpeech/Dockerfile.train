@@ -3,6 +3,8 @@ FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 ARG ds_repo=mozilla/DeepSpeech
 ARG ds_branch=60cbe3b201500b3ba74556929e04094ae0186674
 ARG ds_sha1=60cbe3b201500b3ba74556929e04094ae0186674
+ARG cc_repo=mozilla/CorporaCreator
+ARG cc_sha1=64d63b69c3665645186565afd237b2266ed1abe9
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
 
@@ -19,6 +21,8 @@ ARG beam_width=500
 ARG early_stop=1
 ARG amp=0
 
+ARG duplicate_sentence_count=1
+
 ARG lm_evaluate_range=
 ARG english_compatible=0
 
@@ -33,6 +37,7 @@ ENV HOMEDIR /home/trainer
 ENV VIRTUAL_ENV_NAME ds-train
 ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
 ENV DS_DIR $HOMEDIR/ds
+ENV CC_DIR $HOMEDIR/cc
 
 ENV DS_BRANCH=$ds_branch
 ENV DS_SHA1=$ds_sha1
@@ -47,6 +52,8 @@ ENV DROPOUT=$dropout
 ENV LM_ALPHA=$lm_alpha
 ENV LM_BETA=$lm_beta
 ENV BEAM_WIDTH=$beam_width
+
+ENV DUPLICATE_SENTENCE_COUNT=$duplicate_sentence_count
 
 ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 ENV ENGLISH_COMPATIBLE=$english_compatible
@@ -122,6 +129,25 @@ RUN TASKCLUSTER_SCHEME="https://community-tc.services.mozilla.com/api/index/v1/t
 	--target="$(pwd)" \
 	--artifact="convert_graphdef_memmapped_format" \
 	--branch="r1.15" && chmod +x convert_graphdef_memmapped_format
+
+WORKDIR $HOMEDIR
+
+RUN git clone https://github.com/$cc_repo.git $CC_DIR
+
+WORKDIR $CC_DIR
+
+RUN git checkout $cc_sha1
+
+WORKDIR $CC_DIR
+
+# Copy copora patch
+COPY --chown=trainer:trainer corpora.patch $CC_DIR
+
+RUN patch p1 < corpora.patch
+
+RUN pip install -r requirements.txt
+
+RUN python setup.py install
 
 WORKDIR $HOMEDIR
 
