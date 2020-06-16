@@ -146,7 +146,7 @@ WORKDIR $CC_DIR
 # Copy copora patch
 COPY --chown=trainer:trainer corpora.patch $CC_DIR
 
-RUN patch p1 < corpora.patch
+RUN patch -p1 < corpora.patch
 
 RUN pip install -r requirements.txt
 
