@@ -16,18 +16,18 @@ pushd $HOME/ds/
 		cp -a /transfer-checkpoint/* /mnt/checkpoints/
 	fi;
 
+	EARLY_STOP_FLAG="--early_stop"
+	if [ "${EARLY_STOP}" = "0" ]; then
+		EARLY_STOP_FLAG="--noearly_stop"
+	fi;
+
+	AMP_FLAG=""
+	if [ "${AMP}" = "1" ]; then
+		AMP_FLAG="--automatic_mixed_precision True"
+	fi;
+
 	# Assume that if we have best_dev_checkpoint then we have trained correctly
 	if [ ! -f "/mnt/checkpoints/best_dev_checkpoint" ]; then
-		EARLY_STOP_FLAG="--early_stop"
-		if [ "${EARLY_STOP}" = "0" ]; then
-			EARLY_STOP_FLAG="--noearly_stop"
-		fi;
-
-		AMP_FLAG=""
-		if [ "${AMP}" = "1" ]; then
-			AMP_FLAG="--automatic_mixed_precision True"
-		fi;
-
 		python -u DeepSpeech.py \
 			--show_progressbar True \
 			--use_cudnn_rnn True \
@@ -51,6 +51,20 @@ pushd $HOME/ds/
 			${EARLY_STOP_FLAG} \
 			--checkpoint_dir /mnt/checkpoints/
 	fi;
+
+	python -u DeepSpeech.py \
+		--show_progressbar True \
+		--use_cudnn_rnn True \
+		${AMP_FLAG} \
+		--alphabet_config_path /mnt/models/alphabet.txt \
+		--lm_binary_path /mnt/lm/lm.binary \
+		--lm_trie_path /mnt/lm/trie \
+		--test_files ${all_test_csv} \
+		--test_batch_size ${BATCH_SIZE} \
+		--n_hidden ${N_HIDDEN} \
+		--lm_alpha ${LM_ALPHA} \
+		--lm_beta ${LM_BETA} \
+		--checkpoint_dir /mnt/checkpoints/
 
 	if [ ! -f "/mnt/models/output_graph.pb" ]; then
 		python -u DeepSpeech.py \
