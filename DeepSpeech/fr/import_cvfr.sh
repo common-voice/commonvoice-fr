@@ -25,6 +25,14 @@ pushd $HOME/ds/
 
 		tar -C /mnt/extracted/data/cv-fr/ -xf /mnt/sources/cv-3-fr.tar.gz
 
+		if [ ${DUPLICATE_SENTENCE_COUNT} -gt 1 ]; then
+
+			create-corpora -d /mnt/extracted/corpora -f /mnt/extracted/data/cv-fr/validated.tsv -l fr -s ${DUPLICATE_SENTENCE_COUNT}
+
+			mv /mnt/extracted/corpora/fr/*.tsv /mnt/extracted/data/cv-fr/
+
+		fi;
+
 		# Allow overwriting TSVs files before importing, for hacking with Corpora Creator
 		if [ -f "/mnt/sources/cv-fr-overwrite.tar.gz" ]; then
 			tar -C /mnt/extracted/data/cv-fr/ -xf /mnt/sources/cv-fr-overwrite.tar.gz
