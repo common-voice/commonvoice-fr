@@ -2,7 +2,8 @@
 
 set -xe
 
-export PATH=$(dirname "$0"):$PATH
+THIS=$(dirname "$0")
+export PATH=${THIS}:${THIS}/${MODEL_LANGUAGE}:$PATH
 
 env
 
@@ -11,6 +12,17 @@ checks.sh
 export TMP=/mnt/tmp
 export TEMP=/mnt/tmp
 
-${MODEL_LANGUAGE}/run.sh
+. params.sh
+. ${MODEL_LANGUAGE}/params.sh
+
+cd ${MODEL_LANGUAGE} && importers.sh && cd ..
+
+generate_alphabet.sh
+
+build_lm.sh
+
+train.sh
+
+evaluate_lm.sh
 
 package.sh

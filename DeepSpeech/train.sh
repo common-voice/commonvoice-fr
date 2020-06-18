@@ -76,7 +76,7 @@ pushd $HOME/ds/
 			--load "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
-			--export_language "fra"
+			--export_language "${MODEL_EXPORT_SHORT_LANG}"
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.tflite" ]; then
@@ -92,11 +92,11 @@ pushd $HOME/ds/
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
 			--export_tflite \
-			--export_language "fra"
+			--export_language "${MODEL_EXPORT_SHORT_LANG}"
 	fi;
 
-	if [ ! -f "/mnt/models/fr-fr.zip" ]; then
-		mkdir /mnt/models/fr-fr || rm /mnt/models/fr-fr/*
+	if [ ! -f "/mnt/models/${MODEL_EXPORT_ZIP_LANG}.zip" ]; then
+		mkdir /mnt/models/${MODEL_EXPORT_ZIP_LANG} || rm /mnt/models/${MODEL_EXPORT_ZIP_LANG}/*
 		python -u DeepSpeech.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -107,9 +107,9 @@ pushd $HOME/ds/
 			--lm_beta ${LM_BETA} \
 			--load "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
-			--export_dir /mnt/models/fr-fr \
+			--export_dir /mnt/models/${MODEL_EXPORT_ZIP_LANG} \
 			--export_zip \
-			--export_language "Français (FR)"
+			--export_language "${MODEL_EXPORT_LONG_LANG}"
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.pbmm" ]; then
