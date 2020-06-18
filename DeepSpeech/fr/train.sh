@@ -30,11 +30,10 @@ pushd $HOME/ds/
 	if [ ! -f "/mnt/checkpoints/best_dev_checkpoint" ]; then
 		python -u DeepSpeech.py \
 			--show_progressbar True \
-			--use_cudnn_rnn True \
+			--train_cudnn True \
 			${AMP_FLAG} \
 			--alphabet_config_path /mnt/models/alphabet.txt \
-			--lm_binary_path /mnt/lm/lm.binary \
-			--lm_trie_path /mnt/lm/trie \
+			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
 			--train_files ${all_train_csv} \
 			--dev_files ${all_dev_csv} \
@@ -54,11 +53,10 @@ pushd $HOME/ds/
 
 	python -u DeepSpeech.py \
 		--show_progressbar True \
-		--use_cudnn_rnn True \
+		--train_cudnn True \
 		${AMP_FLAG} \
 		--alphabet_config_path /mnt/models/alphabet.txt \
-		--lm_binary_path /mnt/lm/lm.binary \
-		--lm_trie_path /mnt/lm/trie \
+		--scorer_path /mnt/lm/kenlm.scorer \
 		--test_files ${all_test_csv} \
 		--test_batch_size ${BATCH_SIZE} \
 		--n_hidden ${N_HIDDEN} \
@@ -69,8 +67,7 @@ pushd $HOME/ds/
 	if [ ! -f "/mnt/models/output_graph.pb" ]; then
 		python -u DeepSpeech.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
-			--lm_binary_path /mnt/lm/lm.binary \
-			--lm_trie_path /mnt/lm/trie \
+			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
 			--n_hidden ${N_HIDDEN} \
 			--beam_width ${BEAM_WIDTH} \
@@ -85,8 +82,7 @@ pushd $HOME/ds/
 	if [ ! -f "/mnt/models/output_graph.tflite" ]; then
 		python -u DeepSpeech.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
-			--lm_binary_path /mnt/lm/lm.binary \
-			--lm_trie_path /mnt/lm/trie \
+			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
 			--n_hidden ${N_HIDDEN} \
 			--beam_width ${BEAM_WIDTH} \
@@ -103,8 +99,7 @@ pushd $HOME/ds/
 		mkdir /mnt/models/fr-fr || rm /mnt/models/fr-fr/*
 		python -u DeepSpeech.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
-			--lm_binary_path /mnt/lm/lm.binary \
-			--lm_trie_path /mnt/lm/trie \
+			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
 			--n_hidden ${N_HIDDEN} \
 			--beam_width ${BEAM_WIDTH} \

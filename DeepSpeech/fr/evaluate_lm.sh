@@ -16,10 +16,9 @@ pushd $HOME/ds/
 		
 		python -u evaluate.py \
 			--show_progressbar True \
-			--use_cudnn_rnn True \
+			--train_cudnn True \
 			--alphabet_config_path /mnt/models/alphabet.txt \
-			--lm_binary_path /mnt/lm/lm.binary \
-			--lm_trie_path /mnt/lm/trie \
+			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
 			--test_files ${all_test_csv} \
 			--test_batch_size ${BATCH_SIZE} \
