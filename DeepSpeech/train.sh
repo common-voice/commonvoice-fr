@@ -73,7 +73,7 @@ pushd $HOME/ds/
 			--beam_width ${BEAM_WIDTH} \
 			--lm_alpha ${LM_ALPHA} \
 			--lm_beta ${LM_BETA} \
-			--load "best" \
+			--load_evaluate "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
 			--export_language "${MODEL_EXPORT_SHORT_LANG}"
@@ -88,7 +88,7 @@ pushd $HOME/ds/
 			--beam_width ${BEAM_WIDTH} \
 			--lm_alpha ${LM_ALPHA} \
 			--lm_beta ${LM_BETA} \
-			--load "best" \
+			--load_evaluate "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
 			--export_tflite \
@@ -105,7 +105,7 @@ pushd $HOME/ds/
 			--beam_width ${BEAM_WIDTH} \
 			--lm_alpha ${LM_ALPHA} \
 			--lm_beta ${LM_BETA} \
-			--load "best" \
+			--load_evaluate "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/${MODEL_EXPORT_ZIP_LANG} \
 			--export_zip \
