@@ -15,7 +15,7 @@ pushd /mnt/extracted
 		exit 1
 	fi;
 
-	if [ ! -f "/mnt/lm/lm.binary" ]; then
+	if [ ! -f "/mnt/lm/kenlm.scorer" ]; then
 
 		python $HOME/counter.py sources_lm.txt top_words.txt 500000
 
@@ -35,12 +35,17 @@ pushd /mnt/extracted
 			/mnt/lm/lm_filtered.arpa \
 			/mnt/lm/lm.binary
 
-		rm /mnt/lm/lm.arpa /mnt/lm/lm_filtered.arpa
-	fi;
+		pushd $HOME/ds/
+			python data/lm/generate_package.py \
+				--alphabet /mnt/models/alphabet.txt \
+				--lm /mnt/lm/lm.binary \
+				--vocab /mnt/lm/lm_filtered.arpa \
+				--package /mnt/lm/kenlm.scorer \
+				--default_alpha ${LM_ALPHA} \
+				--default_beta ${LM_BETA}
+		popd
 
-	if [ ! -f "/mnt/lm/trie" ]; then
-		curl -sSL https://community-tc.services.mozilla.com/api/index/v1/task/project.deepspeech.deepspeech.native_client.master.${DS_SHA1}.cpu/artifacts/public/native_client.tar.xz | pixz -d | tar -xf -
-		./generate_trie /mnt/models/alphabet.txt /mnt/lm/lm.binary /mnt/lm/trie
+		rm /mnt/lm/lm.arpa /mnt/lm/lm_filtered.arpa
 	fi;
 
 	if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
