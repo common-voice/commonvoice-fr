@@ -28,6 +28,9 @@ ENV LEARNING_RATE=$learning_rate
 ARG dropout=0.3
 ENV DROPOUT=$dropout
 
+ARG lm_top_k=500000
+ENV LM_TOP_K=500000
+
 ARG lm_alpha=0.65
 ENV LM_ALPHA=$lm_alpha
 
