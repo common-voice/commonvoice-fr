@@ -57,6 +57,12 @@ ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 ARG english_compatible=0
 ENV ENGLISH_COMPATIBLE=$english_compatible
 
+ARG uid=999
+ENV UID=$uid
+
+ARG gid=999
+ENV GID=$gid
+
 # Make sure we can extract filenames with UTF-8 chars
 ENV LANG=C.UTF-8
 
@@ -102,8 +108,8 @@ RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
     locales locales-all \
     xz-utils
 
-RUN groupadd -g 999 trainer && \
-    adduser --system --uid 999 --group trainer
+RUN groupadd -g $GID trainer && \
+    adduser --system --uid $UID --group trainer
 
 RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
     chmod 0440 /etc/sudoers.d/trainer
