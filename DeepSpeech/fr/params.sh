@@ -2,6 +2,8 @@
 
 set -xe
 
+export IMPORTERS_VALIDATE_LOCALE="--validate_label_locale ${MODEL_LANGUAGE}/validate_label.py"
+
 export CV_RELEASE_FILENAME="cv-3-fr.tar.gz"
 export CV_RELEASE_SHA256="5ba6967d08aee255a36b2a8087cf638e499d163f"
 

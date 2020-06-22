@@ -36,6 +36,9 @@ pushd $HOME/ds/
 
 		fi;
 
-		python bin/import_cv2.py ${IMPORT_AS_ENGLISH} /mnt/extracted/data/cv-${MODEL_LANGUAGE}/
+		python bin/import_cv2.py \
+			${IMPORT_AS_ENGLISH} \
+			${IMPORTERS_VALIDATE_LOCALE} \
+			/mnt/extracted/data/cv-${MODEL_LANGUAGE}/
 	fi;
 popd

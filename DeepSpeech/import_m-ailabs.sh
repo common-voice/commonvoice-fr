@@ -13,8 +13,9 @@ pushd $HOME/ds/
 		fi;
 
 		python bin/import_m-ailabs.py ${IMPORT_AS_ENGLISH}      \
-			${SKIPLIST} \
+			${SKIPLIST}                                     \
 			--language ${M_AILABS_LANG}                     \
+			${IMPORTERS_VALIDATE_LOCALE}                    \
 			/mnt/extracted/data/M-AILABS/
 	fi;
 popd

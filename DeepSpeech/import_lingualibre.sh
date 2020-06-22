@@ -17,7 +17,8 @@ pushd $HOME/ds/
 			--iso639-3 ${LINGUA_LIBRE_ISO639}               \
 			--english-name ${LINGUA_LIBRE_ENGLISH}          \
 			${IMPORT_AS_ENGLISH}                            \
-			${SKIPLIST} \
+			${IMPORTERS_VALIDATE_LOCALE}                    \
+			${SKIPLIST}                                     \
 			/mnt/extracted/data/lingualibre
 	fi;
 popd

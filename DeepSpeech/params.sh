@@ -4,6 +4,8 @@ set -xe
 
 # This file will contain default values
 
+export IMPORTERS_VALIDATE_LOCALE=""
+
 export CV_RELEASE_FILENAME=""
 export CV_RELEASE_SHA256=""
 
