@@ -50,6 +50,7 @@ ENV AMP=$amp
 ARG duplicate_sentence_count=1
 ENV DUPLICATE_SENTENCE_COUNT=$duplicate_sentence_count
 
+# Should be of the form: lm_alpha_max,lm_beta_max,n_trials
 ARG lm_evaluate_range=
 ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 
