@@ -17,6 +17,4 @@ export M_AILABS_SKIP="monsieur_lecoq,les_mysteres_de_paris"
 
 export LM_ICONV_LOCALE="fr_FR.UTF-8"
 
-export MODEL_EXPORT_SHORT_LANG="fra"
-export MODEL_EXPORT_LONG_LANG="Français (FR)"
 export MODEL_EXPORT_ZIP_LANG="fr-fr"

@@ -15,6 +15,13 @@ export TEMP=/mnt/tmp
 . params.sh
 . ${MODEL_LANGUAGE}/params.sh
 
+if [ -x "${MODEL_LANGUAGE}/metadata.sh" ]; then
+	. ${MODEL_LANGUAGE}/metadata.sh
+else
+	echo "Please prepare metadata informations."
+	exit 1
+fi;
+
 cd ${MODEL_LANGUAGE} && importers.sh && cd ..
 
 generate_alphabet.sh

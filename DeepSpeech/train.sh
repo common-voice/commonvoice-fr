@@ -26,6 +26,22 @@ pushd $HOME/ds/
 		AMP_FLAG="--automatic_mixed_precision True"
 	fi;
 
+	# Check metadata existence
+	if [ -z "$METADATA_AUTHOR" ]; then
+		echo "Please fill-in metadata informations"
+		exit 1
+	fi;
+
+	# Ok, assume we have all the metadata now
+	ALL_METADATA_FLAGS="--export_author_id $METADATA_AUTHOR"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_model_version $METADATA_MODEL_VERSION"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_contact_info $METADATA_CONTACT_INFO"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_license $METADATA_LICENSE"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_language $METADATA_LANGUAGE"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_min_ds_version $METADATA_MIN_DS_VERSION"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_max_ds_version $METADATA_MAX_DS_VERSION"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_description $METADATA_DESCRIPTION"
+
 	# Assume that if we have best_dev_checkpoint then we have trained correctly
 	if [ ! -f "/mnt/checkpoints/best_dev_checkpoint" ]; then
 		python -u DeepSpeech.py \
@@ -68,6 +84,7 @@ pushd $HOME/ds/
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.pb" ]; then
+		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tensorflow"
 		python -u DeepSpeech.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -79,10 +96,12 @@ pushd $HOME/ds/
 			--load_evaluate "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
-			--export_language "${MODEL_EXPORT_SHORT_LANG}"
+			${ALL_METADATA_FLAGS} \
+			${METADATA_MODEL_NAME_FLAG}
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.tflite" ]; then
+		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
 		python -u DeepSpeech.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -95,11 +114,13 @@ pushd $HOME/ds/
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
 			--export_tflite \
-			--export_language "${MODEL_EXPORT_SHORT_LANG}"
+			${ALL_METADATA_FLAGS} \
+			${METADATA_MODEL_NAME_FLAG}
 	fi;
 
 	if [ ! -f "/mnt/models/${MODEL_EXPORT_ZIP_LANG}.zip" ]; then
 		mkdir /mnt/models/${MODEL_EXPORT_ZIP_LANG} || rm /mnt/models/${MODEL_EXPORT_ZIP_LANG}/*
+		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
 		python -u DeepSpeech.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -112,7 +133,8 @@ pushd $HOME/ds/
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/${MODEL_EXPORT_ZIP_LANG} \
 			--export_zip \
-			--export_language "${MODEL_EXPORT_LONG_LANG}"
+			${ALL_METADATA_FLAGS} \
+			${METADATA_MODEL_NAME_FLAG}
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.pbmm" ]; then
