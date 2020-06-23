@@ -1,30 +1,68 @@
 FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=60cbe3b201500b3ba74556929e04094ae0186674
-ARG ds_sha1=60cbe3b201500b3ba74556929e04094ae0186674
+ARG ds_branch=fcd9563fcd8b47ee5719b24a9d7f0d9a4eaf372f
+ARG ds_sha1=fcd9563fcd8b47ee5719b24a9d7f0d9a4eaf372f
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=64d63b69c3665645186565afd237b2266ed1abe9
 ARG kenlm_repo=kpu/kenlm
-ARG kenlm_branch=2ad7cb56924cd3c6811c604973f592cb5ef604eb
+ARG kenlm_branch=87e85e66c99ceff1fab2500a7c60c01da7315eec
 
+# Model parameters
 ARG model_language=fr
+ENV MODEL_LANGUAGE=$model_language
 
+# Training hyper-parameters
 ARG batch_size=64
+ENV BATCH_SIZE=$batch_size
+
 ARG n_hidden=2048
+ENV N_HIDDEN=$n_hidden
+
 ARG epochs=30
+ENV EPOCHS=$epochs
+
 ARG learning_rate=0.0001
+ENV LEARNING_RATE=$learning_rate
+
 ARG dropout=0.3
+ENV DROPOUT=$dropout
+
+ARG lm_top_k=500000
+ENV LM_TOP_K=500000
+
 ARG lm_alpha=0.65
+ENV LM_ALPHA=$lm_alpha
+
 ARG lm_beta=1.45
+ENV LM_BETA=$lm_beta
+
 ARG beam_width=500
+ENV BEAM_WIDTH=$beam_width
+
 ARG early_stop=1
+ENV EARLY_STOP=$early_stop
+
 ARG amp=0
+ENV AMP=$amp
 
+# Dataset management
 ARG duplicate_sentence_count=1
+ENV DUPLICATE_SENTENCE_COUNT=$duplicate_sentence_count
 
+# Should be of the form: lm_alpha_max,lm_beta_max,n_trials
 ARG lm_evaluate_range=
+ENV LM_EVALUATE_RANGE=$lm_evaluate_range
+
+# Others
 ARG english_compatible=0
+ENV ENGLISH_COMPATIBLE=$english_compatible
+
+ARG uid=999
+ENV UID=$uid
+
+ARG gid=999
+ENV GID=$gid
 
 # Make sure we can extract filenames with UTF-8 chars
 ENV LANG=C.UTF-8
@@ -41,25 +79,6 @@ ENV CC_DIR $HOMEDIR/cc
 
 ENV DS_BRANCH=$ds_branch
 ENV DS_SHA1=$ds_sha1
-
-ENV MODEL_LANGUAGE=$model_language
-
-ENV BATCH_SIZE=$batch_size
-ENV N_HIDDEN=$n_hidden
-ENV EPOCHS=$epochs
-ENV LEARNING_RATE=$learning_rate
-ENV DROPOUT=$dropout
-ENV LM_ALPHA=$lm_alpha
-ENV LM_BETA=$lm_beta
-ENV BEAM_WIDTH=$beam_width
-
-ENV DUPLICATE_SENTENCE_COUNT=$duplicate_sentence_count
-
-ENV LM_EVALUATE_RANGE=$lm_evaluate_range
-ENV ENGLISH_COMPATIBLE=$english_compatible
-
-ENV EARLY_STOP=$early_stop
-ENV AMP=$amp
 
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
@@ -90,8 +109,8 @@ RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
     locales locales-all \
     xz-utils
 
-RUN groupadd -g 999 trainer && \
-    adduser --system --uid 999 --group trainer
+RUN groupadd -g $GID trainer && \
+    adduser --system --uid $UID --group trainer
 
 RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
     chmod 0440 /etc/sudoers.d/trainer
@@ -113,6 +132,8 @@ WORKDIR $HOMEDIR
 
 RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
 
+ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:$PATH
+
 RUN git clone https://github.com/$ds_repo.git $DS_DIR
 
 WORKDIR $DS_DIR
@@ -121,9 +142,10 @@ RUN git checkout $ds_branch
 
 WORKDIR $DS_DIR
 
-RUN cat requirements.txt | sed -e 's/^tensorflow/tensorflow-gpu/g' | pip install -r /dev/stdin
-
-RUN pip install `python util/taskcluster.py --decoder`
+RUN pip install --upgrade pip==20.0.2 wheel==0.34.2 setuptools==46.1.3
+RUN pip install --upgrade --force-reinstall -e .
+RUN pip uninstall --yes tensorflow==1.15.2
+RUN pip install --upgrade tensorflow-gpu==1.15.2
 
 RUN TASKCLUSTER_SCHEME="https://community-tc.services.mozilla.com/api/index/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s" python util/taskcluster.py \
 	--target="$(pwd)" \
@@ -143,7 +165,7 @@ WORKDIR $CC_DIR
 # Copy copora patch
 COPY --chown=trainer:trainer corpora.patch $CC_DIR
 
-RUN patch p1 < corpora.patch
+RUN patch -p1 < corpora.patch
 
 RUN pip install -r requirements.txt
 
@@ -154,10 +176,8 @@ WORKDIR $HOMEDIR
 ENV PATH="$HOMEDIR/kenlm/build/bin/:$PATH"
 
 # Copy now so that docker build can leverage caches
-COPY --chown=trainer:trainer checks.sh generate_alphabet.sh package.sh run.sh counter.py $HOMEDIR/
+COPY --chown=trainer:trainer . $HOMEDIR/
 
-COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/*.sh $HOMEDIR/${MODEL_LANGUAGE}/
-
-COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/lingua_libre_skiplist.txt $HOMEDIR/${MODEL_LANGUAGE}/
+COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ $HOMEDIR/${MODEL_LANGUAGE}/
 
 ENTRYPOINT "$HOMEDIR/run.sh"

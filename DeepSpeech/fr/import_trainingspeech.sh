@@ -10,6 +10,9 @@ pushd $HOME/ds/
 	fi;
 
 	if [ ! -f "/mnt/extracted/data/trainingspeech/ts_2019-04-11_fr_FR_train.csv" ]; then
-		python bin/import_ts.py ${IMPORT_AS_ENGLISH} /mnt/extracted/data/trainingspeech
+		python bin/import_ts.py \
+			${IMPORT_AS_ENGLISH} \
+			${IMPORTERS_VALIDATE_LOCALE} \
+			/mnt/extracted/data/trainingspeech
 	fi;
 popd

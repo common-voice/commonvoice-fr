@@ -11,7 +11,7 @@ pushd $HOME/ds/
 		if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 			cp data/alphabet.txt /mnt/models/alphabet.txt
 		else
-			python util/check_characters.py \
+			python training/deepspeech_training/util/check_characters.py \
 				--csv-files ${all_train_csv},${all_dev_csv},${all_test_csv} \
 				--alphabet-format | grep -v '^#' | sort -n > /mnt/models/alphabet.txt
 		fi;
