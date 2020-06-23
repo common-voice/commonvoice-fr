@@ -51,18 +51,21 @@ pushd $HOME/ds/
 			--checkpoint_dir /mnt/checkpoints/
 	fi;
 
-	python -u DeepSpeech.py \
-		--show_progressbar True \
-		--train_cudnn True \
-		${AMP_FLAG} \
-		--alphabet_config_path /mnt/models/alphabet.txt \
-		--scorer_path /mnt/lm/kenlm.scorer \
-		--test_files ${all_test_csv} \
-		--test_batch_size ${BATCH_SIZE} \
-		--n_hidden ${N_HIDDEN} \
-		--lm_alpha ${LM_ALPHA} \
-		--lm_beta ${LM_BETA} \
-		--checkpoint_dir /mnt/checkpoints/
+	if [ ! -f "/mnt/models/test_output.json" ]; then
+		python -u DeepSpeech.py \
+			--show_progressbar True \
+			--train_cudnn True \
+			${AMP_FLAG} \
+			--alphabet_config_path /mnt/models/alphabet.txt \
+			--scorer_path /mnt/lm/kenlm.scorer \
+			--test_files ${all_test_csv} \
+			--test_batch_size ${BATCH_SIZE} \
+			--n_hidden ${N_HIDDEN} \
+			--lm_alpha ${LM_ALPHA} \
+			--lm_beta ${LM_BETA} \
+			--checkpoint_dir /mnt/checkpoints/ \
+			--test_output_file /mnt/models/test_output.json
+	fi;
 
 	if [ ! -f "/mnt/models/output_graph.pb" ]; then
 		python -u DeepSpeech.py \
