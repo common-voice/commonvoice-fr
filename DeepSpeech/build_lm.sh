@@ -32,7 +32,7 @@ pushd $HOME/ds/
 			--binary_q_bits 8 \
 			--binary_type trie
 
-		python data/lm/generate_package.py \
+		./generate_scorer_package \
 			--alphabet /mnt/models/alphabet.txt \
 			--lm /mnt/lm/lm.binary \
 			--vocab /mnt/lm/vocab-${LM_TOP_K}.txt \

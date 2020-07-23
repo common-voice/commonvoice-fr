@@ -1,8 +1,8 @@
 FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=fcd9563fcd8b47ee5719b24a9d7f0d9a4eaf372f
-ARG ds_sha1=fcd9563fcd8b47ee5719b24a9d7f0d9a4eaf372f
+ARG ds_branch=32e185f1d7f5f97443da5a9ca2088d48b03d7b60
+ARG ds_sha1=32e185f1d7f5f97443da5a9ca2088d48b03d7b60
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=64d63b69c3665645186565afd237b2266ed1abe9
 ARG kenlm_repo=kpu/kenlm
@@ -151,6 +151,10 @@ RUN TASKCLUSTER_SCHEME="https://community-tc.services.mozilla.com/api/index/v1/t
 	--target="$(pwd)" \
 	--artifact="convert_graphdef_memmapped_format" \
 	--branch="r1.15" && chmod +x convert_graphdef_memmapped_format
+
+RUN python util/taskcluster.py \
+	--target="$(pwd)" \
+	--artifact="native_client.tar.xz" && ls -hal generate_scorer_package 
 
 WORKDIR $HOMEDIR
 
