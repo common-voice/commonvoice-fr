@@ -12,9 +12,9 @@ pushd $HOME/ds/
 		exit 1
 	fi;
 
-	sha1=$(sha1sum --binary /mnt/sources/${CV_RELEASE_FILENAME} | awk '{ print $1 }')
+	sha256=$(sha256sum --binary /mnt/sources/${CV_RELEASE_FILENAME} | awk '{ print $1 }')
 
-	if [ "${sha1}" != "${CV_RELEASE_SHA256}" ]; then
+	if [ "${sha256}" != "${CV_RELEASE_SHA256}" ]; then
 		echo "Invalid Common Voice dataset"
 		exit 1
 	fi;
