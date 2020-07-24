@@ -12,9 +12,9 @@ pushd $HOME/ds/
 		exit 1
 	fi;
 
-	sha1=$(sha1sum --binary /mnt/sources/${CV_RELEASE_FILENAME} | awk '{ print $1 }')
+	sha256=$(sha256sum --binary /mnt/sources/${CV_RELEASE_FILENAME} | awk '{ print $1 }')
 
-	if [ "${sha1}" != "${CV_RELEASE_SHA256}" ]; then
+	if [ "${sha256}" != "${CV_RELEASE_SHA256}" ]; then
 		echo "Invalid Common Voice dataset"
 		exit 1
 	fi;
@@ -26,7 +26,8 @@ pushd $HOME/ds/
 	if [ ! -f "/mnt/extracted/data/cv-${MODEL_LANGUAGE}/clips/train.csv" ]; then
 		mkdir -p /mnt/extracted/data/cv-${MODEL_LANGUAGE}/ || true
 
-		tar -C /mnt/extracted/data/cv-${MODEL_LANGUAGE}/ -xf /mnt/sources/${CV_RELEASE_FILENAME}
+                # we don't need cv-corpus-5.1-2020-06-22/fr/, hence the strip
+		tar -C /mnt/extracted/data/cv-${MODEL_LANGUAGE}/ --strip-components=2 -xf /mnt/sources/${CV_RELEASE_FILENAME}
 
 		if [ ${DUPLICATE_SENTENCE_COUNT} -gt 1 ]; then
 
