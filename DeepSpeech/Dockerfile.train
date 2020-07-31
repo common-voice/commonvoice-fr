@@ -31,10 +31,10 @@ ENV DROPOUT=$dropout
 ARG lm_top_k=500000
 ENV LM_TOP_K=500000
 
-ARG lm_alpha=0.65
+ARG lm_alpha=0.0
 ENV LM_ALPHA=$lm_alpha
 
-ARG lm_beta=1.45
+ARG lm_beta=0.0
 ENV LM_BETA=$lm_beta
 
 ARG beam_width=500
