@@ -6,8 +6,7 @@
 * Prepare a host directory with enough space for training / producing intermediate data (100GB ?).
 * Ensure it's writable by `trainer` (uid 999) user (defined in the Dockerfile).
 * For Common Voice dataset, please make sure you have downloaded the dataset prior to running (behind email)
-  Place `fr.tar.gz` (sha1 value should be `30dbf694ddc3951829c894b91328f4cf10179dcf`) inside your host directory,
-  in a `sources/` subdirectory.
+  Place `cv-4-fr.tar.gz` inside your host directory, in a `sources/` subdirectory.
 
 ## Build the image:
 
@@ -25,8 +24,8 @@ Several parameters can be customized:
     alphabet file can be re-used, when doing transfer-learning from English
     checkpoints for example.
  - lm_evaluate_range, if non empty, this will perform a LM alpha/beta evaluation
-    the parameter is expected to be a space-separated list of comma-separated
-    "lm_alpha,lm_beta" values, e.g., "0.5,1.5 0.6,1.4"
+    the parameter is expected to be of the form: lm_alpha_max,lm_beta_max,n_trials.
+    See upstream lm_optimizer.py for details
 
 Some parameters for the model itself:
  - `batch_size` to specify the batch size for training, dev and test dataset
@@ -34,6 +33,19 @@ Some parameters for the model itself:
  - `learning_rate` to define the learning rate of the network
  - `dropout` to define the dropout applied
  - `lm_alpha`, `lm_beta` to control language model alpha and beta parameters
+ - `amp` to enable or disable automatic mixed precision
+ - `duplicate_sentence_count` to control if Common Voice dataset might need
+    to be regenerated with more duplicated allowed using Corpora Creator
+    **USE WITH CAUTION**
+
+Language specific things needs to be under a language directory. Have a look at `fr/` for an example:
+ - `importers.sh`: script to run all the importers
+ - `metadata.sh`: script exporting variables to define model metadata used at export time
+ - `params.sh`: script exporting variables to define dataset-level parameters, e.g.,
+                Common Voice release filename, sha256 value, Lingua Libre language
+		parameters, etc.
+ - `prepare_lm.sh`: prepare text content for producing external scorer. This
+                    should produce a `sources_lm.txt` file.
 
 Pay attention to automatic mixed precision: it will speed up the training
 process (by itself and because it allows to increase batch size). However,
@@ -45,9 +57,11 @@ disable it when making a release.
 Default values should provide good experience.
 
 The default batch size has been tested with this mix of dataset:
- - Common Voice French, released on 2019, february 14th
+ - Common Voice French, released on june 2020
  - TrainingSpeech as of 2019, april 11th
- - Lingua Libre as of 2019, may 3rd
+ - Lingua Libre as of 2020, april 25th
+ - OpenSLR 57: African Accented French
+ - M-AILABS french dataset
 
 ### Transfer learning from English
 
@@ -62,10 +76,10 @@ will be copied from that place.
 ## Hardware
 
 Training successfull on:
- - 64GB RAM
+ - Threadripper 3950X + 128GB RAM
  - 2x RTX 2080 Ti
- - Debian Sid, kernel 5.2, driver 430.50
- - With ~250h of audio, one training epoch takes ~15min, and validation takes ~50s
+ - Debian Sid, kernel 5.7, driver 440.100
+ - With ~1000h of audio, one training epoch takes ~23min (Automatic Mixed Precision enabled)
 
 ## Run the image:
 
