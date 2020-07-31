@@ -4,7 +4,7 @@ ARG ds_repo=mozilla/DeepSpeech
 ARG ds_branch=f56b07dab4542eecfb72e059079db6c2603cc0ee
 ARG ds_sha1=f56b07dab4542eecfb72e059079db6c2603cc0ee
 ARG cc_repo=mozilla/CorporaCreator
-ARG cc_sha1=64d63b69c3665645186565afd237b2266ed1abe9
+ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=87e85e66c99ceff1fab2500a7c60c01da7315eec
 
@@ -170,7 +170,8 @@ COPY --chown=trainer:trainer corpora.patch $CC_DIR
 
 RUN patch -p1 < corpora.patch
 
-RUN pip install -r requirements.txt
+# Avoid "error: pandas 1.1.0 is installed but pandas==1.0.5 is required by {'modin'}"
+RUN pip install pandas==1.0.5
 
 RUN python setup.py install
 
