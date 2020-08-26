@@ -173,6 +173,9 @@ RUN patch -p1 < corpora.patch
 # Avoid "error: pandas 1.1.0 is installed but pandas==1.0.5 is required by {'modin'}"
 RUN pip install pandas==1.0.5
 
+# error: parso 0.8.0 is installed but parso<0.8.0,>=0.7.0 is required by {'jedi'}
+RUN pip install parso==0.7.0
+
 RUN python setup.py install
 
 WORKDIR $HOMEDIR
