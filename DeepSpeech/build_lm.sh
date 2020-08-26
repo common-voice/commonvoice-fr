@@ -18,8 +18,7 @@ popd
 
 pushd $HOME/ds/
 
-	if [ ! -f "/mnt/lm/kenlm.scorer" ]; then
-
+	if [ ! -f "/mnt/lm/lm.binary" ]; then
 		python data/lm/generate_lm.py \
 			--input_txt /mnt/extracted/sources_lm.txt \
 			--output_dir /mnt/lm/ \
@@ -31,15 +30,16 @@ pushd $HOME/ds/
 			--binary_a_bits 255 \
 			--binary_q_bits 8 \
 			--binary_type trie
-
-		./generate_scorer_package \
-			--alphabet /mnt/models/alphabet.txt \
-			--lm /mnt/lm/lm.binary \
-			--vocab /mnt/lm/vocab-${LM_TOP_K}.txt \
-			--package /mnt/lm/kenlm.scorer \
-			--default_alpha ${LM_ALPHA} \
-			--default_beta ${LM_BETA}
 	fi;
+
+	./generate_scorer_package \
+		--alphabet /mnt/models/alphabet.txt \
+		--lm /mnt/lm/lm.binary \
+		--vocab /mnt/lm/vocab-${LM_TOP_K}.txt \
+		--package /mnt/lm/kenlm.scorer \
+		--default_alpha ${LM_ALPHA} \
+		--default_beta ${LM_BETA}
+
 popd
 
 if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
