@@ -120,7 +120,7 @@ USER trainer
 
 WORKDIR $HOMEDIR
 
-RUN wget -O - https://bitbucket.org/eigen/eigen/get/3.2.8.tar.bz2 | tar xj
+RUN wget -O - https://gitlab.com/libeigen/eigen/-/archive/3.2.8/eigen-3.2.8.tar.bz2 | tar xj
 
 RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch \
     && mkdir -p build \
