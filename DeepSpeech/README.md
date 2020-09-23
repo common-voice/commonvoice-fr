@@ -33,7 +33,8 @@ Le projet DeepSpeech est un autre projet de la fondation Mozilla, pour transform
 
 # Canaux
 
-- **DeepSpeech** utilise le canal **Common Voice fr** pour la discussion/coordination : [s'inscrire au groupe](https://t.me/joinchat/A7h94U7VCFrCnXrDMff2Vw)
+- **DeepSpeech** utilise le canal **Common Voice fr** pour la discussion/coordination : [s’inscrire au groupe](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
+[Les infos sur Matrix](https://github.com/mozfr/besogne/wiki/Matrix)
 - [Discourse Mozilla Francophone](https://discourse.mozilla.org/c/voice/fr)
 - [Discourse Mozilla (anglais)](https://discourse.mozilla.org/c/voice)
 
@@ -55,7 +56,7 @@ C'est un processus en deux grosses étapes :
 
 ### Où trouver des jeux de données
 
-- <https://voice.mozilla.org/fr/datasets>
+- <https://commonvoice.mozilla.org/fr/datasets>
 
 ### Speech-to-Text et Text-to-Speech
 
