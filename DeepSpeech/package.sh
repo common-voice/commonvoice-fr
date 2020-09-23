@@ -7,13 +7,13 @@ pushd /mnt
 	if [ ! -f "model_tensorflow_fr.tar.xz" ]; then
 		tar -cf - \
 			-C /mnt/models/ output_graph.pbmm alphabet.txt \
-			-C /mnt/lm/ lm.binary trie | xz -T0 > model_tensorflow_fr.tar.xz
+			-C /mnt/lm/ kenlm.scorer | xz -T0 > model_tensorflow_fr.tar.xz
 	fi;
 
 	if [ ! -f "model_tflite_fr.tar.xz" ]; then
 		tar -cf - \
 			-C /mnt/models/ output_graph.tflite alphabet.txt \
-			-C /mnt/lm/ lm.binary trie | xz -T0 > model_tflite_fr.tar.xz
+			-C /mnt/lm/ kenlm.scorer | xz -T0 > model_tflite_fr.tar.xz
 	fi;
 	
 	if [ ! -f "checkpoint_fr.tar.xz" ]; then
