@@ -7,21 +7,13 @@
 - [Participer à DeepSpeech](#Participer-à-DeepSpeech)
 - [Processus pour DeepSpeech fr](#Processus-pour-deepSpeech-fr)
 - [Bien démarrer](#bien-démarrer)
-
   - [Installation et configuration](#Installation-et-configuration)
-
   - [Où trouver des jeux de données](#Ou-trouver-des-jeux-de-données)
-
   - [Speech-to-Text et Text-to-Speech](#Speech-to-Text-et-Text-to-Speech)
-
   - [La parole vers le texte et le texte vers la parole](#La-parole-vers-le-texte-et-le-texte-vers-la-parole)
-
 - [Exemples](#exemples)
-
   - [Convertir la parole vers le texte](#Convertir-la-parole-vers-le-texte)
-
   - [Utiliser DeepSpeech pour vos projets webs](#Utiliser-DeepSpeech-pour-vos-projets-web)
-
 - [Projets disponibles](#projets-disponibles)
 
 
@@ -33,7 +25,7 @@ Le projet DeepSpeech est un autre projet de la fondation Mozilla, pour transform
 
 # Canaux
 
-- **DeepSpeech** utilise le canal **Common Voice fr** pour la discussion/coordination : [s'inscrire au groupe](https://t.me/joinchat/A7h94U7VCFrCnXrDMff2Vw)
+- **DeepSpeech** utilise le canal **Common Voice fr** sur [Matrix](https://github.com/mozfr/besogne/wiki/Matrix) pour la discussion et la coordination : [s’inscrire au groupe](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
 - [Discourse Mozilla Francophone](https://discourse.mozilla.org/c/voice/fr)
 - [Discourse Mozilla (anglais)](https://discourse.mozilla.org/c/voice)
 
@@ -55,7 +47,7 @@ C'est un processus en deux grosses étapes :
 
 ### Où trouver des jeux de données
 
-- <https://voice.mozilla.org/fr/datasets>
+- <https://commonvoice.mozilla.org/fr/datasets>
 
 ### Speech-to-Text et Text-to-Speech
 

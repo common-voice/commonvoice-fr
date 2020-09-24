@@ -5,19 +5,12 @@
 - [Introduction](#introduction)
 - [Canaux](#canaux)
 - [Participer à Common Voice](#Participer-à-Common-Voice)
-
   - [La voix](#la-voix)
-
   - [Proposer et valider de nouvelles phrases](#Proposer-et-valider-de-nouvelles-phrases)
-
 - [Processus pour Common Voice fr](#Processus-pour-Common-Voice-fr)
-
   - [Étape en cours](#etape-en-cours)
-
   - [Construction du corpus de texte](#construction-du-corpus-de-texte)
-
 - [Liens à garder pour plus tard](#Liens-à-garder-pour-plus-tard)
-
 - [Rajouter des phrases](#Rajouter-des-phrases)
 
 Vous trouverez dans ce document l’ensemble des instructions, documentations… pour le projet Common Voice.
@@ -28,7 +21,7 @@ Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux
 
 # Canaux
 
-- **Common Voice fr** sur Telegram pour la discussion et la coordination : [s’inscrire au groupe](https://t.me/joinchat/A7h94U7VCFrCnXrDMff2Vw)
+- **Common Voice fr** sur [Matrix](https://github.com/mozfr/besogne/wiki/Matrix) pour la discussion et la coordination : [s’inscrire au groupe](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
 - [Discourse Mozilla Francophone](https://discourse.mozilla.org/c/voice/fr)
 - [Discourse Mozilla (anglais)](https://discourse.mozilla.org/c/voice)
 
@@ -38,15 +31,15 @@ Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux
 
 Il est possible de parler et d’écouter des voix pour faire grossir la base de données.
 
-- [Site officiel Common Voice](https://voice.mozilla.org)
-- [Parler](https://voice.mozilla.org/fr/speak)
-- [Écouter](https://voice.mozilla.org/fr/listen)
+- [Site officiel Common Voice](https://commonvoice.mozilla.org)
+- [Parler](https://commonvoice.mozilla.org/fr/speak)
+- [Écouter](https://commonvoice.mozilla.org/fr/listen)
 
 ### Proposer et valider de nouvelles phrases
 
 Plusieurs étapes :
 
-1. Vous devez posséder un compte sur [Common Voice](https://voice.mozilla.org).
+1. Vous devez posséder un compte sur [Common Voice](https://commonvoice.mozilla.org).
 2. Identifiez-vous sur le [Collecteur de phrases](https://common-voice.github.io/sentence-collector/#/login) avec vos identifiants de Common Voice.
 3. Pour valider les phrases, il faut utiliser la [page de validation](https://common-voice.github.io/sentence-collector/#/review/fr).
 4. Si vous souhaitez ajouter de nouvelles phrases, vous devez vous rendre sur [Ajouter une nouvelle phrase](https://common-voice.github.io/sentence-collector/#/add)
