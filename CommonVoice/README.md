@@ -5,19 +5,12 @@
 - [Introduction](#introduction)
 - [Canaux](#canaux)
 - [Participer à Common Voice](#Participer-à-Common-Voice)
-
   - [La voix](#la-voix)
-
   - [Proposer et valider de nouvelles phrases](#Proposer-et-valider-de-nouvelles-phrases)
-
 - [Processus pour Common Voice fr](#Processus-pour-Common-Voice-fr)
-
   - [Étape en cours](#etape-en-cours)
-
   - [Construction du corpus de texte](#construction-du-corpus-de-texte)
-
 - [Liens à garder pour plus tard](#Liens-à-garder-pour-plus-tard)
-
 - [Rajouter des phrases](#Rajouter-des-phrases)
 
 Vous trouverez dans ce document l’ensemble des instructions, documentations… pour le projet Common Voice.
@@ -28,8 +21,7 @@ Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux
 
 # Canaux
 
-- **Common Voice fr** sur Matrix pour la discussion et la coordination : [s’inscrire au groupe](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
-[Les infos sur Matrix](https://github.com/mozfr/besogne/wiki/Matrix)
+- **Common Voice fr** sur [Matrix](https://github.com/mozfr/besogne/wiki/Matrix) pour la discussion et la coordination : [s’inscrire au groupe](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
 - [Discourse Mozilla Francophone](https://discourse.mozilla.org/c/voice/fr)
 - [Discourse Mozilla (anglais)](https://discourse.mozilla.org/c/voice)
 
