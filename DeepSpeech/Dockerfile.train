@@ -1,8 +1,8 @@
 FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=f56b07dab4542eecfb72e059079db6c2603cc0ee
-ARG ds_sha1=f56b07dab4542eecfb72e059079db6c2603cc0ee
+ARG ds_branch=3ebcbdea91f1d60fc9e92c35da7b040f312246df
+ARG ds_sha1=3ebcbdea91f1d60fc9e92c35da7b040f312246df
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
 ARG kenlm_repo=kpu/kenlm
@@ -144,7 +144,7 @@ WORKDIR $DS_DIR
 
 RUN pip install --upgrade pip==20.0.2 wheel==0.34.2 setuptools==46.1.3
 RUN DS_NOTENSORFLOW=y pip install --upgrade --force-reinstall -e .
-RUN pip install --upgrade tensorflow-gpu==1.15.2
+RUN pip install --upgrade tensorflow-gpu==1.15.4
 
 RUN TASKCLUSTER_SCHEME="https://community-tc.services.mozilla.com/api/index/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s" python util/taskcluster.py \
 	--target="$(pwd)" \
