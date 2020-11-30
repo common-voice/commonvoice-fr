@@ -11,3 +11,5 @@ import_trainingspeech.sh
 import_slr57.sh
 
 ../import_m-ailabs.sh
+
+import_ccpmf.sh
