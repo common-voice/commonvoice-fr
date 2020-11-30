@@ -173,6 +173,8 @@ RUN patch -p1 < corpora.patch
 # error: parso 0.8.0 is installed but parso<0.8.0,>=0.7.0 is required by {'jedi'}
 RUN pip install parso==0.7.0
 
+RUN pip install modin[all]
+
 RUN python setup.py install
 
 WORKDIR $HOMEDIR
