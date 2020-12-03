@@ -4,7 +4,7 @@ set -xe
 
 export METADATA_AUTHOR="DeepSpeech-FR-Team"
 export METADATA_MODEL_NAME="deepspeech-fr"
-export METADATA_MODEL_VERSION="0.5"
+export METADATA_MODEL_VERSION="0.6"
 export METADATA_CONTACT_INFO="https://discourse.mozilla.org/c/voice/fr"
 export METADATA_LICENSE="MIT-0"
 export METADATA_LANGUAGE="fr-FR"
