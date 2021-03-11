@@ -171,8 +171,8 @@ COPY --chown=trainer:trainer corpora.patch $CC_DIR
 
 RUN patch -p1 < corpora.patch
 
-# error: parso 0.8.0 is installed but parso<0.8.0,>=0.7.0 is required by {'jedi'}
-RUN pip install parso==0.7.0
+# error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
+RUN pip install parso==0.8.1
 
 RUN pip install modin[all]
 
