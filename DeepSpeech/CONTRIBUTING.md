@@ -1,5 +1,9 @@
 # Dockerfile for producing french model
 
+## Licensing:
+
+This model is available under the terms of the MPL 2.0 (see `LICENSE.txt`).
+
 ## Prerequistes:
 
 * Ensure you have a running setup of `NVIDIA Docker`
