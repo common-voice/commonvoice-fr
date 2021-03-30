@@ -38,6 +38,7 @@ normalizers = [
     (re.compile(r'(\s|^)0(\s|$|,)'), r'\g<1>zéro\g<2>'),
     (re.compile(r'(\s|^)0(\s|$|,)'), r'\g<1>zéro\g<2>'),
 ]
+FILTER_SYMBOLES_REG=re.compile(r'[\{\}\[\]«»_\|\(\)\\…(^—)=&\*/µ#’@℗`~¹½¼¾¿º±↨↑↓▼→▲←↔∟§°‼¸‰‘¶“”•—´☺☻♥♦♠♣•◘○◙♂►♀☼♫♪¢¦Ξ≈˜†√ƒοΔδΛΓκιςζυσρΣγτθΘφΦηχξβωγΩΨ◊░▒▓│├╚┼┬┴└┐┤╝╗╬╣║ßÞ═™›³ª¯¬®]+')
 
 
 def format_address(address, template):
@@ -62,6 +63,7 @@ def format_address(address, template):
 
     str = maybe_normalize(str, mapping=normalizers)
     str = filter_numbers(str)
+    str = FILTER_SYMBOLES_REG.sub('', str)
     return str.strip()
 
 
