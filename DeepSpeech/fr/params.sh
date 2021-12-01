@@ -4,8 +4,8 @@ set -xe
 
 export IMPORTERS_VALIDATE_LOCALE="--validate_label_locale $HOME/${MODEL_LANGUAGE}/validate_label.py"
 
-export CV_RELEASE_FILENAME="cv-4-fr.tar.gz"
-export CV_RELEASE_SHA256="ffda45f2006fb6092fb435c786cde422e38183f7837e9faa65cb273439cf369e"
+export CV_RELEASE_FILENAME="cv-corpus-7.0-2021-07-21-fr.tar.gz"
+export CV_RELEASE_SHA256="5f272cbe0f916b4bd6191f84e8017cbc66faca2c709896301cca69fde95287d5"
 
 export LINGUA_LIBRE_QID="21"
 export LINGUA_LIBRE_ISO639="fra"

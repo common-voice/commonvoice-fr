@@ -10,7 +10,7 @@ This model is available under the terms of the MPL 2.0 (see `LICENSE.txt`).
 * Prepare a host directory with enough space for training / producing intermediate data (100GB ?).
 * Ensure it's writable by `trainer` (uid 999) user (defined in the Dockerfile).
 * For Common Voice dataset, please make sure you have downloaded the dataset prior to running (behind email)
-  Place `cv-4-fr.tar.gz` inside your host directory, in a `sources/` subdirectory.
+  Place `cv-corpus-7.0-2021-07-21-fr` inside your host directory, in a `sources/` subdirectory.
 
 ## Build the image:
 
