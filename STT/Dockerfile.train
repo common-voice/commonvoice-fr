@@ -4,42 +4,44 @@ FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3 AS kenlm-build
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends \
-    build-essential cmake libboost-system-dev \
-    libboost-thread-dev libboost-program-options-dev \
-    libboost-test-dev libeigen3-dev zlib1g-dev \
-    libbz2-dev liblzma-dev && \
-    rm -rf /var/lib/apt/lists/*
+  apt-get install -y --no-install-recommends \
+  build-essential cmake libboost-system-dev \
+  libboost-thread-dev libboost-program-options-dev \
+  libboost-test-dev libeigen3-dev zlib1g-dev \
+  libbz2-dev liblzma-dev && \
+  rm -rf /var/lib/apt/lists/*
 
 # Build KenLM to generate new scorers
 WORKDIR /code
 COPY STT/kenlm /code/kenlm
 RUN cd /code/kenlm && \
-    mkdir -p build && \
-    cd build && \
-    cmake .. && \
-    make -j $(nproc) || \
-    ( echo "ERROR: Failed to build KenLM."; \
-    echo "ERROR: Make sure you update the kenlm submodule on host before building this Dockerfile."; \
-    echo "ERROR: $ cd STT; git submodule update --init kenlm"; \
-    exit 1; )
+  mkdir -p build && \
+  cd build && \
+  cmake .. && \
+  make -j $(nproc) || \
+  ( echo "ERROR: Failed to build KenLM."; \
+  echo "ERROR: Make sure you update the kenlm submodule on host before building this Dockerfile."; \
+  echo "ERROR: $ cd STT; git submodule update --init kenlm"; \
+  exit 1; )
 
+# Build output graph convertion tool for inference
 FROM ubuntu:20.04 AS wget-binaries
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends wget unzip xz-utils && \
-    rm -rf /var/lib/apt/lists/*
+  apt-get install -y --no-install-recommends wget unzip xz-utils && \
+  rm -rf /var/lib/apt/lists/*
 
 # Tool to convert output graph for inference
 RUN wget --no-check-certificate https://github.com/coqui-ai/STT/releases/download/v0.9.3/convert_graphdef_memmapped_format.linux.amd64.zip -O temp.zip && \
-    unzip temp.zip && \
-    rm temp.zip
+  unzip temp.zip && \
+  rm temp.zip
 
 RUN wget --no-check-certificate https://github.com/reuben/STT/releases/download/v0.10.0-alpha.1/native_client.tar.xz -O temp.tar.xz && \
-    tar -xf temp.tar.xz && \
-    rm temp.tar.xz
+  tar -xf temp.tar.xz && \
+  rm temp.tar.xz
 
+# Build STT
 FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3
 
 # Import Args in Env
@@ -108,7 +110,7 @@ ENV LANG=C.UTF-8
 # Avoid keyboard-configuration step
 ENV DEBIAN_FRONTEND noninteractive
 
-ENV HOMEDIR /home/trainer
+ENV HOMEDIR /home/code
 
 ENV VIRTUAL_ENV_NAME stt-train
 ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
@@ -123,29 +125,30 @@ RUN env
 # it's breaking STT install later with
 # errors about setuptools
 RUN apt-get update && \
-    apt-get install -y --no-install-recommends \
-        git \
-        wget \
-        libopus0 \
-        libopusfile0 \
-        libsndfile1 \
-        sox \
-        libsox-fmt-mp3 && \
-    apt-get purge -y python3-xdg && \
-    rm -rf /var/lib/apt/lists/*
+  apt-get install -y --no-install-recommends \
+    git \
+    wget \
+    libopus0 \
+    libopusfile0 \
+    libsndfile1 \
+    sox \
+    libsox-fmt-mp3 \
+    libmagic-dev && \
+  apt-get purge -y python3-xdg && \
+  rm -rf /var/lib/apt/lists/*
 
 # Make sure pip and its dependencies are up-to-date
 RUN pip3 install --upgrade pip wheel setuptools
 
-# Creating user for security purposes
-RUN groupadd -g $GID trainer && \
-    adduser --system --uid $UID --group trainer
+# # Creating user for security purposes
+# RUN groupadd -g $GID trainer && \
+#   adduser --system --uid $UID --group trainer
 
-RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
-    chmod 0440 /etc/sudoers.d/trainer
+# RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
+#   chmod 0440 /etc/sudoers.d/trainer
 
-# Below that point, nothing requires being root
-USER trainer
+# # Below that point, nothing requires being root
+# USER trainer
 
 # Corpus creator
 WORKDIR $HOMEDIR
@@ -159,12 +162,12 @@ RUN git checkout $cc_sha1
 WORKDIR $CC_DIR
 
 # Copy copora patch
-COPY --chown=trainer:trainer corpora.patch $CC_DIR
+COPY corpora.patch $CC_DIR
 
 RUN patch -p1 < corpora.patch
 
 # error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
-RUN pip install parso==0.9.0
+RUN pip install parso==0.8.3
 
 RUN pip install modin[all]
 
@@ -175,31 +178,56 @@ RUN pip install num2words
 
 WORKDIR $HOMEDIR
 
-ENV PATH="$STT_DIR/kenlm/build/bin/:$PATH"
+ENV PATH="${STT_DIR}/kenlm/build/bin/:$PATH"
 
 # Copy now so that docker build can leverage caches
-COPY --chown=trainer:trainer . $HOMEDIR/
+COPY . ${HOMEDIR}/
 
-COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ $HOMEDIR/${MODEL_LANGUAGE}/
+RUN true
 
-COPY --chown=trainer:trainer STT/ ${STT_DIR}
+COPY ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
 
-COPY --chown=trainer:trainer STT/native_client ${STT_DIR}/native_client
-COPY --chown=trainer:trainer STT/.git /code/.git
-COPY --chown=trainer:trainer STT/training/coqui_stt_training/VERSION ${STT_DIR}/training/coqui_stt_training/VERSION
-COPY --chown=trainer:trainer STT/training/coqui_stt_training/GRAPH_VERSION ${STT_DIR}/training/coqui_stt_training/GRAPH_VERSION
+RUN true
+
+COPY STT ${STT_DIR}
+
+COPY STT/native_client ${STT_DIR}/native_client
+
+RUN true
+
+COPY STT/.git ${STT_DIR}/.git
+
+RUN true
+
+COPY STT/training/coqui_stt_training/VERSION ${STT_DIR}/training/coqui_stt_training/VERSION
+
+RUN true
+
+COPY STT/training/coqui_stt_training/GRAPH_VERSION ${STT_DIR}/training/coqui_stt_training/GRAPH_VERSION
 
 # Build CTC decoder first, to avoid clashes on incompatible versions upgrades
-RUN cd ${STT_DIR}/native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
+RUN cd STT/native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
 RUN pip3 install --upgrade ${STT_DIR}/native_client/ctcdecode/dist/*.whl
 
-COPY --chown=trainer:trainer STT/setup.py /code/setup.py
-COPY --chown=trainer:trainer STT/VERSION /code/VERSION
-COPY --chown=trainer:trainer STT/training /code/training
+COPY STT/setup.py ${STT_DIR}/setup.py
+
+RUN true
+
+COPY STT/VERSION ${STT_DIR}/VERSION
+
+RUN true
+
+COPY STT/training ${STT_DIR}/training
 # Copy files from previous build stages
 RUN mkdir -p ${STT_DIR}/kenlm/build/
-COPY --from=kenlm-build ${STT_DIR}/kenlm/build/bin ${STT_DIR}//kenlm/build/bin
-COPY --from=wget-binaries /convert_graphdef_memmapped_format ${STT_DIR}//convert_graphdef_memmapped_format
+COPY --from=kenlm-build ${STT_DIR}/kenlm/build/bin ${STT_DIR}/kenlm/build/bin
+
+RUN true
+
+COPY --from=wget-binaries /convert_graphdef_memmapped_format ${STT_DIR}/convert_graphdef_memmapped_format
+
+RUN true
+
 COPY --from=wget-binaries /generate_scorer_package ${STT_DIR}/generate_scorer_package
 
 ENTRYPOINT "$HOMEDIR/run.sh"
