@@ -19,9 +19,9 @@ $ docker build -f Dockerfile.train .
 ```
 
 Several parameters can be customized:
- - `ds_repo` to fetch STT from a different repo than upstream
- - `ds_branch` to checkout a specific branch / commit
- - `ds_sha1` commit to pull from when installing pre-built binaries
+ - `stt_repo` to fetch STT from a different repo than upstream
+ - `stt_branch` to checkout a specific branch / commit
+ - `stt_sha1` commit to pull from when installing pre-built binaries
  - `kenlm_repo`, `kenlm_branch` for the same parameters for KenLM
  - `english_compatible` set to 1 if you want the importers to be run in
     "English-compatible mode": this will affect behavior such as english
