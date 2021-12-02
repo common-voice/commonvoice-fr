@@ -147,6 +147,8 @@ RUN pip3 install --upgrade pip wheel setuptools
 RUN groupadd -g $GID trainer && \
     useradd -r -g $UID trainer
 
+RUN mkdir -p /etc/sudoers.d
+
 RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
     chmod 0440 /etc/sudoers.d/trainer
 
