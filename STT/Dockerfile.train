@@ -205,7 +205,7 @@ RUN pip3 install --upgrade ${STT_DIR}/native_client/ctcdecode/dist/*.whl
 
 # Copy files from previous build stages
 RUN mkdir -p ${STT_DIR}/kenlm/build/
-COPY --from=kenlm-build /code/kenlm/build/bin ${STT_DIR}/kenlm/build/bin
+COPY --from=kenlm-build kenlm/build/bin ${STT_DIR}/kenlm/build/bin
 
 RUN true
 
