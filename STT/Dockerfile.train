@@ -46,8 +46,8 @@ FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3
 
 # Import Args in Env
 ARG stt_repo=coqui-ai/STT
-ARG stt_branch=main
-ARG stt_sha1=2822875e9f6d10e5a42cf78f0a5629cdd4ee74b7
+ARG stt_branch=27584037f8
+ARG stt_sha1=27584037f8
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
 
