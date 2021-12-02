@@ -19,7 +19,7 @@ $ docker build -f Dockerfile.train .
 ```
 
 Several parameters can be customized:
- - `ds_repo` to fetch DeepSpeech from a different repo than upstream
+ - `ds_repo` to fetch STT from a different repo than upstream
  - `ds_branch` to checkout a specific branch / commit
  - `ds_sha1` commit to pull from when installing pre-built binaries
  - `kenlm_repo`, `kenlm_branch` for the same parameters for KenLM

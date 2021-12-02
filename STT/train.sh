@@ -44,7 +44,7 @@ pushd $HOME/ds/
 
 	# Assume that if we have best_dev_checkpoint then we have trained correctly
 	if [ ! -f "/mnt/checkpoints/best_dev_checkpoint" ]; then
-		python -u DeepSpeech.py \
+		python -u STT.py \
 			--show_progressbar True \
 			--train_cudnn True \
 			${AMP_FLAG} \
@@ -68,7 +68,7 @@ pushd $HOME/ds/
 	fi;
 
 	if [ ! -f "/mnt/models/test_output.json" ]; then
-		python -u DeepSpeech.py \
+		python -u STT.py \
 			--show_progressbar True \
 			--train_cudnn True \
 			${AMP_FLAG} \
@@ -85,7 +85,7 @@ pushd $HOME/ds/
 
 	if [ ! -f "/mnt/models/output_graph.pb" ]; then
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tensorflow"
-		python -u DeepSpeech.py \
+		python -u STT.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -102,7 +102,7 @@ pushd $HOME/ds/
 
 	if [ ! -f "/mnt/models/output_graph.tflite" ]; then
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -u DeepSpeech.py \
+		python -u STT.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -121,7 +121,7 @@ pushd $HOME/ds/
 	if [ ! -f "/mnt/models/${MODEL_EXPORT_ZIP_LANG}.zip" ]; then
 		mkdir /mnt/models/${MODEL_EXPORT_ZIP_LANG} || rm /mnt/models/${MODEL_EXPORT_ZIP_LANG}/*
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -u DeepSpeech.py \
+		python -u STT.py \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \

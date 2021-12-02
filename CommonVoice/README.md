@@ -17,7 +17,7 @@ Vous trouverez dans ce document l’ensemble des instructions, documentations…
 
 # Introduction
 
-Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux machines comment les humains parlent vraiment. Il va permettre de collecter des données pour fournir du contenu aux algorithmes comme [Deep Speech](https://github.com/Common-Voice/commonvoice-fr/wiki/DeepSpeech).
+Le projet Common Voice est une initiative de Mozilla pour aider à apprendre aux machines comment les humains parlent vraiment. Il va permettre de collecter des données pour fournir du contenu aux algorithmes comme [Deep Speech](https://github.com/Common-Voice/commonvoice-fr/wiki/STT).
 
 # Canaux
 
