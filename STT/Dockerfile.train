@@ -206,7 +206,7 @@ RUN true
 COPY STT/training/coqui_stt_training/GRAPH_VERSION ${STT_DIR}/training/coqui_stt_training/GRAPH_VERSION
 
 # Build CTC decoder first, to avoid clashes on incompatible versions upgrades
-RUN cd STT/native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
+RUN cd ${STT_DIR}/native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
 RUN pip3 install --upgrade ${STT_DIR}/native_client/ctcdecode/dist/*.whl
 
 COPY STT/setup.py ${STT_DIR}/setup.py
