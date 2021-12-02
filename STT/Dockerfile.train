@@ -190,8 +190,6 @@ RUN true
 
 COPY ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
 
-RUN true
-
 RUN git clone https://github.com/$stt_repo $STT_DIR
 
 WORKDIR ${STT_DIR}
