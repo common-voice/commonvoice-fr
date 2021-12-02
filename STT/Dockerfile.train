@@ -113,7 +113,7 @@ ENV LANG=C.UTF-8
 # Avoid keyboard-configuration step
 ENV DEBIAN_FRONTEND noninteractive
 
-ENV HOMEDIR /home/code
+ENV HOMEDIR /home/trainer
 
 ENV VIRTUAL_ENV_NAME stt-train
 ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
@@ -143,15 +143,15 @@ RUN apt-get update && \
 # Make sure pip and its dependencies are up-to-date
 RUN pip3 install --upgrade pip wheel setuptools
 
-# # Creating user for security purposes
-# RUN groupadd -g $GID trainer && \
-#   adduser --system --uid $UID --group trainer
+# Creating user for security purposes
+RUN groupadd -g $GID trainer && \
+    adduser --system --uid $UID --group trainer
 
-# RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
-#   chmod 0440 /etc/sudoers.d/trainer
+RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
+    chmod 0440 /etc/sudoers.d/trainer
 
-# # Below that point, nothing requires being root
-# USER trainer
+# Below that point, nothing requires being root
+USER trainer
 
 # Corpus creator
 WORKDIR $HOMEDIR
