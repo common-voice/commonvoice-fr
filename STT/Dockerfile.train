@@ -2,6 +2,8 @@
 FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3 AS kenlm-build
 
 ENV DEBIAN_FRONTEND=noninteractive
+ARG kenlm_repo=kpu/kenlm
+ARG kenlm_branch=87e85e66c99ceff1fab2500a7c60c01da7315eec
 
 RUN apt-get update && \
   apt-get install -y --no-install-recommends \
@@ -12,9 +14,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
 
 # Build KenLM to generate new scorers
-WORKDIR /code
-COPY STT/kenlm /code/kenlm
-RUN cd /code/kenlm && \
+RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch && \
   mkdir -p build && \
   cd build && \
   cmake .. && \
@@ -45,6 +45,9 @@ RUN wget --no-check-certificate https://github.com/reuben/STT/releases/download/
 FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3
 
 # Import Args in Env
+ARG stt_repo=coqui-ai/STT
+ARG stt_branch=2822875e9f6d10e5a42cf78f0a5629cdd4ee74b7
+ARG stt_sha1=2822875e9f6d10e5a42cf78f0a5629cdd4ee74b7
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
 
@@ -189,35 +192,19 @@ COPY ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
 
 RUN true
 
-COPY STT ${STT_DIR}
+RUN git clone https://github.com/$stt_repo $STT_DIR
 
-COPY STT/native_client ${STT_DIR}/native_client
+WORKDIR ${STT_DIR}
 
-RUN true
+RUN git checkout $stt_branch
 
-COPY STT/.git ${STT_DIR}/.git
-
-RUN true
-
-COPY STT/training/coqui_stt_training/VERSION ${STT_DIR}/training/coqui_stt_training/VERSION
-
-RUN true
-
-COPY STT/training/coqui_stt_training/GRAPH_VERSION ${STT_DIR}/training/coqui_stt_training/GRAPH_VERSION
+WORKDIR ${STT_DIR}
 
 # Build CTC decoder first, to avoid clashes on incompatible versions upgrades
 RUN cd ${STT_DIR}/native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
 RUN pip3 install --upgrade ${STT_DIR}/native_client/ctcdecode/dist/*.whl
 
-COPY STT/setup.py ${STT_DIR}/setup.py
 
-RUN true
-
-COPY STT/VERSION ${STT_DIR}/VERSION
-
-RUN true
-
-COPY STT/training ${STT_DIR}/training
 # Copy files from previous build stages
 RUN mkdir -p ${STT_DIR}/kenlm/build/
 COPY --from=kenlm-build ${STT_DIR}/kenlm/build/bin ${STT_DIR}/kenlm/build/bin
@@ -229,5 +216,11 @@ COPY --from=wget-binaries /convert_graphdef_memmapped_format ${STT_DIR}/convert_
 RUN true
 
 COPY --from=wget-binaries /generate_scorer_package ${STT_DIR}/generate_scorer_package
+
+# Install STT
+# No need for the decoder since we did it earlier
+# TensorFlow GPU should already be installed on the base image,
+# and we don't want to break that
+RUN DS_NODECODER=y DS_NOTENSORFLOW=y pip3 install --upgrade -e .
 
 ENTRYPOINT "$HOMEDIR/run.sh"
