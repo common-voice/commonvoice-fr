@@ -14,7 +14,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
 
 # Build KenLM to generate new scorers
-RUN git clone https://github.com/$kenlm_repo.git /code && cd kenlm && git checkout $kenlm_branch && \
+RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch && \
   mkdir -p build && \
   cd build && \
   cmake .. && \
