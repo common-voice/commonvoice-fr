@@ -130,6 +130,7 @@ RUN env
 # errors about setuptools
 RUN apt-get update && \
   apt-get install -y --no-install-recommends \
+    sudo \
     git \
     wget \
     libopus0 \
