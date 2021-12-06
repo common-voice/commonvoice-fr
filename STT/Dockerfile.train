@@ -154,8 +154,10 @@ RUN mkdir -p /etc/sudoers.d
 RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
     chmod 0440 /etc/sudoers.d/trainer
 
+RUN chown -R trainer:trainer ${HOMEDIR}
 
-RUN chown -R trainer ${HOMEDIR}
+RUN chown -R trainer:trainer /mnt
+
 # Install Corpus creator
 WORKDIR $HOMEDIR
 
@@ -168,7 +170,7 @@ RUN git checkout $cc_sha1
 WORKDIR $CC_DIR
 
 # Copy copora patch
-COPY corpora.patch $CC_DIR
+COPY --chown=trainer:trainer corpora.patch $CC_DIR
 
 RUN patch -p1 < corpora.patch
 
@@ -192,7 +194,7 @@ ENV PATH="${STT_DIR}/kenlm/build/bin/:$PATH"
 
 RUN true
 
-COPY ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
+COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
 
 RUN git clone https://github.com/$stt_repo $STT_DIR
 
@@ -225,6 +227,6 @@ COPY --from=wget-binaries /generate_scorer_package ${STT_DIR}/generate_scorer_pa
 RUN cd $STT_DIR && DS_NODECODER=y DS_NOTENSORFLOW=y pip3 install --upgrade -e .
 
 # Copy now so that docker build can leverage caches
-COPY . ${HOMEDIR}/
+COPY --chown=trainer:trainer . ${HOMEDIR}/
 
 ENTRYPOINT "$HOMEDIR/run.sh"

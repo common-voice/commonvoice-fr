@@ -27,9 +27,9 @@ Several parameters can be customized:
     "English-compatible mode": this will affect behavior such as english
     alphabet file can be re-used, when doing transfer-learning from English
     checkpoints for example.
- - lm_evaluate_range, if non empty, this will perform a LM alpha/beta evaluation
-    the parameter is expected to be of the form: lm_alpha_max,lm_beta_max,n_trials.
-    See upstream lm_optimizer.py for details
+ - `lm_evaluate_range`, if non empty, this will perform a LM alpha/beta evaluation
+    the parameter is expected to be of the form: `lm_alpha_max`,`lm_beta_max`,`n_trials`.
+    See upstream `lm_optimizer.py` for details
 
 Some parameters for the model itself:
  - `batch_size` to specify the batch size for training, dev and test dataset
@@ -91,7 +91,7 @@ The `mount` option is really important: this is where intermediate files, traini
 well as final model files will be produced.
 
 ```
-$ docker run --tty --runtime=nvidia --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt <docker-image-id>
+$ docker run -it --runtime=nvidia --gpus=all ----privileged --shm-size=1g --ulimit memlock=-1 --ulimit stack=67108864 --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt <docker-image-id>
 ```
 
 Training parameters can be changed at runtime as well using environment variables.
