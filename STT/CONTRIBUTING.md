@@ -91,7 +91,7 @@ The `mount` option is really important: this is where intermediate files, traini
 well as final model files will be produced.
 
 ```
-$ docker run -it --runtime=nvidia --gpus=all ----privileged --shm-size=1g --ulimit memlock=-1 --ulimit stack=67108864 --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt <docker-image-id>
+$ docker run -it --runtime=nvidia --gpus=all --privileged --shm-size=1g --ulimit memlock=-1 --ulimit stack=67108864 --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt <docker-image-id>
 ```
 
 Training parameters can be changed at runtime as well using environment variables.

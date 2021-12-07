@@ -7,7 +7,7 @@ if [ -z "${CV_RELEASE_FILENAME}" ]; then
 	exit 1
 fi;
 
-pushd $HOME/ds/
+pushd $STT_DIR
 	if [ ! -f "/mnt/sources/${CV_RELEASE_FILENAME}" ]; then
 		exit 1
 	fi;
@@ -37,7 +37,7 @@ pushd $HOME/ds/
 
 		fi;
 
-		python bin/import_cv2.py \
+		python ${STT_DIR}/bin/import_cv2.py \
 			${IMPORT_AS_ENGLISH} \
 			${IMPORTERS_VALIDATE_LOCALE} \
 			/mnt/extracted/data/cv-${MODEL_LANGUAGE}/

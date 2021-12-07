@@ -16,7 +16,7 @@ pushd /mnt/extracted/
 	fi;
 popd
 
-pushd $HOME/ds/
+pushd $STT_DIR
 
 	if [ ! -f "/mnt/lm/lm.binary" ]; then
 		python data/lm/generate_lm.py \
