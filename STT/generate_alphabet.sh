@@ -11,7 +11,7 @@ pushd $STT_DIR
 		if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 			cp data/alphabet.txt /mnt/models/alphabet.txt
 		else
-			python training/STT_training/util/check_characters.py \
+			python training/coqui_stt_training/util/check_characters.py \
 				--csv-files ${all_train_csv},${all_dev_csv},${all_test_csv} \
 				--alphabet-format | grep -v '^#' | sort -n > /mnt/models/alphabet.txt
 		fi;
