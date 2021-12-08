@@ -12,7 +12,7 @@ if [ ! -f "/mnt/extracted/data/lingualibre/lingua_libre_Q${LINGUA_LIBRE_QID}-${L
 		SKIPLIST="--bogus-records ${LINGUA_LIBRE_SKIPLIST}"
 	fi;
 
-	python bin/import_lingua_libre.py                       \
+	python ${STT_DIR}/bin/import_lingua_libre.py                       \
 		--qId ${LINGUA_LIBRE_QID}                       \
 		--iso639-3 ${LINGUA_LIBRE_ISO639}               \
 		--english-name ${LINGUA_LIBRE_ENGLISH}          \
