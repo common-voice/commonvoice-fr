@@ -138,6 +138,6 @@ pushd $STT_DIR
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.pbmm" ]; then
-		./convert_graphdef_memmapped_format --in_graph=/mnt/models/output_graph.pb --out_graph=/mnt/models/output_graph.pbmm
+		${STT_DIR}/convert_graphdef_memmapped_format --in_graph=/mnt/models/output_graph.pb --out_graph=/mnt/models/output_graph.pbmm
 	fi;
 popd

@@ -19,7 +19,7 @@ popd
 pushd $STT_DIR
 
 	if [ ! -f "/mnt/lm/lm.binary" ]; then
-		python data/lm/generate_lm.py \
+		python ${STT_DIR}/data/lm/generate_lm.py \
 			--input_txt /mnt/extracted/sources_lm.txt \
 			--output_dir /mnt/lm/ \
 			--top_k ${LM_TOP_K} \
@@ -32,7 +32,7 @@ pushd $STT_DIR
 			--binary_type trie
 	fi;
 
-	./generate_scorer_package \
+	${STT_DIR}/generate_scorer_package \
 		--alphabet /mnt/models/alphabet.txt \
 		--lm /mnt/lm/lm.binary \
 		--vocab /mnt/lm/vocab-${LM_TOP_K}.txt \
