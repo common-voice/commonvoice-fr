@@ -121,7 +121,7 @@ ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
 ENV STT_DIR $HOMEDIR/stt
 ENV CC_DIR $HOMEDIR/cc
 
-ENV PATH="$VIRTUAL_ENV/bin:${HOMEDIR}/.local/bin:$PATH"
+ENV PATH="${HOMEDIR}/.local/bin:$PATH"
 
 RUN env
 
@@ -138,7 +138,8 @@ RUN apt-get update && \
     libsndfile1 \
     sox \
     libsox-fmt-mp3 \
-    libmagic-dev && \
+    libmagic-dev \
+    virtualenv && \
   apt-get purge -y python3-xdg && \
   rm -rf /var/lib/apt/lists/*
 
@@ -157,9 +158,15 @@ RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
 RUN chown -R trainer:trainer ${HOMEDIR}
 
 RUN chown -R trainer:trainer /mnt
+# Below that point, nothing requires being root
+USER trainer
 
 # Install Corpus creator
 WORKDIR $HOMEDIR
+
+RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
+
+ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:$PATH
 
 RUN git clone https://github.com/$cc_repo.git $CC_DIR
 
@@ -179,11 +186,9 @@ RUN pip install parso==0.8.3
 
 RUN pip install modin[all]
 
-# aparently you need sudo now
 RUN python setup.py install
 
-# Below that point, nothing requires being root
-USER trainer
+RUN pip install --upgrade tensorflow-gpu==1.15.4
 
 # For CC PMF importer
 RUN pip install num2words
@@ -196,7 +201,7 @@ RUN true
 
 COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
 
-RUN git clone https://github.com/$stt_repo $STT_DIR
+RUN git clone https://github.com/${stt_repo}.git $STT_DIR
 
 WORKDIR ${STT_DIR}
 
