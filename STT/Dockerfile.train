@@ -139,6 +139,7 @@ RUN apt-get update && \
     sox \
     libsox-fmt-mp3 \
     libmagic-dev \
+    pixz \
     virtualenv && \
   apt-get purge -y python3-xdg && \
   rm -rf /var/lib/apt/lists/*
