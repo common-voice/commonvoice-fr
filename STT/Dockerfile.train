@@ -167,7 +167,7 @@ WORKDIR $HOMEDIR
 
 RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
 
-ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:$PATH
+ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:${STT_DIR}/kenlm/build/bin:$PATH
 
 RUN git clone https://github.com/$cc_repo.git $CC_DIR
 
