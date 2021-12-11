@@ -119,9 +119,10 @@ ENV HOMEDIR /home/trainer
 ENV VIRTUAL_ENV_NAME stt-train
 ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
 ENV STT_DIR $HOMEDIR/stt
+ENV KENLM_BIN $STT_DIR/kenlm/build/bin
 ENV CC_DIR $HOMEDIR/cc
 
-ENV PATH="${HOMEDIR}/.local/bin:$PATH"
+ENV PATH="${HOMEDIR}/.local/bin:${VIRTUAL_ENV}/bin:$KENLM_BIN:$PATH"
 
 RUN env
 
@@ -167,8 +168,6 @@ WORKDIR $HOMEDIR
 
 RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
 
-ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:${STT_DIR}/kenlm/build/bin:$PATH
-
 RUN git clone https://github.com/$cc_repo.git $CC_DIR
 
 WORKDIR $CC_DIR
@@ -196,10 +195,6 @@ RUN pip install num2words
 
 WORKDIR $HOMEDIR
 
-ENV PATH="${STT_DIR}/kenlm/build/bin/:$PATH"
-
-RUN true
-
 COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
 
 RUN git clone https://github.com/${stt_repo}.git $STT_DIR
@@ -214,23 +209,23 @@ WORKDIR ${STT_DIR}
 RUN cd ${STT_DIR}/native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
 RUN pip3 install --upgrade ${STT_DIR}/native_client/ctcdecode/dist/*.whl
 
-# Copy files from previous build stages
-RUN mkdir -p ${STT_DIR}/kenlm/build/
-COPY --from=kenlm-build /code/kenlm/build/bin ${STT_DIR}/kenlm/build/bin
-
-RUN true
-
-COPY --from=wget-binaries /convert_graphdef_memmapped_format ${STT_DIR}/convert_graphdef_memmapped_format
-
-RUN true
-
-COPY --from=wget-binaries /generate_scorer_package ${STT_DIR}/generate_scorer_package
-
 # Install STT
 # No need for the decoder since we did it earlier
 # TensorFlow GPU should already be installed on the base image,
 # and we don't want to break that
 RUN cd $STT_DIR && DS_NODECODER=y DS_NOTENSORFLOW=y pip3 install --upgrade -e .
+
+# Copy files from previous build stages
+RUN mkdir -p ${STT_DIR}/kenlm/build/
+COPY --from=kenlm-build /code/kenlm/build/bin $KENLM_BIN
+
+RUN true
+
+COPY --from=wget-binaries /convert_graphdef_memmapped_format $KENLM_BIN/convert_graphdef_memmapped_format
+
+RUN true
+
+COPY --from=wget-binaries /generate_scorer_package $KENLM_BIN/generate_scorer_package
 
 # Copy now so that docker build can leverage caches
 COPY --chown=trainer:trainer . ${HOMEDIR}/

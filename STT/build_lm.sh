@@ -23,7 +23,7 @@ pushd $STT_DIR
 			--input_txt /mnt/extracted/sources_lm.txt \
 			--output_dir /mnt/lm/ \
 			--top_k ${LM_TOP_K} \
-			--kenlm_bins $STT_DIR/kenlm/build/bin/ \
+			--kenlm_bins $KENLM_BIN \
 			--arpa_order 4 \
 			--max_arpa_memory "85%" \
 			--arpa_prune "0|0|1" \
@@ -32,7 +32,7 @@ pushd $STT_DIR
 			--binary_type trie
 	fi;
 
-	${STT_DIR}/generate_scorer_package \
+	${KENLM_BIN}/generate_scorer_package \
 		--alphabet /mnt/models/alphabet.txt \
 		--lm /mnt/lm/lm.binary \
 		--vocab /mnt/lm/vocab-${LM_TOP_K}.txt \
