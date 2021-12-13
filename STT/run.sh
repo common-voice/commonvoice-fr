@@ -3,7 +3,7 @@
 set -xe
 
 THIS=$(dirname "$0")
-export PATH="${THIS}:${THIS}/${MODEL_LANGUAGE}:$KENLM_BIN:$PATH"
+export PATH="${THIS}:${THIS}/${MODEL_LANGUAGE}:$PATH"
 
 export TF_CUDNN_RESET_RND_GEN_STATE=1
 

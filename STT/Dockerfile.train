@@ -25,22 +25,6 @@ RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $ke
   echo "ERROR: $ cd STT; git submodule update --init kenlm"; \
   exit 1; )
 
-# Build output graph convertion tool for inference
-FROM ubuntu:20.04 AS wget-binaries
-ENV DEBIAN_FRONTEND=noninteractive
-
-RUN apt-get update && \
-  apt-get install -y --no-install-recommends wget unzip xz-utils && \
-  rm -rf /var/lib/apt/lists/*
-
-# Tool to convert output graph for inference
-RUN wget --no-check-certificate https://github.com/coqui-ai/STT/releases/download/v0.9.3/convert_graphdef_memmapped_format.linux.amd64.zip -O temp.zip && \
-  unzip temp.zip && \
-  rm temp.zip
-
-RUN wget --no-check-certificate https://github.com/reuben/STT/releases/download/v0.10.0-alpha.1/native_client.tar.xz -O temp.tar.xz && \
-  tar -xf temp.tar.xz && \
-  rm temp.tar.xz
 
 # Build STT
 FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3
@@ -195,9 +179,7 @@ RUN pip install num2words
 
 WORKDIR $HOMEDIR
 
-COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
-
-RUN git clone https://github.com/${stt_repo}.git $STT_DIR
+RUN git clone --recurse-submodules https://github.com/${stt_repo}.git $STT_DIR
 
 WORKDIR ${STT_DIR}
 
@@ -219,15 +201,20 @@ RUN cd $STT_DIR && DS_NODECODER=y DS_NOTENSORFLOW=y pip3 install --upgrade -e .
 RUN mkdir -p ${STT_DIR}/kenlm/build/
 COPY --from=kenlm-build /code/kenlm/build/bin $KENLM_BIN
 
-RUN true
+WORKDIR ${STT_DIR}
 
-COPY --from=wget-binaries /convert_graphdef_memmapped_format $KENLM_BIN/convert_graphdef_memmapped_format
+# Tool to convert output graph for inference
+RUN curl -L https://github.com/coqui-ai/STT/releases/download/v0.9.3/convert_graphdef_memmapped_format.linux.amd64.zip | funzip > convert_graphdef_memmapped_format && \
+    chmod +x convert_graphdef_memmapped_format
 
-RUN true
-
-COPY --from=wget-binaries /generate_scorer_package $KENLM_BIN/generate_scorer_package
+# Pre-built native client tools
+RUN curl -L https://github.com/coqui-ai/STT/releases/download/v1.1.0/native_client.tflite.Linux.tar.xz | tar -xJvf -
 
 # Copy now so that docker build can leverage caches
 COPY --chown=trainer:trainer . ${HOMEDIR}/
+
+COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
+
+WORKDIR ${HOMEDIR}
 
 ENTRYPOINT "$HOMEDIR/run.sh"
