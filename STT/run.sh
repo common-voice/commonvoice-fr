@@ -3,7 +3,7 @@
 set -xe
 
 THIS=$(dirname "$0")
-export PATH="${THIS}:${THIS}/${MODEL_LANGUAGE}:$PATH"
+export PATH="${THIS}:${THIS}/${MODEL_LANGUAGE}:${STT_DIR}/training/coqui_stt_training:$PATH"
 
 export TF_CUDNN_RESET_RND_GEN_STATE=1
 

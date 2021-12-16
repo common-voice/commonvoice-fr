@@ -108,6 +108,8 @@ ENV CC_DIR $HOMEDIR/cc
 
 ENV PATH="${HOMEDIR}/.local/bin:${VIRTUAL_ENV}/bin:$KENLM_BIN:$PATH"
 
+ENV LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$STT_DIR:$KENLM_BIN"
+
 RUN env
 
 # We need to purge python3-xdg because
@@ -124,8 +126,7 @@ RUN apt-get update && \
     sox \
     libsox-fmt-mp3 \
     libmagic-dev \
-    pixz \
-    virtualenv && \
+    pixz && \
   apt-get purge -y python3-xdg && \
   rm -rf /var/lib/apt/lists/*
 
@@ -150,7 +151,7 @@ USER trainer
 # Install Corpus creator
 WORKDIR $HOMEDIR
 
-RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
+#RUN /usr/bin/python3 -m venv $VIRTUAL_ENV_NAME
 
 RUN git clone https://github.com/$cc_repo.git $CC_DIR
 
@@ -172,14 +173,14 @@ RUN pip install modin[all]
 
 RUN python setup.py install
 
-RUN pip install --upgrade tensorflow-gpu==1.15.4
+#RUN pip install --upgrade tensorflow-gpu==1.15.4
 
 # For CC PMF importer
 RUN pip install num2words
 
 WORKDIR $HOMEDIR
 
-RUN git clone --recurse-submodules https://github.com/${stt_repo}.git $STT_DIR
+RUN git clone https://github.com/${stt_repo}.git $STT_DIR
 
 WORKDIR ${STT_DIR}
 

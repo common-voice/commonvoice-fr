@@ -16,14 +16,14 @@ pushd $STT_DIR
 		cp -a /transfer-checkpoint/* /mnt/checkpoints/
 	fi;
 
-	EARLY_STOP_FLAG="--early_stop"
+	EARLY_STOP_FLAG="--early_stop true"
 	if [ "${EARLY_STOP}" = "0" ]; then
-		EARLY_STOP_FLAG="--noearly_stop"
+		EARLY_STOP_FLAG="--early_stop false"
 	fi;
 
 	AMP_FLAG=""
 	if [ "${AMP}" = "1" ]; then
-		AMP_FLAG="--automatic_mixed_precision True"
+		AMP_FLAG="--automatic_mixed_precision true"
 	fi;
 
 	# Check metadata existence
@@ -44,9 +44,9 @@ pushd $STT_DIR
 
 	# Assume that if we have best_dev_checkpoint then we have trained correctly
 	if [ ! -f "/mnt/checkpoints/best_dev_checkpoint" ]; then
-		python -u ${STT_DIR}/training/coqui_stt_training/train.py \
-			--show_progressbar True \
-			--train_cudnn True \
+		python -m coqui_stt_training.train \
+			--show_progressbar true \
+			--train_cudnn true \
 			${AMP_FLAG} \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -65,12 +65,13 @@ pushd $STT_DIR
 			--lm_beta ${LM_BETA} \
 			${EARLY_STOP_FLAG} \
 			--checkpoint_dir /mnt/checkpoints/
+			--train_cudnn
 	fi;
 
 	if [ ! -f "/mnt/models/test_output.json" ]; then
-		python -u ${STT_DIR}/training/coqui_stt_training/train.py \
-			--show_progressbar True \
-			--train_cudnn True \
+		python -m coqui_stt_training.train \
+			--show_progressbar true \
+			--train_cudnn true \
 			${AMP_FLAG} \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -85,7 +86,7 @@ pushd $STT_DIR
 
 	if [ ! -f "/mnt/models/output_graph.pb" ]; then
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tensorflow"
-		python -u ${STT_DIR}/training/coqui_stt_training/train.py \
+		python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -102,7 +103,7 @@ pushd $STT_DIR
 
 	if [ ! -f "/mnt/models/output_graph.tflite" ]; then
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -u ${STT_DIR}/training/coqui_stt_training/train.py \
+		python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -121,7 +122,7 @@ pushd $STT_DIR
 	if [ ! -f "/mnt/models/${MODEL_EXPORT_ZIP_LANG}.zip" ]; then
 		mkdir /mnt/models/${MODEL_EXPORT_ZIP_LANG} || rm /mnt/models/${MODEL_EXPORT_ZIP_LANG}/*
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -u ${STT_DIR}/training/coqui_stt_training/train.py \
+		python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -138,6 +139,6 @@ pushd $STT_DIR
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.pbmm" ]; then
-		${STT_DIR}/convert_graphdef_memmapped_format --in_graph=/mnt/models/output_graph.pb --out_graph=/mnt/models/output_graph.pbmm
+		${STT_DIR}/convert_graphdef_memmapped_format --in_graph=/mnt/models/output_graph.pb --out_graph=/mnt/models/output_graph.tflite
 	fi;
 popd
