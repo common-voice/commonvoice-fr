@@ -128,15 +128,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 RUN update-alternatives --install /usr/bin/pip pip /usr/bin/pip3 1
 RUN update-alternatives --install /usr/bin/python python /usr/bin/python3 1
 
-# Creating user for security purposes
-RUN groupadd -g $GID trainer && \
-    useradd -m -r -g $UID trainer
-
-RUN mkdir -p /etc/sudoers.d
-
-RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
-    chmod 0440 /etc/sudoers.d/trainer
-
 # Install Bazel
 RUN curl -LO "https://github.com/bazelbuild/bazel/releases/download/3.1.0/bazel_3.1.0-linux-x86_64.deb"
 RUN dpkg -i bazel_*.deb
@@ -202,11 +193,22 @@ RUN echo "build --spawn_strategy=standalone --genrule_strategy=standalone" \
 
 # << END Configure Bazel
 
+
+# Creating user for security purposes
+RUN groupadd -g $GID trainer && \
+    useradd -m -r -g $UID trainer
+
+RUN mkdir -p /etc/sudoers.d
+
+RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
+    chmod 0440 /etc/sudoers.d/trainer
+
 WORKDIR $HOMEDIR
 
 # Below that point, nothing requires being root
 USER trainer
 
+RUN /usr/bin/python3 -m venv $VIRTUAL_ENV_NAME
 
 RUN git clone https://github.com/${stt_repo}.git $STT_DIR
 
@@ -289,7 +291,6 @@ RUN rm -rf kenlm && \
 # Install Corpus creator
 WORKDIR $HOMEDIR
 
-RUN /usr/bin/python3 -m venv $VIRTUAL_ENV_NAME
 
 RUN git clone https://github.com/$cc_repo.git $CC_DIR
 
