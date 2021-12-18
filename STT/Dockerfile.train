@@ -265,11 +265,13 @@ RUN make NUM_PROCESSES=$(nproc) stt
 
 WORKDIR ${STT_DIR}
 RUN cd native_client/python && make NUM_PROCESSES=$(nproc) bindings
-RUN pip3 install -U pip setuptools wheel
-RUN pip3 install --upgrade native_client/python/dist/*.whl
+RUN ${VIRTUAL_ENV}/bin/python -m pip install -U pip setuptools wheel
+RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade native_client/python/dist/*.whl
 
 RUN cd ${STT_DIR}/native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
-RUN pip3 install --upgrade ${STT_DIR}/native_client/ctcdecode/dist/*.whl
+RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade ${STT_DIR}/native_client/ctcdecode/dist/*.whl
+
+RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade --force-reinstall -e .
 
 # << END Build and bind
 
@@ -292,7 +294,6 @@ RUN rm -rf kenlm && \
 # Install Corpus creator
 WORKDIR $HOMEDIR
 
-
 RUN git clone https://github.com/$cc_repo.git $CC_DIR
 
 WORKDIR $CC_DIR
@@ -307,15 +308,13 @@ COPY --chown=trainer:trainer corpora.patch $CC_DIR
 RUN patch -p1 < corpora.patch
 
 # error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
-RUN pip install parso==0.8.3
+RUN ${VIRTUAL_ENV}/bin/python -m pip install parso==0.8.3
 
-RUN pip install --upgrade pip==20.0.2 wheel==0.34.2 setuptools==46.1.3
+RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade pip==20.0.2 wheel==0.34.2 setuptools==46.1.3
 
-RUN pip install modin[all]
+RUN ${VIRTUAL_ENV}/bin/python -m pip install modin[all]
 
 RUN python setup.py install
-
-#RUN pip install --upgrade tensorflow-gpu==1.15.4
 
 # For CC PMF importer
 RUN pip install num2words
