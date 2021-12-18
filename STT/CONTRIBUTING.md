@@ -15,7 +15,7 @@ This model is available under the terms of the MPL 2.0 (see `LICENSE.txt`).
 ## Build the image:
 
 ```
-$ docker build -f Dockerfile.train .
+$ docker build [--build-arg ARG=val] -f Dockerfile.train .
 ```
 
 Several parameters can be customized:
@@ -90,8 +90,47 @@ Training successfull on:
 The `mount` option is really important: this is where intermediate files, training, checkpoints as
 well as final model files will be produced.
 
-```
-$ docker run -it --runtime=nvidia --gpus=all --privileged --shm-size=1g --ulimit memlock=-1 --ulimit stack=67108864 --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt <docker-image-id>
+```zsh
+
+
+                                _____        __  
+                               /__  /  _____/ /_ 
+                                 / /  / ___/ __ \
+                                / /__(__  ) / / /
+                               /____/____/_/ /_/ 
+
+
+Bonsoir, Monsieur.
+❯ export data_path=/home/${USER}/Projets/Données/STT/data
+❯ ls -la $data_path
+drwxrwxr-x 1018  1018  4.0 KB Mon Dec  6 21:54:27 2021  .
+drwxr-xr-x waser waser 4.0 KB Thu Dec 16 03:36:22 2021  ..
+drwxrwxr-x 1018  1018  4.0 KB Thu Dec 16 13:19:05 2021  checkpoints
+drwxrwxr-x 1018  1018  4.0 KB Thu Dec  9 15:36:25 2021  extracted
+drwxrwxr-x 1018  1018  4.0 KB Tue Dec 14 09:08:37 2021  lm
+drwxrwxr-x 1018  1018  4.0 KB Tue Dec  7 07:31:20 2021  models
+drwxrwxr-x 1018  1018  4.0 KB Sat Dec 18 05:25:54 2021  sources
+drwxrwxr-x 1018  1018  4.0 KB Sat Dec 18 05:29:50 2021  tmp
+❯ STT
+
+╭─     /dev/D/h/w/Pr/Don/D/github_commonvoice_fr_src/STT on    coqui-stt-1.0.0 !6 ?1 ─────────╮
+╰─❯ docker build \
+      --rm \
+      --build-arg uid=1018 \
+      --build-arg gid=1018 \
+      -f Dockerfile.train \
+      -t commonvoice-fr . && \
+    docker run \
+      -it \
+      --gpus=all \
+      --privileged \
+      --shm-size=1g \
+      --ulimit memlock=-1 \
+      --ulimit stack=67108864 \
+      --mount type=bind,src=$data_path,dst=/mnt \
+      commonvoice-fr && \
+    docker container prune || \
+    docker container prune
 ```
 
 Training parameters can be changed at runtime as well using environment variables.

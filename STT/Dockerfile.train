@@ -238,6 +238,7 @@ RUN bazel build \
 	--verbose_failures \
 	--workspace_status_command="bash native_client/bazel_workspace_status_cmd.sh" \
 	-c opt \
+    --copt="-D_GLIBCXX_USE_CXX11_ABI=0" \
 	--copt=-mtune=generic \
 	--copt=-march=x86-64 \
 	--copt=-msse \
@@ -250,10 +251,12 @@ RUN bazel build \
 	--config=nogcp \
 	--config=nohdfs \
 	--config=nonccl \
-	//native_client:libstt.so
+	//native_client:libstt.so \
+    //native_client:generate_scorer_package
 
 # Copy built libs to /STT/native_client
 RUN cp bazel-bin/native_client/libstt.so ${STT_DIR}/native_client/
+
 
 # Build client.cc and install Python client and decoder bindings
 ENV TFDIR ${STT_DIR}/tensorflow
@@ -264,6 +267,7 @@ WORKDIR ${STT_DIR}/native_client
 RUN make NUM_PROCESSES=$(nproc) stt
 
 WORKDIR ${STT_DIR}
+
 RUN cd native_client/python && make NUM_PROCESSES=$(nproc) bindings
 RUN ${VIRTUAL_ENV}/bin/python -m pip install -U pip setuptools wheel
 RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade native_client/python/dist/*.whl
@@ -289,6 +293,9 @@ RUN rm -rf kenlm && \
 	cmake .. && \
 	make -j $(nproc)
 
+RUN cd ${STT_DIR}/data/lm && \
+    curl -L https://github.com/coqui-ai/STT/releases/download/v1.1.0/native_client.tflite.Linux.tar.xz | tar -Jxvf - &&  \
+    ls -hal generate_scorer_package
 # Done
 
 # Install Corpus creator
@@ -318,6 +325,8 @@ RUN python setup.py install
 
 # For CC PMF importer
 RUN pip install num2words
+
+WORKDIR ${HOMEDIR}
 
 # Copy now so that docker build can leverage caches
 COPY --chown=trainer:trainer . ${HOMEDIR}/

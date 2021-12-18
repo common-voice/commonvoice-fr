@@ -16,8 +16,8 @@ pushd $STT_DIR
 		LM_N_TRIALS="$(echo ${LM_EVALUATE_RANGE} |cut -d',' -f3)"
 		
 		python -u lm_optimizer.py \
-			--show_progressbar True \
-			--train_cudnn True \
+			--show_progressbar true \
+			--train_cudnn true \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
