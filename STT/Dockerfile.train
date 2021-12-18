@@ -84,7 +84,53 @@ ENV CC_DIR $HOMEDIR/cc
 
 ENV PATH="${HOMEDIR}/.local/bin:${VIRTUAL_ENV}/bin:$KENLM_BIN:$PATH"
 
-#ENV LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$STT_DIR:$KENLM_BIN"
+ENV LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$STT_DIR:$KENLM_BIN"
+
+# >> START Configure Tensorflow Build
+
+# GPU Environment Setup
+ENV TF_NEED_ROCM 0
+ENV TF_NEED_OPENCL_SYCL 0
+ENV TF_NEED_OPENCL 0
+ENV TF_NEED_CUDA 1
+ENV TF_CUDA_PATHS "/usr,/usr/local/cuda-10.1,/usr/lib/x86_64-linux-gnu/"
+ENV TF_CUDA_VERSION 10.1
+ENV TF_CUDNN_VERSION 7.6
+ENV TF_CUDA_COMPUTE_CAPABILITIES 6.0
+ENV TF_NCCL_VERSION 2.8
+
+# Common Environment Setup
+ENV TF_BUILD_CONTAINER_TYPE GPU
+ENV TF_BUILD_OPTIONS OPT
+ENV TF_BUILD_DISABLE_GCP 1
+ENV TF_BUILD_ENABLE_XLA 0
+ENV TF_BUILD_PYTHON_VERSION PYTHON3
+ENV TF_BUILD_IS_OPT OPT
+ENV TF_BUILD_IS_PIP PIP
+
+# Other Parameters
+ENV CC_OPT_FLAGS -mavx -mavx2 -msse4.1 -msse4.2 -mfma
+ENV TF_NEED_GCP 0
+ENV TF_NEED_HDFS 0
+ENV TF_NEED_JEMALLOC 1
+ENV TF_NEED_OPENCL 0
+ENV TF_CUDA_CLANG 0
+ENV TF_NEED_MKL 0
+ENV TF_ENABLE_XLA 0
+ENV TF_NEED_AWS 0
+ENV TF_NEED_KAFKA 0
+ENV TF_NEED_NGRAPH 0
+ENV TF_DOWNLOAD_CLANG 0
+ENV TF_NEED_TENSORRT 0
+ENV TF_NEED_GDR 0
+ENV TF_NEED_VERBS 0
+ENV TF_NEED_OPENCL_SYCL 0
+
+ENV PYTHON_BIN_PATH ${VIRTUAL_ENV}/bin/python
+ENV PYTHON_LIB_PATH ${VIRTUAL_ENV}/lib/python3.6/site-packages
+#/usr/local/lib/python3.6/dist-packages
+
+# << END Configure Tensorflow Build
 
 RUN env
 
@@ -128,72 +174,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 RUN update-alternatives --install /usr/bin/pip pip /usr/bin/pip3 1
 RUN update-alternatives --install /usr/bin/python python /usr/bin/python3 1
 
-# Install Bazel
-RUN curl -LO "https://github.com/bazelbuild/bazel/releases/download/3.1.0/bazel_3.1.0-linux-x86_64.deb"
-RUN dpkg -i bazel_*.deb
-
-# Try and free some space
-RUN rm -rf /var/lib/apt/lists/*
-
-# >> START Configure Tensorflow Build
-
-# GPU Environment Setup
-ENV TF_NEED_ROCM 0
-ENV TF_NEED_OPENCL_SYCL 0
-ENV TF_NEED_OPENCL 0
-ENV TF_NEED_CUDA 1
-ENV TF_CUDA_PATHS "/usr,/usr/local/cuda-10.1,/usr/lib/x86_64-linux-gnu/"
-ENV TF_CUDA_VERSION 10.1
-ENV TF_CUDNN_VERSION 7.6
-ENV TF_CUDA_COMPUTE_CAPABILITIES 6.0
-ENV TF_NCCL_VERSION 2.8
-
-# Common Environment Setup
-ENV TF_BUILD_CONTAINER_TYPE GPU
-ENV TF_BUILD_OPTIONS OPT
-ENV TF_BUILD_DISABLE_GCP 1
-ENV TF_BUILD_ENABLE_XLA 0
-ENV TF_BUILD_PYTHON_VERSION PYTHON3
-ENV TF_BUILD_IS_OPT OPT
-ENV TF_BUILD_IS_PIP PIP
-
-# Other Parameters
-ENV CC_OPT_FLAGS -mavx -mavx2 -msse4.1 -msse4.2 -mfma
-ENV TF_NEED_GCP 0
-ENV TF_NEED_HDFS 0
-ENV TF_NEED_JEMALLOC 1
-ENV TF_NEED_OPENCL 0
-ENV TF_CUDA_CLANG 0
-ENV TF_NEED_MKL 0
-ENV TF_ENABLE_XLA 0
-ENV TF_NEED_AWS 0
-ENV TF_NEED_KAFKA 0
-ENV TF_NEED_NGRAPH 0
-ENV TF_DOWNLOAD_CLANG 0
-ENV TF_NEED_TENSORRT 0
-ENV TF_NEED_GDR 0
-ENV TF_NEED_VERBS 0
-ENV TF_NEED_OPENCL_SYCL 0
-
-ENV PYTHON_BIN_PATH /usr/bin/python3.6
-ENV PYTHON_LIB_PATH /usr/local/lib/python3.6/dist-packages
-
-# << END Configure Tensorflow Build
-
-# >> START Configure Bazel
-
-# Running bazel inside a `docker build` command causes trouble, cf:
-#   https://github.com/bazelbuild/bazel/issues/134
-# The easiest solution is to set up a bazelrc file forcing --batch.
-RUN echo "startup --batch" >>/etc/bazel.bazelrc
-# Similarly, we need to workaround sandboxing issues:
-#   https://github.com/bazelbuild/bazel/issues/418
-RUN echo "build --spawn_strategy=standalone --genrule_strategy=standalone" \
-    >>/etc/bazel.bazelrc
-
-# << END Configure Bazel
-
-
 # Creating user for security purposes
 RUN groupadd -g $GID trainer && \
     useradd -m -r -g $UID trainer
@@ -203,12 +183,33 @@ RUN mkdir -p /etc/sudoers.d
 RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
     chmod 0440 /etc/sudoers.d/trainer
 
-WORKDIR $HOMEDIR
+# >> START Configure Bazel
+
+# Running bazel inside a `docker build` command causes trouble, cf:
+#   https://github.com/bazelbuild/bazel/issues/134
+# The easiest solution is to set up a bazelrc file forcing --batch.
+RUN echo "startup --batch" >>$HOMEDIR/.bazelrc
+# Similarly, we need to workaround sandboxing issues:
+#   https://github.com/bazelbuild/bazel/issues/418
+RUN echo "build --spawn_strategy=standalone --genrule_strategy=standalone" \
+    >>$HOMEDIR/.bazelrc
+
+# << END Configure Bazel
+
+# Install Bazel
+RUN curl -LO "https://github.com/bazelbuild/bazel/releases/download/3.1.0/bazel_3.1.0-linux-x86_64.deb"
+RUN dpkg -i bazel_*.deb
+
+# Try and free some space
+RUN rm -rf /var/lib/apt/lists/*
 
 # Below that point, nothing requires being root
 USER trainer
 
-RUN /usr/bin/python3 -m venv $VIRTUAL_ENV_NAME
+WORKDIR $HOMEDIR
+
+RUN python -m venv $VIRTUAL_ENV_NAME
+
 
 RUN git clone https://github.com/${stt_repo}.git $STT_DIR
 
