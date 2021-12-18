@@ -14,8 +14,8 @@ This model is available under the terms of the MPL 2.0 (see `LICENSE.txt`).
 
 ## Build the image:
 
-```
-$ docker build [--build-arg ARG=val] -f Dockerfile.train .
+```zsh
+docker build [--build-arg ARG=val] -f Dockerfile.train -t commonvoice-fr .
 ```
 
 Several parameters can be customized:
@@ -130,7 +130,7 @@ drwxrwxr-x 1018  1018  4.0 KB Sat Dec 18 05:29:50 2021  tmp
       --mount type=bind,src=$data_path,dst=/mnt \
       commonvoice-fr && \
     docker container prune || \
-    docker container prune
+    docker container prune -f
 ```
 
 Training parameters can be changed at runtime as well using environment variables.
