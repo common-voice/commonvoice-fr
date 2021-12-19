@@ -282,7 +282,7 @@ RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade --force-reinstall -e .
 # Allow Python printing utf-8
 ENV PYTHONIOENCODING UTF-8
 
-# Build KenLM in /STT/native_client/kenlm folder
+# Build KenLM in STT/native_client/kenlm folder
 WORKDIR ${STT_DIR}/native_client
 RUN rm -rf kenlm && \
 	git clone https://github.com/${kenlm_repo} && \
@@ -292,6 +292,9 @@ RUN rm -rf kenlm && \
 	cd build && \
 	cmake .. && \
 	make -j $(nproc)
+
+# Copy kenlm build in STT/kenlm/build
+RUN cp -r kenlm/build ${STT_DIR}/kenlm/build
 
 RUN cd ${STT_DIR}/data/lm && \
     curl -L https://github.com/coqui-ai/STT/releases/download/v1.1.0/native_client.tflite.Linux.tar.xz | tar -Jxvf - &&  \
