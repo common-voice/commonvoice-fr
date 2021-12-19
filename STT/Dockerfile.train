@@ -320,7 +320,7 @@ RUN patch -p1 < corpora.patch
 # error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
 RUN ${VIRTUAL_ENV}/bin/python -m pip install parso==0.8.3
 
-RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade pip==20.0.2 wheel==0.34.2 setuptools==46.1.3
+RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade pip==21.3.1 wheel~=0.34.2 setuptools~=46.1.3
 
 RUN ${VIRTUAL_ENV}/bin/python -m pip install modin[all]
 
