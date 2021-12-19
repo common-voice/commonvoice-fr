@@ -101,7 +101,7 @@ well as final model files will be produced.
 
 
 Bonsoir, Monsieur.
-❯ export data_path=/home/${USER}/Projets/Données/STT/data
+❯ export data_path=../data
 ❯ ls -la $data_path
 drwxrwxr-x 1018  1018  4.0 KB Mon Dec  6 21:54:27 2021  .
 drwxr-xr-x waser waser 4.0 KB Thu Dec 16 03:36:22 2021  ..
@@ -113,7 +113,7 @@ drwxrwxr-x 1018  1018  4.0 KB Sat Dec 18 05:25:54 2021  sources
 drwxrwxr-x 1018  1018  4.0 KB Sat Dec 18 05:29:50 2021  tmp
 ❯ STT
 
-╭─     /dev/D/h/w/Pr/Don/D/github_commonvoice_fr_src/STT on    coqui-stt-1.0.0 !6 ?1 ─────────╮
+╭─     /dev/D/h/w/Projets/Données/STT/github_commonvoice_fr_src/STT on    coqui-stt-1.0.0 !6 ?1 ─────────╮
 ╰─❯ docker build \
       --rm \
       --build-arg uid=1018 \
