@@ -2,8 +2,6 @@
 
 set -xe
 
-su - trainer
-
 #pushd $STT_DIR
 if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 	IMPORT_AS_ENGLISH="--normalize"
