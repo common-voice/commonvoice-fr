@@ -2,7 +2,7 @@
 
 set -xe
 
-sudo id #Super user what? Never heard of it.
+sudo id
 
 # Workaround libnvidia-ml.so: https://github.com/NVIDIA/nvidia-docker/issues/854#issuecomment-451464721
 sudo /sbin/ldconfig # pretty sure this is fix right?

@@ -84,7 +84,7 @@ ENV CC_DIR $HOMEDIR/cc
 
 ENV PATH="${HOMEDIR}/.local/bin:${VIRTUAL_ENV}/bin:$KENLM_BIN:$PATH"
 
-ENV LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$STT_DIR:$KENLM_BIN"
+ENV LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$STT_DIR:$KENLM_BIN:${STT_DIR}/data/lm"
 
 # >> START Configure Tensorflow Build
 
@@ -251,8 +251,7 @@ RUN bazel build \
 	--config=nogcp \
 	--config=nohdfs \
 	--config=nonccl \
-	//native_client:libstt.so \
-    //native_client:generate_scorer_package
+	//native_client:libstt.so
 
 # Copy built libs to /STT/native_client
 RUN cp bazel-bin/native_client/libstt.so ${STT_DIR}/native_client/
@@ -301,6 +300,11 @@ RUN cd ${STT_DIR}/data/lm && \
     ls -hal generate_scorer_package
 # Done
 
+# Tool to convert output graph for inference
+RUN cd ${STT_DIR} && \
+    curl -L https://github.com/coqui-ai/STT/releases/download/v0.9.3/convert_graphdef_memmapped_format.linux.amd64.zip | funzip > convert_graphdef_memmapped_format && \
+    chmod +x convert_graphdef_memmapped_format
+
 # Install Corpus creator
 WORKDIR $HOMEDIR
 
@@ -320,7 +324,7 @@ RUN patch -p1 < corpora.patch
 # error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
 RUN ${VIRTUAL_ENV}/bin/python -m pip install parso==0.8.3
 
-RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade pip~=21.3.1 wheel~=0.37.0 setuptools~=59.6.0
+#RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade pip~=21.3.1 wheel~=0.37.0 setuptools~=59.6.0
 
 RUN ${VIRTUAL_ENV}/bin/python -m pip install modin[all]
 
