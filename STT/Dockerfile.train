@@ -283,7 +283,7 @@ RUN env
 # errors about setuptools
 #
 RUN apt-get update && \
-    apt-get upgrade -y && \
+    apt-get upgrade -y --no-install-recommends && \
     apt-get install -y --no-install-recommends \
         git \
         wget \
@@ -372,6 +372,8 @@ RUN ${VIRTUAL_ENV}/bin/python setup.py install
 
 # For CC PMF importer
 RUN ${VIRTUAL_ENV}/bin/python -m pip install num2words
+
+RUN sox
 
 WORKDIR ${HOMEDIR}
 
