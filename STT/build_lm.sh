@@ -32,7 +32,7 @@ pushd $STT_DIR
 			--binary_type trie
 	fi;
 
-	${STT_DIR}/data/lm/generate_scorer_package \
+	${STT_DIR}/generate_scorer_package \
 		--alphabet /mnt/models/alphabet.txt \
 		--lm /mnt/lm/lm.binary \
 		--vocab /mnt/lm/vocab-${LM_TOP_K}.txt \
