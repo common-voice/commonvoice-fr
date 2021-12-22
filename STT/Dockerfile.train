@@ -283,6 +283,7 @@ RUN env
 # errors about setuptools
 #
 RUN apt-get update && \
+    apt-get upgrade && \
     apt-get install -y --no-install-recommends \
         git \
         wget \
