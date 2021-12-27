@@ -111,7 +111,7 @@ RUN echo "build --spawn_strategy=standalone --genrule_strategy=standalone" \
 # << END Configure Bazel
 
 WORKDIR /
-RUN git clone https://github.com/${stt_repo} STT && cd /STT && git checkout ${stt_branch} && git submodule sync tensorflow && git submodule update --init tensorflow
+RUN git clone https://github.com/${stt_repo} STT && cd /STT && git checkout ${stt_branch} && git submodule sync && git submodule update --init tensorflow
 
 # >> START Build and bind
 
@@ -127,11 +127,11 @@ RUN /STT/tensorflow/configure
 # passing LD_LIBRARY_PATH is required cause Bazel doesn't pickup it from environment
 
 # Build STT
-
 RUN bazel build \
 	--verbose_failures \
 	--workspace_status_command="bash native_client/bazel_workspace_status_cmd.sh" \
-	-c opt \
+    --config=cuda \
+    -c opt \
 	--copt=-mtune=generic \
 	--copt=-march=x86-64 \
 	--copt=-msse \
@@ -144,7 +144,7 @@ RUN bazel build \
 	--config=nogcp \
 	--config=nohdfs \
 	--config=nonccl \
-	//native_client:libstt.so
+    //native_client:libstt.so
 
 # Copy built libs to /STT/native_client
 RUN cp bazel-bin/native_client/libstt.so /STT/native_client/
@@ -264,15 +264,16 @@ ENV LANG=C.UTF-8
 # Avoid keyboard-configuration step
 ENV DEBIAN_FRONTEND noninteractive
 
-ENV HOMEDIR /home/trainer
+ENV HOMEDIR /root
 
-ENV VIRTUAL_ENV_NAME stt-train
-ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
+#ENV VIRTUAL_ENV_NAME stt-train
+#ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
 ENV STT_DIR $HOMEDIR/stt
 ENV KENLM_BIN $STT_DIR/kenlm/build/bin
 ENV CC_DIR $HOMEDIR/cc
 
-ENV PATH="${HOMEDIR}/.local/bin:${VIRTUAL_ENV}/bin:$KENLM_BIN:$PATH"
+ENV PATH="$KENLM_BIN:$PATH" 
+#:${HOMEDIR}/.local/bin:${VIRTUAL_ENV}/bin
 
 ENV LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$STT_DIR:$KENLM_BIN:${STT_DIR}/data/lm"
 
@@ -283,7 +284,6 @@ RUN env
 # errors about setuptools
 #
 RUN apt-get update && \
-    apt-get upgrade -y --no-install-recommends && \
     apt-get install -y --no-install-recommends \
         git \
         wget \
@@ -293,6 +293,7 @@ RUN apt-get update && \
         libopusfile0 \
         libsndfile1 \
         sox \
+        libsox-fmt-alsa \
         libsox-fmt-mp3 && \
     apt-get purge -y python3-xdg && \
     rm -rf /var/lib/apt/lists/*
@@ -301,49 +302,49 @@ RUN apt-get update && \
 RUN pip3 install --upgrade pip wheel setuptools
 
 # Creating user for security purposes
-RUN groupadd -g $GID trainer && \
-    useradd -m -r -g $UID trainer
+#RUN groupadd -g $GID trainer && \
+#    useradd -m -r -g $UID trainer
 
-RUN mkdir -p /etc/sudoers.d
+#RUN mkdir -p /etc/sudoers.d
 
-RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
-    chmod 0440 /etc/sudoers.d/trainer
+#RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
+#    chmod 0440 /etc/sudoers.d/trainer
 
 # Below that point, nothing requires being root
-USER trainer
+#USER trainer
 
-WORKDIR $HOMEDIR
+#WORKDIR $HOMEDIR
 
-RUN python -m venv $VIRTUAL_ENV_NAME
+#RUN python -m venv $VIRTUAL_ENV_NAME
 
 # Copy files from previous build stages
-COPY --chown=trainer:trainer --from=stt-build /STT ${STT_DIR}
+COPY --from=stt-build /STT ${STT_DIR}
+#
 
 WORKDIR $STT_DIR
 # Build CTC decoder first, to avoid clashes on incompatible versions upgrades
 RUN cd native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
-RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade native_client/ctcdecode/dist/*.whl
+RUN python -m pip install --upgrade native_client/ctcdecode/dist/*.whl
 
 RUN mkdir -p ${STT_DIR}/kenlm/build/
-COPY --chown=trainer:trainer --from=kenlm-build /code/kenlm/build/bin ${STT_DIR}/kenlm/build/bin
+COPY --from=kenlm-build /code/kenlm/build/bin ${STT_DIR}/kenlm/build/bin
 
 # Tool to convert output graph for inference
 RUN curl -L https://github.com/coqui-ai/STT/releases/download/v0.9.3/convert_graphdef_memmapped_format.linux.amd64.zip | funzip > convert_graphdef_memmapped_format && \
     chmod +x convert_graphdef_memmapped_format
 
 # Pre-built native client tools
-RUN curl -L https://github.com/coqui-ai/STT/releases/download/v1.1.0/native_client.tflite.Linux.tar.xz | tar -xJvf -
+RUN curl -L https://github.com/coqui-ai/STT/releases/download/v1.1.0/native_client.tflite.Linux.tar.xz | tar -xJvf - && rm ${STT_DIR}/libsox.so.*
 
 # Install STT
 # No need for the decoder since we did it earlier
 
-RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade pip wheel setuptools 'numpy<1.19.0,>=1.16.0'
-RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade native_client/python/dist/*.whl
+#RUN python -m pip install --upgrade pip wheel setuptools 'numpy<1.19.0,>=1.16.0'
+RUN python -m pip install --upgrade native_client/python/dist/*.whl
 
-RUN cd native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
-RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade native_client/ctcdecode/dist/*.whl
+RUN DS_NODECODER=y DS_NOTENSORFLOW=y python -m pip install --upgrade -e .
 
-RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade --force-reinstall -e .
+#RUN python -m pip install --upgrade tensorflow-gpu==1.15.4
 
 # Install Corpus creator
 WORKDIR $HOMEDIR
@@ -357,30 +358,28 @@ RUN git checkout $cc_sha1
 WORKDIR $CC_DIR
 
 # Copy copora patch
-COPY --chown=trainer:trainer corpora.patch $CC_DIR
+COPY corpora.patch $CC_DIR
 
 RUN patch -p1 < corpora.patch
 
 # error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
-RUN ${VIRTUAL_ENV}/bin/python -m pip install parso==0.8.3
+RUN python -m pip install parso==0.8.3
 
-#RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade pip~=21.3.1 wheel~=0.37.0 setuptools~=59.6.0
+#RUN python -m pip install --upgrade pip~=21.3.1 wheel~=0.37.0 setuptools~=59.6.0
 
-RUN ${VIRTUAL_ENV}/bin/python -m pip install modin[all]
+RUN python -m pip install modin[all]
 
-RUN ${VIRTUAL_ENV}/bin/python setup.py install
+RUN python setup.py install
 
 # For CC PMF importer
-RUN ${VIRTUAL_ENV}/bin/python -m pip install num2words
-
-RUN sox
+RUN python -m pip install num2words
 
 WORKDIR ${HOMEDIR}
 
 # Copy now so that docker build can leverage caches
-COPY --chown=trainer:trainer . ${HOMEDIR}/
+COPY . ${HOMEDIR}/
 
-COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
+COPY ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
 
 WORKDIR ${HOMEDIR}
 
