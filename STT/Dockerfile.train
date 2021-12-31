@@ -3,9 +3,12 @@
 # Need devel version cause we need /usr/include/cudnn.h
 FROM nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04 as stt-build
 
-ARG stt_repo=coqui-ai/STT
-ARG stt_branch=8aa2b13e987e2f397b6b6b3ca1ae81c7ebac72d1
-ARG stt_sha1=8aa2b13e987e2f397b6b6b3ca1ae81c7ebac72d1
+ARG stt_repo=wasertech/STT
+#coqui-ai/STT
+ARG stt_branch= 100766af27c15af5a00371cd1d58032be9d7f631
+#8aa2b13e987e2f397b6b6b3ca1ae81c7ebac72d1
+ARG stt_sha1=100766af27c15af5a00371cd1d58032be9d7f631
+#8aa2b13e987e2f397b6b6b3ca1ae81c7ebac72d1
 
 # Get basic packages
 RUN apt-get update && apt-get install -y --no-install-recommends \
@@ -319,7 +322,6 @@ RUN pip3 install --upgrade pip wheel setuptools
 
 # Copy files from previous build stages
 COPY --from=stt-build /STT ${STT_DIR}
-#
 
 WORKDIR $STT_DIR
 # Build CTC decoder first, to avoid clashes on incompatible versions upgrades

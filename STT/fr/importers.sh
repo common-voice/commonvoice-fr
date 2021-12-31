@@ -10,6 +10,8 @@ set -xe
 
 . import_slr57.sh
 
+. import_slr88.sh
+
 . ${HOME}/import_m-ailabs.sh
 
 . ./import_ccpmf.sh
