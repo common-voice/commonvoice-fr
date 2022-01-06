@@ -59,6 +59,37 @@ def validate_label(label):
         '기',
         '집',
         '먹',
+        '西',
+        '甌',
+        '牡',
+        '文',
+        '丹',
+        'も', 
+        'む',
+        'ⱅ', #<-- comment me when people stop thinking i'm a m
+        'ⱎ', #<-- comment me when people stop thinking i'm a w
+        'ጀ',
+        'ከ',
+        'ӌ',
+        'є',
+        'э',
+        'ч',
+        'ц',
+        'р̌',
+        'р',
+        '◌̌',
+        'п', #<-- comment me when people stop thinking i'm Pi
+        'л',
+        'д',
+        'χ', #<-- comment me if someone can pronounce me correctly /xi/
+        'λ', #<-- comment me when everyone knows how to pronounce |λ|
+        'η', #<-- comment me when people know my name is êta
+        'ɨ' ,#<-- comment me when everyone stop thinking i'm a t
+        'ꝑ', #<-- comment me when people can lookup my name ffs
+        'ɛ', #<-- 
+        'ə',
+        'ɔ',
+        'ɨ' # is this pronouned t?
     ]
 
     for skip in skip_foreign_chars:
@@ -74,6 +105,7 @@ def validate_label(label):
     label = label.replace("–", " ")
     label = label.replace("—", " ")
     label = label.replace("’", " ")
+    label = label.replace("ʽ", " ")
     label = label.replace("^", "e")
     #label = label.replace("'", " ")
     label = label.replace("º", "degré")
@@ -100,6 +132,11 @@ def validate_label(label):
     label = label.replace("±", "plus ou moins")
     label = label.replace("·", "")
     label = label.replace("×", "")
+    label = label.replace("∼", "~")
+    label = label.replace("̐", "")
+    label = label.replace("─", "")
+    label = label.replace("̲", "")
+
 
     label = label.replace("ă", "a")
     label = label.replace("ắ", "a")
@@ -198,11 +235,16 @@ def validate_label(label):
     label = label.replace("א", "")
     label = label.replace("ደ", "")
     label = label.replace("ጠ", "")
+    label = label.replace("ķ", "k")
+    label = label.replace("ǀ", "")
+    
 
     label = label.replace("α", "alpha")
     label = label.replace("γ", "gamma")
     label = label.replace("μ", "mu")
 
+    label = label.replace("→", "")
+    label = label.replace("↔", "")
 
     label = label.replace("‘", "")
     label = label.replace("“", "")
@@ -223,6 +265,7 @@ def validate_label(label):
     label = label.replace("$", "dollars")
     label = label.replace("£", "livres")
     label = label.replace("€", "euros")
+    #label = label.replace("₽", "rouble russe") #<-- if you need this currency
     label = label.replace("β", "beta")
     label = label.replace("σ", "gamma")
     label = label.replace("½", "demi")
