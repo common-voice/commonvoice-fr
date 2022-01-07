@@ -297,7 +297,8 @@ RUN apt-get update && \
         libsndfile1 \
         sox \
         libsox-fmt-alsa \
-        libsox-fmt-mp3 && \
+        libsox-fmt-mp3 \
+        ffmpeg && \
     apt-get purge -y python3-xdg && \
     rm -rf /var/lib/apt/lists/*
 
