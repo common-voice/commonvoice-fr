@@ -374,7 +374,7 @@ RUN python -m pip install modin[all]
 RUN python setup.py install
 
 # For CC PMF importer
-RUN python -m pip install num2words
+RUN python -m pip install num2words zipfile38
 
 WORKDIR ${HOMEDIR}
 
