@@ -199,7 +199,8 @@ RUN git clone https://github.com/${kenlm_repo} && \
 
 
 # Final image for training
-FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3
+FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
+#nvcr.io/nvidia/tensorflow:20.06-tf1-py3
 
 # Import Args in Env
 ARG cc_repo=mozilla/CorporaCreator
@@ -267,16 +268,15 @@ ENV LANG=C.UTF-8
 # Avoid keyboard-configuration step
 ENV DEBIAN_FRONTEND noninteractive
 
-ENV HOMEDIR /root
+ENV HOMEDIR /home/trainer
 
-#ENV VIRTUAL_ENV_NAME stt-train
-#ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
+ENV VIRTUAL_ENV_NAME stt-train
+ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
 ENV STT_DIR $HOMEDIR/stt
 ENV KENLM_BIN $STT_DIR/kenlm/build/bin
 ENV CC_DIR $HOMEDIR/cc
 
-ENV PATH="$KENLM_BIN:$PATH" 
-#:${HOMEDIR}/.local/bin:${VIRTUAL_ENV}/bin
+ENV PATH="$KENLM_BIN:$PATH:${HOMEDIR}/.local/bin:${VIRTUAL_ENV}/bin*"
 
 ENV LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$STT_DIR:$KENLM_BIN:${STT_DIR}/data/lm"
 
@@ -306,23 +306,23 @@ RUN apt-get update && \
 RUN pip3 install --upgrade pip wheel setuptools
 
 # Creating user for security purposes
-#RUN groupadd -g $GID trainer && \
-#    useradd -m -r -g $UID trainer
+RUN groupadd -g $GID trainer && \
+    useradd -m -r -g $UID trainer
 
-#RUN mkdir -p /etc/sudoers.d
+RUN mkdir -p /etc/sudoers.d
 
-#RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
-#    chmod 0440 /etc/sudoers.d/trainer
+RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
+    chmod 0440 /etc/sudoers.d/trainer
 
 # Below that point, nothing requires being root
-#USER trainer
+USER trainer
 
-#WORKDIR $HOMEDIR
+WORKDIR $HOMEDIR
 
-#RUN python -m venv $VIRTUAL_ENV_NAME
+RUN python -m venv $VIRTUAL_ENV_NAME
 
 # Copy files from previous build stages
-COPY --from=stt-build /STT ${STT_DIR}
+COPY --chown=trainer:trainer --from=stt-build /STT ${STT_DIR}
 
 WORKDIR $STT_DIR
 # Build CTC decoder first, to avoid clashes on incompatible versions upgrades
@@ -330,7 +330,7 @@ RUN cd native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
 RUN python -m pip install --upgrade native_client/ctcdecode/dist/*.whl
 
 RUN mkdir -p ${STT_DIR}/kenlm/build/
-COPY --from=kenlm-build /code/kenlm/build/bin ${STT_DIR}/kenlm/build/bin
+COPY --chown=trainer:trainer --from=kenlm-build /code/kenlm/build/bin ${STT_DIR}/kenlm/build/bin
 
 # Tool to convert output graph for inference
 RUN curl -L https://github.com/coqui-ai/STT/releases/download/v0.9.3/convert_graphdef_memmapped_format.linux.amd64.zip | funzip > convert_graphdef_memmapped_format && \
@@ -347,7 +347,7 @@ RUN python -m pip install --upgrade native_client/python/dist/*.whl
 
 RUN DS_NODECODER=y DS_NOTENSORFLOW=y python -m pip install --upgrade -e .
 
-#RUN python -m pip install --upgrade tensorflow-gpu==1.15.4
+RUN python -m pip install --upgrade 'tensorflow-gpu==1.15.4'
 
 # Install Corpus creator
 WORKDIR $HOMEDIR
@@ -361,7 +361,7 @@ RUN git checkout $cc_sha1
 WORKDIR $CC_DIR
 
 # Copy copora patch
-COPY corpora.patch $CC_DIR
+COPY --chown=trainer:trainer corpora.patch $CC_DIR
 
 RUN patch -p1 < corpora.patch
 
@@ -380,9 +380,9 @@ RUN python -m pip install num2words zipfile38
 WORKDIR ${HOMEDIR}
 
 # Copy now so that docker build can leverage caches
-COPY . ${HOMEDIR}/
+COPY --chown=trainer:trainer . ${HOMEDIR}/
 
-COPY ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
+COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
 
 WORKDIR ${HOMEDIR}
 

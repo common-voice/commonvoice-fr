@@ -7,7 +7,7 @@ This model is available under the terms of the MPL 2.0 (see `LICENSE.txt`).
 ## Prerequistes:
 
 * Ensure you have a running setup of `NVIDIA Docker`
-* Prepare a host directory with enough space for training / producing intermediate data (100GB ?).
+* Prepare a host directory with enough space for training / producing intermediate data (>=400GB).
 * Ensure it's writable by `trainer` (uid 999) user (defined in the Dockerfile).
 * For Common Voice dataset, please make sure you have downloaded the dataset prior to running (behind email)
   Place `cv-corpus-7.0-2021-07-21-fr` inside your host directory, in a `sources/` subdirectory.
