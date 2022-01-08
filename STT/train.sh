@@ -44,7 +44,7 @@ pushd $STT_DIR
 
 	# Assume that if we have best_dev_checkpoint then we have trained correctly
 	if [ ! -f "/mnt/checkpoints/best_dev_checkpoint" ]; then
-		python -m coqui_stt_training.train \
+		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--show_progressbar true \
 			--train_cudnn true \
 			${AMP_FLAG} \
@@ -69,7 +69,7 @@ pushd $STT_DIR
 	fi;
 
 	if [ ! -f "/mnt/models/test_output.json" ]; then
-		python -m coqui_stt_training.train \
+		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--show_progressbar true \
 			--train_cudnn true \
 			${AMP_FLAG} \
@@ -86,7 +86,7 @@ pushd $STT_DIR
 
 	if [ ! -f "/mnt/models/output_graph.pb" ]; then
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tensorflow"
-		python -m coqui_stt_training.train \
+		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -103,7 +103,7 @@ pushd $STT_DIR
 
 	if [ ! -f "/mnt/models/output_graph.tflite" ]; then
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -m coqui_stt_training.train \
+		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -122,7 +122,7 @@ pushd $STT_DIR
 	if [ ! -f "/mnt/models/${MODEL_EXPORT_ZIP_LANG}.zip" ]; then
 		mkdir /mnt/models/${MODEL_EXPORT_ZIP_LANG} || rm /mnt/models/${MODEL_EXPORT_ZIP_LANG}/*
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -m coqui_stt_training.train \
+		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \

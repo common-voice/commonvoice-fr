@@ -37,7 +37,7 @@ if [ ! -f "/mnt/extracted/data/cv-${MODEL_LANGUAGE}/clips/train.csv" ]; then
 
 	fi;
 
-	python ${STT_DIR}/bin/import_cv2.py \
+	${VIRTUAL_ENV}/bin/python ${STT_DIR}/bin/import_cv2.py \
 		${IMPORT_AS_ENGLISH} \
 		${IMPORTERS_VALIDATE_LOCALE} \
 		/mnt/extracted/data/cv-${MODEL_LANGUAGE}/

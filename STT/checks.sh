@@ -27,7 +27,7 @@ done;
 
 mkdir /mnt/extracted/data/ || true
 
-python -c "import tensorflow as tf; tf.test.is_gpu_available()"
+${VIRTUAL_ENV}/bin/python -c "import tensorflow as tf; tf.test.is_gpu_available()"
 
 # Checking with basic LDC93S1 before running into heavy-load
 pushd ${STT_DIR}

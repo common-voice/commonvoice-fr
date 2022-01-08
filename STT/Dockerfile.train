@@ -276,7 +276,7 @@ ENV STT_DIR $HOMEDIR/stt
 ENV KENLM_BIN $STT_DIR/kenlm/build/bin
 ENV CC_DIR $HOMEDIR/cc
 
-ENV PATH="$KENLM_BIN:$PATH:${HOMEDIR}/.local/bin:${VIRTUAL_ENV}/bin*"
+ENV PATH="$KENLM_BIN:${HOMEDIR}/.local/bin:${VIRTUAL_ENV}/bin:$PATH"
 
 ENV LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$STT_DIR:$KENLM_BIN:${STT_DIR}/data/lm"
 
@@ -286,30 +286,46 @@ RUN env
 # it's breaking STT install later with
 # errors about setuptools
 #
-RUN apt-get update && \
-    apt-get install -y --no-install-recommends \
-        git \
+RUN apt-get -qq update && \
+    apt-get -qq install -y --no-install-recommends \
+        build-essential \
+        curl \
         wget \
-        sudo \
-        python3-venv \
-        libopus0 \
-        libopusfile0 \
-        libsndfile1 \
+        git \
+        ffmpeg \
+        python3 \
+        python3-pip \
+        ca-certificates \
+        cmake \
+        libboost-all-dev \
+        zlib1g-dev \
+        libbz2-dev \
+        liblzma-dev \
+        libmagic-dev \
+        pkg-config \
+        g++ \
+        virtualenv \
+        unzip \
+        pixz \
         sox \
-        libsox-fmt-alsa \
-        libsox-fmt-mp3 \
-        ffmpeg && \
+        sudo \
+        libsox-fmt-all \
+        locales locales-all \
+        xz-utils && \
     apt-get purge -y python3-xdg && \
     rm -rf /var/lib/apt/lists/*
+
+RUN update-alternatives --install /usr/bin/pip pip /usr/bin/pip3 1
+RUN update-alternatives --install /usr/bin/python python /usr/bin/python3 1
 
 # Make sure pip and its dependencies are up-to-date
 RUN pip3 install --upgrade pip wheel setuptools
 
 # Creating user for security purposes
 RUN groupadd -g $GID trainer && \
-    useradd -m -r -g $UID trainer
+    adduser --system --uid $UID --group trainer
 
-RUN mkdir -p /etc/sudoers.d
+#RUN mkdir -p /etc/sudoers.d
 
 RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
     chmod 0440 /etc/sudoers.d/trainer
@@ -319,7 +335,7 @@ USER trainer
 
 WORKDIR $HOMEDIR
 
-RUN python -m venv $VIRTUAL_ENV_NAME
+RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
 
 # Copy files from previous build stages
 COPY --chown=trainer:trainer --from=stt-build /STT ${STT_DIR}
@@ -327,7 +343,7 @@ COPY --chown=trainer:trainer --from=stt-build /STT ${STT_DIR}
 WORKDIR $STT_DIR
 # Build CTC decoder first, to avoid clashes on incompatible versions upgrades
 RUN cd native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
-RUN python -m pip install --upgrade native_client/ctcdecode/dist/*.whl
+RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade native_client/ctcdecode/dist/*.whl
 
 RUN mkdir -p ${STT_DIR}/kenlm/build/
 COPY --chown=trainer:trainer --from=kenlm-build /code/kenlm/build/bin ${STT_DIR}/kenlm/build/bin
@@ -342,12 +358,11 @@ RUN curl -L https://github.com/coqui-ai/STT/releases/download/v1.1.0/native_clie
 # Install STT
 # No need for the decoder since we did it earlier
 
-#RUN python -m pip install --upgrade pip wheel setuptools 'numpy<1.19.0,>=1.16.0'
-RUN python -m pip install --upgrade native_client/python/dist/*.whl
+RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade native_client/python/dist/*.whl
 
 RUN DS_NODECODER=y DS_NOTENSORFLOW=y python -m pip install --upgrade -e .
 
-RUN python -m pip install --upgrade 'tensorflow-gpu==1.15.4'
+RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade 'tensorflow-gpu==1.15.4'
 
 # Install Corpus creator
 WORKDIR $HOMEDIR
@@ -366,16 +381,16 @@ COPY --chown=trainer:trainer corpora.patch $CC_DIR
 RUN patch -p1 < corpora.patch
 
 # error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
-RUN python -m pip install parso==0.8.3
+RUN ${VIRTUAL_ENV}/bin/python -m pip install parso==0.8.3
 
-#RUN python -m pip install --upgrade pip~=21.3.1 wheel~=0.37.0 setuptools~=59.6.0
+RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade pip~=21.3.1 wheel~=0.37.0 setuptools~=59.6.0
 
-RUN python -m pip install modin[all]
+RUN ${VIRTUAL_ENV}/bin/python -m pip install modin[all]
 
-RUN python setup.py install
+RUN ${VIRTUAL_ENV}/bin/python setup.py install
 
 # For CC PMF importer
-RUN python -m pip install num2words zipfile38
+RUN ${VIRTUAL_ENV}/bin/python -m pip install num2words zipfile38
 
 WORKDIR ${HOMEDIR}
 
