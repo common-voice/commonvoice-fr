@@ -5,9 +5,9 @@ FROM nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04 as stt-build
 
 ARG stt_repo=wasertech/STT
 #coqui-ai/STT
-ARG stt_branch=cb2bc597da0bf86e97f08d073999a89928aa0432
+ARG stt_branch=b425650975a1002de104028219ad4b5576283e3e
 #8aa2b13e987e2f397b6b6b3ca1ae81c7ebac72d1
-ARG stt_sha1=cb2bc597da0bf86e97f08d073999a89928aa0432
+ARG stt_sha1=b425650975a1002de104028219ad4b5576283e3e
 #8aa2b13e987e2f397b6b6b3ca1ae81c7ebac72d1
 
 # Get basic packages
