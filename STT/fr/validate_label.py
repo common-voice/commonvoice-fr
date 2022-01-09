@@ -106,6 +106,7 @@ def validate_label(label):
     label = label.replace("—", " ")
     label = label.replace("’", " ")
     label = label.replace("ʽ", " ")
+    label = label.replace('’', "'")
     label = label.replace("^", "e")
     #label = label.replace("'", " ")
     label = label.replace("º", "degré")
