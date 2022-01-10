@@ -9,6 +9,7 @@ if [ ! -f "/mnt/extracted/data/ccpmf/transcriptionsXML_audioMP3_MEFR_CCPMF_2012-
 
 	python ${STT_DIR}/bin/import_ccpmf.py \
 		${IMPORTERS_VALIDATE_LOCALE} \
+		--normalize \
 		/mnt/extracted/data/ccpmf/
 fi;
 #popd
