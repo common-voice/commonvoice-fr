@@ -392,6 +392,9 @@ RUN ${VIRTUAL_ENV}/bin/python setup.py install
 # For CC PMF importer
 RUN ${VIRTUAL_ENV}/bin/python -m pip install num2words zipfile38
 
+# For MLS importer
+RUN ${VIRTUAL_ENV}/bin/python -m pip install git+https://github.com/TeamPyOgg/PyOgg
+
 WORKDIR ${HOMEDIR}
 
 # Copy now so that docker build can leverage caches
