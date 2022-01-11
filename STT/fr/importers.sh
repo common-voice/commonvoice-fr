@@ -12,6 +12,8 @@ set -xe
 
 . import_slr88.sh
 
+. import_slr94.sh
+
 . ${HOME}/import_m-ailabs.sh
 
 . ./import_ccpmf.sh
