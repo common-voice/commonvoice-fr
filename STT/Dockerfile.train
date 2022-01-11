@@ -302,6 +302,9 @@ RUN apt-get -qq update && \
         libbz2-dev \
         liblzma-dev \
         libmagic-dev \
+        libopus0 \
+        libopusfile0 \
+        libsndfile1 \
         pkg-config \
         g++ \
         virtualenv \
