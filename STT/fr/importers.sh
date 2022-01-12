@@ -10,9 +10,9 @@ set -xe
 
 . import_slr57.sh
 
-. import_slr88.sh
+. import_atthack.sh
 
-. import_slr94.sh
+. import_mls.sh
 
 . ${HOME}/import_m-ailabs.sh
 

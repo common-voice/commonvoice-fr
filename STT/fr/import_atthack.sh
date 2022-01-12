@@ -8,7 +8,7 @@ if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 fi;
 
 if [ ! -f "/mnt/extracted/data/Att-HACK/Att-HACK_train.csv" ]; then
-	python ${STT_DIR}/bin/import_slr88.py \
+	python ${STT_DIR}/bin/import_atthack.py \
 		${IMPORT_AS_ENGLISH} \
 		${IMPORTERS_VALIDATE_LOCALE} \
 		/mnt/extracted/data/Att-HACK/
