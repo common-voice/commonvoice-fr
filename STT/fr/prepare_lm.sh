@@ -21,7 +21,7 @@ if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 	> wiki_fr_lower_accents.txt
 fi;
 
-if [ ! -f "mls_lm_french.txt" ]: then
+if [ ! -f "mls_lm_french.txt" ]; then
 
 	if [ ! -d "/mnt/extracted/data/MLS/mls_lm_french" ]; then
 		./import_mls.sh
