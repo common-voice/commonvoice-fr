@@ -6,7 +6,7 @@ set -xe
 
 . ${HOME}/import_lingualibre.sh
 
-. ./import_mswc.sh
+. ./import_ts.sh
 
 . import_slr57.sh
 
