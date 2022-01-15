@@ -65,7 +65,6 @@ pushd $STT_DIR
 			--lm_beta ${LM_BETA} \
 			${EARLY_STOP_FLAG} \
 			--checkpoint_dir /mnt/checkpoints/
-			--train_cudnn
 	fi;
 
 	if [ ! -f "/mnt/models/test_output.json" ]; then
@@ -136,9 +135,5 @@ pushd $STT_DIR
 			--export_zip \
 			${ALL_METADATA_FLAGS} \
 			${METADATA_MODEL_NAME_FLAG}
-	fi;
-
-	if [ ! -f "/mnt/models/output_graph.pbmm" ]; then
-		${STT_DIR}/convert_graphdef_memmapped_format --in_graph=/mnt/models/output_graph.pb --out_graph=/mnt/models/output_graph.tflite
 	fi;
 popd
