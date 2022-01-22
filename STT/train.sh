@@ -11,7 +11,7 @@ pushd $STT_DIR
 
         # Do not overwrite checkpoint file if model already exist: we will likely
 	# only package
-	if [ -f "/transfer-checkpoint/checkpoint" -a ! -f "/mnt/models/output_graph.pb" ]; then
+	if [ -f "/transfer-checkpoint/checkpoint" -a ! -f "/mnt/models/output_graph.tflite" ]; then
 		echo "Using checkpoint from ${TRANSFER_CHECKPOINT}"
 		cp -a /transfer-checkpoint/* /mnt/checkpoints/
 	fi;
@@ -40,7 +40,7 @@ pushd $STT_DIR
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_language $METADATA_LANGUAGE"
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_min_stt_version $METADATA_MIN_STT_VERSION"
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_max_stt_version $METADATA_MAX_STT_VERSION"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_description '${METADATA_DESCRIPTION}'"
+#	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_description $METADATA_DESCRIPTION"
 
 	# Assume that if we have best_dev_checkpoint then we have trained correctly
 	if [ ! -f "/mnt/checkpoints/best_dev_checkpoint" ]; then
@@ -84,7 +84,7 @@ pushd $STT_DIR
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.pb" ]; then
-		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tensorflow"
+		METADATA_MODEL_NAME_FLAG="--export_model_name ${METADATA_MODEL_NAME}-tensorflow"
 		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -101,7 +101,7 @@ pushd $STT_DIR
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.tflite" ]; then
-		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
+		METADATA_MODEL_NAME_FLAG="--export_model_name ${METADATA_MODEL_NAME}-tflite"
 		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -113,14 +113,14 @@ pushd $STT_DIR
 			--load_evaluate "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
-			--export_tflite \
+			--export_tflite true \
 			${ALL_METADATA_FLAGS} \
 			${METADATA_MODEL_NAME_FLAG}
 	fi;
 
 	if [ ! -f "/mnt/models/${MODEL_EXPORT_ZIP_LANG}.zip" ]; then
 		mkdir /mnt/models/${MODEL_EXPORT_ZIP_LANG} || rm /mnt/models/${MODEL_EXPORT_ZIP_LANG}/*
-		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
+		METADATA_MODEL_NAME_FLAG="--export_model_name ${METADATA_MODEL_NAME}-tflite"
 		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -132,7 +132,7 @@ pushd $STT_DIR
 			--load_evaluate "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/${MODEL_EXPORT_ZIP_LANG} \
-			--export_zip \
+			--export_zip true \
 			${ALL_METADATA_FLAGS} \
 			${METADATA_MODEL_NAME_FLAG}
 	fi;
