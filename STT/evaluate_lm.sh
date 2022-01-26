@@ -3,7 +3,7 @@
 set -xe
 
 pushd $STT_DIR
-	all_test_csv="$(find /mnt/extracted/data/ -type f -name '*test.csv' -printf '%p,' | sed -e 's/,$//g')"
+	all_test_csv="$(find /mnt/extracted/data/ -type f -name '*test.csv' -printf '%p ' | sed -e 's/ $//g')"
 
 	if [ -z "${LM_EVALUATE_RANGE}" ]; then
 		echo "No language model evaluation range, skipping"
