@@ -16,4 +16,4 @@ set -xe
 
 . ${HOME}/import_m-ailabs.sh
 
-. ./import_ccpmf.sh
+#. ./import_ccpmf.sh
