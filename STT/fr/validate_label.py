@@ -85,11 +85,10 @@ def validate_label(label):
         'λ', #<-- comment me when everyone knows how to pronounce |λ|
         'η', #<-- comment me when people know my name is êta
         'ɨ' ,#<-- comment me when everyone stop thinking i'm a t
-        'ꝑ', #<-- comment me when people can lookup my name ffs
-        'ɛ', #<-- 
+        'ꝑ', #<-- comment me when people can lookup my name
+        'ɛ',
         'ə',
         'ɔ',
-        'ɨ' # is this pronouned t?
     ]
 
     for skip in skip_foreign_chars:
@@ -99,6 +98,15 @@ def validate_label(label):
     label = label.strip()
     label = label.lower()
 
+    label = label.replace("宇津保", "utsuho")
+    label = label.replace("厳", "")
+    label = label.replace("三", "")
+    label = label.replace("⊨", "inclus")
+
+    label = label.replace("ⱅ", "m") #<-- comment me when people stop thinking i'm a m
+    label = label.replace("ⱎ", "w") #<-- comment me when people stop thinking i'm a w
+    label = label.replace("р", "p") #<-- comment me when people stop thinking i'm a p
+    
     label = label.replace("=", "")
     label = label.replace("|", "")
     label = label.replace("-", " ")
