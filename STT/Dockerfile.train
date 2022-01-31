@@ -217,7 +217,7 @@ ENV BATCH_SIZE=$batch_size
 ARG n_hidden=2048
 ENV N_HIDDEN=$n_hidden
 
-ARG epochs=60
+ARG epochs=35
 ENV EPOCHS=$epochs
 
 ARG learning_rate=0.0001
