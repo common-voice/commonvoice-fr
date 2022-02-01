@@ -2,20 +2,6 @@
 
 set -xe
 
-<<<<<<< HEAD
-pushd $HOME/ds/
-	if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
-		IMPORT_AS_ENGLISH="--normalize"
-	fi;
-
-	if [ ! -f "/mnt/extracted/data/African_Accented_French/African_Accented_French/African_Accented_French_train.csv" ]; then
-		python bin/import_slr57.py \
-			${IMPORT_AS_ENGLISH} \
-			${IMPORTERS_VALIDATE_LOCALE} \
-			/mnt/extracted/data/African_Accented_French/
-	fi;
-popd
-=======
 #pushd $STT_DIR
 if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 	IMPORT_AS_ENGLISH="--normalize"
@@ -28,4 +14,3 @@ if [ ! -f "/mnt/extracted/data/African_Accented_French/African_Accented_French/A
 		/mnt/extracted/data/African_Accented_French/
 fi;
 #opd
->>>>>>> coqui-stt-1.0.0
