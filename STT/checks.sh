@@ -5,7 +5,7 @@ set -xe
 sudo id
 
 # Workaround libnvidia-ml.so: https://github.com/NVIDIA/nvidia-docker/issues/854#issuecomment-451464721
-sudo /sbin/ldconfig
+sudo /sbin/ldconfig # pretty sure this is fix right?
 
 nvidia-smi
 
@@ -27,9 +27,10 @@ done;
 
 mkdir /mnt/extracted/data/ || true
 
-python -c "import tensorflow as tf; tf.test.is_gpu_available()"
+${VIRTUAL_ENV}/bin/python -c "import tensorflow as tf; tf.test.is_gpu_available()"
 
 # Checking with basic LDC93S1 before running into heavy-load
-pushd $HOME/ds/
-	./bin/run-tc-ldc93s1_new.sh 2 16000
+pushd ${STT_DIR}
+	./bin/run-ldc93s1.sh
+    rm -rf ~/.local/share/stt
 popd

@@ -2,28 +2,28 @@
 
 set -xe
 
-pushd $HOME/ds/
-	all_train_csv="$(find /mnt/extracted/data/ -type f -name '*train.csv' -printf '%p,' | sed -e 's/,$//g')"
-	all_dev_csv="$(find /mnt/extracted/data/ -type f -name '*dev.csv' -printf '%p,' | sed -e 's/,$//g')"
-	all_test_csv="$(find /mnt/extracted/data/ -type f -name '*test.csv' -printf '%p,' | sed -e 's/,$//g')"
+pushd $STT_DIR
+	all_train_csv="$(find /mnt/extracted/data/ -type f -name '*train.csv' -printf '%p ' | sed -e 's/ $//g')"
+	all_dev_csv="$(find /mnt/extracted/data/ -type f -name '*dev.csv' -printf '%p ' | sed -e 's/ $//g')"
+	all_test_csv="$(find /mnt/extracted/data/ -type f -name '*test.csv' -printf '%p ' | sed -e 's/ $//g')"
 
 	mkdir -p /mnt/sources/feature_cache || true
 
         # Do not overwrite checkpoint file if model already exist: we will likely
 	# only package
-	if [ -f "/transfer-checkpoint/checkpoint" -a ! -f "/mnt/models/output_graph.pb" ]; then
+	if [ -f "/transfer-checkpoint/checkpoint" -a ! -f "/mnt/models/output_graph.tflite" ]; then
 		echo "Using checkpoint from ${TRANSFER_CHECKPOINT}"
 		cp -a /transfer-checkpoint/* /mnt/checkpoints/
 	fi;
 
-	EARLY_STOP_FLAG="--early_stop"
+	EARLY_STOP_FLAG="--early_stop true"
 	if [ "${EARLY_STOP}" = "0" ]; then
-		EARLY_STOP_FLAG="--noearly_stop"
+		EARLY_STOP_FLAG="--early_stop false"
 	fi;
 
 	AMP_FLAG=""
 	if [ "${AMP}" = "1" ]; then
-		AMP_FLAG="--automatic_mixed_precision True"
+		AMP_FLAG="--automatic_mixed_precision true"
 	fi;
 
 	# Check metadata existence
@@ -38,15 +38,15 @@ pushd $HOME/ds/
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_contact_info $METADATA_CONTACT_INFO"
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_license $METADATA_LICENSE"
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_language $METADATA_LANGUAGE"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_min_ds_version $METADATA_MIN_DS_VERSION"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_max_ds_version $METADATA_MAX_DS_VERSION"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_description $METADATA_DESCRIPTION"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_min_stt_version $METADATA_MIN_STT_VERSION"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_max_stt_version $METADATA_MAX_STT_VERSION"
+#	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_description $METADATA_DESCRIPTION"
 
 	# Assume that if we have best_dev_checkpoint then we have trained correctly
 	if [ ! -f "/mnt/checkpoints/best_dev_checkpoint" ]; then
-		python -u DeepSpeech.py \
-			--show_progressbar True \
-			--train_cudnn True \
+		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
+			--show_progressbar true \
+			--train_cudnn true \
 			${AMP_FLAG} \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -68,9 +68,9 @@ pushd $HOME/ds/
 	fi;
 
 	if [ ! -f "/mnt/models/test_output.json" ]; then
-		python -u DeepSpeech.py \
-			--show_progressbar True \
-			--train_cudnn True \
+		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
+			--show_progressbar true \
+			--train_cudnn true \
 			${AMP_FLAG} \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -84,8 +84,8 @@ pushd $HOME/ds/
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.pb" ]; then
-		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tensorflow"
-		python -u DeepSpeech.py \
+		METADATA_MODEL_NAME_FLAG="--export_model_name ${METADATA_MODEL_NAME}-tensorflow"
+		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -101,8 +101,8 @@ pushd $HOME/ds/
 	fi;
 
 	if [ ! -f "/mnt/models/output_graph.tflite" ]; then
-		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -u DeepSpeech.py \
+		METADATA_MODEL_NAME_FLAG="--export_model_name ${METADATA_MODEL_NAME}-tflite"
+		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -113,15 +113,15 @@ pushd $HOME/ds/
 			--load_evaluate "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
-			--export_tflite \
+			--export_tflite true \
 			${ALL_METADATA_FLAGS} \
 			${METADATA_MODEL_NAME_FLAG}
 	fi;
 
 	if [ ! -f "/mnt/models/${MODEL_EXPORT_ZIP_LANG}.zip" ]; then
 		mkdir /mnt/models/${MODEL_EXPORT_ZIP_LANG} || rm /mnt/models/${MODEL_EXPORT_ZIP_LANG}/*
-		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -u DeepSpeech.py \
+		METADATA_MODEL_NAME_FLAG="--export_model_name ${METADATA_MODEL_NAME}-tflite"
+		${VIRTUAL_ENV}/bin/python -m coqui_stt_training.train \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -132,12 +132,8 @@ pushd $HOME/ds/
 			--load_evaluate "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/${MODEL_EXPORT_ZIP_LANG} \
-			--export_zip \
+			--export_zip true \
 			${ALL_METADATA_FLAGS} \
 			${METADATA_MODEL_NAME_FLAG}
-	fi;
-
-	if [ ! -f "/mnt/models/output_graph.pbmm" ]; then
-		./convert_graphdef_memmapped_format --in_graph=/mnt/models/output_graph.pb --out_graph=/mnt/models/output_graph.pbmm
 	fi;
 popd
