@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
-
-ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=4270e22fe02f4fa7430a721ac917f6353c36f455
-ARG ds_sha1=4270e22fe02f4fa7430a721ac917f6353c36f455
-ARG cc_repo=mozilla/CorporaCreator
-ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
-ARG kenlm_repo=kpu/kenlm
-ARG kenlm_branch=87e85e66c99ceff1fab2500a7c60c01da7315eec
-=======
 # >> START Build STT
 
 # Need devel version cause we need /usr/include/cudnn.h
@@ -216,7 +205,6 @@ FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 # Import Args in Env
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
->>>>>>> coqui-stt-1.0.0
 
 # Model parameters
 ARG model_language=fr
@@ -229,11 +217,7 @@ ENV BATCH_SIZE=$batch_size
 ARG n_hidden=2048
 ENV N_HIDDEN=$n_hidden
 
-<<<<<<< HEAD
-ARG epochs=30
-=======
 ARG epochs=35
->>>>>>> coqui-stt-1.0.0
 ENV EPOCHS=$epochs
 
 ARG learning_rate=0.0001
@@ -286,49 +270,6 @@ ENV DEBIAN_FRONTEND noninteractive
 
 ENV HOMEDIR /home/trainer
 
-<<<<<<< HEAD
-ENV VIRTUAL_ENV_NAME ds-train
-ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
-ENV DS_DIR $HOMEDIR/ds
-ENV CC_DIR $HOMEDIR/cc
-
-ENV DS_BRANCH=$ds_branch
-ENV DS_SHA1=$ds_sha1
-
-ENV PATH="$VIRTUAL_ENV/bin:$PATH"
-
-RUN env
-
-# Get basic packages
-RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
-    build-essential \
-    curl \
-    wget \
-    git \
-    ffmpeg \
-    python3 \
-    python3-pip \
-    ca-certificates \
-    cmake \
-    libboost-all-dev \
-    zlib1g-dev \
-    libbz2-dev \
-    liblzma-dev \
-    pkg-config \
-    g++ \
-    virtualenv \
-    unzip \
-    pixz \
-    sox \
-    sudo \
-    libsox-fmt-all \
-    locales locales-all \
-    xz-utils
-
-RUN groupadd -g $GID trainer && \
-    adduser --system --uid $UID --group trainer
-
-=======
 ENV VIRTUAL_ENV_NAME stt-train
 ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
 ENV STT_DIR $HOMEDIR/stt
@@ -389,7 +330,6 @@ RUN groupadd -g $GID trainer && \
 
 #RUN mkdir -p /etc/sudoers.d
 
->>>>>>> coqui-stt-1.0.0
 RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
     chmod 0440 /etc/sudoers.d/trainer
 
@@ -398,43 +338,6 @@ USER trainer
 
 WORKDIR $HOMEDIR
 
-<<<<<<< HEAD
-RUN wget -O - https://gitlab.com/libeigen/eigen/-/archive/3.2.8/eigen-3.2.8.tar.bz2 | tar xj
-
-RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch \
-    && mkdir -p build \
-    && cd build \
-    && EIGEN3_ROOT=$HOMEDIR/eigen-eigen-07105f7124f9 cmake .. \
-    && make -j
-
-WORKDIR $HOMEDIR
-
-RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
-
-ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:$PATH
-
-RUN git clone https://github.com/$ds_repo.git $DS_DIR
-
-WORKDIR $DS_DIR
-
-RUN git checkout $ds_branch
-
-WORKDIR $DS_DIR
-
-RUN pip install --upgrade pip==20.0.2 wheel==0.34.2 setuptools==46.1.3
-RUN DS_NOTENSORFLOW=y pip install --upgrade --force-reinstall -e .
-RUN pip install --upgrade tensorflow-gpu==1.15.4
-
-RUN TASKCLUSTER_SCHEME="https://community-tc.services.mozilla.com/api/index/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s" python util/taskcluster.py \
-	--target="$(pwd)" \
-	--artifact="convert_graphdef_memmapped_format" \
-	--branch="r1.15" && chmod +x convert_graphdef_memmapped_format
-
-RUN python util/taskcluster.py \
-	--target="$(pwd)" \
-	--artifact="native_client.tar.xz" && ls -hal generate_scorer_package 
-
-=======
 RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
 
 # Copy files from previous build stages
@@ -465,7 +368,6 @@ RUN DS_NODECODER=y DS_NOTENSORFLOW=y python -m pip install --upgrade -e .
 RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade 'tensorflow-gpu==1.15.4'
 
 # Install Corpus creator
->>>>>>> coqui-stt-1.0.0
 WORKDIR $HOMEDIR
 
 RUN git clone https://github.com/$cc_repo.git $CC_DIR
@@ -482,27 +384,6 @@ COPY --chown=trainer:trainer corpora.patch $CC_DIR
 RUN patch -p1 < corpora.patch
 
 # error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
-<<<<<<< HEAD
-RUN pip install parso==0.8.1
-
-RUN pip install modin[all]
-
-RUN python setup.py install
-
-# For CC PMF importer
-RUN pip install num2words
-
-WORKDIR $HOMEDIR
-
-ENV PATH="$HOMEDIR/kenlm/build/bin/:$PATH"
-
-# Copy now so that docker build can leverage caches
-COPY --chown=trainer:trainer . $HOMEDIR/
-
-COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ $HOMEDIR/${MODEL_LANGUAGE}/
-
-ENTRYPOINT "$HOMEDIR/run.sh"
-=======
 RUN ${VIRTUAL_ENV}/bin/python -m pip install parso==0.8.3
 
 RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade pip~=21.3.1 wheel~=0.37.0 setuptools~=59.6.0
@@ -527,4 +408,3 @@ COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ ${HOMEDIR}/${MODEL_LANGUAGE}/
 WORKDIR ${HOMEDIR}
 
 ENTRYPOINT "$HOMEDIR/run.sh"
->>>>>>> coqui-stt-1.0.0
