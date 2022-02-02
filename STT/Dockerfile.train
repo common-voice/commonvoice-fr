@@ -3,9 +3,10 @@
 # Need devel version cause we need /usr/include/cudnn.h
 FROM nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04 as stt-build
 
-ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=4270e22fe02f4fa7430a721ac917f6353c36f455
-ARG ds_sha1=4270e22fe02f4fa7430a721ac917f6353c36f455
+#STT#1.1.0
+ARG stt_repo=coqui-ai/STT
+ARG stt_branch=f3605e23cb01a7e86c4d46f09070098a506fac4e
+ARG stt_sha1=f3605e23cb01a7e86c4d46f09070098a506fac4e
 
 # Build KenLM
 FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3 AS kenlm-build
