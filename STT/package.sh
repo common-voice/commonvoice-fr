@@ -1,14 +1,6 @@
-#!/bin/bash
-
 set -xe
 
 pushd /mnt
-
-	if [ ! -f "model_tensorflow_fr.tar.xz" ]; then
-		tar -cf - \
-			-C /mnt/models/ output_graph.pbmm alphabet.txt \
-			-C /mnt/lm/ kenlm.scorer | xz -T0 > model_tensorflow_fr.tar.xz
-	fi;
 
 	if [ ! -f "model_tflite_fr.tar.xz" ]; then
 		tar -cf - \
@@ -31,6 +23,5 @@ pushd /mnt
 		tar -cf - \
 			-C /mnt/checkpoints/ best_dev_checkpoint ${all_checkpoint_path} | xz -T0 > "checkpoint_fr.tar.xz"
 	fi;
-
-	cp /mnt/models/*.zip .
+	
 popd
