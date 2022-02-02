@@ -16,14 +16,14 @@ pushd /mnt/extracted/
 	fi;
 popd
 
-pushd $HOME/ds/
+pushd $STT_DIR
 
 	if [ ! -f "/mnt/lm/lm.binary" ]; then
-		python data/lm/generate_lm.py \
+		python ${STT_DIR}/data/lm/generate_lm.py \
 			--input_txt /mnt/extracted/sources_lm.txt \
 			--output_dir /mnt/lm/ \
 			--top_k ${LM_TOP_K} \
-			--kenlm_bins $HOME/kenlm/build/bin/ \
+			--kenlm_bins $KENLM_BIN \
 			--arpa_order 4 \
 			--max_arpa_memory "85%" \
 			--arpa_prune "0|0|1" \
@@ -32,7 +32,7 @@ pushd $HOME/ds/
 			--binary_type trie
 	fi;
 
-	./generate_scorer_package \
+	${STT_DIR}/generate_scorer_package \
 		--alphabet /mnt/models/alphabet.txt \
 		--lm /mnt/lm/lm.binary \
 		--vocab /mnt/lm/vocab-${LM_TOP_K}.txt \
