@@ -2,8 +2,7 @@
 
 set -xe
 
-pushd $HOME/ds/
-	pip install Unidecode==1.0.23
+pushd $STT_DIR
 
 	if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 		IMPORT_AS_ENGLISH="--english-compatible"
