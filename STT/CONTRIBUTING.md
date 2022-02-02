@@ -6,30 +6,30 @@ This model is available under the terms of the MPL 2.0 (see `LICENSE.txt`).
 
 ## Prerequistes:
 
-* Ensure you have a running setup of `NVIDIA Docker`
-* Prepare a host directory with enough space for training / producing intermediate data (100GB ?).
-* Ensure it's writable by `trainer` (uid 999) user (defined in the Dockerfile).
+* Ensure you have a running setup of [`Docker` working with GPU support](https://docs.docker.com/config/containers/resource_constraints/#gpu)
+* Prepare a host directory with enough space for training / producing intermediate data (>=400GB).
+* Ensure it's writable by `trainer` (uid 999 by default) user (defined in the Dockerfile).
 * For Common Voice dataset, please make sure you have downloaded the dataset prior to running (behind email)
-  Place `cv-corpus-7.0-2021-07-21-fr` inside your host directory, in a `sources/` subdirectory.
+  Place `cv-corpus-8.0-2022-01-19-fr` inside your host directory, in a `sources/` subdirectory.
 
 ## Build the image:
 
-```
-$ docker build -f Dockerfile.train .
+```zsh
+docker build [--build-arg ARG=val] -f Dockerfile.train -t commonvoice-fr .
 ```
 
 Several parameters can be customized:
- - `ds_repo` to fetch DeepSpeech from a different repo than upstream
- - `ds_branch` to checkout a specific branch / commit
- - `ds_sha1` commit to pull from when installing pre-built binaries
+ - `stt_repo` to fetch STT from a different repo than upstream
+ - `stt_branch` to checkout a specific branch / commit
+ - `stt_sha1` commit to pull from when installing pre-built binaries
  - `kenlm_repo`, `kenlm_branch` for the same parameters for KenLM
  - `english_compatible` set to 1 if you want the importers to be run in
     "English-compatible mode": this will affect behavior such as english
     alphabet file can be re-used, when doing transfer-learning from English
     checkpoints for example.
- - lm_evaluate_range, if non empty, this will perform a LM alpha/beta evaluation
-    the parameter is expected to be of the form: lm_alpha_max,lm_beta_max,n_trials.
-    See upstream lm_optimizer.py for details
+ - `lm_evaluate_range`, if non empty, this will perform a LM alpha/beta evaluation
+    the parameter is expected to be of the form: `lm_alpha_max`,`lm_beta_max`,`n_trials`.
+    See upstream `lm_optimizer.py` for details
 
 Some parameters for the model itself:
  - `batch_size` to specify the batch size for training, dev and test dataset
@@ -61,13 +61,15 @@ disable it when making a release.
 Default values should provide good experience.
 
 The default batch size has been tested with this mix of dataset:
- - Common Voice French, released on june 2020
+ - Common Voice French, released on january 2022
  - TrainingSpeech as of 2019, april 11th
  - Lingua Libre as of 2020, april 25th
  - OpenSLR 57: African Accented French
+ - OpenSLR 94: Att-HACK
  - M-AILABS french dataset
+ - MLS French dataset
 
-### Transfer learning from English
+### Transfer learning from pre-trained checkpoints
 
 To perform transfer learning, please download and make a read-to-use directory
 containing the checkpoint to use. Ready-to-use means directly re-usable checkpoints
@@ -80,18 +82,64 @@ will be copied from that place.
 ## Hardware
 
 Training successfull on:
- - Threadripper 3950X + 128GB RAM
- - 2x RTX 2080 Ti
- - Debian Sid, kernel 5.7, driver 440.100
- - With ~1000h of audio, one training epoch takes ~23min (Automatic Mixed Precision enabled)
+
+> - Threadripper 3950X + 128GB RAM
+> - 2x RTX 2080 Ti
+> - Debian Sid, kernel 5.7, driver 440.100
+
+> - Threadripper 2920X + 96GB RAM
+> - 2x Titan RTX
+> - Manjaro (Arch) Linux, kernel 5.14.21-2-MANJARO, driver 495.46
+
+
+With ~1000h of audio, one training epoch takes ~23min (Automatic Mixed Precision enabled)
 
 ## Run the image:
 
 The `mount` option is really important: this is where intermediate files, training, checkpoints as
 well as final model files will be produced.
 
-```
-$ docker run --tty --runtime=nvidia --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt <docker-image-id>
+```zsh
+
+
+                                _____        __  
+                               /__  /  _____/ /_ 
+                                 / /  / ___/ __ \
+                                / /__(__  ) / / /
+                               /____/____/_/ /_/ 
+
+
+Bonsoir, Monsieur.
+❯ export data_path=../data
+❯ ls -la $data_path
+drwxrwxr-x 1018  1018  4.0 KB Mon Dec  6 21:54:27 2021  .
+drwxr-xr-x waser waser 4.0 KB Thu Dec 16 03:36:22 2021  ..
+drwxrwxr-x 1018  1018  4.0 KB Thu Dec 16 13:19:05 2021  checkpoints
+drwxrwxr-x 1018  1018  4.0 KB Thu Dec  9 15:36:25 2021  extracted
+drwxrwxr-x 1018  1018  4.0 KB Tue Dec 14 09:08:37 2021  lm
+drwxrwxr-x 1018  1018  4.0 KB Tue Dec  7 07:31:20 2021  models
+drwxrwxr-x 1018  1018  4.0 KB Sat Dec 18 05:25:54 2021  sources
+drwxrwxr-x 1018  1018  4.0 KB Sat Dec 18 05:29:50 2021  tmp
+❯ STT
+
+╭─     /dev/D/h/w/Projets/Données/STT/github_commonvoice_fr_src/STT on    coqui-stt-1.0.0 !6 ?1 ─────────╮
+╰─❯ docker build \
+      --rm \
+      --build-arg uid=1018 \
+      --build-arg gid=1018 \
+      -f Dockerfile.train \
+      -t commonvoice-fr . && \
+    docker run \
+      -it \
+      --gpus=all \
+      --privileged \
+      --shm-size=1g \
+      --ulimit memlock=-1 \
+      --ulimit stack=67108864 \
+      --mount type=bind,src=$data_path,dst=/mnt \
+      commonvoice-fr && \
+    docker container prune || \
+    docker container prune -f
 ```
 
 Training parameters can be changed at runtime as well using environment variables.
