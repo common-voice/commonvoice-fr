@@ -355,16 +355,17 @@ RUN curl -L https://github.com/coqui-ai/STT/releases/download/v1.1.0/native_clie
 # Install STT
 # No need for the decoder since we did it earlier
 
-RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade native_client/python/dist/*.whl
+RUN python -m pip install --upgrade native_client/python/dist/*.whl
 
 RUN DS_NODECODER=y DS_NOTENSORFLOW=y python -m pip install --upgrade -e .
 
-RUN ${VIRTUAL_ENV}/bin/python -m pip install --upgrade 'tensorflow-gpu==1.15.4'
+RUN python -m pip install --upgrade 'tensorflow-gpu==1.15.4'
 
 WORKDIR $HOMEDIR
 
 RUN git clone https://github.com/$cc_repo.git $CC_DIR
 
+# Install Corpus creator
 WORKDIR $CC_DIR
 
 RUN git checkout $cc_sha1
@@ -376,15 +377,17 @@ COPY --chown=trainer:trainer corpora.patch $CC_DIR
 
 RUN patch -p1 < corpora.patch
 
-# error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
-RUN pip install parso==0.8.1
+## error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
+RUN pip install parso==0.8.3
+
+RUN python -m pip install --upgrade pip~=21.3.1 wheel~=0.37.0 setuptools~=59.6.0
 
 RUN pip install modin[all]
 
 RUN python setup.py install
 
 # For CC PMF importer
-RUN pip install num2words
+RUN pip install num2words zipfile38
 
 WORKDIR $HOMEDIR
 
