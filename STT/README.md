@@ -21,11 +21,14 @@ Vous trouverez dans ce document l'ensemble des instructions, documentations... p
 
 # Introduction
 
-Le projet STT est un autre projet de la fondation Mozilla, pour transformer les ondes sonores en texte à partir de l'algorithme d'apprentissage proposé par [Common Voice](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice).
+> STT: Speech-To-Tech
+> Ou l'art de transcire la voix en text.
+
+Le projet CommonVoice FR utilise 🐸-STT (Coqui-STT), l'implémentation suivante du projet DeepSpeech de la fondation Mozilla, pour continuer transformer les ondes sonores en texte à partir de l'algorithme d'apprentissage proposé par la communauté.
 
 # Canaux
 
-- **STT** utilise le canal **Common Voice fr** sur [Matrix](https://github.com/mozfr/besogne/wiki/Matrix) pour la discussion et la coordination : [s’inscrire au groupe](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
+- **STT** utilise le canal **Common Voice FR** sur [Matrix](https://github.com/mozfr/besogne/wiki/Matrix) pour la discussion et la coordination : [s’inscrire au groupe](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
 - [Discourse Mozilla Francophone](https://discourse.mozilla.org/c/voice/fr)
 - [Discourse Mozilla (anglais)](https://discourse.mozilla.org/c/voice)
 
