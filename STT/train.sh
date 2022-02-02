@@ -2,10 +2,10 @@
 
 set -xe
 
-pushd $HOME/ds/
-	all_train_csv="$(find /mnt/extracted/data/ -type f -name '*train.csv' -printf '%p,' | sed -e 's/,$//g')"
-	all_dev_csv="$(find /mnt/extracted/data/ -type f -name '*dev.csv' -printf '%p,' | sed -e 's/,$//g')"
-	all_test_csv="$(find /mnt/extracted/data/ -type f -name '*test.csv' -printf '%p,' | sed -e 's/,$//g')"
+pushd $STT_DIR
+	all_train_csv="$(find /mnt/extracted/data/ -type f -name '*train.csv' -printf '%p ' | sed -e 's/ $//g')"
+	all_dev_csv="$(find /mnt/extracted/data/ -type f -name '*dev.csv' -printf '%p ' | sed -e 's/ $//g')"
+	all_test_csv="$(find /mnt/extracted/data/ -type f -name '*test.csv' -printf '%p ' | sed -e 's/ $//g')"
 
 	mkdir -p /mnt/sources/feature_cache || true
 
@@ -44,9 +44,9 @@ pushd $HOME/ds/
 
 	# Assume that if we have best_dev_checkpoint then we have trained correctly
 	if [ ! -f "/mnt/checkpoints/best_dev_checkpoint" ]; then
-		python -u DeepSpeech.py \
-			--show_progressbar True \
-			--train_cudnn True \
+		python -m coqui_stt_training.train \
+			--show_progressbar true \
+			--train_cudnn true \
 			${AMP_FLAG} \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -68,9 +68,9 @@ pushd $HOME/ds/
 	fi;
 
 	if [ ! -f "/mnt/models/test_output.json" ]; then
-		python -u DeepSpeech.py \
-			--show_progressbar True \
-			--train_cudnn True \
+		python -m coqui_stt_training.evaluate \
+			--show_progressbar true \
+			--train_cudnn true \
 			${AMP_FLAG} \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
@@ -83,26 +83,9 @@ pushd $HOME/ds/
 			--test_output_file /mnt/models/test_output.json
 	fi;
 
-	if [ ! -f "/mnt/models/output_graph.pb" ]; then
-		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tensorflow"
-		python -u DeepSpeech.py \
-			--alphabet_config_path /mnt/models/alphabet.txt \
-			--scorer_path /mnt/lm/kenlm.scorer \
-			--feature_cache /mnt/sources/feature_cache \
-			--n_hidden ${N_HIDDEN} \
-			--beam_width ${BEAM_WIDTH} \
-			--lm_alpha ${LM_ALPHA} \
-			--lm_beta ${LM_BETA} \
-			--load_evaluate "best" \
-			--checkpoint_dir /mnt/checkpoints/ \
-			--export_dir /mnt/models/ \
-			${ALL_METADATA_FLAGS} \
-			${METADATA_MODEL_NAME_FLAG}
-	fi;
-
 	if [ ! -f "/mnt/models/output_graph.tflite" ]; then
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -u DeepSpeech.py \
+		python -m coqui_stt_training.export \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -135,9 +118,5 @@ pushd $HOME/ds/
 			--export_zip \
 			${ALL_METADATA_FLAGS} \
 			${METADATA_MODEL_NAME_FLAG}
-	fi;
-
-	if [ ! -f "/mnt/models/output_graph.pbmm" ]; then
-		./convert_graphdef_memmapped_format --in_graph=/mnt/models/output_graph.pb --out_graph=/mnt/models/output_graph.pbmm
 	fi;
 popd
