@@ -1,11 +1,11 @@
-# Groupe de travail pour STT en français
+# Groupe de travail pour la reconaissance vocal du français (STT-fr)
 
 ## Table des matières
 
 - [Introduction](#introduction)
 - [Canaux](#canaux)
 - [Participer à STT](#Participer-à-STT)
-- [Processus pour STT fr](#Processus-pour-STT-fr)
+- [Processus pour STT-fr](#Processus-pour-STT-fr)
 - [Bien démarrer](#bien-démarrer)
   - [Installation et configuration](#Installation-et-configuration)
   - [Où trouver des jeux de données](#Ou-trouver-des-jeux-de-données)
@@ -21,23 +21,23 @@ Vous trouverez dans ce document l'ensemble des instructions, documentations... p
 
 # Introduction
 
-> STT: Speech-To-Tech
+> STT: Speech-To-Text
 
-> Ou l'art de transcire la voix en text.
+> Ou l'art de transcire la voix en texte.
 
 Le projet CommonVoice FR utilise 🐸-STT ([Coqui-STT](https://github.com/coqui-ai/STT)), l'implémentation suivante du projet [DeepSpeech](https://github.com/mozilla/DeepSpeech) de la fondation Mozilla, pour continuer transformer les ondes sonores en texte à partir de l'algorithme d'apprentissage proposé par la communauté.
 
 # Canaux
 
-- **STT** utilise le canal **Common Voice FR** sur [Matrix](https://github.com/mozfr/besogne/wiki/Matrix) pour la discussion et la coordination : [s’inscrire au groupe](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
+- **STT-fr** utilise le canal **Common Voice FR** sur [Matrix](https://github.com/mozfr/besogne/wiki/Matrix) pour la discussion et la coordination : [s’inscrire au groupe](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
 - [Discourse Mozilla Francophone](https://discourse.mozilla.org/c/voice/fr)
 - [Discourse Mozilla (anglais)](https://discourse.mozilla.org/c/voice)
 
 # Participer à STT _pour tous_
 
-Le projet **STT** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice#Participer-à-Common-Voice).
+Le projet **STT-fr** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice#Participer-à-Common-Voice).
 
-# Processus pour STT fr
+# Processus pour STT-fr
 
 C'est un processus en deux grosses étapes :
 
@@ -66,14 +66,14 @@ C'est un processus en deux grosses étapes :
 
 ### Convertir la parole vers le texte
 
-- [convertir la parole en texte](https://hacks.mozilla.org/2018/09/speech-recognition-STT/)
+- [convertir la parole en texte](https://hacks.mozilla.org/2018/09/speech-recognition-deepspeech/)
 
 ### Utiliser STT pour vos projets web
 
-- [C#](https://github.com/mozilla/STT/tree/master/examples/net_framework)
-- [NodeJS](https://github.com/mozilla/STT/tree/master/examples/nodejs_wav)
-- [Streaming NodeJS](https://github.com/mozilla/STT/tree/master/examples/ffmpeg_vad_streaming)
-- [transcription (streaming) Python](https://github.com/mozilla/STT/tree/master/examples/vad_transcriber)
+- [C#](https://github.com/coqui-ai/STT/tree/master/examples/net_framework)
+- [NodeJS](https://github.com/coqui-ai/STT/tree/master/examples/nodejs_wav)
+- [Streaming NodeJS](https://github.com/coqui-ai/STT/tree/master/examples/ffmpeg_vad_streaming)
+- [transcription (streaming) Python](https://github.com/coqui-ai/STT/tree/master/examples/vad_transcriber)
 
 # Projets disponibles
 

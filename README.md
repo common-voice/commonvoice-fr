@@ -8,7 +8,7 @@ Vous trouverez les informations pour :
 
 - [Common Voice fr](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice)
 
-- [STT fr](https://github.com/Common-Voice/commonvoice-fr/tree/master/STT)
+- [STT-fr](https://github.com/Common-Voice/commonvoice-fr/tree/master/STT)
 
 - [Data](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice-Data)
 
