@@ -1,4 +1,7 @@
-FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
+# >> START Build STT
+
+# Need devel version cause we need /usr/include/cudnn.h
+FROM nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04 as stt-build
 
 ARG ds_repo=mozilla/DeepSpeech
 ARG ds_branch=4270e22fe02f4fa7430a721ac917f6353c36f455
