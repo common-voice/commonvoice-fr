@@ -2,7 +2,7 @@
 
 set -xe
 
-pushd $HOME/ds/
+pushd $STT
 	pip install Unidecode==1.0.23
 
 	if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
