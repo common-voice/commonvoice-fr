@@ -169,11 +169,35 @@ FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3 AS kenlm-build
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=87e85e66c99ceff1fab2500a7c60c01da7315eec
 
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+    build-essential cmake libboost-system-dev \
+    libboost-thread-dev libboost-program-options-dev \
+    libboost-test-dev libeigen3-dev zlib1g-dev \
+    libbz2-dev liblzma-dev && \
+    rm -rf /var/lib/apt/lists/*
+
+# Build KenLM to generate new scorers
+WORKDIR /code
+
+RUN git clone https://github.com/${kenlm_repo} && \
+    cd /code/kenlm && \
+	git checkout $kenlm_branch && \
+    mkdir -p build && \
+    cd build && \
+    cmake .. && \
+    make -j $(nproc) || \
+    ( echo "ERROR: Failed to build KenLM."; \
+    echo "ERROR: Make sure you update the kenlm submodule on host before building this Dockerfile."; \
+    echo "ERROR: $ cd STT; git submodule update --init kenlm"; \
+    exit 1; )
+
 # Final image for training
 FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
 
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
+
 # Model parameters
 ARG model_language=fr
 ENV MODEL_LANGUAGE=$model_language
@@ -238,43 +262,60 @@ ENV DEBIAN_FRONTEND noninteractive
 
 ENV HOMEDIR /home/trainer
 
-ENV VIRTUAL_ENV_NAME ds-train
+ENV VIRTUAL_ENV_NAME stt-train
 ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
-ENV DS_DIR $HOMEDIR/ds
+ENV DS_DIR $HOMEDIR/stt
 ENV CC_DIR $HOMEDIR/cc
 
-ENV DS_BRANCH=$ds_branch
-ENV DS_SHA1=$ds_sha1
+ENV DS_BRANCH=$stt_branch
+ENV DS_SHA1=$stt_sha1
 
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
 RUN env
 
 # Get basic packages
-RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
-    build-essential \
-    curl \
-    wget \
-    git \
-    ffmpeg \
-    python3 \
-    python3-pip \
-    ca-certificates \
-    cmake \
-    libboost-all-dev \
-    zlib1g-dev \
-    libbz2-dev \
-    liblzma-dev \
-    pkg-config \
-    g++ \
-    virtualenv \
-    unzip \
-    pixz \
-    sox \
-    sudo \
-    libsox-fmt-all \
-    locales locales-all \
-    xz-utils
+# We need to purge python3-xdg because
+# it's breaking STT install later with
+# errors about setuptools
+#
+RUN apt-get -qq update && \
+    apt-get -qq install -y --no-install-recommends \
+        build-essential \
+        curl \
+        wget \
+        git \
+        ffmpeg \
+        python3 \
+        python3-pip \
+        ca-certificates \
+        cmake \
+        libboost-all-dev \
+        zlib1g-dev \
+        libbz2-dev \
+        liblzma-dev \
+        libmagic-dev \
+        libopus0 \
+        libopusfile0 \
+        libsndfile1 \
+        pkg-config \
+        g++ \
+        virtualenv \
+        unzip \
+        pixz \
+        sox \
+        sudo \
+        libsox-fmt-all \
+        locales locales-all \
+        xz-utils && \
+    apt-get purge -y python3-xdg && \
+    rm -rf /var/lib/apt/lists/*
+
+RUN update-alternatives --install /usr/bin/pip pip /usr/bin/pip3 1
+RUN update-alternatives --install /usr/bin/python python /usr/bin/python3 1
+
+# Make sure pip and its dependencies are up-to-date
+RUN pip3 install --upgrade pip wheel setuptools
 
 RUN groupadd -g $GID trainer && \
     adduser --system --uid $UID --group trainer
@@ -303,9 +344,9 @@ ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:$PATH
 
 RUN git clone https://github.com/$ds_repo.git $DS_DIR
 
-WORKDIR $DS_DIR
+WORKDIR $STT_DIR
 
-RUN git checkout $ds_branch
+RUN git checkout $stt_branch
 
 WORKDIR $DS_DIR
 
