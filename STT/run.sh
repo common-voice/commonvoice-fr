@@ -35,3 +35,7 @@ train.sh
 evaluate_lm.sh
 
 package.sh
+
+echo "Everything went according to plan!"
+
+echo "Excellent."
