@@ -1,11 +1,11 @@
-# Groupe de travail pour DeepSpeech en français
+# Groupe de travail pour STT en français
 
 ## Table des matières
 
 - [Introduction](#introduction)
 - [Canaux](#canaux)
-- [Participer à DeepSpeech](#Participer-à-DeepSpeech)
-- [Processus pour DeepSpeech fr](#Processus-pour-deepSpeech-fr)
+- [Participer à STT](#Participer-à-STT)
+- [Processus pour STT fr](#Processus-pour-STT-fr)
 - [Bien démarrer](#bien-démarrer)
   - [Installation et configuration](#Installation-et-configuration)
   - [Où trouver des jeux de données](#Ou-trouver-des-jeux-de-données)
@@ -13,7 +13,7 @@
   - [La parole vers le texte et le texte vers la parole](#La-parole-vers-le-texte-et-le-texte-vers-la-parole)
 - [Exemples](#exemples)
   - [Convertir la parole vers le texte](#Convertir-la-parole-vers-le-texte)
-  - [Utiliser DeepSpeech pour vos projets webs](#Utiliser-DeepSpeech-pour-vos-projets-web)
+  - [Utiliser STT pour vos projets webs](#Utiliser-STT-pour-vos-projets-web)
 - [Projets disponibles](#projets-disponibles)
 
 
@@ -21,29 +21,33 @@ Vous trouverez dans ce document l'ensemble des instructions, documentations... p
 
 # Introduction
 
-Le projet DeepSpeech est un autre projet de la fondation Mozilla, pour transformer les ondes sonores en texte à partir de l'algorithme d'apprentissage proposé par [Common Voice](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice).
+> STT (Speech-To-Text): Ou la tâche de transcrire de la voix en text.
+
+CommonVoice-FR utilise 🐸-STT [(Coqui-STT)](https://github.com/coqui-ai/STT), un projet reprenant l'implémentation de DeepSpeech par Mozilla, afin de continuer à transformer les ondes sonores en texte à partir de l'algorithme d'apprentissage maintenu par la communauté.
 
 # Canaux
 
-- **DeepSpeech** utilise le canal **Common Voice fr** sur [Matrix](https://github.com/mozfr/besogne/wiki/Matrix) pour la discussion et la coordination : [s’inscrire au groupe](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
+- **CommonVoice** utilise le canal **CommonVoice FR** sur [Matrix](https://github.com/mozfr/besogne/wiki/Matrix) pour la discussion et la coordination : [s’inscrire au groupe CommonVoice FR](https://chat.mozilla.org/#/room/#common-voice-fr:mozilla.org) 
 - [Discourse Mozilla Francophone](https://discourse.mozilla.org/c/voice/fr)
-- [Discourse Mozilla (anglais)](https://discourse.mozilla.org/c/voice)
+- [Discourse Mozilla Anglophone](https://discourse.mozilla.org/c/voice)
 
-# Participer à DeepSpeech _pour tous_
+# Participer à STT _pour tous_
 
-Le projet **DeepSpeech** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice#Participer-à-Common-Voice).
+Le projet **STT** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice#Participer-à-Common-Voice).
 
-# Processus pour DeepSpeech fr
+# Processus pour STT fr
 
 C'est un processus en deux grosses étapes :
 
 1. Vous aidez à convertir du texte vers l'audio et l'audio en texte
 
+2. Vous aidez à entertainer les modèles avec votre puissance de calcul
+
 ## Bien démarrer
 
 ### Installation et configuration
 
-- Les détails d'installation et de configuration sont disponible à la page de [Contribution](https://github.com/Common-Voice/commonvoice-fr/blob/master/DeepSpeech/CONTRIBUTING.md)
+- Les détails d'installation et de configuration sont disponible à la page de [Contribution](https://github.com/Common-Voice/commonvoice-fr/blob/master/STT/CONTRIBUTING.md)
 
 ### Où trouver des jeux de données
 
@@ -51,7 +55,7 @@ C'est un processus en deux grosses étapes :
 
 ### Speech-to-Text et Text-to-Speech
 
-- [Modèles DeepSpeech](https://github.com/mozilla/deepspeech)
+- [Modèles STT](https://github.com/mozilla/STT)
 
 ### La parole vers le texte et le texte vers la parole (en fr)
 
@@ -62,19 +66,19 @@ C'est un processus en deux grosses étapes :
 
 ### Convertir la parole vers le texte
 
-- [convertir la parole en texte](https://hacks.mozilla.org/2018/09/speech-recognition-deepspeech/)
+- [convertir la parole en texte](https://hacks.mozilla.org/2018/09/speech-recognition-STT/)
 
-### Utiliser DeepSpeech pour vos projets web
+### Utiliser STT pour vos projets web
 
-- [C#](https://github.com/mozilla/DeepSpeech/tree/master/examples/net_framework)
-- [NodeJS](https://github.com/mozilla/DeepSpeech/tree/master/examples/nodejs_wav)
-- [Streaming NodeJS](https://github.com/mozilla/DeepSpeech/tree/master/examples/ffmpeg_vad_streaming)
-- [transcription (streaming) Python](https://github.com/mozilla/DeepSpeech/tree/master/examples/vad_transcriber)
+- [C#](https://github.com/mozilla/STT/tree/master/examples/net_framework)
+- [NodeJS](https://github.com/mozilla/STT/tree/master/examples/nodejs_wav)
+- [Streaming NodeJS](https://github.com/mozilla/STT/tree/master/examples/ffmpeg_vad_streaming)
+- [transcription (streaming) Python](https://github.com/mozilla/STT/tree/master/examples/vad_transcriber)
 
 # Projets disponibles
 
-- [mycroft](https://mycroft.ai/blog/deepspeech-update/) – assistant vocal open source
+- [mycroft](https://mycroft.ai/blog/STT-update/) – assistant vocal open source
 - [Leon](https://getleon.ai/) – assistant personnel open source
-- [Baidu](https://github.com/mozilla/deepspeech) – implémentation d'une architecture DeepSpeech
+- [Baidu](https://github.com/mozilla/STT) – implémentation d'une architecture STT
 - [Snips](https://snips.ai/) – assistant vocal décentralisé et privé
 - FusionPBX – système de commutation téléphonique installé dans une organisation privée et servant à transcrire des messages téléphoniques
