@@ -1,6 +1,6 @@
-# Common Voice – DeepSpeech
+# Common Voice – STT
 
-Centralisation d'outils de construction et de nettoyage de jeux de données pour Common Voice et de production de modèles DeepSpeech en français.
+Centralisation d'outils de construction et de nettoyage de jeux de données pour Common Voice et de production de modèles de reconaissance vocale en français.
 
 # Sur le dépôt
 
