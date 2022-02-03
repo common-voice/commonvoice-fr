@@ -104,7 +104,7 @@ pushd $STT_DIR
 	if [ ! -f "/mnt/models/${MODEL_EXPORT_ZIP_LANG}.zip" ]; then
 		mkdir /mnt/models/${MODEL_EXPORT_ZIP_LANG} || rm /mnt/models/${MODEL_EXPORT_ZIP_LANG}/*
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -u DeepSpeech.py \
+		python -u coqui_stt_training.export \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
