@@ -275,6 +275,8 @@ ENV STT_SHA1=$stt_sha1
 
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
+ENV LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$STT_DIR:$KENLM_BIN:${STT_DIR}/data/lm"
+
 RUN env
 
 # Get basic packages
@@ -393,7 +395,7 @@ RUN python setup.py install
 RUN pip install num2words zipfile38
 
 # For MLS importer
-RUN ${VIRTUAL_ENV}/bin/python -m pip install git+https://github.com/TeamPyOgg/PyOgg
+RUN python -m pip install git+https://github.com/TeamPyOgg/PyOgg
 
 WORKDIR $HOMEDIR
 
