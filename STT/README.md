@@ -23,7 +23,7 @@ Vous trouverez dans ce document l'ensemble des instructions, documentations... p
 
 > STT: Speech-To-Text
 
-> Ou l'art de transcire la voix en texte.
+> Ou l'art de transcrire la voix en texte.
 
 Le projet CommonVoice FR utilise 🐸-STT ([Coqui-STT](https://github.com/coqui-ai/STT)), l'implémentation suivante du projet [DeepSpeech](https://github.com/mozilla/DeepSpeech) de la fondation Mozilla, pour continuer transformer les ondes sonores en texte à partir de l'algorithme d'apprentissage proposé par la communauté.
 
