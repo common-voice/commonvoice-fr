@@ -96,7 +96,7 @@ pushd $STT_DIR
 			--load_evaluate "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/ \
-			--export_tflite \
+			--export_tflite true \
 			${ALL_METADATA_FLAGS} \
 			${METADATA_MODEL_NAME_FLAG}
 	fi;
@@ -115,7 +115,7 @@ pushd $STT_DIR
 			--load_evaluate "best" \
 			--checkpoint_dir /mnt/checkpoints/ \
 			--export_dir /mnt/models/${MODEL_EXPORT_ZIP_LANG} \
-			--export_zip \
+			--export_zip true \
 			${ALL_METADATA_FLAGS} \
 			${METADATA_MODEL_NAME_FLAG}
 	fi;
