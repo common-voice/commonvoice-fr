@@ -16,9 +16,9 @@ pushd $STT_DIR
 		cp -a /transfer-checkpoint/* /mnt/checkpoints/
 	fi;
 
-	EARLY_STOP_FLAG="--early_stop"
+	EARLY_STOP_FLAG="--early_stop true"
 	if [ "${EARLY_STOP}" = "0" ]; then
-		EARLY_STOP_FLAG="--noearly_stop"
+		EARLY_STOP_FLAG="--early_stop false"
 	fi;
 
 	AMP_FLAG=""
