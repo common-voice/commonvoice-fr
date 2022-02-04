@@ -248,6 +248,9 @@ ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 ARG english_compatible=0
 ENV ENGLISH_COMPATIBLE=$english_compatible
 
+ARG lm_add_excluded_max_sec=0
+ENV LM_ADD_EXCLUDED_MAX_SEC=$lm_add_excluded_max_sec
+
 ARG uid=999
 ENV UID=$uid
 

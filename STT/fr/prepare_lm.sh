@@ -21,9 +21,13 @@ if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 	> wiki_fr_lower_accents.txt
 fi;
 
+if [ "${LM_ADD_EXCLUDED_MAX_SEC}" = "1" ] && [ ! -f "excluded_max_sec_lm.txt" ]; then
+	cat _*_lm.txt | tr '[:upper:]' '[:lower:]' > excluded_max_sec_lm.txt
+fi;
+
 # Remove special-char <s> that will make KenLM tools choke:
 # kenlm/lm/builder/corpus_count.cc:179 in void lm::builder::{anonymous}::ComplainDisallowed(StringPiece, lm::WarningAction&) threw FormatLoadException.
 # Special word <s> is not allowed in the corpus.  I plan to support models containing <unk> in the future.  Pass --skip_symbols to convert these symbols to whitespace.
 if [ ! -f "sources_lm.txt" ]; then
-	cat wiki_fr_lower.txt debats-assemblee-nationale.txt | sed -e 's/<s>/ /g' > sources_lm.txt
+	cat wiki_fr_lower.txt debats-assemblee-nationale.txt excluded_max_sec_lm.txt | sed -e 's/<s>/ /g' > sources_lm.txt
 fi;
