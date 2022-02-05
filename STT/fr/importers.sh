@@ -6,14 +6,14 @@ set -xe
 
 ../import_lingualibre.sh
 
-import_ts.sh
+./import_ts.sh
 
 import_slr57.sh
 
 ../import_m-ailabs.sh
 
-import_atthack.sh
+./import_atthack.sh
 
-import_mls.sh
+./import_mls.sh
 
-#import_ccpmf.sh
+#./import_ccpmf.sh
