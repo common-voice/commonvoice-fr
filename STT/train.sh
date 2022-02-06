@@ -23,7 +23,7 @@ pushd $STT_DIR
 
 	AMP_FLAG=""
 	if [ "${AMP}" = "1" ]; then
-		AMP_FLAG="--automatic_mixed_precision True"
+		AMP_FLAG="--automatic_mixed_precision true"
 	fi;
 
 	# Check metadata existence
