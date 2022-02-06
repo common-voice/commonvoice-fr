@@ -13,7 +13,11 @@ pushd $STT_DIR
 	# only package
 	if [ -f "/transfer-checkpoint/checkpoint" -a ! -f "/mnt/models/output_graph.tflite" ]; then
 		echo "Using checkpoint from ${TRANSFER_CHECKPOINT}"
-		cp -a /transfer-checkpoint/* /mnt/checkpoints/
+		# we can now use --load_checkpoint_dir instead
+		#cp -a /transfer-checkpoint/* /mnt/checkpoints/
+		LOAD_CHECKPOINT_FROM="--load_checkpoint_dir /transfer-checkpoint --save_checkpoint_dir /mnt/checkpoints"
+	else;
+		LOAD_CHECKPOINT_FROM="--checkpoint_dir /mnt/checkpoints/"
 	fi;
 
 	EARLY_STOP_FLAG="--early_stop true"
@@ -64,7 +68,7 @@ pushd $STT_DIR
 			--lm_alpha ${LM_ALPHA} \
 			--lm_beta ${LM_BETA} \
 			${EARLY_STOP_FLAG} \
-			--checkpoint_dir /mnt/checkpoints/
+			${LOAD_CHECKPOINT_FROM}
 	fi;
 
 	if [ ! -f "/mnt/models/test_output.json" ]; then
