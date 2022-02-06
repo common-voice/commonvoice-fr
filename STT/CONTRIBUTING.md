@@ -30,6 +30,7 @@ Several parameters can be customized:
  - `lm_evaluate_range`, if non empty, this will perform a LM alpha/beta evaluation
     the parameter is expected to be of the form: `lm_alpha_max`,`lm_beta_max`,`n_trials`.
     See upstream `lm_optimizer.py` for details
+ - `lm_add_excluded_max_sec` set to 1 if you want the importers to add excluded, too long, sentences to the manguage model.
 
 Some parameters for the model itself:
  - `batch_size` to specify the batch size for training, dev and test dataset
