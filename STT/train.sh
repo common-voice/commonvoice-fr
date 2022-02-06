@@ -16,7 +16,7 @@ pushd $STT_DIR
 		# we can now use --load_checkpoint_dir instead
 		#cp -a /transfer-checkpoint/* /mnt/checkpoints/
 		LOAD_CHECKPOINT_FROM="--load_checkpoint_dir /transfer-checkpoint --save_checkpoint_dir /mnt/checkpoints"
-	else;
+	else
 		LOAD_CHECKPOINT_FROM="--checkpoint_dir /mnt/checkpoints/"
 	fi;
 
