@@ -3,10 +3,10 @@
 # Need devel version cause we need /usr/include/cudnn.h
 FROM nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04 as stt-build
 
-#STT#1.1.0
+#STT#1.2.0
 ARG stt_repo=coqui-ai/STT
-ARG stt_branch=f3605e23cb01a7e86c4d46f09070098a506fac4e
-ARG stt_sha1=f3605e23cb01a7e86c4d46f09070098a506fac4e
+ARG stt_branch=49beaf51ebade3dc2f9d0985ee0041d389bd2dfd
+ARG stt_sha1=49beaf51ebade3dc2f9d0985ee0041d389bd2dfd
 
 # Get basic packages
 RUN apt-get update && apt-get install -y --no-install-recommends \
