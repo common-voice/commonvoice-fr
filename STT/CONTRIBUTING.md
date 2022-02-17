@@ -101,7 +101,7 @@ The `mount` option is really important: this is where intermediate files, traini
 well as final model files will be produced.
 
 ```
-$ docker run --tty --runtime=nvidia --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt <docker-image-id>
+$ docker run --it --gpus=all --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt commonvoice-fr
 ```
 
 Training parameters can be changed at runtime as well using environment variables.
