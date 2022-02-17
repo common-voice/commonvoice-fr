@@ -77,8 +77,7 @@ containing the checkpoint to use. Ready-to-use means directly re-usable checkpoi
 files, with proper `checkpoint` descriptor as TensorFlow produces.
 
 To use an existing checkpoint, just ensure the `docker run` includes a mount such as:
-`type=bind,src=PATH/TO/CHECKPOINTS,dst=/transfer-checkpoint`. Upon running, data
-will be copied from that place.
+`type=bind,src=PATH/TO/CHECKPOINTS,dst=/transfer-checkpoint`. Upon running, the checkpoints will be automatically used as starting point.
 
 ## Hardware
 
