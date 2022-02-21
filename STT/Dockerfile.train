@@ -358,7 +358,7 @@ RUN curl -L https://github.com/coqui-ai/STT/releases/download/v0.9.3/convert_gra
     chmod +x convert_graphdef_memmapped_format
 
 # Pre-built native client tools
-RUN curl -L https://github.com/coqui-ai/STT/releases/download/v1.1.0/native_client.tflite.Linux.tar.xz | tar -xJvf - && rm ${STT_DIR}/libsox.so.* 
+RUN curl -L https://github.com/coqui-ai/STT/releases/download/v1.2.0/native_client.tflite.Linux.tar.xz | tar -xJvf - && rm ${STT_DIR}/libsox.so.* 
 
 # Install STT
 # No need for the decoder since we did it earlier
