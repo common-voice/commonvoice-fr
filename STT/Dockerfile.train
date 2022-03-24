@@ -3,10 +3,10 @@
 # Need devel version cause we need /usr/include/cudnn.h
 FROM nvidia/cuda:10.1-cudnn7-devel-ubuntu18.04 as stt-build
 
-#STT#1.2.0
+#STT#1.3.0
 ARG stt_repo=coqui-ai/STT
-ARG stt_branch=49beaf51ebade3dc2f9d0985ee0041d389bd2dfd
-ARG stt_sha1=49beaf51ebade3dc2f9d0985ee0041d389bd2dfd
+ARG stt_branch=148fa74387a2082555dabd243193c6ca8cb19016
+ARG stt_sha1=148fa74387a2082555dabd243193c6ca8cb19016
 
 # Get basic packages
 RUN apt-get update && apt-get install -y --no-install-recommends \
@@ -358,7 +358,7 @@ RUN curl -L https://github.com/coqui-ai/STT/releases/download/v0.9.3/convert_gra
     chmod +x convert_graphdef_memmapped_format
 
 # Pre-built native client tools
-RUN curl -L https://github.com/coqui-ai/STT/releases/download/v1.2.0/native_client.tflite.Linux.tar.xz | tar -xJvf - && rm ${STT_DIR}/libsox.so.* 
+RUN curl -L https://github.com/coqui-ai/STT/releases/download/v1.3.0/native_client.tflite.Linux.tar.xz | tar -xJvf - && rm ${STT_DIR}/libsox.so.* 
 
 # Install STT
 # No need for the decoder since we did it earlier
