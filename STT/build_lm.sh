@@ -33,7 +33,7 @@ pushd ${STT_DIR}
 	fi;
 
 	./generate_scorer_package \
-		--alphabet /mnt/models/alphabet.txt \
+		--checkpoint /mnt/models/ \
 		--lm /mnt/lm/lm.binary \
 		--vocab /mnt/lm/vocab-${LM_TOP_K}.txt \
 		--package /mnt/lm/kenlm.scorer \
