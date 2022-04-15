@@ -164,7 +164,7 @@ RUN cd native_client/python && make NUM_PROCESSES=$(nproc) bindings
 # << END Build STT
 
 # Build KenLM
-FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3 AS kenlm-build
+FROM nvcr.io/nvidia/tensorflow:22.02-tf1-py3 AS kenlm-build
 
 ARG kenlm_repo=kpu/kenlm
 ARG kenlm_branch=87e85e66c99ceff1fab2500a7c60c01da7315eec
@@ -194,6 +194,7 @@ RUN git clone https://github.com/${kenlm_repo} && \
 
 # Final image for training
 FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
+#FROM nvcr.io/nvidia/tensorflow:22.02-tf1-py3
 
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
@@ -399,6 +400,9 @@ RUN pip install num2words zipfile38
 
 # For MLS importer
 RUN python -m pip install git+https://github.com/TeamPyOgg/PyOgg
+
+# Tmp fix for webdataset
+RUN python -m pip install torch torchvision torchaudio
 
 WORKDIR $HOMEDIR
 
