@@ -252,6 +252,9 @@ ENV ENGLISH_COMPATIBLE=$english_compatible
 ARG lm_add_excluded_max_sec=0
 ENV LM_ADD_EXCLUDED_MAX_SEC=$lm_add_excluded_max_sec
 
+ARG log_level=1
+ENV LOG_LEVEL=$log_level
+
 ARG uid=999
 ENV UID=$uid
 

@@ -67,6 +67,7 @@ pushd $STT_DIR
 			--dropout_rate ${DROPOUT} \
 			--lm_alpha ${LM_ALPHA} \
 			--lm_beta ${LM_BETA} \
+			--log_level=${LOG_LEVEL} \
 			${EARLY_STOP_FLAG} \
 			${LOAD_CHECKPOINT_FROM}
 	fi;
