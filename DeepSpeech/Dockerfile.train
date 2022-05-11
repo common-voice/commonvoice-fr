@@ -1,8 +1,8 @@
-FROM nvidia/cuda:10.0-cudnn7-runtime-ubuntu18.04
+FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3
 
-ARG ds_repo=mozilla/DeepSpeech
-ARG ds_branch=4270e22fe02f4fa7430a721ac917f6353c36f455
-ARG ds_sha1=4270e22fe02f4fa7430a721ac917f6353c36f455
+ARG ds_repo=coqui-ai/STT
+ARG ds_branch=148fa74387a2082555dabd243193c6ca8cb19016
+ARG ds_sha1=148fa74387a2082555dabd243193c6ca8cb19016
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
 ARG kenlm_repo=kpu/kenlm
@@ -99,6 +99,10 @@ RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
     zlib1g-dev \
     libbz2-dev \
     liblzma-dev \
+    libmagic-dev \
+    libopus0 \
+    libopusfile0 \
+    libsndfile1 \
     pkg-config \
     g++ \
     virtualenv \
@@ -127,7 +131,7 @@ RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $ke
     && mkdir -p build \
     && cd build \
     && EIGEN3_ROOT=$HOMEDIR/eigen-eigen-07105f7124f9 cmake .. \
-    && make -j
+    && make -j $(nproc)
 
 WORKDIR $HOMEDIR
 
@@ -144,17 +148,26 @@ RUN git checkout $ds_branch
 WORKDIR $DS_DIR
 
 RUN pip install --upgrade pip==20.0.2 wheel==0.34.2 setuptools==46.1.3
-RUN DS_NOTENSORFLOW=y pip install --upgrade --force-reinstall -e .
+
+# Build CTC decoder first, to avoid clashes on incompatible versions upgrades
+RUN cd native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
+RUN pip install --upgrade native_client/ctcdecode/dist/*.whl
+
+# Install STT
+# No need for the decoder since we did it earlier
+# TensorFlow GPU should already be installed on the base image,
+# and we don't want to break that
+RUN DS_NODECODER=y DS_NOTENSORFLOW=y pip install --upgrade --force-reinstall -e .
+
 RUN pip install --upgrade tensorflow-gpu==1.15.4
 
-RUN TASKCLUSTER_SCHEME="https://community-tc.services.mozilla.com/api/index/v1/task/project.deepspeech.tensorflow.pip.%(branch_name)s.%(arch_string)s/artifacts/public/%(artifact_name)s" python util/taskcluster.py \
-	--target="$(pwd)" \
-	--artifact="convert_graphdef_memmapped_format" \
-	--branch="r1.15" && chmod +x convert_graphdef_memmapped_format
+# Tool to convert output graph for inference
+RUN curl -L https://github.com/coqui-ai/STT/releases/download/v0.9.3/convert_graphdef_memmapped_format.linux.amd64.zip | funzip > convert_graphdef_memmapped_format && \
+    chmod +x convert_graphdef_memmapped_format
 
-RUN python util/taskcluster.py \
-	--target="$(pwd)" \
-	--artifact="native_client.tar.xz" && ls -hal generate_scorer_package 
+# Pre-built native client tools
+RUN LATEST_STABLE_RELEASE=$(curl "https://api.github.com/repos/coqui-ai/STT/releases/latest" | python -c 'import sys; import json; print(json.load(sys.stdin)["tag_name"])') \
+ bash -c 'curl -L https://github.com/coqui-ai/STT/releases/download/${LATEST_STABLE_RELEASE}/native_client.tflite.Linux.tar.xz | tar -xJvf -' && ls -hal generate_scorer_package 
 
 WORKDIR $HOMEDIR
 
@@ -179,7 +192,10 @@ RUN pip install modin[all]
 RUN python setup.py install
 
 # For CC PMF importer
-RUN pip install num2words
+RUN pip install num2words zipfile38
+
+# For webdataset (only for testing)
+RUN python -m pip install torch torchvision torchaudio
 
 WORKDIR $HOMEDIR
 
