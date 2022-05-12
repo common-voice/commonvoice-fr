@@ -3,7 +3,6 @@
 set -xe
 
 pushd ${STT_DIR}
-	pip install Unidecode==1.0.23
 
 	if [ "${ENGLISH_COMPATIBLE}" = "1" ]; then
 		IMPORT_AS_ENGLISH="--english-compatible"
