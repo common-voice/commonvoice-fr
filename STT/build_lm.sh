@@ -23,7 +23,7 @@ pushd ${STT_DIR}
 			--input_txt /mnt/extracted/sources_lm.txt \
 			--output_dir /mnt/lm/ \
 			--top_k ${LM_TOP_K} \
-			--kenlm_bins ${STT_DIR}/kenlm/build/bin/ \
+			--kenlm_bins ${HOMEDIR}/kenlm/build/bin/ \
 			--arpa_order 4 \
 			--max_arpa_memory "85%" \
 			--arpa_prune "0|0|1" \
