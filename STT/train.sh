@@ -9,7 +9,7 @@ pushd ${STT_DIR}
 
 	mkdir -p /mnt/sources/feature_cache || true
 
-        # Do not overwrite checkpoint file if model already exist: we will likely
+	# Do not overwrite checkpoint file if model already exist: we will likely
 	# only package
 	if [ -f "/transfer-checkpoint/checkpoint" -a ! -f "/mnt/models/output_graph.tflite" ]; then
 		echo "Using checkpoint from ${TRANSFER_CHECKPOINT}"
@@ -41,8 +41,8 @@ pushd ${STT_DIR}
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_contact_info $METADATA_CONTACT_INFO"
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_license $METADATA_LICENSE"
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_language $METADATA_LANGUAGE"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_min_ds_version $METADATA_MIN_DS_VERSION"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_max_ds_version $METADATA_MAX_DS_VERSION"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_min_stt_version $METADATA_MIN_STT_VERSION"
+	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_max_stt_version $METADATA_MAX_STT_VERSION"
 	# I never managed to use META_DESCRIPTION with STT no matter what I tried...
 	#ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_description $METADATA_DESCRIPTION"
 
