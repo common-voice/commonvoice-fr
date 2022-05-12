@@ -132,7 +132,7 @@ USER trainer
 
 WORKDIR $HOMEDIR
 
-RUN git clone https://github.com/$kenlm_repo.git ${STT_DIR}/kenlm && cd ${STT_DIR}/kenlm && git checkout $kenlm_branch \
+RUN git clone https://github.com/$kenlm_repo.git ${HOMEDIR}/kenlm && cd ${HOMEDIR}/kenlm && git checkout $kenlm_branch \
     && mkdir -p build \
     && cd build \
     && cmake .. \
@@ -144,11 +144,11 @@ RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
 
 ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:$PATH
 
-RUN git clone https://github.com/$ds_repo.git $STT_DIR
+RUN git clone https://github.com/$stt_repo.git $STT_DIR
 
-WORKDIR $$STT_DIR
+WORKDIR $STT_DIR
 
-RUN git checkout $ds_branch
+RUN git checkout $stt_branch
 
 WORKDIR $STT_DIR
 
@@ -201,7 +201,7 @@ RUN python -m pip install torch torchvision torchaudio
 
 WORKDIR $HOMEDIR
 
-ENV PATH="${STT_DIR}/kenlm/build/bin/:$PATH"
+ENV PATH="${HOMEDIR}/kenlm/build/bin/:$PATH"
 
 # Copy now so that docker build can leverage caches
 COPY --chown=trainer:trainer . $HOMEDIR/
