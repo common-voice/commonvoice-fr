@@ -6,30 +6,31 @@ This model is available under the terms of the MPL 2.0 (see `LICENSE.txt`).
 
 ## Prerequistes:
 
-* Ensure you have a running setup of `NVIDIA Docker`
-* Prepare a host directory with enough space for training / producing intermediate data (100GB ?).
-* Ensure it's writable by `trainer` (uid 999) user (defined in the Dockerfile).
+* Ensure you have a running setup of [`Docker` working with GPU support](https://docs.docker.com/config/containers/resource_constraints/#gpu)
+* Prepare a host directory with enough space for training / producing intermediate data (>=400GB).
+* Ensure it's writable by `trainer` (uid 999 by default) user (defined in the Dockerfile).
 * For Common Voice dataset, please make sure you have downloaded the dataset prior to running (behind email)
-  Place `cv-corpus-9.0-2022-04-27-fr` inside your host directory, in a `sources/` subdirectory.
+  Place `cv-corpus-*-fr` inside your host directory, in a `sources/` subdirectory.
 
 ## Build the image:
 
-```
-$ docker build -f Dockerfile.train .
+```zsh
+docker build [--build-arg ARG=val] -f Dockerfile.train -t commonvoice-fr .
 ```
 
 Several parameters can be customized:
- - `ds_repo` to fetch DeepSpeech from a different repo than upstream
- - `ds_branch` to checkout a specific branch / commit
- - `ds_sha1` commit to pull from when installing pre-built binaries
+ - `stt_repo` to fetch STT from a different repo than upstream
+ - `stt_branch` to checkout a specific branch / commit
+ - `stt_sha1` commit to pull from when installing pre-built binaries
  - `kenlm_repo`, `kenlm_branch` for the same parameters for KenLM
  - `english_compatible` set to 1 if you want the importers to be run in
     "English-compatible mode": this will affect behavior such as english
     alphabet file can be re-used, when doing transfer-learning from English
     checkpoints for example.
- - lm_evaluate_range, if non empty, this will perform a LM alpha/beta evaluation
-    the parameter is expected to be of the form: lm_alpha_max,lm_beta_max,n_trials.
-    See upstream lm_optimizer.py for details
+ - `lm_evaluate_range`, if non empty, this will perform a LM alpha/beta evaluation
+    the parameter is expected to be of the form: `lm_alpha_max`,`lm_beta_max`,`n_trials`.
+    See upstream `lm_optimizer.py` for details
+ - `lm_add_excluded_max_sec` set to 1 if you want the importers to add excluded, too long, sentences to the language model.
 
 Some parameters for the model itself:
  - `batch_size` to specify the batch size for training, dev and test dataset
@@ -61,29 +62,37 @@ disable it when making a release.
 Default values should provide good experience.
 
 The default batch size has been tested with this mix of dataset:
- - Common Voice French, released on june 2020
+ - Common Voice French, released on january 2022
  - TrainingSpeech as of 2019, april 11th
  - Lingua Libre as of 2020, april 25th
  - OpenSLR 57: African Accented French
+ - OpenSLR 94: Att-HACK
  - M-AILABS french dataset
+ - MLS French dataset
 
-### Transfer learning from English
+### Transfer learning from pre-trained checkpoints
 
 To perform transfer learning, please download and make a read-to-use directory
 containing the checkpoint to use. Ready-to-use means directly re-usable checkpoints
 files, with proper `checkpoint` descriptor as TensorFlow produces.
 
 To use an existing checkpoint, just ensure the `docker run` includes a mount such as:
-`type=bind,src=PATH/TO/CHECKPOINTS,dst=/transfer-checkpoint`. Upon running, data
-will be copied from that place.
+`type=bind,src=PATH/TO/CHECKPOINTS,dst=/transfer-checkpoint`. Upon running, the checkpoints will be automatically used as starting point.
 
 ## Hardware
 
 Training successfull on:
- - Threadripper 3950X + 128GB RAM
- - 2x RTX 2080 Ti
- - Debian Sid, kernel 5.7, driver 440.100
- - With ~1000h of audio, one training epoch takes ~23min (Automatic Mixed Precision enabled)
+
+> - Threadripper 3950X + 128GB RAM
+> - 2x RTX 2080 Ti
+> - Debian Sid, kernel 5.7, driver 440.100
+
+> - Threadripper 2920X + 96GB RAM
+> - 2x Titan RTX
+> - Manjaro (Arch) Linux, kernel 5.15.32-1-MANJARO, driver 510.60.02
+
+
+With ~1000h of audio, one training epoch takes ~23min (Automatic Mixed Precision enabled)
 
 ## Run the image:
 
@@ -91,7 +100,7 @@ The `mount` option is really important: this is where intermediate files, traini
 well as final model files will be produced.
 
 ```
-$ docker run --tty --runtime=nvidia --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt <docker-image-id>
+$ docker run --it --gpus=all --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt commonvoice-fr
 ```
 
 Training parameters can be changed at runtime as well using environment variables.

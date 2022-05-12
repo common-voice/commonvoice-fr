@@ -1,8 +1,8 @@
 FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3
 
-ARG ds_repo=coqui-ai/STT
-ARG ds_branch=148fa74387a2082555dabd243193c6ca8cb19016
-ARG ds_sha1=148fa74387a2082555dabd243193c6ca8cb19016
+ARG stt_repo=coqui-ai/STT
+ARG stt_branch=148fa74387a2082555dabd243193c6ca8cb19016
+ARG stt_sha1=148fa74387a2082555dabd243193c6ca8cb19016
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
 ARG kenlm_repo=kpu/kenlm
@@ -58,6 +58,12 @@ ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 ARG english_compatible=0
 ENV ENGLISH_COMPATIBLE=$english_compatible
 
+ARG lm_add_excluded_max_sec=0
+ENV LM_ADD_EXCLUDED_MAX_SEC=$lm_add_excluded_max_sec
+
+ARG log_level=1
+ENV LOG_LEVEL=$log_level
+
 ARG uid=999
 ENV UID=$uid
 
@@ -72,13 +78,13 @@ ENV DEBIAN_FRONTEND noninteractive
 
 ENV HOMEDIR /home/trainer
 
-ENV VIRTUAL_ENV_NAME ds-train
+ENV VIRTUAL_ENV_NAME stt-train
 ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
-ENV DS_DIR $HOMEDIR/ds
+ENV STT_DIR $HOMEDIR/stt
 ENV CC_DIR $HOMEDIR/cc
 
-ENV DS_BRANCH=$ds_branch
-ENV DS_SHA1=$ds_sha1
+ENV STT_BRANCH=$stt_branch
+ENV STT_SHA1=$stt_sha1
 
 ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
@@ -126,7 +132,7 @@ USER trainer
 
 WORKDIR $HOMEDIR
 
-RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch \
+RUN git clone https://github.com/$kenlm_repo.git ${STT_DIR}/kenlm && cd ${STT_DIR}/kenlm && git checkout $kenlm_branch \
     && mkdir -p build \
     && cd build \
     && cmake .. \
@@ -138,15 +144,15 @@ RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
 
 ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:$PATH
 
-RUN git clone https://github.com/$ds_repo.git $DS_DIR
+RUN git clone https://github.com/$ds_repo.git $STT_DIR
 
-WORKDIR $DS_DIR
+WORKDIR $$STT_DIR
 
 RUN git checkout $ds_branch
 
-WORKDIR $DS_DIR
+WORKDIR $STT_DIR
 
-RUN pip install --upgrade pip==20.0.2 wheel==0.34.2 setuptools==46.1.3
+RUN pip install --upgrade pip~=21.3.1 wheel~=0.37.0 setuptools~=59.6.0
 
 # Build CTC decoder first, to avoid clashes on incompatible versions upgrades
 RUN cd native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
@@ -180,7 +186,8 @@ COPY --chown=trainer:trainer corpora.patch $CC_DIR
 RUN patch -p1 < corpora.patch
 
 # error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
-RUN pip install parso==0.8.1
+# modin has this wierd strict but implicit dependency with pip 21: swifter<1.1.0
+RUN pip install parso==0.8.3 'swifter<1.1.0'
 
 RUN pip install modin[all]
 
@@ -194,7 +201,7 @@ RUN python -m pip install torch torchvision torchaudio
 
 WORKDIR $HOMEDIR
 
-ENV PATH="$HOMEDIR/kenlm/build/bin/:$PATH"
+ENV PATH="${STT_DIR}/kenlm/build/bin/:$PATH"
 
 # Copy now so that docker build can leverage caches
 COPY --chown=trainer:trainer . $HOMEDIR/

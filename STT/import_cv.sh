@@ -7,7 +7,7 @@ if [ -z "${CV_RELEASE_FILENAME}" ]; then
 	exit 1
 fi;
 
-pushd $HOME/ds/
+pushd ${STT_DIR}
 	if [ ! -f "/mnt/sources/${CV_RELEASE_FILENAME}" ]; then
 		exit 1
 	fi;
