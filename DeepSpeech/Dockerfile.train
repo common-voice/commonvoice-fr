@@ -103,6 +103,7 @@ RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
     libopus0 \
     libopusfile0 \
     libsndfile1 \
+    libeigen3-dev \
     pkg-config \
     g++ \
     virtualenv \
@@ -125,13 +126,11 @@ USER trainer
 
 WORKDIR $HOMEDIR
 
-RUN wget -O - https://gitlab.com/libeigen/eigen/-/archive/3.2.8/eigen-3.2.8.tar.bz2 | tar xj
-
 RUN git clone https://github.com/$kenlm_repo.git && cd kenlm && git checkout $kenlm_branch \
     && mkdir -p build \
     && cd build \
-    && EIGEN3_ROOT=$HOMEDIR/eigen-eigen-07105f7124f9 cmake .. \
-    && make -j $(nproc)
+    && cmake .. \
+    && make -j
 
 WORKDIR $HOMEDIR
 
@@ -160,10 +159,6 @@ RUN pip install --upgrade native_client/ctcdecode/dist/*.whl
 RUN DS_NODECODER=y DS_NOTENSORFLOW=y pip install --upgrade --force-reinstall -e .
 
 RUN pip install --upgrade tensorflow-gpu==1.15.4
-
-# Tool to convert output graph for inference
-RUN curl -L https://github.com/coqui-ai/STT/releases/download/v0.9.3/convert_graphdef_memmapped_format.linux.amd64.zip | funzip > convert_graphdef_memmapped_format && \
-    chmod +x convert_graphdef_memmapped_format
 
 # Pre-built native client tools
 RUN LATEST_STABLE_RELEASE=$(curl "https://api.github.com/repos/coqui-ai/STT/releases/latest" | python -c 'import sys; import json; print(json.load(sys.stdin)["tag_name"])') \
