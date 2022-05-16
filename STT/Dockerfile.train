@@ -1,4 +1,4 @@
-FROM nvcr.io/nvidia/tensorflow:20.06-tf1-py3
+FROM nvcr.io/nvidia/tensorflow:22.02-tf1-py3
 
 ARG stt_repo=coqui-ai/STT
 ARG stt_branch=148fa74387a2082555dabd243193c6ca8cb19016
@@ -112,7 +112,7 @@ RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
     libeigen3-dev \
     pkg-config \
     g++ \
-    virtualenv \
+    python3-venv \
     unzip \
     pixz \
     sox \
@@ -140,7 +140,7 @@ RUN git clone https://github.com/$kenlm_repo.git ${HOMEDIR}/kenlm && cd ${HOMEDI
 
 WORKDIR $HOMEDIR
 
-RUN virtualenv --python=/usr/bin/python3 $VIRTUAL_ENV_NAME
+RUN python3 -m venv --system-site-packages $VIRTUAL_ENV_NAME
 
 ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:$PATH
 
@@ -164,7 +164,7 @@ RUN pip install --upgrade native_client/ctcdecode/dist/*.whl
 # and we don't want to break that
 RUN DS_NODECODER=y DS_NOTENSORFLOW=y pip install --upgrade --force-reinstall -e .
 
-RUN pip install --upgrade tensorflow-gpu==1.15.4
+#RUN pip install --upgrade tensorflow-gpu==1.15.4
 
 # Pre-built native client tools
 RUN LATEST_STABLE_RELEASE=$(curl "https://api.github.com/repos/coqui-ai/STT/releases/latest" | python -c 'import sys; import json; print(json.load(sys.stdin)["tag_name"])') \
@@ -186,7 +186,7 @@ COPY --chown=trainer:trainer corpora.patch $CC_DIR
 RUN patch -p1 < corpora.patch
 
 # error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
-# modin has this wierd strict but implicit dependency with pip 21: swifter<1.1.0
+# modin has this wierd strict but implicit dependency: swifter<1.1.0
 RUN pip install parso==0.8.3 'swifter<1.1.0'
 
 RUN pip install modin[all]
