@@ -58,9 +58,9 @@ pushd ${STT_DIR}
 			--train_files ${all_train_csv} \
 			--dev_files ${all_dev_csv} \
 			--test_files ${all_test_csv} \
-			--train_batch_size ${BATCH_SIZE} \
-			--dev_batch_size ${BATCH_SIZE} \
-			--test_batch_size ${BATCH_SIZE} \
+			--train_batch_size ${TRAIN_BATCH_SIZE} \
+			--dev_batch_size ${DEV_BATCH_SIZE} \
+			--test_batch_size ${TEST_BATCH_SIZE} \
 			--n_hidden ${N_HIDDEN} \
 			--epochs ${EPOCHS} \
 			--learning_rate ${LEARNING_RATE} \
@@ -80,7 +80,7 @@ pushd ${STT_DIR}
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--test_files ${all_test_csv} \
-			--test_batch_size ${BATCH_SIZE} \
+			--test_batch_size ${TEST_BATCH_SIZE} \
 			--n_hidden ${N_HIDDEN} \
 			--lm_alpha ${LM_ALPHA} \
 			--lm_beta ${LM_BETA} \
