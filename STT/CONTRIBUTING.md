@@ -14,8 +14,8 @@ This model is available under the terms of the MPL 2.0 (see `LICENSE.txt`).
 
 ## Build the image:
 
-```zsh
-docker build [--build-arg ARG=val] -f Dockerfile.train -t commonvoice-fr .
+```
+$ docker build [--build-arg ARG=val] -f Dockerfile.train -t commonvoice-fr .
 ```
 
 Several parameters can be customized:
@@ -33,7 +33,9 @@ Several parameters can be customized:
  - `lm_add_excluded_max_sec` set to 1 if you want the importers to add excluded, too long, sentences to the language model.
 
 Some parameters for the model itself:
- - `batch_size` to specify the batch size for training, dev and test dataset
+ - `train_batch_size` to specify the batch size for training dataset
+ - `dev_batch_size` to specify the batch size for dev dataset
+ - `test_batch_size` to specify the batch size for test dataset
  - `epoch` to specify the number of epochs to run training for
  - `learning_rate` to define the learning rate of the network
  - `dropout` to define the dropout applied
@@ -100,7 +102,7 @@ The `mount` option is really important: this is where intermediate files, traini
 well as final model files will be produced.
 
 ```
-$ docker run --it --gpus=all --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt commonvoice-fr
+$ docker run --it --gpus=all --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt --env VAR=foo commonvoice-fr
 ```
 
 Training parameters can be changed at runtime as well using environment variables.
