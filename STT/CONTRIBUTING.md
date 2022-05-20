@@ -30,7 +30,7 @@ Several parameters can be customized:
  - `lm_evaluate_range`, if non empty, this will perform a LM alpha/beta evaluation
     the parameter is expected to be of the form: `lm_alpha_max`,`lm_beta_max`,`n_trials`.
     See upstream `lm_optimizer.py` for details
- - `lm_add_excluded_max_sec` set to 1 if you want the importers to add excluded, too long, sentences to the language model.
+ - `lm_add_excluded_max_sec` set to 1 adds excluded sentences that were too long to the language model.
 
 Some parameters for the model itself:
  - `train_batch_size` to specify the batch size for training dataset
@@ -64,7 +64,7 @@ disable it when making a release.
 Default values should provide good experience.
 
 The default batch size has been tested with this mix of dataset:
- - Common Voice French, released on january 2022
+ - Common Voice French, released on april 2022 (v9.0)
  - TrainingSpeech as of 2019, april 11th
  - Lingua Libre as of 2020, april 25th
  - OpenSLR 57: African Accented French
