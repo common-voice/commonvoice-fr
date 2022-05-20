@@ -3,9 +3,9 @@
 set -xe
 
 pushd ${STT_DIR}
-	all_train_csv="$(find /mnt/extracted/data/ -type f -name '*train.csv' -printf '%p,' | sed -e 's/,$//g')"
-	all_dev_csv="$(find /mnt/extracted/data/ -type f -name '*dev.csv' -printf '%p,' | sed -e 's/,$//g')"
-	all_test_csv="$(find /mnt/extracted/data/ -type f -name '*test.csv' -printf '%p,' | sed -e 's/,$//g')"
+	all_train_csv="$(find /mnt/extracted/data/ -type f -name '*train.csv' -printf '%p ' | sed -e 's/ $//g')"
+	all_dev_csv="$(find /mnt/extracted/data/ -type f -name '*dev.csv' -printf '%p ' | sed -e 's/ $//g')"
+	all_test_csv="$(find /mnt/extracted/data/ -type f -name '*test.csv' -printf '%p ' | sed -e 's/ $//g')"
 
 	mkdir -p /mnt/sources/feature_cache || true
 
@@ -46,7 +46,7 @@ pushd ${STT_DIR}
 	# I never managed to use META_DESCRIPTION with STT no matter what I tried...
 	#ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_description $METADATA_DESCRIPTION"
 
-# Assume that if we have best_dev_checkpoint then we have trained correctly
+	# Assume that if we have best_dev_checkpoint then we have trained correctly
 	if [ ! -f "/mnt/checkpoints/best_dev_checkpoint" ]; then
 		python -m coqui_stt_training.train \
 			--show_progressbar true \

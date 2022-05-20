@@ -13,13 +13,13 @@ ARG model_language=fr
 ENV MODEL_LANGUAGE=$model_language
 
 # Training hyper-parameters
-ARG train_batch_size=64
+ARG train_batch_size=32
 ENV TRAIN_BATCH_SIZE=$train_batch_size
 
 ARG dev_batch_size=32
 ENV DEV_BATCH_SIZE=$dev_batch_size
 
-ARG test_batch_size=16
+ARG test_batch_size=32
 ENV TEST_BATCH_SIZE=$test_batch_size
 
 ARG n_hidden=2048
@@ -158,7 +158,7 @@ RUN git checkout $stt_branch
 
 WORKDIR $STT_DIR
 
-RUN pip install --upgrade pip~=21.3.1 wheel~=0.37.0 setuptools~=59.6.0
+RUN pip install --upgrade pip wheel setuptools
 
 # Build CTC decoder first, to avoid clashes on incompatible versions upgrades
 RUN cd native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
@@ -203,7 +203,7 @@ RUN python setup.py install
 RUN pip install num2words zipfile38
 
 # For webdataset (only for testing)
-RUN python -m pip install torch torchvision torchaudio
+RUN python -m pip install torch torchvision torchaudio 'numpy<1.19.0,>=1.16.0' 'pandas<1.4.0dev0,>=1.0'
 
 WORKDIR $HOMEDIR
 
