@@ -170,8 +170,6 @@ RUN pip install --upgrade native_client/ctcdecode/dist/*.whl
 # and we don't want to break that
 RUN DS_NODECODER=y DS_NOTENSORFLOW=y pip install --upgrade --force-reinstall -e .
 
-#RUN pip install --upgrade tensorflow-gpu==1.15.4
-
 # Pre-built native client tools
 RUN LATEST_STABLE_RELEASE=$(curl "https://api.github.com/repos/coqui-ai/STT/releases/latest" | python -c 'import sys; import json; print(json.load(sys.stdin)["tag_name"])') \
  bash -c 'curl -L https://github.com/coqui-ai/STT/releases/download/${LATEST_STABLE_RELEASE}/native_client.tflite.Linux.tar.xz | tar -xJvf -' && ls -hal generate_scorer_package 
@@ -203,7 +201,10 @@ RUN python setup.py install
 RUN pip install num2words zipfile38
 
 # For webdataset (only for testing)
-RUN python -m pip install torch torchvision torchaudio 'numpy<1.19.0,>=1.16.0' 'pandas<1.4.0dev0,>=1.0'
+RUN python -m pip install torch torchvision torchaudio 
+
+# Fix numpy and pandas version
+RUN python -m pip install 'numpy<1.19.0,>=1.16.0' 'pandas<1.4.0dev0,>=1.0'
 
 WORKDIR $HOMEDIR
 
