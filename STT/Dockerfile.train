@@ -73,6 +73,13 @@ ENV ENGLISH_COMPATIBLE=$english_compatible
 ARG lm_add_excluded_max_sec=0
 ENV LM_ADD_EXCLUDED_MAX_SEC=$lm_add_excluded_max_sec
 
+# To fine-tune using your own data
+ARG cv_personal_first_url=
+ENV CV_PERSONAL_FIRST_URL=$cv_personal_first_url
+
+ARG cv_personal_second_url=
+ENV CV_PERSONAL_SECOND_URL=$cv_personal_second_url
+
 ARG log_level=1
 ENV LOG_LEVEL=$log_level
 

@@ -45,6 +45,8 @@ Some parameters for the model itself:
  - `duplicate_sentence_count` to control if Common Voice dataset might need
     to be regenerated with more duplicated allowed using Corpora Creator
     **USE WITH CAUTION**
+ - `cv_personal_first_url` to download only your own voice instead of all Common Voice dataset (first url)
+ - `cv_personal_second_url` to download only your own voice instead of all Common Voice dataset (second url)
 
 Language specific things needs to be under a language directory. Have a look at `fr/` for an example:
  - `importers.sh`: script to run all the importers
