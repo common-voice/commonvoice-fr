@@ -52,6 +52,12 @@ ENV EARLY_STOP=$early_stop
 ARG amp=0
 ENV AMP=$amp
 
+# Skipping batch test to avoid hanging processes
+# Should be set to 0 by default once STT#2195 is fixed
+# See https://github.com/coqui-ai/STT/issues/2195 for more details
+ARG skip_batch_test=1
+ENV SKIP_BATCH_TEST=$skip_batch_test
+
 # Dataset management
 ARG duplicate_sentence_count=1
 ENV DUPLICATE_SENTENCE_COUNT=$duplicate_sentence_count

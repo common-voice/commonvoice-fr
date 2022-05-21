@@ -41,6 +41,7 @@ Some parameters for the model itself:
  - `dropout` to define the dropout applied
  - `lm_alpha`, `lm_beta` to control language model alpha and beta parameters
  - `amp` to enable or disable automatic mixed precision
+ - `skip_batch_test` to skip or not batch test completely
  - `duplicate_sentence_count` to control if Common Voice dataset might need
     to be regenerated with more duplicated allowed using Corpora Creator
     **USE WITH CAUTION**
@@ -102,7 +103,7 @@ The `mount` option is really important: this is where intermediate files, traini
 well as final model files will be produced.
 
 ```
-$ docker run --it --gpus=all --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt --env VAR=foo commonvoice-fr
+$ docker run --it --gpus=all --mount type=bind,src=PATH/TO/HOST/DIRECTORY,dst=/mnt --env TRAIN_BATCH_SIZE=64 commonvoice-fr
 ```
 
 Training parameters can be changed at runtime as well using environment variables.

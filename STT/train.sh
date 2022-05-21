@@ -29,6 +29,11 @@ pushd ${STT_DIR}
 		AMP_FLAG="--automatic_mixed_precision true"
 	fi;
 
+	SKIP_BATCH_TEST_FLAG=""
+	if [ "${SKIP_BATCH_TEST}" = "1" ]; then
+		SKIP_BATCH_TEST_FLAG="--skip_batch_test true"
+	fi;
+
 	# Check metadata existence
 	if [ -z "$METADATA_AUTHOR" ]; then
 		echo "Please fill-in metadata informations"
@@ -69,7 +74,8 @@ pushd ${STT_DIR}
 			--lm_beta ${LM_BETA} \
 			--log_level=${LOG_LEVEL} \
 			${EARLY_STOP_FLAG} \
-			${LOAD_CHECKPOINT_FROM}
+			${LOAD_CHECKPOINT_FROM} \
+			${SKIP_BATCH_TEST_FLAG}
 	fi;
 
 	if [ ! -f "/mnt/models/test_output.json" ]; then
