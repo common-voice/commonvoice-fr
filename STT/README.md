@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Canaux](#canaux)
-- [Participer à STT](#Participer-à-STT)
+- [Participer à CommonVoice-fr](#Participer-à-STT)
 - [Processus pour CommonVoice-fr](#Processus-pour-CommonVoice-fr)
 - [Bien démarrer](#bien-démarrer)
   - [Installation et configuration](#Installation-et-configuration)
@@ -33,7 +33,7 @@ Le projet CommonVoice FR utilise 🐸-STT ([Coqui-STT](https://github.com/coqui-
 - [Discourse Mozilla Francophone](https://discourse.mozilla.org/c/voice/fr)
 - [Discourse Mozilla (anglais)](https://discourse.mozilla.org/c/voice)
 
-# Participer à STT _pour tous_
+# Participer à CommonVoice _pour tous_
 
 Le projet **CommonVoice-fr** utilise des jeux de données du projet **Common Voice fr**, vous pouvez aider à faire grandir cette base de données : [Participer à Common Voice](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice#Participer-à-Common-Voice).
 
