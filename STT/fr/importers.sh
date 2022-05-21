@@ -2,9 +2,9 @@
 
 set -xe
 
-# If the environment contains urls to downlaod a CV personal archive of the user
+# If the environment contains urls to download a CV personal archive of the user
 # and there is a checkpoint mounted but no output_graph,
-# it's likely we want to downlaod our custom archive as data
+# it's likely we want to downlaod our personal archive as data
 # and start fine-tuning from our checkpoint.
 if [ \
     -f "/transfer-checkpoint/checkpoint" -a \
