@@ -22,7 +22,7 @@ pushd ${STT_DIR}
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
 			--test_files ${all_test_csv} \
-			--test_batch_size ${BATCH_SIZE} \
+			--test_batch_size ${TEST_BATCH_SIZE} \
 			--n_hidden ${N_HIDDEN} \
 			--lm_alpha_max ${LM_ALPHA_MAX} \
 			--lm_beta_max ${LM_BETA_MAX} \

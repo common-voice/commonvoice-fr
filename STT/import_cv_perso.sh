@@ -18,11 +18,11 @@ pushd /mnt/sources
     CV_PERSONAL_SECOND_FILENAME=${CV_PERSONAL_SECOND_URL##*/}
 
 	if [ ! -f "/mnt/sources/${CV_PERSONAL_FIRST_FILENAME}" ]; then
-		wget --continue CV_PERSONAL_FIRST_URL
+		wget --continue $CV_PERSONAL_FIRST_URL
 	fi;
 
-    if [ ! -f "/mnt/sources/${CV_PERSONAL_FIRST_FILENAME}" ]; then
-		wget --continue CV_PERSONAL_FIRST_URL
+    if [ ! -f "/mnt/sources/${CV_PERSONAL_SECOND_FILENAME}" ]; then
+		wget --continue $CV_PERSONAL_SECOND_URL
 	fi;
 popd
 
@@ -33,12 +33,12 @@ pushd ${STT_DIR}
 	fi;
 
 	if [ ! -f "/mnt/extracted/data/cv-${MODEL_LANGUAGE}/clips/train.csv" ]; then
-		mkdir -p /mnt/extracted/data/cv-${MODEL_LANGUAGE}-/ || true
+		mkdir -p /mnt/extracted/data/cv-${MODEL_LANGUAGE}/ || true
 
 		python bin/import_cv_personal.py \
 			${IMPORT_AS_ENGLISH} \
 			${IMPORTERS_VALIDATE_LOCALE} \
 			/mnt/sources/${CV_PERSONAL_FIRST_FILENAME} \
-            /mnt/sources/${CV_PERSONAL_FIRST_FILENAME}
+            /mnt/sources/${CV_PERSONAL_SECOND_FILENAME}
 	fi;
 popd
