@@ -302,4 +302,3 @@ def validate_label(label):
     label = label.lower()
 
     return label if label else None
-    
