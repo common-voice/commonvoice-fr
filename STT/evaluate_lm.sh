@@ -3,7 +3,7 @@
 set -xe
 
 pushd ${STT_DIR}
-	all_test_csv="$(find /mnt/extracted/data/ -type f -name '*test.csv' -printf '%p,' | sed -e 's/,$//g')"
+	all_test_csv="$(find /mnt/extracted/data/ -type f -name '*test.csv' -printf '%p ' | sed -e 's/ $//g')"
 
 	if [ -z "${LM_EVALUATE_RANGE}" ]; then
 		echo "No language model evaluation range, skipping"
@@ -15,7 +15,7 @@ pushd ${STT_DIR}
 		LM_BETA_MAX="$(echo ${LM_EVALUATE_RANGE} |cut -d',' -f2)"
 		LM_N_TRIALS="$(echo ${LM_EVALUATE_RANGE} |cut -d',' -f3)"
 		
-		python -u lm_optimizer.py \
+		python -u ${HOME}/lm_optimizer.py \
 			--show_progressbar true \
 			--train_cudnn true \
 			--alphabet_config_path /mnt/models/alphabet.txt \

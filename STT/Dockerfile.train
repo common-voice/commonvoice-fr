@@ -219,6 +219,9 @@ RUN python -m pip install torch torchvision torchaudio
 # Fix numpy and pandas version
 RUN python -m pip install 'numpy<1.19.0,>=1.16.0' 'pandas<1.4.0dev0,>=1.0'
 
+# Use yaml in bash to get best lm alpha and beta from opt for export
+RUN python -m pip install shyaml
+
 WORKDIR $HOMEDIR
 
 ENV PATH="${HOMEDIR}/kenlm/build/bin/:$PATH"
