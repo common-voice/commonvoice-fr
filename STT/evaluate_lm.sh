@@ -10,7 +10,7 @@ pushd ${STT_DIR}
 		exit 0
 	fi;
 
-	if [ ! -z "${LM_EVALUATE_RANGE}" ]; then
+	if [ ! -z "${LM_EVALUATE_RANGE}" -a ! -f '/mnt/lm/opt_lm.yml' ]; then
 		LM_ALPHA_MAX="$(echo ${LM_EVALUATE_RANGE} |cut -d',' -f1)"
 		LM_BETA_MAX="$(echo ${LM_EVALUATE_RANGE} |cut -d',' -f2)"
 		LM_N_TRIALS="$(echo ${LM_EVALUATE_RANGE} |cut -d',' -f3)"
