@@ -13,6 +13,8 @@ pushd ${STT_DIR}
 		exit 1
 	fi;
 
+
+
 	# Ok, assume we have all the metadata now
 	ALL_METADATA_FLAGS="--export_author_id $METADATA_AUTHOR"
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_model_version $METADATA_MODEL_VERSION"
@@ -26,7 +28,7 @@ pushd ${STT_DIR}
 
 	if [ ! -f "/mnt/models/output_graph.tflite" ]; then
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -m coqui_stt_training.export \
+		${HOME}/tf-venv/bin/python -m coqui_stt_training.export \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \
@@ -45,7 +47,7 @@ pushd ${STT_DIR}
 	if [ ! -f "/mnt/models/${MODEL_EXPORT_ZIP_LANG}.zip" ]; then
 		mkdir /mnt/models/${MODEL_EXPORT_ZIP_LANG} || rm /mnt/models/${MODEL_EXPORT_ZIP_LANG}/*
 		METADATA_MODEL_NAME_FLAG="--export_model_name $METADATA_MODEL_NAME-tflite"
-		python -m coqui_stt_training.export \
+		${HOME}/tf-venv/bin/python -m coqui_stt_training.export \
 			--alphabet_config_path /mnt/models/alphabet.txt \
 			--scorer_path /mnt/lm/kenlm.scorer \
 			--feature_cache /mnt/sources/feature_cache \

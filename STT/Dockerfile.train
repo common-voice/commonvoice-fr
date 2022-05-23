@@ -105,7 +105,7 @@ ENV CC_DIR $HOMEDIR/cc
 ENV STT_BRANCH=$stt_branch
 ENV STT_SHA1=$stt_sha1
 
-ENV PATH="$VIRTUAL_ENV/bin:$PATH"
+ENV PATH="$VIRTUAL_ENV/bin:${HOMEDIR}/tf-venv/bin:$PATH"
 
 RUN env
 
@@ -138,7 +138,15 @@ RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
     libsox-fmt-all \
     ffmpeg \
     locales locales-all \
-    xz-utils
+    xz-utils \
+    software-properties-common
+
+# For exporting using TFLite
+RUN add-apt-repository ppa:deadsnakes/ppa -y
+
+RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
+    python3.7 \
+    python3.7-venv
 
 RUN groupadd -g $GID trainer && \
     adduser --system --uid $UID --group trainer
@@ -161,6 +169,9 @@ WORKDIR $HOMEDIR
 
 RUN python3 -m venv --system-site-packages $VIRTUAL_ENV_NAME
 
+# Venv for upstream tensorflow with tflite api
+RUN python3.7 -m venv ${HOME}/tf-venv
+
 ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:$PATH
 
 RUN git clone https://github.com/$stt_repo.git $STT_DIR
@@ -182,6 +193,9 @@ RUN pip install --upgrade native_client/ctcdecode/dist/*.whl
 # TensorFlow GPU should already be installed on the base image,
 # and we don't want to break that
 RUN DS_NODECODER=y DS_NOTENSORFLOW=y pip install --upgrade --force-reinstall -e .
+
+# Install coqui_stt_training (inside tf-venv) for exporting models using tflite
+RUN DS_NODECODER=y ${HOME}/tf-venv/bin/pip install coqui_stt_training torch
 
 # Pre-built native client tools
 RUN LATEST_STABLE_RELEASE=$(curl "https://api.github.com/repos/coqui-ai/STT/releases/latest" | python -c 'import sys; import json; print(json.load(sys.stdin)["tag_name"])') \
