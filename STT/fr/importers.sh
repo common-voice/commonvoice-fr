@@ -9,8 +9,8 @@ set -xe
 if [ \
     -f "/transfer-checkpoint/checkpoint" -a \
     ! -f "/mnt/models/output_graph.tflite" -a \
-    -z "${CV_PERSONAL_FIRST_URL}" -a \
-    -z "${CV_PERSONAL_SECOND_URL}" \
+    ! -z "${CV_PERSONAL_FIRST_URL}" -a \
+    ! -z "${CV_PERSONAL_SECOND_URL}" \
 ]; then
     ../import_cv_perso.sh
 else
