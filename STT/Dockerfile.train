@@ -195,7 +195,7 @@ RUN pip install --upgrade native_client/ctcdecode/dist/*.whl
 RUN DS_NODECODER=y DS_NOTENSORFLOW=y pip install --upgrade --force-reinstall -e .
 
 # Install coqui_stt_training (inside tf-venv) for exporting models using tflite
-RUN DS_NODECODER=y ${HOME}/tf-venv/bin/pip install coqui_stt_training torch
+RUN ${HOME}/tf-venv/bin/pip install coqui_stt_training torch
 
 # Pre-built native client tools
 RUN LATEST_STABLE_RELEASE=$(curl "https://api.github.com/repos/coqui-ai/STT/releases/latest" | python -c 'import sys; import json; print(json.load(sys.stdin)["tag_name"])') \
