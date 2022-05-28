@@ -66,6 +66,10 @@ ENV DUPLICATE_SENTENCE_COUNT=$duplicate_sentence_count
 ARG lm_evaluate_range=
 ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 
+# Data augmentation
+ARG enable_augments=0
+ENV ENABLE_AUGMENTS=$enable_augments
+
 # Others
 ARG english_compatible=0
 ENV ENGLISH_COMPATIBLE=$english_compatible
