@@ -1,6 +1,6 @@
-# Common Voice – DeepSpeech
+# Common Voice – STT
 
-Centralisation d'outils de construction et de nettoyage de jeux de données pour Common Voice et de production de modèles DeepSpeech en français.
+Centralisation d'outils de construction et de nettoyage de jeux de données pour Common Voice et de production de modèles STT en français.
 
 # Sur le dépôt
 
@@ -8,7 +8,7 @@ Vous trouverez les informations pour :
 
 - [Common Voice fr](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice)
 
-- [DeepSpeech fr](https://github.com/Common-Voice/commonvoice-fr/tree/master/DeepSpeech)
+- [STT fr](https://github.com/Common-Voice/commonvoice-fr/tree/master/STT)
 
 - [Data](https://github.com/Common-Voice/commonvoice-fr/tree/master/CommonVoice-Data)
 
