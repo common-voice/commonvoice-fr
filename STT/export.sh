@@ -13,8 +13,6 @@ pushd ${STT_DIR}
 		exit 1
 	fi;
 
-
-
 	# Ok, assume we have all the metadata now
 	ALL_METADATA_FLAGS="--export_author_id $METADATA_AUTHOR"
 	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_model_version $METADATA_MODEL_VERSION"

@@ -22,23 +22,6 @@ pushd ${STT_DIR}
 		SKIP_BATCH_TEST_FLAG="--skip_batch_test true"
 	fi;
 
-	# Check metadata existence
-	if [ -z "$METADATA_AUTHOR" ]; then
-		echo "Please fill-in metadata informations"
-		exit 1
-	fi;
-
-	# Ok, assume we have all the metadata now
-	ALL_METADATA_FLAGS="--export_author_id $METADATA_AUTHOR"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_model_version $METADATA_MODEL_VERSION"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_contact_info $METADATA_CONTACT_INFO"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_license $METADATA_LICENSE"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_language $METADATA_LANGUAGE"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_min_stt_version $METADATA_MIN_STT_VERSION"
-	ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_max_stt_version $METADATA_MAX_STT_VERSION"
-	# I never managed to use META_DESCRIPTION with STT no matter what I tried...
-	#ALL_METADATA_FLAGS="$ALL_METADATA_FLAGS --export_description $METADATA_DESCRIPTION"
-
 	if [ ! -f "/mnt/models/test_output.json" ]; then
 		python -m coqui_stt_training.evaluate \
 			--show_progressbar true \
