@@ -27,7 +27,7 @@ fi;
 cd ${MODEL_LANGUAGE} && importers.sh && cd ..
 
 generate_alphabet.sh
-
+	
 build_lm.sh
 
 train.sh
@@ -37,6 +37,10 @@ evaluate_lm.sh
 if [ -f "/mnt/lm/opt_lm.yml" -a -z "${LM_ALPHA}" -a -z "${LM_BETA}" ]; then
 	export LM_ALPHA=$(cat /mnt/lm/opt_lm.yml | shyaml get-value lm_alpha)
 	export LM_BETA=$(cat /mnt/lm/opt_lm.yml | shyaml get-value lm_beta)
+
+	rm /mnt/lm/kenlm.scorer
+
+	build_lm.sh
 fi;
 
 test.sh
