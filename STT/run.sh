@@ -34,7 +34,7 @@ train.sh
 
 evaluate_lm.sh
 
-if [ -f "/mnt/lm/opt_lm.yml" -a -z "${LM_ALPHA}" -a -z "${LM_BETA}" ]; then
+if [ -f "/mnt/lm/opt_lm.yml" -a "${LM_ALPHA}" = "0.0" -a "${LM_BETA}" = "0.0" ]; then
 	export LM_ALPHA=$(cat /mnt/lm/opt_lm.yml | shyaml get-value lm_alpha)
 	export LM_BETA=$(cat /mnt/lm/opt_lm.yml | shyaml get-value lm_beta)
 
