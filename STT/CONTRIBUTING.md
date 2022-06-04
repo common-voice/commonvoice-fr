@@ -45,6 +45,7 @@ Some parameters for the model itself:
  - `duplicate_sentence_count` to control if Common Voice dataset might need
     to be regenerated with more duplicated allowed using Corpora Creator
     **USE WITH CAUTION**
+ - `enable_augments` to help the model to better genralise on noisy data by augmenting the data in various ways.
  - `cv_personal_first_url` to download only your own voice instead of all Common Voice dataset (first url)
  - `cv_personal_second_url` to download only your own voice instead of all Common Voice dataset (second url)
 
@@ -83,6 +84,8 @@ files, with proper `checkpoint` descriptor as TensorFlow produces.
 
 To use an existing checkpoint, just ensure the `docker run` includes a mount such as:
 `type=bind,src=PATH/TO/CHECKPOINTS,dst=/transfer-checkpoint`. Upon running, the checkpoints will be automatically used as starting point.
+
+Checkpoints don't typically use automatic mixed precision nor fully-connected layer normalization and mostly use a standard number of hidden layers (2048 unless specified otherwise). So don't change those parameters to fine-tune from them.
 
 ## Hardware
 
