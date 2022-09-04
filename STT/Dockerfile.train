@@ -1,8 +1,8 @@
 FROM nvcr.io/nvidia/tensorflow:22.02-tf1-py3
 
 ARG stt_repo=coqui-ai/STT
-ARG stt_branch=22ca7ba0245b8e57d217db232ac992eb2bc207d8
-ARG stt_sha1=22ca7ba0245b8e57d217db232ac992eb2bc207d8
+ARG stt_branch=fcec06bdd89f6ae68e2599495e8471da5e5ba45e
+ARG stt_sha1=fcec06bdd89f6ae68e2599495e8471da5e5ba45e
 ARG cc_repo=mozilla/CorporaCreator
 ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
 ARG kenlm_repo=kpu/kenlm
