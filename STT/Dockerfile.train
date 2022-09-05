@@ -231,9 +231,6 @@ RUN python setup.py install
 # For CC PMF importer
 RUN pip install num2words zipfile38
 
-# For webdataset (only for testing)
-#RUN python -m pip install torch
-
 # Fix numpy and pandas version
 RUN python -m pip install 'numpy<1.19.0,>=1.16.0' 'pandas<1.4.0dev0,>=1.0'
 
