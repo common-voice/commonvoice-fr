@@ -38,7 +38,9 @@ if [ -f "/mnt/lm/opt_lm.yml" -a "${LM_ALPHA}" = "0.0" -a "${LM_BETA}" = "0.0" ];
 	export LM_ALPHA=$(cat /mnt/lm/opt_lm.yml | shyaml get-value lm_alpha)
 	export LM_BETA=$(cat /mnt/lm/opt_lm.yml | shyaml get-value lm_beta)
 
-	rm /mnt/lm/kenlm.scorer
+	if [ -f "/mnt/lm/kenlm.scorer" ]; then
+	    rm /mnt/lm/kenlm.scorer
+    fi;
 
 	build_lm.sh
 fi;
