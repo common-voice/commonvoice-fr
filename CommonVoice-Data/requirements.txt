@@ -8,7 +8,7 @@ future==0.16.0
 Gutenberg==0.8.0
 idna==2.6
 isodate==0.6.0
-Mako==1.0.7
+Mako==1.2.2
 Markdown==2.6.11
 MarkupSafe==1.0
 nltk==3.3
