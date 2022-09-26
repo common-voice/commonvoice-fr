@@ -47,7 +47,9 @@ C'est un processus en deux grosses étapes :
 
 ### Installation et configuration
 
-- Les détails d'installation et de configuration sont disponible à la page de [Contribution](https://github.com/Common-Voice/commonvoice-fr/blob/master/STT/CONTRIBUTING.md)
+- Les détails d'installation et de configuration sont disponible à la page de [Contribution](https://github.com/Common-Voice/commonvoice-fr/blob/master/STT/CONTRIBUTING.md) (en anglais).
+
+- Pour l'ajustement des modèles francophones sur vos données personnelles de CommonVoice, lisez [cet article sur les forums de Mozilla](https://discourse.mozilla.org/t/entrainer-des-modeles-sur-mesure-avec-commonvoice-fr/97503?u=skeilnet)
 
 ### Où trouver des jeux de données
 
