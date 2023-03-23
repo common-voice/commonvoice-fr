@@ -39,7 +39,7 @@ pushd ${STT_DIR}
 	# ^ This would require to download and prepare noise data
 	ALL_AUGMENT_FLAGS=""
 	if [ "${ENABLE_AUGMENTS}" = "1" ]; then
-		parse_augments_args.sh
+		${$HOMEDIR}/parse_augments_args.sh
 	fi;
 
 	# Assume that if we have best_dev_checkpoint then we have trained correctly
