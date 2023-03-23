@@ -98,7 +98,7 @@ ENV GID=$gid
 
 # Configure random state
 # Required for trainig on newer GPUs such as series 30/40.
-# You safely disable it (set to 0) if your GPU doesn't need it.
+# You can safely disable it (set to 0) if your GPU doesn't need it.
 ARG use_tf_random_gen_state=1
 ENV TF_CUDNN_RESET_RND_GEN_STATE=$use_tf_random_gen_state
 
