@@ -70,7 +70,7 @@ ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 ARG enable_augments=0
 ENV ENABLE_AUGMENTS=$enable_augments
 
-ARG augmentation_arguments=
+ARG augmentation_arguments="augments.txt"
 ENV AUGMENTATION_ARGUMENTS=$augmentation_arguments
 
 # Others

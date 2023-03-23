@@ -45,9 +45,11 @@ Some parameters for the model itself:
  - `duplicate_sentence_count` to control if Common Voice dataset might need
     to be regenerated with more duplicated allowed using Corpora Creator
     **USE WITH CAUTION**
- - `enable_augments` to help the model to better genralise on noisy data by augmenting the data in various ways.
- - `cv_personal_first_url` to download only your own voice instead of all Common Voice dataset (first url)
- - `cv_personal_second_url` to download only your own voice instead of all Common Voice dataset (second url)
+ - `enable_augments` to help the model to better generalise on noisy data by augmenting the data in various ways.
+ - `augmentation_arguments` to set `augments_file` path to give augemntation parameters.
+ - `augments.txt`: `augments_file` containing arguments to use for data argumentation if `enable_augments` is set to 1.
+ - `cv_personal_first_url` to download only your own voice instead of all Common Voice dataset (first url).
+ - `cv_personal_second_url` to download only your own voice instead of all Common Voice dataset (second url).
 
 Language specific things needs to be under a language directory. Have a look at `fr/` for an example:
  - `importers.sh`: script to run all the importers
@@ -57,6 +59,9 @@ Language specific things needs to be under a language directory. Have a look at 
 		parameters, etc.
  - `prepare_lm.sh`: prepare text content for producing external scorer. This
                     should produce a `sources_lm.txt` file.
+
+Miscellaneous parameters:
+ - `use_tf_random_gen_state`: set to 0 if your GPU doesn't need to use Tensorflow's CuDNN random generation to train.
 
 Pay attention to automatic mixed precision: it will speed up the training
 process (by itself and because it allows to increase batch size). However,
