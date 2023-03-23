@@ -1,8 +1,8 @@
 ALL_AUGMENT_FLAGS=""
 
 if [ "${ENABLE_AUGMENTS}" = "1" ]; then
-    if [ -z ${AUGMENTATION_ARGUMENTS} -a -f ${AUGMENTATION_ARGUMENTS} ]; then
-        ALL_AUGMENT_FLAGS=$(cat $AUGMENTATION_ARGUMENTS | tr '\n' ' ')
+    if [ -z ${AUGMENTATION_ARGUMENTS} -a -f "${HOMEDIR}/${AUGMENTATION_ARGUMENTS}" ]; then
+        ALL_AUGMENT_FLAGS=$(cat "${HOMEDIR}/${AUGMENTATION_ARGUMENTS}" | tr '\n' ' ')
     fi
 fi
 
