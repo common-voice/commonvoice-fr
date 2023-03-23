@@ -1,0 +1,9 @@
+ALL_AUGMENT_FLAGS=""
+
+if [ "${ENABLE_AUGMENTS}" = "1" ]; then
+    if [ -z ${AUGMENTATION_ARGUMENTS} -a -f ${AUGMENTATION_ARGUMENTS} ]; then
+        ALL_AUGMENT_FLAGS=$(cat $AUGMENTATION_ARGUMENTS | tr '\n' ' ')
+    fi
+fi
+
+export ALL_AUGMENT_FLAGS="${ALL_AUGMENT_FLAGS}"

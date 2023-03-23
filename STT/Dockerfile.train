@@ -70,6 +70,9 @@ ENV LM_EVALUATE_RANGE=$lm_evaluate_range
 ARG enable_augments=0
 ENV ENABLE_AUGMENTS=$enable_augments
 
+ARG augmentation_arguments=
+ENV AUGMENTATION_ARGUMENTS=$augmentation_arguments
+
 # Others
 ARG english_compatible=0
 ENV ENGLISH_COMPATIBLE=$english_compatible
@@ -92,6 +95,12 @@ ENV UID=$uid
 
 ARG gid=999
 ENV GID=$gid
+
+# Configure random state
+# Required for trainig on newer GPUs such as series 30/40.
+# You safely disable it (set to 0) if your GPU doesn't need it.
+ARG use_tf_random_gen_state=1
+ENV TF_CUDNN_RESET_RND_GEN_STATE=$use_tf_random_gen_state
 
 # Make sure we can extract filenames with UTF-8 chars
 ENV LANG=C.UTF-8
