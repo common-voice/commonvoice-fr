@@ -61,7 +61,7 @@ Language specific things needs to be under a language directory. Have a look at 
                     should produce a `sources_lm.txt` file.
 
 Miscellaneous parameters:
- - `use_tf_random_gen_state`: set to 0 if your GPU doesn't need to use Tensorflow's CuDNN random generation to train.
+ - `use_tf_random_gen_state`: set to 0 if your GPU doesn't need to use Tensorflow's CuDNN random state generation to train.
 
 Pay attention to automatic mixed precision: it will speed up the training
 process (by itself and because it allows to increase batch size). However,
