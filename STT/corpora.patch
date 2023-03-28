@@ -1,0 +1,14 @@
+diff --git a/src/corporacreator/corpora.py b/src/corporacreator/corpora.py
+index 6b89946..8e507b6 100644
+--- a/src/corporacreator/corpora.py
++++ b/src/corporacreator/corpora.py
+@@ -40,6 +40,9 @@ class Corpora:
+         """
+         _logger.info("Creating corpora...")
+         corpora_data = self._parse_tsv()
++        # FIXME: THIS IS WRONG DONT USE VALIDATED.TSV AS A SOURCE
++        if not ("locale" in corpora_data.columns):
++            corpora_data["locale"] = [ self.args.langs[0] ] * len(corpora_data.index)
+         corpora_data[["sentence", "up_votes", "down_votes"]] = corpora_data[
+             ["sentence", "up_votes", "down_votes"]
+         ].swifter.apply(func=lambda arg: common_wrapper(*arg), axis=1)
