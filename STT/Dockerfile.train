@@ -1,0 +1,258 @@
+FROM nvcr.io/nvidia/tensorflow:22.02-tf1-py3
+
+ARG stt_repo=coqui-ai/STT
+ARG stt_branch=fcec06bdd89f6ae68e2599495e8471da5e5ba45e
+ARG stt_sha1=fcec06bdd89f6ae68e2599495e8471da5e5ba45e
+ARG cc_repo=mozilla/CorporaCreator
+ARG cc_sha1=73622cf8399f8e634aee2f0e76dacc879226e3ac
+ARG kenlm_repo=kpu/kenlm
+ARG kenlm_branch=87e85e66c99ceff1fab2500a7c60c01da7315eec
+
+# Model parameters
+ARG model_language=fr
+ENV MODEL_LANGUAGE=$model_language
+
+# Training hyper-parameters
+ARG train_batch_size=64
+ENV TRAIN_BATCH_SIZE=$train_batch_size
+
+ARG dev_batch_size=64
+ENV DEV_BATCH_SIZE=$dev_batch_size
+
+ARG test_batch_size=64
+ENV TEST_BATCH_SIZE=$test_batch_size
+
+ARG n_hidden=2048
+ENV N_HIDDEN=$n_hidden
+
+ARG epochs=40
+ENV EPOCHS=$epochs
+
+ARG learning_rate=0.0001
+ENV LEARNING_RATE=$learning_rate
+
+ARG dropout=0.3
+ENV DROPOUT=$dropout
+
+ARG lm_top_k=500000
+ENV LM_TOP_K=500000
+
+ARG lm_alpha=0.0
+ENV LM_ALPHA=$lm_alpha
+
+ARG lm_beta=0.0
+ENV LM_BETA=$lm_beta
+
+ARG beam_width=500
+ENV BEAM_WIDTH=$beam_width
+
+ARG early_stop=1
+ENV EARLY_STOP=$early_stop
+
+ARG amp=0
+ENV AMP=$amp
+
+# Skipping batch test to avoid hanging processes
+# Should be set to 0 by default once STT#2195 is fixed
+# See https://github.com/coqui-ai/STT/issues/2195 for more details
+ARG skip_batch_test=1
+ENV SKIP_BATCH_TEST=$skip_batch_test
+
+# Dataset management
+ARG duplicate_sentence_count=1
+ENV DUPLICATE_SENTENCE_COUNT=$duplicate_sentence_count
+
+# Should be of the form: lm_alpha_max,lm_beta_max,n_trials
+ARG lm_evaluate_range=
+ENV LM_EVALUATE_RANGE=$lm_evaluate_range
+
+# Data augmentation
+ARG enable_augments=0
+ENV ENABLE_AUGMENTS=$enable_augments
+
+ARG augmentation_arguments="augments.txt"
+ENV AUGMENTATION_ARGUMENTS=$augmentation_arguments
+
+# Others
+ARG english_compatible=0
+ENV ENGLISH_COMPATIBLE=$english_compatible
+
+ARG lm_add_excluded_max_sec=0
+ENV LM_ADD_EXCLUDED_MAX_SEC=$lm_add_excluded_max_sec
+
+# To fine-tune using your own data
+ARG cv_personal_first_url=
+ENV CV_PERSONAL_FIRST_URL=$cv_personal_first_url
+
+ARG cv_personal_second_url=
+ENV CV_PERSONAL_SECOND_URL=$cv_personal_second_url
+
+ARG log_level=1
+ENV LOG_LEVEL=$log_level
+
+ARG uid=999
+ENV UID=$uid
+
+ARG gid=999
+ENV GID=$gid
+
+# Configure random state
+# Required for trainig on newer GPUs such as series 30/40.
+# You can safely disable it (set to 0) if your GPU doesn't need it.
+ARG use_tf_random_gen_state=1
+ENV TF_CUDNN_RESET_RND_GEN_STATE=$use_tf_random_gen_state
+
+# Make sure we can extract filenames with UTF-8 chars
+ENV LANG=C.UTF-8
+
+# Avoid keyboard-configuration step
+ENV DEBIAN_FRONTEND noninteractive
+
+ENV HOMEDIR /home/trainer
+
+ENV VIRTUAL_ENV_NAME stt-train
+ENV VIRTUAL_ENV $HOMEDIR/$VIRTUAL_ENV_NAME
+ENV STT_DIR $HOMEDIR/stt
+ENV CC_DIR $HOMEDIR/cc
+
+ENV STT_BRANCH=$stt_branch
+ENV STT_SHA1=$stt_sha1
+
+ENV PATH="$VIRTUAL_ENV/bin:${HOMEDIR}/tf-venv/bin:$PATH"
+
+RUN env
+
+# Get basic packages
+RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
+    build-essential \
+    curl \
+    wget \
+    git \
+    python3 \
+    python3-pip \
+    ca-certificates \
+    cmake \
+    libboost-all-dev \
+    zlib1g-dev \
+    libbz2-dev \
+    liblzma-dev \
+    libmagic-dev \
+    libopus0 \
+    libopusfile0 \
+    libsndfile1 \
+    libeigen3-dev \
+    pkg-config \
+    g++ \
+    python3-venv \
+    unzip \
+    pixz \
+    sox \
+    sudo \
+    libsox-fmt-all \
+    ffmpeg \
+    locales locales-all \
+    xz-utils \
+    software-properties-common
+
+# For exporting using TFLite
+RUN add-apt-repository ppa:deadsnakes/ppa -y
+
+RUN apt-get -qq update && apt-get -qq install -y --no-install-recommends \
+    python3.7 \
+    python3.7-venv
+
+RUN groupadd -g $GID trainer && \
+    adduser --system --uid $UID --group trainer
+
+RUN echo "trainer ALL=(root) NOPASSWD:ALL" > /etc/sudoers.d/trainer && \
+    chmod 0440 /etc/sudoers.d/trainer
+
+# Below that point, nothing requires being root
+USER trainer
+
+WORKDIR $HOMEDIR
+
+RUN git clone https://github.com/$kenlm_repo.git ${HOMEDIR}/kenlm && cd ${HOMEDIR}/kenlm && git checkout $kenlm_branch \
+    && mkdir -p build \
+    && cd build \
+    && cmake .. \
+    && make -j
+
+WORKDIR $HOMEDIR
+
+RUN python3 -m venv --system-site-packages $VIRTUAL_ENV_NAME
+
+# Venv for upstream tensorflow with tflite api
+RUN python3.7 -m venv ${HOME}/tf-venv
+
+ENV PATH=$HOMEDIR/$VIRTUAL_ENV_NAME/bin:$PATH
+
+RUN git clone https://github.com/$stt_repo.git $STT_DIR
+
+WORKDIR $STT_DIR
+
+RUN git checkout $stt_branch
+
+WORKDIR $STT_DIR
+
+RUN pip install --upgrade pip wheel setuptools
+
+# Build CTC decoder first, to avoid clashes on incompatible versions upgrades
+RUN cd native_client/ctcdecode && make NUM_PROCESSES=$(nproc) bindings
+RUN pip install --upgrade native_client/ctcdecode/dist/*.whl
+
+# Install STT
+# No need for the decoder since we did it earlier
+# TensorFlow GPU should already be installed on the base image,
+# and we don't want to break that
+RUN DS_NODECODER=y DS_NOTENSORFLOW=y pip install --upgrade --force-reinstall -e .
+
+# Install coqui_stt_training (inside tf-venv) for exporting models using tflite
+RUN ${HOME}/tf-venv/bin/pip install -e .
+
+# Pre-built native client tools
+RUN LATEST_STABLE_RELEASE=$(curl "https://api.github.com/repos/coqui-ai/STT/releases/latest" | python -c 'import sys; import json; print(json.load(sys.stdin)["tag_name"])') \
+ bash -c 'curl -L https://github.com/coqui-ai/STT/releases/download/${LATEST_STABLE_RELEASE}/native_client.tflite.Linux.tar.xz | tar -xJvf -' && ls -hal generate_scorer_package 
+
+WORKDIR $HOMEDIR
+
+RUN git clone https://github.com/$cc_repo.git $CC_DIR
+
+WORKDIR $CC_DIR
+
+RUN git checkout $cc_sha1
+
+WORKDIR $CC_DIR
+
+# Copy copora patch
+COPY --chown=trainer:trainer corpora.patch $CC_DIR
+
+RUN patch -p1 < corpora.patch
+
+# error: parso 0.7.0 is installed but parso<0.9.0,>=0.8.0 is required by {'jedi'}
+# modin has this wierd strict but implicit dependency: swifter<1.1.0
+RUN pip install parso==0.8.3 'swifter<1.1.0'
+
+RUN pip install modin[all]
+
+RUN python setup.py install
+
+# For CC PMF importer
+RUN pip install num2words zipfile38
+
+# Fix numpy and pandas version
+RUN python -m pip install 'numpy<1.19.0,>=1.16.0' 'pandas<1.4.0dev0,>=1.0'
+
+# Use yaml in bash to get best lm alpha and beta from opt for export
+RUN python -m pip install shyaml
+
+WORKDIR $HOMEDIR
+
+ENV PATH="${HOMEDIR}/kenlm/build/bin/:$PATH"
+
+# Copy now so that docker build can leverage caches
+COPY --chown=trainer:trainer . $HOMEDIR/
+
+COPY --chown=trainer:trainer ${MODEL_LANGUAGE}/ $HOMEDIR/${MODEL_LANGUAGE}/
+
+ENTRYPOINT "$HOMEDIR/run.sh"
